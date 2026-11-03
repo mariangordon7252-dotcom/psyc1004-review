@@ -1,0 +1,2049 @@
+{
+  "id": 12,
+  "title": "注意、焦虑与情绪调节的个体差异",
+  "subtitle": "Personality 4 · Attentional breadth, trait anxiety, emotion regulation & bistable images",
+  "summary": "本讲从注意广度的个体差异出发，依次讲特质焦虑、Gross 情绪调节模型和对双稳态图像的情绪反应。共 33 个知识点、44 道双语练习。复习抓四组对比：偏好 vs 能力（文化、Himba、ASD）、效率 vs 效果（注意控制理论）、自评 vs 任务测量（特质焦虑与注意控制）、使用倾向 vs 能力（重评与 CBT），再记牢双稳态研究中 IU、CE、AE、NA 的方向和认知共情的独特预测。注意广度的具体测量方法老师说本课不展开；思考题讨论标为课堂补充。",
+  "concepts": [
+    {
+      "id": "L12-C01",
+      "title": "注意即选择：三类视觉注意",
+      "english": "Attention as selection; feature-, object-, space-based attention",
+      "oneLine": "信息太多处理不完，注意就是挑出一部分优先处理、放掉其余部分的选择机制。",
+      "analogy": "像急诊分诊台，先处理排在前面的病人，其余的只能等。",
+      "simpleExample": "自拟例：在人群里找戴红帽子的朋友，你会专门扫视红色的东西，这是基于特征的注意。",
+      "explanation": "任何场景中的信息都多于大脑一次能处理的量，注意负责（多数是非意识地）决定处理什么。课件区分 feature-based、object-based 和 space-based 三类视觉注意。日常常混合使用，本讲讨论的是 space-based，也叫 spatial attention。",
+      "example": "自拟例：在人群里找戴红帽子的朋友，你会专门扫视红色的东西，这是基于特征的注意。",
+      "pitfall": "注意不是“看得更多”，而是“选择”；本讲的个体差异研究都属于空间注意，不是特征注意。",
+      "source": "L12 · Selection and attention · [B0002]",
+      "front": "课件说 attention = ？本讲属于哪类视觉注意？",
+      "back": "Attention = selection；本讲讨论的是 space-based（spatial）attention。",
+      "cardBack": "Attention = selection；本讲讨论的是 space-based（spatial）attention。"
+    },
+    {
+      "id": "L12-C02",
+      "title": "空间注意：转移与广度",
+      "english": "Shifts of attention vs attentional breadth",
+      "oneLine": "空间注意有两种调节方式：移动聚光灯的位置（转移），或改变聚光灯的大小（广度）。",
+      "analogy": "像舞台追光灯：既可以换一个演员照，也可以把光圈开大照整个舞台。",
+      "simpleExample": "自拟例：先盯着朋友的脸，再把注意放宽看整个聚会在发生什么，这是改变注意广度。",
+      "explanation": "Shift 是改变注意在空间中的位置；breadth 是改变注意覆盖的范围大小。注意放宽能覆盖更多区域，但分到每个位置的资源更少，每处的注意优势更弱。",
+      "example": "自拟例：先盯着朋友的脸，再把注意放宽看整个聚会在发生什么，这是改变注意广度。",
+      "pitfall": "把视线从一张脸移到另一张脸是 shift，不是 breadth；广度变宽也有代价，不是“越宽越好”。",
+      "source": "L12 · Spatial attention: shifts and breadth · [B0003]",
+      "front": "空间注意的两种主要调节方式是什么？",
+      "back": "注意转移（改变位置）和注意广度变化（改变范围大小）。",
+      "cardBack": "注意转移（改变位置）和注意广度变化（改变范围大小）。"
+    },
+    {
+      "id": "L12-C03",
+      "title": "偏好 vs 能力",
+      "english": "Preference vs ability",
+      "oneLine": "偏好是没有要求时自己选择怎么用注意；能力是被要求时能做得多好。",
+      "analogy": "像惯用手和能力：你习惯用右手写字，但被要求时左手也可能写得不差。",
+      "simpleExample": "自拟例：自由浏览照片时小李总盯细节（偏好窄）；但被要求概括整张照片时，他也能做得很好（能力正常）。",
+      "explanation": "Preference 测的是任务不强制、不偏向某种方式时的自发选择；ability 测的是任务要求时的调节能力。个体差异更常出现在偏好上。偏好与能力并不必然同向，有某种偏好不代表另一种方式做不好。",
+      "example": "自拟例：自由浏览照片时小李总盯细节（偏好窄）；但被要求概括整张照片时，他也能做得很好（能力正常）。",
+      "pitfall": "不要从偏好推断能力：偏好窄注意不等于不能采用宽注意。",
+      "source": "L12 · Preference vs ability · [B0004]",
+      "front": "注意广度研究中，preference 和 ability 分别指什么？",
+      "back": "Preference 是没有要求时的自发选择；ability 是被要求时能做得多好。",
+      "cardBack": "Preference 是没有要求时的自发选择；ability 是被要求时能做得多好。"
+    },
+    {
+      "id": "L12-C04",
+      "title": "东西方文化：偏好不同，能力无差",
+      "english": "Eastern vs Western cultural background and attentional breadth",
+      "oneLine": "东方文化背景者偏好更宽的注意广度，但采用宽或窄注意的能力与西方背景者没有差异。",
+      "analogy": "像两个人点菜口味不同，但厨艺一样好。",
+      "simpleExample": "自拟例：在中国长大的小王自由看图时更关注整体，但被要求盯细节时，他和在澳大利亚长大的同学表现一样。",
+      "explanation": "课件：Eastern 背景与比 Western 背景更宽的 preferred attentional breadth 相关，但没有能力差异。文化可能影响人自发关注细节还是整体，却不影响在任务要求下调节注意的能力。",
+      "example": "自拟例：在中国长大的小王自由看图时更关注整体，但被要求盯细节时，他和在澳大利亚长大的同学表现一样。",
+      "pitfall": "“东方背景的人更有能力采用宽注意”是错的——差异只在偏好。",
+      "source": "L12 · Eastern vs Western attentional breadth · [B0005]",
+      "front": "东西方文化背景在注意广度上的差异出现在偏好还是能力？",
+      "back": "只在偏好：东方背景偏好更宽，能力无差异。",
+      "cardBack": "只在偏好：东方背景偏好更宽，能力无差异。"
+    },
+    {
+      "id": "L12-C05",
+      "title": "Himba：偏好与能力脱钩",
+      "english": "Himba vs British participants",
+      "oneLine": "Himba 被试偏好更窄的注意广度，却在采用窄和宽注意的能力上都超过英国被试。",
+      "analogy": "像一个平时爱用放大镜看东西的人，被要求时用广角也比别人用得好。",
+      "simpleExample": "自拟例：一组人自由观看时总盯局部，但被要求“看全局”或“看局部”时，两种任务都比另一组做得更好。",
+      "explanation": "Himba 是纳米比亚偏远部落。偏好测量中他们比英国被试更窄；能力测量中，他们采用窄和宽注意广度都更好。这说明偏好与能力相对脱钩，偏好窄并不会损害采用宽注意的能力。",
+      "example": "自拟例：一组人自由观看时总盯局部，但被要求“看全局”或“看局部”时，两种任务都比另一组做得更好。",
+      "pitfall": "Himba 不是“只擅长窄注意”，而是两种能力都更好；这正是反驳“偏好窄就不会宽”的证据。",
+      "source": "L12 · Himba vs British · [B0006]",
+      "front": "Himba 被试的偏好和能力与英国被试相比如何？",
+      "back": "偏好更窄，但采用窄和宽注意广度的能力都更强。",
+      "cardBack": "偏好更窄，但采用窄和宽注意广度的能力都更强。"
+    },
+    {
+      "id": "L12-C06",
+      "title": "ASD：偏好窄，能力无差",
+      "english": "Autism Spectrum Disorder and attentional breadth",
+      "oneLine": "ASD 被试比神经典型者更偏好窄的注意广度，但采用宽或窄注意的能力没有差异。",
+      "analogy": "像习惯坐前排的人，被要求坐后排看全场时也看得清。",
+      "simpleExample": "自拟例：研究中 ASD 组自由看图时更关注局部，但被要求看整体时，他们和对照组做得一样好。",
+      "explanation": "关于 ASD 是否注意广度更窄，文献曾结果不一。用偏好 vs 能力区分后：偏好测量显示 ASD 组偏好更窄；同一批被试的能力测量没有差异。这一区分帮助化解了争论。",
+      "example": "自拟例：研究中 ASD 组自由看图时更关注局部，但被要求看整体时，他们和对照组做得一样好。",
+      "pitfall": "ASD 偏好的是“窄”，不是“宽”；而且差异在偏好，不在能力。",
+      "source": "L12 · Autism Spectrum Disorder · [B0007]",
+      "front": "ASD 人群在注意广度上的偏好和能力有何特点？",
+      "back": "偏好更窄的注意广度；采用宽或窄注意的能力没有差异。",
+      "cardBack": "偏好更窄的注意广度；采用宽或窄注意的能力没有差异。"
+    },
+    {
+      "id": "L12-C07",
+      "title": "开放性：扫视更小、扫描路径更短",
+      "english": "Openness to Experience and eye movements",
+      "oneLine": "开放性高的人看场景时扫视更小、扫描路径更短，提示他们更投入地接触视觉信息。",
+      "analogy": "像逛博物馆时一件件细看展品的人，而不是匆匆扫过整个展厅。",
+      "simpleExample": "自拟例：眼动仪显示开放性高的小陈看风景照时每次眼跳都很短，在各处停留探索更久。",
+      "explanation": "Saccade 是探索场景时眼睛的小跳动，scan path 是眼动之间的距离路径。开放性高者扫视更小、路径更短，被解释为 more absorbed engagement。这与开放性好奇、喜欢沉浸探索世界的人格画像一致。",
+      "example": "自拟例：眼动仪显示开放性高的小陈看风景照时每次眼跳都很短，在各处停留探索更久。",
+      "pitfall": "方向是“更小、更短”，不是“更大、更长”；这只是相关，不证明开放性导致了这种眼动。",
+      "source": "L12 · Openness and eye movements · [B0008]",
+      "front": "开放性高的人看场景时眼动有何特点？说明了什么？",
+      "back": "扫视更小、扫描路径更短，提示更投入、沉浸地接触视觉信息。",
+      "cardBack": "扫视更小、扫描路径更短，提示更投入、沉浸地接触视觉信息。"
+    },
+    {
+      "id": "L12-C08",
+      "title": "工作记忆容量与注意广度收缩",
+      "english": "Working memory capacity and contraction of attentional breadth",
+      "oneLine": "工作记忆容量高的人在需要频繁收缩注意广度时更高效，但在偶尔才需收缩时反而效率更低。",
+      "analogy": "像为某条路线专门调好的赛车：常跑的路线很快，偶尔换路线反而不顺手。",
+      "simpleExample": "自拟例：多数试次都要盯细节时，工作记忆高的小周很快；若多数试次不变、偶尔才要缩小注意，他反而更容易慢下来。",
+      "explanation": "Working memory capacity 与执行功能中的 updating 有关。频繁需要收缩注意广度的情境中，容量高 = 效率高；偶尔才需收缩的情境中，容量高 = 效率低。课件把它解释为 persistence 与 flexibility 的权衡。",
+      "example": "自拟例：多数试次都要盯细节时，工作记忆高的小周很快；若多数试次不变、偶尔才要缩小注意，他反而更容易慢下来。",
+      "pitfall": "不是“工作记忆容量越高总是越好”——在偶尔切换的情境里关系反过来。",
+      "source": "L12 · Working memory capacity · [B0009]",
+      "front": "工作记忆容量高的人在“频繁”和“偶尔”收缩注意广度的情境中各表现如何？",
+      "back": "频繁收缩时效率更高；偶尔收缩时效率更低。",
+      "cardBack": "频繁收缩时效率更高；偶尔收缩时效率更低。"
+    },
+    {
+      "id": "L12-C09",
+      "title": "持久性—灵活性权衡",
+      "english": "Persistence vs flexibility trade-off",
+      "oneLine": "人可能偏向持久策略（牢牢优化当前要求）或灵活策略（随时准备变化），两者各有得失。",
+      "analogy": "像专心备考的人很高效，但突然换考试范围时最容易措手不及。",
+      "simpleExample": "自拟例：小周把注意完全调到“大多数试次要看细节”，偶尔一题要看整体时他反而被打乱。",
+      "explanation": "工作记忆容量高的人更像 persistence 风格，把注意极度优化到多数试次，遇到少见的切换会被“打个措手不及”。容量较低者优化得少，更开放，更靠近 flexibility。有人提出真正的执行功能可能是根据情境选择持久或灵活的“元控制”。",
+      "example": "自拟例：小周把注意完全调到“大多数试次要看细节”，偶尔一题要看整体时他反而被打乱。",
+      "pitfall": "持久和灵活没有哪一个总是更好，关键在于情境要求。",
+      "source": "L12 · Persistence vs flexibility · [B0009–B0010]",
+      "front": "为什么工作记忆容量高的人偶尔需要切换时反而更慢？",
+      "back": "他们偏向持久策略，把注意极度优化到多数试次的要求，少见的切换会打乱他们。",
+      "cardBack": "他们偏向持久策略，把注意极度优化到多数试次的要求，少见的切换会打乱他们。"
+    },
+    {
+      "id": "L12-C10",
+      "title": "人格与注意：相关，因果未定",
+      "english": "Attention as an aspect of personality; direction of causality",
+      "oneLine": "注意塑造我们对世界的感知，所以是人格的一部分；但人格与眼动等的联系目前只是相关。",
+      "analogy": "像发现爱读书的人常戴眼镜：不能直接说读书导致近视，还是近视让人更爱读书。",
+      "simpleExample": "自拟例：研究发现开放性高的人眼动更细致，但还不能确定是开放性导致眼动方式，还是这种看法让人更好奇。",
+      "explanation": "课件指出注意值得作为人格和个体差异来研究，并提出注意与宏观行为之间的因果问题。开放性与眼动的关联是自评人格与行为的相关。因果方向可能是开放性→注意方式、注意方式→开放性，或相互强化，目前尚无答案。",
+      "example": "自拟例：研究发现开放性高的人眼动更细致，但还不能确定是开放性导致眼动方式，还是这种看法让人更好奇。",
+      "pitfall": "相关不能证明开放性“导致”眼动模式；也不能从单个人的单次行为（如眼神接触）推断原因。",
+      "source": "L12 · Attention and personality: causality · [B0011]",
+      "front": "开放性与眼动的关联能否说明谁导致谁？",
+      "back": "不能。这是相关，因果方向尚未确定，可能双向或相互强化。",
+      "cardBack": "不能。这是相关，因果方向尚未确定，可能双向或相互强化。"
+    },
+    {
+      "id": "L12-C11",
+      "title": "特质焦虑：持久的负性情绪倾向",
+      "english": "Trait anxiety",
+      "oneLine": "特质焦虑是在许多情境中注意、体验并报告恐惧、担忧和焦虑等负性情绪的持久倾向。",
+      "analogy": "像一个对风吹草动都很敏感的警报器，平时更容易响。",
+      "simpleExample": "自拟例：同样收到一句含糊的“我们谈谈”，高特质焦虑的小赵更容易把它看成坏消息。",
+      "explanation": "特质焦虑包括把情境和事件稳定地知觉为威胁，更容易产生状态焦虑（尤其在多数人不焦虑的情境中），并与 Big Five 的神经质相关。它是相对持久的，不是绝对不变。焦虑本身也有保护作用，并非一定是坏事。",
+      "example": "自拟例：同样收到一句含糊的“我们谈谈”，高特质焦虑的小赵更容易把它看成坏消息。",
+      "pitfall": "特质焦虑是倾向，不是“此刻正在焦虑”；它与神经质相关，不是与外向性相关。",
+      "source": "L12 · Trait anxiety: definition · [B0012]",
+      "front": "特质焦虑的课件定义是什么？",
+      "back": "在许多情境中注意、体验并报告恐惧、担忧、焦虑等负性情绪的持久倾向。",
+      "cardBack": "在许多情境中注意、体验并报告恐惧、担忧、焦虑等负性情绪的持久倾向。"
+    },
+    {
+      "id": "L12-C12",
+      "title": "状态焦虑 vs 特质焦虑",
+      "english": "State anxiety vs trait anxiety; link to Neuroticism",
+      "oneLine": "状态焦虑是此刻的焦虑感受；特质焦虑是背后的倾向，高特质焦虑者更容易但不总是处于焦虑状态。",
+      "analogy": "像易晒伤体质：更容易晒伤，但阴天待在屋里时并不会晒伤。",
+      "simpleExample": "自拟例：高特质焦虑的阿梅度假时躺在沙滩喝柠檬水，此刻完全不焦虑。",
+      "explanation": "State anxiety 指当下是否焦虑；trait anxiety 指稳定倾向。高特质焦虑者在更大范围的情境中更可能出现状态焦虑，但两者可以分离。特质焦虑与 Big Five 的神经质相当强地相关。",
+      "example": "自拟例：高特质焦虑的阿梅度假时躺在沙滩喝柠檬水，此刻完全不焦虑。",
+      "pitfall": "“高特质焦虑者总是感到焦虑”是错的；与特质焦虑相关的大五维度是神经质，不是外向性。",
+      "source": "L12 · State vs trait anxiety · [B0012–B0013]",
+      "front": "高特质焦虑的人是否总是处于状态焦虑？",
+      "back": "不是。他们只是在更多情境中更可能体验状态焦虑。",
+      "cardBack": "不是。他们只是在更多情境中更可能体验状态焦虑。"
+    },
+    {
+      "id": "L12-C13",
+      "title": "特质焦虑 vs 社交焦虑",
+      "english": "Trait anxiety vs social anxiety",
+      "oneLine": "社交焦虑是对他人负面评价的普遍恐惧，特定于社交领域；特质焦虑的担忧更宽泛。",
+      "analogy": "像只怕上台的人和什么都容易担心的人：前者范围窄，后者范围广。",
+      "simpleExample": "自拟例：小孙只在聚会和发言时紧张，其他事情不太担心，这更像社交焦虑而非高特质焦虑。",
+      "explanation": "Social anxiety 是 pervasive fear of negative evaluation by others，常伴随回避社交场合。Trait anxiety 的担忧可能涉及生活中各种事情。两者不互斥且相关，但可分离，有人只在其中一项上高。",
+      "example": "自拟例：小孙只在聚会和发言时紧张，其他事情不太担心，这更像社交焦虑而非高特质焦虑。",
+      "pitfall": "二者相关但不等同：高特质焦虑者不一定也有社交焦虑。",
+      "source": "L12 · Trait vs social anxiety · [B0014]",
+      "front": "特质焦虑和社交焦虑的主要区别是什么？二者能否同时存在？",
+      "back": "社交焦虑特定于他人评价，特质焦虑更宽泛；二者不互斥、相关但可分离。",
+      "cardBack": "社交焦虑特定于他人评价，特质焦虑更宽泛；二者不互斥、相关但可分离。"
+    },
+    {
+      "id": "L12-C14",
+      "title": "维度 vs 类别：特质焦虑与 GAD",
+      "english": "Trait anxiety as a dimension; Generalised Anxiety Disorder",
+      "oneLine": "特质焦虑是人群中连续变化的维度；较高水平可能与 GAD 这一诊断类别相关，但两者不是一回事。",
+      "analogy": "像身高是连续的，而“是否符合篮球队选拔标准”是类别。",
+      "simpleExample": "自拟例：小刘特质焦虑问卷得分偏高，只能说他更可能符合 GAD 诊断，不能直接说他就有 GAD。",
+      "explanation": "特质焦虑像钟形分布：多数人在中间，少数很高或很低，每个人都有一个分数。GAD 是临床类别，满足标准就诊断，不满足就不诊断。得分越高越可能符合诊断，但没有保证。",
+      "example": "自拟例：小刘特质焦虑问卷得分偏高，只能说他更可能符合 GAD 诊断，不能直接说他就有 GAD。",
+      "pitfall": "特质焦虑不是“有或没有”的类别；高分不等于确诊 GAD。",
+      "source": "L12 · Trait anxiety and GAD · [B0015]",
+      "front": "特质焦虑与 GAD 的关系是什么？",
+      "back": "特质焦虑是连续维度；较高水平可能与 GAD 类别相关，但不等同、不保证诊断。",
+      "cardBack": "特质焦虑是连续维度；较高水平可能与 GAD 类别相关，但不等同、不保证诊断。"
+    },
+    {
+      "id": "L12-C15",
+      "title": "注意偏向：警觉—回避",
+      "english": "Attentional bias to threat; vigilance-avoidance",
+      "oneLine": "高特质焦虑者对威胁刺激有注意偏向：先警觉地注意它，随后刻意回避它。",
+      "analogy": "像看到可疑包裹时先盯住，然后故意绕远不再看它。",
+      "simpleExample": "自拟例：屏幕上同时出现愤怒脸和中性脸，高特质焦虑者起初更快看向愤怒脸，随后又刻意不看它。",
+      "explanation": "文献中既有更注意威胁的 engagement bias，也有更回避威胁的结果。综合起来是一个随时间展开的 vigilance-avoidance 模式：初期警觉，随后刻意回避。由于注意不成比例地偏向威胁，人会觉得世界更危险，从而强化焦虑。",
+      "example": "自拟例：屏幕上同时出现愤怒脸和中性脸，高特质焦虑者起初更快看向愤怒脸，随后又刻意不看它。",
+      "pitfall": "不是“只注意威胁”或“只回避威胁”二选一，而是随时间先警觉后回避。",
+      "source": "L12 · Attentional bias: vigilance-avoidance · [B0016]",
+      "front": "Vigilance-avoidance 指什么时间模式？",
+      "back": "先对威胁刺激警觉、特别注意，随后刻意脱离、回避它。",
+      "cardBack": "先对威胁刺激警觉、特别注意，随后刻意脱离、回避它。"
+    },
+    {
+      "id": "L12-C16",
+      "title": "解释偏向：模糊刺激往坏处想",
+      "english": "Interpretation bias toward threat",
+      "oneLine": "高特质焦虑者面对模糊刺激时，更倾向于选择威胁性或负性的解释。",
+      "analogy": "像同一条“已读不回”，有人想“他在忙”，有人马上想“他生我气了”。",
+      "simpleExample": "自拟例：看到 growth 一词，高特质焦虑的小许先想到肿瘤生长，而不是成长进步。",
+      "explanation": "例子包括把模糊面孔判断为愤怒，以及把 growth 判断为负性。课堂上讲到，在愤怒脸与中性脸的合成图中，一般人约在 30–40% 愤怒成分时判为愤怒，高特质焦虑者可能低到 10–20%。这是在连续体上更早做出负性判断，而不是只会给出负性判断。",
+      "example": "自拟例：看到 growth 一词，高特质焦虑的小许先想到肿瘤生长，而不是成长进步。",
+      "pitfall": "解释偏向是对“同一模糊刺激”的解读不同，不同于决定注意什么的注意偏向。",
+      "source": "L12 · Interpretation bias · [B0017]",
+      "front": "特质焦虑的解释偏向举了哪两个例子？",
+      "back": "把模糊面孔判断为威胁（愤怒），把 growth 一词判断为负性。",
+      "cardBack": "把模糊面孔判断为威胁（愤怒），把 growth 一词判断为负性。"
+    },
+    {
+      "id": "L12-C17",
+      "title": "注意控制理论：效率而非效果",
+      "english": "Attentional Control Theory: efficiency vs effectiveness",
+      "oneLine": "Eysenck 的注意控制理论认为，焦虑对效率（要多久）的影响大于对效果（能否做到）的影响。",
+      "analogy": "像堵车：最终都能到达目的地（效果相同），只是花的时间更长（效率更低）。",
+      "simpleExample": "自拟例：高特质焦虑的小杨在注意任务中正确率和别人一样，只是反应更慢。",
+      "explanation": "焦虑中的注意控制问题不限于情绪刺激，用中性刺激也会出现。Efficiency 指达到表现所需的时间或资源，effectiveness 指最终能否达到。理论预测高特质焦虑者最终能达到同样表现，但需要更长时间。",
+      "example": "自拟例：高特质焦虑的小杨在注意任务中正确率和别人一样，只是反应更慢。",
+      "pitfall": "考试关键词：受损的是 efficiency，不是 effectiveness。",
+      "source": "L12 · Attentional Control Theory · [B0018]",
+      "front": "注意控制理论认为焦虑主要影响效率还是效果？",
+      "back": "主要影响效率（花更长时间），而不是效果（最终能否达到）。",
+      "cardBack": "主要影响效率（花更长时间），而不是效果（最终能否达到）。"
+    },
+    {
+      "id": "L12-C18",
+      "title": "元分析：抑制与转换效率受损",
+      "english": "Meta-analysis; inhibition and shifting",
+      "oneLine": "元分析显示，特质焦虑与执行功能效率受损相关，包括抑制和转换两种执行功能。",
+      "analogy": "像不只听一位证人，而是汇总许多证人的证词，看整体指向什么。",
+      "simpleExample": "自拟例：研究者把几十项“特质焦虑 × 执行功能”研究的相关系数加权平均，得出中等程度的总体相关。",
+      "explanation": "Meta-analysis 把每个已有研究当作一个数据点，对效应量做加权平均，并可检验测量方式等调节变量。课件结论：特质焦虑与 inhibition 和 shifting 等执行功能的效率受损相关，相关强度中等。抑制是一种执行功能；冲动性、注意广度和外向性不是执行功能。",
+      "example": "自拟例：研究者把几十项“特质焦虑 × 执行功能”研究的相关系数加权平均，得出中等程度的总体相关。",
+      "pitfall": "元分析的数据点是“研究”不是“被试”；受损的仍是效率而非效果。",
+      "source": "L12 · Meta-analytic evidence · [B0018]",
+      "front": "元分析发现特质焦虑与哪些执行功能的什么受损相关？",
+      "back": "与抑制和转换等执行功能的效率受损相关。",
+      "cardBack": "与抑制和转换等执行功能的效率受损相关。"
+    },
+    {
+      "id": "L12-C19",
+      "title": "自评注意控制：强负相关，自评更强",
+      "english": "Trait anxiety and self-reported attentional control",
+      "oneLine": "特质焦虑越高，自评注意控制越差（如认知失误更多）；这种负相关在自评上比在任务表现上更强。",
+      "analogy": "像对自己要求很苛刻的人，给自己打的分往往比客观成绩更低。",
+      "simpleExample": "自拟例：高特质焦虑的小方在 CFQ 上报告常忘事，但在实验室注意任务中只比别人差一点。",
+      "explanation": "特质焦虑与 self-reported attentional control 强负相关，例如 CFQ 上的认知失误更多。用行为任务测量也是负相关，只是较弱。一种解释是悲观的报告偏差，另一种是问卷更接近日常有干扰的真实情境、实验室更像测最大能力；老师认为两者可能都有作用。",
+      "example": "自拟例：高特质焦虑的小方在 CFQ 上报告常忘事，但在实验室注意任务中只比别人差一点。",
+      "pitfall": "是“负相关”不是正相关；“自评更强”不代表任务测量中没有相关。",
+      "source": "L12 · Self-reported attentional control · [B0019]",
+      "front": "特质焦虑与自评注意控制是什么关系？与任务测量相比如何？",
+      "back": "强负相关；在自评测量上比在任务表现测量上更强。",
+      "cardBack": "强负相关；在自评测量上比在任务表现测量上更强。"
+    },
+    {
+      "id": "L12-C20",
+      "title": "特质焦虑与情感共情",
+      "english": "Trait anxiety, affective vs cognitive empathy, emotion regulation",
+      "oneLine": "特质焦虑与较高的情感共情相关，与认知共情无关；也与较少使用适应性情绪调节策略相关。",
+      "analogy": "像情绪“传染”的接收器灵敏度高，但“读心”的能力并没有更强或更弱。",
+      "simpleExample": "自拟例：高特质焦虑的小罗看到朋友难过，自己也很难过；但他理解别人想法的能力与常人无异。",
+      "explanation": "Affective empathy 指感受他人所感，cognitive empathy 指理解他人的想法和感受。特质焦虑只与情感共情正相关，与认知共情没有相关。此外，特质焦虑与较少使用适应性情绪调节策略相关。",
+      "example": "自拟例：高特质焦虑的小罗看到朋友难过，自己也很难过；但他理解别人想法的能力与常人无异。",
+      "pitfall": "不能笼统说“高特质焦虑的人更有共情”；只在情感共情上更高。",
+      "source": "L12 · Trait anxiety and empathy · [B0020]",
+      "front": "特质焦虑与哪种共情相关？",
+      "back": "与情感共情（感受他人所感）正相关，与认知共情无关。",
+      "cardBack": "与情感共情（感受他人所感）正相关，与认知共情无关。"
+    },
+    {
+      "id": "L12-C21",
+      "title": "表现差 ≠ 能力差：反刍解释",
+      "english": "Performance vs ability; rumination as an explanation",
+      "oneLine": "特质焦虑者执行功能任务表现较差，可能是反刍占用了心理带宽，不一定是能力更低。",
+      "analogy": "像电脑后台开着很多程序，前台软件变慢，并不说明处理器差。",
+      "simpleExample": "自拟例：让平时不焦虑的小林先反复回想烦心事，再做执行功能任务，他的表现也会下降到像高焦虑者。",
+      "explanation": "执行功能是从任务表现推断出来的构念。能力会影响表现，但睡眠剥夺、动机、反刍等状态因素也会影响表现。有证据显示诱发反刍会使低焦虑者表现得像高焦虑者。这意味着帮助人管理反刍，可能就能改善表现。",
+      "example": "自拟例：让平时不焦虑的小林先反复回想烦心事，再做执行功能任务，他的表现也会下降到像高焦虑者。",
+      "pitfall": "表现较差不等于能力较差；动机差异也可能混淆结果，有时需提供与表现挂钩的奖励。",
+      "source": "L12 · Thought question: trait anxiety and EF · [B0021]",
+      "front": "为什么特质焦虑者执行功能任务表现差，不一定代表能力更低？",
+      "back": "反刍等状态因素可能占用带宽；表现受能力以外的多种因素影响。",
+      "cardBack": "反刍等状态因素可能占用带宽；表现受能力以外的多种因素影响。"
+    },
+    {
+      "id": "L12-C22",
+      "title": "情绪调节：内在与外在、四个方向",
+      "english": "Emotion regulation; intrinsic vs extrinsic",
+      "oneLine": "情绪调节是试图放大或减弱情绪体验；内在调节针对自己，外在调节针对他人，方向可以是增减正性或负性情绪。",
+      "analogy": "像音量旋钮：既可以调大也可以调小，既可以调自己的耳机，也可以帮别人调。",
+      "simpleExample": "自拟例：葬礼上旁人说了好笑的话，你立刻忍住笑，这是内在地减少正性情绪。",
+      "explanation": "Intrinsic 是调节自己的情绪，extrinsic 是调节他人的情绪。人们常想到减少负性、增加正性，但也有增加负性（赛前让自己燃起来）和减少正性（让睡前咯咯笑的孩子平静）的情况。",
+      "example": "自拟例：葬礼上旁人说了好笑的话，你立刻忍住笑，这是内在地减少正性情绪。",
+      "pitfall": "Extrinsic 是调节“别人”的情绪；情绪调节也不只限于让人更开心。",
+      "source": "L12 · Emotion regulation: definition · [B0022–B0023]",
+      "front": "Intrinsic 和 extrinsic emotion regulation 分别指什么？",
+      "back": "Intrinsic 调节自己的情绪；extrinsic 调节他人的情绪。",
+      "cardBack": "Intrinsic 调节自己的情绪；extrinsic 调节他人的情绪。"
+    },
+    {
+      "id": "L12-C23",
+      "title": "情境选择 vs 情境修改",
+      "english": "Situation selection vs situation modification",
+      "oneLine": "情境选择是决定是否进入某个情境；情境修改是直接改变已在其中的情境。",
+      "analogy": "像不想淋雨：不出门是情境选择，出门后撑伞是情境修改。",
+      "simpleExample": "自拟例：把让人恼火的邮件归档，让它不再出现在收件箱，这是情境修改。",
+      "explanation": "这是 Gross 模型中的前两个阶段。Situation selection 是采取行动，使自己更可能或更不可能进入会引发某种情绪的情境，例如拒绝让你消极的人的邀请。Situation modification 是直接改变情境以改变情绪影响，例如归档恼人的邮件。",
+      "example": "自拟例：把让人恼火的邮件归档，让它不再出现在收件箱，这是情境修改。",
+      "pitfall": "拒绝邀请是“选择”，归档邮件是“修改”，不要混淆。",
+      "source": "L12 · Gross model: situation selection and modification · [B0024–B0025]",
+      "front": "拒绝让你消极的人的邀请、把恼人邮件归档，分别属于 Gross 模型哪一类？",
+      "back": "前者是情境选择，后者是情境修改。",
+      "cardBack": "前者是情境选择，后者是情境修改。"
+    },
+    {
+      "id": "L12-C24",
+      "title": "注意部署",
+      "english": "Attentional deployment",
+      "oneLine": "注意部署是为了影响情绪反应而引导自己的注意，是 Gross 情绪调节模型的组成部分。",
+      "analogy": "像紧张时只看舞台下对你微笑的那张脸。",
+      "simpleExample": "自拟例：演讲时很紧张，小黄专门看观众中不断点头鼓励他的朋友。",
+      "explanation": "在 Gross 模型中，attention deployment 是 situation selection、situation modification 之后的一类。我们不总能选择或改变情境，但能改变注意的使用方式来调节情绪。它把本讲的注意内容和情绪调节联系起来。",
+      "example": "自拟例：演讲时很紧张，小黄专门看观众中不断点头鼓励他的朋友。",
+      "pitfall": "注意部署是情绪调节策略，不同于注意广度的偏好或焦虑的注意偏向。",
+      "source": "L12 · Gross model: attentional deployment · [B0026]",
+      "front": "演讲紧张时专注看鼓励你的朋友，属于 Gross 模型哪一类？",
+      "back": "注意部署（attentional deployment）。",
+      "cardBack": "注意部署（attentional deployment）。"
+    },
+    {
+      "id": "L12-C25",
+      "title": "认知改变与重评",
+      "english": "Cognitive change; reappraisal",
+      "oneLine": "认知改变是修改对情境的评价来改变情绪影响；重评是其中被研究最多的一种。",
+      "analogy": "像给同一张照片换一个说明文字，看照片的心情就变了。",
+      "simpleExample": "自拟例：同事没对你笑，你先想“他讨厌我”，再想“他今天要交基金申请，压力大”，心情就好多了。",
+      "explanation": "Cognitive change 指改变对情境或事件的想法（appraisal）。Reappraisal 属于这一类，例如把练习小测不及格看成有用的反馈。重评常涉及为他人行为想出其他解释，与认知共情正相关，也是 CBT 的核心内容。",
+      "example": "自拟例：同事没对你笑，你先想“他讨厌我”，再想“他今天要交基金申请，压力大”，心情就好多了。",
+      "pitfall": "重评改变的是解释，因而改变情绪本身；它不是事后掩饰表情。",
+      "source": "L12 · Cognitive change and reappraisal · [B0027]；[B0029]",
+      "front": "重评属于 Gross 模型的哪一类？它改变什么？",
+      "back": "属于认知改变；它改变对情境的想法或解释，从而改变情绪影响。",
+      "cardBack": "属于认知改变；它改变对情境的想法或解释，从而改变情绪影响。"
+    },
+    {
+      "id": "L12-C26",
+      "title": "反应调节与压抑",
+      "english": "Response modulation; suppression",
+      "oneLine": "反应调节是在情绪已充分发展后影响其体验、行为或生理成分，例如压住皱眉；压抑属于这一阶段。",
+      "analogy": "像在已经沸腾的锅上盖紧盖子，锅里的水仍在沸腾。",
+      "simpleExample": "自拟例：朋友送的礼物你不喜欢，你压住皱眉、挤出笑容，以免伤害对方。",
+      "explanation": "Response modulation 在 Gross 模型中最晚介入，老师认为它更多改变情绪的表现，而不是底层情绪。Suppression 只掩盖情绪的外在迹象，不改变驱动情绪的想法。重评则在较早的解释阶段介入。",
+      "example": "自拟例：朋友送的礼物你不喜欢，你压住皱眉、挤出笑容，以免伤害对方。",
+      "pitfall": "压抑不是重评：压抑改变表现，重评改变解释。",
+      "source": "L12 · Response modulation and suppression · [B0028]；[B0034]",
+      "front": "重评与压抑在 Gross 模型中各属哪一阶段？",
+      "back": "重评属于认知改变（较早，改变解释）；压抑属于反应调节（较晚，掩盖表现）。",
+      "cardBack": "重评属于认知改变（较早，改变解释）；压抑属于反应调节（较晚，掩盖表现）。"
+    },
+    {
+      "id": "L12-C27",
+      "title": "重评倾向与积极结果",
+      "english": "Individual differences in reappraisal and outcomes",
+      "oneLine": "日常更常重评的人有更多正性情绪、更少负性情绪、较低的抑郁焦虑易感性，以及更高的自尊、生活满意度和社会联结。",
+      "analogy": "像常给自己“换个角度想”的人，日子整体更亮一些。",
+      "simpleExample": "自拟例：小何遇到挫折常会想“这也许是个机会”，他的生活满意度和朋友圈通常也更好。",
+      "explanation": "人们使用重评的程度有很大个体差异，这是 propensity（使用倾向）差异。课件列出六项相关结果：更多正性情绪、更少负性情绪、较低的抑郁焦虑易感性、更高自尊、更高生活满意度和更强社会联结。",
+      "example": "自拟例：小何遇到挫折常会想“这也许是个机会”，他的生活满意度和朋友圈通常也更好。",
+      "pitfall": "方向别记反：更常重评与更多正性、更少负性情绪相关。",
+      "source": "L12 · Reappraisal propensity and outcomes · [B0030]",
+      "front": "日常更常重评的人有哪些结果？",
+      "back": "更多正性、更少负性情绪，抑郁焦虑易感性更低，自尊、生活满意度和社会联结更高。",
+      "cardBack": "更多正性、更少负性情绪，抑郁焦虑易感性更低，自尊、生活满意度和社会联结更高。"
+    },
+    {
+      "id": "L12-C28",
+      "title": "纵向研究：重评 vs 压抑与社会联结",
+      "english": "Gross longitudinal college study; research designs",
+      "oneLine": "Gross 团队追踪大学生四年，发现入学时常用重评的人四年后社会联结更强，用压抑的人则相反。",
+      "analogy": "像入学时种下的习惯，四年后结出不同的社交果实。",
+      "simpleExample": "自拟例：研究者第一天测重评倾向，第四年末请同学互评彼此有多亲近，以避免只依赖自评。",
+      "explanation": "横断设计只能显示变量一起出现，纵向设计能显示时间先后，但仍不能强推因果，实验操纵最利于因果推断。研究在入学第一天测重评和压抑，第四年末用自评和同伴互评测结果。重评者朋友更多、联系更广，压抑者相反。",
+      "example": "自拟例：研究者第一天测重评倾向，第四年末请同学互评彼此有多亲近，以避免只依赖自评。",
+      "pitfall": "纵向设计提供时间顺序，不等于证明因果；同伴互评是为了减少自评偏差。",
+      "source": "L12 · Gross longitudinal study · [B0031]",
+      "front": "Gross 团队的大学纵向研究发现了什么？为何用同伴评分？",
+      "back": "入学时常用重评者四年后社会联结更强，压抑者相反；同伴评分可减少自评偏差。",
+      "cardBack": "入学时常用重评者四年后社会联结更强，压抑者相反；同伴评分可减少自评偏差。"
+    },
+    {
+      "id": "L12-C29",
+      "title": "重评倾向可改变，能力不缺",
+      "english": "Reappraisal: propensity vs ability; CBT",
+      "oneLine": "焦虑和抑郁的人较少使用重评，但被指示时同样能用好它；使用倾向可以通过 CBT 等方式改变。",
+      "analogy": "像会游泳却很少下水的人：问题在于去不去，不在于会不会。",
+      "simpleExample": "自拟例：实验中让焦虑的被试看完恐怖视频后按指示重评，他们的负性情绪下降幅度与他人相同。",
+      "explanation": "这是 propensity vs ability 的又一例。焦虑和抑郁者重评倾向较低，但没有证据表明能力更差：按指示使用时，他们获得同样的情绪下调效果。重评倾向可以改变，CBT 的核心就是学习和练习重评。",
+      "example": "自拟例：实验中让焦虑的被试看完恐怖视频后按指示重评，他们的负性情绪下降幅度与他人相同。",
+      "pitfall": "“焦虑抑郁者不会重评”和“重评倾向固定不变”都是错的。",
+      "source": "L12 · Reappraisal propensity can be changed · [B0032]",
+      "front": "焦虑和抑郁的人在重评上是倾向低还是能力低？",
+      "back": "倾向低（用得少）；能力不缺，按指示使用时效果相同。",
+      "cardBack": "倾向低（用得少）；能力不缺，按指示使用时效果相同。"
+    },
+    {
+      "id": "L12-C30",
+      "title": "没有万能策略：情绪调节的灵活性",
+      "english": "Emotion regulation flexibility and repertoire",
+      "oneLine": "重评不是唯一有用的策略；不同策略适合不同情境，人们在策略库广度和灵活选用上存在差异。",
+      "analogy": "像工具箱：螺丝刀很好用，但不能拿它钉钉子。",
+      "simpleExample": "自拟例：面对极强烈的悲痛，小郑先用分心离开刺激，等情绪平复些再尝试重评。",
+      "explanation": "对很强烈的负性情绪，至少在初期分心可能更有效。个体在情绪调节策略库的广度，以及能否按情境调整策略（flexibility）上存在差异。课堂上也讨论了接纳，以及何时不该调节情绪：情绪有功能，例如愤怒推动社会变革，看悲剧时也可能想投入情绪。",
+      "example": "自拟例：面对极强烈的悲痛，小郑先用分心离开刺激，等情绪平复些再尝试重评。",
+      "pitfall": "重评很有用，但“重评是唯一有用的策略”是错的；也不是任何情绪都应该被调掉。",
+      "source": "L12 · Flexibility; when not to regulate · [B0033]；[B0035]",
+      "front": "重评是不是唯一或总是最好的情绪调节策略？",
+      "back": "不是。不同策略适合不同情境，例如强烈情绪初期分心可能更有效；灵活选用很重要。",
+      "cardBack": "不是。不同策略适合不同情境，例如强烈情绪初期分心可能更有效；灵活选用很重要。"
+    },
+    {
+      "id": "L12-C31",
+      "title": "双稳态图像与研究设计",
+      "english": "Bistable images; Goodhew & Edwards (2024) method",
+      "oneLine": "双稳态图像可被看成两种样子；Goodhew & Edwards (2024) 研究人们看这类图时的情绪反应及其预测因素。",
+      "analogy": "像鸭兔图：同一笔画，一会儿是鸭，一会儿是兔。",
+      "simpleExample": "自拟例：被试先确认能把人脸/花瓶图看成两种，再在 -4 到 +4 上评自己此刻的感受。",
+      "explanation": "双稳态图像模拟感觉输入中普遍存在的不确定性，常用于研究意识的神经相关物。研究用了 3 张图，先确认被试能看到双稳态，再让其评定 valence（-4 到 +4），并测 4 个预测变量：IU、CE、AE、NA。AE 是区分性预测（预测无关），NA 作对照。",
+      "example": "自拟例：被试先确认能把人脸/花瓶图看成两种，再在 -4 到 +4 上评自己此刻的感受。",
+      "pitfall": "测的是被试自评的情绪效价，不是生理指标；AE 被预测为无关，是区分性预测。",
+      "source": "L12 · Bistable images: method and predictors · [B0037–B0040]",
+      "front": "Goodhew & Edwards (2024) 测了哪 4 个预测变量？",
+      "back": "不确定性无法容忍（IU）、认知共情（CE）、情感共情（AE）、负性情感（NA）。",
+      "cardBack": "不确定性无法容忍（IU）、认知共情（CE）、情感共情（AE）、负性情感（NA）。"
+    },
+    {
+      "id": "L12-C32",
+      "title": "结果：四个预测变量的方向",
+      "english": "Bistable images results: IU, CE, AE, NA",
+      "oneLine": "IU 与 NA 预测更负性的反应，认知共情预测更正性的反应，情感共情无关。",
+      "analogy": "像同一幅错觉画：怕不确定的人觉得别扭，善于换位思考的人觉得有趣。",
+      "simpleExample": "自拟例：认知共情高的小宋看到鸭兔图会觉得“有意思”，而很难容忍不确定的小钱会觉得不舒服。",
+      "explanation": "多数人评 0，但从 -4 到 +4 都有，且人们对三张图的反应内部一致性很强。双变量层面：IU 预测更负性反应，CE 预测更正性反应，AE 无关，NA 预测更负性反应，整体符合研究预测。",
+      "example": "自拟例：认知共情高的小宋看到鸭兔图会觉得“有意思”，而很难容忍不确定的小钱会觉得不舒服。",
+      "pitfall": "易混：IU 不是无关，AE 不是更负性，NA 不是更正性。",
+      "source": "L12 · Bistable images: results · [B0041]",
+      "front": "IU、CE、AE、NA 分别与对双稳态图像的情绪反应有什么关系？",
+      "back": "IU 更负性；CE 更正性；AE 无关；NA 更负性。",
+      "cardBack": "IU 更负性；CE 更正性；AE 无关；NA 更负性。"
+    },
+    {
+      "id": "L12-C33",
+      "title": "回归：认知共情的独特预测",
+      "english": "Regression: unique variance of cognitive empathy; implications",
+      "oneLine": "回归分析中，只有认知共情在控制 IU 和 NA 之后仍能解释情绪反应的独特变异。",
+      "analogy": "像几位候选人同台竞争，只有一位在其他人都上场后仍有独特贡献。",
+      "simpleExample": "自拟例：即使两个人的 IU 和 NA 分数相同，认知共情更高的那个人仍更可能喜欢看双稳态图像。",
+      "explanation": "Regression 同时放入多个预测变量，检验各自的独特关联。结果是认知共情独特地解释了情绪反应，甚至超过 IU。启示是：用双稳态图像研究其他过程时要注意情绪混淆；认知共情关乎拥抱看世界的不同方式；个体差异也存在于知觉和生理层面。",
+      "example": "自拟例：即使两个人的 IU 和 NA 分数相同，认知共情更高的那个人仍更可能喜欢看双稳态图像。",
+      "pitfall": "是“在控制 IU 和 NA 之后仍有独特贡献”，不是只有双变量相关；也不能从单一研究过度外推到社会结论。",
+      "source": "L12 · Bistable images: regression and implications · [B0042–B0043]",
+      "front": "哪个变量在控制其他预测变量后仍独特预测对双稳态图像的情绪反应？",
+      "back": "认知共情（控制 IU 和 NA 之后）。",
+      "cardBack": "认知共情（控制 IU 和 NA 之后）。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "L12-Q01",
+      "conceptId": "L12-C01",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "课件把注意描述为什么？",
+      "stemEn": "How does the lecture characterise attention?",
+      "options": [
+        "一种选择机制：优先处理部分信息、放掉其余",
+        "一种能把场景中所有信息都处理完的能力",
+        "只在听觉中存在的过程",
+        "一种只能有意识控制的过程"
+      ],
+      "optionsEn": [
+        "A selection mechanism that prioritises some information at the expense of the rest",
+        "A capacity to fully process all the information in a scene",
+        "A process that exists only in hearing",
+        "A process that is only ever consciously controlled"
+      ],
+      "answer": 0,
+      "explanation": "场景中的信息多于大脑一次能处理的量，所以 attention = selection，像分诊机制。老师还指出这种选择多数是非意识的。",
+      "optionExplanations": [
+        "优先处理部分信息、放掉其余，正是“注意即选择”。",
+        "正因为信息多到处理不完，才需要选择。",
+        "所有感官都需要选择，本讲重点还是视觉。",
+        "老师说大脑多是非意识地做出这种选择。"
+      ],
+      "source": "L12 · Selection and attention · [B0002]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q02",
+      "conceptId": "L12-C02",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：小美先盯着朋友的脸，然后把注意放宽，看整个聚会在发生什么。这主要是哪种调节？",
+      "stemEn": "Study scenario: Mei first focuses narrowly on a friend’s face, then spreads her attention to take in the whole party. Which form of spatial attention regulation is this mainly?",
+      "options": [
+        "注意转移到另一个位置",
+        "改变注意广度",
+        "基于特征的注意",
+        "情境修改"
+      ],
+      "optionsEn": [
+        "A shift of attention to a new location",
+        "A change in attentional breadth",
+        "Feature-based attention",
+        "Situation modification"
+      ],
+      "answer": 1,
+      "explanation": "她改变的是聚光灯的大小（从窄到宽），而不是位置。这是注意广度变化。",
+      "optionExplanations": [
+        "注意转移是移动聚光灯的位置，例如从一张脸看到另一张脸。",
+        "从窄聚焦到覆盖整个场景，正是改变广度。",
+        "她没有在搜寻某种特征，例如红色。",
+        "情境修改是 Gross 情绪调节模型中改变情境本身的策略。"
+      ],
+      "source": "L12 · Spatial attention: shifts and breadth · [B0003]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q03",
+      "conceptId": "L12-C03",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "按课件定义，注意广度的“偏好”指什么？",
+      "stemEn": "According to the lecture, what does an attentional breadth ‘preference’ refer to?",
+      "options": [
+        "任务要求时个体能把注意调节得多好",
+        "个体在问卷上报告的认知失误次数",
+        "任务不强制、不偏向某种方式时，个体自发选择怎么做",
+        "个体在某种文化中被教导应该怎么看"
+      ],
+      "optionsEn": [
+        "How well an individual can regulate attention when the task requires it",
+        "The number of cognitive failures the individual reports on a questionnaire",
+        "What an individual chooses to do when the task does not compel or favour a particular approach",
+        "How the individual has been taught to look in a given culture"
+      ],
+      "answer": 2,
+      "explanation": "Preference 是没有要求时的自发选择；被要求时能做得多好是 ability。",
+      "optionExplanations": [
+        "这是 ability 的定义。",
+        "认知失误问卷测的是自评注意控制，不是广度偏好。",
+        "这正是课件对 preference 的定义。",
+        "偏好可能与文化有关，但定义说的是自发选择，不是被教导的规则。"
+      ],
+      "source": "L12 · Preference vs ability · [B0004]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q04",
+      "conceptId": "L12-C03",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "自拟情境：研究者明确要求被试“只看整体形状”，并记录准确率。这测的是什么？",
+      "stemEn": "Study scenario: Researchers explicitly instruct participants to attend only to the global shape and record their accuracy. What is being measured?",
+      "options": [
+        "对宽注意广度的偏好",
+        "特质焦虑的解释偏向",
+        "情绪调节倾向",
+        "采用宽注意广度的能力"
+      ],
+      "optionsEn": [
+        "A preference for a broad attentional breadth",
+        "An interpretation bias linked to trait anxiety",
+        "Emotion regulation propensity",
+        "The ability to adopt a broad attentional breadth"
+      ],
+      "answer": 3,
+      "explanation": "任务要求被试必须这样做，测的是做得多好，所以是能力。偏好要在任务不强制时测量。",
+      "optionExplanations": [
+        "偏好必须在任务不强制、不偏向某种方式时测量。",
+        "题目中没有模糊的威胁性刺激。",
+        "题目测的是注意，不是情绪调节的使用频率。",
+        "任务有明确要求，测的是能力。"
+      ],
+      "source": "L12 · Preference vs ability · [B0004]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q05",
+      "conceptId": "L12-C04",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "关于东西方文化背景与注意广度，哪项符合课件？",
+      "stemEn": "Which statement about cultural background and attentional breadth matches the lecture?",
+      "options": [
+        "东方背景者偏好更宽的注意广度，但能力没有差异",
+        "东方背景者采用宽注意广度的能力更强",
+        "西方背景者偏好更宽的注意广度",
+        "东方背景者采用窄注意广度的能力受损"
+      ],
+      "optionsEn": [
+        "People from an Eastern background prefer a broader attentional breadth, with no difference in ability",
+        "People from an Eastern background have a greater ability to adopt a broad attentional breadth",
+        "People from a Western background prefer a broader attentional breadth",
+        "People from an Eastern background are impaired at adopting a narrow attentional breadth"
+      ],
+      "answer": 0,
+      "explanation": "文化差异只出现在偏好上：东方背景偏好更宽。在任务要求下采用宽或窄注意的能力没有差异。",
+      "optionExplanations": [
+        "差异在偏好、不在能力，符合课件。",
+        "把偏好差异错说成能力差异。",
+        "方向反了，偏好更宽的是东方背景。",
+        "没有发现任何能力差异，更没有受损。"
+      ],
+      "source": "L12 · Eastern vs Western attentional breadth · [B0005]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q06",
+      "conceptId": "L12-C05",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "与英国被试相比，Himba 被试的结果是什么？",
+      "stemEn": "Compared with British participants, what did Himba participants show?",
+      "options": [
+        "偏好更宽，能力更弱",
+        "偏好更窄，但采用窄和宽注意广度的能力都更强",
+        "偏好更窄，采用宽注意广度的能力受损",
+        "偏好和能力都与英国被试没有差异"
+      ],
+      "optionsEn": [
+        "A broader preference and poorer ability",
+        "A narrower preference, but better ability to adopt both narrow and broad breadths",
+        "A narrower preference and impaired ability to adopt a broad breadth",
+        "No difference from British participants in preference or ability"
+      ],
+      "answer": 1,
+      "explanation": "Himba 偏好窄注意，却在窄和宽两种能力上都优于英国被试。这说明偏好与能力可以脱钩。",
+      "optionExplanations": [
+        "偏好方向和能力方向都说反了。",
+        "与课件结果一致。",
+        "Himba 的宽注意能力反而更好，并未受损。",
+        "两方面都有差异：偏好更窄，能力更强。"
+      ],
+      "source": "L12 · Himba vs British · [B0006]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q07",
+      "conceptId": "L12-C05",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "哪项结论最能概括 Himba、文化和 ASD 研究的共同启示？",
+      "stemEn": "Which conclusion best captures the common lesson from the Himba, cultural, and ASD findings?",
+      "options": [
+        "偏好窄注意的人采用宽注意的能力必然受损",
+        "能力差异总是比偏好差异更常见",
+        "注意广度的偏好与能力相对脱钩，不能从偏好推断能力",
+        "偏好与能力是同一种测量的两个名字"
+      ],
+      "optionsEn": [
+        "People who prefer a narrow breadth are necessarily impaired at adopting a broad breadth",
+        "Ability differences are always more common than preference differences",
+        "Preference and ability for attentional breadth are relatively decoupled, so ability cannot be inferred from preference",
+        "Preference and ability are two names for the same measure"
+      ],
+      "answer": 2,
+      "explanation": "三项研究都出现了偏好差异，但能力没有相应受损，Himba 甚至能力更强。所以偏好与能力相对脱钩。",
+      "optionExplanations": [
+        "Himba 偏好窄，但宽注意能力更强，正好是反例。",
+        "老师说个体差异更常出现在偏好上。",
+        "三项研究都支持这一结论。",
+        "两者定义不同，一个测自发选择，一个测按要求的表现。"
+      ],
+      "source": "L12 · Himba vs British · [B0006]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q08",
+      "conceptId": "L12-C06",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "用偏好与能力区分后，ASD 研究发现了什么？",
+      "stemEn": "After distinguishing preference from ability, what was found for people diagnosed with Autism Spectrum Disorder?",
+      "options": [
+        "偏好更宽的注意广度，能力没有差异",
+        "偏好与对照组相同，但宽注意能力受损",
+        "偏好更窄，并且无法采用宽注意广度",
+        "偏好更窄的注意广度，能力没有差异"
+      ],
+      "optionsEn": [
+        "A preference for a broader attentional breadth, with no difference in ability",
+        "The same preference as controls, but impaired ability to adopt a broad breadth",
+        "A narrower preference and an inability to adopt a broad breadth",
+        "A preference for a narrower attentional breadth, with no difference in ability"
+      ],
+      "answer": 3,
+      "explanation": "ASD 组偏好更窄，但同一批被试在需要时能采用宽或窄注意。这一区分化解了以往结果不一的争论。",
+      "optionExplanations": [
+        "方向错误，ASD 偏好的是窄注意。",
+        "差异出现在偏好，能力没有差异。",
+        "他们按要求能够采用宽注意广度。",
+        "与课件结论一致。"
+      ],
+      "source": "L12 · Autism Spectrum Disorder · [B0007]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q09",
+      "conceptId": "L12-C07",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：眼动仪记录一位开放性很高的同学看风景照。按课件，最可能观察到什么？",
+      "stemEn": "Study scenario: An eye tracker records a student very high in Openness to Experience viewing a landscape photo. Based on the lecture, what is most likely?",
+      "options": [
+        "扫视更小、扫描路径更短",
+        "扫视更大、扫描路径更长",
+        "几乎不移动眼睛，只盯一点",
+        "只看图中带威胁性的部分"
+      ],
+      "optionsEn": [
+        "Smaller saccades and shorter scan paths",
+        "Larger saccades and longer scan paths",
+        "Almost no eye movement, fixating on a single point",
+        "Looking only at threatening parts of the image"
+      ],
+      "answer": 0,
+      "explanation": "开放性较高者扫视更小、扫描路径更短，被解释为更投入地探索视觉信息。",
+      "optionExplanations": [
+        "与课件发现一致。",
+        "方向说反了。",
+        "他们会探索场景的更多部分，并在各处停留更久，不是只盯一点。",
+        "这里讲的是开放性，不是特质焦虑的威胁注意偏向。"
+      ],
+      "source": "L12 · Openness and eye movements · [B0008]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q10",
+      "conceptId": "L12-C07",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "对“开放性高者扫视更小、路径更短”，哪种解读最恰当？",
+      "stemEn": "Which is the most appropriate interpretation of the finding that people higher in Openness make smaller saccades and shorter scan paths?",
+      "options": [
+        "证明开放性导致了这种眼动方式",
+        "提示更投入的视觉参与，但因果方向尚未确定",
+        "说明他们注意力不集中、看得更粗略",
+        "说明他们采用宽注意广度的能力受损"
+      ],
+      "optionsEn": [
+        "It proves that Openness causes this eye-movement style",
+        "It suggests more absorbed visual engagement, but the causal direction is unknown",
+        "It shows they are inattentive and view scenes more superficially",
+        "It shows they are impaired at adopting a broad attentional breadth"
+      ],
+      "answer": 1,
+      "explanation": "课件解释为 more absorbed engagement。由于这是相关，老师强调谁导致谁仍待研究。",
+      "optionExplanations": [
+        "相关不能证明因果，也可能是反向或相互影响。",
+        "既给出解释，又保留因果上的谨慎。",
+        "更小、更短的眼动被解释为更投入，不是更粗略。",
+        "这项研究没有测量广度能力。"
+      ],
+      "source": "L12 · Openness and eye movements · [B0008]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q11",
+      "conceptId": "L12-C08",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "关于工作记忆容量与注意广度收缩，哪项符合课件？",
+      "stemEn": "Which statement about working memory capacity and contraction of attentional breadth matches the lecture?",
+      "options": [
+        "无论频繁还是偶尔，容量高者效率都更高",
+        "需要频繁收缩时，容量高者效率更低",
+        "需要频繁收缩时，容量高者效率更高；只偶尔收缩时，容量高者效率更低",
+        "工作记忆容量与注意广度的调整无关"
+      ],
+      "optionsEn": [
+        "Higher capacity always means greater efficiency, whether contraction is frequent or infrequent",
+        "Higher capacity means reduced efficiency for frequent contraction",
+        "Higher capacity means greater efficiency for frequent contraction but reduced efficiency for infrequent contraction",
+        "Working memory capacity is unrelated to adjusting attentional breadth"
+      ],
+      "answer": 2,
+      "explanation": "频繁收缩时，容量高者效率更高；偶尔收缩时，关系反过来。课件称之为 persistence 与 flexibility 的权衡。",
+      "optionExplanations": [
+        "偶尔收缩时，关系是反过来的。",
+        "频繁收缩时，容量高者效率更高。",
+        "两种情境的方向都说对了。",
+        "两者有关，而且关系方向取决于情境。"
+      ],
+      "source": "L12 · Working memory capacity · [B0009]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q12",
+      "conceptId": "L12-C09",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：小周把注意完全调到适合大多数试次的状态，结果偶尔出现的特殊试次让他明显变慢。这最符合哪种风格？",
+      "stemEn": "Study scenario: Zhou optimises his attention entirely for the majority of trials and is clearly slowed by the occasional unusual trial. Which style does this best fit?",
+      "options": [
+        "偏向灵活性（flexibility）的风格",
+        "警觉—回避的注意偏向",
+        "注意广度偏好受文化影响",
+        "偏向持久性（persistence）的风格"
+      ],
+      "optionsEn": [
+        "A flexibility-oriented style",
+        "A vigilance-avoidance attentional bias",
+        "A culturally shaped attentional breadth preference",
+        "A persistence-oriented style"
+      ],
+      "answer": 3,
+      "explanation": "把注意极度优化到多数试次、遇到少见变化就措手不及，正是持久性风格的代价。课件把它与较高的工作记忆容量联系起来。",
+      "optionExplanations": [
+        "灵活风格对多数试次优化得较少，更能应对偶尔的变化。",
+        "警觉—回避讲的是焦虑者对威胁刺激的注意偏向。",
+        "题目没有涉及文化背景。",
+        "牢牢优化当前要求，正是持久性。"
+      ],
+      "source": "L12 · Persistence vs flexibility · [B0009–B0010]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q13",
+      "conceptId": "L12-C10",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "研究发现自评开放性与看图时的眼动模式相关。哪项推论最合理？",
+      "stemEn": "Researchers find that self-reported Openness correlates with eye-movement patterns while viewing scenes. Which inference is most justified?",
+      "options": [
+        "二者有关联，但谁导致谁仍需进一步研究",
+        "开放性一定导致了这种眼动模式",
+        "这种眼动模式一定导致了开放性",
+        "相关说明注意与人格无关"
+      ],
+      "optionsEn": [
+        "The two are associated, but which causes which requires further research",
+        "Openness must cause this eye-movement pattern",
+        "This eye-movement pattern must cause Openness",
+        "The correlation shows attention is unrelated to personality"
+      ],
+      "answer": 0,
+      "explanation": "相关只说明二者一起变化。老师指出因果方向可能双向或相互强化，目前尚无答案。",
+      "optionExplanations": [
+        "承认关联，同时不越过证据下因果结论。",
+        "相关不能确定这个方向。",
+        "这个反方向同样无法由相关确定。",
+        "有相关恰恰说明二者有关联。"
+      ],
+      "source": "L12 · Attention and personality: causality · [B0011]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q14",
+      "conceptId": "L12-C11",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "哪项最符合课件对特质焦虑的定义？",
+      "stemEn": "Which best matches the lecture’s definition of trait anxiety?",
+      "options": [
+        "此刻正在体验的焦虑感受",
+        "在许多情境中注意、体验并报告负性情绪的持久倾向",
+        "对他人负面评价的特定恐惧",
+        "一种有或没有的临床诊断类别"
+      ],
+      "optionsEn": [
+        "The anxiety one is feeling at this moment",
+        "An enduring tendency to attend to, experience, and report negative emotions across many situations",
+        "A specific fear of negative evaluation by others",
+        "A clinical diagnostic category that one either has or does not have"
+      ],
+      "answer": 1,
+      "explanation": "特质焦虑是跨情境的持久倾向。此刻的焦虑是状态焦虑，对评价的恐惧是社交焦虑。",
+      "optionExplanations": [
+        "这是状态焦虑。",
+        "与课件定义一致。",
+        "这是社交焦虑，担忧范围更窄。",
+        "特质焦虑是连续维度，不是诊断类别。"
+      ],
+      "source": "L12 · Trait anxiety: definition · [B0012]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q15",
+      "conceptId": "L12-C12",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：高特质焦虑的阿梅度假时悠闲喝柠檬水，此刻毫无焦虑。这与特质焦虑的概念矛盾吗？",
+      "stemEn": "Study scenario: Amy, who is high in trait anxiety, is relaxing on holiday with a lemonade and feels no anxiety at all right now. Does this contradict the concept of trait anxiety?",
+      "options": [
+        "矛盾：高特质焦虑者应该随时都在焦虑",
+        "矛盾：说明她的特质焦虑其实很低",
+        "不矛盾：高特质焦虑者只是更可能体验状态焦虑，并非总在焦虑",
+        "不矛盾，因为特质焦虑与焦虑感受完全无关"
+      ],
+      "optionsEn": [
+        "Yes: people high in trait anxiety should be anxious at all times",
+        "Yes: it shows her trait anxiety is actually low",
+        "No: people high in trait anxiety are more prone to state anxiety, not always anxious",
+        "No, because trait anxiety is entirely unrelated to feeling anxious"
+      ],
+      "answer": 2,
+      "explanation": "特质焦虑增加了体验状态焦虑的可能，但两者可以分离。老师正是用度假喝柠檬水的例子说明这一点。",
+      "optionExplanations": [
+        "这把倾向误当成了持续状态。",
+        "一次放松的时刻不能推翻稳定倾向。",
+        "“更可能”而非“总是”，与课件一致。",
+        "两者相关：高特质焦虑者更可能有状态焦虑。"
+      ],
+      "source": "L12 · State vs trait anxiety · [B0012–B0013]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q16",
+      "conceptId": "L12-C12",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "特质焦虑与大五人格中的哪个维度相关？",
+      "stemEn": "Trait anxiety is related to which Big Five dimension?",
+      "options": [
+        "外向性",
+        "宜人性",
+        "尽责性",
+        "神经质"
+      ],
+      "optionsEn": [
+        "Extraversion",
+        "Agreeableness",
+        "Conscientiousness",
+        "Neuroticism"
+      ],
+      "answer": 3,
+      "explanation": "课件写明特质焦虑与 Big Five 的 Neuroticism 相关，老师说二者相关相当强。",
+      "optionExplanations": [
+        "课件明确说相关的不是外向性。",
+        "宜人性关乎合作和关系和谐。",
+        "尽责性关乎有条理和自律。",
+        "神经质是负性情绪倾向，与特质焦虑密切相关。"
+      ],
+      "source": "L12 · State vs trait anxiety · [B0012–B0013]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q17",
+      "conceptId": "L12-C13",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "关于特质焦虑与社交焦虑，哪项正确？",
+      "stemEn": "Which statement about trait anxiety and social anxiety is correct?",
+      "options": [
+        "二者相关但可分离：有人可能只在其中一项上高",
+        "高特质焦虑者必然也有社交焦虑",
+        "二者互斥，不可能同时存在",
+        "社交焦虑的担忧比特质焦虑更宽泛"
+      ],
+      "optionsEn": [
+        "They are correlated but dissociable: someone can be high in one but not the other",
+        "People high in trait anxiety always also have social anxiety",
+        "They are mutually exclusive and cannot co-occur",
+        "Social anxiety involves broader worry than trait anxiety"
+      ],
+      "answer": 0,
+      "explanation": "二者不互斥，而且相关，但也可分离。社交焦虑特定于他人评价，特质焦虑的担忧更宽泛。",
+      "optionExplanations": [
+        "与课件一致。",
+        "相关不等于必然同时出现。",
+        "课件明确说二者不互斥。",
+        "说反了，社交焦虑只限于社交评价，范围更窄。"
+      ],
+      "source": "L12 · Trait vs social anxiety · [B0014]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q18",
+      "conceptId": "L12-C14",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "应用",
+      "stem": "自拟情境：小刘的特质焦虑问卷得分偏高。哪项结论最恰当？",
+      "stemEn": "Study scenario: Liu scores above average on a trait anxiety inventory. Which conclusion is most appropriate?",
+      "options": [
+        "他已经确诊广泛性焦虑障碍",
+        "他在一个连续维度上偏高，更可能但不一定符合 GAD 诊断",
+        "因为特质焦虑是类别，他要么有要么没有",
+        "高分说明他的社交焦虑一定也很高"
+      ],
+      "optionsEn": [
+        "He has been diagnosed with Generalised Anxiety Disorder",
+        "He is higher on a continuous dimension and is more likely, but not certain, to meet criteria for GAD",
+        "Because trait anxiety is categorical, he either has it or he does not",
+        "A high score means his social anxiety must also be high"
+      ],
+      "answer": 1,
+      "explanation": "特质焦虑是人群中的变异维度。高分与 GAD 有关联，但不保证诊断。",
+      "optionExplanations": [
+        "问卷分数本身不是诊断。",
+        "维度高分与诊断类别有关联，但不等同。",
+        "特质焦虑是连续维度，GAD 才是类别。",
+        "两种焦虑相关但可分离。"
+      ],
+      "source": "L12 · Trait anxiety and GAD · [B0015]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q19",
+      "conceptId": "L12-C15",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "对特质焦虑与威胁刺激的注意，文献结果不一，最好如何整合？",
+      "stemEn": "Findings on attention to threat in trait anxiety have been mixed. How are they best integrated?",
+      "options": [
+        "高特质焦虑者只会回避威胁、从不注意它",
+        "高特质焦虑者只注意中性刺激",
+        "先警觉地注意威胁，随后刻意回避（警觉—回避）",
+        "注意偏向只在低特质焦虑者中出现"
+      ],
+      "optionsEn": [
+        "People high in trait anxiety only avoid threat and never attend to it",
+        "People high in trait anxiety attend only to neutral stimuli",
+        "Initial vigilance toward threat followed by deliberate avoidance (vigilance-avoidance)",
+        "Attentional bias appears only in people low in trait anxiety"
+      ],
+      "answer": 2,
+      "explanation": "注意投入和回避两类结果反映的是同一个随时间展开的模式：先警觉，后回避。",
+      "optionExplanations": [
+        "这忽略了初期的警觉阶段。",
+        "偏向针对的是威胁刺激，不是中性刺激。",
+        "这正是课件的 vigilance-avoidance 模式。",
+        "注意偏向与较高特质焦虑相关。"
+      ],
+      "source": "L12 · Attentional bias: vigilance-avoidance · [B0016]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q20",
+      "conceptId": "L12-C16",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：看到单词 growth，小许马上想到“肿瘤生长”。如果他特质焦虑较高，这最能说明什么？",
+      "stemEn": "Study scenario: On seeing the word ‘growth’, Xu immediately thinks of a tumour growing. If he is high in trait anxiety, what does this best illustrate?",
+      "options": [
+        "对威胁刺激的警觉—回避",
+        "偏好更宽的注意广度",
+        "情境选择",
+        "偏向威胁性解释的解释偏向"
+      ],
+      "optionsEn": [
+        "Vigilance-avoidance toward threatening stimuli",
+        "A preference for a broader attentional breadth",
+        "Situation selection",
+        "An interpretation bias toward threatening interpretations"
+      ],
+      "answer": 3,
+      "explanation": "Growth 既可理解为负性，也可理解为正性。高特质焦虑者更倾向负性解释，这是解释偏向。",
+      "optionExplanations": [
+        "警觉—回避讲的是注意分配随时间的变化，不是解读含义。",
+        "题目与注意广度无关。",
+        "他没有选择进入或避开某个情境。",
+        "对模糊刺激选择负性含义，就是解释偏向。"
+      ],
+      "source": "L12 · Interpretation bias · [B0017]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q21",
+      "conceptId": "L12-C17",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "注意控制理论（Eysenck）对焦虑的预测是什么？",
+      "stemEn": "What does Attentional Control Theory (Eysenck) predict about anxiety?",
+      "options": [
+        "焦虑对执行功能效率的影响大于对效果的影响",
+        "焦虑对效果的影响大于对效率的影响",
+        "焦虑只影响对情绪刺激的注意",
+        "焦虑会提高执行功能的效率"
+      ],
+      "optionsEn": [
+        "Anxiety impairs the efficiency more than the effectiveness of executive functions",
+        "Anxiety impairs effectiveness more than efficiency",
+        "Anxiety affects attention only to emotional stimuli",
+        "Anxiety increases the efficiency of executive functions"
+      ],
+      "answer": 0,
+      "explanation": "理论认为高焦虑者最终能达到同样表现（效果），但需要更长时间（效率）。",
+      "optionExplanations": [
+        "与理论预测一致。",
+        "把效率和效果说反了，这是老师特别提醒的陷阱。",
+        "课件强调问题不限于情绪性刺激。",
+        "焦虑与效率受损相关，不是效率提高。"
+      ],
+      "source": "L12 · Attentional Control Theory · [B0018]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q22",
+      "conceptId": "L12-C17",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "自拟情境：高特质焦虑的小杨在转换任务中最终正确率与他人相同，但反应时更长。这最符合哪种说法？",
+      "stemEn": "Study scenario: Yang, who is high in trait anxiety, reaches the same final accuracy as others on a shifting task but takes longer. Which account does this best fit?",
+      "options": [
+        "效果降低而效率保持",
+        "效率降低而效果保持，符合注意控制理论",
+        "执行功能能力完全丧失",
+        "焦虑只影响情绪刺激，与此任务无关"
+      ],
+      "optionsEn": [
+        "Reduced effectiveness with preserved efficiency",
+        "Reduced efficiency with preserved effectiveness, consistent with Attentional Control Theory",
+        "A complete loss of executive function ability",
+        "Anxiety affects only emotional stimuli, so it is irrelevant here"
+      ],
+      "answer": 1,
+      "explanation": "最终能做到说明效果保持，花更久说明效率降低，正是注意控制理论的预测。",
+      "optionExplanations": [
+        "最终正确率相同，效果并未降低。",
+        "与理论预测完全一致。",
+        "他最终能完成任务，能力没有丧失。",
+        "课件指出，即使是中性刺激，焦虑者的注意控制也会受影响。"
+      ],
+      "source": "L12 · Attentional Control Theory · [B0018]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q23",
+      "conceptId": "L12-C18",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "应用",
+      "stem": "关于特质焦虑与执行功能的元分析证据，哪项正确？",
+      "stemEn": "Which statement about the meta-analytic evidence on trait anxiety and executive functions is correct?",
+      "options": [
+        "元分析中每个被试是一个数据点",
+        "元分析显示特质焦虑与冲动性这一执行功能受损相关",
+        "特质焦虑与抑制和转换等执行功能的效率受损相关",
+        "元分析显示特质焦虑与执行功能毫无关系"
+      ],
+      "optionsEn": [
+        "In a meta-analysis, each participant is one data point",
+        "The meta-analysis shows trait anxiety is linked to impaired impulsivity, an executive function",
+        "Trait anxiety is associated with impaired efficiency of executive functions including inhibition and shifting",
+        "The meta-analysis shows no relationship between trait anxiety and executive functions"
+      ],
+      "answer": 2,
+      "explanation": "元分析汇总多项研究，发现特质焦虑与抑制、转换等执行功能的效率受损相关，强度中等。",
+      "optionExplanations": [
+        "元分析中每项已有研究才是一个数据点。",
+        "冲动性不是执行功能，课件列出的是抑制和转换。",
+        "与课件一致，抑制和转换都是执行功能。",
+        "元分析显示二者有中等程度的相关。"
+      ],
+      "source": "L12 · Meta-analytic evidence · [B0018]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q24",
+      "conceptId": "L12-C19",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "关于特质焦虑与注意控制，哪项正确？",
+      "stemEn": "Which statement about trait anxiety and attentional control is correct?",
+      "options": [
+        "特质焦虑与自评注意控制正相关",
+        "特质焦虑只与任务测量的注意控制有关，与自评无关",
+        "用任务测量时，特质焦虑与注意控制完全无关",
+        "特质焦虑与自评注意控制较差相关，且自评上的相关强于任务测量"
+      ],
+      "optionsEn": [
+        "Trait anxiety is positively correlated with self-reported attentional control",
+        "Trait anxiety relates only to task-measured attentional control, not self-report",
+        "With task measures, trait anxiety is entirely unrelated to attentional control",
+        "Trait anxiety is associated with poorer self-reported attentional control, more strongly than with task-measured control"
+      ],
+      "answer": 3,
+      "explanation": "特质焦虑与自评注意控制强负相关，例如认知失误更多。这种负相关在自评上更强，在任务表现上较弱但仍存在。",
+      "optionExplanations": [
+        "方向错了，应为负相关。",
+        "自评上的相关反而更强。",
+        "任务测量中也有负相关，只是较弱。",
+        "方向和强弱对比都正确。"
+      ],
+      "source": "L12 · Self-reported attentional control · [B0019]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q25",
+      "conceptId": "L12-C19",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "为什么特质焦虑与注意控制的负相关在自评上比在任务表现上更强？哪项是课上提到的解释？",
+      "stemEn": "Why might the negative correlation between trait anxiety and attentional control be stronger for self-report than for task performance? Which explanation was discussed?",
+      "options": [
+        "自评可能夹带悲观的报告偏差，也更接近有干扰的日常生活",
+        "实验室任务比问卷更接近日常生活",
+        "高特质焦虑者在实验室任务中表现更好",
+        "自评问卷完全不反映真实的注意控制"
+      ],
+      "optionsEn": [
+        "Self-reports may carry a pessimistic reporting bias and may better reflect distraction-filled everyday life",
+        "Lab tasks capture everyday life better than questionnaires",
+        "People high in trait anxiety perform better on lab tasks",
+        "Self-report questionnaires do not reflect genuine attentional control at all"
+      ],
+      "answer": 0,
+      "explanation": "老师给出两种解释：负性解释偏向带来的悲观自评，以及问卷更贴近有干扰的日常生活。她认为两者可能都有作用。",
+      "optionExplanations": [
+        "概括了课上的两种主要解释。",
+        "正相反，实验室去掉了日常干扰，更像测最大能力。",
+        "任务测量也显示负相关，并不是表现更好。",
+        "老师认为自评一部分反映真实的日常注意控制。"
+      ],
+      "source": "L12 · Self-reported attentional control · [B0019]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q26",
+      "conceptId": "L12-C20",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "关于特质焦虑与共情，哪项正确？",
+      "stemEn": "Which statement about trait anxiety and empathy is correct?",
+      "options": [
+        "与认知共情升高相关，与情感共情无关",
+        "与情感共情升高相关，与认知共情无关",
+        "与两种共情都降低相关",
+        "与两种共情都升高相关"
+      ],
+      "optionsEn": [
+        "Associated with increased cognitive, but not affective, empathy",
+        "Associated with increased affective, but not cognitive, empathy",
+        "Associated with reduced empathy of both kinds",
+        "Associated with increased empathy of both kinds"
+      ],
+      "answer": 1,
+      "explanation": "高特质焦虑者更容易感受他人的情绪（情感共情），但理解他人想法的能力（认知共情）与特质焦虑无关。",
+      "optionExplanations": [
+        "把两种共情对调了。",
+        "与课件一致。",
+        "情感共情是升高，不是降低。",
+        "认知共情没有相关。"
+      ],
+      "source": "L12 · Trait anxiety and empathy · [B0020]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q27",
+      "conceptId": "L12-C21",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "哪项发现最支持“特质焦虑者执行功能表现差，可能源于反刍而非能力低”？",
+      "stemEn": "Which finding best supports the idea that poorer executive function performance in trait anxiety may reflect rumination rather than lower ability?",
+      "options": [
+        "高焦虑者在所有任务上都完全无法完成",
+        "低焦虑者在任何条件下表现都不变",
+        "诱导低焦虑者反刍后，他们的表现也变得像高焦虑者",
+        "高焦虑者的自评注意控制更好"
+      ],
+      "optionsEn": [
+        "High-anxious people cannot complete any task at all",
+        "Low-anxious people’s performance never changes under any condition",
+        "Inducing rumination in low-anxious people makes their performance resemble that of high-anxious people",
+        "High-anxious people report better attentional control"
+      ],
+      "answer": 2,
+      "explanation": "若诱发反刍就能让低焦虑者表现变差，说明反刍这种状态因素足以压低表现，而不必是能力更低。",
+      "optionExplanations": [
+        "这与“最终能达到同样效果”的证据不符。",
+        "反刍诱导会改变他们的表现。",
+        "这正是课上提到的支持证据。",
+        "高焦虑者的自评注意控制其实更差，而且这与反刍解释无关。"
+      ],
+      "source": "L12 · Thought question: trait anxiety and EF · [B0021]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q28",
+      "conceptId": "L12-C22",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "Extrinsic emotion regulation 指什么？",
+      "stemEn": "What does extrinsic emotion regulation refer to?",
+      "options": [
+        "调节自己的情绪",
+        "只减少自己的负性情绪",
+        "只放大自己的正性情绪",
+        "调节他人的情绪"
+      ],
+      "optionsEn": [
+        "Regulating one’s own emotions",
+        "Only reducing one’s own negative emotions",
+        "Only amplifying one’s own positive emotions",
+        "Regulating another person’s emotions"
+      ],
+      "answer": 3,
+      "explanation": "Extrinsic 是调节他人的情绪，intrinsic 才是调节自己的情绪。",
+      "optionExplanations": [
+        "这是 intrinsic emotion regulation。",
+        "情绪调节的方向不止一种，对象也不是自己。",
+        "同样把对象说成了自己，方向也过窄。",
+        "正确定义。"
+      ],
+      "source": "L12 · Emotion regulation: definition · [B0022–B0023]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q29",
+      "conceptId": "L12-C22",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：在肃穆的葬礼上，旁人耳语了一句好笑的话，你立刻忍住不笑。这属于哪类情绪调节？",
+      "stemEn": "Study scenario: At a solemn funeral, someone whispers something funny and you immediately stop yourself from laughing. Which type of emotion regulation is this?",
+      "options": [
+        "内在调节：减少正性情绪",
+        "外在调节：减少负性情绪",
+        "内在调节：增加负性情绪",
+        "外在调节：增加正性情绪"
+      ],
+      "optionsEn": [
+        "Intrinsic regulation that decreases positive emotion",
+        "Extrinsic regulation that decreases negative emotion",
+        "Intrinsic regulation that increases negative emotion",
+        "Extrinsic regulation that increases positive emotion"
+      ],
+      "answer": 0,
+      "explanation": "你调节的是自己的情绪（内在），而且是压低想笑的正性情绪。课件说明情绪调节不只是减少负性情绪。",
+      "optionExplanations": [
+        "对象是自己，方向是减少正性情绪。",
+        "对象不是他人，被调节的也不是负性情绪。",
+        "你没有让自己更难过。",
+        "对象不是他人，方向也不是增加。"
+      ],
+      "source": "L12 · Emotion regulation: definition · [B0022–B0023]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q30",
+      "conceptId": "L12-C23",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：一封邮件让你很恼火，你把它归档到文件夹里，处理其他邮件时就不会看到它。这属于 Gross 模型的哪一类？",
+      "stemEn": "Study scenario: An email annoys you, so you file it away in a folder so you won’t see it while handling other emails. Which category of Gross’s model is this?",
+      "options": [
+        "情境选择",
+        "情境修改",
+        "认知改变",
+        "反应调节"
+      ],
+      "optionsEn": [
+        "Situation selection",
+        "Situation modification",
+        "Cognitive change",
+        "Response modulation"
+      ],
+      "answer": 1,
+      "explanation": "你已身处情境中，并直接改变了它（邮件不再出现在收件箱）。这是课件给出的情境修改例子。",
+      "optionExplanations": [
+        "情境选择是决定进不进入某个情境，例如拒绝邀请。",
+        "直接改变情境以改变情绪影响。",
+        "你没有改变对邮件的看法。",
+        "你没有在情绪产生后去控制表情或生理反应。"
+      ],
+      "source": "L12 · Gross model: situation selection and modification · [B0024–B0025]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q31",
+      "conceptId": "L12-C24",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "基础",
+      "stem": "自拟情境：演讲时很紧张，你专门看观众中一直微笑点头的朋友。这属于哪类策略？",
+      "stemEn": "Study scenario: Nervous during a speech, you focus on a friend in the audience who is smiling and nodding. Which strategy is this?",
+      "options": [
+        "情境选择",
+        "反应调节",
+        "注意部署",
+        "外在情绪调节"
+      ],
+      "optionsEn": [
+        "Situation selection",
+        "Response modulation",
+        "Attentional deployment",
+        "Extrinsic emotion regulation"
+      ],
+      "answer": 2,
+      "explanation": "你没有改变情境，只是引导自己的注意来影响情绪。这是注意部署。",
+      "optionExplanations": [
+        "你仍在演讲，没有选择避开情境。",
+        "你没有在情绪产生后掩饰表情。",
+        "为调节情绪而引导注意，就是注意部署。",
+        "你调节的是自己的情绪，属于内在调节。"
+      ],
+      "source": "L12 · Gross model: attentional deployment · [B0026]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q32",
+      "conceptId": "L12-C24",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "以下哪项是 James Gross 情绪调节模型的组成部分？",
+      "stemEn": "Which of the following is a component of James Gross’s model of emotion regulation?",
+      "options": [
+        "注意广度偏好",
+        "警觉—回避",
+        "解释偏向",
+        "注意部署"
+      ],
+      "optionsEn": [
+        "Attentional breadth preference",
+        "Vigilance-avoidance",
+        "Interpretation bias",
+        "Attentional deployment"
+      ],
+      "answer": 3,
+      "explanation": "Gross 模型包括情境选择、情境修改、注意部署、认知改变和反应调节。其他选项是本讲另外几部分的概念。",
+      "optionExplanations": [
+        "这是注意广度的个体差异概念，不是情绪调节阶段。",
+        "这是特质焦虑的注意偏向模式。",
+        "这是特质焦虑对模糊刺激的解读倾向。",
+        "属于 Gross 模型的五类之一。"
+      ],
+      "source": "L12 · Gross model: attentional deployment · [B0026]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q33",
+      "conceptId": "L12-C25",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：同事今天只点头没笑。你先想“他讨厌我”，后来想“他今天要交基金申请，压力大”。这是哪种策略？",
+      "stemEn": "Study scenario: A colleague nods but doesn’t smile. You first think ‘they dislike me’, then think ‘their grant is due today, so they’re stressed’. Which strategy is this?",
+      "options": [
+        "重评，属于认知改变",
+        "压抑，属于反应调节",
+        "情境修改",
+        "注意部署"
+      ],
+      "optionsEn": [
+        "Reappraisal, a form of cognitive change",
+        "Suppression, a form of response modulation",
+        "Situation modification",
+        "Attentional deployment"
+      ],
+      "answer": 0,
+      "explanation": "情境没变，你改变的是对它的解释。这是重评，属于认知改变。",
+      "optionExplanations": [
+        "对同一事件换一种解释，就是重评。",
+        "你没有只掩饰表情，而是改变了想法。",
+        "你没有改变情境本身。",
+        "你没有把注意转移到别处。"
+      ],
+      "source": "L12 · Cognitive change and reappraisal · [B0027]；[B0029]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q34",
+      "conceptId": "L12-C26",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "自拟情境：收到不喜欢的礼物，小丁仍感到失望，但压住皱眉、挤出笑容。哪项最准确？",
+      "stemEn": "Study scenario: Ding receives a gift she dislikes. She still feels disappointed but suppresses her frown and smiles. Which description is most accurate?",
+      "options": [
+        "认知改变：她改变了对礼物的解释",
+        "反应调节：改变情绪表现，底层情绪不一定改变",
+        "情境选择：她避免进入这个情境",
+        "重评：她的失望因此被消除了"
+      ],
+      "optionsEn": [
+        "Cognitive change: she reinterpreted the gift",
+        "Response modulation: it changes the expression, not necessarily the underlying emotion",
+        "Situation selection: she avoided the situation",
+        "Reappraisal: her disappointment was thereby removed"
+      ],
+      "answer": 1,
+      "explanation": "她在情绪已经产生后控制表情，这是反应调节（压抑）。题目说她仍然失望，所以没有改变解释。",
+      "optionExplanations": [
+        "她没有改变对礼物的看法。",
+        "在情绪产生后控制表现，正是反应调节。",
+        "她已身处情境中，没有回避。",
+        "重评改变解释和情绪本身，而她仍感到失望。"
+      ],
+      "source": "L12 · Response modulation and suppression · [B0028]；[B0034]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q35",
+      "conceptId": "L12-C27",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "基础",
+      "stem": "自拟情境：小何日常经常重评。按课件，他最可能有哪种结果？",
+      "stemEn": "Study scenario: He often uses reappraisal in daily life. According to the lecture, which outcome is he most likely to show?",
+      "options": [
+        "更多负性情绪，更少正性情绪",
+        "对抑郁和焦虑的易感性更高",
+        "更多正性情绪，生活满意度更高",
+        "社会联结更弱"
+      ],
+      "optionsEn": [
+        "More negative and less positive emotion",
+        "Greater vulnerability to depression and anxiety",
+        "More positive emotion and greater life satisfaction",
+        "Weaker social connectedness"
+      ],
+      "answer": 2,
+      "explanation": "更常重评与更多正性情绪、更少负性情绪、更高生活满意度、自尊和社会联结，以及更低的抑郁焦虑易感性相关。",
+      "optionExplanations": [
+        "方向说反了。",
+        "易感性是降低，不是升高。",
+        "与课件列出的结果一致。",
+        "社会联结是更强，不是更弱。"
+      ],
+      "source": "L12 · Reappraisal propensity and outcomes · [B0030]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q36",
+      "conceptId": "L12-C27",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "以下哪项不是课件列出的“更常重评”的相关结果？",
+      "stemEn": "Which of the following is NOT listed in the lecture as an outcome associated with reappraising more often?",
+      "options": [
+        "更高的自尊",
+        "更强的社会联结",
+        "更低的抑郁和焦虑易感性",
+        "更强的状态焦虑"
+      ],
+      "optionsEn": [
+        "Higher self-esteem",
+        "Stronger social connectedness",
+        "Reduced vulnerability to depression and anxiety",
+        "Greater state anxiety"
+      ],
+      "answer": 3,
+      "explanation": "课件列出的都是积极结果，更强的状态焦虑不在其中，方向也不符合。",
+      "optionExplanations": [
+        "是列出的结果之一。",
+        "是列出的结果之一。",
+        "是列出的结果之一。",
+        "这不是课件列出的结果，方向也相反。"
+      ],
+      "source": "L12 · Reappraisal propensity and outcomes · [B0030]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q37",
+      "conceptId": "L12-C28",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Gross 团队追踪大学生四年的研究，哪项描述正确？",
+      "stemEn": "Which statement correctly describes the four-year college study by Gross’s group?",
+      "options": [
+        "入学时常用重评者四年后社会联结更强（含同伴评分），常用压抑者相反",
+        "这是横断设计，因此能确定时间先后",
+        "研究只用自评测量社会联结",
+        "常用压抑者四年后朋友最多"
+      ],
+      "optionsEn": [
+        "Students who reappraised more at entry had greater social connectedness after four years (including peer ratings); suppression showed the opposite",
+        "It was a cross-sectional design, so it established temporal order",
+        "Social connectedness was measured by self-report only",
+        "Students who used suppression had the most friends after four years"
+      ],
+      "answer": 0,
+      "explanation": "研究是纵向设计：入学第一天测策略，第四年末用自评和同伴评分测结果。重评者社会联结更强，压抑者相反。",
+      "optionExplanations": [
+        "结果和测量方式都正确。",
+        "这是纵向设计，横断设计无法显示时间先后。",
+        "研究还加入了同伴互评，以减少自评偏差。",
+        "压抑者的结果与重评者相反。"
+      ],
+      "source": "L12 · Gross longitudinal study · [B0031]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q38",
+      "conceptId": "L12-C29",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "实验中按指示使用重评时，焦虑和抑郁者与他人获得同样的情绪下调效果。这说明什么？",
+      "stemEn": "When instructed to reappraise in the lab, anxious and depressed people show the same reduction in negative emotion as others. What does this indicate?",
+      "options": [
+        "他们重评能力受损",
+        "他们较少使用重评是倾向问题，不是能力缺陷",
+        "重评对焦虑和抑郁者无效",
+        "重评倾向是固定的，无法改变"
+      ],
+      "optionsEn": [
+        "Their ability to reappraise is impaired",
+        "Their lower use of reappraisal reflects propensity, not an ability deficit",
+        "Reappraisal is ineffective for anxious and depressed people",
+        "Reappraisal propensity is fixed and cannot be changed"
+      ],
+      "answer": 1,
+      "explanation": "按指示时效果相同，说明能力不缺。他们日常较少使用重评，是倾向差异。",
+      "optionExplanations": [
+        "按指示时效果相同，说明能力并未受损。",
+        "正是 propensity vs ability 的区分。",
+        "他们获得了同样的情绪下调效果。",
+        "课件指出重评倾向可以改变，这也是 CBT 的作用。"
+      ],
+      "source": "L12 · Reappraisal propensity can be changed · [B0032]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q39",
+      "conceptId": "L12-C29",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "关于重评倾向，哪项符合课件？",
+      "stemEn": "Which statement about the propensity to reappraise matches the lecture?",
+      "options": [
+        "它与生俱来，无法改变",
+        "只有不焦虑的人才能学会重评",
+        "它可以改变，CBT 的核心部分就是学习和练习重评",
+        "它与心理治疗无关"
+      ],
+      "optionsEn": [
+        "It is innate and cannot be changed",
+        "Only non-anxious people can learn to reappraise",
+        "It can be changed; a core part of CBT is learning and practising reappraisal",
+        "It is unrelated to psychological therapy"
+      ],
+      "answer": 2,
+      "explanation": "课件写明重评倾向可以改变，CBT 的核心部分就是学习和练习重评。",
+      "optionExplanations": [
+        "课件明确说可以改变。",
+        "焦虑者重评能力并不缺，也能提高使用倾向。",
+        "与课件一致。",
+        "CBT 正是以培养重评为核心。"
+      ],
+      "source": "L12 · Reappraisal propensity can be changed · [B0032]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q40",
+      "conceptId": "L12-C30",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "应用",
+      "stem": "关于情绪调节策略的选择，哪项最符合课件？",
+      "stemEn": "Which statement about choosing emotion regulation strategies best matches the lecture?",
+      "options": [
+        "重评在所有情境中都是唯一有效的策略",
+        "策略库越窄，适应越好",
+        "任何情绪都应该立即被调节掉",
+        "不同策略在不同情境中有效性不同，例如强烈负性情绪初期分心可能更有效"
+      ],
+      "optionsEn": [
+        "Reappraisal is the only effective strategy in every situation",
+        "The narrower one’s repertoire, the better one adapts",
+        "Every emotion should be regulated away immediately",
+        "Different strategies work better in different situations; for example, distraction may help more early on with intense negative emotion"
+      ],
+      "answer": 3,
+      "explanation": "重评很有用，但不是万能的。个体在策略库广度和灵活选用上的差异也很重要。",
+      "optionExplanations": [
+        "重评不是唯一有用的策略。",
+        "课件强调策略库要广、选用要灵活。",
+        "课堂讨论指出情绪有功能，有时不调节反而更好。",
+        "与课件的灵活性观点一致。"
+      ],
+      "source": "L12 · Flexibility; when not to regulate · [B0033]；[B0035]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q41",
+      "conceptId": "L12-C31",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "Goodhew & Edwards (2024) 如何测量被试对双稳态图像的情绪反应？",
+      "stemEn": "In Goodhew and Edwards (2024), how were emotional reactions to bistable images measured?",
+      "options": [
+        "确认被试能看到双稳态后，让其在 -4 到 +4 上评定情绪效价",
+        "记录被试在两种知觉之间切换时的脑成像",
+        "只测被试能否看到两种图像",
+        "用同伴评分测量被试的情绪"
+      ],
+      "optionsEn": [
+        "After confirming participants could perceive the bistability, they rated emotional valence from -4 to +4",
+        "Brain imaging recorded while participants switched between percepts",
+        "Only whether participants could see both interpretations was measured",
+        "Peer ratings were used to measure participants’ emotions"
+      ],
+      "answer": 0,
+      "explanation": "研究先确认被试能看到两种解释，再请其自评此刻的情绪效价（-4 到 +4），并测 4 个预测变量。",
+      "optionExplanations": [
+        "与研究方法一致。",
+        "脑成像是双稳态图像的其他用途，本研究没有使用。",
+        "能否看到只是筛查步骤，主要测量的是情绪评分。",
+        "同伴评分出自 Gross 的纵向研究。"
+      ],
+      "source": "L12 · Bistable images: method and predictors · [B0037–B0040]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q42",
+      "conceptId": "L12-C32",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "关于对双稳态图像情绪反应的个体差异，哪项正确？",
+      "stemEn": "Which statement about individual differences in emotional reactions to bistable images is correct?",
+      "options": [
+        "情感共情越高，情绪反应越负性",
+        "不确定性无法容忍越高，情绪反应越负性",
+        "负性情感越高，情绪反应越正性",
+        "不确定性无法容忍与情绪反应无关"
+      ],
+      "optionsEn": [
+        "Higher affective empathy is associated with more negative emotional reactions",
+        "Higher intolerance of uncertainty is associated with more negative emotional reactions",
+        "Higher negative affect is associated with more positive emotional reactions",
+        "Intolerance of uncertainty is unrelated to emotional reactions"
+      ],
+      "answer": 1,
+      "explanation": "IU 与更负性的反应相关。此外 CE 与更正性的反应相关，AE 无关，NA 与更负性的反应相关。",
+      "optionExplanations": [
+        "情感共情与情绪反应无关。",
+        "与结果一致。",
+        "方向错了，NA 与更负性的反应相关。",
+        "IU 与更负性的反应相关，并非无关。"
+      ],
+      "source": "L12 · Bistable images: results · [B0041]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q43",
+      "conceptId": "L12-C32",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：小钱很难容忍不确定，平时也容易有负性情绪。按研究结果，他看鸭兔图时最可能怎样？",
+      "stemEn": "Study scenario: Qian is high in intolerance of uncertainty and in negative affect. Based on the findings, how is he most likely to react to the duck–rabbit image?",
+      "options": [
+        "情绪反应偏正性",
+        "没有情绪反应，因为只有情感共情起作用",
+        "情绪反应偏负性",
+        "无法看出这是双稳态图像"
+      ],
+      "optionsEn": [
+        "A more positive emotional reaction",
+        "No reaction, because only affective empathy matters",
+        "A more negative emotional reaction",
+        "He will be unable to see that the image is bistable"
+      ],
+      "answer": 2,
+      "explanation": "IU 和 NA 都预测更负性的情绪反应。",
+      "optionExplanations": [
+        "更正性的反应与认知共情高相关。",
+        "情感共情恰恰与情绪反应无关。",
+        "两个预测变量都指向更负性的反应。",
+        "这两项特质不决定能否看到两种解释。"
+      ],
+      "source": "L12 · Bistable images: results · [B0041]",
+      "origin": "notes"
+    },
+    {
+      "id": "L12-Q44",
+      "conceptId": "L12-C33",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Goodhew & Edwards 的回归分析发现了什么？",
+      "stemEn": "What did the regression analysis in Goodhew and Edwards find?",
+      "options": [
+        "控制其他变量后，只有 IU 仍有独特贡献",
+        "情感共情是唯一的独特预测变量",
+        "所有预测变量控制后都不再有贡献",
+        "控制 IU 和 NA 后，认知共情仍独特地解释情绪反应的变异"
+      ],
+      "optionsEn": [
+        "Only IU retained a unique contribution after controlling for the others",
+        "Affective empathy was the only unique predictor",
+        "No predictor contributed once the others were controlled",
+        "Cognitive empathy explained unique variance in emotional reactions even after controlling for IU and NA"
+      ],
+      "answer": 3,
+      "explanation": "回归让预测变量“正面对决”。结果是认知共情在控制 IU 和 NA 后仍有独特贡献。",
+      "optionExplanations": [
+        "独特贡献来自认知共情，不是 IU。",
+        "情感共情与情绪反应根本无关。",
+        "认知共情仍有独特贡献。",
+        "与课件结论一致。"
+      ],
+      "source": "L12 · Bistable images: regression and implications · [B0042–B0043]",
+      "origin": "notes"
+    }
+  ],
+  "file": "L12 整理笔记（录课文字稿 + PSYC1004_2026_Personality_Lecture4.pdf）",
+  "sourceBlocks": [
+    {
+      "id": 1,
+      "text": "本讲概览：注意、焦虑、情绪调节与双稳态图像\nPersonality Module Lecture 4（第 12 周，学期最后一讲），A/Prof Stephanie Goodhew。对应四段预录视频：\n- Video 4a：Attentional deployment: Individual differences（注意部署的个体差异）\n- Video 4b：Trait anxiety（特质焦虑）\n- Video 4c：Emotion regulation（情绪调节）\n- Video 4d：Individual differences in emotional reactions to bistable images（对双稳态图像的情绪反应差异）\n贯穿全讲的一条线：个体差异不只表现在外显行为上，也表现在注意怎么分配、怎么解释模糊信息、情绪怎么调节等\"微观\"层面。反复出现的对比：preference vs ability（偏好 vs 能力）、efficiency vs effectiveness（效率 vs 效果）、self-report vs task performance（自评 vs 任务表现）、propensity vs ability（使用倾向 vs 能力）。"
+    },
+    {
+      "id": 2,
+      "text": "注意 = 选择：三类视觉注意\n任何场景里可用的信息都多于大脑一次能处理的量（所有感官都如此，心理学家最关注视觉，因为视觉分辨率最高）。大脑要（多数是非意识地）决定注意什么、放掉什么——attention = selection，像一个分诊（triage）机制，优先处理一部分信息，代价是其余信息被丢掉。\n认知心理学区分三类视觉注意：\n- Feature-based attention（基于特征）：优先某种特征，例如找戴红帽子的朋友时搜寻人群里的红色。\n- Object-based attention（基于物体）：把注意放在某个物体上。\n- Space-based attention（基于空间，也叫 spatial attention）：注意空间中的某个位置。\n日常生活中三者常混合使用；本讲内容属于 spatial attention。"
+    },
+    {
+      "id": 3,
+      "text": "空间注意的两种调节：转移与广度\n常用\"聚光灯 spotlight\"比喻：被照亮的部分得到优先处理，其余在暗处。人调节空间注意主要有两种方式：\n1. Shifts of attention（注意转移）：改变注意在空间中的位置——移动聚光灯照的地方。例：先看画面中一位女士的脸，再看一位男士的脸。\n2. Changes in attentional breadth（注意广度变化）：改变聚光灯的大小——是窄而集中地盯住一小块，还是宽而分散地覆盖大片区域。例：先窄地盯一张脸，再放宽去了解整个场景在发生什么。\n代价：注意放宽时覆盖范围更大，但分到每个位置的\"资源\"更少，每处获得的注意优势更弱；窄时每处优势更强。"
+    },
+    {
+      "id": 4,
+      "text": "关键区分：偏好 preference vs 能力 ability\n课件定义：\n- Preference = 任务或情境不强制、不偏向某种方式时，个体自己选择怎么做（自发倾向）。\n- Ability = 任务或情境要求个体必须这样做时，个体能做得多好（即能多好地调节自己的注意）。\n老师补充：个体差异更常（但不是只）出现在偏好上，而不是能力上。偏好和能力并不一定同向：有某种偏好不代表另一种方式做不好，反之亦然。\n考试提示：老师说注意广度具体怎么测量本课不展开（二年级再讲），只需在概念层面理解\"测的是偏好还是能力\"。"
+    },
+    {
+      "id": 5,
+      "text": "东方 vs 西方文化背景：偏好不同，能力无差异\n课件：Eastern cultural background（如在中国长大）与比 Western（如在澳大利亚长大）更宽的 preferred attentional breadth 相关，但两组在 ability 上没有差异。\n解释：文化背景可能给人一种\"自发倾向\"——更关注细节还是更关注整体大图景；但不影响在任务要求下采用窄或宽注意的能力。\n易错：东方背景的人\"更擅长/更能\"采用宽注意是错的——差异只在偏好。"
+    },
+    {
+      "id": 6,
+      "text": "Himba vs 英国被试：偏好窄，能力反而更强\nHimba 是纳米比亚一个偏远部落，与英国被试文化差异很大，是有趣的跨文化比较。\n- 偏好：Himba 被试的 preferred attentional breadth 比英国被试更窄（自发更倾向窄注意）。\n- 能力：在要求采用窄或宽注意的任务中，Himba 被试在两种能力上都优于英国被试（narrow 和 broad 都更好）。\n结论：偏好与能力相对脱钩（decoupled）——偏好窄注意并不会让人在采用宽注意时受损。考试中\"偏好窄注意的人采用宽注意能力受损\"是错误说法，Himba 研究正是反例。"
+    },
+    {
+      "id": 7,
+      "text": "自闭症谱系障碍 ASD：偏好窄，能力无差异\n关于 ASD 人群注意广度是否更窄，文献曾有争论、结果不一。用 preference vs ability 视角后，争论得到澄清：\n- 用偏好测量时，ASD 组比神经典型（neurotypical）对照组明显更偏好窄注意广度。\n- 同一批被试的能力测量中没有差异：ASD 被试在要求时能采用宽或窄注意，只是偏好窄。\n易错：ASD 是偏好\"窄\"，不是\"宽\"；差异在偏好，不在能力。\n老师小结：与注意广度相关的心理变量范围很广，从神经多样性到文化差异。"
+    },
+    {
+      "id": 8,
+      "text": "经验开放性与眼动：更小的扫视、更短的扫描路径\nBig Five 中 Openness to Experience 更高的人看场景时：\n- saccades（扫视：探索场景时眼睛的小跳动）更小；\n- scan paths（扫描路径：每次移动眼睛时位置之间的距离）更短。\n解释：提示他们与视觉信息有更\"投入、沉浸\"（absorbed）的接触——把注意分配给场景中更多部分，在每部分花更多时间探索。这与开放性\"好奇、喜欢沉浸探索世界\"的人格画像一致。\n意义：人格倾向甚至在\"把眼睛放在哪里\"这种较低层次的行为上也有体现（至少是相关）。\n易错：方向是\"更小、更短\"，不是\"更大、更长\"。"
+    },
+    {
+      "id": 9,
+      "text": "工作记忆容量与注意广度的收缩效率\n有时任务要求我们按需改变注意广度（找精细空间细节需要窄注意；把握整体大意需要宽注意）。另一个个体差异视角：人能多快、多高效地按需调整注意广度。\nworking memory capacity（工作记忆容量，与之前讲的执行功能中的 updating 有关）：\n- 在需要频繁（frequent）收缩注意广度的情境中，工作记忆容量高 = 效率更高。这符合执行功能\"以目标导向方式调节注意资源\"的作用。\n- 在多数时候不需调整、偶尔（infrequent）才要收缩的情境中，关系反过来：工作记忆容量高 = 效率更低。\n课件结论：这体现了 persistence 与 flexibility 之间的权衡（trade-off）。"
+    },
+    {
+      "id": 10,
+      "text": "持久性—灵活性权衡 persistence vs flexibility\n老师解释：有时需要把注意优化到当前要求并\"牢牢保持\"（persistence），有时需要更灵活、对环境变化更敏感（flexibility）。人可能偏向其中一种策略。\n- 工作记忆容量高的人更像 persistence 风格：把注意极度优化到\"多数试次\"的要求上，所以偶尔需要切换的试次会让他们\"措手不及\"。\n- 工作记忆容量较低的人对多数试次优化得少一些，更开放、准备好应付偶尔的调整，更靠近 flexibility 一端。\n课堂问答补充：\n- 在宽窄注意之间切换也是一种 task switching，老师推测它与一般的 shifting 执行功能有关（尚未研究）。\n- 有人提出真正的执行功能可能是一种\"元控制 meta-control\"：能根据情境选择偏向持久或灵活，而不是总是其中一种。\n- 设计良好的偏好测量应很少反映执行功能，但现实生活中更广的情境因素可能仍有影响。"
+    },
+    {
+      "id": 11,
+      "text": "注意是人格的一部分：相关不等于因果\n课件：注意塑造了我们对周围世界的感知，所以值得作为人格与个体差异的一个方面来考虑。\n人格（如开放性）与\"微观注意行为\"（眼睛看哪里、注意聚焦在哪）的联系目前是相关关系：例如自评人格与看场景时的眼动相关。\n因果方向尚未确定：是高开放性导致这种看的方式？还是某种视觉投入方式让人变得更好奇？或两者相互强化？可能需要在发展早期做更多研究。目前只能说人格与注意行为\"紧密交织\"。\n课堂问答：眼神接触的个体差异受多种因素影响——文化（如一些澳大利亚原住民以不直视为尊重）、社交焦虑、自闭特质等；从单个人的单次行为很难推断原因，而且这种行为是可以学习改变的。"
+    },
+    {
+      "id": 12,
+      "text": "特质焦虑的定义 trait anxiety\n课件定义：trait anxiety 是一种在许多情境中注意、体验并报告负性情绪（恐惧、担忧、焦虑）的持久倾向（enduring tendency）。\n- 对情境和事件有稳定的\"威胁性\"知觉：日常很多事情是模糊的（不明确好或坏），高特质焦虑者更容易把它们解释为威胁。\n- 更容易体验 state anxiety，尤其是在多数人不会焦虑的情境中。\n- 与 Big Five 中的 Neuroticism（神经质）相关（老师：相关相当强）。\n老师补充：\"relatively enduring\"——没有特质是完全固定不变的。焦虑本身不一定是坏事：适当的焦虑有保护作用（避免危险、促使做体检、涂防晒等有益但无聊的行为）。"
+    },
+    {
+      "id": 13,
+      "text": "状态焦虑 vs 特质焦虑\n- State anxiety：此时此刻是否正在感到焦虑。\n- Trait anxiety：背后的稳定倾向。\n二者相关但可分离：高特质焦虑者更可能体验状态焦虑，但并非总在焦虑。老师的例子：高特质焦虑者度假时悠闲喝柠檬水，完全没有状态焦虑。他们只是在更大范围的情境中更可能焦虑。\n易错：\"高特质焦虑的人总是感到焦虑\"是错的；\"特质焦虑与外向性相关\"也是错的——相关的是神经质。"
+    },
+    {
+      "id": 14,
+      "text": "特质焦虑 vs 社交焦虑\n- Social anxiety：对他人负面评价的普遍恐惧（pervasive fear of negative evaluation by others），常伴随回避社交场合。担忧特定于社交领域。\n- Trait anxiety：担忧更宽泛、弥散，可能关于生活中各种事情出错，不只是被评价。\n二者不互斥（not mutually exclusive），而且相关：高特质焦虑者更可能也有高社交焦虑；但可分离——有人只高其中一项。\n易错：\"高特质焦虑者必然也有社交焦虑\"是错的。"
+    },
+    {
+      "id": 15,
+      "text": "维度 vs 类别：特质焦虑与广泛性焦虑障碍 GAD\n- Trait anxiety 是人群中的一个变异维度（dimension of variation within the population）：像正态分布（钟形曲线），多数人在中间，少数很高或很低，中间各种水平都有。每个人都有一个分数。\n- 较高的特质焦虑可能与诊断类别 Generalised Anxiety Disorder（GAD）相关联。\n- 维度取向关注连续变异、不设特定分界；临床取向则是类别——满足诊断标准就给诊断，不满足就不给（\"有或没有\"）。\n- 特质焦虑分数越高，越可能符合诊断，但不保证；两者不是同一件事。\n课堂问答：全球冲突期间焦虑诊断增多，可能反映真实痛苦增加；诊断是一个人一段时间可能满足、经治疗也可离开的类别，应把它视为\"可能需要更多支持\"的信号，而不是说此人本质上有问题。"
+    },
+    {
+      "id": 16,
+      "text": "注意偏向：警觉—回避 vigilance-avoidance\n特质焦虑与对威胁刺激的 attentional bias 有关：注意作为分诊机制，对高特质焦虑者来说，任何可能有威胁的东西都\"插队到最前面\"。\n文献结果曾不一致：有研究发现 attentional engagement bias（更注意威胁刺激而非中性刺激），也有研究发现相反——更回避威胁刺激。综合起来是一个随时间展开的模式：vigilance-avoidance——\n1. 先是警觉（vigilance）：初期对威胁刺激特别注意；\n2. 后是回避（avoidance）：随后刻意脱离、避开不看威胁刺激。\n这会强化焦虑：注意不成比例地偏向威胁，使人觉得世界非常危险（相比同一环境中的中性甚至积极事物）。"
+    },
+    {
+      "id": 17,
+      "text": "解释偏向 interpretation bias\n即使注意分配之后，人们对同一刺激的解释也不同。给出模糊刺激（可做多种解释），看人倾向积极还是消极解释。\n特质焦虑与偏向威胁性解释的 interpretation bias 有关：\n- 模糊面孔：可能是中性也可能带一点愤怒，高特质焦虑者更可能判断为愤怒（甚至\"是在生我的气\"）；低特质焦虑者更可能看作中性。\n- 词语 growth：既可理解为肿瘤生长（负性），也可理解为成长进步（正性）；高特质焦虑者更可能马上想到负性含义。\n课堂问答：用软件把同一人的愤怒脸和中性脸按比例 morph。一般人大约在 30–40% 愤怒成分时开始说\"愤怒\"；高特质焦虑者可能低到 10–20% 就判为愤怒——是连续体上的\"切入点\"更早，而非只会说负面。老师认为特质焦虑中没有针对快乐的解释偏向；但社交焦虑者可能把笑脸看作\"在嘲笑我\"，视为威胁。"
+    },
+    {
+      "id": 18,
+      "text": "注意控制理论：效率 vs 效果；元分析证据\n焦虑中更广泛的注意控制问题不限于情绪性刺激：即使用完全中性的刺激，高特质焦虑者以目标导向方式调节注意也更困难。\nAttentional Control Theory（Eysenck）：焦虑对 efficiency（效率）的影响大于对 effectiveness（效果）的影响。\n- Efficiency：做到某件事需要多久（多少资源）。\n- Effectiveness：最终能否做到。\n即高特质焦虑者最终能达到相同表现水平，只是要花更长时间。\nMeta-analytic evidence：特质焦虑与执行功能效率受损相关，包括 inhibition（抑制）和 shifting（转换）；近期元分析支持特质焦虑与执行功能效率（而非效果）受损之间有中等程度相关。\nMeta-analysis 是什么：普通研究中每个被试是一个数据点；元分析中每个已有研究是一个数据点，把各研究效应量做加权平均，看总体效应，并可检验调节变量（如测量方式）的影响。适合文献较多、结果不一致时综合结论。\n考试提示：老师强调\"effectiveness 降低\"是错误选项，\"efficiency 降低\"才对。"
+    },
+    {
+      "id": 19,
+      "text": "特质焦虑与自评注意控制：强负相关，自评比任务更强\n- 特质焦虑与 self-reported attentional control 强负相关：特质焦虑越高，自评注意控制越差，例如 Cognitive Failures Questionnaire（CFQ）上报告更多日常认知失误（忘记约会、忘了走进房间要干什么）。\n- 这种负相关在自评测量上比在行为任务表现测量上更强（任务测量也是负相关，只是较弱）。\n为什么？两种主要解释：\n1. 报告偏差：自评分数一部分反映真实注意控制，另一部分反映人对自身表现普遍乐观或悲观的倾向；高特质焦虑者有负性解释偏向，可能对自己也更悲观，所以相关看起来更强。\n2. 生态效度：实验室任务去除了日常干扰（手机关机、不许说话），更像测\"最大能力\"；问卷更接近日常生活中实际使用注意控制的倾向（propensity）。\n老师认为两者可能都有。改进方向：ecological momentary assessment（日常生活中多次实时采样注意状态，甚至手机上弹出小任务）。\n方法论：结论若得到多种方法的 convergent evidence（如实验室与现场研究都显示 X 与 Y 相关），可信度更高——多方法三角互证。\n易错：\"特质焦虑与自评注意控制正相关\"是错的。"
+    },
+    {
+      "id": 20,
+      "text": "特质焦虑与共情、情绪调节\n- 特质焦虑与 affective empathy（情感共情：感受/\"接住\"他人的情绪）升高相关，与 cognitive empathy（认知共情：理解他人的想法和感受）无关。老师：认知共情上没有相关，意思是高特质焦虑者中认知共情有高有低。\n- 特质焦虑与较少使用适应性情绪调节策略相关（接下一部分）。\n易错：不能笼统说\"高特质焦虑的人更有共情\"——只在情感共情上更高。"
+    },
+    {
+      "id": 21,
+      "text": "思考题：为什么特质焦虑与执行功能任务表现较差有关？\nThought question：为什么特质焦虑可能与执行功能任务上较差表现相关？\n- 一种解释：高特质焦虑者执行功能能力本身更低（较悲观的结论）。\n- 另一种解释：特质焦虑伴随 rumination（反刍：反复思考担忧），占用了部分心理\"带宽\"。他们的能力不一定更低，只是部分资源被反刍占用。有证据支持：让低焦虑者进行反刍，他们的表现也会变得像高焦虑者。这是较乐观的信息——帮助人管理反刍，可能就能发挥完整的执行功能。\n- 测量层面：执行功能是从任务表现推断出来的假设构念。能力会影响表现，但很多非能力因素（睡眠剥夺、动机、反刍等状态因素）也会影响表现。例如对自我中心/心理变态特质较高的人，可能需要提供与表现挂钩的奖励，才能确定测到的是能力而非动机。\n- 因此\"表现较差\"不一定等于\"能力较差\"。\n课堂补充：适量思考可能出错的事有适应价值，问题在于陷入反复循环、无法活在当下。"
+    },
+    {
+      "id": 22,
+      "text": "情绪调节的定义：内在 vs 外在\nEmotion regulation：试图放大（amplify）或减弱（reduce）情绪体验的过程。\n- Intrinsic emotion regulation：调节自己的情绪。\n- Extrinsic emotion regulation：调节他人的情绪。\n虽然人们常把情绪调节理解为\"减少负性、增加正性\"（这确实常是目标），但也有情境下人们会试图放大负性情绪或减弱正性情绪。\n易错：extrinsic 是调节\"别人\"的情绪，不是自己的。"
+    },
+    {
+      "id": 23,
+      "text": "情绪调节的 2×2：增加/减少 × 正性/负性\n课件图表按 intrinsic/extrinsic 与四种方向举例（老师讲解）：\n- 减少负性：生气时让自己冷静（内在）；帮流泪的孩子解开风筝线（外在）。\n- 增加正性：把好消息分享给好友，对方的兴奋让你更开心（内在）；讲笑话逗别人开心（外在）。\n- 减少正性：肃穆葬礼上旁人耳语了好笑的话，你要立刻压下想笑的冲动（内在）；睡前让咯咯笑的孩子平静下来，降低正性情绪和生理唤醒以利于入睡（外在）。\n- 增加负性：比赛前让自己\"燃起来\"（内在）；朋友说和配偶小吵一架，你觉得这事很严重，想让对方更重视（外在）。"
+    },
+    {
+      "id": 24,
+      "text": "Gross 情绪调节模型（一）：情境选择\nJames Gross 是情绪调节领域的\"大人物\"。他的模型识别出调节情绪的不同阶段/方式，共五类：situation selection、situation modification、attention deployment、cognitive change、response modulation。\n1. Situation selection（情境选择）：采取行动，使自己更可能（或更不可能）进入预期会带来想要（或不想要）情绪的情境。\n例：发现和某人相处总让你感到消极、疲惫，于是拒绝对方一起看电影的邀请。——选择进不进入某个情境。"
+    },
+    {
+      "id": 25,
+      "text": "Gross 模型（二）：情境修改\n2. Situation modification（情境修改）：采取行动直接改变情境本身，以改变其情绪影响。\n例：收到一封让你恼火的邮件，把它归档到文件夹里，这样处理其他邮件时就不用在收件箱看到它。\n区分：情境选择是决定\"进不进\"某个情境；情境修改是已经在情境里，动手改变情境的某个部分。"
+    },
+    {
+      "id": 26,
+      "text": "Gross 模型（三）：注意部署\n3. Attention deployment（注意部署）：以影响情绪反应为目标，引导自己的注意。\n例：上台演讲很紧张，于是专注看观众中那位一直微笑、点头鼓励你的朋友。\n老师补充：我们并不总能改变情境或选择情境，但可以改变注意的使用方式来调节情绪。这与本讲第一部分的注意内容相连。\n考点：attentional deployment 是 Gross 情绪调节模型的一个组成部分。"
+    },
+    {
+      "id": 27,
+      "text": "Gross 模型（四）：认知改变\n4. Cognitive change（认知改变）：修改对情境的评价（appraisal），即改变对情境或事件的想法，从而改变其情绪影响。老师认为这是非常有力的调节方式，与前面讲的解释偏向相连：人们常有负性解释倾向，认知改变就是认真考虑其他解释。\n例：练习小测不及格，起初觉得\"完了，考试要挂\"；转而想\"这是有用的反馈，现在知道总比考试时知道好，我还能扭转局面，也许该换学习策略\"。同一事件，负性情绪更少，甚至更有动力。"
+    },
+    {
+      "id": 28,
+      "text": "Gross 模型（五）：反应调节\n5. Response modulation（反应调节）：在情绪已经充分发展之后，影响情绪反应的体验、行为或生理成分。\n例：朋友送了你不喜欢的礼物，你压住皱眉、换上笑容，以免伤害对方感情。\n老师观点：这一类在 Gross 模型中属于情绪调节，但更多是改变情绪的\"表现\"，不太改变底层情绪本身。它也常与外在情绪调节交织——为了维持朋友的正性情绪而控制自己的表情。"
+    },
+    {
+      "id": 29,
+      "text": "重评 reappraisal：认知改变的一种\n重评的个体差异被研究得特别多。Reappraisal：改变对一个情境或事件的想法，属于 cognitive change 类别。\n例：同事在走廊遇到你只点了点头、没笑（平时会笑），你起初想\"他不喜欢我/我得罪他了吗\"；重评：他今天要交基金申请，肯定压力大、心思在那上面，所以没笑。——同一事件，不同解释。\n老师补充：\n- 许多重评是关于他人行为的另类解释；我们常把别人的行为\"个人化\"，其实更多与对方自己的处境有关。\n- Cognitive empathy 与认知重评正相关：善于为自己生活中的事件想出不同解释的人，也善于理解他人的想法和感受。\n- 与 CBT（认知行为疗法，心理学最广泛使用且成功的疗法之一）紧密相关：CBT 很大程度上是培养使用重评的倾向，针对焦虑和情绪障碍中强烈的解释偏向。"
+    },
+    {
+      "id": 30,
+      "text": "重评倾向的个体差异与积极结果\n人们在日常生活中使用重评的程度有很大的个体差异——这是 propensity（使用倾向）差异，不是能力差异。\n课件：日常生活中更常重评的人：\n- 体验更多正性情绪\n- 体验更少负性情绪\n- 对抑郁和焦虑的易感性更低\n- 自尊更高\n- 生活满意度更高\n- 社会联结更强（社交与情绪生活的有趣交叉）\n易错：\"更常重评的人体验更多负性、更少正性情绪\"恰好说反。"
+    },
+    {
+      "id": 31,
+      "text": "Gross 团队的纵向研究：重评 vs 压抑与社会联结\n研究设计知识：\n- Cross-sectional（横断）设计：在一个时间点测量多个变量，能看出哪些特质一起出现，但不能说明时间先后。\n- Longitudinal（纵向）设计：先测到 A、后来才出现 B，不能强推因果，但时间顺序更符合 A 导致 B 的方向。\n- Experimental control（实验操纵）最利于推断因果，但很多心理变量（如特质焦虑）无法实验操纵，所以纵向设计很有价值，只是更难做。\n研究：James Gross 团队在美国追踪大学生四年。入学第一天测量情绪调节倾向：cognitive reappraisal，以及另一种策略 suppression（压抑：只是压住情绪，通常无效、会适得其反）。第四年末让学生自评各项结果，并用同伴互评（你有多喜欢他、感觉和他多亲近）较客观地测量社会联结，避免只靠自评偏差。\n结果：第一天就常用重评的人，四年后社会联结更强——朋友更多、在同级中联系更广；用压抑的人结果相反。\n老师：重评不是\"对自己 gaslighting\"——大脑为生存而非幸福进化，倾向把事物看成威胁；适度下调把非真正威胁当威胁的倾向，有助于幸福感。"
+    },
+    {
+      "id": 32,
+      "text": "重评倾向可以改变：焦虑抑郁者是倾向少，不是能力差\n- Propensity to engage in reappraisal can be changed：这是可以学会、多加练习的技能，CBT 的核心部分就是学习和练习重评。\n- 焦虑和抑郁的人使用重评更少，但没有证据表明他们更不会用（propensity vs ability）。实验证据：在实验室看恐怖视频后，按指示使用重评，焦虑和抑郁的人得到同样的负性情绪下调效果——能力无差异，倾向有明显差异。\n- 好消息：只要提高他们使用重评的倾向，就能获得这种策略的好处——这正是 CBT 要做的。\n易错：\"焦虑抑郁者重评能力受损\"是错的；\"重评倾向是固定的\"也是错的。"
+    },
+    {
+      "id": 33,
+      "text": "没有万能策略：情绪调节的灵活性\n- 重评虽然适应性强，但不同情绪调节策略在不同情境中有效性不同；重评不是在所有情境都有效，也不是唯一有用的策略。\n- 例：对非常强烈的负性情绪，至少在初期，distraction（分心）可能更有效——先离开压倒性的刺激，等情绪没那么强时再用重评。\n- 个体在情绪调节策略库的广度（breadth of repertoire）以及能否根据情境有效地调整策略（flexibility）上存在差异；拥有广泛技能并识别何时用哪种，是特别适应性的能力，也可以培养。\n课堂问答：\n- 慢性疼痛等难以改变的内在刺激，CBT 仍有帮助，但其他策略可能同样或更有效，如 acceptance（接纳）——接受会有负性情绪和疼痛，反而可能减弱其情绪冲击；也可以说属于认知改变的一种。\n- 同事皱眉时想\"我不在乎他怎么看我\"——老师认为也可归入认知改变的范畴。"
+    },
+    {
+      "id": 34,
+      "text": "重评与压抑的区别（课堂问答）\n- Reappraisal：改变对事件的解释，进而改变情绪体验本身；在模型中较早\"切入\"（cognitive change 阶段）。\n- Suppression：例如很难过却硬挤出笑脸，没有改变驱动情绪的想法；在模型中较晚切入，属于 response modulation 阶段——情绪体验已经发生，只是掩盖它的外在迹象。\n- 纵向研究中，重评与积极结果相关，压抑结果相反；老师建议\"别压抑情绪，试着换个角度想\"。"
+    },
+    {
+      "id": 35,
+      "text": "思考题：什么时候不调节情绪更好？\nThought question：有没有情境下不调节情绪反而有益？课堂讨论要点：\n- 情绪有功能价值，常常是进化来激励我们去改变环境、纠正问题的。例：老板宣布减薪时的愤怒可能推动集体行动；suffragettes（妇女参政运动）没有\"随遇而安\"，以个人情绪平衡为代价推动了社会变革。\n- 父母听到孩子哭会强烈想去照顾——这种情绪有其目的，不该简单\"调掉\"。\n- 看悲伤电影时，本来就是想投入、被艺术打动。\n- Parental invalidation of emotions（父母否定孩子的情绪，如\"别那么激动\"）与孩子日后的适应困难有关；好的养育是确认情绪，并帮助孩子建立调节策略。\n- 接受\"有时会悲伤、生气是做人的一部分\"，可减少对负性情绪的\"元压力\"，情绪恢复更快；失去在乎的人会悲伤，这是在乎他人的代价。"
+    },
+    {
+      "id": 36,
+      "text": "思考题：人们为什么不愿调节情绪？如何提高调节倾向？\nThought question：人们常常不愿调节情绪，即使这可能有帮助。为什么？如何提高人们考虑使用情绪调节的倾向？课堂讨论要点：\n- 文化因素：不同文化对哪些情绪可以体验、表达有不同规范；集体主义文化中人们可能更受身边人情绪影响。\n- 早期从父母那里学到哪些情绪\"可以\"表达和感受。\n- 很多人从没有人明确和他们谈过情绪调节，以为要自己摸索。\n- 提高倾向的方法：更公开地谈论情绪调节，父母明确分享自己用的策略；听别人讲什么方法对他们有效；文学和故事展示他人如何应对困难。"
+    },
+    {
+      "id": 37,
+      "text": "双稳态图像是什么、为什么有用\nBistable images（也称 multi-stable images）：可以被感知为两种（或多种）不同样子的图像。例：鸭兔图（duck–rabbit）、人脸/花瓶图（face–vase）、Necker cube（内克尔立方体，是同一个立方体的两种朝向，翻转最难）；网络上的\"那条裙子\"（白金 vs 蓝黑）也是一种。\n用途：模拟大脑从自然界接收的感觉输入中无处不在的不确定性（同一输入可与多种解释一致），因此被用于多种科学研究，例如研究意识的神经相关物（neural correlates of consciousness）：看被试在两种知觉解释间切换时大脑在做什么。"
+    },
+    {
+      "id": 38,
+      "text": "Goodhew & Edwards (2024)：研究问题\nGoodhew & Edwards (2024, Journal of Personality) 换了一个视角：体验双稳态知觉会带来怎样的情绪后果？\n- 这些情绪体验是否存在个体差异？\n- 哪些其他因素能预测这些差异？\n想法来源：一个轶事——一位人格特点鲜明的人说\"我讨厌这些图，太可怕了，因为能看成好几种样子\"，与她整体人格画像一致，于是研究者想知道这种情绪反应是否存在可测量的稳定个体差异。"
+    },
+    {
+      "id": 39,
+      "text": "方法：3 张图、确认能看到双稳态、-4 到 +4 评分、4 个预测变量\n- 使用 3 张不同的双稳态图像（face–vase、duck–rabbit、Necker cube）。\n- 检查被试确实能感知到双稳态（能看成两种）；少数说看不出两种的人，其情绪反应不纳入分析（可能是不同过程，人数也不够）。\n- 让被试评定此刻的情绪体验，valence 从 -4（强烈负性）到 +4（强烈正性），0 为中性。\n- 被试完成 4 个预测变量的问卷测量。\n- 样本为数百人。"
+    },
+    {
+      "id": 40,
+      "text": "4 个预测变量与研究假设\n1. Intolerance of uncertainty（IU，不确定性无法容忍）：对不确定性的负面信念与反应，把不确定和模糊视为威胁、想消除它；与焦虑、抑郁相关。条目如 \"Unforeseen events upset me greatly\"、\"When I am uncertain I can't function very well\"。预测：IU 越高，对双稳态图像（一种知觉不确定性）情绪反应越负性。\n2. Cognitive empathy（CE，认知共情）：理解他人视角，包括认识到他人的想法、情绪、信念和观点可以与自己不同——欣赏对同一情境的不同\"看法\"。预测：CE 越高，情绪反应越正性。\n3. Affective empathy（AE，情感共情）：感受他人所感。预测：与情绪反应无关。这是一个 divergent（discriminant，区分性）预测：同时测量理论上不应相关的变量，能加强对其他相关结果的解释（通常认知和情感共情一起测）。\n4. Negative affect（NA，负性情感）：普遍容易体验负性情绪。预测：NA 越高，反应越负性。作为对照（control）：检验效果是否超出一般负性情绪；IU 是情绪障碍背后的跨诊断（trans-diagnostic）认知特征，也起参照作用。"
+    },
+    {
+      "id": 41,
+      "text": "结果（一）：分布、内部一致性与各预测变量\n- 分布：多数人评 0（无明显感受），但从 -4（强烈负性：因能看成两种而很不舒服）到 +4（觉得很有趣、很正性）各种评分都有；三张图分布相似。\n- Strong internal consistency：人们对三张图的反应相当一致（给鸭兔图 +4 的人也倾向给其他图高分）——说明测到的是对双稳态本身的稳定反应，而不是某张图的特性。\n- 双变量（bivariate）层面：\n  - IU 预测更负性的情绪反应；\n  - CE 预测更正性的情绪反应；\n  - AE 与情绪反应无关（符合预测）；\n  - NA 预测更负性的情绪反应。\n易错：IU 不是\"无关\"；AE 不是\"更负性\"；NA 不是\"更正性\"。"
+    },
+    {
+      "id": 42,
+      "text": "结果（二）：回归——认知共情解释独特变异\nRegression：相关的\"高级版\"，可以同时放入多个预测变量，看每个变量与结果的独特关联——相当于预测变量之间的\"正面对决\"，看谁解释了其他变量解释不了的变异。\n结果：只有 cognitive empathy 在控制 IU 和 NA 后，仍解释情绪反应的独特变异（unique variance）——甚至超过与这类图像关系密切的 IU。\n含义：社会认知性的共情能力与\"能接受用不止一种方式看同一事物\"（哪怕是字面意义上的看图）真正相关。"
+    },
+    {
+      "id": 43,
+      "text": "启示与局限\n课件启示：\n- 用双稳态图像研究其他过程（如意识、视觉知觉的脑成像研究）时，要注意部分人有强烈情绪反应，否则测到的可能是这些情绪反应而不是低层视觉机制（混淆）。\n- 提供了探查人们对\"根本性模糊\"反应的新工具——同一视觉刺激真的可以被看成不同样子。\n- CE 关乎拥抱看世界的不同方式；人们常在认知上接受别人信念不同，但是否愿意接受别人在知觉上\"真的看到不同\"存在很大个体差异。\n- 不仅我们能以不同方式看世界，而且有些人比其他人更愿意接受这一点。\n- 个体差异不只表现在外显行为中，也存在于生理反应和知觉过程层面——人格深入我们体验世界的核心。\n局限：目前只是自评情绪评分，最好再用生理情绪测量提供 converging evidence。\n课堂问答：不能从这项研究推出\"不能容忍不确定的人在社会层面无法……\"之类的宽泛结论——单一研究不足以支持这种过度外推。阅读文学小说的终生量与认知共情（theory of mind）正相关，但让人短期读小说能否提高心理理论，证据更混杂。"
+    },
+    {
+      "id": 44,
+      "text": "课件自测题要点（Test yourself）\n1. 注意广度个体差异：正确的是\"开放性高的人看场景时扫视更小、扫描路径更短\"；偏好窄的人采用宽注意并不受损（Himba 反例）；东方背景差异在偏好不在能力；ASD 偏好窄而非宽。\n2. 特质焦虑（一）：高特质焦虑者更易体验状态焦虑，且特质焦虑是人群中的变异维度——两项都对；与之相关的是神经质而非外向性。\n3. 特质焦虑（二）：正确的是\"与偏向威胁性解释的解释偏向相关\"；与执行功能\"效率\"而非\"效果\"降低相关；与自评注意控制负相关而非正相关。\n4. 情绪调节：正确的是\"重评倾向可以改变\"；重评不是唯一有用的策略；常重评者正性情绪更多、负性更少；extrinsic 指调节他人情绪。\n5. 双稳态图像：正确的是\"认知共情越高，情绪反应越正性\"；NA 高→更负性；IU 与更负性反应相关；AE 无关。"
+    }
+  ],
+  "sourceText": "# Lecture 12 · Personality Module Lecture 4\n\n## [B0001] 本讲概览：注意、焦虑、情绪调节与双稳态图像\n\nPersonality Module Lecture 4（第 12 周，学期最后一讲），A/Prof Stephanie Goodhew。对应四段预录视频：\n- Video 4a：Attentional deployment: Individual differences（注意部署的个体差异）\n- Video 4b：Trait anxiety（特质焦虑）\n- Video 4c：Emotion regulation（情绪调节）\n- Video 4d：Individual differences in emotional reactions to bistable images（对双稳态图像的情绪反应差异）\n贯穿全讲的一条线：个体差异不只表现在外显行为上，也表现在注意怎么分配、怎么解释模糊信息、情绪怎么调节等\"微观\"层面。反复出现的对比：preference vs ability（偏好 vs 能力）、efficiency vs effectiveness（效率 vs 效果）、self-report vs task performance（自评 vs 任务表现）、propensity vs ability（使用倾向 vs 能力）。\n\n## [B0002] 注意 = 选择：三类视觉注意\n\n任何场景里可用的信息都多于大脑一次能处理的量（所有感官都如此，心理学家最关注视觉，因为视觉分辨率最高）。大脑要（多数是非意识地）决定注意什么、放掉什么——attention = selection，像一个分诊（triage）机制，优先处理一部分信息，代价是其余信息被丢掉。\n认知心理学区分三类视觉注意：\n- Feature-based attention（基于特征）：优先某种特征，例如找戴红帽子的朋友时搜寻人群里的红色。\n- Object-based attention（基于物体）：把注意放在某个物体上。\n- Space-based attention（基于空间，也叫 spatial attention）：注意空间中的某个位置。\n日常生活中三者常混合使用；本讲内容属于 spatial attention。\n\n## [B0003] 空间注意的两种调节：转移与广度\n\n常用\"聚光灯 spotlight\"比喻：被照亮的部分得到优先处理，其余在暗处。人调节空间注意主要有两种方式：\n1. Shifts of attention（注意转移）：改变注意在空间中的位置——移动聚光灯照的地方。例：先看画面中一位女士的脸，再看一位男士的脸。\n2. Changes in attentional breadth（注意广度变化）：改变聚光灯的大小——是窄而集中地盯住一小块，还是宽而分散地覆盖大片区域。例：先窄地盯一张脸，再放宽去了解整个场景在发生什么。\n代价：注意放宽时覆盖范围更大，但分到每个位置的\"资源\"更少，每处获得的注意优势更弱；窄时每处优势更强。\n\n## [B0004] 关键区分：偏好 preference vs 能力 ability\n\n课件定义：\n- Preference = 任务或情境不强制、不偏向某种方式时，个体自己选择怎么做（自发倾向）。\n- Ability = 任务或情境要求个体必须这样做时，个体能做得多好（即能多好地调节自己的注意）。\n老师补充：个体差异更常（但不是只）出现在偏好上，而不是能力上。偏好和能力并不一定同向：有某种偏好不代表另一种方式做不好，反之亦然。\n考试提示：老师说注意广度具体怎么测量本课不展开（二年级再讲），只需在概念层面理解\"测的是偏好还是能力\"。\n\n## [B0005] 东方 vs 西方文化背景：偏好不同，能力无差异\n\n课件：Eastern cultural background（如在中国长大）与比 Western（如在澳大利亚长大）更宽的 preferred attentional breadth 相关，但两组在 ability 上没有差异。\n解释：文化背景可能给人一种\"自发倾向\"——更关注细节还是更关注整体大图景；但不影响在任务要求下采用窄或宽注意的能力。\n易错：东方背景的人\"更擅长/更能\"采用宽注意是错的——差异只在偏好。\n\n## [B0006] Himba vs 英国被试：偏好窄，能力反而更强\n\nHimba 是纳米比亚一个偏远部落，与英国被试文化差异很大，是有趣的跨文化比较。\n- 偏好：Himba 被试的 preferred attentional breadth 比英国被试更窄（自发更倾向窄注意）。\n- 能力：在要求采用窄或宽注意的任务中，Himba 被试在两种能力上都优于英国被试（narrow 和 broad 都更好）。\n结论：偏好与能力相对脱钩（decoupled）——偏好窄注意并不会让人在采用宽注意时受损。考试中\"偏好窄注意的人采用宽注意能力受损\"是错误说法，Himba 研究正是反例。\n\n## [B0007] 自闭症谱系障碍 ASD：偏好窄，能力无差异\n\n关于 ASD 人群注意广度是否更窄，文献曾有争论、结果不一。用 preference vs ability 视角后，争论得到澄清：\n- 用偏好测量时，ASD 组比神经典型（neurotypical）对照组明显更偏好窄注意广度。\n- 同一批被试的能力测量中没有差异：ASD 被试在要求时能采用宽或窄注意，只是偏好窄。\n易错：ASD 是偏好\"窄\"，不是\"宽\"；差异在偏好，不在能力。\n老师小结：与注意广度相关的心理变量范围很广，从神经多样性到文化差异。\n\n## [B0008] 经验开放性与眼动：更小的扫视、更短的扫描路径\n\nBig Five 中 Openness to Experience 更高的人看场景时：\n- saccades（扫视：探索场景时眼睛的小跳动）更小；\n- scan paths（扫描路径：每次移动眼睛时位置之间的距离）更短。\n解释：提示他们与视觉信息有更\"投入、沉浸\"（absorbed）的接触——把注意分配给场景中更多部分，在每部分花更多时间探索。这与开放性\"好奇、喜欢沉浸探索世界\"的人格画像一致。\n意义：人格倾向甚至在\"把眼睛放在哪里\"这种较低层次的行为上也有体现（至少是相关）。\n易错：方向是\"更小、更短\"，不是\"更大、更长\"。\n\n## [B0009] 工作记忆容量与注意广度的收缩效率\n\n有时任务要求我们按需改变注意广度（找精细空间细节需要窄注意；把握整体大意需要宽注意）。另一个个体差异视角：人能多快、多高效地按需调整注意广度。\nworking memory capacity（工作记忆容量，与之前讲的执行功能中的 updating 有关）：\n- 在需要频繁（frequent）收缩注意广度的情境中，工作记忆容量高 = 效率更高。这符合执行功能\"以目标导向方式调节注意资源\"的作用。\n- 在多数时候不需调整、偶尔（infrequent）才要收缩的情境中，关系反过来：工作记忆容量高 = 效率更低。\n课件结论：这体现了 persistence 与 flexibility 之间的权衡（trade-off）。\n\n## [B0010] 持久性—灵活性权衡 persistence vs flexibility\n\n老师解释：有时需要把注意优化到当前要求并\"牢牢保持\"（persistence），有时需要更灵活、对环境变化更敏感（flexibility）。人可能偏向其中一种策略。\n- 工作记忆容量高的人更像 persistence 风格：把注意极度优化到\"多数试次\"的要求上，所以偶尔需要切换的试次会让他们\"措手不及\"。\n- 工作记忆容量较低的人对多数试次优化得少一些，更开放、准备好应付偶尔的调整，更靠近 flexibility 一端。\n课堂问答补充：\n- 在宽窄注意之间切换也是一种 task switching，老师推测它与一般的 shifting 执行功能有关（尚未研究）。\n- 有人提出真正的执行功能可能是一种\"元控制 meta-control\"：能根据情境选择偏向持久或灵活，而不是总是其中一种。\n- 设计良好的偏好测量应很少反映执行功能，但现实生活中更广的情境因素可能仍有影响。\n\n## [B0011] 注意是人格的一部分：相关不等于因果\n\n课件：注意塑造了我们对周围世界的感知，所以值得作为人格与个体差异的一个方面来考虑。\n人格（如开放性）与\"微观注意行为\"（眼睛看哪里、注意聚焦在哪）的联系目前是相关关系：例如自评人格与看场景时的眼动相关。\n因果方向尚未确定：是高开放性导致这种看的方式？还是某种视觉投入方式让人变得更好奇？或两者相互强化？可能需要在发展早期做更多研究。目前只能说人格与注意行为\"紧密交织\"。\n课堂问答：眼神接触的个体差异受多种因素影响——文化（如一些澳大利亚原住民以不直视为尊重）、社交焦虑、自闭特质等；从单个人的单次行为很难推断原因，而且这种行为是可以学习改变的。\n\n## [B0012] 特质焦虑的定义 trait anxiety\n\n课件定义：trait anxiety 是一种在许多情境中注意、体验并报告负性情绪（恐惧、担忧、焦虑）的持久倾向（enduring tendency）。\n- 对情境和事件有稳定的\"威胁性\"知觉：日常很多事情是模糊的（不明确好或坏），高特质焦虑者更容易把它们解释为威胁。\n- 更容易体验 state anxiety，尤其是在多数人不会焦虑的情境中。\n- 与 Big Five 中的 Neuroticism（神经质）相关（老师：相关相当强）。\n老师补充：\"relatively enduring\"——没有特质是完全固定不变的。焦虑本身不一定是坏事：适当的焦虑有保护作用（避免危险、促使做体检、涂防晒等有益但无聊的行为）。\n\n## [B0013] 状态焦虑 vs 特质焦虑\n\n- State anxiety：此时此刻是否正在感到焦虑。\n- Trait anxiety：背后的稳定倾向。\n二者相关但可分离：高特质焦虑者更可能体验状态焦虑，但并非总在焦虑。老师的例子：高特质焦虑者度假时悠闲喝柠檬水，完全没有状态焦虑。他们只是在更大范围的情境中更可能焦虑。\n易错：\"高特质焦虑的人总是感到焦虑\"是错的；\"特质焦虑与外向性相关\"也是错的——相关的是神经质。\n\n## [B0014] 特质焦虑 vs 社交焦虑\n\n- Social anxiety：对他人负面评价的普遍恐惧（pervasive fear of negative evaluation by others），常伴随回避社交场合。担忧特定于社交领域。\n- Trait anxiety：担忧更宽泛、弥散，可能关于生活中各种事情出错，不只是被评价。\n二者不互斥（not mutually exclusive），而且相关：高特质焦虑者更可能也有高社交焦虑；但可分离——有人只高其中一项。\n易错：\"高特质焦虑者必然也有社交焦虑\"是错的。\n\n## [B0015] 维度 vs 类别：特质焦虑与广泛性焦虑障碍 GAD\n\n- Trait anxiety 是人群中的一个变异维度（dimension of variation within the population）：像正态分布（钟形曲线），多数人在中间，少数很高或很低，中间各种水平都有。每个人都有一个分数。\n- 较高的特质焦虑可能与诊断类别 Generalised Anxiety Disorder（GAD）相关联。\n- 维度取向关注连续变异、不设特定分界；临床取向则是类别——满足诊断标准就给诊断，不满足就不给（\"有或没有\"）。\n- 特质焦虑分数越高，越可能符合诊断，但不保证；两者不是同一件事。\n课堂问答：全球冲突期间焦虑诊断增多，可能反映真实痛苦增加；诊断是一个人一段时间可能满足、经治疗也可离开的类别，应把它视为\"可能需要更多支持\"的信号，而不是说此人本质上有问题。\n\n## [B0016] 注意偏向：警觉—回避 vigilance-avoidance\n\n特质焦虑与对威胁刺激的 attentional bias 有关：注意作为分诊机制，对高特质焦虑者来说，任何可能有威胁的东西都\"插队到最前面\"。\n文献结果曾不一致：有研究发现 attentional engagement bias（更注意威胁刺激而非中性刺激），也有研究发现相反——更回避威胁刺激。综合起来是一个随时间展开的模式：vigilance-avoidance——\n1. 先是警觉（vigilance）：初期对威胁刺激特别注意；\n2. 后是回避（avoidance）：随后刻意脱离、避开不看威胁刺激。\n这会强化焦虑：注意不成比例地偏向威胁，使人觉得世界非常危险（相比同一环境中的中性甚至积极事物）。\n\n## [B0017] 解释偏向 interpretation bias\n\n即使注意分配之后，人们对同一刺激的解释也不同。给出模糊刺激（可做多种解释），看人倾向积极还是消极解释。\n特质焦虑与偏向威胁性解释的 interpretation bias 有关：\n- 模糊面孔：可能是中性也可能带一点愤怒，高特质焦虑者更可能判断为愤怒（甚至\"是在生我的气\"）；低特质焦虑者更可能看作中性。\n- 词语 growth：既可理解为肿瘤生长（负性），也可理解为成长进步（正性）；高特质焦虑者更可能马上想到负性含义。\n课堂问答：用软件把同一人的愤怒脸和中性脸按比例 morph。一般人大约在 30–40% 愤怒成分时开始说\"愤怒\"；高特质焦虑者可能低到 10–20% 就判为愤怒——是连续体上的\"切入点\"更早，而非只会说负面。老师认为特质焦虑中没有针对快乐的解释偏向；但社交焦虑者可能把笑脸看作\"在嘲笑我\"，视为威胁。\n\n## [B0018] 注意控制理论：效率 vs 效果；元分析证据\n\n焦虑中更广泛的注意控制问题不限于情绪性刺激：即使用完全中性的刺激，高特质焦虑者以目标导向方式调节注意也更困难。\nAttentional Control Theory（Eysenck）：焦虑对 efficiency（效率）的影响大于对 effectiveness（效果）的影响。\n- Efficiency：做到某件事需要多久（多少资源）。\n- Effectiveness：最终能否做到。\n即高特质焦虑者最终能达到相同表现水平，只是要花更长时间。\nMeta-analytic evidence：特质焦虑与执行功能效率受损相关，包括 inhibition（抑制）和 shifting（转换）；近期元分析支持特质焦虑与执行功能效率（而非效果）受损之间有中等程度相关。\nMeta-analysis 是什么：普通研究中每个被试是一个数据点；元分析中每个已有研究是一个数据点，把各研究效应量做加权平均，看总体效应，并可检验调节变量（如测量方式）的影响。适合文献较多、结果不一致时综合结论。\n考试提示：老师强调\"effectiveness 降低\"是错误选项，\"efficiency 降低\"才对。\n\n## [B0019] 特质焦虑与自评注意控制：强负相关，自评比任务更强\n\n- 特质焦虑与 self-reported attentional control 强负相关：特质焦虑越高，自评注意控制越差，例如 Cognitive Failures Questionnaire（CFQ）上报告更多日常认知失误（忘记约会、忘了走进房间要干什么）。\n- 这种负相关在自评测量上比在行为任务表现测量上更强（任务测量也是负相关，只是较弱）。\n为什么？两种主要解释：\n1. 报告偏差：自评分数一部分反映真实注意控制，另一部分反映人对自身表现普遍乐观或悲观的倾向；高特质焦虑者有负性解释偏向，可能对自己也更悲观，所以相关看起来更强。\n2. 生态效度：实验室任务去除了日常干扰（手机关机、不许说话），更像测\"最大能力\"；问卷更接近日常生活中实际使用注意控制的倾向（propensity）。\n老师认为两者可能都有。改进方向：ecological momentary assessment（日常生活中多次实时采样注意状态，甚至手机上弹出小任务）。\n方法论：结论若得到多种方法的 convergent evidence（如实验室与现场研究都显示 X 与 Y 相关），可信度更高——多方法三角互证。\n易错：\"特质焦虑与自评注意控制正相关\"是错的。\n\n## [B0020] 特质焦虑与共情、情绪调节\n\n- 特质焦虑与 affective empathy（情感共情：感受/\"接住\"他人的情绪）升高相关，与 cognitive empathy（认知共情：理解他人的想法和感受）无关。老师：认知共情上没有相关，意思是高特质焦虑者中认知共情有高有低。\n- 特质焦虑与较少使用适应性情绪调节策略相关（接下一部分）。\n易错：不能笼统说\"高特质焦虑的人更有共情\"——只在情感共情上更高。\n\n## [B0021] 思考题：为什么特质焦虑与执行功能任务表现较差有关？\n\nThought question：为什么特质焦虑可能与执行功能任务上较差表现相关？\n- 一种解释：高特质焦虑者执行功能能力本身更低（较悲观的结论）。\n- 另一种解释：特质焦虑伴随 rumination（反刍：反复思考担忧），占用了部分心理\"带宽\"。他们的能力不一定更低，只是部分资源被反刍占用。有证据支持：让低焦虑者进行反刍，他们的表现也会变得像高焦虑者。这是较乐观的信息——帮助人管理反刍，可能就能发挥完整的执行功能。\n- 测量层面：执行功能是从任务表现推断出来的假设构念。能力会影响表现，但很多非能力因素（睡眠剥夺、动机、反刍等状态因素）也会影响表现。例如对自我中心/心理变态特质较高的人，可能需要提供与表现挂钩的奖励，才能确定测到的是能力而非动机。\n- 因此\"表现较差\"不一定等于\"能力较差\"。\n课堂补充：适量思考可能出错的事有适应价值，问题在于陷入反复循环、无法活在当下。\n\n## [B0022] 情绪调节的定义：内在 vs 外在\n\nEmotion regulation：试图放大（amplify）或减弱（reduce）情绪体验的过程。\n- Intrinsic emotion regulation：调节自己的情绪。\n- Extrinsic emotion regulation：调节他人的情绪。\n虽然人们常把情绪调节理解为\"减少负性、增加正性\"（这确实常是目标），但也有情境下人们会试图放大负性情绪或减弱正性情绪。\n易错：extrinsic 是调节\"别人\"的情绪，不是自己的。\n\n## [B0023] 情绪调节的 2×2：增加/减少 × 正性/负性\n\n课件图表按 intrinsic/extrinsic 与四种方向举例（老师讲解）：\n- 减少负性：生气时让自己冷静（内在）；帮流泪的孩子解开风筝线（外在）。\n- 增加正性：把好消息分享给好友，对方的兴奋让你更开心（内在）；讲笑话逗别人开心（外在）。\n- 减少正性：肃穆葬礼上旁人耳语了好笑的话，你要立刻压下想笑的冲动（内在）；睡前让咯咯笑的孩子平静下来，降低正性情绪和生理唤醒以利于入睡（外在）。\n- 增加负性：比赛前让自己\"燃起来\"（内在）；朋友说和配偶小吵一架，你觉得这事很严重，想让对方更重视（外在）。\n\n## [B0024] Gross 情绪调节模型（一）：情境选择\n\nJames Gross 是情绪调节领域的\"大人物\"。他的模型识别出调节情绪的不同阶段/方式，共五类：situation selection、situation modification、attention deployment、cognitive change、response modulation。\n1. Situation selection（情境选择）：采取行动，使自己更可能（或更不可能）进入预期会带来想要（或不想要）情绪的情境。\n例：发现和某人相处总让你感到消极、疲惫，于是拒绝对方一起看电影的邀请。——选择进不进入某个情境。\n\n## [B0025] Gross 模型（二）：情境修改\n\n2. Situation modification（情境修改）：采取行动直接改变情境本身，以改变其情绪影响。\n例：收到一封让你恼火的邮件，把它归档到文件夹里，这样处理其他邮件时就不用在收件箱看到它。\n区分：情境选择是决定\"进不进\"某个情境；情境修改是已经在情境里，动手改变情境的某个部分。\n\n## [B0026] Gross 模型（三）：注意部署\n\n3. Attention deployment（注意部署）：以影响情绪反应为目标，引导自己的注意。\n例：上台演讲很紧张，于是专注看观众中那位一直微笑、点头鼓励你的朋友。\n老师补充：我们并不总能改变情境或选择情境，但可以改变注意的使用方式来调节情绪。这与本讲第一部分的注意内容相连。\n考点：attentional deployment 是 Gross 情绪调节模型的一个组成部分。\n\n## [B0027] Gross 模型（四）：认知改变\n\n4. Cognitive change（认知改变）：修改对情境的评价（appraisal），即改变对情境或事件的想法，从而改变其情绪影响。老师认为这是非常有力的调节方式，与前面讲的解释偏向相连：人们常有负性解释倾向，认知改变就是认真考虑其他解释。\n例：练习小测不及格，起初觉得\"完了，考试要挂\"；转而想\"这是有用的反馈，现在知道总比考试时知道好，我还能扭转局面，也许该换学习策略\"。同一事件，负性情绪更少，甚至更有动力。\n\n## [B0028] Gross 模型（五）：反应调节\n\n5. Response modulation（反应调节）：在情绪已经充分发展之后，影响情绪反应的体验、行为或生理成分。\n例：朋友送了你不喜欢的礼物，你压住皱眉、换上笑容，以免伤害对方感情。\n老师观点：这一类在 Gross 模型中属于情绪调节，但更多是改变情绪的\"表现\"，不太改变底层情绪本身。它也常与外在情绪调节交织——为了维持朋友的正性情绪而控制自己的表情。\n\n## [B0029] 重评 reappraisal：认知改变的一种\n\n重评的个体差异被研究得特别多。Reappraisal：改变对一个情境或事件的想法，属于 cognitive change 类别。\n例：同事在走廊遇到你只点了点头、没笑（平时会笑），你起初想\"他不喜欢我/我得罪他了吗\"；重评：他今天要交基金申请，肯定压力大、心思在那上面，所以没笑。——同一事件，不同解释。\n老师补充：\n- 许多重评是关于他人行为的另类解释；我们常把别人的行为\"个人化\"，其实更多与对方自己的处境有关。\n- Cognitive empathy 与认知重评正相关：善于为自己生活中的事件想出不同解释的人，也善于理解他人的想法和感受。\n- 与 CBT（认知行为疗法，心理学最广泛使用且成功的疗法之一）紧密相关：CBT 很大程度上是培养使用重评的倾向，针对焦虑和情绪障碍中强烈的解释偏向。\n\n## [B0030] 重评倾向的个体差异与积极结果\n\n人们在日常生活中使用重评的程度有很大的个体差异——这是 propensity（使用倾向）差异，不是能力差异。\n课件：日常生活中更常重评的人：\n- 体验更多正性情绪\n- 体验更少负性情绪\n- 对抑郁和焦虑的易感性更低\n- 自尊更高\n- 生活满意度更高\n- 社会联结更强（社交与情绪生活的有趣交叉）\n易错：\"更常重评的人体验更多负性、更少正性情绪\"恰好说反。\n\n## [B0031] Gross 团队的纵向研究：重评 vs 压抑与社会联结\n\n研究设计知识：\n- Cross-sectional（横断）设计：在一个时间点测量多个变量，能看出哪些特质一起出现，但不能说明时间先后。\n- Longitudinal（纵向）设计：先测到 A、后来才出现 B，不能强推因果，但时间顺序更符合 A 导致 B 的方向。\n- Experimental control（实验操纵）最利于推断因果，但很多心理变量（如特质焦虑）无法实验操纵，所以纵向设计很有价值，只是更难做。\n研究：James Gross 团队在美国追踪大学生四年。入学第一天测量情绪调节倾向：cognitive reappraisal，以及另一种策略 suppression（压抑：只是压住情绪，通常无效、会适得其反）。第四年末让学生自评各项结果，并用同伴互评（你有多喜欢他、感觉和他多亲近）较客观地测量社会联结，避免只靠自评偏差。\n结果：第一天就常用重评的人，四年后社会联结更强——朋友更多、在同级中联系更广；用压抑的人结果相反。\n老师：重评不是\"对自己 gaslighting\"——大脑为生存而非幸福进化，倾向把事物看成威胁；适度下调把非真正威胁当威胁的倾向，有助于幸福感。\n\n## [B0032] 重评倾向可以改变：焦虑抑郁者是倾向少，不是能力差\n\n- Propensity to engage in reappraisal can be changed：这是可以学会、多加练习的技能，CBT 的核心部分就是学习和练习重评。\n- 焦虑和抑郁的人使用重评更少，但没有证据表明他们更不会用（propensity vs ability）。实验证据：在实验室看恐怖视频后，按指示使用重评，焦虑和抑郁的人得到同样的负性情绪下调效果——能力无差异，倾向有明显差异。\n- 好消息：只要提高他们使用重评的倾向，就能获得这种策略的好处——这正是 CBT 要做的。\n易错：\"焦虑抑郁者重评能力受损\"是错的；\"重评倾向是固定的\"也是错的。\n\n## [B0033] 没有万能策略：情绪调节的灵活性\n\n- 重评虽然适应性强，但不同情绪调节策略在不同情境中有效性不同；重评不是在所有情境都有效，也不是唯一有用的策略。\n- 例：对非常强烈的负性情绪，至少在初期，distraction（分心）可能更有效——先离开压倒性的刺激，等情绪没那么强时再用重评。\n- 个体在情绪调节策略库的广度（breadth of repertoire）以及能否根据情境有效地调整策略（flexibility）上存在差异；拥有广泛技能并识别何时用哪种，是特别适应性的能力，也可以培养。\n课堂问答：\n- 慢性疼痛等难以改变的内在刺激，CBT 仍有帮助，但其他策略可能同样或更有效，如 acceptance（接纳）——接受会有负性情绪和疼痛，反而可能减弱其情绪冲击；也可以说属于认知改变的一种。\n- 同事皱眉时想\"我不在乎他怎么看我\"——老师认为也可归入认知改变的范畴。\n\n## [B0034] 重评与压抑的区别（课堂问答）\n\n- Reappraisal：改变对事件的解释，进而改变情绪体验本身；在模型中较早\"切入\"（cognitive change 阶段）。\n- Suppression：例如很难过却硬挤出笑脸，没有改变驱动情绪的想法；在模型中较晚切入，属于 response modulation 阶段——情绪体验已经发生，只是掩盖它的外在迹象。\n- 纵向研究中，重评与积极结果相关，压抑结果相反；老师建议\"别压抑情绪，试着换个角度想\"。\n\n## [B0035] 思考题：什么时候不调节情绪更好？\n\nThought question：有没有情境下不调节情绪反而有益？课堂讨论要点：\n- 情绪有功能价值，常常是进化来激励我们去改变环境、纠正问题的。例：老板宣布减薪时的愤怒可能推动集体行动；suffragettes（妇女参政运动）没有\"随遇而安\"，以个人情绪平衡为代价推动了社会变革。\n- 父母听到孩子哭会强烈想去照顾——这种情绪有其目的，不该简单\"调掉\"。\n- 看悲伤电影时，本来就是想投入、被艺术打动。\n- Parental invalidation of emotions（父母否定孩子的情绪，如\"别那么激动\"）与孩子日后的适应困难有关；好的养育是确认情绪，并帮助孩子建立调节策略。\n- 接受\"有时会悲伤、生气是做人的一部分\"，可减少对负性情绪的\"元压力\"，情绪恢复更快；失去在乎的人会悲伤，这是在乎他人的代价。\n\n## [B0036] 思考题：人们为什么不愿调节情绪？如何提高调节倾向？\n\nThought question：人们常常不愿调节情绪，即使这可能有帮助。为什么？如何提高人们考虑使用情绪调节的倾向？课堂讨论要点：\n- 文化因素：不同文化对哪些情绪可以体验、表达有不同规范；集体主义文化中人们可能更受身边人情绪影响。\n- 早期从父母那里学到哪些情绪\"可以\"表达和感受。\n- 很多人从没有人明确和他们谈过情绪调节，以为要自己摸索。\n- 提高倾向的方法：更公开地谈论情绪调节，父母明确分享自己用的策略；听别人讲什么方法对他们有效；文学和故事展示他人如何应对困难。\n\n## [B0037] 双稳态图像是什么、为什么有用\n\nBistable images（也称 multi-stable images）：可以被感知为两种（或多种）不同样子的图像。例：鸭兔图（duck–rabbit）、人脸/花瓶图（face–vase）、Necker cube（内克尔立方体，是同一个立方体的两种朝向，翻转最难）；网络上的\"那条裙子\"（白金 vs 蓝黑）也是一种。\n用途：模拟大脑从自然界接收的感觉输入中无处不在的不确定性（同一输入可与多种解释一致），因此被用于多种科学研究，例如研究意识的神经相关物（neural correlates of consciousness）：看被试在两种知觉解释间切换时大脑在做什么。\n\n## [B0038] Goodhew & Edwards (2024)：研究问题\n\nGoodhew & Edwards (2024, Journal of Personality) 换了一个视角：体验双稳态知觉会带来怎样的情绪后果？\n- 这些情绪体验是否存在个体差异？\n- 哪些其他因素能预测这些差异？\n想法来源：一个轶事——一位人格特点鲜明的人说\"我讨厌这些图，太可怕了，因为能看成好几种样子\"，与她整体人格画像一致，于是研究者想知道这种情绪反应是否存在可测量的稳定个体差异。\n\n## [B0039] 方法：3 张图、确认能看到双稳态、-4 到 +4 评分、4 个预测变量\n\n- 使用 3 张不同的双稳态图像（face–vase、duck–rabbit、Necker cube）。\n- 检查被试确实能感知到双稳态（能看成两种）；少数说看不出两种的人，其情绪反应不纳入分析（可能是不同过程，人数也不够）。\n- 让被试评定此刻的情绪体验，valence 从 -4（强烈负性）到 +4（强烈正性），0 为中性。\n- 被试完成 4 个预测变量的问卷测量。\n- 样本为数百人。\n\n## [B0040] 4 个预测变量与研究假设\n\n1. Intolerance of uncertainty（IU，不确定性无法容忍）：对不确定性的负面信念与反应，把不确定和模糊视为威胁、想消除它；与焦虑、抑郁相关。条目如 \"Unforeseen events upset me greatly\"、\"When I am uncertain I can't function very well\"。预测：IU 越高，对双稳态图像（一种知觉不确定性）情绪反应越负性。\n2. Cognitive empathy（CE，认知共情）：理解他人视角，包括认识到他人的想法、情绪、信念和观点可以与自己不同——欣赏对同一情境的不同\"看法\"。预测：CE 越高，情绪反应越正性。\n3. Affective empathy（AE，情感共情）：感受他人所感。预测：与情绪反应无关。这是一个 divergent（discriminant，区分性）预测：同时测量理论上不应相关的变量，能加强对其他相关结果的解释（通常认知和情感共情一起测）。\n4. Negative affect（NA，负性情感）：普遍容易体验负性情绪。预测：NA 越高，反应越负性。作为对照（control）：检验效果是否超出一般负性情绪；IU 是情绪障碍背后的跨诊断（trans-diagnostic）认知特征，也起参照作用。\n\n## [B0041] 结果（一）：分布、内部一致性与各预测变量\n\n- 分布：多数人评 0（无明显感受），但从 -4（强烈负性：因能看成两种而很不舒服）到 +4（觉得很有趣、很正性）各种评分都有；三张图分布相似。\n- Strong internal consistency：人们对三张图的反应相当一致（给鸭兔图 +4 的人也倾向给其他图高分）——说明测到的是对双稳态本身的稳定反应，而不是某张图的特性。\n- 双变量（bivariate）层面：\n  - IU 预测更负性的情绪反应；\n  - CE 预测更正性的情绪反应；\n  - AE 与情绪反应无关（符合预测）；\n  - NA 预测更负性的情绪反应。\n易错：IU 不是\"无关\"；AE 不是\"更负性\"；NA 不是\"更正性\"。\n\n## [B0042] 结果（二）：回归——认知共情解释独特变异\n\nRegression：相关的\"高级版\"，可以同时放入多个预测变量，看每个变量与结果的独特关联——相当于预测变量之间的\"正面对决\"，看谁解释了其他变量解释不了的变异。\n结果：只有 cognitive empathy 在控制 IU 和 NA 后，仍解释情绪反应的独特变异（unique variance）——甚至超过与这类图像关系密切的 IU。\n含义：社会认知性的共情能力与\"能接受用不止一种方式看同一事物\"（哪怕是字面意义上的看图）真正相关。\n\n## [B0043] 启示与局限\n\n课件启示：\n- 用双稳态图像研究其他过程（如意识、视觉知觉的脑成像研究）时，要注意部分人有强烈情绪反应，否则测到的可能是这些情绪反应而不是低层视觉机制（混淆）。\n- 提供了探查人们对\"根本性模糊\"反应的新工具——同一视觉刺激真的可以被看成不同样子。\n- CE 关乎拥抱看世界的不同方式；人们常在认知上接受别人信念不同，但是否愿意接受别人在知觉上\"真的看到不同\"存在很大个体差异。\n- 不仅我们能以不同方式看世界，而且有些人比其他人更愿意接受这一点。\n- 个体差异不只表现在外显行为中，也存在于生理反应和知觉过程层面——人格深入我们体验世界的核心。\n局限：目前只是自评情绪评分，最好再用生理情绪测量提供 converging evidence。\n课堂问答：不能从这项研究推出\"不能容忍不确定的人在社会层面无法……\"之类的宽泛结论——单一研究不足以支持这种过度外推。阅读文学小说的终生量与认知共情（theory of mind）正相关，但让人短期读小说能否提高心理理论，证据更混杂。\n\n## [B0044] 课件自测题要点（Test yourself）\n\n1. 注意广度个体差异：正确的是\"开放性高的人看场景时扫视更小、扫描路径更短\"；偏好窄的人采用宽注意并不受损（Himba 反例）；东方背景差异在偏好不在能力；ASD 偏好窄而非宽。\n2. 特质焦虑（一）：高特质焦虑者更易体验状态焦虑，且特质焦虑是人群中的变异维度——两项都对；与之相关的是神经质而非外向性。\n3. 特质焦虑（二）：正确的是\"与偏向威胁性解释的解释偏向相关\"；与执行功能\"效率\"而非\"效果\"降低相关；与自评注意控制负相关而非正相关。\n4. 情绪调节：正确的是\"重评倾向可以改变\"；重评不是唯一有用的策略；常重评者正性情绪更多、负性更少；extrinsic 指调节他人情绪。\n5. 双稳态图像：正确的是\"认知共情越高，情绪反应越正性\"；NA 高→更负性；IU 与更负性反应相关；AE 无关。\n"
+}

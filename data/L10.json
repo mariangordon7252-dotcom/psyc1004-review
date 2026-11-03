@@ -1,0 +1,2042 @@
+{
+  "id": 10,
+  "title": "人格心理学：交互作用、精神病态与利他",
+  "subtitle": "Personality 2 · Interactions, psychopathy & its measurement, altruism",
+  "summary": "本讲从人格与情境的交互作用讲起，再讲 psychopathy 的特征、两种理论（杏仁核功能障碍 vs 注意瓶颈）、五种测量工具及其与 APD 的区别，最后讲 Batson 的利他与利己研究。复习时要抓住：交互作用通常解释得更多；psychopathy 是维度，情感共情低而认知共情不受损；杏仁核相关效应受注意调节、中性干扰物加工减少；修订版 LSRP（自我中心、冷酷、反社会）与 TPM（大胆、刻薄、去抑制）的区分；共情→利他、个人痛苦→利己，以及逃离难易范式的结果。共 33 个知识点、43 道双语练习。思考题和课堂问答内容标为口头补充，不是考试题型；诊断标准仅用于理解，本软件不是诊断工具。",
+  "concepts": [
+    {
+      "id": "L10-C01",
+      "title": "人格 × 情境：交互作用解释得更多",
+      "english": "Person–situation interaction",
+      "oneLine": "人格和情境各解释一部分行为，同时考虑两者的交互作用通常比单看任一方解释得更多。",
+      "analogy": "像种子和土壤：只看种子或只看土壤，都不如看哪颗种子在哪种土里长得最好。",
+      "simpleExample": "自拟例：同样是小组讨论，外向的同学在轻松的茶歇里话很多，在严肃的答辩中则和别人差不多安静。",
+      "explanation": "情境/状态因素（常被认知和社会心理学操纵）与人格/特质因素（人格心理学关注的、人带进情境的相对持久特征）都确实影响行为。只看操纵会把个体差异当成误差方差；只看特质又会忽视情境的力量。课件结论是：考虑两者的交互作用，通常比孤立地考虑任何一方解释得更多。",
+      "example": "自拟例：同样是小组讨论，外向的同学在轻松的茶歇里话很多，在严肃的答辩中则和别人差不多安静。",
+      "pitfall": "不是“人格解释一切”，也不是“情境解释一切”；也不是两者互相排斥、只能选一个。",
+      "source": "L10 · Interactions · [B0002]–[B0003]；课件自测 · [B0050]",
+      "front": "人格因素、情境因素与两者交互，哪种考虑通常解释行为最多？",
+      "back": "同时考虑人格与情境的交互作用，通常比单独考虑任何一方解释得更多。",
+      "cardBack": "同时考虑人格与情境的交互作用，通常比单独考虑任何一方解释得更多。"
+    },
+    {
+      "id": "L10-C02",
+      "title": "状态焦虑与特质焦虑",
+      "english": "State anxiety vs trait anxiety",
+      "oneLine": "状态焦虑是此刻是否焦虑；特质焦虑是更容易被诱发焦虑的稳定倾向，二者交互决定此刻的焦虑。",
+      "analogy": "像干柴和火星：火星（压力情境）谁都会碰到，但干柴（高特质焦虑）更容易一点就着。",
+      "simpleExample": "自拟例：等成绩公布时全班都紧张，但平时就容易担心的同学紧张得更早、更厉害。",
+      "explanation": "课件例子中，等待重要结果的人比不在这种情境的人更焦虑；特质焦虑高的人也更可能在某一刻焦虑。压力情境让所有人焦虑上升，但特质焦虑高者升得更多，所以压力情境中高低特质者的差距更大。老师强调，特质焦虑高不等于一直焦虑，而是更容易被诱发。",
+      "example": "自拟例：等成绩公布时全班都紧张，但平时就容易担心的同学紧张得更早、更厉害。",
+      "pitfall": "高特质焦虑的人并不是“总是”焦虑；在轻松情境里他们可能和别人差不多。",
+      "source": "L10 · Interactions: Example · [B0004]",
+      "front": "压力情境中，高低特质焦虑者的焦虑差距会变大还是变小？",
+      "back": "变大。所有人焦虑都升高，但高特质焦虑者升得更多。",
+      "cardBack": "变大。所有人焦虑都升高，但高特质焦虑者升得更多。"
+    },
+    {
+      "id": "L10-C03",
+      "title": "选能揭示个体差异的情境",
+      "english": "Situations that reveal individual differences",
+      "oneLine": "要观察人格差异，就要选行为不被情境严格规定、人们可以自由选择的情境。",
+      "analogy": "像试车要上开阔路面：在只能排队慢行的隧道里，每辆车看起来都一样慢。",
+      "simpleExample": "自拟例：想比较同学们的外向性，观察他们在迎新聚会上的表现，比观察他们在闭卷考试中更有用。",
+      "explanation": "考场要求人人安静，人人看起来都很内向，几乎显不出外向性差异；聚会上可以选择站在角落还是主动结识新朋友，最能显出差异。问卷设计也一样：不直接问“你外向吗”，而用“你是聚会的灵魂人物吗”这类具体情境题。",
+      "example": "自拟例：想比较同学们的外向性，观察他们在迎新聚会上的表现，比观察他们在闭卷考试中更有用。",
+      "pitfall": "强情境下人人行为相同，不代表人人人格相同；只是情境掩盖了差异。",
+      "source": "L10 · Interactions: Implications · [B0006]",
+      "front": "考场、课上报告、聚会，哪个最能显出外向性差异？为什么？",
+      "back": "聚会。考场规定人人安静，聚会里人们能自由选择怎样社交。",
+      "cardBack": "聚会。考场规定人人安静，聚会里人们能自由选择怎样社交。"
+    },
+    {
+      "id": "L10-C04",
+      "title": "Psychopathy 是一个人格维度及其核心特征",
+      "english": "Psychopathy as a personality dimension",
+      "oneLine": "Psychopathy 是一个人格维度，特征包括自私、冷酷、操纵、刻薄、大胆、去抑制和主动性攻击。",
+      "analogy": "像身高是连续的：\"psychopath\" 只是这条连续维度上特别高的那一端。",
+      "simpleExample": "自拟例：一个人为了业绩把同事当工具，看到同事因此被处分也毫无感觉，体现了操纵和冷酷。",
+      "explanation": "心理学把 psychopathy 当作一个维度（trait），psychopath 指在这一维度上特别高的人。课件列出七个特征：selfishness、callousness、manipulativeness、meanness、boldness、disinhibition、proactive aggression。外向性、开放性、宜人性属于大五，不是 psychopathy 的特征。",
+      "example": "自拟例：一个人为了业绩把同事当工具，看到同事因此被处分也毫无感觉，体现了操纵和冷酷。",
+      "pitfall": "psychopathy 不是“有或没有”的类别，也不等于大五中的外向或开放。",
+      "source": "L10 · What is psychopathy? · [B0008]；课件自测 · [B0050]",
+      "front": "Psychopathy 的七个特征是什么？",
+      "back": "自私、冷酷、操纵、刻薄、大胆、去抑制、主动性攻击。",
+      "cardBack": "自私、冷酷、操纵、刻薄、大胆、去抑制、主动性攻击。"
+    },
+    {
+      "id": "L10-C05",
+      "title": "主动性攻击 vs 反应性攻击",
+      "english": "Proactive vs reactive aggression",
+      "oneLine": "反应性攻击是被激怒后的爆发；主动性攻击是冷静、有预谋的攻击，是 psychopathy 的标志。",
+      "analogy": "像被踩脚后条件反射地推人一把，和提前几天策划好怎么让对方出丑的区别。",
+      "simpleExample": "自拟例：有人为了抢到升职机会，冷静地计划散布同事的谣言，这是主动性攻击。",
+      "explanation": "反应性攻击是对挫折、愤怒等触发的回应。主动性攻击是冷静、计划好的，或为了达到其他目的，或单纯因为从伤害他人中获得乐趣，老师认为它对 psychopathy 特别有选择性。攻击也不一定违法，故意说伤人的话也算。",
+      "example": "自拟例：有人为了抢到升职机会，冷静地计划散布同事的谣言，这是主动性攻击。",
+      "pitfall": "APD 患者也有攻击性，但不一定是主动性的；主动性攻击才是 psychopathy 的标志。",
+      "source": "L10 · Proactive aggression · [B0009]；Psychopathy vs APD · [B0034]",
+      "front": "哪种攻击被视为 psychopathy 的标志？",
+      "back": "主动性攻击：冷静、有计划、预谋的攻击，而非被激怒后的反应。",
+      "cardBack": "主动性攻击：冷静、有计划、预谋的攻击，而非被激怒后的反应。"
+    },
+    {
+      "id": "L10-C06",
+      "title": "情感共情低，认知共情不受损",
+      "english": "Affective vs cognitive empathy in psychopathy",
+      "oneLine": "高 psychopathy 者情感共情（被别人情绪带动）较低，但认知共情（理解别人的想法感受）没有受损。",
+      "analogy": "像能精确读懂天气预报，却完全不会被风雨淋湿：看得懂，但不被触动。",
+      "simpleExample": "自拟例：某人清楚知道朋友因失恋而伤心，也能说出原因，但自己一点也不难过。",
+      "explanation": "心理学中 affect 指情绪，所以情感共情就是情绪共情，也叫情绪传染：朋友哭你也想哭。认知共情接近心理理论，是理解、识别和解释别人的想法与感受。psychopathy 与认知共情不相关，选择性地只与较低的情感共情有关。",
+      "example": "自拟例：某人清楚知道朋友因失恋而伤心，也能说出原因，但自己一点也不难过。",
+      "pitfall": "不要选“两种共情都低”；也别把 affect（情绪）理解为“影响”。",
+      "source": "L10 · Affective vs cognitive empathy · [B0010]",
+      "front": "高 psychopathy 者哪种共情低，哪种不受损？",
+      "back": "情感（情绪）共情低；认知共情不受损，与 psychopathy 不相关。",
+      "cardBack": "情感（情绪）共情低；认知共情不受损，与 psychopathy 不相关。"
+    },
+    {
+      "id": "L10-C07",
+      "title": "现实意义：CEO 与再犯风险",
+      "english": "Psychopathy: CEOs and reoffending",
+      "oneLine": "高 psychopathy 在 CEO 中比例偏高；服刑者中高 psychopathy 者再犯可能高 3 倍，暴力再犯高 4 倍。",
+      "analogy": "像风险评估表里的一项重要指标：知道它，预测就准得多。",
+      "simpleExample": "自拟例：假释委员会参考服刑人员的 psychopathy 评估结果，来判断其出狱后再犯的风险。",
+      "explanation": "psychopathy 具有司法相关性：在服刑人群中，psychopathic 特质较高者再犯可能性高三倍，暴力再犯高四倍，所以它能帮助假释等决策。另一方面，CEO 中高 psychopathy 者偏多，可能因为某些情境奖励决策中的“无情”。",
+      "example": "自拟例：假释委员会参考服刑人员的 psychopathy 评估结果，来判断其出狱后再犯的风险。",
+      "pitfall": "数字别记反：总再犯 3 倍，暴力再犯 4 倍；CEO 比例高不代表这是值得追求的特质。",
+      "source": "L10 · What is psychopathy? · [B0011]",
+      "front": "服刑人群中高 psychopathy 者的再犯和暴力再犯风险分别高几倍？",
+      "back": "再犯约 3 倍，暴力再犯约 4 倍。",
+      "cardBack": "再犯约 3 倍，暴力再犯约 4 倍。"
+    },
+    {
+      "id": "L10-C08",
+      "title": "两种理论：情绪特异 vs 领域一般",
+      "english": "Amygdala dysfunction vs attentional bottleneck",
+      "oneLine": "杏仁核功能障碍理论认为核心是情绪特异的恐惧缺陷；注意瓶颈理论认为核心是领域一般的注意机制。",
+      "analogy": "像收音机听不到某个台：是这个台的接收器坏了（杏仁核），还是调频旋钮只锁在一个频道（注意）？",
+      "simpleExample": "自拟例：同一个人既忽视同事的难过，也忽视桌上与任务无关的普通便签，后者更难用“情绪系统坏了”来解释。",
+      "explanation": "杏仁核位于大脑深部、属于边缘系统，与情绪密切相关，第一种理论认为 psychopathy 的核心是它工作异常。注意瓶颈理论则是领域一般的：问题不只在情绪刺激，而在更普遍的注意加工。老师认为证据更偏向注意瓶颈理论。",
+      "example": "自拟例：同一个人既忽视同事的难过，也忽视桌上与任务无关的普通便签，后者更难用“情绪系统坏了”来解释。",
+      "pitfall": "注意瓶颈理论并不需要杏仁核“完好”或“有缺陷”，它强调注意至少调节了这些效应。",
+      "source": "L10 · Theories of psychopathy · [B0012]",
+      "front": "两种 psychopathy 理论分别是哪种机制，证据更偏向哪一方？",
+      "back": "杏仁核功能障碍（情绪特异）vs 注意瓶颈（领域一般）；证据更偏向注意瓶颈。",
+      "cardBack": "杏仁核功能障碍（情绪特异）vs 注意瓶颈（领域一般）；证据更偏向注意瓶颈。"
+    },
+    {
+      "id": "L10-C09",
+      "title": "杏仁核理论的三项证据",
+      "english": "Evidence for amygdala dysfunction",
+      "oneLine": "高 psychopathy 者恐惧增强惊跳减弱、杏仁核激活减弱、识别恐惧和悲伤表情有困难。",
+      "analogy": "像烟雾报警器灵敏度低：同样的烟（恐惧刺激）出现，警报（惊跳、激活）都更小。",
+      "simpleExample": "自拟例：被试先看恐怖图片再听巨响，一般人惊跳很大，高 psychopathy 被试的惊跳增强较小。",
+      "explanation": "惊跳反射是对突然巨响的退缩眨眼反应，可用面部肌电测量；处于恐惧等负性情绪时惊跳更大，即恐惧增强惊跳。高 psychopathy 者这种增强较小；看到恐惧面孔时杏仁核激活也弱于一般人；识别恐惧和悲伤表情较困难。杏仁核参与这些过程，所以这些发现被当作支持杏仁核理论。",
+      "example": "自拟例：被试先看恐怖图片再听巨响，一般人惊跳很大，高 psychopathy 被试的惊跳增强较小。",
+      "pitfall": "这些发现主要出现在自然自由观看时；后来发现它们都受注意调节。",
+      "source": "L10 · Amygdala dysfunction and fear deficits · [B0013]",
+      "front": "支持杏仁核理论的三项发现是什么？",
+      "back": "恐惧增强惊跳减弱、杏仁核激活减弱、识别恐惧和悲伤表情困难。",
+      "cardBack": "恐惧增强惊跳减弱、杏仁核激活减弱、识别恐惧和悲伤表情困难。"
+    },
+    {
+      "id": "L10-C10",
+      "title": "注意瓶颈理论：目标导向的强聚焦",
+      "english": "Attentional bottleneck theory",
+      "oneLine": "高 psychopathy 者有强烈的目标导向注意聚焦，与目标无关的刺激（包括他人痛苦）被忽略。",
+      "analogy": "像戴着遮眼罩的赛马：只看得见前方终点，旁边发生什么都进不了视野。",
+      "simpleExample": "自拟例：一个人全神贯注地谈下合同，完全没注意到对方助理快哭了，因为这和他的目标无关。",
+      "explanation": "人人都有注意瓶颈，加工容量有限。该理论认为高 psychopathy 者的瓶颈更窄更僵硬，又伴随强烈的目标导向注意。他们自私、自我中心，目标多关乎自己，别人的情绪往往属于目标无关信息，于是被忽略，包括但不限于他人痛苦的信号。",
+      "example": "自拟例：一个人全神贯注地谈下合同，完全没注意到对方助理快哭了，因为这和他的目标无关。",
+      "pitfall": "被忽略的不只是情绪信息，而是一切与当前目标无关的刺激。",
+      "source": "L10 · Attentional bottleneck theory · [B0014]",
+      "front": "注意瓶颈理论如何解释高 psychopathy 者忽视他人痛苦？",
+      "back": "他们注意高度聚焦于自身目标，与目标无关的刺激（含他人痛苦）被忽略。",
+      "cardBack": "他们注意高度聚焦于自身目标，与目标无关的刺激（含他人痛苦）被忽略。"
+    },
+    {
+      "id": "L10-C11",
+      "title": "惊跳与杏仁核激活都受注意调节",
+      "english": "Startle and amygdala effects are modulated by attention",
+      "oneLine": "把注意引向情绪刺激后，高 psychopathy 者的恐惧增强惊跳和杏仁核激活与一般人相同。",
+      "analogy": "像一盏灯不是坏了，而是开关没被按下：一提醒“看这里”，灯就亮了。",
+      "simpleExample": "自拟例：要求被试“看到可怕图片就尽快按键”，高 psychopathy 被试的惊跳增强就和其他人差不多。",
+      "explanation": "自然自由观看时才出现组间差异。当任务要求对可怕图片按键，或判断面孔是恐惧还是中性时，两组的恐惧增强惊跳和杏仁核激活就相近。所以杏仁核激活减弱只在情绪刺激不是注意焦点时出现，这更符合注意瓶颈理论。",
+      "example": "自拟例：要求被试“看到可怕图片就尽快按键”，高 psychopathy 被试的惊跳增强就和其他人差不多。",
+      "pitfall": "不是“杏仁核激活增强”，也不是“惊跳不受注意影响”；减弱只在情绪刺激不被注意时出现。",
+      "source": "L10 · Attentional bottleneck evidence · [B0015]–[B0016]",
+      "front": "高 psychopathy 者的杏仁核激活在什么条件下减弱？",
+      "back": "情绪刺激不是注意焦点时；把注意引向情绪后，激活与一般人相同。",
+      "cardBack": "情绪刺激不是注意焦点时；把注意引向情绪后，激活与一般人相同。"
+    },
+    {
+      "id": "L10-C12",
+      "title": "替代性脑激活：一句指令就改变",
+      "english": "Vicarious brain activation modulated by attention",
+      "oneLine": "高 psychopathy 者平时替代性脑激活少，但被要求“共情视频中的人”后就出现了。",
+      "analogy": "像收音机音量被调低而不是喇叭坏了：有人把旋钮拧大，声音就出来了。",
+      "simpleExample": "自拟例：看别人手被拍打时，被提醒“想象他的感受”后，被试大脑对他人疼痛的反应接近自己疼时的反应。",
+      "explanation": "替代性激活比较的是自己受轻微疼痛与看别人受同样刺激时的脑激活，看别人疼时反应接近自己疼，就是替代性激活。高 psychopathy 者在标准条件下很少；一项研究只是指示他们共情，他们就出现了这种激活。老师说这显示了注意与指令的力量，但单靠它不足以减少 psychopathy 的整体表现。",
+      "example": "自拟例：看别人手被拍打时，被提醒“想象他的感受”后，被试大脑对他人疼痛的反应接近自己疼时的反应。",
+      "pitfall": "这说明替代性激活可被注意调节，不说明一次指令就能“治好” psychopathy。",
+      "source": "L10 · Vicarious brain activation · [B0017]",
+      "front": "什么简单操作让高 psychopathy 者出现了替代性脑激活？",
+      "back": "直接告诉他们去共情视频中受疼痛刺激的人。",
+      "cardBack": "直接告诉他们去共情视频中受疼痛刺激的人。"
+    },
+    {
+      "id": "L10-C13",
+      "title": "CU 特质男孩：注意眼睛就能识别",
+      "english": "Boys with callous-unemotional traits",
+      "oneLine": "CU 特质男孩自由观看时难以识别情绪表情，但被要求看眼睛后缺陷消失。",
+      "analogy": "像找错了地方看路标：不是看不懂，而是视线根本没落在路标上。",
+      "simpleExample": "自拟例：老师让一个总把恐惧说成开心的孩子“先看看照片里人的眼睛”，他马上答对了。",
+      "explanation": "儿童身上的类似特质叫冷酷无情特质（CU traits），不叫 psychopathic traits。有 CU 特质的男孩自由观看时识别情绪表情有困难，但被引导注意眼睛后就不再有缺陷，说明他们原来没看向传达恐惧等情绪的部位。",
+      "example": "自拟例：老师让一个总把恐惧说成开心的孩子“先看看照片里人的眼睛”，他马上答对了。",
+      "pitfall": "缺陷出现在自由观看，而不是注意被引向眼睛时；儿童用 CU traits 一词。",
+      "source": "L10 · Boys with CU traits · [B0018]",
+      "front": "CU 特质男孩在什么条件下不再有情绪识别缺陷？",
+      "back": "被要求注意面孔的眼睛时。",
+      "cardBack": "被要求注意面孔的眼睛时。"
+    },
+    {
+      "id": "L10-C14",
+      "title": "中性干扰物加工减少：最难被杏仁核理论解释",
+      "english": "Reduced processing of neutral distractors",
+      "oneLine": "高 psychopathy 者连完全中性、与任务无关的干扰物也较少加工，这支持领域一般的注意机制。",
+      "analogy": "像只读考试重点的人：不只跳过感人的故事，连普通的页眉页脚也一眼不看。",
+      "simpleExample": "自拟例：做字母判断任务时，屏幕旁闪过无关数字，高 psychopathy 被试事后几乎没加工这些数字。",
+      "explanation": "杏仁核缺陷只能解释情绪刺激的加工减少，无法解释为什么情绪中性但目标无关的刺激（如字母、数字）也被少加工。注意瓶颈理论正好预测：所有与任务无关的东西都被忽略，不论是否带情绪。",
+      "example": "自拟例：做字母判断任务时，屏幕旁闪过无关数字，高 psychopathy 被试事后几乎没加工这些数字。",
+      "pitfall": "是“中性干扰物加工减少”，不是“增加”；关键在于刺激是中性的。",
+      "source": "L10 · Reduced distractor processing · [B0019]；课件自测 · [B0050]",
+      "front": "哪项发现最难用杏仁核理论解释？",
+      "back": "高 psychopathy 者对中性、与任务无关的干扰物加工也减少。",
+      "cardBack": "高 psychopathy 者对中性、与任务无关的干扰物加工也减少。"
+    },
+    {
+      "id": "L10-C15",
+      "title": "证据天平与注意干预的启示",
+      "english": "Weighing the theories; attention-based interventions",
+      "oneLine": "注意瓶颈理论证据更多，至少注意调节了这些效应；这提示针对注意的早期干预可能有帮助。",
+      "analogy": "像发现问题出在“没看到”而不是“看不懂”：那就先教人往哪里看。",
+      "simpleExample": "自拟例：研究者设计游戏，训练有 CU 特质的孩子在同伴哭时看对方的脸和眼睛。",
+      "explanation": "老师总结：注意瓶颈理论“赢得更多分”，仍有人坚持杏仁核缺陷，但很难否认注意至少起调节作用。童年大脑特别有可塑性，若注意是关键机制，引导孩子注意被伤害者、看面孔中传达情绪的部位，也许能减轻这些特质的负面后果。这仍是开放问题。",
+      "example": "自拟例：研究者设计游戏，训练有 CU 特质的孩子在同伴哭时看对方的脸和眼睛。",
+      "pitfall": "这些干预只是有希望的研究方向，老师没有说已被证明能消除 psychopathy。",
+      "source": "L10 · Theories summary and interventions · [B0020]",
+      "front": "注意瓶颈证据对干预有什么启示？",
+      "back": "针对注意的干预（尤其童年早期）可能减轻部分负面后果，但仍是开放问题。",
+      "cardBack": "针对注意的干预（尤其童年早期）可能减轻部分负面后果，但仍是开放问题。"
+    },
+    {
+      "id": "L10-C16",
+      "title": "原发型 vs 继发型 psychopathy",
+      "english": "Primary vs secondary psychopathy",
+      "oneLine": "原发型是自私、操纵、冷酷；继发型是自我挫败的生活方式，常以极端冲动为特征。",
+      "analogy": "像同一病名下两种表现：一个是冷静算计的“心”，一个是管不住自己的“手”。",
+      "simpleExample": "自拟例：甲冷静地利用朋友赚钱且毫无愧疚（原发型）；乙总是一时冲动旷工、惹麻烦（继发型）。",
+      "explanation": "这是 LSRP 采用的两个维度。原发型关乎情感与人际核心，是多数人说 psychopath 时想到的那类，可能伴随自身情绪也较弱；继发型偏冲动和反社会行为，愤怒、挫败等情绪可能更强。原发/继发的划分正式属于 LSRP，不属于 TPM。",
+      "example": "自拟例：甲冷静地利用朋友赚钱且毫无愧疚（原发型）；乙总是一时冲动旷工、惹麻烦（继发型）。",
+      "pitfall": "冲动、反复惹麻烦属于继发型，不是原发型；TPM 的三维不等于原发/继发。",
+      "source": "L10 · LSRP · [B0027]；课堂问答 · [B0021]",
+      "front": "原发型和继发型 psychopathy 各有什么特点？",
+      "back": "原发型：自私、操纵、冷酷；继发型：自我挫败的生活方式、极端冲动。",
+      "cardBack": "原发型：自私、操纵、冷酷；继发型：自我挫败的生活方式、极端冲动。"
+    },
+    {
+      "id": "L10-C17",
+      "title": "PCL-22 与 PCL-R：司法情境核对表",
+      "english": "Hare Psychopathy Checklist (PCL-22, PCL-R)",
+      "oneLine": "PCL-22 是 22 条、每条 0/1/2 计分、结合访谈和背景资料的司法核对表；PCL-R 删去两个表现差的条目。",
+      "analogy": "像警方档案核对单：不只听本人怎么说，还要对照记录逐条打分。",
+      "simpleExample": "自拟例：在监狱评估中，评估者访谈服刑者，同时查阅其犯罪记录，逐条给 0、1 或 2 分。",
+      "explanation": "Hare 的 PCL-22 包含观察者认为的人格特质和可观察行为，在访谈中完成并依据背景资料，因为该人群诚实度可能不高。它常用于监狱等司法情境。PCL-R 与原版唯一的区别是删去两个区分力差的条目。",
+      "example": "自拟例：在监狱评估中，评估者访谈服刑者，同时查阅其犯罪记录，逐条给 0、1 或 2 分。",
+      "pitfall": "PCL 不是自我报告问卷；PCL-R 的修订是删条目，不是增加维度。",
+      "source": "L10 · PCL-22 and PCL-R · [B0023]–[B0024]",
+      "front": "PCL-22 怎样施测和计分？PCL-R 改了什么？",
+      "back": "访谈加背景资料，22 条各计 0/1/2；PCL-R 删去两个表现差的条目。",
+      "cardBack": "访谈加背景资料，22 条各计 0/1/2；PCL-R 删去两个表现差的条目。"
+    },
+    {
+      "id": "L10-C18",
+      "title": "PCL-R 条目内容与施测资格",
+      "english": "PCL-R items and administration requirements",
+      "oneLine": "PCL-R 条目涵盖表面魅力、自我夸大、病态说谎、缺乏悔恨等，且必须由合格专业人员施测。",
+      "analogy": "像处方药：说明书谁都能读，但只有受过训练、有资质的人才能开出来。",
+      "simpleExample": "自拟例：心理学本科生读过 PCL-R 条目，在宿舍给室友“打分”，这是不恰当的。",
+      "explanation": "条目包括圆滑与表面魅力、自我中心/夸大自我价值、病态说谎、缺乏悔恨、冷酷/缺乏共情、寄生式生活、冲动、青少年犯罪、违反假释等。施测者须有医学、行为或社会科学高级学位（如 PhD），熟悉 psychopathy 研究，接受过 PCL-R 专门培训，并在权威机构注册。",
+      "example": "自拟例：心理学本科生读过 PCL-R 条目，在宿舍给室友“打分”，这是不恰当的。",
+      "pitfall": "读过条目不等于能诊断；课件明确说没有资质和经验不能用于诊断。",
+      "source": "L10 · PCL-R items and requirements · [B0025]–[B0026]；Appropriate use · [B0036]",
+      "front": "PCL-R 施测者需要满足哪些条件？",
+      "back": "高级学位（如 PhD）、熟悉 psychopathy 研究、受过 PCL-R 培训、在权威机构注册。",
+      "cardBack": "高级学位（如 PhD）、熟悉 psychopathy 研究、受过 PCL-R 培训、在权威机构注册。"
+    },
+    {
+      "id": "L10-C19",
+      "title": "LSRP：社区样本的自我报告量表",
+      "english": "Levenson Self-Report Psychopathy Scale (LSRP)",
+      "oneLine": "LSRP 有 26 个条目，适用于社区非司法样本，测原发型和继发型 psychopathy。",
+      "analogy": "像普通人也能填的体检问卷，而不是专为重症病房设计的评估。",
+      "simpleExample": "自拟例：研究者在大学生中发放 LSRP，比较大家原发型和继发型特质的高低。",
+      "explanation": "LSRP 是为普通社区人群设计的自我报告量表，用 26 个条目测原发型（自私、操纵、冷酷）和继发型（自我挫败、极端冲动）两维度。它的两因素结构后来受到批评，因为统计上回答不能很好地聚成两类。",
+      "example": "自拟例：研究者在大学生中发放 LSRP，比较大家原发型和继发型特质的高低。",
+      "pitfall": "LSRP 是自我报告且用于社区样本；条目数是 26，不是 22。",
+      "source": "L10 · LSRP · [B0027]",
+      "front": "LSRP 适用于什么样本？测哪两个维度？",
+      "back": "社区非司法样本；原发型与继发型 psychopathy（26 条）。",
+      "cardBack": "社区非司法样本；原发型与继发型 psychopathy（26 条）。"
+    },
+    {
+      "id": "L10-C20",
+      "title": "Christian & Sellbom 三因素 LSRP",
+      "english": "Revised LSRP: egocentric, callous, antisocial",
+      "oneLine": "Christian 和 Sellbom（2016）修订扩展 LSRP，发现自我中心、冷酷、反社会三个因素，心理测量学更好。",
+      "analogy": "像把一个大抽屉“原发型”再分成两格（自我中心、冷酷），另一个抽屉“继发型”改名为反社会。",
+      "simpleExample": "自拟例：“照顾自己是我的首要任务”计入自我中心，“人们在葬礼上太情绪化”计入冷酷，“我一次次陷入同样的麻烦”计入反社会。",
+      "explanation": "原 LSRP 的两因素结构受批评。Christian 和 Sellbom（2016，ANU 的研究）修订后发现三个因素：Egocentric、Callous、Antisocial，心理测量学特性更好。前两者相当于原发型的细分，Antisocial 对应继发型。",
+      "example": "自拟例：“照顾自己是我的首要任务”计入自我中心，“人们在葬礼上太情绪化”计入冷酷，“我一次次陷入同样的麻烦”计入反社会。",
+      "pitfall": "三因素是自我中心、冷酷、反社会，不是大胆、刻薄、去抑制（那是 TPM）。",
+      "source": "L10 · LSRP 3 Factor Expansion · [B0028]–[B0029]",
+      "front": "修订扩展版 LSRP 的三个因素是什么？",
+      "back": "自我中心（Egocentric）、冷酷（Callous）、反社会（Antisocial）。",
+      "cardBack": "自我中心（Egocentric）、冷酷（Callous）、反社会（Antisocial）。"
+    },
+    {
+      "id": "L10-C21",
+      "title": "反向计分题",
+      "english": "Reverse-scored items [RS]",
+      "oneLine": "同意反向计分题会得低分，用来防止有人不看内容一律选高分。",
+      "analogy": "像试卷里故意放几道“以下哪项不正确”：只会一路选同一个字母的人会露馅。",
+      "simpleExample": "自拟例：在冷酷量表上，同意“我尽量不在追求目标时伤害别人”，冷酷得分会降低。",
+      "explanation": "好的问卷不会让所有条目都是“同意 = 高分”，因为有人习惯全圈高分。LSRP 冷酷因素有“I make a point of trying not to hurt others in pursuit of my goals [RS]”；TPM 大胆维度有“I stay away from danger as much as I can [RS]”。",
+      "example": "自拟例：在冷酷量表上，同意“我尽量不在追求目标时伤害别人”，冷酷得分会降低。",
+      "pitfall": "同意 [RS] 条目代表该特质较低，不是较高。",
+      "source": "L10 · Callous items and reverse scoring · [B0030]",
+      "front": "为什么问卷要加入反向计分题？",
+      "back": "因为有些人倾向一律圈高分，反向题能抵消这种作答倾向。",
+      "cardBack": "因为有些人倾向一律圈高分，反向题能抵消这种作答倾向。"
+    },
+    {
+      "id": "L10-C22",
+      "title": "三元模型 TPM：大胆、刻薄、去抑制",
+      "english": "Triarchic Model of Psychopathy (TPM)",
+      "oneLine": "TPM 测大胆（Boldness）、刻薄（Meanness）、去抑制（Disinhibition）三个维度。",
+      "analogy": "像三原色调出 psychopathy：胆子大、心肠硬、管不住自己。",
+      "simpleExample": "自拟例：“我害怕的东西比大多数人少”是大胆；“看别人痛苦不困扰我”是刻薄；“我常不假思索就行动”是去抑制。",
+      "explanation": "大胆可能是较具适应性的部分（低恐惧、倾向领导），或与 CEO 比例偏高有关，但自我报告的“天生领导者”不等于真有领导力。刻薄接近冷酷；去抑制接近继发型。TPM 有原发/继发的“味道”，但侧重原发的不同方面，原发/继发并不正式属于 TPM，TPM 也不测大五维度。",
+      "example": "自拟例：“我害怕的东西比大多数人少”是大胆；“看别人痛苦不困扰我”是刻薄；“我常不假思索就行动”是去抑制。",
+      "pitfall": "TPM 不测外向、神经质、宜人性，也不正式测原发/继发；它是自我报告量表。",
+      "source": "L10 · Triarchic Model of Psychopathy · [B0031]",
+      "front": "TPM 的三个维度是什么？",
+      "back": "Boldness 大胆、Meanness 刻薄、Disinhibition 去抑制。",
+      "cardBack": "Boldness 大胆、Meanness 刻薄、Disinhibition 去抑制。"
+    },
+    {
+      "id": "L10-C23",
+      "title": "按人群选择 psychopathy 量表",
+      "english": "Matching the measure to the population",
+      "oneLine": "监狱等司法人群用 Hare PCL；学生和社区样本用 LSRP、修订版 LSRP 或 TPM。",
+      "analogy": "像量体温要选对温度计：给普通人用只测高烧的温度计，读数全挤在零附近。",
+      "simpleExample": "自拟例：研究者想在一年级心理学学生中测 psychopathy，于是选用 TPM 而不是 PCL-R。",
+      "explanation": "PCL-22 和 PCL-R 是为服刑人群设计的司法核对表；后三种是社区自我报告量表。在学生中用 PCL，多数人会接近 0 分，缺乏变异；社区量表能得到更大的分数范围，这才是研究需要的。关键是让测量工具与人群匹配。",
+      "example": "自拟例：研究者想在一年级心理学学生中测 psychopathy，于是选用 TPM 而不是 PCL-R。",
+      "pitfall": "不是越“专业”的工具越好；PCL 用在普通学生中会造成地板效应般的低变异。",
+      "source": "L10 · Measures summary · [B0022]；Thought question · [B0032]",
+      "front": "在一年级心理学学生中测 psychopathy，应选哪类量表？为什么？",
+      "back": "LSRP、修订版 LSRP 或 TPM；它们为社区样本设计，分数变异更大。",
+      "cardBack": "LSRP、修订版 LSRP 或 TPM；它们为社区样本设计，分数变异更大。"
+    },
+    {
+      "id": "L10-C24",
+      "title": "Psychopathy 不是诊断；APD 的诊断标准",
+      "english": "Antisocial Personality Disorder criteria",
+      "oneLine": "psychopathy 不是 DSM 诊断；最接近的 APD 要求 15 岁起漠视他人权利且满足 7 项中 3 项以上，年满 18 岁并有 15 岁前品行障碍证据。",
+      "analogy": "像正式的“诊断清单”和研究用的“刻度尺”：APD 是清单上的类别，psychopathy 是尺子上的位置。",
+      "simpleExample": "自拟例：一名 17 岁、反复打架和说谎的青少年，即使行为很多，也还不满足 APD 的年龄要求。",
+      "explanation": "APD 七项标准：不遵守法律和规范、欺诈、冲动或不能计划、易激惹与攻击、鲁莽不顾安全、一贯不负责任、缺乏悔恨。须自 15 岁起持续漠视和侵犯他人权利、满足 3 项或以上，个体至少 18 岁，并有 15 岁前品行障碍的证据。",
+      "example": "自拟例：一名 17 岁、反复打架和说谎的青少年，即使行为很多，也还不满足 APD 的年龄要求。",
+      "pitfall": "psychopathy 本身不是诊断；APD 的两个年龄点是 15 岁（模式起始与品行障碍）和 18 岁（诊断年龄）。",
+      "source": "L10 · Antisocial Personality Disorder · [B0033]",
+      "front": "APD 诊断的年龄要求是什么？",
+      "back": "至少 18 岁，漠视他人权利的模式自 15 岁起，并有 15 岁前品行障碍证据。",
+      "cardBack": "至少 18 岁，漠视他人权利的模式自 15 岁起，并有 15 岁前品行障碍证据。"
+    },
+    {
+      "id": "L10-C25",
+      "title": "Psychopathy 与 APD：相关但不相同",
+      "english": "Psychopathy vs APD",
+      "oneLine": "APD 几乎只看可观察行为，psychopathy 看行为背后的心理过程；只有约 20–30% 的 APD 者是 psychopath。",
+      "analogy": "像两个部分重叠的圆：交集里有几乎所有入狱的 psychopath，但两个圆各自都有很大的独有部分。",
+      "simpleExample": "自拟例：一位从未犯罪、但冷酷操纵他人的公司高管，可能 psychopathy 很高却不符合 APD。",
+      "explanation": "APD 被批评几乎只关注外显行为。只有约 20–30% 的 APD 者符合 psychopath 标准；几乎所有服刑 psychopath 都符合 APD，但还有很多不在监狱、不一定符合 APD 的社区 psychopath。主动性攻击是 psychopathy 的标志；APD 常与童年创伤和反应性攻击有关。",
+      "example": "自拟例：一位从未犯罪、但冷酷操纵他人的公司高管，可能 psychopathy 很高却不符合 APD。",
+      "pitfall": "psychopathy 不等于 APD；也别说“大多数 APD 患者是 psychopath”，实际只有少数。",
+      "source": "L10 · Psychopathy vs APD · [B0034]–[B0035]",
+      "front": "大约多少比例的 APD 患者符合 psychopath 标准？",
+      "back": "约 20–30%，属于少数。",
+      "cardBack": "约 20–30%，属于少数。"
+    },
+    {
+      "id": "L10-C26",
+      "title": "研究设计：连续维度 vs 诊断分组",
+      "english": "Continuous psychopathy vs APD group comparison",
+      "oneLine": "研究反社会行为的心理过程时，把 psychopathy 作为连续变量测量，比只比较 APD 组和对照组保留更多信息。",
+      "analogy": "像用精确的温度读数而不是只分“发烧/没发烧”：中间的变化都看得见。",
+      "simpleExample": "自拟例：研究者在社区样本中测大胆的连续分数，发现中等水平的人适应最好，过高或过低都不理想。",
+      "explanation": "把维度强行分成诊断类别会丢失信息，也可能漏掉非单调关系，例如中等水平的 boldness 也许最具适应性。这就是类比人格维度取向，与 L9 的维度 vs 类别一致。老师认为最好两种设计都做，看证据是否收敛。",
+      "example": "自拟例：研究者在社区样本中测大胆的连续分数，发现中等水平的人适应最好，过高或过低都不理想。",
+      "pitfall": "这不是说诊断分组毫无价值；老师建议两种设计结合，看证据是否收敛。",
+      "source": "L10 · Thought question: APD vs continuous psychopathy · [B0048]",
+      "front": "为什么老师倾向在普通人群中把 psychopathy 当连续变量测量？",
+      "back": "保留全部分数信息，能发现非单调关系；分组会丢失信息。",
+      "cardBack": "保留全部分数信息，能发现非单调关系；分组会丢失信息。"
+    },
+    {
+      "id": "L10-C27",
+      "title": "Batson：共情 → 利他，个人痛苦 → 利己",
+      "english": "Batson: empathy vs personal distress",
+      "oneLine": "目睹他人痛苦时，共情与同情促进利他动机；个人痛苦与自我关注促进利己动机。",
+      "analogy": "像看到落水的人：一种人心里想的是“他太可怜了”，另一种人想的是“我看着好难受”。",
+      "simpleExample": "自拟例：看到同学当众哭泣，一人关心“她需要什么”，另一人只想“这场面让我好不舒服，赶紧结束吧”。",
+      "explanation": "Batson 质疑心理学“人终究自私”的默认假设，想证明真正的利他存在，并考察导致利他的状态和特质因素。他提出两条路径：对他人的共情/同情 → 利他动机；个人痛苦和自我关注 → 利己动机。利他和利己动机都可能促进帮助行为。",
+      "example": "自拟例：看到同学当众哭泣，一人关心“她需要什么”，另一人只想“这场面让我好不舒服，赶紧结束吧”。",
+      "pitfall": "方向别反：共情不促进利己，个人痛苦不促进利他。",
+      "source": "L10 · Altruism vs Egoism · [B0038]–[B0039]",
+      "front": "Batson 认为什么感受促进利他动机，什么感受促进利己动机？",
+      "back": "共情/同情促进利他；个人痛苦和自我关注促进利己。",
+      "cardBack": "共情/同情促进利他；个人痛苦和自我关注促进利己。"
+    },
+    {
+      "id": "L10-C28",
+      "title": "帮助不等于利他：终极目标决定动机",
+      "english": "Ultimate goal vs unintended consequence",
+      "oneLine": "利他和利己都能导致帮助；判断动机看终极目标，而不是行为附带的意外结果。",
+      "analogy": "像同样是捐款：一个为了救人，一个为了上新闻；钱都到了，但“为什么捐”不同。",
+      "simpleExample": "自拟例：小林为了让自己不再难受才去安慰哭泣的室友，室友确实好多了，但小林的终极目标仍是利己。",
+      "explanation": "利己动机包括减轻自己的痛苦、获得社会或自我赞扬、避免指责。利他动机是因为希望对方好。Batson 区分终极目标与意外结果：为减轻自身痛苦而帮助，帮到对方只是意外结果；真心为对方而帮助，被人夸奖也只是意外结果，不会因此变成利己。",
+      "example": "自拟例：小林为了让自己不再难受才去安慰哭泣的室友，室友确实好多了，但小林的终极目标仍是利己。",
+      "pitfall": "不能因为帮助有效或有人称赞，就判断动机是利他或利己；要看终极目标。",
+      "source": "L10 · Ultimate goal vs unintended consequence · [B0040]",
+      "front": "按 Batson，什么决定帮助动机是利他还是利己？",
+      "back": "终极目标（真正为什么这样做），而不是意外结果。",
+      "cardBack": "终极目标（真正为什么这样做），而不是意外结果。"
+    },
+    {
+      "id": "L10-C29",
+      "title": "逃离难易范式：从行为模式推断动机",
+      "english": "Batson's ease-of-escape paradigm",
+      "oneLine": "不能从单次行为推断动机，要看条件变化时的行为模式；Batson 操纵逃离难易来区分利他与利己。",
+      "analogy": "像看一个人是否真喜欢你：要看你不在场、他不必表现时他还做不做，而不是只看一次。",
+      "simpleExample": "自拟例：告诉一组被试“你可以走了”，另一组必须留下，再看两组谁会帮助痛苦中的同伴。",
+      "explanation": "Batson 认为单次行为不能揭示动机，需要观察其他因素变化时的行为模式。他让逃离变得容易（参与结束，可直接离开）或困难（必须留下与对方互动）。预测：利他动机下帮助率不受逃离难易影响，都保持高；利己动机下逃离容易时帮助率急剧下降。",
+      "example": "自拟例：告诉一组被试“你可以走了”，另一组必须留下，再看两组谁会帮助痛苦中的同伴。",
+      "pitfall": "利他的预测是“不受影响、保持高”，不是“逃离困难时更愿意离开”。",
+      "source": "L10 · Ease of escape paradigm · [B0041]",
+      "front": "若动机是利他，逃离难易应怎样影响帮助率？",
+      "back": "几乎不影响，帮助率保持高；利己时逃离容易会让帮助率急剧下降。",
+      "cardBack": "几乎不影响，帮助率保持高；利己时逃离容易会让帮助率急剧下降。"
+    },
+    {
+      "id": "L10-C30",
+      "title": "Batson 的发现：利他动机确实存在",
+      "english": "Batson's findings",
+      "oneLine": "报告共情的人无论逃离是否容易都留下帮忙；报告个人痛苦的人在容易逃离时多半离开。",
+      "analogy": "像门开着时谁还留下：真正关心的人留下，只想摆脱难受的人从门口走了。",
+      "simpleExample": "自拟例：实验中被告知可以离开后，感到同情的被试仍留下帮忙，感到心烦意乱的被试大多离开。",
+      "explanation": "共情组的帮助率几乎不受逃离难易影响；个人痛苦组只在逃不掉时才帮忙，一旦能轻松离开就多半离开。所以感到共情和同情的人表现出看似利他的动机。并非每个人都这样，但利他动机行为似乎确实存在，挑战了人类动机总是利己的假设。",
+      "example": "自拟例：实验中被告知可以离开后，感到同情的被试仍留下帮忙，感到心烦意乱的被试大多离开。",
+      "pitfall": "受逃离难易影响大的是利己（个人痛苦）组，影响小的是利他（共情）组。",
+      "source": "L10 · Batson's findings · [B0042]；课件自测 · [B0050]",
+      "front": "Batson 发现逃离难易对哪组的帮助影响很小？",
+      "back": "对利他动机（共情和同情）的人影响很小。",
+      "cardBack": "对利他动机（共情和同情）的人影响很小。"
+    },
+    {
+      "id": "L10-C31",
+      "title": "影响共情还是个人痛苦的特质因素",
+      "english": "Trait empathic concern, emotion regulation, self-concept clarity",
+      "oneLine": "特质共情关怀、情绪调节能力和自我概念清晰度，影响人面对他人痛苦时感到共情还是个人痛苦。",
+      "analogy": "像救生员：会游泳（情绪调节）、站得稳（自我清晰）、本来就想救人（共情关怀）的人，才不会被拖下水。",
+      "simpleExample": "自拟例：一位自我认识清楚、能稳住自己情绪的志愿者，在灾民面前能专注于对方需要什么，而不是自己崩溃。",
+      "explanation": "特质共情关怀高的人在更多情境中产生同情与利他感受。情绪调节能力差、容易被情绪淹没的人更易产生个人痛苦。自我概念清晰度高的人更可能共情关怀，因为共情不应模糊自我与他人界限；自我模糊的人容易把对方的痛苦吸收成自己的痛苦。",
+      "example": "自拟例：一位自我认识清楚、能稳住自己情绪的志愿者，在灾民面前能专注于对方需要什么，而不是自己崩溃。",
+      "pitfall": "自我概念清晰度高促进共情，不是降低共情；这看似反直觉，要记住。",
+      "source": "L10 · Factors influencing empathy vs distress · [B0043]",
+      "front": "课件列出哪三个因素影响人感到共情还是个人痛苦？",
+      "back": "特质共情关怀、情绪调节能力、自我概念清晰度。",
+      "cardBack": "特质共情关怀、情绪调节能力、自我概念清晰度。"
+    },
+    {
+      "id": "L10-C32",
+      "title": "影响帮助的情境因素：时间压力与自我威胁",
+      "english": "Time pressure and threat to self",
+      "oneLine": "时间压力会大幅减少帮助；对自身的威胁也会阻止帮助，即使利他动机很强。",
+      "analogy": "像赶飞机时路过需要帮忙的人：心里想帮，脚却停不下来。",
+      "simpleExample": "自拟例：被告知“你已经迟到、大家都在等你”的被试，路过呻吟的人时更少停下。",
+      "explanation": "实验中，时间压力越大，赶路的被试越少停下帮助路边呻吟的人。自我威胁情境中（如有人被塞进面包车），不直接上前而报警是合理的，所以这类情境不是检验利他动机的好情境。老师因此批评用“载过搭便车的陌生人”来测利他的量表。",
+      "example": "自拟例：被告知“你已经迟到、大家都在等你”的被试，路过呻吟的人时更少停下。",
+      "pitfall": "这些是状态（情境）因素，不是特质；它们说明帮助同样是人格与情境的交互。",
+      "source": "L10 · Other factors that influence helping · [B0044]",
+      "front": "课件列出的影响帮助的两个情境因素是什么？",
+      "back": "时间压力和对自身的威胁。",
+      "cardBack": "时间压力和对自身的威胁。"
+    },
+    {
+      "id": "L10-C33",
+      "title": "口头补充：共情三成分与助人",
+      "english": "Empathic concern as predictor of helping",
+      "oneLine": "在认知共情、情感共情和共情关怀中，共情关怀是助人行为最可靠的预测指标。",
+      "analogy": "像三种“看见别人难过”：看懂了（认知）、跟着难过（情感）、想帮他（关怀），只有最后一种最能推动行动。",
+      "simpleExample": "自拟例：一位心理咨询师面对哀伤的来访者，自己并不哀伤，但感到关心和同情，这是共情关怀。",
+      "explanation": "情感共情是 feeling with，共情关怀是 feeling for，老师认为 sympathy 等同共情关怀。共情关怀与助人正相关，尤其是私下、有代价的帮助；认知共情与助人关系不大；情感共情太低使人冷酷、太高又会陷入个人痛苦，可能存在适中的 Goldilocks 水平。",
+      "example": "自拟例：一位心理咨询师面对哀伤的来访者，自己并不哀伤，但感到关心和同情，这是共情关怀。",
+      "pitfall": "情感共情越高不一定越助人；过高可能变成个人痛苦。这是课堂口头补充。",
+      "source": "L10 · 课堂口头补充：共情三成分 · [B0046]",
+      "front": "哪种共情成分最能可靠预测助人行为？",
+      "back": "共情关怀（empathic concern），尤其预测私下、有代价的帮助。",
+      "cardBack": "共情关怀（empathic concern），尤其预测私下、有代价的帮助。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "L10-Q01",
+      "conceptId": "L10-C01",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "按本讲，关于人格因素和情境因素，哪一项最准确？",
+      "stemEn": "According to this lecture, which statement about personality and situational factors is most accurate?",
+      "options": [
+        "人格因素可以解释人的全部行为",
+        "两者各解释部分行为，考虑二者交互通常解释得更多",
+        "情境因素可以解释人的全部行为",
+        "两者互相排斥，研究者只能选择其中一种"
+      ],
+      "optionsEn": [
+        "Personality factors explain all of a person's behaviour",
+        "Each explains some behaviour, and considering their interaction usually explains more",
+        "Situational factors explain all of a person's behaviour",
+        "The two are mutually exclusive, so researchers must choose one"
+      ],
+      "answer": 1,
+      "explanation": "人格和情境都只解释一部分行为。同时考虑二者及其交互，通常比孤立看任何一方解释得更多。",
+      "optionExplanations": [
+        "人格只解释一部分行为，情境同样有力量。",
+        "这正是课件 Interactions 一页的结论。",
+        "情境也只解释一部分，人们对同一情境的反应并不相同。",
+        "老师强调不是“人格 vs 情境”，而是两者都重要并且会交互。"
+      ],
+      "source": "L10 · Interactions · [B0002]–[B0003]；课件自测 · [B0050]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q02",
+      "conceptId": "L10-C01",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "一位认知心理学家只关注实验操纵的效果，把被试间的差别全部当作噪声。按本讲，这种做法的主要问题是什么？",
+      "stemEn": "A cognitive psychologist focuses only on the effects of an experimental manipulation and treats all differences between participants as noise. According to this lecture, what is the main problem?",
+      "options": [
+        "操纵并不会以相同程度或相同方式影响每个人，个体差异被当成了误差方差",
+        "实验操纵在心理学里没有任何效果",
+        "人格特质在实验中完全不会显现",
+        "只要样本够大，个体差异就会自动变成交互作用"
+      ],
+      "optionsEn": [
+        "Manipulations do not affect everyone to the same extent or in the same way, so individual differences are treated as error variance",
+        "Experimental manipulations have no effect in psychology",
+        "Personality traits never show up in experiments",
+        "With a large enough sample, individual differences automatically become interactions"
+      ],
+      "answer": 0,
+      "explanation": "实验操纵对不同的人影响程度、甚至方式都不同。只看操纵就会把这些个体差异当作误差，错过人格与情境的交互。",
+      "optionExplanations": [
+        "老师指出只看情境的研究把个体差异当作误差方差。",
+        "老师明确说情境因素确实很强大。",
+        "人带进实验的特质会影响他们对操纵的反应。",
+        "样本大小不会把被忽视的特质变成被检验的交互作用。"
+      ],
+      "source": "L10 · Interactions · [B0002]–[B0003]；课件自测 · [B0050]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q03",
+      "conceptId": "L10-C01",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：研究者想预测谁在求职面试前最紧张。哪种做法最符合本讲的观点？",
+      "stemEn": "Study scenario: A researcher wants to predict who will be most nervous before a job interview. Which approach best fits this lecture?",
+      "options": [
+        "同时测量每个人的特质焦虑和面试情境的压力程度，并考察两者的交互",
+        "只测特质焦虑，因为情境对紧张没有影响",
+        "只看面试难度，因为所有人在同一情境中都同样紧张",
+        "只看当天天气，因为人格和情境的作用会互相抵消"
+      ],
+      "optionsEn": [
+        "Measure each person's trait anxiety and the stressfulness of the interview situation, and examine their interaction",
+        "Measure only trait anxiety, because the situation has no effect on nervousness",
+        "Consider only the interview difficulty, because everyone is equally nervous in the same situation",
+        "Consider only the weather that day, because personality and situation cancel each other out"
+      ],
+      "answer": 0,
+      "explanation": "某一刻的紧张是特质与情境交互的结果。同时考虑两者及交互，比单看任何一方更能预测谁最紧张。",
+      "optionExplanations": [
+        "人格加情境再加交互，预测力通常最好。",
+        "面试这种情境本身会让大多数人更紧张。",
+        "同一情境中高特质焦虑者通常更紧张。",
+        "人格和情境不会互相抵消，二者都能解释部分行为。"
+      ],
+      "source": "L10 · Interactions · [B0002]–[B0003]；课件自测 · [B0050]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q04",
+      "conceptId": "L10-C02",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "自拟情境：小陈的特质焦虑测验得分很高。按本讲，下面哪项推论最恰当？",
+      "stemEn": "Study scenario: Chen scores very high on a trait anxiety measure. According to this lecture, which inference is most appropriate?",
+      "options": [
+        "他更容易被诱发焦虑，在压力情境中焦虑可能比别人升得更多",
+        "他在任何时候都处于焦虑状态",
+        "他在压力情境中的焦虑一定和别人一样",
+        "情境对他的焦虑完全没有影响"
+      ],
+      "optionsEn": [
+        "He is more easily induced into anxiety and may show a bigger rise in anxiety than others in stressful situations",
+        "He is anxious at all times",
+        "His anxiety in stressful situations must be the same as everyone else's",
+        "The situation has no effect on his anxiety at all"
+      ],
+      "answer": 0,
+      "explanation": "特质焦虑高表示更容易进入焦虑状态，而不是一直焦虑。在压力情境中，他与低特质者的差距通常会更大。",
+      "optionExplanations": [
+        "高特质焦虑意味着更易被诱发，压力情境中差距更大。",
+        "老师明确说特质焦虑高的人并不是一直焦虑。",
+        "课件说压力情境中高低特质者的差距反而更大。",
+        "焦虑情境会让所有人焦虑上升，包括他。"
+      ],
+      "source": "L10 · Interactions: Example · [B0004]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q05",
+      "conceptId": "L10-C03",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：研究者想观察大学生外向性的个体差异。哪个情境最合适？",
+      "stemEn": "Study scenario: A researcher wants to observe individual differences in students' extraversion. Which setting would be most suitable?",
+      "options": [
+        "一场要求全程安静作答的期末考试",
+        "一次规定每人只能按顺序发言一分钟的会议",
+        "一场所有人都要戴耳机独自看录像的讲座",
+        "一次可以自由走动、自由交谈的迎新聚会"
+      ],
+      "optionsEn": [
+        "A final exam that requires silence throughout",
+        "A meeting where everyone must speak for exactly one minute in turn",
+        "A lecture where everyone watches a video alone with headphones",
+        "A welcome party where people can move around and talk freely"
+      ],
+      "answer": 3,
+      "explanation": "要观察人格差异，应选行为不被情境严格规定的场合。聚会让人自由选择是否主动社交，最能显出外向性差异。",
+      "optionExplanations": [
+        "考场要求人人安静，几乎显不出差异。",
+        "发言被严格规定，人们表现会很相似。",
+        "这种情境几乎没有社交选择，无法显出外向性。",
+        "自由选择怎样社交的情境最能显出外向性差异。"
+      ],
+      "source": "L10 · Interactions: Implications · [B0006]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q06",
+      "conceptId": "L10-C04",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "下列哪一项不是本讲列出的 psychopathy 特征？",
+      "stemEn": "Which of the following is NOT one of the characteristics of psychopathy listed in this lecture?",
+      "options": [
+        "经验开放性",
+        "冷酷无情",
+        "操纵他人",
+        "主动性攻击"
+      ],
+      "optionsEn": [
+        "Openness to experience",
+        "Callousness",
+        "Manipulativeness",
+        "Proactive aggression"
+      ],
+      "answer": 0,
+      "explanation": "课件列出的七个特征是自私、冷酷、操纵、刻薄、大胆、去抑制和主动性攻击。经验开放性属于大五，不是 psychopathy 的特征。",
+      "optionExplanations": [
+        "开放性是大五维度，不在 psychopathy 的特征里。",
+        "冷酷是 psychopathy 的核心特征之一。",
+        "操纵是课件列出的特征之一。",
+        "主动性攻击被视为 psychopathy 的标志。"
+      ],
+      "source": "L10 · What is psychopathy? · [B0008]；课件自测 · [B0050]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q07",
+      "conceptId": "L10-C04",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "关于 psychopathy 的性质，哪一项最符合本讲？",
+      "stemEn": "Which statement about the nature of psychopathy best fits this lecture?",
+      "options": [
+        "它是 DSM 中正式的人格障碍诊断",
+        "它是一个人格维度，psychopath 指在该维度上特别高的人",
+        "它是大五人格模型的第六个维度",
+        "它主要由高外向性和高宜人性构成"
+      ],
+      "optionsEn": [
+        "It is a formal personality disorder diagnosis in the DSM",
+        "It is a personality dimension, and 'psychopath' refers to people particularly high on it",
+        "It is the sixth dimension of the Big Five model",
+        "It mainly consists of high extraversion and high agreeableness"
+      ],
+      "answer": 1,
+      "explanation": "心理学把 psychopathy 当作连续的人格维度。它不是 DSM 诊断，也不属于大五。",
+      "optionExplanations": [
+        "课件明确说它不是被认可的诊断。",
+        "老师说 psychopathy 被看作维度，psychopath 指高分端。",
+        "psychopathy 与大五是不同的模型。",
+        "它的特征是冷酷、刻薄等，与高宜人性方向相反。"
+      ],
+      "source": "L10 · What is psychopathy? · [B0008]；课件自测 · [B0050]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q08",
+      "conceptId": "L10-C05",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：某人提前数周冷静策划，在同事升职前故意毁掉对方的项目，事后还感到愉快。这最符合哪种攻击？",
+      "stemEn": "Study scenario: Someone calmly plans for weeks to sabotage a colleague's project before a promotion, and enjoys it afterwards. This best fits which type of aggression?",
+      "options": [
+        "反应性攻击",
+        "主动性攻击",
+        "情绪传染",
+        "共情关怀"
+      ],
+      "optionsEn": [
+        "Reactive aggression",
+        "Proactive aggression",
+        "Emotional contagion",
+        "Empathic concern"
+      ],
+      "answer": 1,
+      "explanation": "情境中的攻击冷静、有预谋，还带来愉快感，属于主动性攻击。它被视为 psychopathy 的标志。",
+      "optionExplanations": [
+        "反应性攻击是被激怒后的爆发，这里没有触发事件。",
+        "冷静、有计划、为达目的或乐趣的攻击是主动性攻击。",
+        "情绪传染是情感共情，不是攻击类型。",
+        "共情关怀是关心他人，与蓄意伤害相反。"
+      ],
+      "source": "L10 · Proactive aggression · [B0009]；Psychopathy vs APD · [B0034]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q09",
+      "conceptId": "L10-C06",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "关于 psychopathy 与共情的关系，哪一项正确？",
+      "stemEn": "Which statement about psychopathy and empathy is correct?",
+      "options": [
+        "高 psychopathy 与较低的认知共情和较低的情感共情都有关",
+        "高 psychopathy 与较高的情感共情有关",
+        "高 psychopathy 只与较低的认知共情有关",
+        "高 psychopathy 与较低的情感共情有关，而认知共情未受损"
+      ],
+      "optionsEn": [
+        "Higher psychopathy is associated with lower cognitive and lower affective empathy",
+        "Higher psychopathy is associated with higher affective empathy",
+        "Higher psychopathy is associated only with lower cognitive empathy",
+        "Higher psychopathy is associated with lower affective empathy, while cognitive empathy is unimpaired"
+      ],
+      "answer": 3,
+      "explanation": "psychopathy 选择性地与较低的情感（情绪）共情相关。它与认知共情不相关，所以“两者都低”不对。",
+      "optionExplanations": [
+        "认知共情与 psychopathy 不相关，不能说两者都低。",
+        "方向反了，他们的情感共情较低。",
+        "受影响的是情感共情，不是认知共情。",
+        "课件原话：affective empathy 降低，cognitive empathy 不受损。"
+      ],
+      "source": "L10 · Affective vs cognitive empathy · [B0010]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q10",
+      "conceptId": "L10-C06",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "自拟情境：阿明能准确说出朋友为什么难过、在想什么，但自己一点也不受影响，还利用这一点说服朋友借钱给他。这最符合哪种模式？",
+      "stemEn": "Study scenario: Ming can accurately explain why his friend is upset and what she is thinking, but feels nothing himself and uses this to talk her into lending him money. Which pattern fits best?",
+      "options": [
+        "认知共情低，情感共情高",
+        "认知共情和情感共情都很高",
+        "认知共情完好，情感共情低",
+        "情绪传染很强"
+      ],
+      "optionsEn": [
+        "Low cognitive empathy with high affective empathy",
+        "High cognitive and high affective empathy",
+        "Intact cognitive empathy with low affective empathy",
+        "Strong emotional contagion"
+      ],
+      "answer": 2,
+      "explanation": "能理解别人的想法和感受是认知共情；被别人情绪带动才是情感共情。阿明前者完好、后者低，符合高 psychopathy 的模式。",
+      "optionExplanations": [
+        "他能准确理解朋友，认知共情并不低。",
+        "他自己毫不难过，情感共情不高。",
+        "能理解别人却不被触动，正是这一模式。",
+        "情绪传染就是情感共情，他没有被朋友情绪带动。"
+      ],
+      "source": "L10 · Affective vs cognitive empathy · [B0010]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q11",
+      "conceptId": "L10-C07",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "本讲提到，在服刑人群中，psychopathy 较高者的暴力再犯可能性大约高几倍？",
+      "stemEn": "According to this lecture, among prisoners, those higher in psychopathy are about how many times more likely to violently reoffend?",
+      "options": [
+        "3 倍",
+        "没有差别",
+        "4 倍",
+        "低一半"
+      ],
+      "optionsEn": [
+        "3 times",
+        "No difference",
+        "4 times",
+        "Half as likely"
+      ],
+      "answer": 2,
+      "explanation": "课件给出两组数字：再犯可能高 3 倍，暴力再犯可能高 4 倍。所以这里答 4 倍。",
+      "optionExplanations": [
+        "3 倍是总体再犯，不是暴力再犯。",
+        "psychopathy 对再犯有很强的预测力。",
+        "课件：再犯 3 倍，暴力再犯 4 倍。",
+        "方向错误，他们更可能再犯。"
+      ],
+      "source": "L10 · What is psychopathy? · [B0011]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q12",
+      "conceptId": "L10-C08",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "杏仁核功能障碍理论与注意瓶颈理论的关键区别是什么？",
+      "stemEn": "What is the key difference between the amygdala dysfunction theory and the attentional bottleneck theory of psychopathy?",
+      "options": [
+        "前者认为 psychopathy 只在儿童身上出现，后者认为只在成人身上出现",
+        "前者关注注意，后者关注杏仁核",
+        "两者都认为高 psychopathy 者对所有刺激的加工都增强",
+        "前者提出情绪特异的机制，后者提出领域一般的注意机制"
+      ],
+      "optionsEn": [
+        "The former says psychopathy appears only in children; the latter only in adults",
+        "The former focuses on attention; the latter on the amygdala",
+        "Both claim that people high in psychopathy show enhanced processing of all stimuli",
+        "The former proposes an emotion-specific mechanism; the latter proposes a domain-general attentional mechanism"
+      ],
+      "answer": 3,
+      "explanation": "杏仁核理论把核心放在情绪特异的恐惧缺陷上。注意瓶颈理论认为问题更普遍，在于目标导向的注意加工。",
+      "optionExplanations": [
+        "两种理论都不是按年龄划分的。",
+        "两者名字和内容对调了。",
+        "两种理论都没有这样说；注意理论认为目标无关刺激被忽略。",
+        "这是老师强调的核心对比。"
+      ],
+      "source": "L10 · Theories of psychopathy · [B0012]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q13",
+      "conceptId": "L10-C09",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "应用",
+      "stem": "自拟情境：被试先看恐怖图片，然后听到巨响，研究者用面部肌电测量眨眼惊跳。高 psychopathy 被试的典型结果是什么？",
+      "stemEn": "Study scenario: Participants view frightening pictures and then hear a loud noise while facial EMG records the startle blink. What is the typical result for participants high in psychopathy?",
+      "options": [
+        "恐惧增强惊跳更大",
+        "恐惧增强惊跳较小",
+        "完全没有任何惊跳反射",
+        "惊跳大小只取决于图片的颜色"
+      ],
+      "optionsEn": [
+        "Larger fear-potentiated startle",
+        "Reduced fear-potentiated startle",
+        "No startle reflex at all",
+        "Startle size depends only on picture colour"
+      ],
+      "answer": 1,
+      "explanation": "一般人在恐惧状态下惊跳会更大。高 psychopathy 者这种恐惧增强较小，这曾被视为杏仁核缺陷的证据。",
+      "optionExplanations": [
+        "方向反了，他们的增强较小。",
+        "这是支持杏仁核理论的经典发现之一。",
+        "减弱的是恐惧带来的增强，而不是惊跳反射消失。",
+        "材料中没有这样的说法，关键是情绪内容。"
+      ],
+      "source": "L10 · Amygdala dysfunction and fear deficits · [B0013]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q14",
+      "conceptId": "L10-C10",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：一位高 psychopathy 的经理专心推进自己的项目，完全没注意到下属因压力几乎崩溃。注意瓶颈理论会怎样解释？",
+      "stemEn": "Study scenario: A manager high in psychopathy focuses intently on his own project and fails to notice that a subordinate is close to breaking down. How would the attentional bottleneck theory explain this?",
+      "options": [
+        "他的杏仁核完全丧失功能，所以看不见任何情绪",
+        "他的认知共情严重受损，无法理解别人的感受",
+        "强烈的目标导向注意使与目标无关的信息（包括他人痛苦）被忽略",
+        "他的注意容量无限，所以什么都能同时加工"
+      ],
+      "optionsEn": [
+        "His amygdala has completely lost function, so he cannot see any emotion",
+        "His cognitive empathy is severely impaired, so he cannot understand feelings",
+        "Intense goal-directed attention causes goal-irrelevant information, including others' distress, to be ignored",
+        "His attentional capacity is unlimited, so he processes everything at once"
+      ],
+      "answer": 2,
+      "explanation": "该理论认为他们注意高度聚焦于自身目标。下属的痛苦与目标无关，于是被忽略，不必假设杏仁核有缺陷。",
+      "optionExplanations": [
+        "这是另一种理论的说法，且材料没有说“完全丧失”。",
+        "高 psychopathy 者认知共情不受损。",
+        "这正是注意瓶颈理论的核心主张。",
+        "注意瓶颈理论的前提恰恰是容量有限。"
+      ],
+      "source": "L10 · Attentional bottleneck theory · [B0014]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q15",
+      "conceptId": "L10-C11",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "关于 psychopathy 较高的人，下面哪项最符合本讲的证据？",
+      "stemEn": "Which statement about people higher in psychopathy is best supported by this lecture?",
+      "options": [
+        "无论注意指向哪里，他们的杏仁核激活都增强",
+        "他们的恐惧增强惊跳不受注意影响",
+        "只有当情绪刺激不是注意焦点时，他们对情绪刺激的杏仁核激活才减弱",
+        "他们对中性干扰物的加工增加"
+      ],
+      "optionsEn": [
+        "Their amygdala activation is increased regardless of where attention is directed",
+        "Their fear-potentiated startle is unaffected by attention",
+        "Their amygdala activation to emotional stimuli is reduced only when the emotional stimuli are not the focus of attention",
+        "Their processing of neutral distractors is increased"
+      ],
+      "answer": 2,
+      "explanation": "杏仁核激活和恐惧增强惊跳的减弱，都只在情绪刺激不被注意时出现。这说明注意调节了这些效应。",
+      "optionExplanations": [
+        "方向错误，自由观看时激活是减弱的。",
+        "引导注意后组间差异消失，说明受注意调节。",
+        "注意被引向情绪后，激活就与一般人相同。",
+        "他们对中性干扰物的加工是减少的。"
+      ],
+      "source": "L10 · Attentional bottleneck evidence · [B0015]–[B0016]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q16",
+      "conceptId": "L10-C11",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "研究者要求被试“每看到一张可怕图片就尽快按键”。与自由观看相比，高低 psychopathy 两组的恐惧增强惊跳会怎样？",
+      "stemEn": "Researchers instruct participants to press a key as quickly as possible whenever they see a frightening picture. Compared with free viewing, what happens to the fear-potentiated startle of high- vs low-psychopathy groups?",
+      "options": [
+        "组间差异变得更大",
+        "两组都完全没有惊跳反射",
+        "两组的幅度变得相近，组间差异消失",
+        "只有低 psychopathy 组的惊跳受任务影响"
+      ],
+      "optionsEn": [
+        "The group difference becomes larger",
+        "Neither group shows any startle reflex",
+        "The two groups show a similar magnitude, so the group difference disappears",
+        "Only the low-psychopathy group's startle is affected by the task"
+      ],
+      "answer": 2,
+      "explanation": "自由观看时才有组间差异。任务把注意引向情绪内容后，两组的恐惧增强惊跳相近，这更支持注意瓶颈理论。",
+      "optionExplanations": [
+        "引导注意减小而不是扩大差异。",
+        "惊跳反射仍然存在。",
+        "注意被引向情绪后，差异消失。",
+        "变化主要体现在高 psychopathy 组的惊跳恢复到一般水平。"
+      ],
+      "source": "L10 · Attentional bottleneck evidence · [B0015]–[B0016]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q17",
+      "conceptId": "L10-C12",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "应用",
+      "stem": "在一项替代性脑激活研究中，什么操作让高 psychopathy 被试出现了之前没有的替代性激活？",
+      "stemEn": "In a study of vicarious brain activation, what manipulation led participants high in psychopathy to show vicarious activation they had not shown before?",
+      "options": [
+        "让他们服用增强杏仁核功能的药物",
+        "直接指示他们去共情视频中受疼痛刺激的人",
+        "让疼痛刺激变得比伦理允许的更强",
+        "让他们只看中性风景图片"
+      ],
+      "optionsEn": [
+        "Giving them a drug that enhances amygdala function",
+        "Explicitly instructing them to empathise with the person receiving the painful stimulus",
+        "Making the pain stimulus stronger than ethics would allow",
+        "Having them view only neutral landscape pictures"
+      ],
+      "answer": 1,
+      "explanation": "研究只是告诉他们“请共情视频中的人”，替代性激活就出现了。这说明注意与指令可以调节这种类似共情的脑反应。",
+      "optionExplanations": [
+        "材料没有提到药物操纵。",
+        "一句共情指令就引出了替代性激活。",
+        "研究要求刺激足够轻微、能通过伦理审查。",
+        "风景图与他人疼痛无关，不会引出替代性激活。"
+      ],
+      "source": "L10 · Vicarious brain activation · [B0017]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q18",
+      "conceptId": "L10-C13",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "应用",
+      "stem": "关于有冷酷无情（CU）特质的男孩，本讲报告了什么发现？",
+      "stemEn": "What finding about boys with callous-unemotional (CU) traits was reported in this lecture?",
+      "options": [
+        "自由观看时识别情绪表情有困难，但被引导看眼睛后不再有缺陷",
+        "无论怎样引导注意，他们都无法识别任何情绪",
+        "他们识别恐惧表情的能力优于一般儿童",
+        "只有看嘴巴才能帮助他们识别恐惧"
+      ],
+      "optionsEn": [
+        "They had difficulty recognising emotional expressions in free viewing, but not when attention was directed to the eyes",
+        "They could not recognise any emotion regardless of attentional instructions",
+        "They were better than typical children at recognising fear",
+        "Only looking at the mouth helped them recognise fear"
+      ],
+      "answer": 0,
+      "explanation": "CU 特质男孩的问题在于没看向传达情绪的部位。被要求注意眼睛后，情绪识别缺陷就消失了。",
+      "optionExplanations": [
+        "看眼睛这一简单指令就消除了缺陷。",
+        "引导注意后缺陷消失。",
+        "他们在自由观看时识别较差。",
+        "研究引导的是眼睛，而不是嘴巴。"
+      ],
+      "source": "L10 · Boys with CU traits · [B0018]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q19",
+      "conceptId": "L10-C14",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "下面哪项发现最难用杏仁核功能障碍理论解释？",
+      "stemEn": "Which finding is hardest for the amygdala dysfunction theory to explain?",
+      "options": [
+        "高 psychopathy 者对与任务无关的中性干扰物（如字母、数字）加工也减少",
+        "高 psychopathy 者识别恐惧表情有困难",
+        "高 psychopathy 者看到恐惧面孔时杏仁核激活较弱",
+        "高 psychopathy 者的恐惧增强惊跳较小"
+      ],
+      "optionsEn": [
+        "People high in psychopathy show reduced processing of task-irrelevant neutral distractors such as letters and numbers",
+        "People high in psychopathy have difficulty recognising fearful expressions",
+        "People high in psychopathy show weaker amygdala activation to fearful faces",
+        "People high in psychopathy show reduced fear-potentiated startle"
+      ],
+      "answer": 0,
+      "explanation": "杏仁核缺陷只能解释情绪刺激加工减少。连中性、目标无关的刺激也被少加工，更符合领域一般的注意瓶颈理论。",
+      "optionExplanations": [
+        "中性刺激与杏仁核的情绪功能无关，杏仁核理论难以解释。",
+        "这恰是杏仁核理论用来支持自己的证据。",
+        "这一发现最初被视为支持杏仁核理论。",
+        "这也是杏仁核理论的支持证据之一。"
+      ],
+      "source": "L10 · Reduced distractor processing · [B0019]；课件自测 · [B0050]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q20",
+      "conceptId": "L10-C15",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "老师对两种 psychopathy 理论的总体评价是什么？",
+      "stemEn": "What was the lecturer's overall evaluation of the two theories of psychopathy?",
+      "options": [
+        "杏仁核理论已被完全证伪，再没有人支持",
+        "两种理论的证据完全相同，无法比较",
+        "注意瓶颈理论证据更多，至少可以说注意调节了相关效应",
+        "注意训练已被证明能彻底消除 psychopathy"
+      ],
+      "optionsEn": [
+        "The amygdala theory has been completely disproven and no one supports it",
+        "Both theories have exactly equal evidence and cannot be compared",
+        "The attentional bottleneck theory has more support; at minimum, attention moderates the effects",
+        "Attention training has been proven to eliminate psychopathy completely"
+      ],
+      "answer": 2,
+      "explanation": "老师认为注意瓶颈理论的证据更多，同时承认仍有人支持杏仁核理论。针对注意的干预有希望，但仍是开放问题。",
+      "optionExplanations": [
+        "老师说仍有人坚持杏仁核缺陷的观点。",
+        "老师明确说证据更偏向注意瓶颈理论。",
+        "老师说注意瓶颈理论赢得更多分，注意至少起调节作用。",
+        "注意干预仍是开放问题，没有被证明能彻底消除。"
+      ],
+      "source": "L10 · Theories summary and interventions · [B0020]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q21",
+      "conceptId": "L10-C16",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "自拟情境：阿杰经常一时冲动旷工、反复陷入同样的麻烦、生活一团糟。按 LSRP 的划分，这些特点最符合哪类？",
+      "stemEn": "Study scenario: Jay often skips work on impulse, keeps getting into the same kinds of trouble, and lives a self-defeating life. Under the LSRP distinction, these features best fit which type?",
+      "options": [
+        "继发型 psychopathy",
+        "原发型 psychopathy",
+        "共情关怀",
+        "大胆（Boldness）"
+      ],
+      "optionsEn": [
+        "Secondary psychopathy",
+        "Primary psychopathy",
+        "Empathic concern",
+        "Boldness"
+      ],
+      "answer": 0,
+      "explanation": "LSRP 把 psychopathy 分成原发型和继发型。冲动、自我挫败的生活方式属于继发型。",
+      "optionExplanations": [
+        "自我挫败的生活方式和极端冲动属于继发型。",
+        "原发型指自私、操纵、冷酷，不以冲动为核心。",
+        "共情关怀是关心他人，与这些特点无关。",
+        "大胆是 TPM 的维度，指低恐惧和领导倾向，不是冲动惹麻烦。"
+      ],
+      "source": "L10 · LSRP · [B0027]；课堂问答 · [B0021]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q22",
+      "conceptId": "L10-C17",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "关于 Hare 的 PCL-22，哪一项正确？",
+      "stemEn": "Which statement about Hare's PCL-22 is correct?",
+      "options": [
+        "是为社区大学生设计的 26 条自我报告量表",
+        "只测大胆、刻薄和去抑制三个维度",
+        "结合访谈和背景资料完成，每个条目计 0、1 或 2 分",
+        "只依赖被评估者本人的口头说法"
+      ],
+      "optionsEn": [
+        "It is a 26-item self-report scale designed for community university students",
+        "It measures only boldness, meanness, and disinhibition",
+        "It is completed via interview and background information, with each item scored 0, 1, or 2",
+        "It relies only on what the person says about themselves"
+      ],
+      "answer": 2,
+      "explanation": "PCL-22 是司法情境的 22 条核对表，在访谈中完成并依据背景资料，每条计 0、1 或 2 分。",
+      "optionExplanations": [
+        "这描述的是 LSRP，不是 PCL-22。",
+        "这三个维度属于 TPM。",
+        "这是课件对 PCL-22 的描述。",
+        "它还要依据背景资料，因为该人群诚实度可能不高。"
+      ],
+      "source": "L10 · PCL-22 and PCL-R · [B0023]–[B0024]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q23",
+      "conceptId": "L10-C18",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：一名心理学本科生读完 PCL-R 条目后，想在聚会上给朋友“测一测”。按本讲，这样做为什么不恰当？",
+      "stemEn": "Study scenario: After reading the PCL-R items, a psychology undergraduate wants to 'test' friends at a party. According to this lecture, why is this inappropriate?",
+      "options": [
+        "PCL-R 只适合测量儿童",
+        "PCL-R 须由有高级学位、受过专门培训并注册的专业人员施测",
+        "PCL-R 的条目都是反向计分，学生看不懂",
+        "PCL-R 已被证明完全没有效度"
+      ],
+      "optionsEn": [
+        "The PCL-R is suitable only for measuring children",
+        "The PCL-R must be administered by a professional with an advanced degree, specific training, and registration",
+        "All PCL-R items are reverse-scored, so students cannot understand them",
+        "The PCL-R has been shown to have no validity at all"
+      ],
+      "answer": 1,
+      "explanation": "PCL-R 要求施测者有高级学位、熟悉研究、受过专门培训并注册。课件也提醒，没有资质不能用这些信息做诊断。",
+      "optionExplanations": [
+        "PCL-R 主要用于司法情境的成年人群。",
+        "课件列出了明确的施测资格。",
+        "这不是不恰当的原因，材料也没这样说。",
+        "材料没有说它无效，问题在于施测者资格。"
+      ],
+      "source": "L10 · PCL-R items and requirements · [B0025]–[B0026]；Appropriate use · [B0036]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q24",
+      "conceptId": "L10-C19",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "Levenson 自我报告量表（LSRP）原版测量的是哪两个维度？",
+      "stemEn": "Which two dimensions does the original Levenson Self-Report Psychopathy Scale (LSRP) measure?",
+      "options": [
+        "大胆和刻薄",
+        "外向性和神经质",
+        "认知共情和情感共情",
+        "原发型和继发型 psychopathy"
+      ],
+      "optionsEn": [
+        "Boldness and meanness",
+        "Extraversion and neuroticism",
+        "Cognitive and affective empathy",
+        "Primary and secondary psychopathy"
+      ],
+      "answer": 3,
+      "explanation": "LSRP 是为社区样本设计的 26 条自我报告量表，测量原发型和继发型 psychopathy。",
+      "optionExplanations": [
+        "这是 TPM 的部分维度。",
+        "这是大五维度，与 LSRP 无关。",
+        "这是共情的成分，不是 LSRP 的维度。",
+        "LSRP 的 26 个条目用于测这两个维度。"
+      ],
+      "source": "L10 · LSRP · [B0027]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q25",
+      "conceptId": "L10-C20",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "关于 psychopathy 的测量，哪一项正确？",
+      "stemEn": "Which statement about the measurement of psychopathy is correct?",
+      "options": [
+        "TPM 测量外向性、神经质和宜人性",
+        "Christian 和 Sellbom 修订扩展的 LSRP 测量自我中心、冷酷和反社会",
+        "Psychopathy 没有任何自我报告测量",
+        "修订版 LSRP 保留了原版的两因素结构，因为它最好"
+      ],
+      "optionsEn": [
+        "The TPM measures extraversion, neuroticism, and agreeableness",
+        "Christian and Sellbom's revised, expanded LSRP measures egocentricity, callousness, and antisociality",
+        "There are no self-report measures of psychopathy",
+        "The revised LSRP kept the original two-factor structure because it was best"
+      ],
+      "answer": 1,
+      "explanation": "修订扩展版 LSRP 有自我中心、冷酷、反社会三个因素。TPM 不测大五维度，psychopathy 也有多种自我报告量表。",
+      "optionExplanations": [
+        "这些是大五维度，TPM 测大胆、刻薄、去抑制。",
+        "这是修订版 LSRP 的三个因素。",
+        "LSRP、修订版 LSRP、TPM 都是自我报告。",
+        "修订版发现了三个因素，心理测量学更好。"
+      ],
+      "source": "L10 · LSRP 3 Factor Expansion · [B0028]–[B0029]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q26",
+      "conceptId": "L10-C20",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "自拟分类：条目“照顾自己是我的首要任务”在修订版三因素 LSRP 中最可能属于哪个因素？",
+      "stemEn": "Item classification: In the revised three-factor LSRP, the item 'Looking out for myself is my top priority' most likely belongs to which factor?",
+      "options": [
+        "自我中心（Egocentric）",
+        "冷酷（Callous）",
+        "反社会（Antisocial）",
+        "大胆（Boldness）"
+      ],
+      "optionsEn": [
+        "Egocentric",
+        "Callous",
+        "Antisocial",
+        "Boldness"
+      ],
+      "answer": 0,
+      "explanation": "把自己的利益放在首位是自我中心因素的典型内容。冷酷关乎不在意他人感受，反社会关乎冲动和违规。",
+      "optionExplanations": [
+        "课件把它列为自我中心的示例条目。",
+        "冷酷条目关乎不在意别人的感受，如“人们在葬礼上太情绪化”。",
+        "反社会条目关乎冲动和惹麻烦，如“我常常觉得无聊”。",
+        "大胆是 TPM 的维度，不在修订版 LSRP 中。"
+      ],
+      "source": "L10 · LSRP 3 Factor Expansion · [B0028]–[B0029]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q27",
+      "conceptId": "L10-C21",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：在冷酷量表上，被试强烈同意“我尽量不在追求目标时伤害别人 [RS]”。这会怎样影响他的冷酷得分？",
+      "stemEn": "Study scenario: On a callousness scale, a participant strongly agrees with 'I make a point of trying not to hurt others in pursuit of my goals [RS]'. How does this affect the callousness score?",
+      "options": [
+        "使冷酷得分升高，因为同意总是加分",
+        "不影响得分，因为反向题不计分",
+        "使反社会得分升高",
+        "使冷酷得分降低，因为这是反向计分题"
+      ],
+      "optionsEn": [
+        "It raises the callousness score, because agreeing always adds points",
+        "It has no effect, because reverse-scored items are not scored",
+        "It raises the antisocial score",
+        "It lowers the callousness score, because the item is reverse-scored"
+      ],
+      "answer": 3,
+      "explanation": "[RS] 表示反向计分，同意这类条目代表冷酷较低。问卷加入反向题，是为了抵消有人一律圈高分的倾向。",
+      "optionExplanations": [
+        "反向题的作用正是打破“同意 = 高分”。",
+        "反向题照样计分，只是方向相反。",
+        "这一条属于冷酷因素，且方向是降低分数。",
+        "同意反向计分题代表该特质较低。"
+      ],
+      "source": "L10 · Callous items and reverse scoring · [B0030]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q28",
+      "conceptId": "L10-C22",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "关于三元模型（TPM），哪一项正确？",
+      "stemEn": "Which statement about the Triarchic Model of Psychopathy (TPM) is correct?",
+      "options": [
+        "它正式测量原发型和继发型 psychopathy",
+        "它测量自我中心、冷酷和反社会",
+        "它只能由持证专业人员在监狱中施测",
+        "它测量大胆、刻薄和去抑制"
+      ],
+      "optionsEn": [
+        "It formally measures primary and secondary psychopathy",
+        "It measures egocentricity, callousness, and antisociality",
+        "It can only be administered by licensed professionals in prisons",
+        "It measures boldness, meanness, and disinhibition"
+      ],
+      "answer": 3,
+      "explanation": "TPM 的三个维度是大胆、刻薄、去抑制。它有原发/继发的“味道”，但这一划分并不正式属于 TPM。",
+      "optionExplanations": [
+        "原发/继发的划分正式属于 LSRP，而不是 TPM。",
+        "这是修订版 LSRP 的三个因素。",
+        "TPM 是社区自我报告量表；这种施测要求属于 PCL-R。",
+        "这是 TPM 的三个维度。"
+      ],
+      "source": "L10 · Triarchic Model of Psychopathy · [B0031]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q29",
+      "conceptId": "L10-C22",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟分类：条目“我害怕的东西比大多数人少得多”最可能属于 TPM 的哪个维度？",
+      "stemEn": "Item classification: The item 'I'm afraid of far fewer things than most people' most likely belongs to which TPM dimension?",
+      "options": [
+        "刻薄（Meanness）",
+        "去抑制（Disinhibition）",
+        "大胆（Boldness）",
+        "自我中心（Egocentric）"
+      ],
+      "optionsEn": [
+        "Meanness",
+        "Disinhibition",
+        "Boldness",
+        "Egocentric"
+      ],
+      "answer": 2,
+      "explanation": "低恐惧、领导倾向、不怕出丑属于 TPM 的大胆维度。刻薄关乎对他人痛苦无动于衷，去抑制关乎冲动。",
+      "optionExplanations": [
+        "刻薄关乎不在意甚至享受别人的痛苦。",
+        "去抑制关乎冲动、不守约、易厌倦。",
+        "低恐惧是大胆维度的典型内容。",
+        "自我中心是修订版 LSRP 的因素，不是 TPM 维度。"
+      ],
+      "source": "L10 · Triarchic Model of Psychopathy · [B0031]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q30",
+      "conceptId": "L10-C23",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "一位研究者要在一年级心理学学生中测量 psychopathy 水平。哪一选择及理由最恰当？",
+      "stemEn": "A researcher wants to measure levels of psychopathy in first-year psychology students. Which choice and rationale is most appropriate?",
+      "options": [
+        "用 PCL-R，因为它是最权威的工具，适合任何人群",
+        "不需要测量，因为学生不可能有 psychopathic 特质",
+        "用 LSRP 或 TPM 等社区自我报告量表，因为它们能在普通人群中产生足够的分数变异",
+        "用 APD 诊断标准给每个学生下诊断"
+      ],
+      "optionsEn": [
+        "Use the PCL-R, because it is the most authoritative tool for any population",
+        "No need to measure, because students cannot have psychopathic traits",
+        "Use a community self-report measure such as the LSRP or TPM, because it yields enough score variation in a general population",
+        "Use the APD diagnostic criteria to diagnose each student"
+      ],
+      "answer": 2,
+      "explanation": "测量工具要与人群匹配。PCL 是为服刑人群设计的，学生样本应使用社区自我报告量表，才能得到有意义的分数范围。",
+      "optionExplanations": [
+        "在学生中用 PCL，多数人得分接近 0，缺乏变异。",
+        "psychopathy 是连续维度，普通人群也有高低差别。",
+        "老师说后三种量表都合适，关键是工具与人群匹配。",
+        "研究者不应做诊断，且 APD 与 psychopathy 不同。"
+      ],
+      "source": "L10 · Measures summary · [B0022]；Thought question · [B0032]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q31",
+      "conceptId": "L10-C24",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "应用",
+      "stem": "按本讲的 APD 诊断标准，下列哪一项是必要条件？",
+      "stemEn": "According to the APD criteria in this lecture, which of the following is required?",
+      "options": [
+        "个体必须在 psychopathy 量表上得分很高",
+        "七项标准必须全部满足",
+        "漠视他人权利的模式从 18 岁才开始出现",
+        "个体至少 18 岁，并有 15 岁前品行障碍的证据"
+      ],
+      "optionsEn": [
+        "The individual must score highly on a psychopathy scale",
+        "All seven criteria must be met",
+        "The pattern of disregard for others' rights began only at age 18",
+        "The individual is at least 18 years old, with evidence of conduct disorder before age 15"
+      ],
+      "answer": 3,
+      "explanation": "APD 要求自 15 岁起持续漠视和侵犯他人权利、满足 7 项中 3 项以上。个体须年满 18 岁，并有 15 岁前品行障碍的证据。",
+      "optionExplanations": [
+        "APD 诊断不要求 psychopathy 得分；两者是不同构念。",
+        "只需满足 3 项或以上。",
+        "课件说这一模式自 15 岁起就持续存在。",
+        "这是课件列出的附加要求。"
+      ],
+      "source": "L10 · Antisocial Personality Disorder · [B0033]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q32",
+      "conceptId": "L10-C25",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "关于 psychopathy 与反社会人格障碍（APD）的关系，哪一项正确？",
+      "stemEn": "Which statement about psychopathy and Antisocial Personality Disorder (APD) is correct?",
+      "options": [
+        "APD 被批评几乎只关注可观察行为，而 psychopathy 关注行为背后的心理过程",
+        "Psychopathy 与 APD 完全相同",
+        "大多数 APD 患者都符合 psychopath 标准",
+        "Psychopathy 是 DSM 中的正式诊断"
+      ],
+      "optionsEn": [
+        "APD has been criticised for focusing almost exclusively on observed behaviour, whereas psychopathy looks at underlying psychological processes",
+        "Psychopathy is identical to APD",
+        "Most people with APD qualify as psychopaths",
+        "Psychopathy is a formal diagnosis in the DSM"
+      ],
+      "answer": 0,
+      "explanation": "APD 侧重外显行为，psychopathy 侧重心理过程。只有少数 APD 者是 psychopath，两者相关但不相同。",
+      "optionExplanations": [
+        "这是课件对两者区别的核心表述。",
+        "两者有重叠但可以分离。",
+        "只有约 20–30% 的 APD 患者符合。",
+        "psychopathy 不是被认可的诊断，最接近的是 APD。"
+      ],
+      "source": "L10 · Psychopathy vs APD · [B0034]–[B0035]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q33",
+      "conceptId": "L10-C25",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "关于服刑 psychopath 和社区 psychopath，本讲的哪一说法正确？",
+      "stemEn": "Which statement from this lecture about imprisoned and community-dwelling psychopaths is correct?",
+      "options": [
+        "服刑 psychopath 中只有约 20–30% 符合 APD",
+        "几乎所有服刑 psychopath 都符合 APD，但还有许多社区 psychopath 未必符合",
+        "Psychopath 只存在于监狱人群中",
+        "符合 APD 的人都表现出主动性攻击"
+      ],
+      "optionsEn": [
+        "Only about 20–30% of imprisoned psychopaths qualify for APD",
+        "Almost all imprisoned psychopaths qualify for APD, but there are many community-dwelling psychopaths who may not",
+        "Psychopaths exist only in prison populations",
+        "Everyone who meets APD criteria shows proactive aggression"
+      ],
+      "answer": 1,
+      "explanation": "几乎所有服刑 psychopath 都符合 APD，但社区中还有很多 psychopath。20–30% 是 APD 患者中符合 psychopath 的比例，别把方向记反。",
+      "optionExplanations": [
+        "20–30% 指的是 APD 患者中符合 psychopath 的比例，方向反了。",
+        "课件提醒这一事实会掩盖社区中的 psychopath。",
+        "课件明确提到很多社区 psychopath。",
+        "APD 者有攻击性，但不一定是主动性的。"
+      ],
+      "source": "L10 · Psychopathy vs APD · [B0034]–[B0035]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q34",
+      "conceptId": "L10-C26",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "要研究什么心理过程预测反社会行为，老师更倾向于在普通人群中把 psychopathy 作为连续变量测量。主要理由是什么？",
+      "stemEn": "To study which psychological processes predict antisocial behaviour, the lecturer favoured measuring psychopathy as a continuous variable in the general population. What was the main reason?",
+      "options": [
+        "连续测量可以直接给每个人下 APD 诊断",
+        "APD 诊断组的人一定比普通人更诚实",
+        "连续变量不需要任何测量工具",
+        "保留了全部分数信息，还能发现非单调关系"
+      ],
+      "optionsEn": [
+        "Continuous measurement directly provides an APD diagnosis for each person",
+        "People in an APD group are certainly more honest than others",
+        "Continuous variables require no measurement tools",
+        "It retains information from the full range of scores and can reveal non-monotonic relationships"
+      ],
+      "answer": 3,
+      "explanation": "把维度切成诊断类别会丢失信息，也可能漏掉非单调关系。老师认为最好两种设计都做，看证据是否收敛。",
+      "optionExplanations": [
+        "连续测量不是诊断工具。",
+        "材料没有这样说，这也不是理由。",
+        "连续测量同样需要合适的量表。",
+        "二分法会丢失信息，可能漏掉中等水平最适应这类关系。"
+      ],
+      "source": "L10 · Thought question: APD vs continuous psychopathy · [B0048]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q35",
+      "conceptId": "L10-C27",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "按 Batson 的观点，目睹他人痛苦时，什么感受会促进利他动机？",
+      "stemEn": "According to Batson, when witnessing another person in distress, which feelings promote altruistic motivation?",
+      "options": [
+        "个人痛苦和自我关注",
+        "希望获得别人的赞扬",
+        "对对方的共情或同情",
+        "想尽快离开现场"
+      ],
+      "optionsEn": [
+        "Personal distress and self-focus",
+        "Wanting praise from others",
+        "Empathy or compassion for the other person",
+        "Wanting to leave the scene quickly"
+      ],
+      "answer": 2,
+      "explanation": "Batson 认为，对他人的共情或同情促进利他动机。个人痛苦和自我关注则促进利己动机。",
+      "optionExplanations": [
+        "个人痛苦和自我关注促进的是利己动机。",
+        "获得赞扬属于利己动机。",
+        "共情和同情促进利他动机。",
+        "这与个人痛苦和利己动机相关。"
+      ],
+      "source": "L10 · Altruism vs Egoism · [B0038]–[B0039]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q36",
+      "conceptId": "L10-C27",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "下面哪项是 Batson 和同事提出的观点？",
+      "stemEn": "Which of the following did Batson and colleagues propose?",
+      "options": [
+        "共情和同情促进利己动机",
+        "个人痛苦促进利他动机",
+        "从一次帮助行为就能判断动机是利他还是利己",
+        "利他动机和利己动机都可能促进帮助行为"
+      ],
+      "optionsEn": [
+        "Empathy and compassion promote egoistic motivation",
+        "Personal distress promotes altruistic motivation",
+        "A single instance of helping reveals whether the motivation is altruistic or egoistic",
+        "Both altruistic and egoistic motivations can promote helping behaviour"
+      ],
+      "answer": 3,
+      "explanation": "Batson 认为帮助可以出于利他，也可以出于利己。共情促进利他、个人痛苦促进利己，而且不能从单次行为推断动机。",
+      "optionExplanations": [
+        "方向反了，共情促进利他动机。",
+        "方向反了，个人痛苦促进利己动机。",
+        "Batson 认为要看条件变化时的行为模式。",
+        "两者都能导致帮助，只是原因不同。"
+      ],
+      "source": "L10 · Altruism vs Egoism · [B0038]–[B0039]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q37",
+      "conceptId": "L10-C28",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "自拟情境：小雨看到室友哭泣，自己难受得受不了，为了让自己不再难受而去安慰室友，室友确实好多了。按 Batson，小雨的动机是什么？",
+      "stemEn": "Study scenario: Yu sees her roommate crying, feels unbearably upset herself, and comforts the roommate so that she will stop feeling bad; the roommate does feel better. According to Batson, what is Yu's motivation?",
+      "options": [
+        "利他动机，因为室友确实被帮到了",
+        "利己动机，因为终极目标是减轻自己的痛苦，帮到室友只是意外结果",
+        "利他动机，因为她感受到了强烈的情绪",
+        "无法讨论动机，因为只要帮助了就都算利他"
+      ],
+      "optionsEn": [
+        "Altruistic, because the roommate really was helped",
+        "Egoistic, because the ultimate goal was to reduce her own distress; helping the roommate was an unintended consequence",
+        "Altruistic, because she felt strong emotion",
+        "Motivation cannot be discussed, because all helping counts as altruism"
+      ],
+      "answer": 1,
+      "explanation": "Batson 用终极目标判断动机。小雨的终极目标是让自己不再难受，帮到室友只是意外结果，所以是利己动机。",
+      "optionExplanations": [
+        "帮到对方是结果，不能据此判断动机。",
+        "终极目标决定动机性质。",
+        "她体验的是个人痛苦，与利己动机相关。",
+        "Batson 强调帮助不等于利他。"
+      ],
+      "source": "L10 · Ultimate goal vs unintended consequence · [B0040]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q38",
+      "conceptId": "L10-C29",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "应用",
+      "stem": "Batson 操纵“逃离是否容易”时，若被试的动机是利他的，他预测帮助率会怎样？",
+      "stemEn": "When Batson manipulated how easy it was to escape, what did he predict about helping rates if participants' motivation was altruistic?",
+      "options": [
+        "逃离容易时帮助率会急剧下降",
+        "逃离困难时帮助率会急剧下降",
+        "无论何种条件，帮助率都接近零",
+        "逃离难易几乎不影响帮助率，帮助率保持高"
+      ],
+      "optionsEn": [
+        "Helping would drop sharply when escape was easy",
+        "Helping would drop sharply when escape was difficult",
+        "Helping would be near zero in every condition",
+        "Ease of escape would have little impact; helping rates would remain high"
+      ],
+      "answer": 3,
+      "explanation": "Batson 认为要从条件变化中的行为模式推断动机。利他者的帮助不受逃离难易影响，利己者在逃离容易时会急剧减少帮助。",
+      "optionExplanations": [
+        "这是对利己动机的预测。",
+        "材料没有这一预测，逃不掉时利己者也会帮忙。",
+        "利他预测的是高帮助率。",
+        "利他者关心对方，能否轻松离开不改变他们的帮助。"
+      ],
+      "source": "L10 · Ease of escape paradigm · [B0041]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q39",
+      "conceptId": "L10-C30",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Batson 和同事在被试目睹他人痛苦时发现了什么？",
+      "stemEn": "What did Batson and colleagues find when participants witnessed another person in distress?",
+      "options": [
+        "逃离容易时，利己动机者更不愿离开",
+        "逃离难易对利他动机者帮助的可能性影响很小",
+        "逃离难易对利己动机者的帮助影响很小",
+        "逃离困难时，利他动机者更可能离开"
+      ],
+      "optionsEn": [
+        "When escape was easy, egoistically motivated individuals were less likely to leave",
+        "Ease of escape had minimal impact on altruistically motivated individuals' likelihood of helping",
+        "Ease of escape had minimal impact on egoistically motivated individuals' helping",
+        "When escape was difficult, altruistic individuals were more likely to leave"
+      ],
+      "answer": 1,
+      "explanation": "报告共情的人无论逃离是否容易都会留下帮忙。报告个人痛苦的人则在容易逃离时多半离开。",
+      "optionExplanations": [
+        "方向反了，他们更可能离开。",
+        "共情组无论能否轻松离开都倾向留下帮忙。",
+        "利己者受影响很大。",
+        "利他者即使能离开也倾向留下。"
+      ],
+      "source": "L10 · Batson's findings · [B0042]；课件自测 · [B0050]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q40",
+      "conceptId": "L10-C30",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "自拟情境：重做 Batson 实验时，A 组被试报告强烈同情，B 组报告强烈的个人痛苦。研究者告诉所有人“你现在可以离开了”。最可能出现什么结果？",
+      "stemEn": "Study scenario: In a replication of Batson's study, Group A reports strong compassion and Group B reports strong personal distress. Everyone is told 'You may leave now'. What is the most likely result?",
+      "options": [
+        "B 组大多留下帮忙，A 组大多离开",
+        "A 组大多留下帮忙，B 组大多离开",
+        "两组都大多留下帮忙，因为能离开不影响任何人",
+        "两组都大多离开，说明利他动机并不存在"
+      ],
+      "optionsEn": [
+        "Most of Group B stay to help, while most of Group A leave",
+        "Most of Group A stay to help, while most of Group B leave",
+        "Most in both groups stay, because being free to leave affects no one",
+        "Most in both groups leave, showing altruistic motivation does not exist"
+      ],
+      "answer": 1,
+      "explanation": "逃离容易时，同情组仍留下帮忙，个人痛苦组多半离开。这一模式让 Batson 推断利他动机确实存在。",
+      "optionExplanations": [
+        "两组结果对调了。",
+        "这与 Batson 的发现一致。",
+        "逃离容易时，个人痛苦组的帮助会大幅下降。",
+        "Batson 的结论是利他动机似乎确实存在。"
+      ],
+      "source": "L10 · Batson's findings · [B0042]；课件自测 · [B0050]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q41",
+      "conceptId": "L10-C31",
+      "domain": "personality",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "自拟情境：两位志愿者看到灾民痛哭。小王自我认识清楚、能稳住情绪，专注于对方需要什么；小李容易被情绪淹没，觉得自己快崩溃。按本讲，哪项解释最合适？",
+      "stemEn": "Study scenario: Two volunteers see a disaster victim sobbing. Wang has a clear sense of self and can manage his emotions, focusing on what the victim needs; Li is easily overwhelmed and feels close to breaking down. Which explanation fits best?",
+      "options": [
+        "自我概念清晰度和情绪调节能力较高，更容易产生共情关怀而非个人痛苦",
+        "自我概念越模糊，越能专注于他人的需要",
+        "情绪调节能力与共情还是个人痛苦无关",
+        "小李被情绪淹没说明她的利他动机最强"
+      ],
+      "optionsEn": [
+        "Higher self-concept clarity and emotion-regulation ability make empathic concern more likely than personal distress",
+        "The less clear one's self-concept, the better one can focus on others' needs",
+        "Emotion-regulation ability is unrelated to empathy vs personal distress",
+        "Li being overwhelmed shows she has the strongest altruistic motivation"
+      ],
+      "answer": 0,
+      "explanation": "自我概念清晰、能调节情绪的人，更能把注意放在对方身上，产生共情关怀。容易被情绪淹没的人更易陷入个人痛苦。",
+      "optionExplanations": [
+        "课件列出这两项影响共情与个人痛苦的因素。",
+        "方向反了，自我概念模糊更易陷入个人痛苦。",
+        "课件把它列为影响因素之一。",
+        "被情绪淹没是个人痛苦，与利己动机相关。"
+      ],
+      "source": "L10 · Factors influencing empathy vs distress · [B0043]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q42",
+      "conceptId": "L10-C32",
+      "domain": "personality",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "本讲提到的实验中，被试被告知自己已经迟到、需要赶去校园另一头。这种操纵对帮助路边呻吟者有什么影响？",
+      "stemEn": "In a study described in this lecture, participants were told they were running late and had to hurry across campus. How did this affect helping a person moaning by the path?",
+      "options": [
+        "时间压力越大，停下帮助的人越少",
+        "时间压力越大，停下帮助的人越多",
+        "时间压力完全不影响帮助",
+        "只有高 psychopathy 的人才会受时间压力影响"
+      ],
+      "optionsEn": [
+        "The greater the time pressure, the fewer people stopped to help",
+        "The greater the time pressure, the more people stopped to help",
+        "Time pressure had no effect on helping",
+        "Only people high in psychopathy were affected by time pressure"
+      ],
+      "answer": 0,
+      "explanation": "时间压力是影响帮助的情境因素。被催得越急，停下来帮忙的人越少。",
+      "optionExplanations": [
+        "时间压力会大幅减少帮助。",
+        "方向反了。",
+        "老师说时间压力显著降低帮助。",
+        "材料没有测 psychopathy，时间压力普遍影响帮助。"
+      ],
+      "source": "L10 · Other factors that influence helping · [B0044]",
+      "origin": "notes"
+    },
+    {
+      "id": "L10-Q43",
+      "conceptId": "L10-C33",
+      "domain": "personality",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "老师在课堂问答中补充：哪种共情成分是助人行为最可靠的预测指标？",
+      "stemEn": "In the class discussion, the lecturer added that which component of empathy is the most reliable predictor of helping behaviour?",
+      "options": [
+        "认知共情",
+        "极高的情感共情",
+        "共情关怀（empathic concern）",
+        "表演式帮助的倾向"
+      ],
+      "optionsEn": [
+        "Cognitive empathy",
+        "Extremely high affective empathy",
+        "Empathic concern",
+        "A tendency to perform helping for an audience"
+      ],
+      "answer": 2,
+      "explanation": "老师认为共情关怀是助人最可靠的预测指标。认知共情与助人关系不大，情感共情可能存在适中的最佳水平。",
+      "optionExplanations": [
+        "认知共情与助人关系不大，psychopath 也可能理解别人但不在乎。",
+        "情感共情过高可能变成个人痛苦，反而不利于帮助。",
+        "共情关怀与助人正相关，尤其预测私下、有代价的帮助。",
+        "这是利己动机，不是共情成分。"
+      ],
+      "source": "L10 · 课堂口头补充：共情三成分 · [B0046]",
+      "origin": "notes"
+    }
+  ],
+  "file": "L10 整理笔记（录课文字稿 + PSYC1004_2026_Personality_Lecture2.pdf）",
+  "sourceBlocks": [
+    {
+      "id": 1,
+      "text": "本讲结构：四段视频与上课主线\nPersonality Module Lecture 2（A/Prof Stephanie Goodhew）。对应四段预录视频：\n- Video 2a：The power of interactions（人格与情境的交互作用）\n- Video 2b：Psychopathy（精神病态是什么、两种理论）\n- Video 2c：Psychopathy: Measurement（五种测量工具，以及与 APD 的区别）\n- Video 2d：Altruism（Batson 的利他与利己动机研究）\n老师把利他称为讲完 psychopathy 之后的\"palate cleanser\"，是\"caring spectrum\"（关怀光谱）的另一端。期末人格部分的练习题第 9–14 题和第 24 题都出自这一讲。"
+    },
+    {
+      "id": 2,
+      "text": "两大传统：情境因素 vs 人格因素\n心理学历史上有两个阵营：\n- 情境/状态因素（contextual or state factors）：认知心理学和社会心理学常由研究者操纵情境（如把对方当作内群体成员、加认知负荷），看行为怎样变化。这类因素确实很强大。\n- 人格/特质因素（trait factors）：人格心理学关心人带进情境里的、相对持久的特征。\n老师强调两边各有盲点：只看实验操纵，就把个体差异当作误差方差（error variance），但操纵并不会以同样程度、甚至同样方式影响每个人；只看稳定特质，又会忽视情境的力量，看不到同一特质在不同情境里表现多或少。"
+    },
+    {
+      "id": 3,
+      "text": "交互作用：两者结合通常解释得更多\n课件 Interactions 一页的三句话：\n- 人格因素能解释人们行为的一部分；\n- 情境因素也能解释一部分；\n- 同时考虑人格与情境的交互作用（interaction），通常比单独考虑任何一方解释得更多（usually explains more than either in isolation）。\n考试要点：不是\"人格解释一切\"，也不是\"情境解释一切\"。练习题第 9 题和课件自测第 1 题考的正是这一句，正确答案是\"考虑交互作用通常解释得更多\"。"
+    },
+    {
+      "id": 4,
+      "text": "例子：状态焦虑 × 特质焦虑\n焦虑文献明确区分 state 和 trait：\n- 状态焦虑（state anxiety）：此时此刻是否感到焦虑。\n- 特质焦虑（trait anxiety）：相对稳定地容易进入焦虑状态的倾向。\n课件例子：等待重要结果的人比不在这种情境的人更可能焦虑；特质焦虑高的人在任何时刻也更可能焦虑。焦虑情境会让所有人焦虑上升，但特质焦虑高的人升得更多，所以在压力情境中，高低特质焦虑者之间的差距更大。\n老师特别说明：特质焦虑高的人并不是一直焦虑，而是更容易被诱发；别人觉得无害的小事，他们可能解读为负面，从而更早、更强地焦虑。某一刻是否焦虑，是特质水平与所处情境交互的结果。"
+    },
+    {
+      "id": 5,
+      "text": "口头补充：考试焦虑与自我效能\n老师的\"pro tip\"：减少考试焦虑最有效的办法之一，是真正做好准备，练过题、觉得自己掌握了内容。这联系到上周（L9）讲的自我效能（self-efficacy），说明焦虑不是孤立起作用的，其他机制也会参与。"
+    },
+    {
+      "id": 6,
+      "text": "测量启示：选能揭示个体差异的情境\n想观察人格对行为的影响时，要选择最容易显出个体差异的情境。\n课件例子：考场、课上口头报告、聚会，哪个最能显出外向性差异？\n- 考场：情境要求所有人安静作答，说话会惹麻烦，所以人人看起来都很内向，这个情境几乎不能揭示人格差异。\n- 聚会：可以自由选择是站在角落还是主动认识新朋友，最能显出外向性的差异（当然认识多少人、当时心情等状态因素也会起作用）。\n这也影响问卷题目的设计：不直接问\"你外向吗\"，而是给出具体情境，如\"你是不是聚会的灵魂人物（life of the party）\"，让人能根据大量经验作答。"
+    },
+    {
+      "id": 7,
+      "text": "结论：不是人格 vs 情境，而是交互\n课件最后一页用图表对比\"Personality vs context\"与\"Personality and context interaction\"。核心结论：不要把人格和情境对立起来；同时考虑两者及其交互，能更好地预测和理解一个人怎样思考、感受和行动。"
+    },
+    {
+      "id": 8,
+      "text": "什么是精神病态（psychopathy）\n心理学里 psychopathy 被看作一个人格维度（dimension/trait），\"psychopath\"指在这一维度上特别高的人。它由一组情感和行为特征构成：\n- Selfishness 自私\n- Callousness 冷酷无情（对他人冷漠、不动感情）\n- Manipulativeness 操纵（把别人当作达成自己目的的玩物）\n- Meanness 刻薄\n- Boldness 大胆\n- Disinhibition 去抑制（冲动，常以自我破坏的方式表现）\n- Proactive aggression 主动性攻击\n练习题第 10 题答案是 Callousness；课件自测题\"callousness、meanness、selfishness\"三项都属于，选\"All of the above\"。外向性、开放性、宜人性是大五维度，不是 psychopathy 的特征。"
+    },
+    {
+      "id": 9,
+      "text": "主动性攻击 vs 反应性攻击\n- 反应性攻击（reactive aggression）：被激怒、受挫后\"爆发\"式的攻击，是对某种触发的回应。它当然也有问题，但不是 psychopathy 特有的。\n- 主动性攻击（proactive aggression）：冷静、有计划、预谋的攻击，或是为了达到别的目的，或单纯因为从中得到乐趣。老师说这似乎对 psychopathy 特别有选择性，课件称之为 psychopathy 的\"hallmark\"（标志）。\n攻击不一定违法：故意说伤人的话也是一种攻击，不会因此被判伤害罪。"
+    },
+    {
+      "id": 10,
+      "text": "情感共情 vs 认知共情\n课件：psychopathy 高的人情感共情（affective empathy）较低，但认知共情（cognitive empathy）没有受损。\n- 术语：在心理学里 affect 就是 emotion（情绪），和日常英语中的动词 affect（影响）不同，也别和 effect（结果）混淆。\n- 情感共情 = 情绪共情，有时也叫情绪传染（emotional contagion）：被别人的情绪\"传染\"，朋友哭你也想哭，周围气氛愉快你也开心。psychopathy 高者在自我报告和生理测量上都显示较少情感共情，看到别人痛苦也\"无所谓\"。\n- 认知共情 ≈ 心理理论（theory of mind）：理解、识别和解释别人的想法与感受，是一种较抽象的认知理解，不涉及情绪被带动。psychopathy 与认知共情不相关，高者不比别人更多或更少。\n考试要点：练习题第 24 题答案是\"lower levels of affective empathy\"，不是\"两者都低\"。"
+    },
+    {
+      "id": 11,
+      "text": "现实意义：CEO 与再犯风险\n- CEO 群体中高 psychopathy 者比例偏高（over-represented）。老师的解释：商业决策有时需要一定的\"无情\"，psychopathy 高者做起来更容易；但这是否值得，留给学生判断。\n- 司法相关性（forensically relevant）：在服刑人群中，psychopathy 高者再犯（reoffend）可能性高 3 倍，暴力再犯可能性高 4 倍。因此假释决策时知道一个人的 psychopathy 水平，能更好地预测再犯。"
+    },
+    {
+      "id": 12,
+      "text": "两种理论：杏仁核功能障碍 vs 注意瓶颈\n关于 psychopathy 的核心机制，有两种主要理论：\n- 杏仁核功能障碍与恐惧缺陷（amygdala dysfunction and fear deficits）：情绪特异（emotion-specific）的机制。杏仁核位于大脑深部皮层下，属于边缘系统（limbic system），与情绪密切相关；该理论认为 psychopathy 的核心是杏仁核工作不正常。\n- 注意瓶颈理论（attentional bottleneck theory）：领域一般（domain general）的机制，不只作用于情绪刺激，而是更普遍的注意加工。\n老师的总结：证据目前更偏向注意瓶颈理论。"
+    },
+    {
+      "id": 13,
+      "text": "杏仁核理论的三项支持证据\n1. 恐惧增强惊跳反射减弱（reduced fear-potentiated startle）：惊跳反射是突然巨响时的眨眼退缩反应，实验室里可用面部肌电（facial EMG）测量。人在体验恐惧等负性情绪时（如看可怕图片后听到巨响），惊跳会比看风景图时更大，这就是\"恐惧增强\"。psychopathy 高者这种增强较小。杏仁核参与恐惧条件反射和恐惧增强惊跳，所以这一发现符合杏仁核理论。\n2. 杏仁核激活减弱（reduced amygdala activation）：一般人看到恐惧面孔时杏仁核激活明显高于中性面孔；psychopathy 高者两者差别较小。\n3. 识别恐惧和悲伤表情有困难：杏仁核也参与识别他人的负性情绪。"
+    },
+    {
+      "id": 14,
+      "text": "注意瓶颈理论的核心主张\n- 每个人都有注意瓶颈：人的加工容量有限，任何时刻只能加工周围信息的一小部分，不能同时全部加工。\n- 该理论认为 psychopathy 高者的瓶颈更窄、更僵硬，同时伴随强烈的目标导向注意聚焦（intense goal-directed attentional focus）。\n- 结果：与当前目标无关的刺激被忽略，其中包括（但不限于）他人痛苦的信号。由于 psychopathy 高者自私、自我中心，目标多关乎\"对我有什么好处\"，别人的情绪表情常常属于\"与目标无关\"，于是被忽略。\n这样，即使杏仁核没有缺陷，也能解释他们为什么较少注意别人的情绪。课堂上有同学把它比作很难被打断的\"心流\"状态，老师认为是有用的类比。"
+    },
+    {
+      "id": 15,
+      "text": "注意瓶颈证据 1：恐惧增强惊跳受注意调节\n自然自由观看（free viewing）条件下，psychopathy 高者的恐惧增强惊跳较小。但如果任务把注意引向刺激的情绪方面（例如\"看到可怕图片时尽快按键\"），高低 psychopathy 两组的恐惧增强惊跳幅度就差不多了。\n意义：只要用任务指令引导注意，就能\"打开\"或消除这一差异。这更符合注意问题，而不是固定的杏仁核缺陷。课件自测题中\"恐惧增强惊跳幅度不受注意调节\"是错误选项；练习题第 11 题 D\"fear-potentiated startle is invariant to attention\"也是错的。"
+    },
+    {
+      "id": 16,
+      "text": "注意瓶颈证据 2：杏仁核激活受注意调节\n同样呈现恐惧/中性面孔，但要求被试每次尽快判断是恐惧还是中性面孔（注意被引向情绪），这时 psychopathy 高者对恐惧面孔的杏仁核激活与非 psychopathy 者相同。\n所以，杏仁核激活减弱只在情绪刺激不是注意焦点时出现。练习题第 11 题正确答案正是：\"当情绪刺激不是注意焦点时，杏仁核对情绪刺激的激活减弱\"。而\"杏仁核激活增强\"是错的方向。"
+    },
+    {
+      "id": 17,
+      "text": "注意瓶颈证据 3：替代性脑激活受注意调节\n替代性脑激活（vicarious brain activation）：比较被试自己受到轻微疼痛刺激（如手被拍打，强度要能通过伦理审查）时的脑激活，与看别人受到同样刺激时的脑激活。看别人疼时大脑反应接近自己疼，就是替代性激活，相当于大脑\"替别人体验\"。\npsychopathy 高者在标准条件下替代性激活很少。但一项研究只是告诉他们\"请尽量对视频中的人产生共情\"，他们就出现了之前没有的替代性激活。老师说这显示了注意和指令的力量，但单靠这一点不足以减少 psychopathy 的整体表现。"
+    },
+    {
+      "id": 18,
+      "text": "注意瓶颈证据 4：CU 特质男孩与看眼睛\n儿童身上类似的特质称为冷酷无情特质（callous-unemotional traits, CU traits），不叫 psychopathic traits。\n研究对象是有 CU 特质的男孩：自由观看面孔图片时，他们识别情绪表情有困难（如把恐惧说成开心）；但一旦让他们注意面孔的眼睛，识别缺陷就消失了。\n解释：他们原本没有看向最能传达恐惧等情绪的部位，所以根本没\"注意到\"对方的情绪。"
+    },
+    {
+      "id": 19,
+      "text": "注意瓶颈证据 5：中性干扰物加工减少\n即使给的是完全非情绪的刺激（如字母和数字），psychopathy 高者也较少加工与当前任务无关的干扰物；psychopathy 低者则常会加工这些与任务无关的刺激。\n这是杏仁核理论最难解释的发现：杏仁核缺陷无法说明为什么连情绪中性、与目标无关的信息也被少加工。它更有选择性地支持领域一般的注意机制。课件自测题正确答案之一就是\"show reduced processing of neutral distractors\"；练习题第 11 题的\"increased processing of neutral distractors\"是错的。"
+    },
+    {
+      "id": 20,
+      "text": "证据天平与干预启示\n- 结论：注意瓶颈理论\"赢得更多分\"。仍有研究者坚持杏仁核缺陷，但至少注意在这些效应中起调节（moderating）作用，这很难否认。\n- 干预（课堂问答与思考题）：能否训练人减少这些特质还没有定论。童年是大脑特别有可塑性的时期（成人大脑也有可塑性），早期干预也许至少能减轻这些特质。一般儿童抢了别人的玩具，看到对方哭会难受，反复经历会塑造共情和抑制；CU 特质儿童对这种反馈不敏感。如果注意是关键机制，鼓励孩子注意被他伤害的人、训练看面孔中传达情绪的部位，可能有帮助。老师认为这是开放而重要的问题。"
+    },
+    {
+      "id": 21,
+      "text": "课堂问答：情绪体验、遗传与环境\n- 自身情绪：原发型特质（刻薄、自我中心、冷酷）似乎伴随自身情绪体验也较弱；继发型（反社会、冲动）则可能有更强的愤怒、挫败等情绪。所以要看讲的是哪一类 psychopathy。\n- 遗传还是环境？两者都有：有遗传贡献（父母有这些特质，子女更可能有），但不是由基因决定，早期环境会影响这些特质表现的程度和方式。老师举例：美国一位研究 psychopathy 的学者发现自己的脑扫描很像 psychopath，他认为温暖的家庭环境起了缓冲作用，使这些特质以较可被社会接受的形式表现（如竞争性强）。\n- 为什么自私的人还会犯会让自己坐牢的罪？可能是多种特质交互：从中得到快感、对自己能力过度自信觉得不会被抓；继发型的冲动性也可能起调节作用。"
+    },
+    {
+      "id": 22,
+      "text": "测量总览：五种工具，两类用途\n课件列出五种测量：\n1. Hare Psychopathy Checklist Original（PCL-22）\n2. Hare Psychopathy Checklist Revised（PCL-R）\n3. Levenson Self-Report Psychopathy Scale（LSRP）\n4. Christian & Sellbom 修订的 LSRP\n5. Triarchic Model of Psychopathy（TPM，三元模型）\n老师的总结：前两种是司法情境（forensic）的核对表，看是否表现出某些行为，超过一定分数就被归为 psychopath，主要用于监狱人群；后三种是为社区（community）普通人群中的特质测量设计的自我报告量表。"
+    },
+    {
+      "id": 23,
+      "text": "PCL-22：22 条核对表\n- 22 个条目的核对表，内容是观察者认为的人格特质和可观察的行为。\n- 作为访谈的一部分完成，同时依据背景资料（background information）。原因是这一人群诚实度可能不高：对方说\"我从没打过人\"，档案里却可能有 20 次伤害罪记录，所以不能只靠本人说法。\n- 常用于司法情境（如监狱人群）。\n- 每个条目按符合程度计 0、1 或 2 分。"
+    },
+    {
+      "id": 24,
+      "text": "PCL-R：删去两个表现差的条目\nPCL-R 与 PCL-22 唯一的区别是删掉了两个\"表现不佳\"（underperforming）的条目（所以剩 20 条）。统计方法可以找出哪些条目能区分有无 psychopathy 的人，哪些条目所有人都差不多地回答，后者没有区分作用就可删去（老师说本课不需要掌握具体统计技术）。"
+    },
+    {
+      "id": 25,
+      "text": "PCL-R 条目内容\n课件列出 20 条：\n- 圆滑与表面魅力（glibness and superficial charm）：一开始很迷人，相处久了才发现没有深度；\n- 自我中心/自我价值感夸大（egocentricity / grandiose sense of self worth）；\n- 易厌倦/挫折耐受低；病态说谎与欺骗；行骗/缺乏真诚；\n- 缺乏悔恨或内疚；缺乏情感和情绪深度；冷酷/缺乏共情；寄生式生活方式（靠别人过活）；\n- 脾气暴躁/行为控制差；性关系混乱；早期行为问题；缺乏现实的长期计划（常有夸大的计划）；冲动；不负责任；\n- 多次婚姻关系；青少年犯罪；违反假释等有条件释放；不为自己的行为承担责任；多种类型的犯罪。\n老师补充：可以把高 psychopathy 者想成在 HEXACO 的诚实-谦逊维度上得分很低。"
+    },
+    {
+      "id": 26,
+      "text": "PCL-R 只能由合格专业人员施测\nPCL-R 必须由符合以下条件的专业人员施测：\n- 拥有医学、行为科学或社会科学领域的高级学位（如 PhD）；\n- 广泛且及时地熟悉 psychopathy 研究；\n- 专门接受过 PCL-R 使用培训；\n- 在监管精神科或心理测验与诊断程序的权威机构注册。\n老师：不要在聚会上拿出 PCL-R 给人\"诊断\"，你们还没有相应训练。"
+    },
+    {
+      "id": 27,
+      "text": "LSRP：适用于社区样本的自我报告\nLevenson Self-Report Psychopathy Scale（LSRP）：\n- 适用于社区、非司法样本（community non-forensic samples），即测量普通人群中 psychopathy 特质的高低。\n- 26 个条目，测量\"原发型\"和\"继发型\"两类 psychopathy。\n- 原发型 psychopathy（primary）：自私、操纵、冷酷，是情感/人际方面的核心特征，也是多数人说\"psychopath\"时想到的那类。\n- 继发型 psychopathy（secondary）：自我挫败的生活方式，常以极端冲动为特征。\n老师说这两类被归到同一构念下有时令人意外，但它们是公认的两个维度。课件自测题指出：原发/继发的区分正式属于 LSRP，不属于 TPM。"
+    },
+    {
+      "id": 28,
+      "text": "Christian & Sellbom (2016)：三因素 LSRP\n- 原版 LSRP 的因素结构受到批评：统计检验时，回答并不能很好地聚成原发/继发两个因素。\n- Christian 和 Sellbom（2016，研究在 ANU 完成）修订并扩展了 LSRP，发现了 3 个不同的因素：自我中心（Egocentric）、冷酷（Callous）、反社会（Antisocial）。\n- 这一因素结构的心理测量学特性更好（better psychometrics）。\n- 对应关系：Egocentric 和 Callous 可看作原发型的细分，Antisocial 对应继发型。\n练习题第 12 题答案正是\"修订扩展版 LSRP 测量自我中心、冷酷和反社会\"。"
+    },
+    {
+      "id": 29,
+      "text": "三因素 LSRP 的示例条目\n- 自我中心（Egocentric）：成功靠适者生存，不关心失败者；被骗的人通常活该；赚很多钱是我最重要的目标；我喜欢操纵别人的感受；照顾自己是我的首要任务。\n- 冷酷（Callous）：我很少考虑别人的感受；人们在葬礼上太情绪化；我不是很情绪化的人；以及两个反向计分题。\n- 反社会（Antisocial）：我和别人有过很多次争吵；我一次又一次陷入同样的麻烦；我经常觉得无聊；我知道有规则，但通常不遵守；我不会提前计划很远的事。\n可见 Antisocial 因素更多是冲动等行为表现。"
+    },
+    {
+      "id": 30,
+      "text": "反向计分题（reverse-scored items, [RS]）\n好的问卷不应让所有条目都是\"同意 = 高分\"，因为有些人倾向于什么都圈高分。所以要加入反向计分的条目。\nLSRP 冷酷因素的例子：\n- \"I make a point of trying not to hurt others in pursuit of my goals [RS]\"：同意这一条，冷酷得分反而低。\n- \"Even if I were trying very hard to sell something, I wouldn't lie about it [RS]\"。\nTPM 大胆维度也有反向题：\"I stay away from danger as much as I can [RS]\"。"
+    },
+    {
+      "id": 31,
+      "text": "三元模型 TPM：大胆、刻薄、去抑制\nTriarchic Model of Psychopathy（TPM）有三个维度：Boldness（大胆）、Meanness（刻薄）、Disinhibition（去抑制）。\n- Boldness 例题：我是天生的领导者；我害怕的东西比大多数人少得多；我能说服别人按我的意愿做事；我从不担心在别人面前出丑；[RS] 我尽量远离危险。老师认为这可能是 psychopathy 中较具适应性的部分（低恐惧、倾向领导别人），或许与 CEO 中比例偏高有关；但自我报告要谨慎看待，说\"我是天生领导者\"不等于真有领导能力，尤其在自我夸大的人身上。\n- Meanness 例题：不介意讨厌的人受伤；看别人痛苦不困扰我；为了挑事嘲弄别人；为看别人痛苦而伤害过人；对人没什么同情。老师认为它很接近 callousness。\n- Disinhibition 例题：常错过答应参加的事；冲动决定给亲人带来麻烦；不打招呼就旷工；不假思索就行动；很快厌倦、失去兴趣。它与继发型 psychopathy 相近。\nTPM 有原发/继发的\"味道\"（boldness、meanness 偏原发，disinhibition 偏继发），但侧重原发的不同方面，原发/继发并不正式属于 TPM。TPM 也不测外向、神经质、宜人性。"
+    },
+    {
+      "id": 32,
+      "text": "按人群选择量表\n思考题：如果要在一年级心理学学生（如通过 SONA 被试库）中测量 psychopathy，选哪个量表？\n老师的答案：后三种（LSRP、修订版 LSRP、TPM）都合适。关键信息是\"让测量工具与人群匹配\"：\n- 去监狱做研究，应该用 Hare 的 PCL，而不是 Levenson 自我报告量表。\n- 在学生样本中用 PCL，多数人得分会接近 0（它针对的是服刑人群，门槛高），而社区量表能得到更大的分数范围和变异，这正是研究需要的。"
+    },
+    {
+      "id": 33,
+      "text": "Psychopathy 不是诊断；反社会人格障碍（APD）标准\n- psychopathy 是被广泛研究的人格维度，但不是被认可的诊断，DSM（精神障碍诊断与统计手册）中没有它。\n- 最相近的诊断类别是反社会人格障碍（Antisocial Personality Disorder, APD）。\n- APD 要求：自 15 岁起持续表现出漠视和侵犯他人权利的模式，并满足以下 3 项或以上：\n 1. 不遵守法律和社会规范（反复违法）；\n 2. 欺诈（为个人利益或乐趣反复说谎、行骗）；\n 3. 冲动或不能提前计划；\n 4. 易激惹和攻击性（反复打架或攻击）；\n 5. 鲁莽地不顾自己或他人的安全；\n 6. 一贯不负责任（反复不能维持稳定工作或履行经济义务）；\n 7. 缺乏悔恨（对伤害、虐待或偷窃他人无动于衷）。\n- 此外，个体必须年满 18 岁，并且有 15 岁前品行障碍（conduct disorder）的证据。"
+    },
+    {
+      "id": 34,
+      "text": "Psychopathy 与 APD 的区别\n- APD 被批评几乎只关注可观察的行为，而 psychopathy 关注行为背后的心理过程。\n- 只有约 20–30% 的 APD 患者符合 psychopath 标准（如按 psychopathy checklist），APD 中这是相对少数。\n- 几乎所有服刑的 psychopath 都符合 APD；但这掩盖了一个事实：还有很多生活在社区中的 psychopath（未入狱），他们不一定符合 APD。\n- 主动性攻击是 psychopathy 的标志；APD 者有攻击性，但不一定是主动性的。\n- 老师补充：APD 与继发型特质相似度高，原发型在诊断里体现较少。很多 APD 者有童年创伤，攻击多是\"应对不过来\"的反应性攻击；psychopathy 的遗传贡献似乎更强（但不是决定）。\n用韦恩图理解：两者有重叠，但各有大量独有部分，是相关但可分离的构念。要同时了解两者的相似与差异。"
+    },
+    {
+      "id": 35,
+      "text": "课堂问答：为什么 psychopathy 不是诊断\n- 诊断体系可能更关注外显行为，因为它更容易通过其他途径核实（例如有多少次伤害罪记录），而情绪特质需要本人如实报告。\n- 但在再犯预测上，一个人的 psychopathy 特质似乎比是否有 APD 诊断更重要，所以有争论认为了解其在 psychopathy 维度上的位置更有用。\n- psychopathy 不是社会赞许的特质，若回答与本人挂钩，人们会系统性少报；研究中匿名、去识别化能让人更诚实。\n- 诊断可以在之后重新评估；人格障碍通常较难治疗，但特质只是相对持久，强化治疗可以带来改变（老师举例边缘型人格障碍）。"
+    },
+    {
+      "id": 36,
+      "text": "恰当使用信息\n课件提醒：本讲的诊断标准和条目内容只用于帮助理解人格与个体差异的这些方面；没有相应资质和经验，不能用它们来做诊断。老师上课也强调：第一次接触具体诊断标准时学生容易兴奋，但你们还需要大量训练才能诊断别人，所以不要这样做。"
+    },
+    {
+      "id": 37,
+      "text": "课堂问答：道德圈、职业与适度水平\n- 有的人整体冷酷，却对少数人（如孩子、家人）有共情。老师提到之前授课的 Charlie 研究\"道德圈\"（moral circle）：有人的圈子只有自己，有人扩展到全人类。目前的特质问卷大多不区分\"对谁\"有共情，这是值得研究的方向。\n- 某些职业是否更适合较高的这些特质（如需要执行任务的军人、外科医生）？老师没看到数据，推测可能存在中等水平最适应的情况，强调这只是推测。"
+    },
+    {
+      "id": 38,
+      "text": "Batson 研究背景：真的存在利他吗\n- Batson 认为心理学长期默认人类终究会出于自私行事。\n- 他认为一定存在真正出于利他（altruism）的情况：关心他人，为了对方的福祉本身而希望对方好，而不是为了自己的好处。\n- 他希望用实证方法证明真正的利他行为存在，并考察导致利他的状态（state）和特质（trait）因素。\n老师称 Daniel Batson 是利他研究的早期开拓者，他的工作已成为经典。"
+    },
+    {
+      "id": 39,
+      "text": "两条路径：共情关怀 → 利他；个人痛苦 → 利己\nBatson 提出：目睹他人陷入痛苦时，\n- 对对方的共情或同情（empathy or compassion）会促进利他动机（altruistic motivation）：关心、担心对方，想促进对方的福祉。\n- 个人痛苦和自我关注（personal distress and self-focus）会促进利己动机（egoistic motivation）：焦点变成\"我很难受、我受不了，得做点什么\"。这种状态可以引发多种行为，有时也包括帮助，但这种帮助对情境非常敏感。\n考试要点：方向别弄反。练习题第 13 题中\"共情促进利己\"和\"个人痛苦促进利他\"都是把方向弄反的干扰项。"
+    },
+    {
+      "id": 40,
+      "text": "帮助不等于利他：终极目标 vs 意外结果\n- 帮助行为不一定出于利他。利他和利己都能促使人帮助痛苦中的人，只是原因不同。\n- 利己动机包括：减轻自己的痛苦、获得社会或自我赞扬、避免指责（avoiding censure）。例如表演式帮助以换取社会地位；情感共情很高的人可能为了让自己不再难受而帮助对方。\n- 利他动机：因为希望对方好而帮助。\n- Batson 区分终极目标（ultimate goal）和意外结果（unintended consequence）：决定动机性质的是终极目标，即\"你真正为什么这样做\"。为减轻自己痛苦而帮助，即使确实帮到了对方，也是利己（帮到对方只是意外结果）；真心为对方而帮助，即使旁人因此夸你，也仍是利他。"
+    },
+    {
+      "id": 41,
+      "text": "不能从单次行为推断动机；逃离难易范式\n- Batson 认为，无法从任何单次行为推断其背后是利他还是利己动机；需要观察在其他因素变化时行为的模式（patterns of behaviour）。\n- 实验操纵：被试看到另一人处于痛苦中，逃离（不再看到对方痛苦）是容易还是困难。容易条件：实验人员告诉你参与已结束、学分照给、可以离开；困难条件：你必须留下继续与对方互动。\n- 预测：若动机是利他，逃离难易应不影响帮助率，帮助率都会保持高；若动机是利己，逃离难易影响很大，逃离容易时帮助率会急剧下降。"
+    },
+    {
+      "id": 42,
+      "text": "Batson 的发现：利他动机确实存在\n- 看到他人痛苦时报告共情与同情的人，无论逃离是否容易，都很可能留下帮忙。\n- 报告个人痛苦的人，在有容易逃离的选项时，更可能选择离开；只有逃不掉时才留下帮忙。\n- 结论：感到共情和同情的人表现出看起来像利他的动机。并非实验中每个人都这样，但利他动机行为似乎确实存在，这挑战了此前\"人类动机总是利己\"的假设。\n练习题第 14 题答案：\"逃离难易对利他动机者的帮助可能性影响很小\"。课件自测题中\"逃离容易时利己者更可能离开\"\"逃离难易对利他者影响很小\"\"逃离难易对利己者影响很大\"三项都对，选 All of the above。"
+    },
+    {
+      "id": 43,
+      "text": "影响共情还是个人痛苦的特质因素\n课件列出三项会影响人在他人痛苦面前感到共情还是个人痛苦的因素：\n- 特质共情关怀（trait empathic concern）：有些人更倾向对他人产生同情和利他感受，因而在更多情境中会出现利他动机。但仍是交互作用，例如对非常讨厌的人可能就不会。\n- 情绪调节能力（emotion-regulation ability）：难以处理自身情绪、容易被情绪淹没的人更易产生个人痛苦；能管理自己负性情绪的人，才更能把注意放在对方身上。（情绪调节的个体差异本模块后面还会讲。）\n- 自我概念清晰度（self concept clarity）：自我概念清晰的人更可能产生共情关怀。看似反直觉，但共情不应模糊自我与他人的界限；自我概念模糊的人容易把对方的痛苦\"吸收\"成自己的痛苦，从而陷入个人痛苦。"
+    },
+    {
+      "id": 44,
+      "text": "影响帮助的其他（情境）因素：时间压力与自我威胁\n- 时间压力（time pressure）：实验中让被试以为要赶去校园另一头且已经迟到，路边有人躺着呻吟。时间压力越大，停下来帮助的人越少；没有时间压力时，更多人停下帮忙。当然两种条件下都仍有个体差异。\n- 对自身的威胁（threat to self）：即使利他动机很强，面对真正危及自身的情况（如看到有人被塞进面包车），不直接上前而选择报警等其他帮助方式也是合理的。所以有威胁的情境不是检验利他动机的好情境。\n- 老师批评一种旧的利他量表用\"我曾让搭便车的陌生人上车\"来测利他，因为它忽视了自我威胁这一现实因素。"
+    },
+    {
+      "id": 45,
+      "text": "要点：人可以是利他的，与 psychopathy 对照\n课件结论：\"People can be altruistic!\"，与 psychopathy 形成对照。研究暗黑三联征（dark triad）这类特质时容易变得愤世嫉俗，但人格的多样性也包括另一端：很多人真心想帮助别人，并非为了自身利益。人类人格包括这些极端以及中间的一切。"
+    },
+    {
+      "id": 46,
+      "text": "口头补充：共情的三个成分与助人\n课堂问答中老师补充：\n- 共情常被分为认知共情、情感共情，以及第三个成分共情关怀（empathic concern，对他人产生关怀和同情的倾向）。\n- 情感共情是\"feeling with\"（感受相同或相近的情绪）；共情关怀是\"feeling for\"（为对方感到关切和同情，例如心理咨询师对哀伤的来访者感到关心，但自己不一定哀伤）。老师认为 sympathy（同情）就等同于 empathic concern。\n- 预测助人行为：共情关怀是最可靠的预测指标，尤其是私下的、有代价的帮助；认知共情与助人关系不大（psychopath 也可能很理解别人，只是不在乎）；情感共情是\"混合\"的：太低使人冷酷，太高又可能陷入个人痛苦，可能存在\"Goldilocks\"适中水平。\n- 老师认为高 psychopathy 者一般利他动机低，两者大致负相关，但不能绝对排除例外。"
+    },
+    {
+      "id": 47,
+      "text": "思考题：基本归因错误\n课件对 Fundamental Attribution Error 的表述：人们更倾向用情境解释自己的行为，用特质解释别人的行为（例如自己迟到怪交通，别人迟到就说对方不尽责）。\n课堂讨论：\n- 我们能看到影响自己的各种情境，却看不到别人经历了什么；\n- 一般人倾向用特质解释自己的正面结果（\"我聪明\"），用情境解释负面结果；抑郁者常相反，用持久特质解释失败；\n- 对不认同的行为可能更容易作特质归因；\n- 认知资源有限，从他人角度考虑情境因素更费力，人们会默认使用省力的启发式。\n老师明确说：思考题用于引发深入思考，不是考试题型。"
+    },
+    {
+      "id": 48,
+      "text": "思考题：诊断分组 vs 连续维度\n思考题：研究什么心理过程预测反社会行为时，是 a) 比较 APD 诊断组与非 APD 对照组，还是 b) 在普通人群中把 psychopathy 作为连续变量测量？\n老师倾向 b：连续维度保留了所有人的分数信息；二分法把维度强行分成类别会丢失信息，也可能漏掉非单调关系（例如中等水平的 boldness 也许最有适应性，而过高或过低都不利）。这就是类比人格维度（analogue personality dimension）取向，与 L9 讲的维度 vs 类别一致。更理想的是两种都做，看证据是否收敛。"
+    },
+    {
+      "id": 49,
+      "text": "思考题：Batson 研究若测了 psychopathy\n老师的推测：原发型 psychopathy 高者情感共情低，不太可能有强烈的个人痛苦；他们也报告很少关怀和同情。所以他们可能在两个维度上都低，Batson 模型也许需要第三类\"情感淡漠\"（muted affect）。此外，取决于目标，原发型高者可能特别热衷表演式帮助，对\"逃离是否被社会认可\"格外敏感。另一道思考题（注意干预能否减少 psychopathy 的负面后果）见前面的干预启示。"
+    },
+    {
+      "id": 50,
+      "text": "考试题型提示与课件自测\n老师说课件最后的 Test yourself 题就是期末会出的题型（思考题不会出成考试题）。自测题要点：\n1. 交互作用通常解释得更多（不是人格或情境单独解释一切）。\n2. 高 psychopathy 的特征：callousness、meanness、selfishness 都是，选 All of the above。\n3. 关于高 psychopathy 者，正确的是\"中性干扰物加工减少\"；杏仁核激活是减弱而不是增强，不是\"合作且乐于助人\"，恐惧增强惊跳受注意调节。\n4. 修订扩展版 LSRP 测自我中心、冷酷、反社会；TPM 不测大五维度；原发/继发是 LSRP 的划分而非 TPM；psychopathy 有自我报告测量。\n5. Batson 提出利他和利己动机都能促进帮助；共情 → 利他，个人痛苦 → 利己；不能从单次行为推断。\n6. Batson 发现：逃离容易时利己者更可能离开、逃离难易对利他者影响小、对利己者影响大，全部正确。"
+    }
+  ],
+  "sourceText": "# Lecture 10 · Personality Module Lecture 2\n\n## [B0001] 本讲结构：四段视频与上课主线\n\nPersonality Module Lecture 2（A/Prof Stephanie Goodhew）。对应四段预录视频：\n- Video 2a：The power of interactions（人格与情境的交互作用）\n- Video 2b：Psychopathy（精神病态是什么、两种理论）\n- Video 2c：Psychopathy: Measurement（五种测量工具，以及与 APD 的区别）\n- Video 2d：Altruism（Batson 的利他与利己动机研究）\n老师把利他称为讲完 psychopathy 之后的\"palate cleanser\"，是\"caring spectrum\"（关怀光谱）的另一端。期末人格部分的练习题第 9–14 题和第 24 题都出自这一讲。\n\n## [B0002] 两大传统：情境因素 vs 人格因素\n\n心理学历史上有两个阵营：\n- 情境/状态因素（contextual or state factors）：认知心理学和社会心理学常由研究者操纵情境（如把对方当作内群体成员、加认知负荷），看行为怎样变化。这类因素确实很强大。\n- 人格/特质因素（trait factors）：人格心理学关心人带进情境里的、相对持久的特征。\n老师强调两边各有盲点：只看实验操纵，就把个体差异当作误差方差（error variance），但操纵并不会以同样程度、甚至同样方式影响每个人；只看稳定特质，又会忽视情境的力量，看不到同一特质在不同情境里表现多或少。\n\n## [B0003] 交互作用：两者结合通常解释得更多\n\n课件 Interactions 一页的三句话：\n- 人格因素能解释人们行为的一部分；\n- 情境因素也能解释一部分；\n- 同时考虑人格与情境的交互作用（interaction），通常比单独考虑任何一方解释得更多（usually explains more than either in isolation）。\n考试要点：不是\"人格解释一切\"，也不是\"情境解释一切\"。练习题第 9 题和课件自测第 1 题考的正是这一句，正确答案是\"考虑交互作用通常解释得更多\"。\n\n## [B0004] 例子：状态焦虑 × 特质焦虑\n\n焦虑文献明确区分 state 和 trait：\n- 状态焦虑（state anxiety）：此时此刻是否感到焦虑。\n- 特质焦虑（trait anxiety）：相对稳定地容易进入焦虑状态的倾向。\n课件例子：等待重要结果的人比不在这种情境的人更可能焦虑；特质焦虑高的人在任何时刻也更可能焦虑。焦虑情境会让所有人焦虑上升，但特质焦虑高的人升得更多，所以在压力情境中，高低特质焦虑者之间的差距更大。\n老师特别说明：特质焦虑高的人并不是一直焦虑，而是更容易被诱发；别人觉得无害的小事，他们可能解读为负面，从而更早、更强地焦虑。某一刻是否焦虑，是特质水平与所处情境交互的结果。\n\n## [B0005] 口头补充：考试焦虑与自我效能\n\n老师的\"pro tip\"：减少考试焦虑最有效的办法之一，是真正做好准备，练过题、觉得自己掌握了内容。这联系到上周（L9）讲的自我效能（self-efficacy），说明焦虑不是孤立起作用的，其他机制也会参与。\n\n## [B0006] 测量启示：选能揭示个体差异的情境\n\n想观察人格对行为的影响时，要选择最容易显出个体差异的情境。\n课件例子：考场、课上口头报告、聚会，哪个最能显出外向性差异？\n- 考场：情境要求所有人安静作答，说话会惹麻烦，所以人人看起来都很内向，这个情境几乎不能揭示人格差异。\n- 聚会：可以自由选择是站在角落还是主动认识新朋友，最能显出外向性的差异（当然认识多少人、当时心情等状态因素也会起作用）。\n这也影响问卷题目的设计：不直接问\"你外向吗\"，而是给出具体情境，如\"你是不是聚会的灵魂人物（life of the party）\"，让人能根据大量经验作答。\n\n## [B0007] 结论：不是人格 vs 情境，而是交互\n\n课件最后一页用图表对比\"Personality vs context\"与\"Personality and context interaction\"。核心结论：不要把人格和情境对立起来；同时考虑两者及其交互，能更好地预测和理解一个人怎样思考、感受和行动。\n\n## [B0008] 什么是精神病态（psychopathy）\n\n心理学里 psychopathy 被看作一个人格维度（dimension/trait），\"psychopath\"指在这一维度上特别高的人。它由一组情感和行为特征构成：\n- Selfishness 自私\n- Callousness 冷酷无情（对他人冷漠、不动感情）\n- Manipulativeness 操纵（把别人当作达成自己目的的玩物）\n- Meanness 刻薄\n- Boldness 大胆\n- Disinhibition 去抑制（冲动，常以自我破坏的方式表现）\n- Proactive aggression 主动性攻击\n练习题第 10 题答案是 Callousness；课件自测题\"callousness、meanness、selfishness\"三项都属于，选\"All of the above\"。外向性、开放性、宜人性是大五维度，不是 psychopathy 的特征。\n\n## [B0009] 主动性攻击 vs 反应性攻击\n\n- 反应性攻击（reactive aggression）：被激怒、受挫后\"爆发\"式的攻击，是对某种触发的回应。它当然也有问题，但不是 psychopathy 特有的。\n- 主动性攻击（proactive aggression）：冷静、有计划、预谋的攻击，或是为了达到别的目的，或单纯因为从中得到乐趣。老师说这似乎对 psychopathy 特别有选择性，课件称之为 psychopathy 的\"hallmark\"（标志）。\n攻击不一定违法：故意说伤人的话也是一种攻击，不会因此被判伤害罪。\n\n## [B0010] 情感共情 vs 认知共情\n\n课件：psychopathy 高的人情感共情（affective empathy）较低，但认知共情（cognitive empathy）没有受损。\n- 术语：在心理学里 affect 就是 emotion（情绪），和日常英语中的动词 affect（影响）不同，也别和 effect（结果）混淆。\n- 情感共情 = 情绪共情，有时也叫情绪传染（emotional contagion）：被别人的情绪\"传染\"，朋友哭你也想哭，周围气氛愉快你也开心。psychopathy 高者在自我报告和生理测量上都显示较少情感共情，看到别人痛苦也\"无所谓\"。\n- 认知共情 ≈ 心理理论（theory of mind）：理解、识别和解释别人的想法与感受，是一种较抽象的认知理解，不涉及情绪被带动。psychopathy 与认知共情不相关，高者不比别人更多或更少。\n考试要点：练习题第 24 题答案是\"lower levels of affective empathy\"，不是\"两者都低\"。\n\n## [B0011] 现实意义：CEO 与再犯风险\n\n- CEO 群体中高 psychopathy 者比例偏高（over-represented）。老师的解释：商业决策有时需要一定的\"无情\"，psychopathy 高者做起来更容易；但这是否值得，留给学生判断。\n- 司法相关性（forensically relevant）：在服刑人群中，psychopathy 高者再犯（reoffend）可能性高 3 倍，暴力再犯可能性高 4 倍。因此假释决策时知道一个人的 psychopathy 水平，能更好地预测再犯。\n\n## [B0012] 两种理论：杏仁核功能障碍 vs 注意瓶颈\n\n关于 psychopathy 的核心机制，有两种主要理论：\n- 杏仁核功能障碍与恐惧缺陷（amygdala dysfunction and fear deficits）：情绪特异（emotion-specific）的机制。杏仁核位于大脑深部皮层下，属于边缘系统（limbic system），与情绪密切相关；该理论认为 psychopathy 的核心是杏仁核工作不正常。\n- 注意瓶颈理论（attentional bottleneck theory）：领域一般（domain general）的机制，不只作用于情绪刺激，而是更普遍的注意加工。\n老师的总结：证据目前更偏向注意瓶颈理论。\n\n## [B0013] 杏仁核理论的三项支持证据\n\n1. 恐惧增强惊跳反射减弱（reduced fear-potentiated startle）：惊跳反射是突然巨响时的眨眼退缩反应，实验室里可用面部肌电（facial EMG）测量。人在体验恐惧等负性情绪时（如看可怕图片后听到巨响），惊跳会比看风景图时更大，这就是\"恐惧增强\"。psychopathy 高者这种增强较小。杏仁核参与恐惧条件反射和恐惧增强惊跳，所以这一发现符合杏仁核理论。\n2. 杏仁核激活减弱（reduced amygdala activation）：一般人看到恐惧面孔时杏仁核激活明显高于中性面孔；psychopathy 高者两者差别较小。\n3. 识别恐惧和悲伤表情有困难：杏仁核也参与识别他人的负性情绪。\n\n## [B0014] 注意瓶颈理论的核心主张\n\n- 每个人都有注意瓶颈：人的加工容量有限，任何时刻只能加工周围信息的一小部分，不能同时全部加工。\n- 该理论认为 psychopathy 高者的瓶颈更窄、更僵硬，同时伴随强烈的目标导向注意聚焦（intense goal-directed attentional focus）。\n- 结果：与当前目标无关的刺激被忽略，其中包括（但不限于）他人痛苦的信号。由于 psychopathy 高者自私、自我中心，目标多关乎\"对我有什么好处\"，别人的情绪表情常常属于\"与目标无关\"，于是被忽略。\n这样，即使杏仁核没有缺陷，也能解释他们为什么较少注意别人的情绪。课堂上有同学把它比作很难被打断的\"心流\"状态，老师认为是有用的类比。\n\n## [B0015] 注意瓶颈证据 1：恐惧增强惊跳受注意调节\n\n自然自由观看（free viewing）条件下，psychopathy 高者的恐惧增强惊跳较小。但如果任务把注意引向刺激的情绪方面（例如\"看到可怕图片时尽快按键\"），高低 psychopathy 两组的恐惧增强惊跳幅度就差不多了。\n意义：只要用任务指令引导注意，就能\"打开\"或消除这一差异。这更符合注意问题，而不是固定的杏仁核缺陷。课件自测题中\"恐惧增强惊跳幅度不受注意调节\"是错误选项；练习题第 11 题 D\"fear-potentiated startle is invariant to attention\"也是错的。\n\n## [B0016] 注意瓶颈证据 2：杏仁核激活受注意调节\n\n同样呈现恐惧/中性面孔，但要求被试每次尽快判断是恐惧还是中性面孔（注意被引向情绪），这时 psychopathy 高者对恐惧面孔的杏仁核激活与非 psychopathy 者相同。\n所以，杏仁核激活减弱只在情绪刺激不是注意焦点时出现。练习题第 11 题正确答案正是：\"当情绪刺激不是注意焦点时，杏仁核对情绪刺激的激活减弱\"。而\"杏仁核激活增强\"是错的方向。\n\n## [B0017] 注意瓶颈证据 3：替代性脑激活受注意调节\n\n替代性脑激活（vicarious brain activation）：比较被试自己受到轻微疼痛刺激（如手被拍打，强度要能通过伦理审查）时的脑激活，与看别人受到同样刺激时的脑激活。看别人疼时大脑反应接近自己疼，就是替代性激活，相当于大脑\"替别人体验\"。\npsychopathy 高者在标准条件下替代性激活很少。但一项研究只是告诉他们\"请尽量对视频中的人产生共情\"，他们就出现了之前没有的替代性激活。老师说这显示了注意和指令的力量，但单靠这一点不足以减少 psychopathy 的整体表现。\n\n## [B0018] 注意瓶颈证据 4：CU 特质男孩与看眼睛\n\n儿童身上类似的特质称为冷酷无情特质（callous-unemotional traits, CU traits），不叫 psychopathic traits。\n研究对象是有 CU 特质的男孩：自由观看面孔图片时，他们识别情绪表情有困难（如把恐惧说成开心）；但一旦让他们注意面孔的眼睛，识别缺陷就消失了。\n解释：他们原本没有看向最能传达恐惧等情绪的部位，所以根本没\"注意到\"对方的情绪。\n\n## [B0019] 注意瓶颈证据 5：中性干扰物加工减少\n\n即使给的是完全非情绪的刺激（如字母和数字），psychopathy 高者也较少加工与当前任务无关的干扰物；psychopathy 低者则常会加工这些与任务无关的刺激。\n这是杏仁核理论最难解释的发现：杏仁核缺陷无法说明为什么连情绪中性、与目标无关的信息也被少加工。它更有选择性地支持领域一般的注意机制。课件自测题正确答案之一就是\"show reduced processing of neutral distractors\"；练习题第 11 题的\"increased processing of neutral distractors\"是错的。\n\n## [B0020] 证据天平与干预启示\n\n- 结论：注意瓶颈理论\"赢得更多分\"。仍有研究者坚持杏仁核缺陷，但至少注意在这些效应中起调节（moderating）作用，这很难否认。\n- 干预（课堂问答与思考题）：能否训练人减少这些特质还没有定论。童年是大脑特别有可塑性的时期（成人大脑也有可塑性），早期干预也许至少能减轻这些特质。一般儿童抢了别人的玩具，看到对方哭会难受，反复经历会塑造共情和抑制；CU 特质儿童对这种反馈不敏感。如果注意是关键机制，鼓励孩子注意被他伤害的人、训练看面孔中传达情绪的部位，可能有帮助。老师认为这是开放而重要的问题。\n\n## [B0021] 课堂问答：情绪体验、遗传与环境\n\n- 自身情绪：原发型特质（刻薄、自我中心、冷酷）似乎伴随自身情绪体验也较弱；继发型（反社会、冲动）则可能有更强的愤怒、挫败等情绪。所以要看讲的是哪一类 psychopathy。\n- 遗传还是环境？两者都有：有遗传贡献（父母有这些特质，子女更可能有），但不是由基因决定，早期环境会影响这些特质表现的程度和方式。老师举例：美国一位研究 psychopathy 的学者发现自己的脑扫描很像 psychopath，他认为温暖的家庭环境起了缓冲作用，使这些特质以较可被社会接受的形式表现（如竞争性强）。\n- 为什么自私的人还会犯会让自己坐牢的罪？可能是多种特质交互：从中得到快感、对自己能力过度自信觉得不会被抓；继发型的冲动性也可能起调节作用。\n\n## [B0022] 测量总览：五种工具，两类用途\n\n课件列出五种测量：\n1. Hare Psychopathy Checklist Original（PCL-22）\n2. Hare Psychopathy Checklist Revised（PCL-R）\n3. Levenson Self-Report Psychopathy Scale（LSRP）\n4. Christian & Sellbom 修订的 LSRP\n5. Triarchic Model of Psychopathy（TPM，三元模型）\n老师的总结：前两种是司法情境（forensic）的核对表，看是否表现出某些行为，超过一定分数就被归为 psychopath，主要用于监狱人群；后三种是为社区（community）普通人群中的特质测量设计的自我报告量表。\n\n## [B0023] PCL-22：22 条核对表\n\n- 22 个条目的核对表，内容是观察者认为的人格特质和可观察的行为。\n- 作为访谈的一部分完成，同时依据背景资料（background information）。原因是这一人群诚实度可能不高：对方说\"我从没打过人\"，档案里却可能有 20 次伤害罪记录，所以不能只靠本人说法。\n- 常用于司法情境（如监狱人群）。\n- 每个条目按符合程度计 0、1 或 2 分。\n\n## [B0024] PCL-R：删去两个表现差的条目\n\nPCL-R 与 PCL-22 唯一的区别是删掉了两个\"表现不佳\"（underperforming）的条目（所以剩 20 条）。统计方法可以找出哪些条目能区分有无 psychopathy 的人，哪些条目所有人都差不多地回答，后者没有区分作用就可删去（老师说本课不需要掌握具体统计技术）。\n\n## [B0025] PCL-R 条目内容\n\n课件列出 20 条：\n- 圆滑与表面魅力（glibness and superficial charm）：一开始很迷人，相处久了才发现没有深度；\n- 自我中心/自我价值感夸大（egocentricity / grandiose sense of self worth）；\n- 易厌倦/挫折耐受低；病态说谎与欺骗；行骗/缺乏真诚；\n- 缺乏悔恨或内疚；缺乏情感和情绪深度；冷酷/缺乏共情；寄生式生活方式（靠别人过活）；\n- 脾气暴躁/行为控制差；性关系混乱；早期行为问题；缺乏现实的长期计划（常有夸大的计划）；冲动；不负责任；\n- 多次婚姻关系；青少年犯罪；违反假释等有条件释放；不为自己的行为承担责任；多种类型的犯罪。\n老师补充：可以把高 psychopathy 者想成在 HEXACO 的诚实-谦逊维度上得分很低。\n\n## [B0026] PCL-R 只能由合格专业人员施测\n\nPCL-R 必须由符合以下条件的专业人员施测：\n- 拥有医学、行为科学或社会科学领域的高级学位（如 PhD）；\n- 广泛且及时地熟悉 psychopathy 研究；\n- 专门接受过 PCL-R 使用培训；\n- 在监管精神科或心理测验与诊断程序的权威机构注册。\n老师：不要在聚会上拿出 PCL-R 给人\"诊断\"，你们还没有相应训练。\n\n## [B0027] LSRP：适用于社区样本的自我报告\n\nLevenson Self-Report Psychopathy Scale（LSRP）：\n- 适用于社区、非司法样本（community non-forensic samples），即测量普通人群中 psychopathy 特质的高低。\n- 26 个条目，测量\"原发型\"和\"继发型\"两类 psychopathy。\n- 原发型 psychopathy（primary）：自私、操纵、冷酷，是情感/人际方面的核心特征，也是多数人说\"psychopath\"时想到的那类。\n- 继发型 psychopathy（secondary）：自我挫败的生活方式，常以极端冲动为特征。\n老师说这两类被归到同一构念下有时令人意外，但它们是公认的两个维度。课件自测题指出：原发/继发的区分正式属于 LSRP，不属于 TPM。\n\n## [B0028] Christian & Sellbom (2016)：三因素 LSRP\n\n- 原版 LSRP 的因素结构受到批评：统计检验时，回答并不能很好地聚成原发/继发两个因素。\n- Christian 和 Sellbom（2016，研究在 ANU 完成）修订并扩展了 LSRP，发现了 3 个不同的因素：自我中心（Egocentric）、冷酷（Callous）、反社会（Antisocial）。\n- 这一因素结构的心理测量学特性更好（better psychometrics）。\n- 对应关系：Egocentric 和 Callous 可看作原发型的细分，Antisocial 对应继发型。\n练习题第 12 题答案正是\"修订扩展版 LSRP 测量自我中心、冷酷和反社会\"。\n\n## [B0029] 三因素 LSRP 的示例条目\n\n- 自我中心（Egocentric）：成功靠适者生存，不关心失败者；被骗的人通常活该；赚很多钱是我最重要的目标；我喜欢操纵别人的感受；照顾自己是我的首要任务。\n- 冷酷（Callous）：我很少考虑别人的感受；人们在葬礼上太情绪化；我不是很情绪化的人；以及两个反向计分题。\n- 反社会（Antisocial）：我和别人有过很多次争吵；我一次又一次陷入同样的麻烦；我经常觉得无聊；我知道有规则，但通常不遵守；我不会提前计划很远的事。\n可见 Antisocial 因素更多是冲动等行为表现。\n\n## [B0030] 反向计分题（reverse-scored items, [RS]）\n\n好的问卷不应让所有条目都是\"同意 = 高分\"，因为有些人倾向于什么都圈高分。所以要加入反向计分的条目。\nLSRP 冷酷因素的例子：\n- \"I make a point of trying not to hurt others in pursuit of my goals [RS]\"：同意这一条，冷酷得分反而低。\n- \"Even if I were trying very hard to sell something, I wouldn't lie about it [RS]\"。\nTPM 大胆维度也有反向题：\"I stay away from danger as much as I can [RS]\"。\n\n## [B0031] 三元模型 TPM：大胆、刻薄、去抑制\n\nTriarchic Model of Psychopathy（TPM）有三个维度：Boldness（大胆）、Meanness（刻薄）、Disinhibition（去抑制）。\n- Boldness 例题：我是天生的领导者；我害怕的东西比大多数人少得多；我能说服别人按我的意愿做事；我从不担心在别人面前出丑；[RS] 我尽量远离危险。老师认为这可能是 psychopathy 中较具适应性的部分（低恐惧、倾向领导别人），或许与 CEO 中比例偏高有关；但自我报告要谨慎看待，说\"我是天生领导者\"不等于真有领导能力，尤其在自我夸大的人身上。\n- Meanness 例题：不介意讨厌的人受伤；看别人痛苦不困扰我；为了挑事嘲弄别人；为看别人痛苦而伤害过人；对人没什么同情。老师认为它很接近 callousness。\n- Disinhibition 例题：常错过答应参加的事；冲动决定给亲人带来麻烦；不打招呼就旷工；不假思索就行动；很快厌倦、失去兴趣。它与继发型 psychopathy 相近。\nTPM 有原发/继发的\"味道\"（boldness、meanness 偏原发，disinhibition 偏继发），但侧重原发的不同方面，原发/继发并不正式属于 TPM。TPM 也不测外向、神经质、宜人性。\n\n## [B0032] 按人群选择量表\n\n思考题：如果要在一年级心理学学生（如通过 SONA 被试库）中测量 psychopathy，选哪个量表？\n老师的答案：后三种（LSRP、修订版 LSRP、TPM）都合适。关键信息是\"让测量工具与人群匹配\"：\n- 去监狱做研究，应该用 Hare 的 PCL，而不是 Levenson 自我报告量表。\n- 在学生样本中用 PCL，多数人得分会接近 0（它针对的是服刑人群，门槛高），而社区量表能得到更大的分数范围和变异，这正是研究需要的。\n\n## [B0033] Psychopathy 不是诊断；反社会人格障碍（APD）标准\n\n- psychopathy 是被广泛研究的人格维度，但不是被认可的诊断，DSM（精神障碍诊断与统计手册）中没有它。\n- 最相近的诊断类别是反社会人格障碍（Antisocial Personality Disorder, APD）。\n- APD 要求：自 15 岁起持续表现出漠视和侵犯他人权利的模式，并满足以下 3 项或以上：\n 1. 不遵守法律和社会规范（反复违法）；\n 2. 欺诈（为个人利益或乐趣反复说谎、行骗）；\n 3. 冲动或不能提前计划；\n 4. 易激惹和攻击性（反复打架或攻击）；\n 5. 鲁莽地不顾自己或他人的安全；\n 6. 一贯不负责任（反复不能维持稳定工作或履行经济义务）；\n 7. 缺乏悔恨（对伤害、虐待或偷窃他人无动于衷）。\n- 此外，个体必须年满 18 岁，并且有 15 岁前品行障碍（conduct disorder）的证据。\n\n## [B0034] Psychopathy 与 APD 的区别\n\n- APD 被批评几乎只关注可观察的行为，而 psychopathy 关注行为背后的心理过程。\n- 只有约 20–30% 的 APD 患者符合 psychopath 标准（如按 psychopathy checklist），APD 中这是相对少数。\n- 几乎所有服刑的 psychopath 都符合 APD；但这掩盖了一个事实：还有很多生活在社区中的 psychopath（未入狱），他们不一定符合 APD。\n- 主动性攻击是 psychopathy 的标志；APD 者有攻击性，但不一定是主动性的。\n- 老师补充：APD 与继发型特质相似度高，原发型在诊断里体现较少。很多 APD 者有童年创伤，攻击多是\"应对不过来\"的反应性攻击；psychopathy 的遗传贡献似乎更强（但不是决定）。\n用韦恩图理解：两者有重叠，但各有大量独有部分，是相关但可分离的构念。要同时了解两者的相似与差异。\n\n## [B0035] 课堂问答：为什么 psychopathy 不是诊断\n\n- 诊断体系可能更关注外显行为，因为它更容易通过其他途径核实（例如有多少次伤害罪记录），而情绪特质需要本人如实报告。\n- 但在再犯预测上，一个人的 psychopathy 特质似乎比是否有 APD 诊断更重要，所以有争论认为了解其在 psychopathy 维度上的位置更有用。\n- psychopathy 不是社会赞许的特质，若回答与本人挂钩，人们会系统性少报；研究中匿名、去识别化能让人更诚实。\n- 诊断可以在之后重新评估；人格障碍通常较难治疗，但特质只是相对持久，强化治疗可以带来改变（老师举例边缘型人格障碍）。\n\n## [B0036] 恰当使用信息\n\n课件提醒：本讲的诊断标准和条目内容只用于帮助理解人格与个体差异的这些方面；没有相应资质和经验，不能用它们来做诊断。老师上课也强调：第一次接触具体诊断标准时学生容易兴奋，但你们还需要大量训练才能诊断别人，所以不要这样做。\n\n## [B0037] 课堂问答：道德圈、职业与适度水平\n\n- 有的人整体冷酷，却对少数人（如孩子、家人）有共情。老师提到之前授课的 Charlie 研究\"道德圈\"（moral circle）：有人的圈子只有自己，有人扩展到全人类。目前的特质问卷大多不区分\"对谁\"有共情，这是值得研究的方向。\n- 某些职业是否更适合较高的这些特质（如需要执行任务的军人、外科医生）？老师没看到数据，推测可能存在中等水平最适应的情况，强调这只是推测。\n\n## [B0038] Batson 研究背景：真的存在利他吗\n\n- Batson 认为心理学长期默认人类终究会出于自私行事。\n- 他认为一定存在真正出于利他（altruism）的情况：关心他人，为了对方的福祉本身而希望对方好，而不是为了自己的好处。\n- 他希望用实证方法证明真正的利他行为存在，并考察导致利他的状态（state）和特质（trait）因素。\n老师称 Daniel Batson 是利他研究的早期开拓者，他的工作已成为经典。\n\n## [B0039] 两条路径：共情关怀 → 利他；个人痛苦 → 利己\n\nBatson 提出：目睹他人陷入痛苦时，\n- 对对方的共情或同情（empathy or compassion）会促进利他动机（altruistic motivation）：关心、担心对方，想促进对方的福祉。\n- 个人痛苦和自我关注（personal distress and self-focus）会促进利己动机（egoistic motivation）：焦点变成\"我很难受、我受不了，得做点什么\"。这种状态可以引发多种行为，有时也包括帮助，但这种帮助对情境非常敏感。\n考试要点：方向别弄反。练习题第 13 题中\"共情促进利己\"和\"个人痛苦促进利他\"都是把方向弄反的干扰项。\n\n## [B0040] 帮助不等于利他：终极目标 vs 意外结果\n\n- 帮助行为不一定出于利他。利他和利己都能促使人帮助痛苦中的人，只是原因不同。\n- 利己动机包括：减轻自己的痛苦、获得社会或自我赞扬、避免指责（avoiding censure）。例如表演式帮助以换取社会地位；情感共情很高的人可能为了让自己不再难受而帮助对方。\n- 利他动机：因为希望对方好而帮助。\n- Batson 区分终极目标（ultimate goal）和意外结果（unintended consequence）：决定动机性质的是终极目标，即\"你真正为什么这样做\"。为减轻自己痛苦而帮助，即使确实帮到了对方，也是利己（帮到对方只是意外结果）；真心为对方而帮助，即使旁人因此夸你，也仍是利他。\n\n## [B0041] 不能从单次行为推断动机；逃离难易范式\n\n- Batson 认为，无法从任何单次行为推断其背后是利他还是利己动机；需要观察在其他因素变化时行为的模式（patterns of behaviour）。\n- 实验操纵：被试看到另一人处于痛苦中，逃离（不再看到对方痛苦）是容易还是困难。容易条件：实验人员告诉你参与已结束、学分照给、可以离开；困难条件：你必须留下继续与对方互动。\n- 预测：若动机是利他，逃离难易应不影响帮助率，帮助率都会保持高；若动机是利己，逃离难易影响很大，逃离容易时帮助率会急剧下降。\n\n## [B0042] Batson 的发现：利他动机确实存在\n\n- 看到他人痛苦时报告共情与同情的人，无论逃离是否容易，都很可能留下帮忙。\n- 报告个人痛苦的人，在有容易逃离的选项时，更可能选择离开；只有逃不掉时才留下帮忙。\n- 结论：感到共情和同情的人表现出看起来像利他的动机。并非实验中每个人都这样，但利他动机行为似乎确实存在，这挑战了此前\"人类动机总是利己\"的假设。\n练习题第 14 题答案：\"逃离难易对利他动机者的帮助可能性影响很小\"。课件自测题中\"逃离容易时利己者更可能离开\"\"逃离难易对利他者影响很小\"\"逃离难易对利己者影响很大\"三项都对，选 All of the above。\n\n## [B0043] 影响共情还是个人痛苦的特质因素\n\n课件列出三项会影响人在他人痛苦面前感到共情还是个人痛苦的因素：\n- 特质共情关怀（trait empathic concern）：有些人更倾向对他人产生同情和利他感受，因而在更多情境中会出现利他动机。但仍是交互作用，例如对非常讨厌的人可能就不会。\n- 情绪调节能力（emotion-regulation ability）：难以处理自身情绪、容易被情绪淹没的人更易产生个人痛苦；能管理自己负性情绪的人，才更能把注意放在对方身上。（情绪调节的个体差异本模块后面还会讲。）\n- 自我概念清晰度（self concept clarity）：自我概念清晰的人更可能产生共情关怀。看似反直觉，但共情不应模糊自我与他人的界限；自我概念模糊的人容易把对方的痛苦\"吸收\"成自己的痛苦，从而陷入个人痛苦。\n\n## [B0044] 影响帮助的其他（情境）因素：时间压力与自我威胁\n\n- 时间压力（time pressure）：实验中让被试以为要赶去校园另一头且已经迟到，路边有人躺着呻吟。时间压力越大，停下来帮助的人越少；没有时间压力时，更多人停下帮忙。当然两种条件下都仍有个体差异。\n- 对自身的威胁（threat to self）：即使利他动机很强，面对真正危及自身的情况（如看到有人被塞进面包车），不直接上前而选择报警等其他帮助方式也是合理的。所以有威胁的情境不是检验利他动机的好情境。\n- 老师批评一种旧的利他量表用\"我曾让搭便车的陌生人上车\"来测利他，因为它忽视了自我威胁这一现实因素。\n\n## [B0045] 要点：人可以是利他的，与 psychopathy 对照\n\n课件结论：\"People can be altruistic!\"，与 psychopathy 形成对照。研究暗黑三联征（dark triad）这类特质时容易变得愤世嫉俗，但人格的多样性也包括另一端：很多人真心想帮助别人，并非为了自身利益。人类人格包括这些极端以及中间的一切。\n\n## [B0046] 口头补充：共情的三个成分与助人\n\n课堂问答中老师补充：\n- 共情常被分为认知共情、情感共情，以及第三个成分共情关怀（empathic concern，对他人产生关怀和同情的倾向）。\n- 情感共情是\"feeling with\"（感受相同或相近的情绪）；共情关怀是\"feeling for\"（为对方感到关切和同情，例如心理咨询师对哀伤的来访者感到关心，但自己不一定哀伤）。老师认为 sympathy（同情）就等同于 empathic concern。\n- 预测助人行为：共情关怀是最可靠的预测指标，尤其是私下的、有代价的帮助；认知共情与助人关系不大（psychopath 也可能很理解别人，只是不在乎）；情感共情是\"混合\"的：太低使人冷酷，太高又可能陷入个人痛苦，可能存在\"Goldilocks\"适中水平。\n- 老师认为高 psychopathy 者一般利他动机低，两者大致负相关，但不能绝对排除例外。\n\n## [B0047] 思考题：基本归因错误\n\n课件对 Fundamental Attribution Error 的表述：人们更倾向用情境解释自己的行为，用特质解释别人的行为（例如自己迟到怪交通，别人迟到就说对方不尽责）。\n课堂讨论：\n- 我们能看到影响自己的各种情境，却看不到别人经历了什么；\n- 一般人倾向用特质解释自己的正面结果（\"我聪明\"），用情境解释负面结果；抑郁者常相反，用持久特质解释失败；\n- 对不认同的行为可能更容易作特质归因；\n- 认知资源有限，从他人角度考虑情境因素更费力，人们会默认使用省力的启发式。\n老师明确说：思考题用于引发深入思考，不是考试题型。\n\n## [B0048] 思考题：诊断分组 vs 连续维度\n\n思考题：研究什么心理过程预测反社会行为时，是 a) 比较 APD 诊断组与非 APD 对照组，还是 b) 在普通人群中把 psychopathy 作为连续变量测量？\n老师倾向 b：连续维度保留了所有人的分数信息；二分法把维度强行分成类别会丢失信息，也可能漏掉非单调关系（例如中等水平的 boldness 也许最有适应性，而过高或过低都不利）。这就是类比人格维度（analogue personality dimension）取向，与 L9 讲的维度 vs 类别一致。更理想的是两种都做，看证据是否收敛。\n\n## [B0049] 思考题：Batson 研究若测了 psychopathy\n\n老师的推测：原发型 psychopathy 高者情感共情低，不太可能有强烈的个人痛苦；他们也报告很少关怀和同情。所以他们可能在两个维度上都低，Batson 模型也许需要第三类\"情感淡漠\"（muted affect）。此外，取决于目标，原发型高者可能特别热衷表演式帮助，对\"逃离是否被社会认可\"格外敏感。另一道思考题（注意干预能否减少 psychopathy 的负面后果）见前面的干预启示。\n\n## [B0050] 考试题型提示与课件自测\n\n老师说课件最后的 Test yourself 题就是期末会出的题型（思考题不会出成考试题）。自测题要点：\n1. 交互作用通常解释得更多（不是人格或情境单独解释一切）。\n2. 高 psychopathy 的特征：callousness、meanness、selfishness 都是，选 All of the above。\n3. 关于高 psychopathy 者，正确的是\"中性干扰物加工减少\"；杏仁核激活是减弱而不是增强，不是\"合作且乐于助人\"，恐惧增强惊跳受注意调节。\n4. 修订扩展版 LSRP 测自我中心、冷酷、反社会；TPM 不测大五维度；原发/继发是 LSRP 的划分而非 TPM；psychopathy 有自我报告测量。\n5. Batson 提出利他和利己动机都能促进帮助；共情 → 利他，个人痛苦 → 利己；不能从单次行为推断。\n6. Batson 发现：逃离容易时利己者更可能离开、逃离难易对利他者影响小、对利己者影响大，全部正确。"
+}

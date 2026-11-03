@@ -1,0 +1,2056 @@
+{
+ "id": 11,
+ "title": "执行功能、认知失误与驾驶事故风险",
+ "subtitle": "Personality 3 · Executive Functions, Cognitive Failures & Crash Risk",
+ "summary": "本讲从执行功能（shifting、updating、inhibition 及 unity and diversity 模型）出发，讲到日常认知失误问卷 CFQ 的相关方向与 CFQ 2.0 的开发（EFA→CFA→增量效度→重测信度，最终一因子），再落到驾驶事故风险的个体差异（driving skill 与 driving style、危险感知、UFOV）。共 33 个知识点、45 道双语练习。复习重点：三种 EF 及代表任务、CFQ 与共情/重评/幸福感的正负方向、CFQ 2.0 的结论、哪些属于 driving style、哪些训练真能降低事故风险。标为“课堂问答补充”的内容（衰老、多任务、问卷局限、年龄差异研究等）来自讲课问答；EFA 碎石图、CFA 拟合表和 UFOV 示意图在课件中是图片，数值依老师口述整理。",
+ "concepts": [
+  {
+   "id": "L11-C01",
+   "title": "执行功能：领域通用的控制过程",
+   "english": "Executive functions; domain-general",
+   "oneLine": "执行功能是让人计划、追求和执行目标、抵抗分心并兼顾多任务的领域通用认知过程，通常与额叶相关。",
+   "analogy": "像公司的总调度室，不管哪个部门的项目都要经过它安排。",
+   "simpleExample": "自拟例：复习考试、和朋友谈判分工、压住自己的火气，都要用到同一套控制能力。",
+   "explanation": "Executive functions 是 domain-general（领域通用）的认知过程：几乎在所有情境中都起作用，从学习考试、社交互动到调节情绪。与之相对的是只在某类情境起作用的 domain-specific 机制。它们通常与 frontal lobe（额叶）相关，是高层的计划与控制过程。",
+   "example": "自拟例：同一个人既能按计划完成论文，也能在聊天时等别人说完再插话，两者都依赖执行功能。",
+   "pitfall": "Domain-general 不是“只管认知任务”，而是跨情境通用；EF 也不是性格特质如外向性。",
+   "source": "L11 · Executive functions: definition · [B0002]",
+   "front": "执行功能为什么被称为 domain-general？",
+   "back": "因为它们在几乎所有情境（学习、社交、情绪调节等）中都起作用，而不是只服务某一类情境。",
+   "cardBack": "因为它们在几乎所有情境（学习、社交、情绪调节等）中都起作用，而不是只服务某一类情境。"
+  },
+  {
+   "id": "L11-C02",
+   "title": "执行功能参与情绪调节与换位思考；差则更冲动",
+   "english": "EF in domain-specific processes; impulsivity and antisociality",
+   "oneLine": "EF 虽是领域通用，却参与情绪调节、换位思考等领域特定过程；EF 差与冲动性乃至反社会性相关。",
+   "analogy": "像通用的电源，不同电器（情绪、社交）都要从它取电。",
+   "simpleExample": "自拟例：吵架时能想到“对方可能有不同看法”，需要换位思考，也调动了执行功能。",
+   "explanation": "课件强调 EF 被用于 emotion regulation 和 perspective-taking 等具体领域。Poor executive function 与 impulsivity 和 antisociality 相关；老师举例上一讲的 secondary psychopathic traits 与 EF 呈负相关。总体上 EF 有助于社会和情绪幸福感及任务表现。",
+   "example": "自拟例：执行功能较弱的人在受挫时更可能冲动行事，而不是先停下来想想后果。",
+   "pitfall": "方向别记反：是 EF 越差，冲动和反社会性越高（负相关）；EF 领域通用，不代表它与社交、情绪无关。",
+   "source": "L11 · Executive functions and domain-specific processes · [B0009]",
+   "front": "执行功能差与哪些特点相关？",
+   "back": "与冲动性、甚至反社会性相关（如次级精神病态特质与 EF 负相关）。",
+   "cardBack": "与冲动性、甚至反社会性相关（如次级精神病态特质与 EF 负相关）。"
+  },
+  {
+   "id": "L11-C03",
+   "title": "EF 个体差异：能力与使用倾向",
+   "english": "Ability vs propensity; testing conditions",
+   "oneLine": "EF 的个体差异既包括能力高低，也包括平时使用这些能力的倾向；安静实验室测到的更接近最大能力。",
+   "analogy": "像跑步最好成绩与平时愿不愿意跑：赛道上的纪录不等于日常表现。",
+   "simpleExample": "自拟例：小林在安静考场专注力很强，但在宿舍有人聊天时却总是走神。",
+   "explanation": "老师指出 EF 差异包括 ability 和 propensity 两部分。实验室测试通常尽量去除干扰，因此反映的是最大能力；而现实中，在有干扰、有强烈情绪或要同时做多件事时还能否保持表现，可能更能预测现实功能和安全攸关任务。从个体差异角度研究这种抗干扰稳健性是正在发展的方向。",
+   "example": "自拟例：一名司机在无干扰实验中表现优秀，但在车里有人吵闹时可能明显变差。",
+   "pitfall": "实验室高分不等于在嘈杂、情绪激动的真实情境中也表现好；“能做到”和“会去做”是两回事。",
+   "source": "L11 · Individual differences in EF; Q&A on testing · [B0003]",
+   "front": "为什么在无干扰的实验室测 EF 可能低估现实风险？",
+   "back": "因为它测的是最大能力；现实中更重要的可能是在干扰、情绪和多任务下维持表现的能力。",
+   "cardBack": "因为它测的是最大能力；现实中更重要的可能是在干扰、情绪和多任务下维持表现的能力。"
+  },
+  {
+   "id": "L11-C04",
+   "title": "Unity and Diversity 模型",
+   "english": "Unity and diversity of executive functions",
+   "oneLine": "所有 EF 任务彼此有相关（统一性），但存在内部相关更高的不同子成分（多样性）。",
+   "analogy": "像同一支球队：整体实力相关，但前锋之间的技能比前锋与守门员更相似。",
+   "simpleExample": "自拟例：一个人切换任务快，n-back 也往往不错；但两项切换任务之间的相关更高。",
+   "explanation": "Unity：任何 EF 任务上的表现都倾向与其他 EF 任务相关，所以谈“整体执行功能”有意义。Diversity：有些子成分（如两个 shifting 任务）彼此相关更高，形成可区分的子集。对“EF 是一个还是多个”的问题，答案是“两者都有”。",
+   "example": "自拟例：同学 A 的 Stroop 和 task-switching 成绩都较好，但他两项切换任务的分数最接近。",
+   "pitfall": "Unity 不等于 EF 只有一种；Diversity 也不等于各成分完全无关。",
+   "source": "L11 · Unity and diversity model · [B0004]",
+   "front": "Unity and diversity 模型中的 unity 与 diversity 各指什么？",
+   "back": "Unity：所有 EF 任务都有相关；Diversity：存在彼此相关更高的不同子成分。",
+   "cardBack": "Unity：所有 EF 任务都有相关；Diversity：存在彼此相关更高的不同子成分。"
+  },
+  {
+   "id": "L11-C05",
+   "title": "三种核心执行功能（非穷尽清单）",
+   "english": "Shifting, updating, inhibition",
+   "oneLine": "Unity and diversity 模型强调 shifting、updating、inhibition 三种执行功能；原作者说这不一定是全部。",
+   "analogy": "像菜谱里公认的三大基本刀法，重要但不代表厨艺只有这些。",
+   "simpleExample": "自拟例：判断“冲动性”是不是执行功能——不是，它是与 EF 差相关的特点。",
+   "explanation": "模型在 diversity 一侧突出三种成分：shifting（切换）、updating（更新工作记忆）、inhibition（抑制）。提出者认为清单不一定完整，但领域后来几乎把它们当作标准执行功能。Localising、impulsivity、attentional breadth、extraversion 都不是本课列出的执行功能。",
+   "example": "自拟例：考试题列出“抑制、冲动性、注意广度、外向性”，只有抑制属于执行功能。",
+   "pitfall": "冲动性与 EF 差相关，但它本身不是执行功能；定位（localising）在 UFOV 中出现，也不是执行功能。",
+   "source": "L11 · Three executive functions · [B0005]；[B0038]",
+   "front": "本课强调的三种执行功能是什么？",
+   "back": "Shifting（切换）、Updating（更新）、Inhibition（抑制）。",
+   "cardBack": "Shifting（切换）、Updating（更新）、Inhibition（抑制）。"
+  },
+  {
+   "id": "L11-C06",
+   "title": "Shifting 与切换代价",
+   "english": "Shifting; task switching; switch cost",
+   "oneLine": "Shifting 是在任务或心理定势间切换；人人都有切换代价，但代价大小因人而异。",
+   "analogy": "像在两种语言间来回翻译，每次换语言都要顿一下，只是有人顿得更久。",
+   "simpleExample": "自拟例：一会儿判断数字奇偶，一会儿判断是否大于 5，换规则的那一题会变慢。",
+   "explanation": "代表任务是 task-switching：同一数字有时按奇偶分类，有时按大于或小于 5 分类。切换任务的试次比重复任务的试次更慢、更不准确，这就是 switch cost，是普遍现象。个体差异体现在切换代价的大小，即切换的效率和有效性。",
+   "example": "自拟例：两位同学都在换规则时变慢，但一位只慢一点，另一位慢很多还常出错。",
+   "pitfall": "不是“有人有切换代价、有人没有”；切换代价普遍存在，差异在大小。",
+   "source": "L11 · Shifting · [B0006]",
+   "front": "任务切换研究里的 switch cost 是普遍的吗？个体差异在哪？",
+   "back": "是普遍的；个体差异在于切换代价的大小（切换效率）。",
+   "cardBack": "是普遍的；个体差异在于切换代价的大小（切换效率）。"
+  },
+  {
+   "id": "L11-C07",
+   "title": "Updating 与 n-back",
+   "english": "Updating working memory; n-back",
+   "oneLine": "Updating 是更新和监控工作记忆内容，强调主动加工，而不只是被动储存；代表任务是 n-back。",
+   "analogy": "像一直刷新的排行榜，新数据进来就要替换旧位置。",
+   "simpleExample": "自拟例：3-back 中每听到新字母，都要和 3 个之前的字母比较。",
+   "explanation": "工作记忆不只是记住，而是要对记住的内容进行操作，例如把一串数字的前三个相加再减去后三个。n-back 要求判断当前项目是否与 n 个之前的项目相同，n 越大越难，因为需要不断更新。课堂补充：complex span 任务一般也归入 updating。",
+   "example": "自拟例：一边听朋友说话，一边监控他有没有重复 30 秒前说过的话。",
+   "pitfall": "只要求“记住一串字母”并不等于 updating；关键是持续更新和操作记忆内容。",
+   "source": "L11 · Updating · [B0007]；[B0038]",
+   "front": "为什么说 updating 不只是记忆？",
+   "back": "因为它要求主动操作和不断更新工作记忆内容，而不只是被动存储。",
+   "cardBack": "因为它要求主动操作和不断更新工作记忆内容，而不只是被动存储。"
+  },
+  {
+   "id": "L11-C08",
+   "title": "Inhibition 与 Stroop",
+   "english": "Inhibition of prepotent responses; Stroop",
+   "oneLine": "Inhibition 是抑制自动化的优势反应；Stroop 任务中要压住读词的冲动去说墨水颜色。",
+   "analogy": "像看到手机震动却忍住不去拿，压住最顺手的反应。",
+   "simpleExample": "自拟例：蓝色墨水写着 RED，要说“蓝”而不是“红”。",
+   "explanation": "Prepotent responses 是非常自动、自然的反应。熟练掌握一种语言的人读词极自动，所以词义与墨水颜色冲突时反应变慢、出错增多。Stroop 效应几乎人人都有，个体差异在于干扰效应的大小。",
+   "example": "自拟例：图书馆里朋友在旁边聊天，你努力不理会、专心看书，用的就是抑制。",
+   "pitfall": "Inhibition 是 EF，不是“冲动性”；Stroop 干扰人人都有，差异在程度。",
+   "source": "L11 · Inhibition · [B0008]；[B0038]",
+   "front": "Stroop 任务主要测哪种执行功能？",
+   "back": "Inhibition，即抑制读词这种自动化优势反应。",
+   "cardBack": "Inhibition，即抑制读词这种自动化优势反应。"
+  },
+  {
+   "id": "L11-C09",
+   "title": "多任务＝快速切换",
+   "english": "Multitasking as rapid switching",
+   "oneLine": "大多数“多任务”其实是在任务之间快速切换，每次都有切换代价，通常每项都做得更差。",
+   "analogy": "像一个服务员同时招呼三桌，实际上是在三桌之间来回跑。",
+   "simpleExample": "自拟例：边看短视频边写作业，写作业的速度和准确性都下降。",
+   "explanation": "老师认为我们在同一时刻基本只能做一件事，除非任务高度自动化。虽然很多人自称会多任务，多数数据显示同时做几件事时每项表现都比单独做差。一边听朋友聊天一边学习主要涉及快速 shifting，也夹带 inhibition。",
+   "example": "自拟例：开会时同时回邮件，会议内容和邮件质量都受影响。",
+   "pitfall": "自称擅长多任务不等于真的没有代价；三种 EF 也不是完全独立，切换中常有抑制。",
+   "source": "L11 · Multitasking (Q&A) · [B0010]；[B0038]",
+   "front": "一边听朋友聊天一边学习，主要涉及哪种执行功能？",
+   "back": "快速 shifting（切换），会产生切换代价，也夹带抑制。",
+   "cardBack": "快速 shifting（切换），会产生切换代价，也夹带抑制。"
+  },
+  {
+   "id": "L11-C10",
+   "title": "衰老：流体智力 vs 晶体智力",
+   "english": "Ageing; fluid vs crystallised intelligence",
+   "oneLine": "衰老时流体智力更易下降，晶体智力相对保持甚至提高，且下降速度个体差异很大。",
+   "analogy": "像旧手机处理器变慢，但里面存的资料和经验还在、还在增加。",
+   "simpleExample": "自拟例：一位退休教师心算变慢，但词汇和解决问题的策略依然很好。",
+   "explanation": "Fluid intelligence 是当下动态加工的在线容量，更容易受衰老影响；crystallised intelligence 是一生积累的知识、技能和策略，相对完好甚至继续提高。平均而言 EF 下降，但没有统一的下降速度，许多老年人用补偿策略（更谨慎、更有动机），有时表现优于年轻人。",
+   "example": "自拟例：同龄老人中，有人认知几乎不变，有人下降明显。",
+   "pitfall": "不要说“所有老年人认知都同等下降”；也不要把晶体智力当作最易衰退的部分。",
+   "source": "L11 · Ageing (Q&A) · [B0011]",
+   "front": "衰老时哪种智力更容易下降？",
+   "back": "流体智力；晶体智力相对保持，甚至可继续提高。",
+   "cardBack": "流体智力；晶体智力相对保持，甚至可继续提高。"
+  },
+  {
+   "id": "L11-C11",
+   "title": "认知失误及其个体差异",
+   "english": "Cognitive failures",
+   "oneLine": "认知失误是日常走神、遗忘或出错的主观体验；人人都会犯，但频率有稳定的个体差异。",
+   "analogy": "像每辆车都会偶尔熄火，但有的车熄火明显更频繁。",
+   "simpleExample": "自拟例：走进厨房却忘了来拿什么。",
+   "explanation": "To err is human：日常出错不可避免。后果可以很轻微（忘了为什么进房间），也可以很严重（在路口没看到另一辆车）。关键是：虽然人人都有认知失误，但频率存在清晰且有意义的个体差异。",
+   "example": "自拟例：两位同事都会偶尔忘事，但其中一位每周都错过会议。",
+   "pitfall": "认知失误不是少数人的“病”；研究关注的是频率差异，而不是有没有。",
+   "source": "L11 · Cognitive failures · [B0013]",
+   "front": "认知失误研究关注的个体差异是什么？",
+   "back": "失误发生的频率；人人都会犯，但有人明显更频繁。",
+   "cardBack": "失误发生的频率；人人都会犯，但有人明显更频繁。"
+  },
+  {
+   "id": "L11-C12",
+   "title": "Cognitive Failures Questionnaire（CFQ）",
+   "english": "CFQ: 25 items, past six months",
+   "oneLine": "CFQ 有 25 题，让人报告过去 6 个月各类认知失误的发生频率，原版发表于 1982 年。",
+   "analogy": "像半年的“出错日记”汇总表，看你多常犯哪些小错。",
+   "simpleExample": "自拟例：“你会忘了去商店要买什么吗？”从“从不”到“非常频繁”作答。",
+   "explanation": "CFQ 是测认知失误最常用的工具。答题者用 5 点量表评定过去 6 个月的频率。示例条目包括忘记为什么走到另一个房间、没注意到路标、该听时做白日梦、忘了要买什么、忘记约会。原版只有 25 题，单一因子。",
+   "example": "自拟例：研究者让司机填写 CFQ，再追踪他们之后的事故情况。",
+   "pitfall": "CFQ 问的是频率而不是“能力自评”；时间范围是过去 6 个月，不是一周或一生。",
+   "source": "L11 · Cognitive Failures Questionnaire · [B0014]",
+   "front": "CFQ 有多少题、问的是哪段时间？",
+   "back": "25 题，询问过去 6 个月认知失误的频率。",
+   "cardBack": "25 题，询问过去 6 个月认知失误的频率。"
+  },
+  {
+   "id": "L11-C13",
+   "title": "CFQ 与客观指标的相关",
+   "english": "CFQ correlates: EF tasks, SART, brain, crash risk",
+   "oneLine": "CFQ 分数与 EF 任务、SART 误按、注意控制脑区的功能和结构以及事故风险相关，说明它不只是主观看法。",
+   "analogy": "像自评“常忘事”的人，在客观记录里也真的常漏打卡。",
+   "simpleExample": "自拟例：CFQ 高的人在 SART 中更常在看到数字 3 时仍按下空格键。",
+   "explanation": "SART 中数字约每秒出现一个，每次按空格，但数字 3 出现时不按；误按（commission errors / false alarms）越多，持续注意越差。CFQ 还与 fMRI 测得的注意控制脑区功能、脑结构，以及现实中的事故风险（尤其本人负责的事故）相关。",
+   "example": "自拟例：同一批被试中，CFQ 越高者在注意任务里犯错越多、驾驶事故也略多。",
+   "pitfall": "SART 测的是“不该按时按了”（commission errors），不是“该按时没按”；主观问卷不等于没有客观效度。",
+   "source": "L11 · CFQ and objective indices · [B0015]",
+   "front": "为什么说 CFQ 不只是人们对自己认知的信念？",
+   "back": "因为它与 EF 任务、SART 误按、脑功能与结构及事故风险等客观指标相关。",
+   "cardBack": "因为它与 EF 任务、SART 误按、脑功能与结构及事故风险等客观指标相关。"
+  },
+  {
+   "id": "L11-C14",
+   "title": "CFQ 与心理健康、幸福感",
+   "english": "CFQ and wellbeing",
+   "oneLine": "CFQ 高与更多抑郁、特质焦虑、倦怠、拖延、冲动、压力和驾驶攻击性相关，与生活满意度和成功老化负相关。",
+   "analogy": "像仪表盘上的一个警示灯，常亮时其他系统也往往在报警。",
+   "simpleExample": "自拟例：常忘事、常走神的同学，也更常说自己压力大、拖延严重。",
+   "explanation": "CFQ 与 depression、trait anxiety、burnout、procrastination、impulsivity 正相关；也与 driving aggression 和 stress 正相关；与 life satisfaction 和 successful ageing（老年人主观的心理功能良好感）负相关。说明 CFQ 还牵涉心理健康与幸福感。",
+   "example": "自拟例：一位老人 CFQ 分数高，他对自己“老得好”的主观评价也较低。",
+   "pitfall": "大多数是正相关，但生活满意度和成功老化是负相关；这些都是相关，不能直接推出因果。",
+   "source": "L11 · CFQ and wellbeing · [B0016]",
+   "front": "CFQ 与哪两个变量是负相关（幸福感方面）？",
+   "back": "生活满意度（life satisfaction）和成功老化（successful ageing）。",
+   "cardBack": "生活满意度（life satisfaction）和成功老化（successful ageing）。"
+  },
+  {
+   "id": "L11-C15",
+   "title": "CFQ 与情绪调节、共情的相关方向",
+   "english": "CFQ, reappraisal, rumination, empathy",
+   "oneLine": "CFQ 高者反刍更多、重评更少、情绪调节更困难，认知共情更低但情感共情更高。",
+   "analogy": "像信号不太稳的收音机：不太能“听懂”对方，却容易被对方的情绪“串台”。",
+   "simpleExample": "自拟例：朋友难过时，CFQ 高的人自己也跟着很难受，却不太能说清朋友在想什么。",
+   "explanation": "Rumination 正相关；reappraisal（改变对情境的看法以降低负面情绪）负相关；difficulties with emotion regulation 正相关；cognitive empathy（理解他人想法和感受）负相关；affective empathy（被他人情绪感染）正相关。CFQ 2.0 的 Study 4 也重现了认知共情降低、情感共情升高的模式。",
+   "example": "自拟例：考试失利后，CFQ 高者更常反复想失败，而少去换个角度看。",
+   "pitfall": "两种共情方向相反：认知共情低、情感共情高；不要笼统说“共情都更低”。",
+   "source": "L11 · CFQ, emotion regulation and empathy · [B0017]；[B0023]",
+   "front": "CFQ 与认知共情和情感共情分别是什么关系？",
+   "back": "与认知共情负相关，与情感共情正相关。",
+   "cardBack": "与认知共情负相关，与情感共情正相关。"
+  },
+  {
+   "id": "L11-C16",
+   "title": "原版 CFQ：条目过时与因子结构争议",
+   "english": "Original CFQ limitations; factor structure debate",
+   "oneLine": "原版 CFQ 已有 40 多年，条目过时且无科技条目；其因子结构长期不稳定，可能因每个因子条目太少。",
+   "analogy": "像只用一道题想测出一门课的单元，题太少，单元根本显不出来。",
+   "simpleExample": "自拟例：“你会忘记把报纸放在哪吗？”对很少看纸质报纸的大学生不太适用。",
+   "explanation": "原版条目如报纸、信件带有时代痕迹，也没有技术相关失误。原作者找不到清晰的多因子结构，只保留单因子；后续因子分析结果不一致、难以重复。可能原因是每个潜在因子的条目太少，例如“你会发脾气然后后悔吗？”是唯一涉及情绪调节失败的题。",
+   "example": "自拟例：如果情绪调节失败只有一道题，即使它是真实子维度，因子分析也很难把它分出来。",
+   "pitfall": "老师并不否定原版的效度证据，只是它“过时”了；结构不稳的原因是条目不足，而不是认知失误不存在。",
+   "source": "L11 · Original CFQ: age and factor structure · [B0018]",
+   "front": "原版 CFQ 因子结构难以重复，一个可能原因是什么？",
+   "back": "每个潜在因子的条目太少（如情绪调节失败只有一题），因子无法稳定浮现。",
+   "cardBack": "每个潜在因子的条目太少（如情绪调节失败只有一题），因子无法稳定浮现。"
+  },
+  {
+   "id": "L11-C17",
+   "title": "CFQ 2.0 Study 1：EFA 结果",
+   "english": "CFQ 2.0 Study 1: exploratory factor analysis",
+   "oneLine": "Study 1 用 64 个新题加 25 个原题做 EFA，得到一个很强的因子和两个较弱的可能因子。",
+   "analogy": "像一次初步体检：一项指标特别突出，另外两项只是略高于正常线，还需复查。",
+   "simpleExample": "自拟例：“你会忘记需要记住的密码吗？”就属于第一因子“不专注/健忘”。",
+   "explanation": "Factor 1：Inattentiveness/Forgetfulness（15 题），特征值约 25，承担大部分解释。Factor 2：Emotion Regulation and Planning Failures（11 题）。Factor 3：Organisation and Tidiness（5 题，如叠衣服，反向计分）。后两个只是勉强高于机会线，因子间相关约 0.5，所以一因子还是三因子仍不清楚。",
+   "example": "自拟例：研究者看到碎石图第一个因子远高于其他，便决定在新样本中同时检验一因子和三因子模型。",
+   "pitfall": "EFA 的三因子只是“候选”，不是最终结论；最终结构由后续 CFA 决定。",
+   "source": "L11 · CFQ 2.0 Study 1 (EFA) · [B0019]；[B0020]",
+   "front": "CFQ 2.0 Study 1 的 EFA 得到了什么？",
+   "back": "一个强因子（不专注/健忘）和两个较弱的可能因子（情绪调节与计划失误；条理与整洁）。",
+   "cardBack": "一个强因子（不专注/健忘）和两个较弱的可能因子（情绪调节与计划失误；条理与整洁）。"
+  },
+  {
+   "id": "L11-C18",
+   "title": "EFA 与 CFA；CFI 基准",
+   "english": "Exploratory vs confirmatory factor analysis; CFI",
+   "oneLine": "EFA 让数据告诉你结构是什么；CFA 先提出模型，再在新数据中检验拟合，CFI ≥ 0.90 视为可接受。",
+   "analogy": "像先在地图上探索可能的路线（EFA），再实地开一遍验证哪条能走（CFA）。",
+   "simpleExample": "自拟例：研究者先用 EFA 找到候选结构，再在第二批被试中用 CFA 比较一因子和三因子模型。",
+   "explanation": "Exploratory factor analysis 基于大量条目和大量被试的回答“探索”潜在结构；Confirmatory factor analysis 是检验模型的下一步，告诉统计“我认为是这个模型”，看新数据拟合得如何。老师说量表开发两者都应使用，CFQ 2.0 也两者都用了。CFI 达到 0.90 或以上是常用的可接受基准。",
+   "example": "自拟例：某模型 CFI = 0.83，低于 0.90，说明拟合不够好。",
+   "pitfall": "CFQ 2.0 不是“只做了 EFA”或“只做了 CFA”，而是两者都做；CFI 越高拟合越好，0.83 不达标。",
+   "source": "L11 · CFQ 2.0 Study 2 (CFA) · [B0020]；[B0021]",
+   "front": "EFA 与 CFA 的区别是什么？",
+   "back": "EFA 由数据探索结构；CFA 先指定模型，再用新数据检验拟合（如 CFI ≥ 0.90）。",
+   "cardBack": "EFA 由数据探索结构；CFA 先指定模型，再用新数据检验拟合（如 CFI ≥ 0.90）。"
+  },
+  {
+   "id": "L11-C19",
+   "title": "CFQ 2.0 的最终结构：一个因子",
+   "english": "CFQ 2.0 final form: one factor",
+   "oneLine": "Study 2 和 Study 3 的 CFA 都显示一因子模型拟合最好，优于三因子模型和原版 CFQ。",
+   "analogy": "像两次独立复查都只确认一个主要问题，那就按一个问题来处理。",
+   "simpleExample": "自拟例：一因子 CFI 超过 0.90，三因子不够，原版约 0.83。",
+   "explanation": "Study 2 在新样本中比较 CFQ 2.0 一因子、三因子和原版 CFQ：一因子通过 0.90 基准，三因子拟合不够，原版约 0.83 更差。Study 3 在另一新样本中得到完全相同的结论，所以 CFQ 2.0 最终保留单因子结构。",
+   "example": "自拟例：如果有人说“CFQ 2.0 最终有三个分量表”，这是错误的。",
+   "pitfall": "Study 1 的 EFA 出现过三个候选因子，但最终形式是一因子，不是两因子或三因子。",
+   "source": "L11 · CFQ 2.0 Studies 2–3 · [B0021]；[B0022]；[B0024]",
+   "front": "CFQ 2.0 最终是几因子结构？",
+   "back": "一因子（single factor），在两次 CFA 中都优于三因子模型和原版。",
+   "cardBack": "一因子（single factor），在两次 CFA 中都优于三因子模型和原版。"
+  },
+  {
+   "id": "L11-C20",
+   "title": "增量效度：比原版预测得更好",
+   "english": "Incremental validity",
+   "oneLine": "增量效度指新量表比已有量表更能预测关心的结果；CFQ 2.0 比原版更好地预测客观注意控制表现。",
+   "analogy": "像新款导航必须比旧款更准，大家才有理由换。",
+   "simpleExample": "自拟例：同一批人做注意控制任务，CFQ 2.0 分数比原版 CFQ 分数解释了更多表现差异。",
+   "explanation": "开发新问卷不能只说“我觉得更好”，必须证明它对重要结果的预测力超过现有工具。Study 3 发现 CFQ 2.0 分数比原版 CFQ 更好地预测个人在客观注意控制任务上的表现，即解释了更多方差。",
+   "example": "自拟例：若新量表与原版预测力一样，研究者就缺乏理由改用新版。",
+   "pitfall": "CFQ 2.0 不是“解释同样多方差”，而是更多；增量效度比较的是新旧工具，不是重测稳定性。",
+   "source": "L11 · CFQ 2.0 Study 3: incremental validity · [B0022]",
+   "front": "什么是增量效度？CFQ 2.0 如何体现？",
+   "back": "新量表比现有量表更能预测结果；CFQ 2.0 比原版更好地预测客观注意控制表现。",
+   "cardBack": "新量表比现有量表更能预测结果；CFQ 2.0 比原版更好地预测客观注意控制表现。"
+  },
+  {
+   "id": "L11-C21",
+   "title": "CFQ 2.0：与相关构念的关系和重测信度",
+   "english": "Construct relations and test–retest reliability",
+   "oneLine": "Study 4 显示 CFQ 2.0 与相关变量的关系和原版一致；Study 5 显示一周重测相关 r = .88。",
+   "analogy": "像新秤称同一批东西，结果模式与老秤一致，而且隔一周再称几乎一样。",
+   "simpleExample": "自拟例：CFQ 2.0 高者自评专注、切换能力较低，负性情感较高。",
+   "explanation": "Study 4：CFQ 2.0 分数与自评 focusing 和 shifting 降低、cognitive empathy 降低、affective empathy 升高、negative affect 升高相关，与原版 CFQ 的模式一致。Study 5：间隔 1 周两次施测，个人分数相关 .88，稳定性好。",
+   "example": "自拟例：同一位同学这周和下周填 CFQ 2.0，分数排名基本一致。",
+   "pitfall": "重测信度回答“分数稳不稳定”，不是“是否比原版更能预测”；.88 是一周间隔，不是一年。",
+   "source": "L11 · CFQ 2.0 Studies 4–5 · [B0023]",
+   "front": "CFQ 2.0 的重测信度是多少、间隔多久？",
+   "back": "r = .88，间隔 1 周。",
+   "cardBack": "r = .88，间隔 1 周。"
+  },
+  {
+   "id": "L11-C22",
+   "title": "主观问卷的局限：补偿、机会与诚实",
+   "english": "Limitations of self-report CFQ",
+   "oneLine": "CFQ 等主观问卷会受补偿策略、发生失误的机会不同以及不诚实作答影响，形成误差方差。",
+   "analogy": "像用“忘带钥匙次数”评记性：装了密码锁的人永远不会忘带钥匙。",
+   "simpleExample": "自拟例：用 Google Calendar 的人从不忘约会，CFQ 分数低未必代表注意力好。",
+   "explanation": "问具体失误的优点是人们更容易报告。局限包括：compensatory strategies（日历、密码管理器）掩盖失误；differential opportunity（半年没开车就不会错过路标）；工作场所筛查时人们可能不诚实，可用 SART 等较不受社会赞许偏差影响的行为测验补充。匿名、去标识化研究中人们通常相当坦诚。",
+   "example": "自拟例：公司用 CFQ 筛查高风险员工时，员工可能故意少报失误。",
+   "pitfall": "这些局限是误差来源，不等于问卷无效；CFQ 仍与客观表现相关。",
+   "source": "L11 · Limitations of subjective measures (Q&A) · [B0025]",
+   "front": "CFQ 分数可能低估某人失误的两个原因是什么？",
+   "back": "使用补偿策略（如日历、密码管理器），或缺少发生失误的机会（如半年没开车）。",
+   "cardBack": "使用补偿策略（如日历、密码管理器），或缺少发生失误的机会（如半年没开车）。"
+  },
+  {
+   "id": "L11-C23",
+   "title": "为何 EF 多成分而 CFQ 2.0 单因子",
+   "english": "EF diversity vs CFQ single factor",
+   "oneLine": "三种 EF 本就彼此相关，而日常失误往往同时涉及多种 EF，因此日常失误问卷呈单因子。",
+   "analogy": "像一锅汤：实验室能分别尝出盐和糖，但日常吃的一口汤里两者早已混在一起。",
+   "simpleExample": "自拟例：忘记约会可能同时有抑制失败（被别的事吸引）和切换失败（没从手头任务切出来）。",
+   "explanation": "这是老师的思考题。EF 有 unity，三种成分相关、不能完全分开；而且实验室任务刻意把某一种 EF 分离出来，日常生活中的具体失误则混合了多种成分，所以 CFQ 的失误条目更容易聚成一个因子。",
+   "example": "自拟例：开车错过出口既可能是更新路线信息失败，也可能是被手机分心时抑制失败。",
+   "pitfall": "这不矛盾：单因子不说明 EF 只有一种，而是日常失误把多种 EF 失败混在一起。",
+   "source": "L11 · Thought question: unity vs single factor · [B0038]；[B0004]",
+   "front": "为什么 EF 有三种成分，CFQ 2.0 却只有一个因子？",
+   "back": "EF 成分本就相关，且日常失误往往同时涉及多种 EF，只有实验室任务才把它们分开。",
+   "cardBack": "EF 成分本就相关，且日常失误往往同时涉及多种 EF，只有实验室任务才把它们分开。"
+  },
+  {
+   "id": "L11-C24",
+   "title": "驾驶事故风险的个体差异及其意义",
+   "english": "Individual differences in crash risk",
+   "oneLine": "事故风险并非人人相等；找出预测因素可识别高风险者并确定该训练哪些过程。",
+   "analogy": "像体检找出高风险人群，并知道该针对哪个指标去干预。",
+   "simpleExample": "自拟例：若发现危险感知能预测事故，就可以开发危险感知训练。",
+   "explanation": "开车让人参与社交和重要生活活动，有益健康（老人停止开车常伴随健康下降）；但事故带来很大个人和经济负担。每个人都有风险，但风险大小差异可靠。识别心理预测因子有两个用处：找出谁需要干预，以及找出该针对的过程。",
+   "example": "自拟例：老年司机是否停驾，需要权衡开车带来的社会参与和事故风险。",
+   "pitfall": "“人人都有风险”不等于“人人风险相同”。",
+   "source": "L11 · Individual differences in crash risk · [B0027]",
+   "front": "研究事故风险的心理预测因子有哪两个用处？",
+   "back": "识别谁处于高风险需要干预；找到可作为训练/干预目标的过程。",
+   "cardBack": "识别谁处于高风险需要干预；找到可作为训练/干预目标的过程。"
+  },
+  {
+   "id": "L11-C25",
+   "title": "一般预测因子：里程、经验与年龄",
+   "english": "General predictors: km driven, experience, age",
+   "oneLine": "开得越多风险越高（暴露），经验是保护因素；年轻无经验者风险最高，约 60 岁后部分人风险加速上升。",
+   "analogy": "像下雨天在外面越久越可能淋湿，但带伞的经验能减少淋湿。",
+   "simpleExample": "自拟例：刚拿驾照的 18 岁司机处于风险高峰。",
+   "explanation": "KMs driven：其他条件相同，里程越多越会遇到不安全的其他司机，风险越高。Experience 是保护因素，拿证后头几年是风险高峰。年轻与缺乏经验常同时出现、难以分离。约 60 岁后群体风险上升，但主要由部分人风险加速上升驱动，并非人人同等。",
+   "example": "自拟例：两位 70 岁司机，一位风险几乎不变，另一位明显升高。",
+   "pitfall": "里程增加风险和经验降低风险并不矛盾；老年人风险上升不是整个群体同等上升。",
+   "source": "L11 · General predictors of crash risk · [B0028]",
+   "front": "为什么新司机的事故风险特别高？",
+   "back": "缺乏经验（拿证后头几年是高峰），且年轻和无经验通常同时出现。",
+   "cardBack": "缺乏经验（拿证后头几年是高峰），且年轻和无经验通常同时出现。"
+  },
+  {
+   "id": "L11-C26",
+   "title": "Driving Skill：操控 vs 危险感知",
+   "english": "Driving skill: vehicle control vs hazard perception",
+   "oneLine": "车辆操控技能一旦掌握就不再预测事故风险；危险感知能力则强烈预测事故风险。",
+   "analogy": "像打字：会打字后手速差别不大，真正决定文章质量的是你想得清不清楚。",
+   "simpleExample": "自拟例：能熟练换挡的司机，未必能提前发现路边可能冲出的小孩。",
+   "explanation": "Driving skill 包括 vehicle control 和 hazard perception。操控技能在最初几小时学习很关键，自动化后不再预测事故风险，尽管很多驾驶培训仍集中于此。Hazard perception 是“读懂交通”、有情境意识、预判其他道路使用者行为的认知能力，对事故风险预测力很强。",
+   "example": "自拟例：危险感知测验中，越快发现需要刹车的情境的司机，现实中事故越少、急刹也越少。",
+   "pitfall": "Vehicle control 属于 skill 而不是 style；它并非完全不重要，只是掌握后不再预测风险。",
+   "source": "L11 · Driving skill · [B0029]；[B0030]",
+   "front": "Driving skill 中哪一部分能强烈预测事故风险？",
+   "back": "Hazard perception（危险感知）；车辆操控掌握后就不再预测。",
+   "cardBack": "Hazard perception（危险感知）；车辆操控掌握后就不再预测。"
+  },
+  {
+   "id": "L11-C27",
+   "title": "培训效果：危险感知训练 vs 过度自信",
+   "english": "Hazard perception training; overconfidence",
+   "oneLine": "危险感知训练是少数能降低事故风险的训练；许多操控类培训反而因增加过度自信而无效甚至有害。",
+   "analogy": "像学了几招防身术就以为能走夜路，信心涨了，风险也涨了。",
+   "simpleExample": "自拟例：欧洲的冰面防滑训练后，受训者事故风险略高于对照组。",
+   "explanation": "检验培训要看受训者未来 5–10 年是否少出事故。Skid training 让人更愿意在恶劣天气开车，事故风险略升。Hazard perception training 常让司机变谦虚：新手听到老司机说出边开边注意的一切，就会意识到自己做得不够，从而更好地校准自我评估、更主动思考危险。",
+   "example": "自拟例：新手看完老司机的“边开边解说”视频后，开车时开始主动扫视路口。",
+   "pitfall": "并非所有驾驶培训都有用；信心增加不等于更安全，过度自信本身是风险因素。",
+   "source": "L11 · Driver training and overconfidence · [B0030]；[B0031]",
+   "front": "为什么欧洲的 skid training 没有降低事故风险？",
+   "back": "它增加了信心，受训者更愿意在恶劣天气开车，事故风险反而略升。",
+   "cardBack": "它增加了信心，受训者更愿意在恶劣天气开车，事故风险反而略升。"
+  },
+  {
+   "id": "L11-C28",
+   "title": "Driving Style：车速、跟车距离、间隙接受",
+   "english": "Driving style: speed, following distance, gap acceptance",
+   "oneLine": "车速越快、跟车越近、汇入时接受的间隙越小，事故风险越高；这些是司机自己的风格选择。",
+   "analogy": "像过马路：走得越急、离车越近、空隙越小就冲，越容易出事。",
+   "simpleExample": "自拟例：60 km/h 时每秒约行驶 16 米，而复杂决定常需 1 秒以上。",
+   "explanation": "Driving style 包括 speed choice、following distance（跟车太近即 tailgating）和 gap acceptance。反应需要时间，所以跟车太近风险大；更“随意”接受小间隙的司机比等更大间隙的司机风险更高。改善驾驶风格是今天就能做到的降险方法。",
+   "example": "自拟例：一位司机总是紧贴前车，并在车流中钻很小的空隙，属于高风险驾驶风格。",
+   "pitfall": "Vehicle control 不属于 driving style；车速和跟车距离都属于 style。",
+   "source": "L11 · Driving style · [B0029]；[B0032]",
+   "front": "Driving style 包括哪些与事故风险相关的选择？",
+   "back": "车速选择、跟车距离、间隙接受，以及分心、疲劳/精神状态。",
+   "cardBack": "车速选择、跟车距离、间隙接受，以及分心、疲劳/精神状态。"
+  },
+  {
+   "id": "L11-C29",
+   "title": "Driving Style：分心、疲劳与精神状态",
+   "english": "Distraction, fatigue and mental state",
+   "oneLine": "分心是严重事故的常见前因；生气、疲倦、抑郁或经历离婚等重大事件时开车，风险也会升高。",
+   "analogy": "像带着满脑子心事走钢丝，注意力不在脚下。",
+   "simpleExample": "自拟例：刚和伴侣大吵一架就开车，会更容易走神。",
+   "explanation": "澳大利亚数据显示大多数严重事故之前发生过分心事件。疲劳和精神状态（愤怒、疲倦、抑郁、近期重大生活事件如离婚）都会提高风险，可能机制是反刍和走神，让注意离开驾驶任务。课堂补充：危险感知没有明显性别差异，性别差异更多出现在驾驶风格上。",
+   "example": "自拟例：正在办离婚的司机开车时反复想官司，更容易漏看红灯。",
+   "pitfall": "精神状态影响风险不是因为“技术变差”，而是注意被反刍和走神占用。",
+   "source": "L11 · Distraction and mental state · [B0033]",
+   "front": "为什么正经历离婚的司机事故风险更高？",
+   "back": "精神状态影响：可能因反刍和走神，注意离开驾驶任务。",
+   "cardBack": "精神状态影响：可能因反刍和走神，注意离开驾驶任务。"
+  },
+  {
+   "id": "L11-C30",
+   "title": "认知预测因子随年龄而不同",
+   "english": "Cognitive predictors by driver age",
+   "oneLine": "CFQ 主要预测年轻司机的风险，UFOV 和 EF 任务对老年司机更有预测力。",
+   "analogy": "像不同年龄段的体检重点不同：年轻人看生活习惯，老年人看器官功能。",
+   "simpleExample": "自拟例：预测事故风险前，老师会先问“是年轻司机还是老年司机？”",
+   "explanation": "CFQ 越高事故风险越高，但这主要在年轻司机中成立。UFOV 表现差预示风险高，证据对老年司机最有力。尚在同行评审的研究发现：18–25 岁见习司机的主观认知失误与危险感知强相关，EF 任务关系不大；60–80 岁司机则相反，EF 任务与危险感知密切相关，主观认知失误无关。",
+   "example": "自拟例：给 70 岁司机做 CFQ 不太能预测其危险感知，做执行功能任务更有用。",
+   "pitfall": "不要以为一个预测因子对所有年龄都同样有效；年轻人看 CFQ，老年人看 EF 和 UFOV。",
+   "source": "L11 · Cognitive predictors of crash risk · [B0034]",
+   "front": "年轻和老年司机的危险感知分别与什么关系更密切？",
+   "back": "年轻（18–25）：主观认知失误；老年（60–80）：执行功能任务表现。",
+   "cardBack": "年轻（18–25）：主观认知失误；老年（60–80）：执行功能任务表现。"
+  },
+  {
+   "id": "L11-C31",
+   "title": "UFOV 任务与训练",
+   "english": "Useful Field of View (UFOV)",
+   "oneLine": "UFOV 测快速闪现刺激时完成中央识别和周边定位所需的呈现时间阈限；阈限越低风险越低，训练可降低老年司机 10 年后的事故风险。",
+   "analogy": "像快门速度测试：一眼扫过就能看清中间和四周的人，开车更安全。",
+   "simpleExample": "自拟例：屏幕一闪，被试要说中间是小汽车还是卡车，并指出周边目标在 8 个位置中的哪一个。",
+   "explanation": "刺激短暂呈现后被遮蔽，被试要做两个反应：中央是 car 还是 truck，以及周边目标出现在外圈 8 个位置中的哪里。测的是达到较高准确率所需的呈现时间（threshold）。阈限越低表示加工速度越快、事故风险越低。UFOV 训练就是大量练习这类试次，可让老年司机在训练后 10 年仍更少出事故。",
+   "example": "自拟例：一位老年司机 UFOV 阈限很长，提示加工速度慢、事故风险较高。",
+   "pitfall": "阈限越低越好（不是越高）；UFOV 中的“定位”是任务成分，不是执行功能。",
+   "source": "L11 · Useful Field of View task · [B0034]；[B0035]",
+   "front": "UFOV 阈限低意味着什么？",
+   "back": "只需很短呈现就能准确完成任务，加工速度快，事故风险较低。",
+   "cardBack": "只需很短呈现就能准确完成任务，加工速度快，事故风险较低。"
+  },
+  {
+   "id": "L11-C32",
+   "title": "认知训练与远迁移",
+   "english": "Cognitive training and far transfer",
+   "oneLine": "训练通常只让人在练过的任务上变好，很少远迁移；UFOV 训练能降低真实事故，是例外。",
+   "analogy": "像背熟一套题库能考好那张卷子，却不一定会做新卷子。",
+   "simpleExample": "自拟例：玩记忆游戏几个月，游戏分数大涨，但工作中的健忘没变。",
+   "explanation": "大量认知训练研究显示，人几乎能把任何具体任务练好，但很难迁移到其他事情（缺乏 far transfer），可能因为学到的是任务特定策略。EF 训练证据混杂：早期结果看似乐观，许多重复失败。UFOV 训练不仅提高 UFOV 表现，还在 10 年后降低事故风险。老师提醒：难以训练提升不等于不会下降，对过度依赖生成式 AI 的长期影响仍需数据。",
+   "example": "自拟例：危险感知训练与 UFOV 训练是否能结合增效，目前还没有研究。",
+   "pitfall": "UFOV 是远迁移的例外，不代表所有认知训练都有效。",
+   "source": "L11 · Cognitive training and far transfer · [B0036]；[B0012]",
+   "front": "为什么说 UFOV 训练在认知训练文献中很特别？",
+   "back": "多数训练缺乏远迁移，而 UFOV 训练能降低真实事故风险，10 年后仍有效。",
+   "cardBack": "多数训练缺乏远迁移，而 UFOV 训练能降低真实事故风险，10 年后仍有效。"
+  },
+  {
+   "id": "L11-C33",
+   "title": "测量事故风险：前瞻 vs 回溯",
+   "english": "Measuring crash risk: prospective vs retrospective",
+   "oneLine": "前瞻研究先测量再追踪未来事故，是首选；回溯研究问过去事故，较易但有记忆偏差并漏掉致死事故。",
+   "analogy": "像研究饮食与健康：跟踪未来几年比让人回忆过去吃了什么更可靠。",
+   "simpleExample": "自拟例：让 1000 名司机现在做测验，再追踪他们未来 5 年的事故。",
+   "explanation": "Prospective 设计能直接记录未来事故（包括致命事故）。Retrospective 设计问过去 5 年有几次事故，人们容易忘记小事故，而最严重事故的当事人可能已不在样本中。平均每位司机约 10 年才出一次事故，所以需要大样本和长追踪；有时会用危险感知分数作代理指标。",
+   "example": "自拟例：回溯问卷里，一位司机忘了三年前的一次小剐蹭，导致事故数被低估。",
+   "pitfall": "回溯设计不是“更好因为更快”；用代理指标时预测的是代理指标，不是事故本身。",
+   "source": "L11 · Measuring crash risk (Q&A) · [B0037]",
+   "front": "回溯式测量事故风险有哪两个问题？",
+   "back": "记忆偏差（忘记小事故）；最严重的致死事故当事人不在样本中。",
+   "cardBack": "记忆偏差（忘记小事故）；最严重的致死事故当事人不在样本中。"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L11-Q01",
+   "conceptId": "L11-C01",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "基础",
+   "stem": "执行功能被称为 domain-general（领域通用），最准确的意思是？",
+   "stemEn": "Executive functions are described as domain-general. This means they:",
+   "options": [
+    "只在实验室任务中才会出现",
+    "只在社交互动中起作用",
+    "在学习、社交、情绪调节等几乎所有情境中都起作用",
+    "由大脑中一个只负责它的固定小区域完成"
+   ],
+   "optionsEn": [
+    "Appear only in laboratory tasks",
+    "Operate only during social interaction",
+    "Operate across virtually all contexts, from studying to social interaction to emotion regulation",
+    "Are carried out by one small brain region dedicated solely to them"
+   ],
+   "answer": 2,
+   "explanation": "领域通用指这些控制过程跨情境起作用，不局限于某一类任务。课件说 EF 通常与额叶相关，但老师也强调大脑是分布式网络。",
+   "optionExplanations": [
+    "EF 在日常生活中处处起作用，不只在实验室。",
+    "只在社交中起作用描述的是 domain-specific 机制。",
+    "跨情境通用正是 domain-general 的含义。",
+    "EF 通常与额叶相关，但不能说由一个专属小区域独立完成。"
+   ],
+   "source": "L11 · Executive functions: definition · [B0002]；[B0011]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q02",
+   "conceptId": "L11-C02",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "关于执行功能与个体其他特点的关系，哪项最符合本讲？",
+   "stemEn": "Which statement about executive function (EF) best matches this lecture?",
+   "options": [
+    "EF 是领域通用的，因此与情绪调节无关",
+    "较差的 EF 与冲动性甚至反社会性相关",
+    "次级精神病态特质与 EF 呈正相关",
+    "EF 越好，冲动性越高"
+   ],
+   "optionsEn": [
+    "Because EF is domain-general, it is unrelated to emotion regulation",
+    "Poor EF is associated with impulsivity and even antisociality",
+    "Secondary psychopathic traits are positively correlated with EF",
+    "Better EF is associated with higher impulsivity"
+   ],
+   "answer": 1,
+   "explanation": "课件指出 EF 差与冲动性和反社会性相关，次级精神病态特质与 EF 负相关；EF 也参与情绪调节和换位思考。",
+   "optionExplanations": [
+    "领域通用恰恰意味着它也参与情绪调节等具体领域。",
+    "与课件一致：EF 差 → 更冲动、更反社会。",
+    "方向错了：次级精神病态特质与 EF 负相关。",
+    "方向错了：EF 好与冲动性低相关。"
+   ],
+   "source": "L11 · Executive functions and domain-specific processes · [B0009]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q03",
+   "conceptId": "L11-C03",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "应用",
+   "stem": "研究者在去除一切干扰的安静房间里测执行功能。按老师的说法，这种测法的主要局限是？",
+   "stemEn": "Researchers test executive function in a quiet room with all distractions removed. According to the lecturer, the main limitation is that this:",
+   "options": [
+    "会让所有人都出现更大的切换代价",
+    "无法测出任何个体差异",
+    "只能测到晶体智力",
+    "主要反映最大能力，未必反映有干扰、有情绪或多任务时的表现"
+   ],
+   "optionsEn": [
+    "Makes everyone show a larger switch cost",
+    "Cannot detect any individual differences",
+    "Can only measure crystallised intelligence",
+    "Mainly reflects maximum ability, not necessarily performance under distraction, emotion or multitasking"
+   ],
+   "answer": 3,
+   "explanation": "去除干扰的测试接近最大能力；现实生活与安全攸关任务更依赖在干扰下维持表现的能力，这是新兴研究方向。",
+   "optionExplanations": [
+    "安静条件不会普遍增大切换代价，题干与此无关。",
+    "安静条件下仍能测到个体差异，只是测的是最大能力。",
+    "EF 任务测的是在线控制过程，不是晶体智力。",
+    "这正是老师指出的局限。"
+   ],
+   "source": "L11 · Individual differences in EF; Q&A on testing · [B0003]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q04",
+   "conceptId": "L11-C04",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "辨析",
+   "stem": "关于执行功能的 unity and diversity 模型，哪项说法正确？",
+   "stemEn": "Which statement about the unity and diversity model of executive functions is correct?",
+   "options": [
+    "所有 EF 任务都有一定相关，但有些子成分之间相关更高",
+    "EF 是完全单一的一种能力，没有可区分的成分",
+    "各种 EF 彼此完全独立、毫无相关",
+    "Unity 指三种 EF 必须用同一个任务测量"
+   ],
+   "optionsEn": [
+    "All EF tasks are correlated to some extent, but some subsets correlate more highly with one another",
+    "EF is a single ability with no distinguishable components",
+    "The various EFs are completely independent and uncorrelated",
+    "Unity means all three EFs must be measured with the same task"
+   ],
+   "answer": 0,
+   "explanation": "Unity 指所有 EF 任务都相关；diversity 指存在内部相关更高的子成分。答案是“两者都有”。",
+   "optionExplanations": [
+    "同时说明了统一性和多样性。",
+    "只讲 unity，忽略了 diversity。",
+    "只讲 diversity，忽略了 unity。",
+    "Unity 指任务间相关，不是指用同一个任务测量。"
+   ],
+   "source": "L11 · Unity and diversity model · [B0004]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q05",
+   "conceptId": "L11-C04",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "应用",
+   "stem": "某研究发现：两项任务切换测验的分数相关 r = .60，而它们各自与 n-back 的相关约 r = .30。这一模式最支持什么？",
+   "stemEn": "A study finds two task-switching measures correlate at r = .60, while each correlates about r = .30 with an n-back task. This pattern best supports:",
+   "options": [
+    "切换与更新完全无关",
+    "EF 只有统一性，没有多样性",
+    "EF 既有统一性（都正相关）也有多样性（同类任务相关更高）",
+    "n-back 测的是抑制而不是更新"
+   ],
+   "optionsEn": [
+    "Shifting and updating are completely unrelated",
+    "EF shows unity only, with no diversity",
+    "EF shows both unity (all positively correlated) and diversity (similar tasks correlate more highly)",
+    "The n-back measures inhibition rather than updating"
+   ],
+   "answer": 2,
+   "explanation": "所有任务都正相关体现 unity；同类切换任务相关更高体现 diversity。",
+   "optionExplanations": [
+    "r = .30 仍是正相关，并非完全无关。",
+    "同类任务相关明显更高，说明存在多样性。",
+    "正相关普遍存在 + 同类更高，正是两者兼有。",
+    "n-back 是 updating 的代表任务。"
+   ],
+   "source": "L11 · Unity and diversity model · [B0004]；[B0006]；[B0007]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q06",
+   "conceptId": "L11-C05",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "辨析",
+   "stem": "下列哪一项属于 unity and diversity 模型强调的执行功能？",
+   "stemEn": "Which of the following is one of the executive functions emphasised by the unity and diversity model?",
+   "options": [
+    "Localising（定位）",
+    "Impulsivity（冲动性）",
+    "Attentional breadth（注意广度）",
+    "Updating（更新工作记忆）"
+   ],
+   "optionsEn": [
+    "Localising",
+    "Impulsivity",
+    "Attentional breadth",
+    "Updating"
+   ],
+   "answer": 3,
+   "explanation": "模型强调 shifting、updating 和 inhibition。其他三项都不是本讲列出的执行功能。",
+   "optionExplanations": [
+    "定位是 UFOV 任务的成分，课件自测明确说它不是 EF。",
+    "冲动性与 EF 差相关，但本身不是执行功能。",
+    "注意广度不在本讲的 EF 清单中。",
+    "Updating 是三种核心 EF 之一。"
+   ],
+   "source": "L11 · Three executive functions · [B0005]；[B0038]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q07",
+   "conceptId": "L11-C06",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "基础",
+   "stem": "实验中，被试有时判断数字是奇数还是偶数，有时判断数字比 5 大还是小。这个任务主要测哪种执行功能？",
+   "stemEn": "Participants sometimes judge whether a digit is odd or even, and sometimes whether it is greater or less than 5. This task mainly measures:",
+   "options": [
+    "Shifting",
+    "Updating",
+    "Inhibition",
+    "Crystallised intelligence"
+   ],
+   "optionsEn": [
+    "Shifting",
+    "Updating",
+    "Inhibition",
+    "Crystallised intelligence"
+   ],
+   "answer": 0,
+   "explanation": "这是 task-switching 任务，要求在两套分类规则（心理定势）之间切换。",
+   "optionExplanations": [
+    "在任务规则间切换正是 shifting。",
+    "Updating 的代表任务是 n-back。",
+    "Inhibition 的代表任务是 Stroop。",
+    "晶体智力是积累的知识和技能，不是执行功能任务。"
+   ],
+   "source": "L11 · Shifting · [B0006]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q08",
+   "conceptId": "L11-C07",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "基础",
+   "stem": "实验者每秒读一个字母，要求你在当前字母与三个之前的字母相同时按键。这个任务主要涉及？",
+   "stemEn": "An experimenter reads one letter per second, and you must respond when the current letter matches the one presented three letters earlier. This mainly involves:",
+   "options": [
+    "Shifting：在两种分类规则间切换",
+    "Updating：不断更新和监控工作记忆内容",
+    "Inhibition：抑制读词的自动反应",
+    "Localising：判断目标出现在哪个位置"
+   ],
+   "optionsEn": [
+    "Shifting: switching between two classification rules",
+    "Updating: continually updating and monitoring the contents of working memory",
+    "Inhibition: suppressing the automatic response of reading words",
+    "Localising: judging where a target appeared"
+   ],
+   "answer": 1,
+   "explanation": "这是 3-back 任务，每出现一个新字母，“3 个之前”的目标就变了，必须不断更新工作记忆。",
+   "optionExplanations": [
+    "题中没有切换分类规则。",
+    "n-back 是 updating 的代表任务。",
+    "题中没有需要抑制的优势反应。",
+    "定位是 UFOV 的成分，不是执行功能。"
+   ],
+   "source": "L11 · Updating · [B0007]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q09",
+   "conceptId": "L11-C07",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "辨析",
+   "stem": "为什么老师强调 updating 涉及“工作记忆”，而不只是“记忆”？",
+   "stemEn": "Why does the lecturer stress that updating involves working memory rather than just memory?",
+   "options": [
+    "因为它只在年龄增长后才出现",
+    "因为它只要求把信息保存得越久越好",
+    "因为它和额叶无关",
+    "因为它要求对记住的内容主动操作和更新，而不只是被动存储"
+   ],
+   "optionsEn": [
+    "Because it only emerges in older age",
+    "Because it only requires holding information for as long as possible",
+    "Because it is unrelated to the frontal lobe",
+    "Because it requires actively manipulating and updating stored contents, not just passive storage"
+   ],
+   "answer": 3,
+   "explanation": "课件写明 updating 是 active manipulation rather than just passive storage，例如把一串数字的前三个相加再减去后三个。",
+   "optionExplanations": [
+    "工作记忆不是年老后才出现的。",
+    "只是长期保存是“记忆”，不是 updating。",
+    "EF 通常与额叶相关。",
+    "主动操作是工作记忆的关键。"
+   ],
+   "source": "L11 · Updating · [B0007]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q10",
+   "conceptId": "L11-C08",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "基础",
+   "stem": "屏幕上用蓝色墨水写着“RED”，被试要说出墨水颜色，却差点说成“红”。这反映了哪种执行功能的需求？",
+   "stemEn": "The word “RED” appears in blue ink and the participant must name the ink colour, but almost says “red”. This reflects demand on:",
+   "options": [
+    "Shifting：在两个任务间切换",
+    "Updating：更新工作记忆内容",
+    "Inhibition：抑制自动化的读词反应",
+    "Affective empathy：被他人情绪感染"
+   ],
+   "optionsEn": [
+    "Shifting: switching between two tasks",
+    "Updating: refreshing working-memory contents",
+    "Inhibition: suppressing the prepotent word-reading response",
+    "Affective empathy: catching others’ feelings"
+   ],
+   "answer": 2,
+   "explanation": "Stroop 任务中读词是高度自动化的优势反应，要说出墨水颜色必须抑制它。",
+   "optionExplanations": [
+    "题中只有一种任务，没有切换。",
+    "题中不需要不断更新记忆内容。",
+    "Stroop 是 inhibition 的代表任务。",
+    "情感共情与此任务无关。"
+   ],
+   "source": "L11 · Inhibition · [B0008]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q11",
+   "conceptId": "L11-C08",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "应用",
+   "stem": "你在图书馆复习，旁边的朋友在大声聊天，你努力不去听、专注在书上。这时最直接使用的执行功能是？",
+   "stemEn": "You are studying while a friend chats loudly nearby, and you try hard to ignore the conversation and focus on your book. The executive function most directly used is:",
+   "options": [
+    "Inhibition",
+    "Updating",
+    "Shifting",
+    "Crystallised intelligence"
+   ],
+   "optionsEn": [
+    "Inhibition",
+    "Updating",
+    "Shifting",
+    "Crystallised intelligence"
+   ],
+   "answer": 0,
+   "explanation": "老师的思考题答案：忽略显著的干扰（朋友的谈话）、专注另一个任务，用的是 inhibition。",
+   "optionExplanations": [
+    "压住对显著干扰的反应，是抑制。",
+    "Updating 对应的是监控朋友是否重复 30 秒前的话。",
+    "Shifting 对应的是在聊天和学习之间来回切换注意。",
+    "晶体智力不是执行功能。"
+   ],
+   "source": "L11 · Inhibition · [B0008]；[B0038]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q12",
+   "conceptId": "L11-C09",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "应用",
+   "stem": "一位同学说自己“很会多任务”，边回消息边写报告。根据本讲，最合理的解释是？",
+   "stemEn": "A student claims to be great at multitasking, replying to messages while writing a report. Based on this lecture, the best interpretation is:",
+   "options": [
+    "自称会多任务的人就不存在切换代价",
+    "多任务时两项任务会同时并行完成、没有任何代价",
+    "多任务只依赖晶体智力",
+    "他其实在快速切换任务，每次切换都有代价，两项任务通常都会变差"
+   ],
+   "optionsEn": [
+    "People who say they can multitask have no switch cost",
+    "Both tasks are completed in parallel at no cost",
+    "Multitasking relies only on crystallised intelligence",
+    "They are really switching rapidly between tasks, paying a switch cost each time, so both tasks usually suffer"
+   ],
+   "answer": 3,
+   "explanation": "老师认为多任务大多是快速切换，数据表明同时做多件事时每一项都比单独做差，除非任务高度自动化。",
+   "optionExplanations": [
+    "自我评价不能消除普遍存在的切换代价。",
+    "复杂任务通常不能真正并行。",
+    "多任务主要涉及 shifting，不是晶体智力。",
+    "符合老师对多任务的解释。"
+   ],
+   "source": "L11 · Multitasking (Q&A) · [B0010]；[B0006]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q13",
+   "conceptId": "L11-C10",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "关于衰老与认知，哪项最符合老师的回答？",
+   "stemEn": "Which statement about ageing and cognition best matches the lecturer’s answer?",
+   "options": [
+    "所有老年人的执行功能都以同样速度下降",
+    "流体智力更易下降，晶体智力相对保持甚至提高，且下降速度因人而异",
+    "晶体智力是衰老时最先下降的部分",
+    "老年人在任何任务上都不可能胜过年轻人"
+   ],
+   "optionsEn": [
+    "All older adults’ executive functions decline at the same rate",
+    "Fluid intelligence is more susceptible, crystallised intelligence is relatively intact or can improve, and the rate of decline varies",
+    "Crystallised intelligence is the first to decline with age",
+    "Older adults can never outperform younger adults on any task"
+   ],
+   "answer": 1,
+   "explanation": "老师说衰老时流体智力更易受影响，晶体智力相对保持，且个体差异很大，许多老人用补偿策略甚至表现更好。",
+   "optionExplanations": [
+    "老师强调没有统一的下降速度。",
+    "与老师回答一致。",
+    "方向反了：流体智力更易下降。",
+    "老年人有时因更谨慎、更有动机而表现更好。"
+   ],
+   "source": "L11 · Ageing (Q&A) · [B0011]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q14",
+   "conceptId": "L11-C11",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "基础",
+   "stem": "关于日常认知失误，哪项最符合本讲？",
+   "stemEn": "Which statement about everyday cognitive failures best matches this lecture?",
+   "options": [
+    "人人都会有认知失误，但发生频率存在有意义的个体差异",
+    "只有少数人会出现认知失误",
+    "认知失误的后果总是很轻微",
+    "认知失误只能通过脑成像测量"
+   ],
+   "optionsEn": [
+    "Everyone experiences them, but there are meaningful individual differences in their frequency",
+    "Only a few people experience cognitive failures",
+    "The consequences of cognitive failures are always trivial",
+    "Cognitive failures can only be measured with brain imaging"
+   ],
+   "answer": 0,
+   "explanation": "To err is human：人人都会出错，但频率因人而异；后果可以轻微，也可以严重（如路口没看到另一辆车）。",
+   "optionExplanations": [
+    "这是本讲的核心观点。",
+    "认知失误是普遍的。",
+    "也可能有严重后果，如交通事故。",
+    "最常用的测量是 CFQ 这种自评问卷。"
+   ],
+   "source": "L11 · Cognitive failures · [B0013]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q15",
+   "conceptId": "L11-C12",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "基础",
+   "stem": "原版 Cognitive Failures Questionnaire（CFQ）的基本形式是？",
+   "stemEn": "What is the basic format of the original Cognitive Failures Questionnaire (CFQ)?",
+   "options": [
+    "100 个条目，报告一生中最严重的一次失误",
+    "25 个条目，报告过去 6 个月各类认知失误的频率",
+    "10 个条目，让别人评价你的智力",
+    "一个在屏幕上按数字的反应时任务"
+   ],
+   "optionsEn": [
+    "100 items describing the single worst failure of one’s life",
+    "25 items rating how often cognitive failures occurred in the previous six months",
+    "10 items in which others rate your intelligence",
+    "A reaction-time task in which you respond to digits on a screen"
+   ],
+   "answer": 1,
+   "explanation": "CFQ 是 25 题自评问卷，用频率量表评定过去 6 个月的认知失误。",
+   "optionExplanations": [
+    "题数和时间范围都不对。",
+    "与课件一致。",
+    "CFQ 是自评认知失误，不是他评智力。",
+    "这描述的是 SART，不是 CFQ。"
+   ],
+   "source": "L11 · Cognitive Failures Questionnaire · [B0014]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q16",
+   "conceptId": "L11-C13",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "在 Sustained Attention to Response Task（SART）中，与 CFQ 分数相关的关键错误是？",
+   "stemEn": "In the Sustained Attention to Response Task (SART), the key error that correlates with CFQ scores is:",
+   "options": [
+    "把小汽车误认成卡车",
+    "所有数字都没按",
+    "出现数字 3 时仍然按了空格键（commission error）",
+    "说出了词义而不是墨水颜色"
+   ],
+   "optionsEn": [
+    "Mistaking a car for a truck",
+    "Failing to respond to every digit",
+    "Pressing the space bar when the digit 3 appears (a commission error)",
+    "Reading the word instead of naming the ink colour"
+   ],
+   "answer": 2,
+   "explanation": "SART 要求每个数字都按，唯独 3 不按；在 3 上误按是 commission error（false alarm），越多说明持续注意越差，CFQ 与之相关。",
+   "optionExplanations": [
+    "这是 UFOV 的中央识别任务。",
+    "SART 关注的是不该按时按了，而非全部漏按。",
+    "SART 测的就是这种误按。",
+    "这是 Stroop 任务的错误。"
+   ],
+   "source": "L11 · CFQ and objective indices · [B0015]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q17",
+   "conceptId": "L11-C14",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "关于 CFQ 分数与其他变量的相关方向，哪一项是错误的？",
+   "stemEn": "Which statement about the direction of CFQ correlations is INCORRECT?",
+   "options": [
+    "CFQ 与生活满意度正相关",
+    "CFQ 与特质焦虑正相关",
+    "CFQ 与拖延正相关",
+    "CFQ 与成功老化负相关"
+   ],
+   "optionsEn": [
+    "CFQ is positively correlated with life satisfaction",
+    "CFQ is positively correlated with trait anxiety",
+    "CFQ is positively correlated with procrastination",
+    "CFQ is negatively correlated with successful ageing"
+   ],
+   "answer": 0,
+   "explanation": "CFQ 与生活满意度是负相关；与特质焦虑、拖延正相关，与成功老化负相关都正确。",
+   "optionExplanations": [
+    "错误：应是负相关，所以这是答案。",
+    "正确：认知失误多者特质焦虑更高。",
+    "正确：认知失误多者拖延更多。",
+    "正确：认知失误多者对老得好的主观评价更低。"
+   ],
+   "source": "L11 · CFQ and wellbeing · [B0016]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q18",
+   "conceptId": "L11-C14",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "应用",
+   "stem": "小王的 CFQ 分数很高。根据已有相关研究，他更可能同时报告什么？",
+   "stemEn": "Wang has a very high CFQ score. Based on the correlational findings, he is more likely to also report:",
+   "options": [
+    "更少冲动、更少压力",
+    "更多抑郁症状和倦怠，以及更低的生活满意度",
+    "更高的认知共情和更多认知重评",
+    "更低的驾驶攻击性"
+   ],
+   "optionsEn": [
+    "Less impulsivity and less stress",
+    "More depressive symptoms and burnout, and lower life satisfaction",
+    "Higher cognitive empathy and more reappraisal",
+    "Lower driving aggression"
+   ],
+   "answer": 1,
+   "explanation": "CFQ 与抑郁、倦怠正相关，与生活满意度负相关。注意这些是相关，不是对个人的确定诊断。",
+   "optionExplanations": [
+    "CFQ 与冲动性和压力都是正相关。",
+    "方向都正确。",
+    "CFQ 与认知共情、重评都是负相关。",
+    "CFQ 与驾驶攻击性是正相关。"
+   ],
+   "source": "L11 · CFQ and wellbeing · [B0016]；[B0017]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q19",
+   "conceptId": "L11-C15",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "辨析",
+   "stem": "CFQ 分数与两种共情的关系是？",
+   "stemEn": "How are CFQ scores related to the two types of empathy?",
+   "options": [
+    "与认知共情正相关，与情感共情负相关",
+    "与认知共情和情感共情都负相关",
+    "与认知共情负相关，与情感共情正相关",
+    "与两种共情都无关"
+   ],
+   "optionsEn": [
+    "Positively with cognitive empathy, negatively with affective empathy",
+    "Negatively with both cognitive and affective empathy",
+    "Negatively with cognitive empathy, positively with affective empathy",
+    "Unrelated to both types of empathy"
+   ],
+   "answer": 2,
+   "explanation": "认知失误多的人较难理解他人想法（认知共情低），却更容易被他人情绪感染（情感共情高）。CFQ 2.0 也重现了这一模式。",
+   "optionExplanations": [
+    "两个方向都反了。",
+    "情感共情是正相关，不是负相关。",
+    "方向完全正确。",
+    "两者都有显著相关。"
+   ],
+   "source": "L11 · CFQ, emotion regulation and empathy · [B0017]；[B0023]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q20",
+   "conceptId": "L11-C15",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "关于 CFQ 与情绪调节，哪项说法正确？",
+   "stemEn": "Which statement about the CFQ and emotion regulation is correct?",
+   "options": [
+    "CFQ 与反刍无关",
+    "CFQ 高者更常使用认知重评",
+    "CFQ 与情绪调节困难负相关",
+    "CFQ 高者反刍更多，日常使用认知重评更少"
+   ],
+   "optionsEn": [
+    "The CFQ is unrelated to rumination",
+    "People high on the CFQ use reappraisal more often",
+    "The CFQ is negatively correlated with emotion-regulation difficulties",
+    "People high on the CFQ ruminate more and use reappraisal less in daily life"
+   ],
+   "answer": 3,
+   "explanation": "CFQ 与反刍、情绪调节困难正相关，与重评（一种适应性策略）负相关。",
+   "optionExplanations": [
+    "反刍是正相关。",
+    "重评是负相关。",
+    "情绪调节困难是正相关。",
+    "方向都正确。"
+   ],
+   "source": "L11 · CFQ, emotion regulation and empathy · [B0017]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q21",
+   "conceptId": "L11-C16",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "基础",
+   "stem": "老师认为原版 CFQ 需要更新的一个原因是？",
+   "stemEn": "One reason the lecturer gives for updating the original CFQ is that:",
+   "options": [
+    "它已有 40 多年，条目过时，且没有与科技相关的失误",
+    "它与任何客观表现都无关",
+    "它的题目太多，有几百题",
+    "它从未被其他研究者使用过"
+   ],
+   "optionsEn": [
+    "It is over 40 years old, has dated items and no technology-related failures",
+    "It is unrelated to any objective performance",
+    "It is too long, with hundreds of items",
+    "No other researchers have ever used it"
+   ],
+   "answer": 0,
+   "explanation": "原版发表于 1982 年，有报纸、信件等过时条目，没有科技相关失误。老师并不否定它的效度证据。",
+   "optionExplanations": [
+    "与课件一致。",
+    "原版 CFQ 有大量客观效度证据。",
+    "原版只有 25 题，题少反而是问题之一。",
+    "原版被引用极多，影响很大。"
+   ],
+   "source": "L11 · Original CFQ: age and factor structure · [B0018]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q22",
+   "conceptId": "L11-C16",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "应用",
+   "stem": "研究者发现，不同样本对原版 CFQ 做因子分析，结果总是不一致。老师给出的一个可能原因是？",
+   "stemEn": "Factor analyses of the original CFQ keep producing inconsistent structures across samples. A possible reason the lecturer gives is:",
+   "options": [
+    "CFQ 采用了 CFA 而非 EFA",
+    "样本都太大",
+    "一些潜在因子只有极少条目，比如情绪调节失败只有一道题",
+    "认知失误根本不存在个体差异"
+   ],
+   "optionsEn": [
+    "The CFQ used CFA instead of EFA",
+    "The samples were all too large",
+    "Some potential factors had very few items, e.g. only one item on emotion-regulation failure",
+    "There are no individual differences in cognitive failures"
+   ],
+   "answer": 2,
+   "explanation": "因子需要足够多条目才能浮现。“你会发脾气然后后悔吗？”是唯一的情绪调节失败条目，所以即使这是真实子维度也难以识别。",
+   "optionExplanations": [
+    "问题出在条目数量，而不是分析方法。",
+    "样本大一般有利于因子分析，不是原因。",
+    "这是老师给出的解释。",
+    "认知失误频率有明显个体差异。"
+   ],
+   "source": "L11 · Original CFQ: age and factor structure · [B0018]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q23",
+   "conceptId": "L11-C17",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "CFQ 2.0 Study 1 的探索性因子分析（EFA）得到了什么结果？",
+   "stemEn": "What did the exploratory factor analysis (EFA) in CFQ 2.0 Study 1 reveal?",
+   "options": [
+    "三个同样强、互不相关的因子",
+    "一个很强的因子，加上两个较弱的可能因子",
+    "完全没有可解释的因子",
+    "两个因子，最终直接被采用"
+   ],
+   "optionsEn": [
+    "Three equally strong, uncorrelated factors",
+    "One strong factor plus two weaker possible factors",
+    "No interpretable factors at all",
+    "Two factors, which were adopted directly"
+   ],
+   "answer": 1,
+   "explanation": "第一因子（不专注/健忘）特征值约 25，承担大部分解释；情绪调节与计划失误、条理与整洁两个因子只是勉强高于机会线，三者相关约 0.5。",
+   "optionExplanations": [
+    "三个因子强弱悬殊，且彼此相关约 0.5。",
+    "与课件和老师描述一致。",
+    "第一因子非常清楚。",
+    "EFA 得到的是一强两弱，最终形式也不是两因子。"
+   ],
+   "source": "L11 · CFQ 2.0 Study 1 (EFA) · [B0020]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q24",
+   "conceptId": "L11-C17",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "应用",
+   "stem": "“你会忘记需要记住的密码吗？”这一 CFQ 2.0 条目属于 Study 1 的哪个因子？",
+   "stemEn": "The CFQ 2.0 item “Do you forget passwords you need to remember?” belongs to which Study 1 factor?",
+   "options": [
+    "Inattentiveness/Forgetfulness（不专注/健忘）",
+    "Emotion Regulation and Planning Failures（情绪调节与计划失误）",
+    "Organisation and Tidiness（条理与整洁）",
+    "Driving Style（驾驶风格）"
+   ],
+   "optionsEn": [
+    "Inattentiveness/Forgetfulness",
+    "Emotion Regulation and Planning Failures",
+    "Organisation and Tidiness",
+    "Driving Style"
+   ],
+   "answer": 0,
+   "explanation": "忘记密码是课件列出的第一因子示例条目，也体现了 CFQ 2.0 加入的当代失误。",
+   "optionExplanations": [
+    "课件示例条目就在这一因子下。",
+    "这一因子的例子是难以做决定、被情绪淹没。",
+    "这一因子的例子是叠衣服（反向计分）。",
+    "驾驶风格不是 CFQ 的因子。"
+   ],
+   "source": "L11 · CFQ 2.0 Study 1 (EFA) · [B0020]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q25",
+   "conceptId": "L11-C18",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "辨析",
+   "stem": "关于探索性因子分析（EFA）与验证性因子分析（CFA），哪项正确？",
+   "stemEn": "Which statement about exploratory (EFA) and confirmatory factor analysis (CFA) is correct?",
+   "options": [
+    "EFA 和 CFA 都只能在同一个样本里做",
+    "CFA 是在不知道任何结构时让数据自己给出结构",
+    "量表开发只需要做 EFA，不必做 CFA",
+    "EFA 由数据探索结构；CFA 先指定模型，再在新数据中检验拟合"
+   ],
+   "optionsEn": [
+    "EFA and CFA must both be run in the same sample",
+    "CFA lets the data suggest a structure when nothing is known",
+    "Scale development needs only EFA, not CFA",
+    "EFA lets the data suggest a structure; CFA specifies a model and tests its fit in new data"
+   ],
+   "answer": 3,
+   "explanation": "老师说 EFA 让统计告诉你结构，CFA 是告诉统计“我认为是这个模型”再看拟合；量表开发两者都应使用，CFQ 2.0 在新样本中做了 CFA。",
+   "optionExplanations": [
+    "CFQ 2.0 在新样本中做 CFA 检验。",
+    "这描述的是 EFA。",
+    "老师明确说两者都应该用。",
+    "与老师的定义一致。"
+   ],
+   "source": "L11 · CFQ 2.0 Study 2 (CFA) · [B0020]；[B0021]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q26",
+   "conceptId": "L11-C19",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "CFQ 2.0 的最终结构是什么？依据是什么？",
+   "stemEn": "What is the final structure of the CFQ 2.0, and on what basis?",
+   "options": [
+    "两因子；因为第二个因子特征值最高",
+    "三因子；因为 Study 1 的 EFA 找到了三个因子",
+    "一因子；在两个新样本的 CFA 中都优于三因子模型和原版",
+    "没有确定结构；因为 CFA 结果在两次研究中相反"
+   ],
+   "optionsEn": [
+    "Two factors, because the second factor had the highest eigenvalue",
+    "Three factors, because the Study 1 EFA found three factors",
+    "One factor; it outperformed the three-factor model and the original in CFAs in two new samples",
+    "No settled structure, because the two CFAs gave opposite results"
+   ],
+   "answer": 2,
+   "explanation": "Study 2 和 Study 3 的 CFA 都显示一因子模型拟合最好（CFI 超过 0.90），三因子不够，原版更差。",
+   "optionExplanations": [
+    "特征值最高的是第一因子，最终也不是两因子。",
+    "EFA 的三因子只是候选，CFA 中未获支持。",
+    "与 Study 2、3 的结果一致。",
+    "两次 CFA 结果完全一致。"
+   ],
+   "source": "L11 · CFQ 2.0 Studies 2–3 · [B0021]；[B0022]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q27",
+   "conceptId": "L11-C20",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "辨析",
+   "stem": "CFQ 2.0 Study 3 用来说明“值得替换原版”的增量效度证据是？",
+   "stemEn": "Which incremental-validity evidence in CFQ 2.0 Study 3 justified replacing the original?",
+   "options": [
+    "CFQ 2.0 比原版更好地预测客观注意控制任务表现",
+    "CFQ 2.0 与原版解释了同样多的方差",
+    "CFQ 2.0 一周后的分数与第一次高度相关",
+    "CFQ 2.0 比原版题目更少"
+   ],
+   "optionsEn": [
+    "CFQ 2.0 predicted objective attentional-control performance better than the original",
+    "CFQ 2.0 explained the same amount of variance as the original",
+    "CFQ 2.0 scores one week later correlated highly with the first scores",
+    "CFQ 2.0 has fewer items than the original"
+   ],
+   "answer": 0,
+   "explanation": "增量效度要求新工具比现有工具更能预测重要结果。CFQ 2.0 解释的客观表现方差多于原版。",
+   "optionExplanations": [
+    "这正是增量效度。",
+    "若只是一样多，就没有增量效度。",
+    "这是 Study 5 的重测信度，不是增量效度。",
+    "题目更少不是增量效度的定义。"
+   ],
+   "source": "L11 · CFQ 2.0 Study 3: incremental validity · [B0022]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q28",
+   "conceptId": "L11-C20",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "关于 CFQ 2.0 的开发，哪一组描述全部正确？",
+   "stemEn": "Which set of statements about the development of the CFQ 2.0 is entirely correct?",
+   "options": [
+    "没有新条目；只做了重测信度；最终为一因子",
+    "加入了当代条目；只用了 EFA；最终为三因子",
+    "删除了所有原版条目；只用了 CFA；最终为两因子",
+    "加入了当代条目（如忘记密码）；同时使用 EFA 和 CFA；最终为一因子"
+   ],
+   "optionsEn": [
+    "No new items; only test–retest reliability was examined; final form has one factor",
+    "Added contemporary items; used EFA only; final form has three factors",
+    "Dropped all original items; used CFA only; final form has two factors",
+    "Added contemporary items (e.g., forgetting passwords); used both EFA and CFA; final form has one factor"
+   ],
+   "answer": 3,
+   "explanation": "Study 1 用 64 个新题加 25 个原题做 EFA，Study 2、3 做 CFA，最终为一因子。",
+   "optionExplanations": [
+    "加入了 64 个新题，也做了多项研究。",
+    "也用了 CFA，且最终不是三因子。",
+    "原版 25 题被纳入分析，也用了 EFA，最终不是两因子。",
+    "三点都正确。"
+   ],
+   "source": "L11 · CFQ 2.0 development summary · [B0019]；[B0020]；[B0021]；[B0024]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q29",
+   "conceptId": "L11-C21",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "应用",
+   "stem": "CFQ 2.0 Study 5 让同一批人间隔一周再做一次问卷，两次分数相关 r = .88。这说明什么？",
+   "stemEn": "In CFQ 2.0 Study 5, the same people completed the questionnaire twice, one week apart, and scores correlated r = .88. This shows:",
+   "options": [
+    "良好的增量效度：比原版更能预测表现",
+    "良好的重测信度：个人分数随时间相当稳定",
+    "CFQ 2.0 是三因子结构",
+    "认知失误与抑郁无关"
+   ],
+   "optionsEn": [
+    "Good incremental validity: it predicts performance better than the original",
+    "Good test–retest reliability: individuals’ scores were quite stable over time",
+    "The CFQ 2.0 has a three-factor structure",
+    "Cognitive failures are unrelated to depression"
+   ],
+   "answer": 1,
+   "explanation": "间隔一周两次施测的相关就是重测信度，.88 说明很稳定。",
+   "optionExplanations": [
+    "增量效度来自 Study 3 与原版的比较。",
+    "这正是重测信度。",
+    "重测相关与因子结构无关，且最终为一因子。",
+    "这与抑郁无关。"
+   ],
+   "source": "L11 · CFQ 2.0 Studies 4–5 · [B0023]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q30",
+   "conceptId": "L11-C22",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "应用",
+   "stem": "小陈每次约会都设置手机日历提醒，所以从不忘记约会，在 CFQ“忘记约会”一题上得分很低。按老师的说法，这反映了什么？",
+   "stemEn": "Chen sets calendar reminders for every appointment and so never forgets one, scoring very low on the CFQ appointment item. According to the lecturer, this reflects:",
+   "options": [
+    "CFQ 完全无效，应停止使用",
+    "小陈的执行功能一定很优秀",
+    "补偿策略：它会成为主观问卷的误差来源",
+    "小陈缺少发生这类失误的机会，因为他从不约会"
+   ],
+   "optionsEn": [
+    "The CFQ is completely invalid and should be abandoned",
+    "Chen’s executive function must be excellent",
+    "Compensatory strategies, a source of error variance in self-report scales",
+    "Chen lacks opportunity for this failure because he never has appointments"
+   ],
+   "answer": 2,
+   "explanation": "使用日历等补偿策略会掩盖本可能发生的失误，是这类问卷不得不接受的误差来源；不等于问卷无效。",
+   "optionExplanations": [
+    "这是误差来源，CFQ 仍与客观表现相关。",
+    "低分可能来自补偿策略，不一定代表 EF 优秀。",
+    "这是老师指出的补偿策略问题。",
+    "题中他有约会，问题在于补偿而不是没有机会。"
+   ],
+   "source": "L11 · Limitations of subjective measures (Q&A) · [B0025]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q31",
+   "conceptId": "L11-C23",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "辨析",
+   "stem": "执行功能有三种可区分的成分，CFQ 2.0 却最终只有一个因子。哪种解释最符合老师的看法？",
+   "stemEn": "Executive functions have three distinguishable components, yet the CFQ 2.0 settled on one factor. Which explanation best matches the lecturer’s view?",
+   "options": [
+    "这证明执行功能其实只有一种",
+    "EF 成分本就相关，且日常失误往往同时涉及多种 EF 失败",
+    "这说明 CFQ 2.0 没有测到任何执行功能",
+    "日常失误只涉及 inhibition"
+   ],
+   "optionsEn": [
+    "It proves there is really only one executive function",
+    "EF components are correlated, and everyday failures usually involve several EF failures at once",
+    "It shows the CFQ 2.0 measures no executive function at all",
+    "Everyday failures involve only inhibition"
+   ],
+   "answer": 1,
+   "explanation": "三种 EF 本有 unity；实验室任务能把某一成分分离出来，而像忘记约会这类日常失误混合了抑制、切换等多种失败。",
+   "optionExplanations": [
+    "单因子问卷不能推翻 EF 的 diversity。",
+    "与老师的解释一致。",
+    "CFQ 与 EF 任务表现相关。",
+    "日常失误通常同时涉及多种成分。"
+   ],
+   "source": "L11 · Thought question: unity vs single factor · [B0038]；[B0004]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q32",
+   "conceptId": "L11-C24",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "关于驾驶事故风险的预测因素，哪项说法正确？",
+   "stemEn": "Which statement about predictors of crash risk is correct?",
+   "options": [
+    "UFOV 只对年轻司机有预测力，对老年司机无效",
+    "所有司机出事故的可能性都一样",
+    "危险感知分数不能预测事故风险",
+    "车速更快、危险感知较差、UFOV 表现较差都与更高事故风险相关"
+   ],
+   "optionsEn": [
+    "UFOV predicts crash risk only for young drivers, not older drivers",
+    "All drivers are equally likely to crash",
+    "Hazard perception scores do not predict crash risk",
+    "Faster speed, poorer hazard perception and poorer UFOV performance are all linked to higher crash risk"
+   ],
+   "answer": 3,
+   "explanation": "车速属于 driving style，危险感知属于 driving skill，UFOV 是认知预测因子；三者都与事故风险相关。",
+   "optionExplanations": [
+    "UFOV 的证据对老年司机最有力。",
+    "风险存在可靠的个体差异。",
+    "危险感知对事故风险预测力很强。",
+    "三项都与较高风险相关。"
+   ],
+   "source": "L11 · Predictors of crash risk · [B0027]；[B0030]；[B0032]；[B0034]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q33",
+   "conceptId": "L11-C24",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "基础",
+   "stem": "老师认为找出预测事故风险的心理因素有什么用？",
+   "stemEn": "Why does the lecturer say identifying psychological predictors of crash risk is useful?",
+   "options": [
+    "可以作为事故后的法律辩护依据",
+    "可以证明每个人的事故风险完全相同",
+    "可识别谁需要干预，并找到可训练的目标过程",
+    "可以取代驾照考试"
+   ],
+   "optionsEn": [
+    "It provides a legal defence after a crash",
+    "It proves everyone’s crash risk is identical",
+    "It identifies who needs intervention and which processes to target in training",
+    "It can replace the driving licence test"
+   ],
+   "answer": 2,
+   "explanation": "预测因子能告诉我们谁处于高风险，以及该针对哪些过程设计训练来降低风险。",
+   "optionExplanations": [
+    "老师说问卷分数不能作为法律辩护。",
+    "研究目的恰恰是因为风险不相等。",
+    "这是课件列出的用途。",
+    "本讲没有这种说法。"
+   ],
+   "source": "L11 · Individual differences in crash risk · [B0027]；[B0026]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q34",
+   "conceptId": "L11-C25",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "应用",
+   "stem": "一位刚拿到驾照的 18 岁司机和一位开了 20 年车的 40 岁司机，在其他条件相同时，谁的事故风险更可能高？为什么？",
+   "stemEn": "All else equal, who is more likely to have higher crash risk: an 18-year-old who just got a licence or a 40-year-old with 20 years’ experience, and why?",
+   "options": [
+    "18 岁新司机，因为拿证后头几年缺乏经验是风险高峰",
+    "40 岁司机，因为开车年数越长风险一定越高",
+    "两者完全相同，因为年龄与风险无关",
+    "40 岁司机，因为经验会带来过度自信"
+   ],
+   "optionsEn": [
+    "The 18-year-old, because inexperience in the first years after licensing is a risk peak",
+    "The 40-year-old, because more years of driving always means more risk",
+    "They are identical because age is unrelated to risk",
+    "The 40-year-old, because experience causes overconfidence"
+   ],
+   "answer": 0,
+   "explanation": "经验是保护因素，拿证后头几年是风险高峰；年轻和无经验常同时出现。",
+   "optionExplanations": [
+    "与课件一致。",
+    "里程增加暴露风险，但经验本身是保护因素。",
+    "年龄和经验都与风险相关。",
+    "本讲说的是某些培训会增加过度自信，不是经验本身。"
+   ],
+   "source": "L11 · General predictors of crash risk · [B0028]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q35",
+   "conceptId": "L11-C26",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "辨析",
+   "stem": "在 driving skill 中，哪一项在掌握后仍能强烈预测事故风险？",
+   "stemEn": "Within driving skill, which component still strongly predicts crash risk once basic skills are acquired?",
+   "options": [
+    "Vehicle control（车辆操控，如换挡）",
+    "Hazard perception（危险感知）",
+    "Gap acceptance（间隙接受）",
+    "Speed choice（车速选择）"
+   ],
+   "optionsEn": [
+    "Vehicle control (e.g., changing gears)",
+    "Hazard perception",
+    "Gap acceptance",
+    "Speed choice"
+   ],
+   "answer": 1,
+   "explanation": "车辆操控一旦自动化就不再预测事故；危险感知（读懂交通、预判他人行为）强烈预测事故风险。",
+   "optionExplanations": [
+    "操控技能掌握后不再预测事故风险。",
+    "危险感知是 skill 中关键的预测因子。",
+    "间隙接受属于 driving style，不是 skill。",
+    "车速选择属于 driving style，不是 skill。"
+   ],
+   "source": "L11 · Driving skill · [B0029]；[B0030]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q36",
+   "conceptId": "L11-C27",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "欧洲曾大规模推行冰面防滑（skid）驾驶训练。评估结果与老师的解释是？",
+   "stemEn": "Europe ran extensive skid-control training for icy roads. What did evaluations find, and how did the lecturer explain it?",
+   "options": [
+    "对事故风险没有任何影响，因为没人参加",
+    "受训者事故风险大幅降低，是最有效的训练",
+    "受训者事故风险略高于对照组，可能因为更愿意在恶劣天气开车",
+    "受训者危险感知显著提高"
+   ],
+   "optionsEn": [
+    "It had no effect because no one took part",
+    "Trainees’ crash risk fell sharply; it was the most effective training",
+    "Trainees had slightly higher crash risk than controls, apparently because they were more willing to drive in bad weather",
+    "Trainees’ hazard perception improved markedly"
+   ],
+   "answer": 2,
+   "explanation": "操控类训练可能提高信心，过度自信导致不安全的驾驶风格选择。相反，危险感知训练常让人更谦虚、能降低事故风险。",
+   "optionExplanations": [
+    "这是大规模推行的训练，并非没人参加。",
+    "最被证明有效的是危险感知训练。",
+    "与老师描述一致。",
+    "Skid training 练的是车辆操控，不是危险感知。"
+   ],
+   "source": "L11 · Driver training and overconfidence · [B0031]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q37",
+   "conceptId": "L11-C27",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "应用",
+   "stem": "你想用有证据支持的方法降低自己的开车事故风险。下列哪个选择最符合本讲？",
+   "stemEn": "You want to lower your own crash risk using evidence-based methods. Which choice best fits this lecture?",
+   "options": [
+    "多开车积累里程，越多越安全",
+    "只多练换挡和倒车入库",
+    "参加冰面打滑操控训练以增强信心",
+    "参加危险感知训练，并遵守限速、保持跟车距离"
+   ],
+   "optionsEn": [
+    "Drive as many kilometres as possible, since more is always safer",
+    "Only practise gear changes and parking",
+    "Take skid-control training to boost confidence",
+    "Take hazard perception training and obey speed limits and keep a safe following distance"
+   ],
+   "answer": 3,
+   "explanation": "老师的思考题答案：危险感知训练加上改善驾驶风格（今天就能做到）；老年司机还可考虑 UFOV 训练。",
+   "optionExplanations": [
+    "其他条件相同时，里程越多暴露越多。",
+    "操控技能掌握后不再预测事故风险。",
+    "增强信心可能导致过度自信，反而有风险。",
+    "与老师的建议一致。"
+   ],
+   "source": "L11 · Thought question: reducing crash risk · [B0038]；[B0030]；[B0032]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q38",
+   "conceptId": "L11-C28",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "辨析",
+   "stem": "下列哪一组全部属于 driving style（驾驶风格）？",
+   "stemEn": "Which set consists entirely of driving-style factors?",
+   "options": [
+    "车辆操控、车速选择、跟车距离",
+    "车速选择、跟车距离、间隙接受",
+    "危险感知、车辆操控、间隙接受",
+    "UFOV 表现、车速选择、危险感知"
+   ],
+   "optionsEn": [
+    "Vehicle control, speed choice, following distance",
+    "Speed choice, following distance, gap acceptance",
+    "Hazard perception, vehicle control, gap acceptance",
+    "UFOV performance, speed choice, hazard perception"
+   ],
+   "answer": 1,
+   "explanation": "Driving style 是司机自己的选择：车速、跟车距离、间隙接受，以及分心、疲劳/精神状态。车辆操控和危险感知属于 skill，UFOV 是认知预测因子。",
+   "optionExplanations": [
+    "车辆操控属于 driving skill。",
+    "三项都是 driving style。",
+    "危险感知和车辆操控属于 driving skill。",
+    "UFOV 是认知预测因子，危险感知属于 skill。"
+   ],
+   "source": "L11 · Driving style · [B0029]；[B0032]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q39",
+   "conceptId": "L11-C28",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "应用",
+   "stem": "一位司机以 60 km/h 紧贴前车行驶。老师用哪项事实说明这样很危险？",
+   "stemEn": "A driver tailgates at 60 km/h. Which fact did the lecturer use to show why this is dangerous?",
+   "options": [
+    "跟车距离只影响燃油消耗",
+    "车速越快反应时间越短",
+    "车每秒约行驶 16 米，而复杂决定常需要 1 秒以上",
+    "有经验的司机不需要反应时间"
+   ],
+   "optionsEn": [
+    "Following distance only affects fuel use",
+    "Faster speed shortens reaction time",
+    "The car travels about 16 metres per second, and complex decisions often take over a second",
+    "Experienced drivers need no reaction time"
+   ],
+   "answer": 2,
+   "explanation": "反应需要时间；60 km/h 每秒约 16 米，跟车太近就没有足够距离作出反应。",
+   "optionExplanations": [
+    "跟车距离是重要的事故风险因素。",
+    "车速不会缩短人的反应时间。",
+    "这是老师举的例子。",
+    "任何人的反应都需要时间。"
+   ],
+   "source": "L11 · Driving style · [B0032]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q40",
+   "conceptId": "L11-C29",
+   "domain": "personality",
+   "type": "application",
+   "difficulty": "应用",
+   "stem": "一位正在办理离婚的司机近期事故风险升高。最符合本讲的解释是？",
+   "stemEn": "A driver going through a divorce has elevated crash risk. The explanation that best fits this lecture is:",
+   "options": [
+    "精神状态影响：可能因反刍和走神使注意离开驾驶",
+    "离婚直接降低了车辆操控技能",
+    "这类司机的 UFOV 阈限一定变低",
+    "重大生活事件与事故风险无关"
+   ],
+   "optionsEn": [
+    "Mental state: rumination and mind wandering may take attention away from driving",
+    "Divorce directly reduces vehicle-control skill",
+    "Such drivers must have lower UFOV thresholds",
+    "Major life events are unrelated to crash risk"
+   ],
+   "answer": 0,
+   "explanation": "课件把疲劳/精神状态列为 driving style 风险；老师说重大生活事件会升高风险，可能机制是反刍和走神。",
+   "optionExplanations": [
+    "与老师的解释一致。",
+    "问题在注意，而不是操控技能。",
+    "UFOV 阈限低是好事，题干也没有相关信息。",
+    "老师明确说这会升高事故风险。"
+   ],
+   "source": "L11 · Distraction and mental state · [B0033]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q41",
+   "conceptId": "L11-C30",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "一项尚在同行评审中的研究比较年轻（18–25 岁）与老年（60–80 岁）司机的危险感知相关因素。结果是？",
+   "stemEn": "A study under peer review compared correlates of hazard perception in younger (18–25) and older (60–80) drivers. What did it find?",
+   "options": [
+    "年轻司机中主观认知失误与危险感知强相关；老年司机中执行功能任务与之强相关",
+    "两组中 CFQ 都是最强的预测因子",
+    "年轻司机中执行功能任务最重要；老年司机中 CFQ 最重要",
+    "两组中都没有任何认知变量与危险感知相关"
+   ],
+   "optionsEn": [
+    "In younger drivers subjective cognitive failures related strongly to hazard perception; in older drivers EF task performance did",
+    "The CFQ was the strongest predictor in both groups",
+    "EF tasks mattered most in younger drivers and the CFQ in older drivers",
+    "No cognitive variable related to hazard perception in either group"
+   ],
+   "answer": 0,
+   "explanation": "年轻司机：CFQ 相关强、EF 任务关系不大；老年司机正好相反。说明事故风险背后的认知过程可能随年龄而不同。",
+   "optionExplanations": [
+    "与老师描述一致。",
+    "老年组中 CFQ 与危险感知无关。",
+    "两组方向说反了。",
+    "两组都有相关变量，只是不同。"
+   ],
+   "source": "L11 · Cognitive predictors of crash risk · [B0034]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q42",
+   "conceptId": "L11-C31",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "辨析",
+   "stem": "关于 Useful Field of View（UFOV），哪项正确？",
+   "stemEn": "Which statement about the Useful Field of View (UFOV) is correct?",
+   "options": [
+    "UFOV 训练只提高 UFOV 本身成绩，不影响真实事故",
+    "阈限越高表示加工越快",
+    "UFOV 主要测司机的车辆操控技能",
+    "阈限越低（只需很短呈现）事故风险越低，训练可在 10 年后仍降低老年司机事故"
+   ],
+   "optionsEn": [
+    "UFOV training improves only UFOV scores, not real-world crashes",
+    "A higher threshold indicates faster processing",
+    "The UFOV mainly measures vehicle-control skill",
+    "A lower threshold means lower crash risk, and training reduces older drivers’ crashes even 10 years later"
+   ],
+   "answer": 3,
+   "explanation": "阈限是达到准确率所需的呈现时间，越低越好；UFOV 训练是少有能远迁移到真实事故的训练。",
+   "optionExplanations": [
+    "UFOV 训练恰恰能降低真实事故风险。",
+    "阈限高意味着需要更长时间，加工较慢。",
+    "UFOV 是视觉认知加工任务，不是操控技能。",
+    "与课件和老师描述一致。"
+   ],
+   "source": "L11 · Useful Field of View task · [B0034]；[B0035]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q43",
+   "conceptId": "L11-C31",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "基础",
+   "stem": "在 UFOV 的一个子任务中，刺激短暂闪现后被遮蔽，被试每个试次要做哪两个反应？",
+   "stemEn": "In a UFOV subtask, stimuli flash briefly and are then masked. Which two responses does the participant make on each trial?",
+   "options": [
+    "说出墨水颜色，并忽略词义",
+    "判断数字奇偶，并判断是否大于 5",
+    "判断中央是小汽车还是卡车，并指出周边目标在 8 个位置中的哪一个",
+    "判断当前字母是否与 3 个之前相同，并按空格"
+   ],
+   "optionsEn": [
+    "Name the ink colour while ignoring the word",
+    "Judge whether a digit is odd or even, and whether it is greater than 5",
+    "Judge whether the central object is a car or a truck, and localise the peripheral target among 8 positions",
+    "Judge whether the current letter matches the one 3 back, and press the space bar"
+   ],
+   "answer": 2,
+   "explanation": "UFOV 要同时完成中央识别（car/truck）和周边定位（外圈 8 个位置），测所需的最短呈现时间。",
+   "optionExplanations": [
+    "这是 Stroop。",
+    "这是 task-switching。",
+    "与老师描述的 UFOV 一致。",
+    "这是 n-back。"
+   ],
+   "source": "L11 · Useful Field of View task · [B0035]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q44",
+   "conceptId": "L11-C32",
+   "domain": "personality",
+   "type": "concept",
+   "difficulty": "辨析",
+   "stem": "认知训练研究的一般结论是什么？UFOV 训练为何特别？",
+   "stemEn": "What is the general conclusion of cognitive-training research, and why is UFOV training special?",
+   "options": [
+    "所有认知训练都能广泛迁移到日常生活",
+    "训练多半只提高练过的任务，少有远迁移；UFOV 训练能降低真实事故风险，是例外",
+    "执行功能训练已被一致证明能远迁移",
+    "UFOV 训练和其他训练一样，只提高任务本身成绩"
+   ],
+   "optionsEn": [
+    "All cognitive training transfers broadly to daily life",
+    "Training mostly improves the trained task with little far transfer; UFOV training is an exception that reduces real crashes",
+    "EF training has consistently been shown to produce far transfer",
+    "UFOV training, like others, only improves the trained task"
+   ],
+   "answer": 1,
+   "explanation": "人几乎能把任何具体任务练好，但很少远迁移；EF 训练证据混杂；UFOV 训练却能让人 10 年后更少出事故。",
+   "optionExplanations": [
+    "多数训练缺乏远迁移。",
+    "与老师的总结一致。",
+    "老师说 EF 训练的证据是混合的，许多重复失败。",
+    "UFOV 训练的特别之处正是迁移到真实驾驶。"
+   ],
+   "source": "L11 · Cognitive training and far transfer · [B0036]",
+   "origin": "notes"
+  },
+  {
+   "id": "L11-Q45",
+   "conceptId": "L11-C33",
+   "domain": "personality",
+   "type": "research",
+   "difficulty": "应用",
+   "stem": "研究者想估计某个测验对事故风险的预测力。为什么老师认为前瞻性设计优于回溯性设计？",
+   "stemEn": "Researchers want to estimate how well a test predicts crash risk. Why does the lecturer prefer a prospective over a retrospective design?",
+   "options": [
+    "前瞻性设计只能使用代理指标",
+    "回溯性设计需要追踪更长时间",
+    "前瞻性设计不需要大样本",
+    "回溯性设计有记忆偏差，并漏掉已因致命事故而不在样本中的人"
+   ],
+   "optionsEn": [
+    "Prospective designs can only use proxy measures",
+    "Retrospective designs require longer follow-up",
+    "Prospective designs do not need large samples",
+    "Retrospective designs suffer memory bias and miss people who died in severe crashes"
+   ],
+   "answer": 3,
+   "explanation": "回溯问过去事故，人们会忘记小事故，最严重的致命事故当事人也不在样本中；前瞻追踪未来能记录这些。",
+   "optionExplanations": [
+    "前瞻研究可以直接记录真实事故。",
+    "回溯更容易、更快，不需要长期追踪。",
+    "平均约 10 年才一次事故，前瞻研究需要很大样本。",
+    "这是老师给出的两个问题。"
+   ],
+   "source": "L11 · Measuring crash risk (Q&A) · [B0037]",
+   "origin": "notes"
+  }
+ ],
+ "file": "L11 整理笔记（录课文字稿 + PSYC1004_2026_Personality_Lecture3.pdf）",
+ "sourceBlocks": [
+  {
+   "id": 1,
+   "text": "本讲结构：三段预录视频\nPersonality Module Lecture 3（A/Prof Stephanie Goodhew），对应三段预录视频：\n- Video 3a：Executive functions（执行功能）\n- Video 3b：Cognitive failures（认知失误）\n- Video 3c：Individual differences in crash risk（驾驶事故风险的个体差异）\n主线：执行功能是领域通用的认知控制过程 → 日常认知失误（CFQ）是它在生活中的\"失灵\"表现，并能预测客观表现和心理健康 → 落到一个安全攸关的现实结果：开车出事故的风险。复习时抓：三种执行功能及其代表任务、CFQ 的相关方向、CFQ 2.0 的开发步骤和结论、driving skill 与 driving style 的区分、hazard perception 与 UFOV。"
+  },
+  {
+   "id": 2,
+   "text": "执行功能的定义：领域通用、额叶相关\nExecutive functions (EFs)：domain-general（领域通用）的认知过程，使人能够计划、追求并执行目标而不被分心干扰，并能同时处理多个任务或目标。\n- Domain-general：在几乎所有情境里都起作用（学习考试、社交、调节情绪），可以理解为\"不随情境变化\"的过程。\n- 对比 domain-specific（领域特定）：只在某类情境起作用，例如专门处理社交互动的机制。\n- 通常与大脑 frontal lobe（额叶）相关，是较高层的计划与控制（governance）过程。\n考试注意：EF 是\"领域通用\"，不是只管某一种任务。"
+  },
+  {
+   "id": 3,
+   "text": "执行功能的个体差异：能力与使用倾向\n人与人之间在执行功能上存在个体差异，而且差异包括两部分：\n- ability（能力）：能做到多好；\n- propensity（倾向）：平时实际有多大意愿/习惯去使用这种能力。\n课堂问答补充：实验室通常在尽量去除干扰的条件下测 EF（手机关掉、不许说话、安静），这测的更接近一个人的\"最大能力\"。但现实生活（如军事情境、开车）更关键的可能是：有干扰、有强烈情绪或要同时做多件事时，这个人还能不能把任务做好。从个体差异角度研究\"抗干扰的稳健性\"是正在发展的方向，可能更能预测现实功能和安全攸关任务表现。"
+  },
+  {
+   "id": 4,
+   "text": "Unity and Diversity 模型\n执行功能具有 unity（统一性）和 diversity（多样性）：\n- Unity：所有执行功能任务之间都有一定相关——一个人在某个 EF 任务上表现好，往往在其他 EF 任务上也较好。所以谈论一个人\"整体的执行功能\"是有意义的。\n- Diversity：存在彼此相关更高的不同子成分。例如两个测 shifting（切换）的任务之间，相关会高于它们与另一种 EF 任务的相关。\n这个模型回答了\"EF 是一个东西还是许多独立过程\"的问题——答案是\"两者都有\"：总体上有统一性，低层次上又有特异性。"
+  },
+  {
+   "id": 5,
+   "text": "三种核心执行功能：Shifting、Updating、Inhibition\nUnity and diversity 模型在 diversity 一侧强调三种执行功能：\n1. Shifting（切换）\n2. Updating（更新工作记忆）\n3. Inhibition（抑制）\n模型提出时，作者明确说这不一定是 EF 的完整清单，希望别人继续找更多成分；但后来领域几乎把这三种当作\"标准\"执行功能。它们未必涵盖 EF 的全部，但在许多心理过程中都很重要。\n考试注意：课件自测题里\"Localising（定位）\"不是执行功能；复习题干扰项中的 impulsivity（冲动性）、attentional breadth（注意广度）、extraversion（外向性）也都不是。"
+  },
+  {
+   "id": 6,
+   "text": "Shifting：任务切换与切换代价\nShifting = 在任务或心理定势（mental sets）之间切换的能力。\n代表任务：task-switching（任务切换）。例如呈现一个数字，有的试次要判断奇数/偶数，有的试次要判断比 5 大还是小，被试必须在两套分类规则之间切换。\n发现：\n- 每个人都有 switch cost（切换代价）：切换任务的试次比重复同一任务的试次更慢、更不准确。切换代价是普遍现象。\n- 但切换代价的大小有很大的个体差异——有些人受影响大得多。也就是说，个体差异在于切换的效率和有效性，而不是有没有切换代价。"
+  },
+  {
+   "id": 7,
+   "text": "Updating：工作记忆的更新与监控（n-back）\nUpdating = 更新和监控工作记忆（working memory）的内容。\n- 工作记忆不只是\"记住\"，而是要对记住的内容主动加工（active manipulation rather than just passive storage）。例：给你一串数字，要求把前三个相加再减去后三个，并在短时间内完成。\n- 代表任务：n-back。以 3-back 为例：每秒读出一个字母（A、Z、K、F、D……），当当前字母与 3 个之前的字母相同时作出反应。n 越大越难，因为每出现一个新字母，\"3 个之前\"的那个字母就变了，必须不断更新记忆内容。\n课堂问答补充：complex span 任务（如一边做数学一边记字母）一般也归入 updating/工作记忆范畴。\n思考题例子：监控朋友是否说了和 30 秒前一样的话 → updating。"
+  },
+  {
+   "id": 8,
+   "text": "Inhibition：抑制优势反应（Stroop）\nInhibition = 抑制 prepotent responses（优势反应，即非常自动、自然、自发的反应）。\n代表任务：Stroop。屏幕上出现颜色词，要求说出墨水颜色。词义与颜色一致（红色墨水写 RED）时又快又准；不一致（蓝色墨水写 RED）时明显受干扰。原因是对熟练掌握某种语言的人来说，读词是高度自动化的，很难抑制。\n- Stroop 效应几乎人人都有（只要熟练掌握该语言）。\n- 个体差异在于干扰效应的大小——多次试次中能把读词反应抑制得多好。\n思考题例子：努力不理会旁边朋友的谈话、专心学习 → inhibition。"
+  },
+  {
+   "id": 9,
+   "text": "执行功能与领域特定过程、冲动性和反社会性\n虽然 EF 是领域通用的，它们参与许多领域特定过程，例如：\n- emotion regulation（情绪调节）\n- perspective-taking（社会性换位思考：想到别人的想法与感受可能和自己不同）\nPoor executive function（执行功能差）与 impulsivity（冲动性）甚至 antisociality（反社会性）相关。老师举例：上一讲的 secondary psychopathic traits（次级精神病态特质）与执行功能呈负相关。\n总体上，EF 有助于日常社会与情绪幸福感，也影响任务表现：从大学考试到开车、操作重型机械等安全攸关任务。"
+  },
+  {
+   "id": 10,
+   "text": "多任务处理其实是快速切换\n课堂问答补充：我们在某一时刻基本只能做一件事，所以 multitasking（多任务）大多是在任务之间多次快速切换，除非任务非常自动化。\n- 虽然很多人自称擅长多任务，但多数数据表明，同时做几件事时，每件事都比单独做时差很多。\n- 思考题：一边听朋友聊天一边学习 → 主要是快速 shifting，每次切换都会有 switch cost，所以不是理想学习条件。切换时往往同时夹带 inhibition（转去学习时要抑制朋友的声音）——三种 EF 并非完全独立，但确实能有意义地区分开。"
+  },
+  {
+   "id": 11,
+   "text": "课堂问答：衰老与执行功能\n有同学问工作记忆随年龄下降的问题。要点：\n- 年龄增长时认知下降的速度差异很大，并没有统一的下降速度。\n- Fluid intelligence（流体智力：当下动态加工的\"在线\"容量）更容易受衰老影响；crystallised intelligence（晶体智力：一生积累的知识、技能和策略）相对保持，甚至还能继续提高。\n- 平均而言 EF 会下降，但图景没有那么悲观：许多老年人会采用补偿策略（更谨慎、更有动机），有时表现甚至优于年轻人。\n- 大脑是分布式网络，不能简单说\"某个脑区只做某件事\"。"
+  },
+  {
+   "id": 12,
+   "text": "课堂问答：练习与自动化\n练习让任务变得更自动化后：\n- 行为上更不容易受其他干扰影响——新任务时一点分心就会大幅降低表现，熟练任务受分心噪音的影响较小，也更能\"抵抗\"多任务带来的干扰。\n- 高度自动化的技能常变成内隐、非言语的编码，难以用语言说清楚（例如很难向别人解释怎么骑自行车）。\n- 额叶仍会有一定参与。"
+  },
+  {
+   "id": 13,
+   "text": "认知失误：人人都会犯，但频率有个体差异\nCognitive failures（认知失误）通常指对\"走神/出错\"的主观体验。To err is human——日常出错不可避免。\n- 有时后果很轻微：忘了自己为什么从房子一处走到另一处。\n- 有时后果严重：在路口没注意到另一辆车就开出去，可能伤及自己、对方和乘客。\n- 每个人都会有认知失误，但其频率存在清晰且有意义的个体差异。"
+  },
+  {
+   "id": 14,
+   "text": "Cognitive Failures Questionnaire（CFQ）\nCFQ 是测量认知失误的常用工具（原版发表于 1982 年，被引用极多）：\n- 25 个条目；\n- 让答题者报告过去 6 个月中经历各类认知失误的频率（5 点量表，从\"从不\"到\"非常频繁\"，用来捕捉发生的规律/频率）。\n示例条目：\n- 你会忘记自己为什么从房子的一处走到另一处吗？\n- 你会没注意到路上的路标吗？\n- 该听别人讲话时你会做白日梦吗？\n- 你会忘了去商店要买什么吗？\n- 你会忘记约会/预约吗？\n课堂问答补充：原版有一题问 tip-of-the-tongue（话到嘴边说不出），即使最后想起来，那段卡住的过程通常也算认知失误；这题没有进入 CFQ 2.0。"
+  },
+  {
+   "id": 15,
+   "text": "CFQ 与客观指标相关：不只是主观看法\n有研究者看不起主观报告，但 CFQ 总分确实与许多客观指标相关：\n- Executive function 任务表现；\n- Sustained Attention to Response Task（SART）表现：屏幕约每秒呈现一个数字，每次按空格键，但出现数字 3 时不能按。测的是 commission errors（误按，即 false alarms），误按越多，持续注意越差；CFQ 与这类错误相关。\n- 注意控制相关脑区的 brain function（如 fMRI 测的激活/血流）；\n- 注意控制相关脑区的 brain structure（脑结构个体差异）；\n- 现实结果：car crash risk（开车出事故的风险），尤其是 at-fault（本人负责的）事故。\n结论：CFQ 不只是对认知表现的\"信念\"，它确实与客观表现相关。"
+  },
+  {
+   "id": 16,
+   "text": "CFQ 与心理健康、幸福感相关\nCFQ 得分高（认知失误多）的人也倾向于：\n- Depression（抑郁症状）更多 —— 正相关\n- Trait anxiety（特质焦虑）更高 —— 正相关\n- Burnout（倦怠）风险更大 —— 正相关\n- Procrastination（拖延）更多 —— 正相关\n- Impulsivity（冲动性）更高 —— 正相关\n另外：driving aggression（驾驶攻击性）正相关、stress（压力）正相关；life satisfaction（生活满意度）负相关；successful ageing（成功老化：老年人主观觉得自己心理功能良好）负相关。\n总体：认知失误多与较差的心理健康和幸福感相关。"
+  },
+  {
+   "id": 17,
+   "text": "CFQ 与情绪调节、共情：注意相关方向\nCFQ 与以下变量的相关方向（考试易混）：\n- Rumination（反刍，反复想同一类通常负面的念头）：正相关\n- Reappraisal（认知重评：改变看待情境的方式以降低负面情绪，一种适应性情绪调节策略）：负相关——认知失误多的人日常较少使用重评\n- Difficulties with emotion regulation（情绪调节困难）：正相关\n- Cognitive empathy（认知共情：理解别人心里在想什么、感受什么）：负相关\n- Affective empathy（情感共情：被别人的情绪\"传染\"）：正相关\n记忆法：认知失误多 → \"理解别人\"更弱，但\"被别人情绪感染\"更强。"
+  },
+  {
+   "id": 18,
+   "text": "原版 CFQ 的问题：条目过时、因子结构争议\n问题一：CFQ 已有 40 多年历史（1982）。\n- 条目带有时代痕迹：如\"你会忘记把报纸或书之类的东西放在哪里吗？\"\"你会把重要信件搁置好几天不回吗？\"（今天也许应改成邮件）。\n- 没有任何与科技相关的条目，而现代生活中与科技互动、在其中出错的机会很多。\n问题二：40 多年来对 CFQ 的 factor structure（因子结构，即量表背后的潜在结构）争论不断。\n- 原作者尝试多种结构都很混乱，于是只保留一个单一因子\"认知失误\"。\n- 之后许多研究做因子分析，结果不一致、难以重复，结构很不稳定。\n- 可能原因：每个潜在因子对应的条目太少。因子分析的基本原则是一个因子必须有足够多的条目才能\"浮现\"。例如\"你会发脾气然后后悔吗？\"是 25 题中唯一涉及情绪调节失败的条目，即使情绪调节失败是有意义的子维度，也不可能被识别出来。"
+  },
+  {
+   "id": 19,
+   "text": "CFQ 2.0 的目标\nGoodhew 团队开发 CFQ 2.0，目标有两个：\nA. 纳入更贴近当代生活的认知失误例子（如忘记密码）；\nB. 尝试找出 CFQ\"真正的\"因子结构。\n做法：为原版 25 题逐一分析可能涉及的成分过程，写出能捕捉这些不同潜在心理过程的新条目。"
+  },
+  {
+   "id": 20,
+   "text": "CFQ 2.0 Study 1：探索性因子分析（EFA）\nStudy 1：64 个新条目 + 25 个原版条目，大样本作答后做 Exploratory Factor Analysis（EFA，探索性因子分析：让统计根据大量条目和大量被试的回答\"告诉你\"潜在结构是什么）。\n结果：一个很强的因子 + 两个可能的附加因子（EFA 常常这样不太清晰）。\n- Factor 1：Inattentiveness/Forgetfulness（不专注/健忘，15 个条目），如\"你会忘记为什么从房子一处走到另一处吗？\"\"你会忘记需要记住的密码吗？\"\n- Factor 2：Emotion Regulation and Planning Failures（情绪调节与计划失误，11 个条目），如\"你难以做决定吗？\"\"你常被自己的情绪淹没吗？\"\n- Factor 3：Organisation and Tidiness（条理与整洁，5 个条目），如\"收拾行李箱时你会把衣服叠整齐吗？\"（反向计分）\n图示（课件图片页，内容依老师口述）：碎石图中第一个因子的特征值（eigenvalue）约 25，承担了绝大部分\"重活\"；因子 2、3 只是勉强高于代表\"机会水平\"的那条线。三个因子之间相关约 0.5（正相关，属较强相关）。\n于是留下疑问：到底是一因子还是三因子？需要进一步检验。老师说图表细节不必太担心。"
+  },
+  {
+   "id": 21,
+   "text": "CFQ 2.0 Study 2：验证性因子分析（CFA）\nStudy 2 用新样本做 Confirmatory Factor Analysis（CFA，验证性因子分析：先告诉统计\"我认为模型是这样\"，再看新数据与这个模型的拟合程度）。这是检验模型的下一步逻辑。\n比较三个模型：\n- CFQ 2.0 一因子模型（只有 Inattentiveness/Forgetfulness）\n- CFQ 2.0 三因子模型\n- 原版 CFQ（作参照）\n关键指标 CFI：≥ 0.90 被视为可接受拟合的基准。\n结果（图表依老师口述）：一因子模型超过 0.90（通过）；三因子模型拟合不够好（不通过）；原版 CFQ 更差，约 0.83。→ 一因子模型明显胜出。\n考试注意：CFQ 2.0 的开发同时用了 EFA 和 CFA；老师说两者都应该用于量表开发。"
+  },
+  {
+   "id": 22,
+   "text": "CFQ 2.0 Study 3：重复验证与增量效度\nStudy 3：\n- 在另一个新样本中重复 Study 2 的 CFA，结果完全一样：新问卷的一因子模型优于三因子模型和原版。\n- Incremental validity（增量效度）：新量表必须证明它比已有量表更能预测你关心的结果，否则大家会继续用原版。结果：CFQ 2.0 分数比原版 CFQ 分数更好地预测了每个人在客观注意控制任务（attentional control task）上的表现——即解释了更多方差。"
+  },
+  {
+   "id": 23,
+   "text": "CFQ 2.0 Study 4–5：与相关构念的关系、重测信度\nStudy 4：新量表应与其他变量呈现该构念\"应有\"的关系。与原版 CFQ 以往的发现一致，CFQ 2.0 分数与以下变量相关：\n- Reduced focusing（自评专注能力较低）\n- Reduced shifting（自评切换能力较低）\n- Reduced cognitive empathy（认知共情较低）\n- Increased affective empathy（情感共情较高）\n- Increased negative affect（负性情感较高）\nStudy 5：test-retest reliability（重测信度）——同一批人间隔 1 周再做一次，两次分数相关 r = .88，个人分数相当稳定。"
+  },
+  {
+   "id": 24,
+   "text": "CFQ 2.0 小结：量表开发的步骤\n从 CFQ 2.0 可以看到开发新问卷的典型步骤：\n1. 写条目（覆盖可能的潜在过程）→ 2. EFA 探索结构 → 3. 新样本 CFA 检验结构 → 4. 再用新样本重复 → 5. 增量效度（比旧量表预测得更好）→ 6. 与相关构念的关系符合预期 → 7. 重测信度。\n最终形式：一个因子（single factor），包含更多当代条目（如忘记密码）。\n带走的信息：原版 CFQ 很重要、有大量效度证据，一份问卷主导文献 40 年非常少见；老师并非否定原版，只是它\"过时\"了，CFQ 2.0 更适合当代样本。"
+  },
+  {
+   "id": 25,
+   "text": "课堂问答：主观问卷的局限\n优点：问\"失误\"是具体可报告的结果。直接问\"你擅长切换注意吗\"，多数人不知如何评；问\"过去一个月忘了几次\"，人们更容易报告。\n局限（都会成为 error variance，误差方差）：\n- Compensatory strategies（补偿策略）：用 Google Calendar 就不会忘约会，用密码管理器就不会忘密码，问卷分数低未必代表认知好。目前还没有测量补偿策略的工具。\n- Differential opportunity（发生失误的机会不同）：过去 6 个月都坐火车、没开车的人，就没有机会\"错过路标\"。\n- 动机性不诚实：如果雇主用来筛查谁在工作中有风险，人们可能不会如实报告。可用不太受社会赞许偏差影响的行为测验补充，如 sustained attention task（SART）。匿名、去标识化的研究中，人们通常相当坦诚，甚至愿意承认反社会、攻击性等不受欢迎的特质。"
+  },
+  {
+   "id": 26,
+   "text": "课堂问答：CFQ 与事故风险的证据、机制与干预\n证据：研究让人先填（原版）CFQ，再追踪之后约 6 个月是否出事故、是否本人责任、严重程度等。CFQ 与这些结果相关——不完美，但比只用\"平均司机\"的信息更能洞察个人风险。也有把多个预测指标\"正面比较\"的研究（如与驾驶模拟器表现比）。\n不能当作法律辩护：心理学多描述\"平均而言\"的规律，没有精确到能说某一次事故就是由这个人的问卷分数导致的，也可能是情境因素。\n更广的后果：军人样本中 CFQ 高者职业事故（自己受伤或伤到别人）也更多。\n可能机制：\n- mind wandering（走神）与认知失误密切相关，资源有限时想着别的事开车更危险（可能是多因素的）；\n- 大脑 error detection（错误察觉）区域：CFQ 高者犯错后这些区域激活较弱，\"该更专心了\"的信号可能较弱；\n- 唤醒水平两端都可能导致失误：高唤醒/负性情绪（反刍）或低唤醒/疲劳；CFQ 不区分这两种来源。\n可能干预：mindfulness meditation（正念冥想，减少走神）；hazard perception training（危险感知训练）。"
+  },
+  {
+   "id": 27,
+   "text": "驾驶事故风险：为何研究个体差异\n- 开车很重要：能让人参与社交活动和其他对健康与幸福感有益的生活部分。例如老年人停止开车的时间点往往伴随身体和认知健康下降，可能与更难去见朋友有关。\n- 但事故会带来巨大的个人和经济负担（责任方及其他受害者）。\n- 事故风险存在可靠的个体差异：每个人都有风险，但并非人人风险相等。\n- 找出预测事故风险的心理因素的用处：(1) 识别谁处于高风险、需要干预；(2) 找到该针对的过程——若某认知过程对事故风险很重要，就可以设计训练来改善它，从而降低风险。"
+  },
+  {
+   "id": 28,
+   "text": "一般预测因子：里程、经验与年龄\n- KMs driven（行驶里程）：在其他条件相同时，开得越多，暴露越多，风险越高（即使自己很安全，也会遇到不安全的其他司机）。\n- Experience（经验）：经验本身是保护因素。拿到驾照后的头几年是风险高峰，缺乏经验是事故的重要因素。\n- Age（年龄）：年轻与缺乏经验通常同时出现，难以分开；年轻、无经验的司机风险很高。约 60 岁以后，该群体整体风险有所上升，但这主要由其中一部分人风险显著加速上升所驱动，并非人人如此。"
+  },
+  {
+   "id": 29,
+   "text": "两类驾驶相关预测因子：Driving Skill 与 Driving Style\n驾驶研究文献区分两类关键的驾驶相关个体差异：\n- Driving skill（驾驶技能）：包括车辆操控（vehicle control）和危险感知（hazard perception）。\n- Driving style（驾驶风格）：司机自己选择怎么开，包括 speed choice（车速选择）、following distance（跟车距离）、gap acceptance（汇入车流时接受的间隙）、distraction（分心）、fatigue / mental state（疲劳/精神状态）。\n考试注意：vehicle control 属于 skill，不是 style。"
+  },
+  {
+   "id": 30,
+   "text": "Driving Skill：车辆操控 vs 危险感知\n- Vehicle control skills（车辆操控：换挡、操纵车辆等最初学的东西）：初学时很关键，但一旦掌握、变得自动化后，就不再能预测事故风险。有趣的是，很多驾驶培训恰恰集中在这些操控技能上。\n- Hazard perception（危险感知）：更偏认知/心理的能力——\"读懂交通\"、有情境意识、预判其他道路使用者将要做什么、自己该如何回应以避免碰撞。它对事故风险有很强的预测力。\n- Hazard perception training（危险感知训练）能有效降低事故风险，是少数被证明训练后真能降低事故风险的训练形式之一。"
+  },
+  {
+   "id": 31,
+   "text": "为什么很多驾驶培训无效：过度自信\n许多出于好意的驾驶培训项目，经系统、科学的检验（受训者未来 5–10 年的事故是否比未受训者少）后往往效果不佳。可能原因：培训会提高司机的信心，而过度自信（overconfidence）会让人做出不安全的驾驶风格选择。\n例：欧洲曾大规模推行 skid training（在冰面上如何操控打滑车辆的训练）。评估发现，受训者的事故风险反而略高于对照组，似乎因为他们更愿意在恶劣天气下开车。\n相反，hazard perception training 往往让司机\"谦虚\"：新手看到老司机说出自己边开边注意的一切（\"我在看那个人，这辆车可能会过来……\"）时会意识到\"原来我该做这么多\"，从而更好地校准对自身技能水平的判断，也提高了主动思考危险的倾向（propensity）。"
+  },
+  {
+   "id": 32,
+   "text": "Driving Style：车速、跟车距离、间隙接受\n- Speed choice（车速选择）：开得越快，事故风险越高。\n- Following distance（跟车距离）：俗称 tailgating（跟车太近），与前车距离小，风险大得多。任何反应都需要时间：车速 60 km/h 时每秒约行驶 16 米，而较复杂的决定常需要 1 秒以上。\n- Gap acceptance（间隙接受）：汇入车流时，两车之间多大的空隙你才觉得够。接受间隙更\"随意\"（更小间隙就冲）的人比等待更大间隙的人风险更高。"
+  },
+  {
+   "id": 33,
+   "text": "Driving Style：分心、疲劳与精神状态\n- Distraction（分心）：重大问题。澳大利亚事故数据显示，大多数有记录的严重事故之前都发生过某种分心事件。\n- Fatigue / mental state（疲劳/精神状态）：生气、疲倦、抑郁时开车，甚至近几周经历重大生活事件（如正在离婚）的人，事故风险也会升高。可能机制是反刍和走神——想着当下很突出的事，注意力离开了驾驶任务。\n课堂问答补充（性别）：在 hazard perception 上一般看不到性别差异；性别差异更多体现在 driving style 上，平均而言男性司机的驾驶风格选择更差，但两组内部差异都很大。"
+  },
+  {
+   "id": 34,
+   "text": "认知预测因子：CFQ、UFOV 及年龄差异\n课件列出的认知预测因子：\n- 认知失误（CFQ）越高 → 事故风险越高（证据主要来自年轻司机，对老年司机不太成立）。\n- Useful Field of View（UFOV，有效视野）任务表现越差 → 事故风险越高（对老年司机证据最有力，对年轻司机证据有限）。\n- UFOV training（UFOV 训练）可降低老年司机的事故风险，效果在训练后 10 年仍可见。\n课堂问答补充（尚在同行评审中的研究）：在 18–25 岁的 provisional（见习）年轻司机中，主观认知失误与 hazard perception 表现强相关，而执行功能类认知任务关系不大；在 60–80 岁老年司机中正好相反——主观认知失误与 hazard perception 无关，执行功能任务表现与之密切相关。说明事故风险背后的认知过程可能随年龄不同，主观测量也许更适合年轻人。"
+  },
+  {
+   "id": 35,
+   "text": "UFOV 任务是什么\nUFOV 是一个\"有点古怪\"的视觉认知任务（课件图片页展示了较难的子任务，内容依老师口述）：\n- 刺激非常短暂地闪现，随后被遮蔽（有东西盖在上面），所以必须很快处理。\n- 每个试次做两个反应：(1) 中央刺激是 car（小汽车）还是 truck（卡车）；(2) 外圈 8 个可能位置中，周边目标出现在哪里（定位）。\n- 测的是：刺激需要呈现多久，被试才能较准确完成这两项任务——即 threshold（阈限）。\n- 阈限越低（呈现很短就能做对）= 表现越好 = 加工速度越快 = 事故风险越低；需要更长呈现时间的人加工速度较慢，事故风险更高。\n- UFOV 训练就是做大量这类试次，被试觉得有点无聊，但非常有益。"
+  },
+  {
+   "id": 36,
+   "text": "认知训练与远迁移：UFOV 是例外\n认知训练文献中有大量尝试想真正改善人的底层认知能力。普遍结论：只要训练足够，人几乎能把任何具体任务做得更好，但很少能泛化到其他事情——缺乏 far transfer（远迁移）。\nUFOV 训练是例外：它不仅提高 UFOV 任务表现，还让人成为更安全的司机，训练 10 年后事故更少。\n课堂问答补充：\n- EF 训练的远迁移证据是混合的：早期研究看似很有希望，后来许多重复失败；也有一些成功例子，可能存在调节因素。\n- 训练提高成绩，可能多半是学到了针对该任务的策略，降低了任务复杂度，换任务就用不上。\n- 不能因此说不用担心领域通用能力：即使难以提高，它仍可能下降。把大量思考交给生成式 AI（如 ChatGPT）的长期影响尚不清楚；老师推测 self-efficacy（自我效能）可能最先受影响，但需要硬数据。\n- Hazard perception 训练与 UFOV 训练尚未被结合研究过。"
+  },
+  {
+   "id": 37,
+   "text": "如何测量事故风险：前瞻 vs 回溯\n- Prospective（前瞻性，首选但较难）：例如让 1000 人现在完成各项测量，然后追踪未来 5 年谁出了事故、有多严重。能捕捉到致命事故。\n- Retrospective（回溯性，较容易但更有偏差）：现在测量，再问过去 5 年出过几次事故。问题：记忆偏差（人们容易忘记较轻的事故）；最严重的事故可能已导致死亡，这些人不在样本里。\n- 难点：平均每位司机约每 10 年才出一次事故，所以需要很大样本和很长追踪期。因此有时用代理指标（proxy），如 hazard perception 分数——但这时严格说预测的是 hazard perception 而非事故本身。也有大型研究直接看真实事故。"
+  },
+  {
+   "id": 38,
+   "text": "思考题与自测题（附答案）\n思考题：\n1. 一边听朋友聊天一边学习 → shifting（快速切换，有切换代价）；不理会朋友、专心学习 → inhibition；监控朋友是否说了和 30 秒前一样的话 → updating。\n2. EF 有 unity 也有 diversity（三种成分），为什么 CFQ 2.0 却落定单因子？可能解释：三种 EF 本来就彼此相关、不能完全分开；而且日常生活中的具体失误（如忘记约会）往往同时涉及抑制、切换等多种失败，在生活中这些成分缠在一起，只有实验室任务才把它们分开。\n3. 想降低自己的事故风险可以做什么？参加 hazard perception training（而不是只练车辆操控）；改善 driving style（遵守限速、不跟车太近等，这是今天就能做到的、最在自己掌控中的）；老年司机可以考虑 UFOV training。\n自测题答案：\n- 哪项不是执行功能？Shifting / Updating / Inhibition / Localising → Localising。\n- CFQ 分数：与抑郁正相关、与冲动性正相关、与认知共情负相关 → 以上皆是。\n- 关于 CFQ 2.0 哪项正确 → 它比原版包含更多当代认知失误（如忘记密码）。（不是\"只用 EFA 没用 CFA\"；不是\"与原版解释同样多方差\"——它解释更多；最终不是三因子而是一因子。）\n- 关于事故风险哪项正确 → UFOV 分数能预测事故风险。（并非所有司机风险相同；hazard perception 分数是能预测事故风险的。）"
+  }
+ ],
+ "sourceText": "# Lecture 11 · Personality Module Lecture 3：Executive Functions, Cognitive Failures & Crash Risk\n\n## [B0001] 本讲结构：三段预录视频\n\nPersonality Module Lecture 3（A/Prof Stephanie Goodhew），对应三段预录视频：\n- Video 3a：Executive functions（执行功能）\n- Video 3b：Cognitive failures（认知失误）\n- Video 3c：Individual differences in crash risk（驾驶事故风险的个体差异）\n主线：执行功能是领域通用的认知控制过程 → 日常认知失误（CFQ）是它在生活中的\"失灵\"表现，并能预测客观表现和心理健康 → 落到一个安全攸关的现实结果：开车出事故的风险。复习时抓：三种执行功能及其代表任务、CFQ 的相关方向、CFQ 2.0 的开发步骤和结论、driving skill 与 driving style 的区分、hazard perception 与 UFOV。\n\n## [B0002] 执行功能的定义：领域通用、额叶相关\n\nExecutive functions (EFs)：domain-general（领域通用）的认知过程，使人能够计划、追求并执行目标而不被分心干扰，并能同时处理多个任务或目标。\n- Domain-general：在几乎所有情境里都起作用（学习考试、社交、调节情绪），可以理解为\"不随情境变化\"的过程。\n- 对比 domain-specific（领域特定）：只在某类情境起作用，例如专门处理社交互动的机制。\n- 通常与大脑 frontal lobe（额叶）相关，是较高层的计划与控制（governance）过程。\n考试注意：EF 是\"领域通用\"，不是只管某一种任务。\n\n## [B0003] 执行功能的个体差异：能力与使用倾向\n\n人与人之间在执行功能上存在个体差异，而且差异包括两部分：\n- ability（能力）：能做到多好；\n- propensity（倾向）：平时实际有多大意愿/习惯去使用这种能力。\n课堂问答补充：实验室通常在尽量去除干扰的条件下测 EF（手机关掉、不许说话、安静），这测的更接近一个人的\"最大能力\"。但现实生活（如军事情境、开车）更关键的可能是：有干扰、有强烈情绪或要同时做多件事时，这个人还能不能把任务做好。从个体差异角度研究\"抗干扰的稳健性\"是正在发展的方向，可能更能预测现实功能和安全攸关任务表现。\n\n## [B0004] Unity and Diversity 模型\n\n执行功能具有 unity（统一性）和 diversity（多样性）：\n- Unity：所有执行功能任务之间都有一定相关——一个人在某个 EF 任务上表现好，往往在其他 EF 任务上也较好。所以谈论一个人\"整体的执行功能\"是有意义的。\n- Diversity：存在彼此相关更高的不同子成分。例如两个测 shifting（切换）的任务之间，相关会高于它们与另一种 EF 任务的相关。\n这个模型回答了\"EF 是一个东西还是许多独立过程\"的问题——答案是\"两者都有\"：总体上有统一性，低层次上又有特异性。\n\n## [B0005] 三种核心执行功能：Shifting、Updating、Inhibition\n\nUnity and diversity 模型在 diversity 一侧强调三种执行功能：\n1. Shifting（切换）\n2. Updating（更新工作记忆）\n3. Inhibition（抑制）\n模型提出时，作者明确说这不一定是 EF 的完整清单，希望别人继续找更多成分；但后来领域几乎把这三种当作\"标准\"执行功能。它们未必涵盖 EF 的全部，但在许多心理过程中都很重要。\n考试注意：课件自测题里\"Localising（定位）\"不是执行功能；复习题干扰项中的 impulsivity（冲动性）、attentional breadth（注意广度）、extraversion（外向性）也都不是。\n\n## [B0006] Shifting：任务切换与切换代价\n\nShifting = 在任务或心理定势（mental sets）之间切换的能力。\n代表任务：task-switching（任务切换）。例如呈现一个数字，有的试次要判断奇数/偶数，有的试次要判断比 5 大还是小，被试必须在两套分类规则之间切换。\n发现：\n- 每个人都有 switch cost（切换代价）：切换任务的试次比重复同一任务的试次更慢、更不准确。切换代价是普遍现象。\n- 但切换代价的大小有很大的个体差异——有些人受影响大得多。也就是说，个体差异在于切换的效率和有效性，而不是有没有切换代价。\n\n## [B0007] Updating：工作记忆的更新与监控（n-back）\n\nUpdating = 更新和监控工作记忆（working memory）的内容。\n- 工作记忆不只是\"记住\"，而是要对记住的内容主动加工（active manipulation rather than just passive storage）。例：给你一串数字，要求把前三个相加再减去后三个，并在短时间内完成。\n- 代表任务：n-back。以 3-back 为例：每秒读出一个字母（A、Z、K、F、D……），当当前字母与 3 个之前的字母相同时作出反应。n 越大越难，因为每出现一个新字母，\"3 个之前\"的那个字母就变了，必须不断更新记忆内容。\n课堂问答补充：complex span 任务（如一边做数学一边记字母）一般也归入 updating/工作记忆范畴。\n思考题例子：监控朋友是否说了和 30 秒前一样的话 → updating。\n\n## [B0008] Inhibition：抑制优势反应（Stroop）\n\nInhibition = 抑制 prepotent responses（优势反应，即非常自动、自然、自发的反应）。\n代表任务：Stroop。屏幕上出现颜色词，要求说出墨水颜色。词义与颜色一致（红色墨水写 RED）时又快又准；不一致（蓝色墨水写 RED）时明显受干扰。原因是对熟练掌握某种语言的人来说，读词是高度自动化的，很难抑制。\n- Stroop 效应几乎人人都有（只要熟练掌握该语言）。\n- 个体差异在于干扰效应的大小——多次试次中能把读词反应抑制得多好。\n思考题例子：努力不理会旁边朋友的谈话、专心学习 → inhibition。\n\n## [B0009] 执行功能与领域特定过程、冲动性和反社会性\n\n虽然 EF 是领域通用的，它们参与许多领域特定过程，例如：\n- emotion regulation（情绪调节）\n- perspective-taking（社会性换位思考：想到别人的想法与感受可能和自己不同）\nPoor executive function（执行功能差）与 impulsivity（冲动性）甚至 antisociality（反社会性）相关。老师举例：上一讲的 secondary psychopathic traits（次级精神病态特质）与执行功能呈负相关。\n总体上，EF 有助于日常社会与情绪幸福感，也影响任务表现：从大学考试到开车、操作重型机械等安全攸关任务。\n\n## [B0010] 多任务处理其实是快速切换\n\n课堂问答补充：我们在某一时刻基本只能做一件事，所以 multitasking（多任务）大多是在任务之间多次快速切换，除非任务非常自动化。\n- 虽然很多人自称擅长多任务，但多数数据表明，同时做几件事时，每件事都比单独做时差很多。\n- 思考题：一边听朋友聊天一边学习 → 主要是快速 shifting，每次切换都会有 switch cost，所以不是理想学习条件。切换时往往同时夹带 inhibition（转去学习时要抑制朋友的声音）——三种 EF 并非完全独立，但确实能有意义地区分开。\n\n## [B0011] 课堂问答：衰老与执行功能\n\n有同学问工作记忆随年龄下降的问题。要点：\n- 年龄增长时认知下降的速度差异很大，并没有统一的下降速度。\n- Fluid intelligence（流体智力：当下动态加工的\"在线\"容量）更容易受衰老影响；crystallised intelligence（晶体智力：一生积累的知识、技能和策略）相对保持，甚至还能继续提高。\n- 平均而言 EF 会下降，但图景没有那么悲观：许多老年人会采用补偿策略（更谨慎、更有动机），有时表现甚至优于年轻人。\n- 大脑是分布式网络，不能简单说\"某个脑区只做某件事\"。\n\n## [B0012] 课堂问答：练习与自动化\n\n练习让任务变得更自动化后：\n- 行为上更不容易受其他干扰影响——新任务时一点分心就会大幅降低表现，熟练任务受分心噪音的影响较小，也更能\"抵抗\"多任务带来的干扰。\n- 高度自动化的技能常变成内隐、非言语的编码，难以用语言说清楚（例如很难向别人解释怎么骑自行车）。\n- 额叶仍会有一定参与。\n\n## [B0013] 认知失误：人人都会犯，但频率有个体差异\n\nCognitive failures（认知失误）通常指对\"走神/出错\"的主观体验。To err is human——日常出错不可避免。\n- 有时后果很轻微：忘了自己为什么从房子一处走到另一处。\n- 有时后果严重：在路口没注意到另一辆车就开出去，可能伤及自己、对方和乘客。\n- 每个人都会有认知失误，但其频率存在清晰且有意义的个体差异。\n\n## [B0014] Cognitive Failures Questionnaire（CFQ）\n\nCFQ 是测量认知失误的常用工具（原版发表于 1982 年，被引用极多）：\n- 25 个条目；\n- 让答题者报告过去 6 个月中经历各类认知失误的频率（5 点量表，从\"从不\"到\"非常频繁\"，用来捕捉发生的规律/频率）。\n示例条目：\n- 你会忘记自己为什么从房子的一处走到另一处吗？\n- 你会没注意到路上的路标吗？\n- 该听别人讲话时你会做白日梦吗？\n- 你会忘了去商店要买什么吗？\n- 你会忘记约会/预约吗？\n课堂问答补充：原版有一题问 tip-of-the-tongue（话到嘴边说不出），即使最后想起来，那段卡住的过程通常也算认知失误；这题没有进入 CFQ 2.0。\n\n## [B0015] CFQ 与客观指标相关：不只是主观看法\n\n有研究者看不起主观报告，但 CFQ 总分确实与许多客观指标相关：\n- Executive function 任务表现；\n- Sustained Attention to Response Task（SART）表现：屏幕约每秒呈现一个数字，每次按空格键，但出现数字 3 时不能按。测的是 commission errors（误按，即 false alarms），误按越多，持续注意越差；CFQ 与这类错误相关。\n- 注意控制相关脑区的 brain function（如 fMRI 测的激活/血流）；\n- 注意控制相关脑区的 brain structure（脑结构个体差异）；\n- 现实结果：car crash risk（开车出事故的风险），尤其是 at-fault（本人负责的）事故。\n结论：CFQ 不只是对认知表现的\"信念\"，它确实与客观表现相关。\n\n## [B0016] CFQ 与心理健康、幸福感相关\n\nCFQ 得分高（认知失误多）的人也倾向于：\n- Depression（抑郁症状）更多 —— 正相关\n- Trait anxiety（特质焦虑）更高 —— 正相关\n- Burnout（倦怠）风险更大 —— 正相关\n- Procrastination（拖延）更多 —— 正相关\n- Impulsivity（冲动性）更高 —— 正相关\n另外：driving aggression（驾驶攻击性）正相关、stress（压力）正相关；life satisfaction（生活满意度）负相关；successful ageing（成功老化：老年人主观觉得自己心理功能良好）负相关。\n总体：认知失误多与较差的心理健康和幸福感相关。\n\n## [B0017] CFQ 与情绪调节、共情：注意相关方向\n\nCFQ 与以下变量的相关方向（考试易混）：\n- Rumination（反刍，反复想同一类通常负面的念头）：正相关\n- Reappraisal（认知重评：改变看待情境的方式以降低负面情绪，一种适应性情绪调节策略）：负相关——认知失误多的人日常较少使用重评\n- Difficulties with emotion regulation（情绪调节困难）：正相关\n- Cognitive empathy（认知共情：理解别人心里在想什么、感受什么）：负相关\n- Affective empathy（情感共情：被别人的情绪\"传染\"）：正相关\n记忆法：认知失误多 → \"理解别人\"更弱，但\"被别人情绪感染\"更强。\n\n## [B0018] 原版 CFQ 的问题：条目过时、因子结构争议\n\n问题一：CFQ 已有 40 多年历史（1982）。\n- 条目带有时代痕迹：如\"你会忘记把报纸或书之类的东西放在哪里吗？\"\"你会把重要信件搁置好几天不回吗？\"（今天也许应改成邮件）。\n- 没有任何与科技相关的条目，而现代生活中与科技互动、在其中出错的机会很多。\n问题二：40 多年来对 CFQ 的 factor structure（因子结构，即量表背后的潜在结构）争论不断。\n- 原作者尝试多种结构都很混乱，于是只保留一个单一因子\"认知失误\"。\n- 之后许多研究做因子分析，结果不一致、难以重复，结构很不稳定。\n- 可能原因：每个潜在因子对应的条目太少。因子分析的基本原则是一个因子必须有足够多的条目才能\"浮现\"。例如\"你会发脾气然后后悔吗？\"是 25 题中唯一涉及情绪调节失败的条目，即使情绪调节失败是有意义的子维度，也不可能被识别出来。\n\n## [B0019] CFQ 2.0 的目标\n\nGoodhew 团队开发 CFQ 2.0，目标有两个：\nA. 纳入更贴近当代生活的认知失误例子（如忘记密码）；\nB. 尝试找出 CFQ\"真正的\"因子结构。\n做法：为原版 25 题逐一分析可能涉及的成分过程，写出能捕捉这些不同潜在心理过程的新条目。\n\n## [B0020] CFQ 2.0 Study 1：探索性因子分析（EFA）\n\nStudy 1：64 个新条目 + 25 个原版条目，大样本作答后做 Exploratory Factor Analysis（EFA，探索性因子分析：让统计根据大量条目和大量被试的回答\"告诉你\"潜在结构是什么）。\n结果：一个很强的因子 + 两个可能的附加因子（EFA 常常这样不太清晰）。\n- Factor 1：Inattentiveness/Forgetfulness（不专注/健忘，15 个条目），如\"你会忘记为什么从房子一处走到另一处吗？\"\"你会忘记需要记住的密码吗？\"\n- Factor 2：Emotion Regulation and Planning Failures（情绪调节与计划失误，11 个条目），如\"你难以做决定吗？\"\"你常被自己的情绪淹没吗？\"\n- Factor 3：Organisation and Tidiness（条理与整洁，5 个条目），如\"收拾行李箱时你会把衣服叠整齐吗？\"（反向计分）\n图示（课件图片页，内容依老师口述）：碎石图中第一个因子的特征值（eigenvalue）约 25，承担了绝大部分\"重活\"；因子 2、3 只是勉强高于代表\"机会水平\"的那条线。三个因子之间相关约 0.5（正相关，属较强相关）。\n于是留下疑问：到底是一因子还是三因子？需要进一步检验。老师说图表细节不必太担心。\n\n## [B0021] CFQ 2.0 Study 2：验证性因子分析（CFA）\n\nStudy 2 用新样本做 Confirmatory Factor Analysis（CFA，验证性因子分析：先告诉统计\"我认为模型是这样\"，再看新数据与这个模型的拟合程度）。这是检验模型的下一步逻辑。\n比较三个模型：\n- CFQ 2.0 一因子模型（只有 Inattentiveness/Forgetfulness）\n- CFQ 2.0 三因子模型\n- 原版 CFQ（作参照）\n关键指标 CFI：≥ 0.90 被视为可接受拟合的基准。\n结果（图表依老师口述）：一因子模型超过 0.90（通过）；三因子模型拟合不够好（不通过）；原版 CFQ 更差，约 0.83。→ 一因子模型明显胜出。\n考试注意：CFQ 2.0 的开发同时用了 EFA 和 CFA；老师说两者都应该用于量表开发。\n\n## [B0022] CFQ 2.0 Study 3：重复验证与增量效度\n\nStudy 3：\n- 在另一个新样本中重复 Study 2 的 CFA，结果完全一样：新问卷的一因子模型优于三因子模型和原版。\n- Incremental validity（增量效度）：新量表必须证明它比已有量表更能预测你关心的结果，否则大家会继续用原版。结果：CFQ 2.0 分数比原版 CFQ 分数更好地预测了每个人在客观注意控制任务（attentional control task）上的表现——即解释了更多方差。\n\n## [B0023] CFQ 2.0 Study 4–5：与相关构念的关系、重测信度\n\nStudy 4：新量表应与其他变量呈现该构念\"应有\"的关系。与原版 CFQ 以往的发现一致，CFQ 2.0 分数与以下变量相关：\n- Reduced focusing（自评专注能力较低）\n- Reduced shifting（自评切换能力较低）\n- Reduced cognitive empathy（认知共情较低）\n- Increased affective empathy（情感共情较高）\n- Increased negative affect（负性情感较高）\nStudy 5：test-retest reliability（重测信度）——同一批人间隔 1 周再做一次，两次分数相关 r = .88，个人分数相当稳定。\n\n## [B0024] CFQ 2.0 小结：量表开发的步骤\n\n从 CFQ 2.0 可以看到开发新问卷的典型步骤：\n1. 写条目（覆盖可能的潜在过程）→ 2. EFA 探索结构 → 3. 新样本 CFA 检验结构 → 4. 再用新样本重复 → 5. 增量效度（比旧量表预测得更好）→ 6. 与相关构念的关系符合预期 → 7. 重测信度。\n最终形式：一个因子（single factor），包含更多当代条目（如忘记密码）。\n带走的信息：原版 CFQ 很重要、有大量效度证据，一份问卷主导文献 40 年非常少见；老师并非否定原版，只是它\"过时\"了，CFQ 2.0 更适合当代样本。\n\n## [B0025] 课堂问答：主观问卷的局限\n\n优点：问\"失误\"是具体可报告的结果。直接问\"你擅长切换注意吗\"，多数人不知如何评；问\"过去一个月忘了几次\"，人们更容易报告。\n局限（都会成为 error variance，误差方差）：\n- Compensatory strategies（补偿策略）：用 Google Calendar 就不会忘约会，用密码管理器就不会忘密码，问卷分数低未必代表认知好。目前还没有测量补偿策略的工具。\n- Differential opportunity（发生失误的机会不同）：过去 6 个月都坐火车、没开车的人，就没有机会\"错过路标\"。\n- 动机性不诚实：如果雇主用来筛查谁在工作中有风险，人们可能不会如实报告。可用不太受社会赞许偏差影响的行为测验补充，如 sustained attention task（SART）。匿名、去标识化的研究中，人们通常相当坦诚，甚至愿意承认反社会、攻击性等不受欢迎的特质。\n\n## [B0026] 课堂问答：CFQ 与事故风险的证据、机制与干预\n\n证据：研究让人先填（原版）CFQ，再追踪之后约 6 个月是否出事故、是否本人责任、严重程度等。CFQ 与这些结果相关——不完美，但比只用\"平均司机\"的信息更能洞察个人风险。也有把多个预测指标\"正面比较\"的研究（如与驾驶模拟器表现比）。\n不能当作法律辩护：心理学多描述\"平均而言\"的规律，没有精确到能说某一次事故就是由这个人的问卷分数导致的，也可能是情境因素。\n更广的后果：军人样本中 CFQ 高者职业事故（自己受伤或伤到别人）也更多。\n可能机制：\n- mind wandering（走神）与认知失误密切相关，资源有限时想着别的事开车更危险（可能是多因素的）；\n- 大脑 error detection（错误察觉）区域：CFQ 高者犯错后这些区域激活较弱，\"该更专心了\"的信号可能较弱；\n- 唤醒水平两端都可能导致失误：高唤醒/负性情绪（反刍）或低唤醒/疲劳；CFQ 不区分这两种来源。\n可能干预：mindfulness meditation（正念冥想，减少走神）；hazard perception training（危险感知训练）。\n\n## [B0027] 驾驶事故风险：为何研究个体差异\n\n- 开车很重要：能让人参与社交活动和其他对健康与幸福感有益的生活部分。例如老年人停止开车的时间点往往伴随身体和认知健康下降，可能与更难去见朋友有关。\n- 但事故会带来巨大的个人和经济负担（责任方及其他受害者）。\n- 事故风险存在可靠的个体差异：每个人都有风险，但并非人人风险相等。\n- 找出预测事故风险的心理因素的用处：(1) 识别谁处于高风险、需要干预；(2) 找到该针对的过程——若某认知过程对事故风险很重要，就可以设计训练来改善它，从而降低风险。\n\n## [B0028] 一般预测因子：里程、经验与年龄\n\n- KMs driven（行驶里程）：在其他条件相同时，开得越多，暴露越多，风险越高（即使自己很安全，也会遇到不安全的其他司机）。\n- Experience（经验）：经验本身是保护因素。拿到驾照后的头几年是风险高峰，缺乏经验是事故的重要因素。\n- Age（年龄）：年轻与缺乏经验通常同时出现，难以分开；年轻、无经验的司机风险很高。约 60 岁以后，该群体整体风险有所上升，但这主要由其中一部分人风险显著加速上升所驱动，并非人人如此。\n\n## [B0029] 两类驾驶相关预测因子：Driving Skill 与 Driving Style\n\n驾驶研究文献区分两类关键的驾驶相关个体差异：\n- Driving skill（驾驶技能）：包括车辆操控（vehicle control）和危险感知（hazard perception）。\n- Driving style（驾驶风格）：司机自己选择怎么开，包括 speed choice（车速选择）、following distance（跟车距离）、gap acceptance（汇入车流时接受的间隙）、distraction（分心）、fatigue / mental state（疲劳/精神状态）。\n考试注意：vehicle control 属于 skill，不是 style。\n\n## [B0030] Driving Skill：车辆操控 vs 危险感知\n\n- Vehicle control skills（车辆操控：换挡、操纵车辆等最初学的东西）：初学时很关键，但一旦掌握、变得自动化后，就不再能预测事故风险。有趣的是，很多驾驶培训恰恰集中在这些操控技能上。\n- Hazard perception（危险感知）：更偏认知/心理的能力——\"读懂交通\"、有情境意识、预判其他道路使用者将要做什么、自己该如何回应以避免碰撞。它对事故风险有很强的预测力。\n- Hazard perception training（危险感知训练）能有效降低事故风险，是少数被证明训练后真能降低事故风险的训练形式之一。\n\n## [B0031] 为什么很多驾驶培训无效：过度自信\n\n许多出于好意的驾驶培训项目，经系统、科学的检验（受训者未来 5–10 年的事故是否比未受训者少）后往往效果不佳。可能原因：培训会提高司机的信心，而过度自信（overconfidence）会让人做出不安全的驾驶风格选择。\n例：欧洲曾大规模推行 skid training（在冰面上如何操控打滑车辆的训练）。评估发现，受训者的事故风险反而略高于对照组，似乎因为他们更愿意在恶劣天气下开车。\n相反，hazard perception training 往往让司机\"谦虚\"：新手看到老司机说出自己边开边注意的一切（\"我在看那个人，这辆车可能会过来……\"）时会意识到\"原来我该做这么多\"，从而更好地校准对自身技能水平的判断，也提高了主动思考危险的倾向（propensity）。\n\n## [B0032] Driving Style：车速、跟车距离、间隙接受\n\n- Speed choice（车速选择）：开得越快，事故风险越高。\n- Following distance（跟车距离）：俗称 tailgating（跟车太近），与前车距离小，风险大得多。任何反应都需要时间：车速 60 km/h 时每秒约行驶 16 米，而较复杂的决定常需要 1 秒以上。\n- Gap acceptance（间隙接受）：汇入车流时，两车之间多大的空隙你才觉得够。接受间隙更\"随意\"（更小间隙就冲）的人比等待更大间隙的人风险更高。\n\n## [B0033] Driving Style：分心、疲劳与精神状态\n\n- Distraction（分心）：重大问题。澳大利亚事故数据显示，大多数有记录的严重事故之前都发生过某种分心事件。\n- Fatigue / mental state（疲劳/精神状态）：生气、疲倦、抑郁时开车，甚至近几周经历重大生活事件（如正在离婚）的人，事故风险也会升高。可能机制是反刍和走神——想着当下很突出的事，注意力离开了驾驶任务。\n课堂问答补充（性别）：在 hazard perception 上一般看不到性别差异；性别差异更多体现在 driving style 上，平均而言男性司机的驾驶风格选择更差，但两组内部差异都很大。\n\n## [B0034] 认知预测因子：CFQ、UFOV 及年龄差异\n\n课件列出的认知预测因子：\n- 认知失误（CFQ）越高 → 事故风险越高（证据主要来自年轻司机，对老年司机不太成立）。\n- Useful Field of View（UFOV，有效视野）任务表现越差 → 事故风险越高（对老年司机证据最有力，对年轻司机证据有限）。\n- UFOV training（UFOV 训练）可降低老年司机的事故风险，效果在训练后 10 年仍可见。\n课堂问答补充（尚在同行评审中的研究）：在 18–25 岁的 provisional（见习）年轻司机中，主观认知失误与 hazard perception 表现强相关，而执行功能类认知任务关系不大；在 60–80 岁老年司机中正好相反——主观认知失误与 hazard perception 无关，执行功能任务表现与之密切相关。说明事故风险背后的认知过程可能随年龄不同，主观测量也许更适合年轻人。\n\n## [B0035] UFOV 任务是什么\n\nUFOV 是一个\"有点古怪\"的视觉认知任务（课件图片页展示了较难的子任务，内容依老师口述）：\n- 刺激非常短暂地闪现，随后被遮蔽（有东西盖在上面），所以必须很快处理。\n- 每个试次做两个反应：(1) 中央刺激是 car（小汽车）还是 truck（卡车）；(2) 外圈 8 个可能位置中，周边目标出现在哪里（定位）。\n- 测的是：刺激需要呈现多久，被试才能较准确完成这两项任务——即 threshold（阈限）。\n- 阈限越低（呈现很短就能做对）= 表现越好 = 加工速度越快 = 事故风险越低；需要更长呈现时间的人加工速度较慢，事故风险更高。\n- UFOV 训练就是做大量这类试次，被试觉得有点无聊，但非常有益。\n\n## [B0036] 认知训练与远迁移：UFOV 是例外\n\n认知训练文献中有大量尝试想真正改善人的底层认知能力。普遍结论：只要训练足够，人几乎能把任何具体任务做得更好，但很少能泛化到其他事情——缺乏 far transfer（远迁移）。\nUFOV 训练是例外：它不仅提高 UFOV 任务表现，还让人成为更安全的司机，训练 10 年后事故更少。\n课堂问答补充：\n- EF 训练的远迁移证据是混合的：早期研究看似很有希望，后来许多重复失败；也有一些成功例子，可能存在调节因素。\n- 训练提高成绩，可能多半是学到了针对该任务的策略，降低了任务复杂度，换任务就用不上。\n- 不能因此说不用担心领域通用能力：即使难以提高，它仍可能下降。把大量思考交给生成式 AI（如 ChatGPT）的长期影响尚不清楚；老师推测 self-efficacy（自我效能）可能最先受影响，但需要硬数据。\n- Hazard perception 训练与 UFOV 训练尚未被结合研究过。\n\n## [B0037] 如何测量事故风险：前瞻 vs 回溯\n\n- Prospective（前瞻性，首选但较难）：例如让 1000 人现在完成各项测量，然后追踪未来 5 年谁出了事故、有多严重。能捕捉到致命事故。\n- Retrospective（回溯性，较容易但更有偏差）：现在测量，再问过去 5 年出过几次事故。问题：记忆偏差（人们容易忘记较轻的事故）；最严重的事故可能已导致死亡，这些人不在样本里。\n- 难点：平均每位司机约每 10 年才出一次事故，所以需要很大样本和很长追踪期。因此有时用代理指标（proxy），如 hazard perception 分数——但这时严格说预测的是 hazard perception 而非事故本身。也有大型研究直接看真实事故。\n\n## [B0038] 思考题与自测题（附答案）\n\n思考题：\n1. 一边听朋友聊天一边学习 → shifting（快速切换，有切换代价）；不理会朋友、专心学习 → inhibition；监控朋友是否说了和 30 秒前一样的话 → updating。\n2. EF 有 unity 也有 diversity（三种成分），为什么 CFQ 2.0 却落定单因子？可能解释：三种 EF 本来就彼此相关、不能完全分开；而且日常生活中的具体失误（如忘记约会）往往同时涉及抑制、切换等多种失败，在生活中这些成分缠在一起，只有实验室任务才把它们分开。\n3. 想降低自己的事故风险可以做什么？参加 hazard perception training（而不是只练车辆操控）；改善 driving style（遵守限速、不跟车太近等，这是今天就能做到的、最在自己掌控中的）；老年司机可以考虑 UFOV training。\n自测题答案：\n- 哪项不是执行功能？Shifting / Updating / Inhibition / Localising → Localising。\n- CFQ 分数：与抑郁正相关、与冲动性正相关、与认知共情负相关 → 以上皆是。\n- 关于 CFQ 2.0 哪项正确 → 它比原版包含更多当代认知失误（如忘记密码）。（不是\"只用 EFA 没用 CFA\"；不是\"与原版解释同样多方差\"——它解释更多；最终不是三因子而是一因子。）\n- 关于事故风险哪项正确 → UFOV 分数能预测事故风险。（并非所有司机风险相同；hazard perception 分数是能预测事故风险的。）"
+}

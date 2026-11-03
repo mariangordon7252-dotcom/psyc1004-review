@@ -1,0 +1,1769 @@
+{
+  "id": 2,
+  "title": "刻板印象、偏见与歧视",
+  "subtitle": "Stereotyping, Prejudice & Discrimination",
+  "summary": "先比较偏见的五种解释：群体竞争、挫折转移、权威主义、认知捷径和社会认同。再看接触、共同身份、双重认同及制度改变怎样减少偏见。重点是：相关不等于因果，接触也不是越多越好，还要看互动质量和少数群体承担的负担。",
+  "concepts": [
+    {
+      "id": "L2-C01",
+      "title": "刻板印象、偏见与歧视",
+      "english": "Stereotyping, prejudice and discrimination",
+      "oneLine": "刻板印象是怎么想，偏见是怎么评价，歧视是怎么对待；三者有关，但不是一回事。",
+      "analogy": "像脑中的标签、对人的评价和实际待遇，三者可能连接但不是同一件事。",
+      "simpleExample": "自拟例：认为某专业学生都不善社交是刻板概括；因此讨厌他们是偏见；拒绝他们参加活动是歧视。",
+      "explanation": "刻板印象是用一组特征概括整个群体；偏见是因为群体身份而负面评价别人；歧视则是因为身份而给予不同或不公平的待遇。想法、态度和行动不一定一致，所以有刻板印象或偏见，不等于一定实施歧视。只优待自己群体，也可能让别人受到不公平待遇。",
+      "example": "自拟例：认为某专业学生都不善社交是刻板概括；因此讨厌他们是偏见；拒绝他们参加活动是歧视。",
+      "pitfall": "不要把三者写成必然按顺序发生的同一现象。",
+      "source": "L2 · Three Core Concepts三个核心概念 · [B0007–B0009]",
+      "front": "刻板印象、偏见和歧视分别更关注什么？",
+      "back": "群体特征概括、负面态度或评价、不公平行为或待遇。",
+      "cardBack": "群体特征概括、负面态度或评价、不公平行为或待遇。"
+    },
+    {
+      "id": "L2-C02",
+      "title": "社会文化解释：群体关系",
+      "english": "Socio-cultural approach",
+      "oneLine": "偏见可来自竞争和合作关系的变化，不只是个人坏性格。",
+      "analogy": "像原本和谐的两个队伍，在零和比赛后开始敌视。",
+      "simpleExample": "自拟例：两社团只有一个活动名额时彼此贬低，改成共同办活动后关系改善。",
+      "explanation": "群体之间合作时，态度可能更积极；竞争时，则可能感到威胁并产生偏见。社会文化解释关心的是：关系和情境怎样改变普通人的反应，而不是把偏见全归给某些人的坏性格。",
+      "example": "自拟例：两社团只有一个活动名额时彼此贬低，改成共同办活动后关系改善。",
+      "pitfall": "社会文化解释不是“所有偏见都只由资源竞争造成”。",
+      "source": "L2 · 社会文化解释 · [B0012–B0012]",
+      "front": "社会文化解释把偏见的主要来源放在哪里？",
+      "back": "重点看群体怎样相处、是在合作还是竞争，而不是只看个人性格。",
+      "cardBack": "重点看群体怎样相处、是在合作还是竞争，而不是只看个人性格。"
+    },
+    {
+      "id": "L2-C03",
+      "title": "Sherif 夏令营：设计与结果",
+      "english": "Sherif's boys' camp studies; Robbers Cave",
+      "oneLine": "竞争后，光见面未必能消除敌意；需要彼此合作的共同目标更有帮助。",
+      "analogy": "像先分队争奖品，再只一起吃饭并不足以修复队伍关系。",
+      "simpleExample": "自拟例：两组为奖杯争执，后来一起看电影仍吵架，需设计真正合作的任务。",
+      "explanation": "研究先让各组形成凝聚力，再安排竞争，接着让他们普通见面，最后设置必须合作的共同目标。普通接触没有自动消除敌意，合作目标则有帮助。但参与者主要是约 12 岁的白人中产男孩，结论不能直接推广给所有人；部分研究中的竞争也可能受到实验者引导。",
+      "example": "自拟例：两组为奖杯争执，后来一起看电影仍吵架，需设计真正合作的任务。",
+      "pitfall": "不能把普通见面等同于有效合作，也不能忽视狭窄样本。",
+      "source": "L2 · Sherif男孩夏令营研究／Robbers Cave研究 · [B0022–B0027]",
+      "front": "Sherif 夏令营中普通接触与共同依赖目标有何不同结果？",
+      "back": "普通接触未自动减少敌意；必须合作的共同目标明显有帮助。",
+      "cardBack": "普通接触未自动减少敌意；必须合作的共同目标明显有帮助。"
+    },
+    {
+      "id": "L2-C04",
+      "title": "超级目标与互相依赖",
+      "english": "Superordinate goals; shared interdependent goals",
+      "oneLine": "有效的共同目标需要各组无法单独完成、必须合作。",
+      "analogy": "像两队都推不动卡车，只有一起推才有食物送到。",
+      "simpleExample": "自拟例：两个社团各自缺一半资源，必须合作修复所有人共用的设备。",
+      "explanation": "超级目标要同时满足两点：双方都重视，而且任何一方都不能单独完成。例如修复供水、推动运输车，需要两组一起做。只喊同一个口号还不够，关键是成功真的需要彼此合作。",
+      "example": "自拟例：两个社团各自缺一半资源，必须合作修复所有人共用的设备。",
+      "pitfall": "共同目标不是两组各自都想赢的互斥目标。",
+      "source": "L2 · Phase 4：Superordinate Goals超级目标／高阶共同目标 · [B0027–B0029]",
+      "front": "什么样的共同目标才符合超级目标的关键条件？",
+      "back": "双方都重视，任何一方不能独立完成，必须互相合作。",
+      "cardBack": "双方都重视，任何一方不能独立完成，必须互相合作。"
+    },
+    {
+      "id": "L2-C05",
+      "title": "现实冲突理论与群体中心主义",
+      "english": "Realistic Conflict Theory; ethnocentrism",
+      "oneLine": "稀缺资源与互斥目标可带来竞争、威胁和群际敌意。",
+      "analogy": "像同一块奖品只能给一个队，双方成功条件互相冲突。",
+      "simpleExample": "自拟例：两个社团争唯一场地时把对方说成不值得信任。",
+      "explanation": "现实冲突理论关注实际利益冲突：资源有限，一组拿到，另一组就拿不到。这种竞争可能带来威胁、偏见和冲突。群体中心主义则是把自己群体看作正常或更好、把外群体看作较差，从而可能支持不平等待遇。",
+      "example": "自拟例：两个社团争唯一场地时把对方说成不值得信任。",
+      "pitfall": "不能把 RCT 当成偏见人格理论；资源竞争不是所有偏见的必要条件。",
+      "source": "L2 · 现实冲突理论／现实性群体冲突理论 · [B0029–B0029]",
+      "front": "RCT 的核心因果链是什么？",
+      "back": "稀缺资源加互斥目标，引发竞争与威胁，进而可能产生偏见和冲突。",
+      "cardBack": "稀缺资源加互斥目标，引发竞争与威胁，进而可能产生偏见和冲突。"
+    },
+    {
+      "id": "L2-C06",
+      "title": "现实冲突理论的边界",
+      "english": "Limitations of Realistic Conflict Theory",
+      "oneLine": "RCT 解释了竞争的影响，但还要看人怎么想、实验者怎么引导，以及制度是否仍不公平。",
+      "analogy": "像知道争抢后会吵架，还要解释怎么想、谁引导，以及规则为何不公平。",
+      "simpleExample": "自拟例：两组短期合作后，回到仍隔离分配资源的制度中，敌意可能继续。",
+      "explanation": "RCT 能说明竞争后群体关系怎样改变，却没有完整解释人为什么会这样想和行动。实验者的引导也可能影响结果。现实中很难安排真正需要彼此合作的目标，而且一次短期合作不会自动解决长期的制度不平等。",
+      "example": "自拟例：两组短期合作后，回到仍隔离分配资源的制度中，敌意可能继续。",
+      "pitfall": "不能把一次合作成功当成制度不平等已经解决。",
+      "source": "L2 · RCT的局限 · [B0032–B0032]",
+      "front": "RCT 为什么需要与其他解释及结构分析结合？",
+      "back": "还需解释心理机制、权威引导及持续的制度不平等。",
+      "cardBack": "还需解释心理机制、权威引导及持续的制度不平等。"
+    },
+    {
+      "id": "L2-C07",
+      "title": "挫折—攻击与替罪羊",
+      "english": "Frustration–aggression hypothesis; scapegoating",
+      "oneLine": "受挫后可能把气撒向别人，但不是每次受挫都会攻击，攻击也不一定先有挫折。",
+      "analogy": "像无法向真正有权力的阻挡者发泄，于是把气撒向较弱对象。",
+      "simpleExample": "自拟例：被主管否决后，有人无证据地责怪无关新同事；并非所有受挫者都会这样做。",
+      "explanation": "Dollard 的早期模型认为挫折与攻击有必然联系，攻击还可能转向更安全的替罪羊。Miller 与 Bugelski 曾发现，让人受挫会使其对少数群体的态度更负面，但后续结果并不稳定。因此，有挫折未必攻击，没有明显挫折也可能攻击。",
+      "example": "自拟例：被主管否决后，有人无证据地责怪无关新同事；并非所有受挫者都会这样做。",
+      "pitfall": "不要把旧理论的必然命题当成已被证实的普遍规律。",
+      "source": "L2 · 挫折—攻击假说 · [B0038–B0041]",
+      "front": "“挫折既非攻击必要条件也非充分条件”是什么意思？",
+      "back": "可能受挫而不攻击，也可能没有明显挫折却攻击。",
+      "cardBack": "可能受挫而不攻击，也可能没有明显挫折却攻击。"
+    },
+    {
+      "id": "L2-C08",
+      "title": "Berkowitz：主观剥夺与厌恶事件",
+      "english": "Berkowitz's reformulation",
+      "oneLine": "觉得自己吃亏、过去的群体敌意，以及疼痛等不愉快事件，都可能影响攻击和替罪羊选择。",
+      "analogy": "像同样的损失，是否觉得被不公平对待以及既有故事会改变矛头指向。",
+      "simpleExample": "自拟例：有人听到“资源被某群体抢走”的叙事，虽未证实损失，也感到被剥夺。",
+      "explanation": "Berkowitz 不只看目标受阻，也考虑疼痛、温度、噪声等令人不舒服的事件。他还强调，觉得自己被剥夺不等于真的有客观损失。人也不是随便选替罪羊，过去的冲突和威胁说法会影响攻击对象。不过，这仍不能完整解释社会规范和大规模集体行动。",
+      "example": "自拟例：有人听到“资源被某群体抢走”的叙事，虽未证实损失，也感到被剥夺。",
+      "pitfall": "主观剥夺不必等于实际损失，厌恶事件也不保证攻击发生。",
+      "source": "L2 · Berkowitz的重新解释 · [B0043–B0046]",
+      "front": "Berkowitz 相比原始模型补充了哪三方面？",
+      "back": "不只看实际损失，也看主观感受；替罪羊选择受过去敌意影响；疼痛、噪声等不愉快事件也可能引发攻击。",
+      "cardBack": "不只看实际损失，也看主观感受；替罪羊选择受过去敌意影响；疼痛、噪声等不愉快事件也可能引发攻击。"
+    },
+    {
+      "id": "L2-C09",
+      "title": "权威主义人格：原始理论",
+      "english": "Authoritarian personality; Adorno",
+      "oneLine": "早期人格理论把偏见与思考僵化、服从强势权威、难以接受模糊答案等倾向联系起来。",
+      "analogy": "像面对复杂问题只接受黑白答案，并依赖强权来消除不确定。",
+      "simpleExample": "自拟例：某人拒绝讨论例外，认为传统规则不能质疑，并赞同强势权威。",
+      "explanation": "Adorno 认为，早期家庭中的严厉惩罚可能与不安全感、僵化思考和权威主义有关。这是理论提出的联系，不是说严厉家庭一定养成有偏见的人。只看个人性格，也难以解释为什么整个社会会在某个历史时期一起改变。",
+      "example": "自拟例：某人拒绝讨论例外，认为传统规则不能质疑，并赞同强势权威。",
+      "pitfall": "家庭经历与偏见不是简单的一对一命定关系。",
+      "source": "L2 · 权威主义人格 · [B0071–B0072]",
+      "front": "为什么不能说“严厉家庭必然制造偏见人格”？",
+      "back": "理论提出了可能的联系，没有证明每个严厉家庭都会产生同样的人格或偏见。",
+      "cardBack": "理论提出了可能的联系，没有证明每个严厉家庭都会产生同样的人格或偏见。"
+    },
+    {
+      "id": "L2-C10",
+      "title": "RWA 的三个维度",
+      "english": "Right-Wing Authoritarianism",
+      "oneLine": "RWA 包括权威服从、权威攻击和传统主义。",
+      "analogy": "像三个旋钮：听合法权威、攻击权威指定目标、守权威认可传统。",
+      "simpleExample": "自拟例：问卷分别询问是否高度服从权威、惩罚指定群体、坚持传统规范。",
+      "explanation": "Altemeyer 把 RWA 分成三部分：服从被认可的权威，攻击权威或社会秩序指向的对象，坚持传统规范。对应术语是 authoritarian submission、authoritarian aggression 和 conventionalism。分数与某种行为相关，不代表每个高分者都会做出同样行为。",
+      "example": "自拟例：问卷分别询问是否高度服从权威、惩罚指定群体、坚持传统规范。",
+      "pitfall": "不要把三个维度混成单一的“攻击性”，或把相关写成必然因果。",
+      "source": "L2 · 右翼权威主义 · [B0075–B0076]",
+      "front": "RWA 三个核心维度分别是什么？",
+      "back": "权威服从、权威攻击、传统主义。",
+      "cardBack": "权威服从、权威攻击、传统主义。"
+    },
+    {
+      "id": "L2-C11",
+      "title": "RWA：特质与情境",
+      "english": "RWA as trait and context-sensitive attitude",
+      "oneLine": "RWA 可能含稳定倾向，也会随威胁、权力与社会情境变化。",
+      "analogy": "像音量旋钮有常用位置，但环境变化时仍可调节。",
+      "simpleExample": "自拟例：同一人在感到外群体威胁后，更支持强势权威与严厉规则。",
+      "explanation": "同一个人的 RWA 分数会随威胁、权力和社会情境改变，所以不能把它当成永远固定的人格。分数可能同时反映较稳定的倾向和当下态度。只靠人格理论，也很难解释整个社会在某个时期同时出现的偏见。",
+      "example": "自拟例：同一人在感到外群体威胁后，更支持强势权威与严厉规则。",
+      "pitfall": "不能把同一个人分数变化误当成“人格研究毫无价值”，也不能说分数永远固定。",
+      "source": "L2 · 关键批判：RWA真的是固定人格吗？ · [B0076–B0076]",
+      "front": "RWA 分数随威胁改变，对固定人格解释意味着什么？",
+      "back": "测量可能同时反映稳定倾向和可变社会态度。",
+      "cardBack": "测量可能同时反映稳定倾向和可变社会态度。"
+    },
+    {
+      "id": "L2-C12",
+      "title": "认知吝啬者与捷径",
+      "english": "Cognitive miser; cognitive approach",
+      "oneLine": "有限加工能力让人依赖分类捷径，捷径可快但会误判。",
+      "analogy": "像手机省电模式减少处理步骤，省资源但可能丢失细节。",
+      "simpleExample": "自拟例：赶时间浏览申请时，只看专业标签便推断每个人的沟通能力。",
+      "explanation": "Lippmann 指出，社会太复杂，人需要用概括来理解；Fiske 与 Taylor 则强调人的信息处理能力有限，也会出错。疲劳、赶时间或信息太多时，人可能更依赖刻板印象。不过，“省脑力”不能解释全部偏见，还要看群体关系、政治用途和历史上谁被针对。",
+      "example": "自拟例：赶时间浏览申请时，只看专业标签便推断每个人的沟通能力。",
+      "pitfall": "正常认知过程不等于公平或准确，也不是对不公平行为的免责。",
+      "source": "L2 · 认知解释 · [B0079–B0082]",
+      "front": "认知解释为何认为刻板印象不只来自异常人格？",
+      "back": "普通人也会用分类来节省脑力；这种常见做法可能漏掉个体差异，造成误判和不公平。",
+      "cardBack": "普通人也会用分类来节省脑力；这种常见做法可能漏掉个体差异，造成误判和不公平。"
+    },
+    {
+      "id": "L2-C13",
+      "title": "分类强化效应",
+      "english": "Accentuation effect; Tajfel and Wilkes",
+      "oneLine": "分类可夸大类别间差异，并低估类别内差异。",
+      "analogy": "像给连续色阶加上两组标签后，看起来组间更断裂、组内更相似。",
+      "simpleExample": "自拟例：给身高接近的学生贴高组与矮组标签后，忽视每组内部的个体差异。",
+      "explanation": "Tajfel 与 Wilkes 给不同长度的线段贴上对应的类别标签后，参与者把组间差异看得更大、组内差异看得更小。这有助于理解为何人会觉得“两组很不一样、每组内部都差不多”。但线段实验不能证明社会群体真的有固定特征。",
+      "example": "自拟例：给身高接近的学生贴高组与矮组标签后，忽视每组内部的个体差异。",
+      "pitfall": "不是分类消除差异；也不是标签必然反映真实心理差异。",
+      "source": "L2 · Tajfel与Wilkes线段研究 · [B0088–B0088]",
+      "front": "分类强化效应怎样改变组间和组内差异的判断？",
+      "back": "夸大组间差异，低估组内差异。",
+      "cardBack": "夸大组间差异，低估组内差异。"
+    },
+    {
+      "id": "L2-C14",
+      "title": "最小群体范式",
+      "english": "Minimal group paradigm; ingroup favouritism",
+      "oneLine": "随意分类本身就可能产生内群体偏爱，不需要真实资源冲突。",
+      "analogy": "像刚被随机分成红蓝队，就开始偏向同颜色队员。",
+      "simpleExample": "自拟例：随机按喜好图画分组后，给匿名同组者更多代币。",
+      "explanation": "实验把互不认识的人随意分组，群体之间没有共同历史或真实竞争。随后，参与者给匿名成员分配少量真实金钱，仍偏向同组的人。这说明内群体偏爱不一定需要先有真实竞争、长期敌意或特殊人格。",
+      "example": "自拟例：随机按喜好图画分组后，给匿名同组者更多代币。",
+      "pitfall": "随意分组可能引发偏爱，不代表每个人每次分组后都会歧视别人。",
+      "source": "L2 · Minimal Group Paradigm最小群体范式 · [B0091–B0091]",
+      "front": "最小群体范式对“偏见必须有真实竞争”提出什么挑战？",
+      "back": "没有真实竞争或长期敌意，随意分组仍可能产生内群体偏爱。",
+      "cardBack": "没有真实竞争或长期敌意，随意分组仍可能产生内群体偏爱。"
+    },
+    {
+      "id": "L2-C15",
+      "title": "绝对收益与相对差距",
+      "english": "Maximum joint profit; ingroup profit; maximum difference",
+      "oneLine": "最大差距策略可能牺牲内群体绝对收益，只为相对领先。",
+      "analogy": "像自己少拿也愿意，只要比对手多。",
+      "simpleExample": "自拟例：可选我组 23、他组 29，或我组 11、他组 5；选后者是在重视相对差距。",
+      "explanation": "分配时可以追求公平、两组总收益最高、自己组拿最多，或自己组领先最多。最大差距追求的是相对领先，所以可能宁愿自己少拿，也要比对方多拿。这与“让自己组拿最多”不是同一个目标。",
+      "example": "自拟例：可选我组 23、他组 29，或我组 11、他组 5；选后者是在重视相对差距。",
+      "pitfall": "相对赢得多与自己拿最多是不同目标。",
+      "source": "L2 · Minimal Group Paradigm最小群体范式 · [B0091–B0091]",
+      "front": "最大差距与最大内群体收益如何区分？",
+      "back": "最大差距看自己组比对方多多少；最大内群体收益只看自己组拿到的金额。",
+      "cardBack": "最大差距看自己组比对方多多少；最大内群体收益只看自己组拿到的金额。"
+    },
+    {
+      "id": "L2-C16",
+      "title": "社会认同与积极区分性",
+      "english": "Social identity; positive distinctiveness",
+      "oneLine": "群体身份进入自我概念，人可能希望自己的群体相对显得更好。",
+      "analogy": "像团队成绩成为自我评价的一部分，于是重视团队的相对名次。",
+      "simpleExample": "自拟例：同学因属于某社团而自豪，并用有利标准比较本社团和其他社团。",
+      "explanation": "社会认同是你用群体归属来理解自己，并对这份归属产生价值感和感情。因为群体成为自我的一部分，人可能希望自己的群体比别的群体更好，这叫积极区分性，也可能带来内群体偏爱。但认同群体不等于失去自主判断。",
+      "example": "自拟例：同学因属于某社团而自豪，并用有利标准比较本社团和其他社团。",
+      "pitfall": "积极区分性不是单纯个人成绩，也不意味着每次比较必然造成敌意。",
+      "source": "L2 · Social Identity Theory社会认同理论 · [B0094–B0097]",
+      "front": "社会认同理论如何解释内群体偏爱？",
+      "back": "群体归属成为自我的一部分后，人可能希望自己的群体比其他群体更好，因此偏向自己人。",
+      "cardBack": "群体归属成为自我的一部分后，人可能希望自己的群体比其他群体更好，因此偏向自己人。"
+    },
+    {
+      "id": "L2-C17",
+      "title": "去个人化与身份层级",
+      "english": "Depersonalisation; identity salience",
+      "oneLine": "去个人化是自我定义从个人转向群体成员，不是失去人格或人性。",
+      "analogy": "像镜头从“我的独特特征”转到“我们共同的成员身份”。",
+      "simpleExample": "自拟例：比赛时用“我们是校队”定义自己，平时则更关注个人兴趣。",
+      "explanation": "当“我是这个群体的一员”变得重要时，人更可能接受该群体的规范、价值和信念。不同场合中，个人特点、子群体或更大的共同身份可能更重要。这种变化影响行为，但不会自动决定所有行为。",
+      "example": "自拟例：比赛时用“我们是校队”定义自己，平时则更关注个人兴趣。",
+      "pitfall": "不要把 depersonalisation 误译成失去人性或固定身份。",
+      "source": "L2 · Social Identity Theory社会认同理论 · [B0094–B0097]",
+      "front": "本讲的去个人化是什么意思？",
+      "back": "从个人性的“我”转向以群体成员的“我们”定义自己。",
+      "cardBack": "从个人性的“我”转向以群体成员的“我们”定义自己。"
+    },
+    {
+      "id": "L2-C18",
+      "title": "五种偏见理论的比较",
+      "english": "Comparing five approaches to prejudice",
+      "oneLine": "不同理论解释不同环节，没有单一理论解释所有偏见。",
+      "analogy": "像同一座房子的问题可涉及材料、设计、环境与住户，不能只找一种原因。",
+      "simpleExample": "自拟例：解释校园排斥时同时看资源竞争、分类捷径、人格倾向、身份规范与制度。",
+      "explanation": "五种理论各看一个重点：社会文化看竞争与合作，心理动力学看挫折后的转移攻击，人格理论看权威主义，认知理论看省力的分类捷径，社会认同理论看群体归属和有利比较。把它们放在一起，是帮助记忆的方法，不是教授另外提出的一套正式理论。",
+      "example": "自拟例：解释校园排斥时同时看资源竞争、分类捷径、人格倾向、身份规范与制度。",
+      "pitfall": "不要把整合式清单冒充教授提出的正式模型，或选一个理论宣布解释一切。",
+      "source": "L2 · 五种偏见解释总对照 · [B0098–B0098]",
+      "front": "五种理论各自最关注什么？",
+      "back": "群体竞争、挫折转移、人格倾向、认知捷径、社会认同。",
+      "cardBack": "群体竞争、挫折转移、人格倾向、认知捷径、社会认同。"
+    },
+    {
+      "id": "L2-C19",
+      "title": "接触假说的理想条件与机制",
+      "english": "Contact hypothesis; Allport",
+      "oneLine": "有意义的接触在平等地位、制度支持和共同目标下更有希望减少偏见。",
+      "analogy": "像让双方作为平等队友合作，而不是一方服务另一方。",
+      "simpleExample": "自拟例：学校支持不同背景学生平等参与并共同完成项目，而非只把他们坐在一起。",
+      "explanation": "本讲列出三个理想条件：双方地位平等、制度明确支持、双方有共同目标或利益。这样的积极接触可能减少面对外群体的焦虑，增加同理心和信任。只是见面，或增加见面次数，并不保证有效。",
+      "example": "自拟例：学校支持不同背景学生平等参与并共同完成项目，而非只把他们坐在一起。",
+      "pitfall": "仅同处一个房间不等于理想的平等合作接触。",
+      "source": "L2 · Contact Hypothesis接触假说 · [B0142–B0142]",
+      "front": "接触假说在本讲列出的三个理想条件是什么？",
+      "back": "平等地位、制度支持、共同目标或共同利益。",
+      "cardBack": "平等地位、制度支持、共同目标或共同利益。"
+    },
+    {
+      "id": "L2-C20",
+      "title": "接触元分析与证据边界",
+      "english": "Pettigrew and Tropp meta-analysis",
+      "oneLine": "更多接触总体与较低偏见相关，但效应小、差异大，不是必然因果。",
+      "analogy": "像平均成绩有改善，但不同班级效果差很多，不能保证每个人都改善。",
+      "simpleExample": "自拟例：看到接触与偏见的负相关后，仍检查研究设计、接触性质与反向因果。",
+      "explanation": "元分析包括 515 项研究、713 个独立样本、250,089 名参与者，覆盖 38 国。总体相关约 r = -0.21：接触更多的人，平均而言偏见较低，但关系较弱，而且有些研究方向相反。因此，要看接触的性质和情境，不能保证某个人增加接触后就一定改变。",
+      "example": "自拟例：看到接触与偏见的负相关后，仍检查研究设计、接触性质与反向因果。",
+      "pitfall": "负相关不是每次接触都有效，也不等于所有研究证明因果。",
+      "source": "L2 · Pettigrew与Tropp元分析 · [B0145–B0145]",
+      "front": "r ≈ -0.21 最稳妥说明什么？",
+      "back": "总体上，接触更多与偏见较低有关，但平均关系较弱，各研究结果也不同。这不是每次接触都有效的保证。",
+      "cardBack": "总体上，接触更多与偏见较低有关，但平均关系较弱，各研究结果也不同。这不是每次接触都有效的保证。"
+    },
+    {
+      "id": "L2-C21",
+      "title": "负面接触与接触负担",
+      "english": "Negative contact; burden of contact",
+      "oneLine": "负面互动可能强化偏见，少数群体也可能承担额外情绪劳动。",
+      "analogy": "像修补关系的过程中，不能只要求受伤的一方不断解释和安抚别人。",
+      "simpleExample": "自拟例：某学生被反复要求代表整个群体回答冒犯问题，为维持气氛压抑真实感受。",
+      "explanation": "负面接触与偏见增加的关系，可能比正面接触与偏见减少的关系更强。互动中，少数群体还可能被迫注意每句话、代表整个群体，或压下不舒服的感受。这种情绪劳动会损害福祉，改善关系的责任不能全推给被偏见的人。",
+      "example": "自拟例：某学生被反复要求代表整个群体回答冒犯问题，为维持气氛压抑真实感受。",
+      "pitfall": "不能承诺固定次数正面互动必然抵消一次负面互动，或要求少数群体无限承担教育责任。",
+      "source": "L2 · 接触警告／接触的反效果 · [B0149–B0149]",
+      "front": "为什么接触干预要关注质量和少数群体的体验？",
+      "back": "负面接触可能强化偏见，维持互动也可能让少数群体付出情绪劳动。",
+      "cardBack": "负面接触可能强化偏见，维持互动也可能让少数群体付出情绪劳动。"
+    },
+    {
+      "id": "L2-C22",
+      "title": "人际差异不等于个体内改变",
+      "english": "Between-person association versus within-person change",
+      "oneLine": "接触更多的人偏见较低，不证明增加某个人的接触就会降低其偏见。",
+      "analogy": "像跑得多的人更健康，不等于只观察两类人就知道某人开始跑步的效果。",
+      "simpleExample": "自拟例：本来更宽容的学生更愿意参加跨群体活动，使两种特征相关。",
+      "explanation": "比较“接触多的人”和“接触少的人”，不同于观察同一个人增加接触后有没有改变。也可能是本来偏见较低的人更愿意接触，而不是接触降低了偏见。此外，浅层互动未必有效；在已经高度多元的社会里，增加接触的效果也可能有限。",
+      "example": "自拟例：本来更宽容的学生更愿意参加跨群体活动，使两种特征相关。",
+      "pitfall": "不同人之间的差异，不能直接证明同一个人增加接触后会发生什么。",
+      "source": "L2 · 人际差异 vs 个体内改变 · [B0153–B0153]",
+      "front": "接触的 between-person 关联为什么不能直接证明 within-person 因果？",
+      "back": "可能是原本偏见低的人更愿意接触；不同人比较不等于同一个人改变。",
+      "cardBack": "可能是原本偏见低的人更愿意接触；不同人比较不等于同一个人改变。"
+    },
+    {
+      "id": "L2-C23",
+      "title": "间接接触的三种形式",
+      "english": "Vicarious, extended and parasocial contact",
+      "oneLine": "观察跨群体互动、知道跨群体友谊、通过媒体了解角色，是三种不同的间接接触。",
+      "analogy": "像亲眼看朋友搭桥、听说朋友已搭桥、通过故事了解桥另一边的人。",
+      "simpleExample": "自拟例：看到同组成员与外群体合作是替代性接触；知道朋友有跨群体好友是延伸接触；看丰富角色故事是拟社会接触。",
+      "explanation": "替代性接触是看到自己群体的人与外群体积极互动；延伸接触是知道他们之间有亲密关系；拟社会接触是通过媒体人物和故事了解外群体。这些形式可能改变规范、焦虑和同理心，但媒体里刻板化的配角不一定有同样效果。",
+      "example": "自拟例：看到同组成员与外群体合作是替代性接触；知道朋友有跨群体好友是延伸接触；看丰富角色故事是拟社会接触。",
+      "pitfall": "不要把知道友谊、观察互动和媒体角色全部叫直接面对面接触。",
+      "source": "L2 · Indirect Contact间接接触 · [B0156–B0156]",
+      "front": "替代性、延伸和拟社会接触如何区分？",
+      "back": "观察积极互动；知道跨群体亲密关系；通过媒体接触人物。",
+      "cardBack": "观察积极互动；知道跨群体亲密关系；通过媒体接触人物。"
+    },
+    {
+      "id": "L2-C24",
+      "title": "共同内群体认同与同化风险",
+      "english": "Common Ingroup Identity Model; assimilation",
+      "oneLine": "共同上位身份可把“他们”纳入“我们”，但只保留主流标准可能造成同化。",
+      "analogy": "像把不同队伍放进同一个联盟，但不能规定所有队伍放弃自己的旗帜。",
+      "simpleExample": "自拟例：不同专业都认同同校身份，但若要求所有专业只用主流专业的习惯，就可能压制差异。",
+      "explanation": "CIIM 想把原来的“他们”放进更大的“我们”，让对自己人的好感扩展到对方。但如果只强调这个共同身份，就可能压掉原有群体身份，让主流文化变成所有人的标准。大家变得一样，不代表关系就一定和谐。",
+      "example": "自拟例：不同专业都认同同校身份，但若要求所有专业只用主流专业的习惯，就可能压制差异。",
+      "pitfall": "共同身份本身不必然有害，风险在于强制抹除子群体差异。",
+      "source": "L2 · 共同内群体认同模型 · [B0164–B0184]",
+      "front": "CIIM 的潜在收益和同化风险分别是什么？",
+      "back": "收益是扩展共同的“我们”；风险是以主流标准抹除子群体身份。",
+      "cardBack": "收益是扩展共同的“我们”；风险是以主流标准抹除子群体身份。"
+    },
+    {
+      "id": "L2-C25",
+      "title": "双重认同与多元文化",
+      "english": "Dual identity model; multiculturalism",
+      "oneLine": "共同上位身份与原有子群体身份可以同时保留。",
+      "analogy": "像共享同一校园，同时保留各学院的特点。",
+      "simpleExample": "自拟例：学生都属于同一学校，同时保留不同文化社群的语言与庆祝方式。",
+      "explanation": "双重认同保留两种归属：“我们属于同一个大群体”，同时“我们各自的群体也有特点”。它允许各组重视自己的身份，不要求被主流文化同化。本讲把这种做法大致对应于多元文化主义，而不是放弃共同身份。",
+      "example": "自拟例：学生都属于同一学校，同时保留不同文化社群的语言与庆祝方式。",
+      "pitfall": "多元文化不是只保留分裂，也不是要求所有人文化完全相同。",
+      "source": "L2 · Dual Identity Model双重认同模型 · [B0204–B0204]",
+      "front": "双重认同与只强调同化的做法有何不同？",
+      "back": "同时保留共同上位身份和原有子群体身份。",
+      "cardBack": "同时保留共同上位身份和原有子群体身份。"
+    },
+    {
+      "id": "L2-C26",
+      "title": "减少偏见也是结构性改变",
+      "english": "Prejudice reduction as social change",
+      "oneLine": "个人接触和态度改变需要结合规范、政策及不平等结构的改变。",
+      "analogy": "像擦掉墙面污渍，也要修导致反复漏水的管道。",
+      "simpleExample": "自拟例：学校办交流活动，同时审查资源分配、隔离安排和对歧视的处理制度。",
+      "explanation": "减少偏见不只靠让个人态度更好。教授还强调互动质量、社会规范、共同身份、换位思考和干预时机。如果贫困、隔离和长期剥夺不变，偏见可能只是变得更隐蔽。因此，政策、社会政治行动和制度改革也需要一起推进。",
+      "example": "自拟例：学校办交流活动，同时审查资源分配、隔离安排和对歧视的处理制度。",
+      "pitfall": "不能把减少偏见的全部责任放在受歧视者，或认为一次交流解决制度问题。",
+      "source": "L2 · 最终结论：Prejudice Reduction Is Social Change减少偏见也是社会改变 · [B0207–B0207]",
+      "front": "为什么改善个人态度不一定足以解决群体偏见？",
+      "back": "态度变好，不会自动改变贫困、隔离或不公平的权力与制度；这些问题还需要政策和制度改革。",
+      "cardBack": "态度变好，不会自动改变贫困、隔离或不公平的权力与制度；这些问题还需要政策和制度改革。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "L2-Q01",
+      "conceptId": "L2-C01",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "哪个对应最准确？",
+      "stemEn": "Which mapping is most accurate?",
+      "options": [
+        "刻板印象是群体概括，偏见是负面评价，歧视是不公平待遇",
+        "三者是完全相同的概念",
+        "歧视只存在于想法中",
+        "有刻板印象必然实施歧视"
+      ],
+      "optionsEn": [
+        "Stereotyping is group generalisation, prejudice is negative evaluation, and discrimination is unfair treatment",
+        "All three are identical",
+        "Discrimination exists only in thoughts",
+        "Stereotyping inevitably causes discriminatory action"
+      ],
+      "answer": 0,
+      "explanation": "先分清是在概括群体、负面评价，还是实际不公平地对待。三者可能同时出现，但想法、态度和行动不是同一件事。",
+      "optionExplanations": [
+        "正确：分别对应群体概括、负面态度和实际待遇。",
+        "错误：三者有关，但一个人怎么想不一定等于怎么做。",
+        "错误：歧视看实际行为和待遇，不只是脑中的想法。",
+        "错误：有刻板印象，不代表一定会实施歧视。"
+      ],
+      "source": "L2 · Three Core Concepts三个核心概念 · [B0007–B0009]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q02",
+      "conceptId": "L2-C02",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "社会文化解释最强调偏见来自什么？",
+      "stemEn": "What does the socio-cultural approach mainly emphasise as a source of prejudice?",
+      "options": [
+        "只来自罕见病理人格",
+        "群体关系、合作与竞争的情境",
+        "每个群体天生固定缺陷",
+        "只来自视觉错觉"
+      ],
+      "optionsEn": [
+        "Rare pathological personalities only",
+        "Intergroup relationships and cooperative or competitive contexts",
+        "Innate fixed defects in every group",
+        "Visual illusions only"
+      ],
+      "answer": 1,
+      "explanation": "社会文化解释看的是群体怎样相处：合作可能改善态度，竞争可能带来威胁和偏见。普通人的反应也会随这些关系改变。",
+      "optionExplanations": [
+        "错误：它不只研究少数异常人格，也看普通人怎样受情境影响。",
+        "正确：合作或竞争关系改变时，群体态度也可能改变。",
+        "错误：这种解释关注社会关系，不把群体差异归为天生缺陷。",
+        "错误：视觉错觉不是这个解释的重点。"
+      ],
+      "source": "L2 · 社会文化解释 · [B0012–B0012]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q03",
+      "conceptId": "L2-C03",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "Sherif 夏令营研究中，哪项最准确？",
+      "stemEn": "Which statement best describes Sherif's camp studies?",
+      "options": [
+        "一起看电影必然消除敌意",
+        "样本已代表所有年龄和文化",
+        "竞争后普通接触未自动消除敌意，共同依赖目标有帮助",
+        "人格筛查使一切情境效应不可能"
+      ],
+      "optionsEn": [
+        "Watching a film together necessarily removed hostility",
+        "The sample represented all ages and cultures",
+        "Ordinary contact did not automatically remove competition-related hostility; interdependent goals helped",
+        "Personality screening made contextual effects impossible"
+      ],
+      "answer": 2,
+      "explanation": "竞争后，两组光是一起见面并没有自动停止敌视。必须彼此合作才能完成的共同目标更有帮助，所以“接触”与“合作”不能当成一回事。",
+      "optionExplanations": [
+        "错误：一起看电影等普通接触后，两组仍可能争吵。",
+        "错误：参与者主要是约 12 岁的白人中产男孩，不能代表所有人。",
+        "正确：普通见面未解决敌意，需要合作的共同目标则有帮助。",
+        "错误：筛查人格不代表普通人就不会受竞争情境影响。"
+      ],
+      "source": "L2 · Sherif男孩夏令营研究／Robbers Cave研究 · [B0022–B0027]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q04",
+      "conceptId": "L2-C04",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "两个敌对社团必须一起修复共同设备，任一社团单独都无法完成。这最符合什么？",
+      "stemEn": "Two hostile clubs must jointly repair shared equipment; neither can succeed alone. What does this best illustrate?",
+      "options": [
+        "互斥目标",
+        "只有空间上的接触",
+        "最大群际差距",
+        "超级目标与互相依赖"
+      ],
+      "optionsEn": [
+        "Mutually exclusive goals",
+        "Mere physical proximity",
+        "Maximum intergroup difference",
+        "A superordinate, interdependent goal"
+      ],
+      "answer": 3,
+      "explanation": "设备是双方共同需要的，而且谁都不能单独修好，成功必须靠合作。这同时满足共同重视和互相依赖，符合超级目标。",
+      "optionExplanations": [
+        "错误：设备修好后双方都受益，不是一方成功、另一方失败。",
+        "错误：不只是待在同一地方，而是必须一起完成任务。",
+        "错误：双方在合作修设备，不是在追求比对方多拿。",
+        "正确：目标双方都需要，而且任何一方都不能独立完成。"
+      ],
+      "source": "L2 · Phase 4：Superordinate Goals超级目标／高阶共同目标 · [B0027–B0029]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q05",
+      "conceptId": "L2-C05",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "现实冲突理论的核心链条是什么？",
+      "stemEn": "What is the central chain in Realistic Conflict Theory?",
+      "options": [
+        "稀缺资源与互斥目标引发竞争、威胁和群际冲突",
+        "所有偏见由固定人格必然决定",
+        "只需任意分类，不涉及利益关系",
+        "任何接触都会让冲突归零"
+      ],
+      "optionsEn": [
+        "Scarce resources and mutually exclusive goals lead to competition, threat and intergroup conflict",
+        "Fixed personality inevitably determines all prejudice",
+        "Only arbitrary categorisation matters, with no role for interests",
+        "Any contact reduces conflict to zero"
+      ],
+      "answer": 0,
+      "explanation": "RCT 的重点是实际利益冲突：资源不够分，一组成功就意味着另一组失去机会。这种竞争可能带来威胁和群际敌意。",
+      "optionExplanations": [
+        "正确：有限资源让双方利益相冲突，进而可能产生威胁和冲突。",
+        "错误：RCT 看群体利益关系，不把一切都归于固定人格。",
+        "错误：随意分组属于最小群体研究的重点，不是 RCT 的核心。",
+        "错误：夏令营研究中，普通接触并没有自动消除敌意。"
+      ],
+      "source": "L2 · 现实冲突理论／现实性群体冲突理论 · [B0029–B0029]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q06",
+      "conceptId": "L2-C06",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "RCT 的哪项限制在本讲被特别指出？",
+      "stemEn": "Which limitation of RCT is highlighted in this lecture?",
+      "options": [
+        "它完全否定竞争存在",
+        "短期合作不会自动消除结构性不平等，心理机制也需解释",
+        "它证明现实总能轻易安排共同目标",
+        "它不涉及任何群体关系"
+      ],
+      "optionsEn": [
+        "It completely denies competition",
+        "Short-term cooperation does not automatically remove structural inequality, and psychological mechanisms need explanation",
+        "It proves shared goals are always easy to arrange",
+        "It has nothing to do with intergroup relationships"
+      ],
+      "answer": 1,
+      "explanation": "安排一次合作，可以改善短期关系，却不会自动改变不公平的资源和制度。RCT 也还需要解释竞争怎样影响人的想法，而不只描述竞争后发生了什么。",
+      "optionExplanations": [
+        "错误：RCT 正是用实际竞争来解释群际冲突。",
+        "正确：短期合作不等于制度已经公平，人的心理变化也要继续解释。",
+        "错误：现实中，真正需要各组互相合作的目标并不容易安排。",
+        "错误：群体之间的利益和竞争关系，是 RCT 的重点。"
+      ],
+      "source": "L2 · RCT的局限 · [B0032–B0032]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q07",
+      "conceptId": "L2-C07",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "“挫折既不是攻击的必要条件，也不是充分条件”意味着什么？",
+      "stemEn": "What does it mean that frustration is neither necessary nor sufficient for aggression?",
+      "options": [
+        "所有挫折都导致攻击",
+        "没有挫折就绝不攻击",
+        "有挫折未必攻击，也可能没有明显挫折却攻击",
+        "挫折完全不存在"
+      ],
+      "optionsEn": [
+        "All frustration produces aggression",
+        "Aggression is impossible without frustration",
+        "Frustration may occur without aggression, and aggression may occur without clear frustration",
+        "Frustration does not exist"
+      ],
+      "answer": 2,
+      "explanation": "“不是充分条件”是说：受挫也可能不攻击。“不是必要条件”是说：没有明显挫折也可能攻击。两句话都否定了必然联系，不是否认挫折有时会有影响。",
+      "optionExplanations": [
+        "错误：受挫的人也可能不攻击，所以挫折并不足以保证攻击发生。",
+        "错误：没有明显挫折时也可能攻击，所以挫折并非必需。",
+        "正确：有挫折未必攻击，攻击也未必由挫折引起。",
+        "错误：挫折当然存在，只是它与攻击没有必然的一对一关系。"
+      ],
+      "source": "L2 · 挫折—攻击假说 · [B0038–B0041]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q08",
+      "conceptId": "L2-C08",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "哪组最符合 Berkowitz 对原始模型的补充？",
+      "stemEn": "Which set best matches Berkowitz's reformulation?",
+      "options": [
+        "只接受客观剥夺、随机替罪羊、只考虑目标受阻",
+        "认为每次噪音必然造成偏见",
+        "不再考虑历史或主观感受",
+        "主观剥夺、非随机历史敌对目标、广泛厌恶事件"
+      ],
+      "optionsEn": [
+        "Objective deprivation only, random scapegoats, blocked goals only",
+        "Every noise necessarily creates prejudice",
+        "No role for history or subjective experience",
+        "Subjective deprivation, historically related targets, and broader aversive events"
+      ],
+      "answer": 3,
+      "explanation": "Berkowitz 看主观上是否觉得被剥夺，不只看实际损失；看过去的敌意怎样影响替罪羊选择；还把疼痛、噪声等不愉快事件纳入解释。",
+      "optionExplanations": [
+        "错误：他加入了主观感受、历史敌意和更多不愉快事件，方向正好相反。",
+        "错误：噪声可能影响攻击，不代表每次噪声都会造成偏见。",
+        "错误：主观感受和过去的群体关系，正是他的补充重点。",
+        "正确：这三项分别补充了损失感受、攻击对象和事件来源。"
+      ],
+      "source": "L2 · Berkowitz的重新解释 · [B0043–B0046]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q09",
+      "conceptId": "L2-C09",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "对 Adorno 原始权威主义人格理论，哪种理解最稳妥？",
+      "stemEn": "Which interpretation of Adorno's original authoritarian-personality theory is most defensible?",
+      "options": [
+        "它是有边界的理论解释，不证明严厉家庭必然制造偏见者",
+        "所有严厉家庭必然产生相同人格",
+        "人格理论已经解释所有历史性群体偏见",
+        "宽容者永远不会僵化思考"
+      ],
+      "optionsEn": [
+        "It is a bounded theoretical explanation, not proof that every harsh family produces prejudiced people",
+        "Every harsh family necessarily produces the same personality",
+        "Personality theory explains all historical prejudice",
+        "Tolerant people can never think rigidly"
+      ],
+      "answer": 0,
+      "explanation": "Adorno 提出了严厉家庭经历与权威主义的可能联系，没有证明所有严厉家庭都会养成有偏见的人。理论解释不能直接变成每个人都逃不开的结果。",
+      "optionExplanations": [
+        "正确：理论提出可能的联系，不保证每个家庭和个人都有同样结果。",
+        "错误：这忽略了人与情境的差异，也把理论说成了必然规律。",
+        "错误：仅靠个人性格，很难解释整个社会在某时期同时改变。",
+        "错误：被认为宽容的人，也可能在某些情境中表现得不宽容。"
+      ],
+      "source": "L2 · 权威主义人格 · [B0071–B0072]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q10",
+      "conceptId": "L2-C10",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "RWA 的三个核心维度是什么？",
+      "stemEn": "What are the three core dimensions of RWA?",
+      "options": [
+        "焦虑、记忆、智力",
+        "权威服从、权威攻击、传统主义",
+        "外向、宜人、开放",
+        "公平、最大利润、合作"
+      ],
+      "optionsEn": [
+        "Anxiety, memory and intelligence",
+        "Authoritarian submission, authoritarian aggression and conventionalism",
+        "Extraversion, agreeableness and openness",
+        "Fairness, maximum profit and cooperation"
+      ],
+      "answer": 1,
+      "explanation": "RWA 看三件事：是否服从被认可的权威、是否攻击权威指向的对象、是否坚持传统规范。不要把它混成一般攻击性或其他人格维度。",
+      "optionExplanations": [
+        "错误：焦虑、记忆和智力不是本讲 RWA 的三项内容。",
+        "正确：分别看服从权威、权威认可的攻击，以及传统规范。",
+        "错误：这些是其他人格维度，不是 RWA 的三项内容。",
+        "错误：这些是分配或合作目标，不是权威主义的三个维度。"
+      ],
+      "source": "L2 · 右翼权威主义 · [B0075–B0076]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q11",
+      "conceptId": "L2-C11",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "同一人的 RWA 分数随威胁和权力变化，最支持哪种理解？",
+      "stemEn": "If a person's RWA score changes with threat and power, which interpretation is best supported?",
+      "options": [
+        "它必然是永远固定的单一特质",
+        "人格倾向毫无意义",
+        "它可能同时反映稳定倾向和情境敏感态度",
+        "所有问卷都只测遗传"
+      ],
+      "optionsEn": [
+        "It must be a permanently fixed single trait",
+        "Personality tendencies are meaningless",
+        "It may reflect both stable tendencies and context-sensitive attitudes",
+        "All questionnaires measure only genes"
+      ],
+      "answer": 2,
+      "explanation": "同一个人的分数会改变，说明它不是完全固定、不受情境影响的特质。但这也不代表稳定倾向不存在；分数可能同时反映倾向和当下态度。",
+      "optionExplanations": [
+        "错误：既然同一人的分数随情境改变，就不能说它永远固定。",
+        "错误：情境会影响分数，不代表较稳定的人格倾向没有作用。",
+        "正确：分数既可能反映稳定倾向，也可能受到当前威胁和权力关系影响。",
+        "错误：随情境变化的分数，不能说明问卷只测遗传。"
+      ],
+      "source": "L2 · 关键批判：RWA真的是固定人格吗？ · [B0076–B0076]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q12",
+      "conceptId": "L2-C12",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "疲劳又赶时间时，只看专业标签判断申请者。认知解释会怎样理解？",
+      "stemEn": "When tired and rushed, a reviewer judges applicants only by their major label. How would the cognitive approach explain this?",
+      "options": [
+        "只有异常人格会这样做",
+        "分类捷径从不出错",
+        "所有不公平都有相同政治目的",
+        "有限资源促使使用省力捷径，可能误判"
+      ],
+      "optionsEn": [
+        "Only an abnormal personality can do this",
+        "Categorical shortcuts never make errors",
+        "All unfairness has the same political purpose",
+        "Limited resources encourage effort-saving shortcuts that may mislead"
+      ],
+      "answer": 3,
+      "explanation": "疲劳和赶时间让人更难仔细处理信息，于是可能用专业标签快速判断。这样省力，但容易漏掉申请者的个体差异。",
+      "optionExplanations": [
+        "错误：普通人在认知资源不足时，也可能依赖这种捷径。",
+        "错误：只看分类会漏掉细节，因此可能误判。",
+        "错误：不能把所有不公平行为都解释成同一个政治目的。",
+        "正确：资源不足时，人可能采用省力判断，但准确性会受影响。"
+      ],
+      "source": "L2 · 认知解释 · [B0079–B0082]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q13",
+      "conceptId": "L2-C13",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "分类强化效应指什么？",
+      "stemEn": "What is the accentuation effect?",
+      "options": [
+        "夸大类别间差异、低估类别内差异",
+        "所有标签都会消除差异",
+        "只扩大同一类别内部差异",
+        "分类保证判断完全准确"
+      ],
+      "optionsEn": [
+        "Exaggerating between-category differences and minimising within-category differences",
+        "All labels eliminate differences",
+        "Only increasing differences within a category",
+        "Categorisation guarantees perfectly accurate judgment"
+      ],
+      "answer": 0,
+      "explanation": "贴上类别标签后，人可能觉得不同组差得更远，而同组成员更加相似。这是判断被分类影响，不是标签证明了真实差异。",
+      "optionExplanations": [
+        "正确：组间差异被放大，组内差异被忽略，是分类强化的两个方向。",
+        "错误：分类可能让组间差异显得更大，不是把差异消除。",
+        "错误：本讲说的是组内差异被低估，而非扩大。",
+        "错误：标签会影响判断，不能保证判断准确。"
+      ],
+      "source": "L2 · Tajfel与Wilkes线段研究 · [B0088–B0088]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q14",
+      "conceptId": "L2-C14",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "最小群体研究为何挑战“真实竞争是内群体偏爱的必要条件”？",
+      "stemEn": "Why does the minimal-group paradigm challenge the claim that real competition is necessary for ingroup favouritism?",
+      "options": [
+        "它让参与者争夺长期政治权力",
+        "随意分组、无历史或真实竞争也出现偏爱",
+        "它证明任何群体都完全公平",
+        "它只招募已仇视彼此的人"
+      ],
+      "optionsEn": [
+        "It made participants compete for long-term political power",
+        "Favouritism appeared after arbitrary grouping without history or real competition",
+        "It proved every group is completely fair",
+        "It recruited only people who already hated one another"
+      ],
+      "answer": 1,
+      "explanation": "如果真实竞争是必需的，没有竞争就不该出现偏爱。但实验中的人只是随意分组、互不认识，仍偏向自己组，因此真实竞争并非必要。",
+      "optionExplanations": [
+        "错误：实验群体没有长期政治斗争或真实竞争。",
+        "正确：没有真实竞争也出现偏爱，说明竞争不是必需条件。",
+        "错误：实验中出现了对同组成员的优待，并非完全公平。",
+        "错误：成员彼此不认识，没有长期仇恨。"
+      ],
+      "source": "L2 · Minimal Group Paradigm最小群体范式 · [B0091–B0091]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q15",
+      "conceptId": "L2-C15",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "从“我组 23、他组 29”改选“我组 11、他组 5”，最符合哪个目标？",
+      "stemEn": "Choosing 'ingroup 11, outgroup 5' over 'ingroup 23, outgroup 29' best reflects which goal?",
+      "options": [
+        "最大共同收益",
+        "最大内群体绝对收益",
+        "最大相对差距",
+        "绝对公平"
+      ],
+      "optionsEn": [
+        "Maximum joint profit",
+        "Maximum absolute ingroup profit",
+        "Maximum relative difference",
+        "Strict equality"
+      ],
+      "answer": 2,
+      "explanation": "选择后一种分配，自己组虽然拿得更少，却从落后变成领先。这说明看重的是比对方多多少，而不是自己拿到的总额。",
+      "optionExplanations": [
+        "错误：两组总额降低，并没有让共同收益最高。",
+        "错误：自己组从 23 减到 11，不是在追求自己拿最多。",
+        "正确：宁愿自己少拿，也要从落后变成领先，重点是相对差距。",
+        "错误：两组拿到 11 和 5，并不相等。"
+      ],
+      "source": "L2 · Minimal Group Paradigm最小群体范式 · [B0091–B0091]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q16",
+      "conceptId": "L2-C16",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "积极区分性主要指什么？",
+      "stemEn": "What does positive distinctiveness mainly refer to?",
+      "options": [
+        "放弃所有群体比较",
+        "只关注个人独特生日",
+        "认为所有人必然相同",
+        "寻求内群体在与外群体比较中显得更好"
+      ],
+      "optionsEn": [
+        "Abandoning all group comparisons",
+        "Focusing only on a person's unique birthday",
+        "Assuming all people must be identical",
+        "Seeking favourable ingroup differences relative to an outgroup"
+      ],
+      "answer": 3,
+      "explanation": "积极区分性不是只说“我们不同”，而是希望“我们在某些方面比他们更好”。当群体归属成为自我的一部分时，这种比较也可能让人感觉自己的群体更有价值。",
+      "optionExplanations": [
+        "错误：积极区分性恰恰涉及自己群体与外群体的比较。",
+        "错误：它关注群体的相对优势，不是个人独特的小细节。",
+        "错误：它追求有利的群体区别，而不是认为所有人相同。",
+        "正确：希望自己的群体在比较中更好，是积极区分性的重点。"
+      ],
+      "source": "L2 · Social Identity Theory社会认同理论 · [B0094–B0097]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q17",
+      "conceptId": "L2-C17",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "本讲的 depersonalisation 最准确是什么意思？",
+      "stemEn": "What does depersonalisation mean in this lecture?",
+      "options": [
+        "从个人的“我”转向以群体成员的“我们”定义自己",
+        "失去人性或人格",
+        "永久无法自主行动",
+        "所有个人特征被物理抹除"
+      ],
+      "optionsEn": [
+        "Shifting from personal 'I' to defining oneself as a group member, 'we'",
+        "Losing humanity or personality",
+        "Permanently losing all agency",
+        "Physically erasing every personal characteristic"
+      ],
+      "answer": 0,
+      "explanation": "这里是从“我有哪些独特特点”转向“我是我们群体的一员”。这是定义自己的方式改变，不是失去人性、人格或自主性。",
+      "optionExplanations": [
+        "正确：此时用共同的群体身份，而不是个人独特性来定义自己。",
+        "错误：本讲的去个人化，不是失去人性或人格。",
+        "错误：群体身份影响行为，不代表人永久无法自主行动。",
+        "错误：关注群体身份时，个人特征并没有真的消失。"
+      ],
+      "source": "L2 · Social Identity Theory社会认同理论 · [B0094–B0097]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q18",
+      "conceptId": "L2-C18",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "哪组偏见解释的对应正确？",
+      "stemEn": "Which mapping of approaches to prejudice is correct?",
+      "options": [
+        "认知解释只谈家庭惩罚；人格解释只谈线段标签",
+        "认知强调捷径，社会文化强调竞争，社会认同强调群体自我",
+        "五种理论都认为偏见只来自坏人格",
+        "所有理论都是同一个正式模型"
+      ],
+      "optionsEn": [
+        "Cognitive explanations focus only on family punishment; personality explanations only on line labels",
+        "Cognitive approaches emphasise shortcuts, socio-cultural approaches competition, and social identity approaches the group self",
+        "All five approaches blame only bad personalities",
+        "All approaches form one identical formal model"
+      ],
+      "answer": 1,
+      "explanation": "认知解释看人怎样用捷径处理信息；社会文化解释看竞争与合作；社会认同解释看群体归属怎样进入自我。它们关注不同部分，不能互换。",
+      "optionExplanations": [
+        "错误：家庭惩罚属于早期人格理论，线段分类更对应认知解释。",
+        "正确：三项分别对应省力判断、群体关系，以及群体归属对自我的影响。",
+        "错误：有些理论看普通认知和社会情境，并非都归于坏人格。",
+        "错误：把理论一起比较是记忆方法，不代表它们是同一个正式模型。"
+      ],
+      "source": "L2 · 五种偏见解释总对照 · [B0098–B0098]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q19",
+      "conceptId": "L2-C19",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "学校安排平等参与、领导明确支持、双方合作完成共同项目。这最符合什么？",
+      "stemEn": "A school ensures equal participation, clear leadership support, and cooperation on a shared project. What does this best fit?",
+      "options": [
+        "随便让敌对群体同处一室",
+        "互斥目标",
+        "接触假说的理想条件",
+        "只需增加次数不管体验"
+      ],
+      "optionsEn": [
+        "Merely placing hostile groups in one room",
+        "Mutually exclusive goals",
+        "Optimal conditions of the contact hypothesis",
+        "Increasing frequency without considering experience"
+      ],
+      "answer": 2,
+      "explanation": "平等参与对应平等地位，领导支持对应制度支持，一起完成项目对应共同目标。题目不是只把双方放在一起，而是设置了本讲的三个理想条件。",
+      "optionExplanations": [
+        "错误：安排还包括平等地位、明确支持和合作目标，不是随便见面。",
+        "错误：双方能共同完成并受益，不是一方成功就让另一方失败。",
+        "正确：题目同时设置了平等地位、制度支持和共同目标。",
+        "错误：这里重视如何接触，不是只增加次数。"
+      ],
+      "source": "L2 · Contact Hypothesis接触假说 · [B0142–B0142]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q20",
+      "conceptId": "L2-C20",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Pettigrew 与 Tropp 的总体 r ≈ -0.21 最稳妥意味着什么？",
+      "stemEn": "What is the most defensible meaning of Pettigrew and Tropp's overall r of about -0.21?",
+      "options": [
+        "接触每增加一次，所有人偏见必降 21%",
+        "每项研究都证明相同因果",
+        "更多接触必然使所有人更偏见",
+        "接触更多总体与偏见较低相关，平均效应小且不同研究有差异"
+      ],
+      "optionsEn": [
+        "Each extra encounter reduces everyone's prejudice by 21%",
+        "Every study proves the same causal effect",
+        "More contact necessarily increases everyone's prejudice",
+        "More contact is associated with lower prejudice on average, with a modest effect and variation"
+      ],
+      "answer": 3,
+      "explanation": "r≈-0.21 表示总体上接触更多与偏见较低有关，平均关系较弱。它不是“偏见减少 21%”，也不能证明每次接触都会让某个人改变。",
+      "optionExplanations": [
+        "错误：相关系数不是个人偏见变化的百分比，更不是每次减少 21%。",
+        "错误：各研究设计和结果不同，相关也不等于已证明因果。",
+        "错误：总体是负相关，方向是接触更多与偏见较低有关。",
+        "正确：它说明平均关联方向，但不同研究的效果并不相同。"
+      ],
+      "source": "L2 · Pettigrew与Tropp元分析 · [B0145–B0145]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q21",
+      "conceptId": "L2-C21",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "减少偏见活动总让少数群体学生回答冒犯问题、代表整个群体。这遗漏了什么？",
+      "stemEn": "A prejudice-reduction event repeatedly asks minority students to answer intrusive questions and represent their whole group. What is overlooked?",
+      "options": [
+        "接触可能给他们带来情绪劳动和福祉负担",
+        "他们必须独自承担全部教育责任",
+        "所有接触都没有成本",
+        "负面接触绝不影响偏见"
+      ],
+      "optionsEn": [
+        "The emotional labour and wellbeing burden of contact",
+        "They must carry all educational responsibility alone",
+        "All contact is cost-free",
+        "Negative contact cannot affect prejudice"
+      ],
+      "answer": 0,
+      "explanation": "被要求代表整个群体、回答冒犯问题，会让学生持续注意言行或压抑感受。这是情绪劳动，可能损害福祉，不能只看活动有没有增加接触。",
+      "optionExplanations": [
+        "正确：不断代表群体和压抑感受，会给他们带来情绪负担。",
+        "错误：改善偏见的责任，不能全交给受偏见影响的人。",
+        "错误：互动也可能让人疲惫、受伤，并不是没有成本。",
+        "错误：冒犯等负面接触，可能让偏见更强。"
+      ],
+      "source": "L2 · 接触警告／接触的反效果 · [B0149–B0149]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q22",
+      "conceptId": "L2-C22",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "横向调查发现接触多的人偏见低，为什么不能直接断言增加某人的接触会降低其偏见？",
+      "stemEn": "Why does a cross-sectional finding that people with more contact have less prejudice not prove that increasing one person's contact reduces their prejudice?",
+      "options": [
+        "统计不能比较不同人",
+        "本来偏见低的人可能更愿意接触，且人际关联不等于个体内改变",
+        "所有关联都毫无信息价值",
+        "个体内改变与时间无关"
+      ],
+      "optionsEn": [
+        "Statistics cannot compare people",
+        "Less-prejudiced people may seek contact; between-person association is not within-person change",
+        "All associations contain no information",
+        "Within-person change is unrelated to time"
+      ],
+      "answer": 1,
+      "explanation": "可能是本来偏见较低的人更愿意接触外群体。比较不同人的差异，不能直接告诉我们同一个人增加接触后会不会改变；这还需要进一步证据。",
+      "optionExplanations": [
+        "错误：统计可以比较不同人，只是这种比较不能直接证明个人的因果变化。",
+        "正确：谁愿意接触可能本来就不同；人与人的差异不等于一个人的改变。",
+        "错误：相关仍能提供线索，只是不能单独证明因果。",
+        "错误：个体内改变正是在看同一个人随时间怎样变化。"
+      ],
+      "source": "L2 · 人际差异 vs 个体内改变 · [B0153–B0153]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q23",
+      "conceptId": "L2-C23",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "你知道同组好友与另一群体成员有亲密友谊，但没亲眼看到互动。这主要是什么？",
+      "stemEn": "You know an ingroup friend has a close outgroup friend, but have not witnessed their interaction. What is this mainly?",
+      "options": [
+        "直接面对面接触",
+        "分类强化效应",
+        "延伸接触",
+        "最大差距策略"
+      ],
+      "optionsEn": [
+        "Direct face-to-face contact",
+        "The accentuation effect",
+        "Extended contact",
+        "A maximum-difference strategy"
+      ],
+      "answer": 2,
+      "explanation": "你没有直接接触对方，也没有亲眼观察互动，只是知道同组朋友与外群体有亲密关系。这种“知道存在跨群体友谊”就是延伸接触。",
+      "optionExplanations": [
+        "错误：你没有与外群体成员直接面对面互动。",
+        "错误：题目没有比较类别之间或类别内部的差异。",
+        "正确：只知道同组朋友有跨群体亲密关系，就符合延伸接触。",
+        "错误：没有分配资源，也没有追求比对方多拿。"
+      ],
+      "source": "L2 · Indirect Contact间接接触 · [B0156–B0156]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q24",
+      "conceptId": "L2-C24",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "共同内群体认同模型的一个风险是什么？",
+      "stemEn": "What is one potential risk of the Common Ingroup Identity Model?",
+      "options": [
+        "共同身份永远不能扩展好感",
+        "只允许个人身份",
+        "必然使每个人更敌视",
+        "只强调上位身份时，可能抹除子群体并让主流文化成为标准"
+      ],
+      "optionsEn": [
+        "Shared identity can never extend favourable attitudes",
+        "It allows only personal identity",
+        "It necessarily increases hostility in everyone",
+        "Exclusive emphasis on the superordinate identity may erase subgroups and default to dominant culture"
+      ],
+      "answer": 3,
+      "explanation": "如果只允许大家认同一个共同身份，原来的子群体身份就可能被压掉，主流文化也可能变成统一标准。风险在强制同化，不是说共同身份本身一定有害。",
+      "optionExplanations": [
+        "错误：把对方纳入“我们”，正是这个模型扩大好感的办法。",
+        "错误：它强调更大的共同群体身份，不是只保留个人身份。",
+        "错误：可能有同化风险，不代表每次都会增加敌意。",
+        "正确：只强调共同身份时，可能让子群体失去自己的特点。"
+      ],
+      "source": "L2 · 共同内群体认同模型 · [B0164–B0184]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q25",
+      "conceptId": "L2-C25",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "“我们都属于同一学校，同时尊重各文化社群的身份和传统”最符合什么？",
+      "stemEn": "'We all belong to one university while respecting each cultural community's identity and traditions' best fits which model?",
+      "options": [
+        "双重认同",
+        "强制同化",
+        "只保留个人身份",
+        "彻底取消共同归属"
+      ],
+      "optionsEn": [
+        "Dual identity",
+        "Forced assimilation",
+        "Personal identity only",
+        "Complete removal of shared belonging"
+      ],
+      "answer": 0,
+      "explanation": "“同一学校”提供共同归属，“各文化社群”保留原有身份。这不是要求大家变得一样，而是同时保留两个层次的认同。",
+      "optionExplanations": [
+        "正确：既认同同一学校，也尊重各文化社群的身份。",
+        "错误：强制同化要求原有差异消失，题目却明确保留它们。",
+        "错误：这里有学校和文化社群两种群体身份，不只是个人身份。",
+        "错误：大家仍属于同一学校，共同归属没有被取消。"
+      ],
+      "source": "L2 · Dual Identity Model双重认同模型 · [B0204–B0204]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q26",
+      "conceptId": "L2-C26",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "学校改善交流活动，却不处理隔离与不公平资源分配。最符合本讲哪种警告？",
+      "stemEn": "A school improves social events but ignores segregation and unfair resource allocation. Which warning best fits the lecture?",
+      "options": [
+        "个人接触必能解决任何制度问题",
+        "结构不平等持续时，仅改个人态度可能不足",
+        "政策与偏见完全无关",
+        "减少偏见只能由少数群体负责"
+      ],
+      "optionsEn": [
+        "Individual contact inevitably solves every institutional problem",
+        "Changing attitudes alone may be insufficient while structural inequality persists",
+        "Policy is unrelated to prejudice",
+        "Only minorities are responsible for prejudice reduction"
+      ],
+      "answer": 1,
+      "explanation": "交流活动可能改善关系，但隔离和不公平分配还在，制度问题就没有自动消失。减少偏见也需要改变政策、权力关系和资源安排。",
+      "optionExplanations": [
+        "错误：个人见面不会自动修复隔离或不公平的资源分配。",
+        "正确：态度改善之外，还需要处理持续的不平等制度。",
+        "错误：政策决定资源和制度支持，本讲明确把它纳入干预。",
+        "错误：学校和制度也有责任，不能全部推给少数群体。"
+      ],
+      "source": "L2 · 最终结论：Prejudice Reduction Is Social Change减少偏见也是社会改变 · [B0207–B0207]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q27",
+      "conceptId": "L2-C01",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "招聘者并不说讨厌外群体，却只优待同群体申请者，造成外群体不公平待遇。最准确是什么？",
+      "stemEn": "A recruiter expresses no dislike of an outgroup but favours ingroup applicants, producing unfair treatment. What is most accurate?",
+      "options": [
+        "没有公开敌意就绝不可能歧视",
+        "这只能是视觉分类",
+        "内群体优待也可能产生歧视，不要求公开仇恨",
+        "刻板印象、态度和行动一定完全一致"
+      ],
+      "optionsEn": [
+        "Discrimination is impossible without openly expressed hostility",
+        "This is only visual categorisation",
+        "Ingroup favouritism can produce discrimination without overt hatred",
+        "Stereotypes, attitudes and actions must always match"
+      ],
+      "answer": 2,
+      "explanation": "歧视看的是实际待遇，不要求先公开表达仇恨。只给自己群体额外机会，也可能让其他申请者受到不公平待遇。",
+      "optionExplanations": [
+        "错误：没有说出敌意，也可能在实际待遇上歧视别人。",
+        "错误：招聘机会已经受到影响，不只是脑中的分类判断。",
+        "正确：只优待自己人，也会让外群体处于不公平的位置。",
+        "错误：想法、态度和行动并不总是一致。"
+      ],
+      "source": "L2 · Three Core Concepts三个核心概念 · [B0007–B0009]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q28",
+      "conceptId": "L2-C14",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "如何把 RCT 与最小群体研究一起理解？",
+      "stemEn": "How can RCT and minimal-group research be understood together?",
+      "options": [
+        "两者证明任何偏见只来自同一机制",
+        "最小群体证明资源永远无关",
+        "RCT 证明没资源冲突就不可能偏爱",
+        "真实竞争可强化敌意，但分类本身也可能引发内群体偏爱"
+      ],
+      "optionsEn": [
+        "They prove that all prejudice has one mechanism",
+        "Minimal groups prove resources never matter",
+        "RCT proves favouritism is impossible without resource conflict",
+        "Real competition may strengthen hostility, while categorisation alone may produce ingroup favouritism"
+      ],
+      "answer": 3,
+      "explanation": "RCT 说明实际竞争可能增强敌意；最小群体研究说明，没有实际竞争也可能偏向自己组。竞争有作用，但不是所有内群体偏爱的必需条件，两者并不矛盾。",
+      "optionExplanations": [
+        "错误：不同研究强调不同条件，不能说偏见只来自一个原因。",
+        "错误：竞争不是必需条件，不代表资源竞争从来没有影响。",
+        "错误：最小群体研究已发现，没有真实竞争也可能出现偏爱。",
+        "正确：利益竞争和随意分类都可能影响群体态度，只是作用条件不同。"
+      ],
+      "source": "L2 · Minimal Group Paradigm最小群体范式 · [B0091–B0091]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q29",
+      "conceptId": "L2-C07",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Miller 与 Bugelski 挫折实验曾发现更负面态度，但后续结果不稳定。哪种结论最稳妥？",
+      "stemEn": "Miller and Bugelski found more negative attitudes after frustration, but later results were inconsistent. Which conclusion is most defensible?",
+      "options": [
+        "该结果支持一种可能机制，但不证明挫折必然导致偏见或攻击",
+        "只要一次支持就成为永恒规律",
+        "不稳定意味着原研究没有任何结果",
+        "替罪羊完全不受历史影响"
+      ],
+      "optionsEn": [
+        "The result supports a possible mechanism, not an inevitable link from frustration to prejudice or aggression",
+        "One supportive study establishes a permanent law",
+        "Inconsistency means the original study had no findings",
+        "Scapegoating is unrelated to history"
+      ],
+      "answer": 0,
+      "explanation": "原实验提供了挫折可能影响态度的证据，但后续结果不稳定，不能把一次发现变成必然规律。可以保留这个可能解释，同时承认它不是每次都成立。",
+      "optionExplanations": [
+        "正确：实验支持了可能的影响，却没有证明受挫后人人必然产生偏见或攻击。",
+        "错误：一次支持不能抵消后续不稳定结果和反例。",
+        "错误：后续不稳定，不代表原研究没有报告过态度变化。",
+        "错误：Berkowitz 明确考虑了历史敌意对替罪羊选择的影响。"
+      ],
+      "source": "L2 · 挫折—攻击假说 · [B0038–B0041]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q30",
+      "conceptId": "L2-C10",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "RWA 中的 authoritarian aggression 更准确指什么？",
+      "stemEn": "What is authoritarian aggression in RWA more accurately understood as?",
+      "options": [
+        "对所有人无差别攻击",
+        "对权威或社会秩序指定目标群体的攻击性",
+        "只是不服从所有权威",
+        "完全独立于社会认可的攻击"
+      ],
+      "optionsEn": [
+        "Indiscriminate aggression toward everyone",
+        "Aggression toward targets sanctioned by authority or social order",
+        "Simply refusing every authority",
+        "Aggression entirely independent of social approval"
+      ],
+      "answer": 1,
+      "explanation": "这里不是一般的“爱攻击人”，而是支持攻击权威或社会秩序指定的对象。关键是攻击目标受到权威指向或认可。",
+      "optionExplanations": [
+        "错误：它针对权威指向的对象，不是无差别攻击所有人。",
+        "正确：重点是对权威或社会秩序认可的目标表现出攻击性。",
+        "错误：这个维度与权威认可的攻击有关，不是反对所有权威。",
+        "错误：是否受到社会或权威认可，正是这个维度的重要部分。"
+      ],
+      "source": "L2 · 右翼权威主义 · [B0075–B0076]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q31",
+      "conceptId": "L2-C12",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "认知解释的哪种局限被本讲指出？",
+      "stemEn": "Which limitation of the cognitive approach is noted in this lecture?",
+      "options": [
+        "它证明所有人加工能力无限",
+        "它认为分类不可能存在",
+        "只强调省脑力会忽视群体关系、政治功能和历史目标",
+        "它已完全解释每个群体何时被针对"
+      ],
+      "optionsEn": [
+        "It proves unlimited processing capacity",
+        "It denies categorisation",
+        "Focusing only on effort-saving can overlook intergroup relations, political functions and historical targets",
+        "It fully explains when every group is targeted"
+      ],
+      "answer": 2,
+      "explanation": "“为了省脑力而分类”能解释一些误判，却不够解释为什么某个群体在某段历史中被针对。还要看群体关系、政治用途和具体历史背景。",
+      "optionExplanations": [
+        "错误：认知解释的前提恰恰是人的处理能力有限。",
+        "错误：分类是认知解释的重要内容。",
+        "正确：省脑力不能完整解释政治用途和历史上特定群体为何受针对。",
+        "错误：具体群体何时成为目标，还需要社会和历史解释。"
+      ],
+      "source": "L2 · 认知解释 · [B0079–B0082]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q32",
+      "conceptId": "L2-C13",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "给连续差异贴两个标签后，说“两组差很大，每组内部都差不多”。这最符合什么？",
+      "stemEn": "After labelling continuous differences into two groups, someone says, 'The groups differ greatly, and members within each group are alike.' What best fits?",
+      "options": [
+        "个体差异被更准确保留",
+        "纯粹直接证明实际天生差异",
+        "共同目标降低偏见",
+        "分类强化效应：组间夸大、组内同质化"
+      ],
+      "optionsEn": [
+        "More accurate preservation of individual differences",
+        "Direct proof of actual innate differences",
+        "Shared goals reducing prejudice",
+        "Accentuation: exaggerated between-group differences and within-group homogeneity"
+      ],
+      "answer": 3,
+      "explanation": "“两组差很大”是在放大组间差异；“每组内部都差不多”是在忽略组内差异。两种判断一起出现，正符合分类强化效应。",
+      "optionExplanations": [
+        "错误：说每组都差不多，恰好忽略了成员之间的差异。",
+        "错误：贴标签后的判断变化，不能证明差异是天生的。",
+        "错误：题目只有标签和判断，没有安排合作目标。",
+        "正确：组间看得更不同、组内看得更相似，是分类强化的两个方向。"
+      ],
+      "source": "L2 · Tajfel与Wilkes线段研究 · [B0088–B0088]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q33",
+      "conceptId": "L2-C15",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "两种分配是我组 18、他组 18 和我组 20、他组 6。若追求两组总收益最高，应选哪种？",
+      "stemEn": "Two allocations are ingroup 18/outgroup 18 and ingroup 20/outgroup 6. Which maximises joint profit?",
+      "options": [
+        "我组 18、他组 18，因为总额 36 高于 26",
+        "我组 20、他组 6，因为我组领先",
+        "两者共同收益一样",
+        "只要自己拿更多就叫最大共同收益"
+      ],
+      "optionsEn": [
+        "Ingroup 18/outgroup 18, because 36 exceeds 26",
+        "Ingroup 20/outgroup 6, because the ingroup leads",
+        "Both have the same joint profit",
+        "Any allocation giving the ingroup more is maximum joint profit"
+      ],
+      "answer": 0,
+      "explanation": "最大共同收益只看两组加起来拿多少：18+18=36，20+6=26。因此选 18 和 18；自己组是否领先，不是这个目标的判断标准。",
+      "optionExplanations": [
+        "正确：两组合计 36，高于另一方案的 26。",
+        "错误：自己组领先更大，不代表两组总收益更多。",
+        "错误：36 大于 26，两种方案的共同收益不同。",
+        "错误：自己组多拿属于内群体收益，共同收益要把两组都加上。"
+      ],
+      "source": "L2 · Minimal Group Paradigm最小群体范式 · [B0091–B0091]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q34",
+      "conceptId": "L2-C20",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "接触元分析平均为负相关，但有些研究为正方向。哪种理解正确？",
+      "stemEn": "The contact meta-analysis is negative on average, but some studies are positive. Which interpretation is correct?",
+      "options": [
+        "平均结果无论条件都完全相同",
+        "接触的性质和情境重要，不能保证每次接触减少偏见",
+        "正方向研究必须被隐藏",
+        "负相关等于每个人都不再有偏见"
+      ],
+      "optionsEn": [
+        "The average applies identically regardless of conditions",
+        "Contact quality and context matter; not every encounter is guaranteed to reduce prejudice",
+        "Positive-direction studies should be hidden",
+        "A negative correlation means everyone is free of prejudice"
+      ],
+      "answer": 1,
+      "explanation": "平均负相关不代表每项研究、每次接触都一样。有些结果方向相反，说明互动质量和情境很重要，不能只靠增加接触次数。",
+      "optionExplanations": [
+        "错误：平均值不能抹掉不同研究和情境之间的差异。",
+        "正确：要看接触发生了什么，而不是认定每次见面都能减少偏见。",
+        "错误：不符合预期的证据也应报告，不能挑着保留负相关。",
+        "错误：偏见与接触负相关，不代表每个人都已经没有偏见。"
+      ],
+      "source": "L2 · Pettigrew与Tropp元分析 · [B0145–B0145]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q35",
+      "conceptId": "L2-C23",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "通过电视剧中有完整人格的外群体角色增加理解，主要属于什么？",
+      "stemEn": "Gaining understanding through a richly developed outgroup character in a TV drama is mainly what?",
+      "options": [
+        "直接面对面接触",
+        "最大内群体利润",
+        "拟社会接触",
+        "互斥资源竞争"
+      ],
+      "optionsEn": [
+        "Direct face-to-face contact",
+        "Maximum ingroup profit",
+        "Parasocial contact",
+        "Mutually exclusive resource competition"
+      ],
+      "answer": 2,
+      "explanation": "你是通过电视剧人物和故事了解外群体，而不是与真实成员面对面互动。这种媒体中的接触属于拟社会接触。",
+      "optionExplanations": [
+        "错误：看电视剧没有与真实的外群体成员面对面互动。",
+        "错误：题目是在了解人物，没有分配资源或利润。",
+        "正确：通过媒体角色及其故事增加了解，就是拟社会接触。",
+        "错误：这里没有一组赢、另一组输的资源竞争。"
+      ],
+      "source": "L2 · Indirect Contact间接接触 · [B0156–B0156]",
+      "origin": "notes"
+    },
+    {
+      "id": "L2-Q36",
+      "conceptId": "L2-C25",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "与要求所有人放弃原有文化相比，双重认同为何不同？",
+      "stemEn": "How does dual identity differ from requiring everyone to abandon their original culture?",
+      "options": [
+        "它否定任何共同归属",
+        "它只允许主流文化保留",
+        "它要求所有子群体完全相同",
+        "它承认共同上位身份，同时保留并尊重子群体差异"
+      ],
+      "optionsEn": [
+        "It rejects all shared belonging",
+        "It preserves only the dominant culture",
+        "It requires every subgroup to be identical",
+        "It recognises a common superordinate identity while retaining subgroup differences"
+      ],
+      "answer": 3,
+      "explanation": "双重认同既保留“我们属于同一个大群体”，也保留各子群体的文化和特点。它不同于要求所有人放弃原有文化、只剩一种身份的同化。",
+      "optionExplanations": [
+        "错误：双重认同保留共同归属，并不是取消它。",
+        "错误：只保留主流文化更接近同化，不是尊重多个子群体。",
+        "错误：各子群体仍可以保留自己的文化差异。",
+        "正确：共同归属和原有群体身份可以同时存在。"
+      ],
+      "source": "L2 · Dual Identity Model双重认同模型 · [B0204–B0204]",
+      "origin": "notes"
+    }
+  ],
+  "file": "Lecture2.docx",
+  "sourceBlocks": [
+    {
+      "id": 1,
+      "text": "Stereotyping, Prejudice & Discrimination"
+    },
+    {
+      "id": 2,
+      "text": "刻板印象、偏见与歧视\n两个总问题：\n1. Why does prejudice occur?\n偏见为什么会产生？\n2. Can prejudice be meaningfully reduced?\n偏见能否被有效减少？"
+    },
+    {
+      "id": 5,
+      "text": "全讲总记忆树"
+    },
+    {
+      "id": 6,
+      "text": "Stereotyping, Prejudice & Discrimination 刻板印象、偏见与歧\n整讲可以浓缩成一条因果主线：\n人会自动分类世界\n↓\n形成“我们”和“他们”\n↓\n竞争、威胁、挫折、群体规范或人格倾向\n让这种界线变得更强\n↓\nStereotype 刻板印象\n↓\nPrejudice 偏见\n↓\nDiscrimination 歧视\n但教授的核心立场是：\n没有任何一个理论可以单独解释所有偏见。\n不同理论解释的是这条链条中的不同部分。\n└── 3. How Can Prejudice Be Reduced?\n如何减少偏见？\n│\n├── A. Contact Hypothesis 接触假说\n│   ├── Equal Status 平等地位\n│   ├── Institutional Support 制度支持\n│   ├── Common Goals 共同目标\n│   ├── Contact Caveat 接触警告\n│   ├── Vicarious Contact 替代性接触\n│   └── Parasocial Contact 媒体拟社会接触\n│\n├── B. Identity-Based Strategies 认同策略\n│   ├── Common Ingroup Identity Model\n│   ├── Assimilation 同化\n│   ├── Dual Identity Model\n│   └── Multiculturalism 多元文化主义\n│\n└── C. Structural Change 结构性改变\n├── Social Norms 社会规范\n├── Policy 政策\n├── Reduce Inequality 减少不平等\n└── Social and Political Action 社会政治行动\n├── 2. Why Does Prejudice Occur?\n│   偏见为什么产生？\n│   │\n│   ├── A. Socio-Cultural Approach 社会文化解释\n│   │   ├── Sherif’s Boys’ Camp Studies\n│   │   ├── Realistic Conflict Theory\n│   │   ├── Scarce Resources 稀缺资源\n│   │   ├── Mutually Exclusive Goals 互斥目标\n│   │   └── Superordinate Goals 超级目标\n│   │\n│   ├── B. Psychodynamic Approach 心理动力学解释\n│   │   ├── Frustration–Aggression Hypothesis\n│   │   ├── Displaced Aggression 转移性攻击\n│   │   ├── Scapegoating 替罪羊\n│   │   └── Berkowitz’s Reformulation\n│   │\n│   ├── C. Personality Approach 人格解释\n│   │   ├── Authoritarian Personality\n│   │   ├── Prejudiced vs Tolerant Personality\n│   │   └── Right-Wing Authoritarianism, RWA\n│   │\n│   ├── D. Cognitive Approach 认知解释\n│   │   ├── Limited Cognitive Capacity\n│   │   ├── Categorisation 分类\n│   │   ├── Cognitive Miser 认知吝啬者\n│   │   └── Stereotypes as Shortcuts\n│   │\n│   └── E. Social Identity Approach 社会认同解释\n│       ├── Tajfel & Wilkes Line Study\n│       ├── Accentuation Effect 强化效应\n│       ├── Minimal Group Paradigm\n│       ├── Ingroup Favouritism\n│       ├── Positive Distinctiveness\n│       └── Depersonalisation 去个人化\n├── 1. Three Core Concepts 三个核心概念\n│   ├── Stereotyping 刻板印象\n│   ├── Prejudice 偏见\n│   └── Discrimination 歧视"
+    },
+    {
+      "id": 7,
+      "text": "Three Core Concepts三个核心概念\nStereotyping 刻板印象\n把某些一般特征或性格归到整个社会群体成员身上。\n通常具有：\n·  oversimplified 过度简化；\n·  exaggerated 夸张；\n·  group-based 基于群体；\n·  不一定针对每个成员有真实证据。\n例如：\n“所有某类游戏玩家都很暴躁”\n“所有某专业的学生都不擅长社交”"
+    },
+    {
+      "id": 9,
+      "text": "Prejudice 偏见\n仅仅因为某人属于某个社会类别，就对其持有负面态度、信念或评价。\n重点是 attitude / belief，也就是“怎么看、怎么想”。\nDiscrimination 歧视\n仅仅因为某人的群体身份，就给予其不同或不公平的待遇。\n重点是实际的 behaviour / treatment。\n三者的关系\nStereotyping\n我认为某群体“都是什么样”\nPrejudice\n我因此对该群体产生负面态度\nDiscrimination\n我因此对该群体采取不公平行动\n但PPT第4页的Venn diagram特别强调：\n它们有重叠，但绝不等价。\n·  不是所有刻板印象都源自偏见；\n·  不是所有刻板印象都会导致歧视；\n·  一个人可能有偏见，但没有实施歧视；\n·  歧视有时不是主动伤害，而是对自己群体给予额外优待。\n教授明确说，考试不会过度纠结三者非常细微的定义差别。本讲重点是：\n它们为什么产生，又如何被减少。"
+    },
+    {
+      "id": 11,
+      "text": "Approach 1：Socio-Cultural Approach"
+    },
+    {
+      "id": 12,
+      "text": "社会文化解释\n核心观点\n偏见并不一定来自“坏人的坏人格”，而可能来自群体之间的关系。\nCo-operative Relationship 合作关系\n→ More positive attitudes\nCompetitive Relationship 竞争关系\n→ Threat, stereotypes and prejudice\n群体关系发生改变，刻板印象和偏见也会跟着改变。"
+    },
+    {
+      "id": 21,
+      "text": "Sherif’s Boys’ Camp Studies"
+    },
+    {
+      "id": 22,
+      "text": "Sherif男孩夏令营研究／Robbers Cave研究\n研究目的\n当时的主流解释认为：\n某些人有偏见\n→ 是因为他们的生物、人格或心理有问题\nSherif和Woods想测试：\n能否只改变群体情境\n→ 就让原本普通的孩子产生冲突和偏见？\n参与者主要是：\n·  约12岁；\n·  白人；\n·  中产阶级男孩。\n这是一个明显的样本局限，不能轻易代表全部人类。"
+    },
+    {
+      "id": 26,
+      "text": "Phase 1：Group Cohesion建立群体关系\n男孩们先进行一般夏令营活动：\n·  玩游戏；\n·  唱歌；\n·  进行体育活动；\n·  发展友谊。\n这个阶段整体相对和谐。\nPhase 2：Competitive Groups划分并竞争\n男孩们被拆分成两个群体，有时甚至故意跨越之前已经形成的友谊关系。\n每组开始建立：\n·  group name 群体名称；\n·  flag 旗帜；\n·  group identity 群体认同；\n·  group norms 群体规范。\n之后两组为奖品比赛，例如：\n·  体育活动；\n·  拔河；\n·  有价值的奖品。\n结果很快出现：\nCompetition\n竞争\n↓\nStronger ingroup identity\n内部认同增强\n↓\nUs vs Them\n我们 vs 他们\n↓\nName-calling / theft / violence\n辱骂、偷窃、暴力\n有些研究甚至因为冲突过于严重而被提前终止。\nPhase 3：Ordinary Contact普通接触\n研究者让两组：\n四个阶段\nPhase 1：Group Cohesion\n建立群体凝聚力\nPhase 2：Competition\n划分两组并进行竞争\nPhase 3：Non-Competitive Contact\n让两个敌对群体普通接触\nPhase 4：Shared Interdependent Goals\n设置必须合作完成的共同目标\nPPT将基本流程整理为：先建立群体关系，再引入竞争，之后尝试普通接触，最后使用共同依赖的目标。"
+    },
+    {
+      "id": 27,
+      "text": "·  一起吃饭；\n·  看电影；\n·  参加娱乐活动；\n·  进行非竞争性接触。\n结果：\n普通的、愉快的接触并没有自动消除敌意。\n有时两组反而在共同活动中继续争吵、打架。\n这说明：\n“让敌对群体待在同一个房间”\n≠\n自动减少偏见\nPhase 4：Superordinate Goals超级目标／高阶共同目标\n真正有效的是：\n两组都无法独立完成，必须共同合作的目标。\n例如：\n·  一起推坏掉的食物运输车；\n·  一起修复供水系统；\n·  共同凑钱购买电影。\n只有这类 shared interdependent goals 明显减少了敌意。\n教授还提到，夏令营结束时，男孩们提名的亲密朋友约90%来自后来形成的竞争群体，说明竞争期间建立的群体关系非常持久。"
+    },
+    {
+      "id": 28,
+      "text": "Realistic Conflict Theory, RCT"
+    },
+    {
+      "id": 29,
+      "text": "现实冲突理论／现实性群体冲突理论\n核心公式\nScarce Resources 稀缺资源\n+\nMutually Exclusive Goals 互斥目标\n↓\nIntergroup Competition 群体竞争\n↓\nThreat 威胁\n↓\nPrejudice and Conflict 偏见与冲突\n当一个群体成功意味着另一个群体失败时：\n两个群体的利益发生直接冲突，群体关系就会恶化。\n这就是 mutually exclusive goals：\n只有一个队伍能拿到冠军\n只有一个群体能获得有限资源\n只有一方能得到工作、土地或权力\nPPT将RCT概括为：群体因稀缺资源和互斥目标展开竞争，进而产生偏见和群体攻击。\nEthnocentrism 民族／群体中心主义\n相信自己的ingroup优于其他outgroups，并把外群体看成低等或较差。\nMy group = normal / good / superior\n我的群体 = 正常、优秀\nOther group = strange / bad / inferior\n其他群体 = 奇怪、较差\n这种判断既可以强化内部团结，也可以为群体之间的不平等待遇提供理由。\n如何解决？\nUs vs Them\n我们 vs 他们\n↓\nShared Superordinate Goal\n必须一起完成的高阶目标\n↓\nWe\n共同的“我们”\n可以把它想成两个原本互相敌视的游戏公会，突然遇到一个任何单独公会都打不过的世界Boss。只有一起打才能获得奖励，旧的公会边界暂时被新的“全服务器玩家”身份覆盖。"
+    },
+    {
+      "id": 32,
+      "text": "RCT的优点\n·  证明普通人也会在特定情境中形成偏见；\n·  显示偏见可以随群体关系而改变；\n·  解释了竞争、威胁和资源如何塑造敌意；\n·  提供共同目标这一现实干预思路。\nRCT的局限\n·  More descriptive than explanatory它很好地描述了“竞争后发生了什么”，但没有完全说明人的头脑内部发生了什么心理机制。\n·  现实中难以制造真正共同目标夏令营里可以安排一辆坏掉的卡车，但现实中的宗教、种族、阶级冲突远复杂得多。\n·  可能存在权威诱导的confound教授在课堂讨论中指出，如果辅导员或实验者刻意鼓励竞争，结果可能不完全来自“自然形成的群体关系”。\n·  结构不平等不会因为短期合作自动消失如果参与者回到一个仍然存在隔离和不平等的社会，短期合作效果可能无法维持。"
+    },
+    {
+      "id": 33,
+      "text": "Approach 2：Psychodynamic Approach"
+    },
+    {
+      "id": 34,
+      "text": "心理动力学解释\n核心思想：\n偏见可能是没有被正确处理的挫折和攻击，被转移到了较弱的群体身上。"
+    },
+    {
+      "id": 37,
+      "text": "Frustration–Aggression Hypothesis"
+    },
+    {
+      "id": 38,
+      "text": "挫折—攻击假说\nDollard及其同事最初提出：\n攻击总是意味着之前存在挫折，而挫折总会导致某种形式的攻击。\n原始模型是：\nGoal Interference\n目标被阻挡\n↓\nFrustration\n挫折\n↓\nCannot attack real source\n无法攻击真正来源\n↓\nDisplaced Aggression\n攻击被转移\n↓\nScapegoat\n替罪羊\nScapegoating 替罪羊机制\n真正造成挫折的对象可能是：\n·  政府；\n·  经济制度；\n·  老板；\n·  权力更强的群体；\n·  难以改变的社会结构。\n直接攻击这些对象风险较高，于是攻击被转向一个更弱、更安全的对象。\n教授将其概括为：\n为什么人会“向下攻击”或punch down。"
+    },
+    {
+      "id": 41,
+      "text": "Miller & Bugelski, 1948\n参与者被随机分为：\n·  rustration condition 挫折组；\n·  Control condition 控制组。\n在挫折组中，原本承诺的活动突然被取消，参与者反而要完成困难任务。\n研究者在操纵前后测量他们对少数群体的态度。\n结果：\nFrustration group\n→ More negative attitudes after manipulation\nControl group\n→ No comparable change\n这支持了攻击被转移到少数群体的想法。\n但后续结果并不稳定\n一些研究发现挫折增加了对少数群体的负面态度，另一些研究却没有发现替罪羊效应。\n两个致命问题\n·  无法准确预测谁会成为替罪羊。\n·  挫折既不是攻击的必要条件，也不是充分条件。\n现实中存在：\nFrustration without aggression\n有挫折但没有攻击\nAggression without frustration\n没有明显挫折却发生攻击"
+    },
+    {
+      "id": 42,
+      "text": "Berkowitz’s Reformulation"
+    },
+    {
+      "id": 43,
+      "text": "Berkowitz的重新解释"
+    },
+    {
+      "id": 45,
+      "text": "Berkowitz没有完全抛弃原理论，而是做了三项关键修改。"
+    },
+    {
+      "id": 46,
+      "text": "Subjective Frustration主观挫折\n重点不是一个人是否客观上真的被剥夺，而是：\n他是否认为自己被剥夺、被占便宜或受到不公平对待。\nActual deprivation\n真实损失\n≠\nPerceived deprivation\n主观上觉得自己吃亏\n政治人物可能通过强调“你的资源正在被别人抢走”，制造主观威胁，即使实际情况并没有那么简单。\nScapegoats Are Not Random替罪羊并非随机选择\n最可能成为替罪羊的群体通常：\n·  曾经和ingroup发生过冲突；\n·  被认为不喜欢或威胁ingroup；\n·  与ingroup存在长期宗教、文化或资源竞争。\n因此，历史关系和已有社会叙事会决定攻击被导向谁。\nAversive Events 厌恶性事件\n攻击的起因不一定只是“目标受阻”，也可能是任何令人不舒服的事件：\n·  pain 疼痛；\n·  extreme heat or cold 极端温度；\n·  loud noise 噪音；\n·  overcrowding 过度拥挤；\n·  economic insecurity 经济不安全感。\nBerkowitz版本仍然存在的局限\n·  仍容易把攻击看成非理性、自动反应；\n·  个体挫折难以完整解释大型社会运动；\n·  没有充分考虑社会规范如何允许或禁止攻击；\n·  不能解释群体为什么有时选择合作而非攻击。"
+    },
+    {
+      "id": 48,
+      "text": "Approach 3：Personality Approach"
+    },
+    {
+      "id": 49,
+      "text": "人格解释\n核心观点\n有些人格特征可能使人更容易对多个不同外群体产生偏见。\n研究发现：\nReject one outgroup\n排斥一个外群体\n↓\nMore likely to reject other outgroups\n也更可能排斥其他外群体\n于是研究者提出：\nPrejudiced Personality 偏见人格\nvs\nTolerant Personality 宽容人格"
+    },
+    {
+      "id": 70,
+      "text": "Authoritarian Personality"
+    },
+    {
+      "id": 71,
+      "text": "权威主义人格\nAdorno认为，严厉、惩罚性的早期家庭经历可能形成：\n·  insecurity 不安全感；\n·  fearfulness 恐惧；\n·  inability to tolerate uncertainty 无法忍受不确定；\n·  inability to manage inner conflict 难以处理内在冲突；\n·  black-and-white thinking 非黑即白思维。\n相反，较宽容和接纳性的成长环境被认为可能形成：\n·  security 安全感；\n·  maturity 成熟；\n·  confidence 自信；\n·  better tolerance of ambiguity 更能容忍模糊与变化。\n这是理论当时的观点，不代表Lecture认为所有严厉家庭都会必然制造偏见者。"
+    },
+    {
+      "id": 72,
+      "text": "原始Authoritarian Personality的特征\nRigid conventional values\n僵硬遵守传统价值\nSubmission to strong authority\n服从强势权威\nAnti-intraception\n反感敏感、温和或内省式思维\nGeneralised hostility\n广泛敌意\nMystical / superstitious thinking\n神秘、迷信式思维\nBlack-and-white stereotyped thinking\n非黑即白和刻板化思维"
+    },
+    {
+      "id": 74,
+      "text": "Right-Wing Authoritarianism, RWA"
+    },
+    {
+      "id": 75,
+      "text": "右翼权威主义"
+    },
+    {
+      "id": 76,
+      "text": "Altemeyer在1981年把权威主义重新整理为三个核心维度：\n维度\n含义\nAuthoritarian Submission 权威服从\n高度服从被认为合法的权威\nAuthoritarian Aggression 权威攻击\n对权威或社会秩序指定的目标群体表现攻击性\nConventionalism 传统主义\n高度遵从权威认可的社会传统和规范\n高RWA通常和以下内容相关：\n·  prejudicial attitudes 偏见态度；\n·  traditional values 传统价值；\n·  nationalism 民族主义；\n·  respect for authority 崇尚权威；\n·  harsh treatment of marginalised groups 对边缘群体采取严厉态度。\n教授也提到 Left-Wing Authoritarianism，用于描述另一政治方向中可能出现的教条主义和对不同观点的不容忍，但它与相同暴力后果的关系没有RWA那么稳定。\n关键批判：RWA真的是固定人格吗？\nPPT直接提出：\nFixed Personality Trait\n固定人格特质\nor\nChangeable Social Attitude\n可改变的社会态度？\n因为RWA分数会随情境变化，例如：\n·  感受到外群体威胁时上升；\n·  获得权力时可能上升；\n·  不同社会环境下回答不同。\n因此，它可能同时包含：\nRelatively stable tendency\n相对稳定的倾向\n+\nContext-sensitive attitude\n受情境影响的社会态度\n人格解释的局限\n·  无法很好解释某个历史时期整个社会同时形成偏见；\n·  所谓“宽容者”也可能出现非黑即白和不宽容思维；\n·  Sherif研究说明普通人在特定环境中也会迅速产生偏见；\n·  它容易让人以为只有“心理有问题的人”才会有偏见。\n教授最后更倾向于：\nTraits × Situations人格倾向和社会情境共同作用。"
+    },
+    {
+      "id": 78,
+      "text": "Approach 4：Cognitive Approach"
+    },
+    {
+      "id": 79,
+      "text": "认知解释\nCognitive Miser 认知吝啬者\n核心前提：\nSocial world is extremely complex\n社会世界非常复杂\nHuman processing capacity is limited\n人类加工能力有限\n↓\nInformation overload\n信息过载\n↓\nUse categories and shortcuts\n使用分类和心理捷径\nPPT用 cognitive miser 表示：人会尽可能节省认知资源，而不是每次都重新详细分析每一个人。\nLippmann’s View\n因为社会世界过于复杂，人必须：\n·  summarise 总结；\n·  select 选择；\n·  generalise 概括。\n于是我们更容易对一个群体形成总体印象，而不是逐个认识所有成员。\nFiske & Taylor：Cognitive Miser Model该模型把人看成有限且会出错的信息加工系统：\nQuick and easy judgement\n快速、轻松的判断\n→ Less effort\n→ More likely to be wrong\nSlow and detailed judgement\n缓慢、详细的判断\n→ More effort\n→ More likely to be accurate\n当人：\n·  疲劳；\n·  时间紧；\n·  信息很多；\n·  面对陌生社会情境；\n就更可能依赖刻板印象。"
+    },
+    {
+      "id": 82,
+      "text": "这个解释的重要意义\n它把刻板印象理解为：\n正常但可能有问题的认知过程，而不是只有“异常人格者”才会做的事。\n刻板印象可能帮助我们快速预测环境，但也容易造成错误和不公平判断。\nCognitive Approach的局限\n·  忽视群体身份和群体关系；\n·  过度强调“节省脑力”；\n·  低估偏见的政治和社会功能；\n·  无法充分解释为什么某些具体群体在某个历史时期成为目标；\n·  偏见有时是为了维护地位、意识形态和集体行动，不只是认知失误。"
+    },
+    {
+      "id": 83,
+      "text": "Approach 5：Social Identity & Group Approaches社会认同与群体解释\nTajfel把刻板印象定义为：\n把一般心理特征归给大型人类群体。\n它仍然是正常的分类过程，但这种分类会改变我们实际如何看待群体。"
+    },
+    {
+      "id": 87,
+      "text": "Tajfel & Wilkes Line Study"
+    },
+    {
+      "id": 88,
+      "text": "Tajfel与Wilkes线段研究\n实验设计\n参与者看到8条长度逐渐增加的线段。\nClassified Condition 分类条件\n·  较短的4条标为A；\n·  较长的4条标为B。\nUnclassified Condition 无分类条件\n不加任何标签。\nRandom Condition 随机条件\nA和B标签与长度没有稳定关系。\n结果：Accentuation Effect\n分类强化效应\n当标签与长度类别对应时，参与者会：\nExaggerate differences between categories\n夸大A组和B组之间的差异\nMinimise differences within categories\n低估A组内部或B组内部的差异\n放入社会世界就是：\n“男人和女人差别非常大”\n“每个男人之间都差不多”\n“每个女人之间都差不多”\n这可以解释刻板印象的两个特征：\n·  Extremity 极端化：群体差异被夸大；\n·  Homogeneity 同质化：认为外群体成员都差不多。"
+    },
+    {
+      "id": 91,
+      "text": "Minimal Group Paradigm最小群体范式\n实验设计\n参与者观看Kandinsky和Klee的画作，之后被告知自己属于：\n·  Kandinsky group；\n·  Klee group。\n实际上分组非常随意，群体之间：\n·  没有历史；\n·  没有真实竞争；\n·  没有稀缺资源；\n·  成员彼此不认识；\n·  分组也不重要。\n之后参与者向匿名的ingroup和outgroup成员分配少量真实金钱。\n可选择的分配策略\n策略\n含义\nFairness\n两组得到相同金额\nMaximum Joint Profit\n两组总收益最大\nMaximum Ingroup Profit\n自己群体获得最多\nMaximum Difference\n自己群体不一定拿最多，但与外群体差距最大\nFavouritism\n综合偏向自己群体\n最重要结果\n参与者经常：\n·  给ingroup更多；\n·  更偏向自己刚刚才被分配进去的群体；\n·  甚至愿意牺牲ingroup的绝对收益，只为了让ingroup比outgroup赢得更多。\n例如：\nOption A：\nIngroup 23，Outgroup 29\n总收益很高，但自己群体少\nOption B：\nIngroup 11，Outgroup 5\n自己群体拿得更少，但“赢”了对方\n很多人会偏向Option B。\n为什么重要？\n仅仅把人分成两个毫无意义的群体，就足以产生ingroup favouritism。\n因此，偏见并不一定需要：\n·  真实竞争；\n·  稀缺资源；\n·  长期敌意；\n·  特殊人格。\n“你是红队，我是蓝队”本身就可能启动我们与他们的思维。"
+    },
+    {
+      "id": 94,
+      "text": "Social Identity Theory社会认同理论\nSocial Identity 社会认同\n自我概念中与群体成员身份有关，并带有价值和情感意义的部分。\nPersonal Identity\n我是“我”\nSocial Identity\n我是“我们中的一员”\n人不仅希望自己是好的，也希望自己的群体是好的。\nPositive Distinctiveness积极区分性\nCompare ingroup with outgroup\n把内群体与外群体比较\n↓\nSeek favourable difference\n希望自己的群体显得更好\n↓\nIngroup favouritism\n内群体偏爱\nDepersonalisation 去个人化\n这里不是“失去人格”或“失去人性”，而是：\n自我定义从个人身份转向群体身份。\n“I / Me”\n我是一个独立的人\n↓\n“We / Us”\n我是这个群体的一员\n当某个群体身份变得salient时，人会更容易内化：\n·  group norms 群体规范；\n·  group values 群体价值；\n·  group beliefs 群体信念。\n身份的不同层级\nIndividual Level 个体\n“I am Panda”\nSubgroup Level 子群体\n“I am a psychology student”\nSuperordinate Level 上位群体\n“I am an ANU student”\n“I am Australian”\n“I am human”"
+    },
+    {
+      "id": 97,
+      "text": "哪一个身份最重要，会根据情境变化。\nSocial Identity Theory的局限\n·  早期证据大量来自人工实验室；\n·  可能过度决定论，低估个人agency；\n·  不能假设一旦群体身份启动，人就必然成为“group zombie”；\n·  单独使用时不一定解释资源竞争，但可以与Sherif结合：\nIdentity\n群体认同\n×\nConflict\n群体冲突\n=\nStrong intergroup hostility\n更强群体敌意"
+    },
+    {
+      "id": 98,
+      "text": "五种偏见解释总对照\nApproach\n偏见主要来自\n核心关键词\n主要局限\nSocio-Cultural\n群体关系、竞争和稀缺资源\ncompetition, scarce resources, shared goals\n内部心理机制不够清楚\nPsychodynamic\n挫折被转移到替罪羊\nfrustration, displaced aggression, scapegoat\n挫折不一定导致攻击\nPersonality\n权威主义、僵化和无法容忍模糊\nauthoritarianism, conventionalism\n无法解释大规模历史变化\nCognitive\n认知容量有限，依赖分类捷径\ncognitive miser, shortcut, categorisation\n忽略政治和群体关系\nSocial Identity\n“我们—他们”分类及积极区分\ningroup, outgroup, positive distinctiveness\n早期证据较人工，可能过度决定论\n最稳的考试理解不是选一个理论宣布“它解释一切”，而是：\nCognitive tendency to categorise\n认知上自动分类\n+\nContext and competition\n情境与竞争\n+\nPersonality susceptibility\n人格上的易感性\n+\nSocial identity and norms\n社会认同与规范\n+\nStructural inequality\n结构不平等\n=\nPrejudice\n偏见\n这是整合记忆法，不是教授提出的单一正式模型。"
+    },
+    {
+      "id": 101,
+      "text": "Can We Reduce Prejudice?"
+    },
+    {
+      "id": 102,
+      "text": "能否减少偏见？\n本讲讨论两条主要路线：\n1. Change contact between groups\n改变群体接触\n2. Change how people categorise themselves\n改变人如何定义群体身份\n最后再加上：\n3. Change social structures\n改变社会结构"
+    },
+    {
+      "id": 142,
+      "text": "Contact Hypothesis接触假说\nAllport的基本观点：\n偏见之所以持续，是因为人们与“他者”保持距离，彼此不熟悉。增加有意义的群体接触，可能减少偏见。\n接触成功的三个条件\n1. Equal Status 平等地位\n两个群体在互动中不能明显处于支配者和被支配者的位置。\nInstitutional Support 制度支持\n接触需要得到：\n·  法律；\n·  学校；\n·  公司；\n·  社会规范；\n·  领导者；\n的明确支持。\nCommon Goals / Common Interests共同目标／共同利益\n双方需要真正合作，而不是只被放在同一地点。\n为什么接触可能有效？\nPositive Intergroup Contact\n积极群体接触\n↓\nLower Anxiety\n降低群际焦虑\n↓\nHigher Empathy\n增加群际同理心\n↓\nHigher Trust\n增加群际信任\n↓\nLower Prejudice\n降低偏见\n亲密的跨群体友谊通常比短暂接触更有效，而且接触效应在种族、年龄、性取向和残障偏见等领域都曾被发现"
+    },
+    {
+      "id": 144,
+      "text": "Pettigrew & Tropp Meta-Analysis"
+    },
+    {
+      "id": 145,
+      "text": "Pettigrew与Tropp元分析\n研究整合了：\n·  515项研究；\n·  713个独立样本；\n·  250,089名参与者；\n·  38个国家；\n·  多个不同学科\n总体平均相关：\nr ≈ -0.21\n意思是：\n接触更多通常和偏见较低有关，但效应较小，而且不同研究差异很大。\n图中有些研究甚至落在正方向，意味着：\nMore contact\n更多接触\n→ More prejudice\n反而更多偏见\n所以结论不是:\n“只要见面，偏见必然消失。”\n而是：\n接触通常可能有帮助，但取决于接触的性质和情境。"
+    },
+    {
+      "id": 148,
+      "text": "Contact Caveat"
+    },
+    {
+      "id": 149,
+      "text": "接触警告／接触的反效果\nBarlow等人发现：\n负面接触增加偏见的关系，往往比正面接触减少偏见的关系更强。\nOne powerful negative encounter\n一次强烈负面接触\n可能抵消\nSeveral mild positive encounters\n多次普通正面接触\nThe Burden of Contact接触对少数群体的负担\n对少数群体成员而言，接触可能要求他们：\n·  不断监控自己的言行；\n·  充当“模范少数群体成员”；\n·  代表整个群体；\n·  忍受善意但冒犯的问题；\n·  压抑真实情绪来保持正面互动。\n这种 emotional labour 情绪劳动可能导致：\nEmotional labour\n↓\nBurnout\n↓\nLower wellbeing\n所以不能把减少偏见的责任全部扔给被偏见针对的群体。"
+    },
+    {
+      "id": 152,
+      "text": "Between-Person vs Within-Person Effects"
+    },
+    {
+      "id": 153,
+      "text": "人际差异 vs 个体内改变\n近期Lecture提到的研究指出：\nPeople with more contact\n接触更多的人\ntend to show less prejudice\n通常偏见较少\n这是 between-person association。\n但它不一定证明：\nIncreasing contact for one person\n增加某个人的接触\nwill reduce that person’s prejudice over time\n就会使这个人的偏见下降\n这是 within-person change。\n可能本来偏见较少的人就更愿意接触其他群体，而不是接触本身造成了改变。\n其他局限包括：\n·  可能只对一部分人有效；\n·  在已经高度多元化的社会中，效果可能plateau；\n·  短暂暴露不等于有意义的互动；\n·  需要更关注不同个体如何体验接触。\nLecture内部需要保留的细微差别\nPPT前半部分提到，部分研究发现甚至较浅层的接触也可能有一定效果；但后半部分的最新研究和教授总结进一步强调：\nQuality > Quantity。\n因此考试时最稳的理解是：\nSuperficial contact\n可能产生小幅影响\nMeaningful contact\n更可能带来真正、持久的改变\nNegative contact\n甚至可能让偏见恶化"
+    },
+    {
+      "id": 156,
+      "text": "Indirect Contact间接接触\nVicarious Contact 替代性接触\n看到自己群体中的人，与外群体成员进行积极互动。\nMy ingroup member\n我的群体成员\n+\nPositive interaction with outgroup\n和外群体积极相处\n↓\nI learn this relationship is acceptable\n我也认为这种关系可以接受\n它主要依靠 observational learning 观察学习。\nExtended Contact 延伸接触\n知道自己的朋友或ingroup成员，与outgroup成员有亲密关系。\n即使自己没有直接参与，也可能改变群体规范。\nParasocial Contact 拟社会接触\n通过电影、电视剧、书籍、游戏或其他媒体“接触”外群体成员。\n例如，一个作品中的少数群体角色如果：\n·  有完整人格；\n·  有真实故事；\n·  不只是刻板化配角；\n观众可能通过故事增加理解和同理心。\n这类方法的优势是：\n·  不把情绪劳动强加给现实中的少数群体；\n·  可让人接触平时不会遇到的身份和经历；\n·  可以降低焦虑并重新定义群体规范。"
+    },
+    {
+      "id": 159,
+      "text": "Identity-Based Prejudice Reduction"
+    },
+    {
+      "id": 160,
+      "text": "基于身份的偏见减少\n核心公式：\nChange Categorisation\n改变分类方式\n↓\nChange Group Relations\n改变群体关系\nME vs YOU\n我 vs 你\n↓\nUS\n我们\nUS vs THEM\n我们 vs 他们\n↓\nWE\n共同的我们"
+    },
+    {
+      "id": 163,
+      "text": "Common Ingroup Identity Model, CIIM"
+    },
+    {
+      "id": 164,
+      "text": "共同内群体认同模型\n核心思想：\n让原来的ingroup和outgroup，都被看成同一个更高层级群体的成员。\n例如：\nPsychology students\nvs\nBiology students\n↓\nANU students\n或者：\nLeft-wing voters\nvs\nRight-wing voters\n↓\nAustralians\n这样，原来只给予ingroup的正面态度，可能扩展到原outgroup。"
+    },
+    {
+      "id": 184,
+      "text": "CIIM的风险：Assimilation 同化\n如果只强调共同的上位身份，就可能变成：\n“要成为我们的一员，就必须放弃你原来的文化和身份。”\nFocus only on superordinate identity\n只强调上位身份\n↓\nSubgroup identity “melts away”\n子群体身份被消除\n↓\nDominant group becomes the default\n主流群体文化成为唯一标准\n这就是assimilation的风险：\nHomogenisation\n所有人变得一样\n被错误地当成\nHarmony\n和谐"
+    },
+    {
+      "id": 204,
+      "text": "Dual Identity Model双重认同模型\n双重认同模型主张同时保留：\nSuperordinate Identity\n共同上位身份\n+\nSubgroup Identity\n原有子群体身份\n例如：\n我们都是Australian，但存在许多不同的方式成为Australian。\n它允许：\n·  共同归属；\n·  文化差异；\n·  子群体的positive distinctiveness；\n·  彼此平等而非被同化。\n这在政治和社会实践中大致对应：\nMulticulturalism 多元文化主义。\nPPT将其概括为：新的上位群体同时承认并容纳子群体的相似性和差异"
+    },
+    {
+      "id": 207,
+      "text": "最终结论：Prejudice Reduction Is Social Change减少偏见也是社会改变\n教授最后并没有停在“多认识几个不同群体的人”上，而是提出五个更完整的方向：\n1. Quality > Quantity\n有意义的跨群体关系，比接触次数更重要\n2. Social Norms & Shared Identity\n改变社会规范和共同身份\n3. Perspective-Taking & Moral Imagination\n使用故事、媒体、VR和换位思考\n4. Timing Matters\n尽早干预，尤其在青少年阶段\n5. Structural Contexts Cannot Be Ignored\n必须处理不平等、贫困、隔离和制度问题\n微观层面的个人接触若脱离社会结构，效果可能非常有限。真正减少偏见还可能需要：\n·  government policy 政府政策；\n·  political action 政治行动；\n·  social movements 社会运动；\n·  reduced inequality 减少群体不平等；\n·  structural reform 结构改革。\nLecture最后引用的观点是：\n当偏见建立在真实的群体贫困和不平等上时，单纯改变个人态度，可能只会让公开偏见变成更隐蔽、现代或象征性的偏见。真正的挑战是减少贫困和打破长期剥夺循环。"
+    },
+    {
+      "id": 210,
+      "text": "本讲重要研究锚点\n研究／理论\n必须记住什么\nSherif’s Boys’ Camp Studies\n竞争制造冲突；普通接触没用；共同依赖目标有效\nRealistic Conflict Theory\n稀缺资源和互斥目标产生群际冲突\nDollard et al.\n挫折导致攻击，攻击可能转向替罪羊\nMiller & Bugelski\n实验性挫折后，对少数群体态度更负面\nBerkowitz\n主观剥夺、历史敌对群体、广泛厌恶事件\nAdorno\nAuthoritarian Personality\nAltemeyer\nRWA：服从、攻击、传统主义\nLippmann\n社会太复杂，人依靠概括和分类\nFiske & Taylor\nCognitive Miser\nTajfel & Wilkes\n分类夸大组间差异、缩小组内差异\nMinimal Group Studies\n随意分组也足以产生ingroup favouritism\nSocial Identity Theory\n群体成为自我一部分，人追求positive distinctiveness\nAllport\nContact Hypothesis及三个理想条件\nPettigrew & Tropp\n接触总体与较低偏见相关，但效应小且变化大\nBarlow et al.\nNegative contact的反效果可能更强\nCommon Ingroup Identity Model\n用共同上位身份把“他们”变成“我们”\nDual Identity Model\n共同身份＋保留子群体身份"
+    },
+    {
+      "id": 213,
+      "text": "最高频考试陷阱\n错误说法\n正确理解\nStereotyping、prejudice和discrimination完全相同\n它们重叠，但分别更偏向群体归因、态度和行为\nRobbers Cave中只要一起玩就能消除冲突\n普通接触失败，必须有共同依赖目标\nRCT认为偏见主要来自坏人格\n它认为偏见来自群体资源竞争和利益冲突\nFrustration一定导致aggression\n原始理论这样说，但后续证据否定了这种必然关系\nScapegoat是随机选择的\nBerkowitz认为通常是有历史冲突的外群体\nRWA一定是完全固定的人格\n分数会随威胁、权力和情境变化\nCognitive approach认为刻板印象只有坏人才有\n它认为刻板印象源自普遍的正常认知过程\nMinimal group需要真实竞争\n不需要；仅仅分类就可能产生ingroup favouritism\nDepersonalisation等于失去人格或人性\n它是从“I”转向“We”的自我分类变化\nContact一定减少偏见\n负面接触可能增加偏见\nMore contact与less prejudice证明因果\n可能只是偏见较少的人更愿意接触\nCIIM永远是最佳方案\n只强调上位身份可能造成assimilation\n多元文化主义要求群体放弃差异\nDual identity要求共同身份和子群体身份同时保留\n改变个人态度就能解决结构性偏见\n贫困、隔离、权力和制度不平等也必须改变"
+    },
+    {
+      "id": 219,
+      "text": "PPT Revision Questions答案骨架\nPPT最后两页的问题基本已经把考试重点明牌写出来了。\nWhy were Sherif’s boys’ camp studies important?\nOrdinary boys\n+\nCompetition and separate group identities\n→ prejudice and conflict\nShared interdependent goals\n→ reduced conflict\n说明偏见可以由群体关系和情境制造，而不只是人格问题。\nWhat is Realistic Conflict Theory?\n竞争稀缺资源或互斥目标会使群体利益发生冲突，从而产生威胁、偏见和攻击。\nOne limitation of Frustration–Aggression?\n挫折并不必然导致攻击，攻击也可以在没有明显挫折时发生；理论也难以预测替罪羊是谁。\nWhat defines an Authoritarian Personality?\n僵化传统主义、服从强势权威、对被社会或政治秩序指向的群体表现攻击，以及非黑即白思维。\nDoes RWA assess personality?\n它可能反映相对稳定倾向，但分数会随威胁、权力和社会情境改变，因此也可能测量可变的社会态度。\nHow does the Cognitive Approach explain prejudice?\n人类认知容量有限，面对复杂社会世界时会通过分类和刻板印象节省认知资源，但这些捷径会产生错误和不公平判断。\nTajfel & Wilkes line study?\n分类使人夸大类别之间的差异，并低估同一类别内部的差异，这解释了刻板印象的极端化和同质化。\nWhat is the Minimal Group Paradigm?\n即使群体完全随机、没有历史或竞争，仅仅把人分成“我们”和“他们”也能产生ingroup favouritism。\nMain explanation from each theory?\nSocio-cultural:\ncompetition and intergroup relations\nPsychodynamic:\nfrustration and displaced aggression\nPersonality:\nauthoritarian and rigid personality tendencies\nCognitive:\nlimited capacity and categorisation shortcuts\nSocial Identity:\ningroup identification and positive distinctiveness\nContact Hypothesis and optimal conditions?\n接触可以减少偏见，但最好在平等地位、制度支持和共同目标的条件下进行。\nHow can identity reduce prejudice?\n让原本的不同群体看到共同的上位身份，把“我们vs他们”改成共同的“我们”；同时用dual identity保留并尊重原有子群体身份。"
+    }
+  ],
+  "sourceText": "# Lecture 2\n\n\n\n\n## [B0001] Stereotyping, Prejudice & Discrimination\n\n## [B0002] 刻板印象、偏见与歧视\n\n[B0002 FIGURE] 文本框 1\n\n[B0002 TEXTBOX]\n两个总问题：\n1. Why does prejudice occur?\n偏见为什么会产生？\n2. Can prejudice be meaningfully reduced?\n偏见能否被有效减少？\n\n## [B0005] 全讲总记忆树\n\n## [B0006] Stereotyping, Prejudice & Discrimination 刻板印象、偏见与歧\n\n[B0006 FIGURE] 文本框 6\n\n[B0006 FIGURE] 文本框 5\n\n[B0006 FIGURE] 文本框 4\n\n[B0006 FIGURE] 文本框 3\n\n[B0006 TEXTBOX]\n整讲可以浓缩成一条因果主线：\n人会自动分类世界\n↓\n形成“我们”和“他们”\n↓\n竞争、威胁、挫折、群体规范或人格倾向\n让这种界线变得更强\n↓\nStereotype 刻板印象\n↓\nPrejudice 偏见\n↓\nDiscrimination 歧视\n但教授的核心立场是：\n没有任何一个理论可以单独解释所有偏见。\n不同理论解释的是这条链条中的不同部分。\n\n[B0006 TEXTBOX]\n└── 3. How Can Prejudice Be Reduced?\n如何减少偏见？\n│\n├── A. Contact Hypothesis 接触假说\n│   ├── Equal Status 平等地位\n│   ├── Institutional Support 制度支持\n│   ├── Common Goals 共同目标\n│   ├── Contact Caveat 接触警告\n│   ├── Vicarious Contact 替代性接触\n│   └── Parasocial Contact 媒体拟社会接触\n│\n├── B. Identity-Based Strategies 认同策略\n│   ├── Common Ingroup Identity Model\n│   ├── Assimilation 同化\n│   ├── Dual Identity Model\n│   └── Multiculturalism 多元文化主义\n│\n└── C. Structural Change 结构性改变\n├── Social Norms 社会规范\n├── Policy 政策\n├── Reduce Inequality 减少不平等\n└── Social and Political Action 社会政治行动\n\n[B0006 TEXTBOX]\n├── 2. Why Does Prejudice Occur?\n│   偏见为什么产生？\n│   │\n│   ├── A. Socio-Cultural Approach 社会文化解释\n│   │   ├── Sherif’s Boys’ Camp Studies\n│   │   ├── Realistic Conflict Theory\n│   │   ├── Scarce Resources 稀缺资源\n│   │   ├── Mutually Exclusive Goals 互斥目标\n│   │   └── Superordinate Goals 超级目标\n│   │\n│   ├── B. Psychodynamic Approach 心理动力学解释\n│   │   ├── Frustration–Aggression Hypothesis\n│   │   ├── Displaced Aggression 转移性攻击\n│   │   ├── Scapegoating 替罪羊\n│   │   └── Berkowitz’s Reformulation\n│   │\n│   ├── C. Personality Approach 人格解释\n│   │   ├── Authoritarian Personality\n│   │   ├── Prejudiced vs Tolerant Personality\n│   │   └── Right-Wing Authoritarianism, RWA\n│   │\n│   ├── D. Cognitive Approach 认知解释\n│   │   ├── Limited Cognitive Capacity\n│   │   ├── Categorisation 分类\n│   │   ├── Cognitive Miser 认知吝啬者\n│   │   └── Stereotypes as Shortcuts\n│   │\n│   └── E. Social Identity Approach 社会认同解释\n│       ├── Tajfel & Wilkes Line Study\n│       ├── Accentuation Effect 强化效应\n│       ├── Minimal Group Paradigm\n│       ├── Ingroup Favouritism\n│       ├── Positive Distinctiveness\n│       └── Depersonalisation 去个人化\n\n[B0006 TEXTBOX]\n├── 1. Three Core Concepts 三个核心概念\n│   ├── Stereotyping 刻板印象\n│   ├── Prejudice 偏见\n│   └── Discrimination 歧视\n\n## [B0007] Three Core Concepts三个核心概念\n\n[B0007 FIGURE] 文本框 7\n\n[B0007 TEXTBOX]\nStereotyping 刻板印象\n把某些一般特征或性格归到整个社会群体成员身上。\n通常具有：\n·  oversimplified 过度简化；\n·  exaggerated 夸张；\n·  group-based 基于群体；\n·  不一定针对每个成员有真实证据。\n例如：\n“所有某类游戏玩家都很暴躁”\n“所有某专业的学生都不擅长社交”\n\n[B0009 FIGURE] 文本框 8\n\n[B0009 FIGURE] 文本框 9\n\n[B0009 FIGURE] 文本框 10\n\n[B0009 TEXTBOX]\nPrejudice 偏见\n仅仅因为某人属于某个社会类别，就对其持有负面态度、信念或评价。\n重点是 attitude / belief，也就是“怎么看、怎么想”。\n\n[B0009 TEXTBOX]\nDiscrimination 歧视\n仅仅因为某人的群体身份，就给予其不同或不公平的待遇。\n重点是实际的 behaviour / treatment。\n\n[B0009 TEXTBOX]\n三者的关系\nStereotyping\n我认为某群体“都是什么样”\nPrejudice\n我因此对该群体产生负面态度\nDiscrimination\n我因此对该群体采取不公平行动\n但PPT第4页的Venn diagram特别强调：\n它们有重叠，但绝不等价。\n·  不是所有刻板印象都源自偏见；\n·  不是所有刻板印象都会导致歧视；\n·  一个人可能有偏见，但没有实施歧视；\n·  歧视有时不是主动伤害，而是对自己群体给予额外优待。\n教授明确说，考试不会过度纠结三者非常细微的定义差别。本讲重点是：\n它们为什么产生，又如何被减少。\n\n## [B0011] Approach 1：Socio-Cultural Approach\n\n## [B0012] 社会文化解释\n\n[B0012 FIGURE] 文本框 11\n\n[B0012 TEXTBOX]\n核心观点\n偏见并不一定来自“坏人的坏人格”，而可能来自群体之间的关系。\nCo-operative Relationship 合作关系\n→ More positive attitudes\nCompetitive Relationship 竞争关系\n→ Threat, stereotypes and prejudice\n群体关系发生改变，刻板印象和偏见也会跟着改变。\n\n## [B0021] Sherif’s Boys’ Camp Studies\n\n## [B0022] Sherif男孩夏令营研究／Robbers Cave研究\n\n[B0022 FIGURE] 文本框 12\n\n[B0022 TEXTBOX]\n研究目的\n当时的主流解释认为：\n某些人有偏见\n→ 是因为他们的生物、人格或心理有问题\nSherif和Woods想测试：\n能否只改变群体情境\n→ 就让原本普通的孩子产生冲突和偏见？\n参与者主要是：\n·  约12岁；\n·  白人；\n·  中产阶级男孩。\n这是一个明显的样本局限，不能轻易代表全部人类。\n\n[B0026 FIGURE] 文本框 14\n\n[B0026 FIGURE] 文本框 13\n\n[B0026 TEXTBOX]\nPhase 1：Group Cohesion建立群体关系\n男孩们先进行一般夏令营活动：\n·  玩游戏；\n·  唱歌；\n·  进行体育活动；\n·  发展友谊。\n这个阶段整体相对和谐。\nPhase 2：Competitive Groups划分并竞争\n男孩们被拆分成两个群体，有时甚至故意跨越之前已经形成的友谊关系。\n每组开始建立：\n·  group name 群体名称；\n·  flag 旗帜；\n·  group identity 群体认同；\n·  group norms 群体规范。\n之后两组为奖品比赛，例如：\n·  体育活动；\n·  拔河；\n·  有价值的奖品。\n结果很快出现：\nCompetition\n竞争\n↓\nStronger ingroup identity\n内部认同增强\n↓\nUs vs Them\n我们 vs 他们\n↓\nName-calling / theft / violence\n辱骂、偷窃、暴力\n有些研究甚至因为冲突过于严重而被提前终止。\nPhase 3：Ordinary Contact普通接触\n研究者让两组：\n\n[B0026 TEXTBOX]\n四个阶段\nPhase 1：Group Cohesion\n建立群体凝聚力\nPhase 2：Competition\n划分两组并进行竞争\nPhase 3：Non-Competitive Contact\n让两个敌对群体普通接触\nPhase 4：Shared Interdependent Goals\n设置必须合作完成的共同目标\nPPT将基本流程整理为：先建立群体关系，再引入竞争，之后尝试普通接触，最后使用共同依赖的目标。\n\n[B0027 FIGURE] 文本框 15\n\n[B0027 TEXTBOX]\n·  一起吃饭；\n·  看电影；\n·  参加娱乐活动；\n·  进行非竞争性接触。\n结果：\n普通的、愉快的接触并没有自动消除敌意。\n有时两组反而在共同活动中继续争吵、打架。\n这说明：\n“让敌对群体待在同一个房间”\n≠\n自动减少偏见\nPhase 4：Superordinate Goals超级目标／高阶共同目标\n真正有效的是：\n两组都无法独立完成，必须共同合作的目标。\n例如：\n·  一起推坏掉的食物运输车；\n·  一起修复供水系统；\n·  共同凑钱购买电影。\n只有这类 shared interdependent goals 明显减少了敌意。\n教授还提到，夏令营结束时，男孩们提名的亲密朋友约90%来自后来形成的竞争群体，说明竞争期间建立的群体关系非常持久。\n\n## [B0028] Realistic Conflict Theory, RCT\n\n## [B0029] 现实冲突理论／现实性群体冲突理论\n\n[B0029 FIGURE] 文本框 16\n\n[B0029 TEXTBOX]\n核心公式\nScarce Resources 稀缺资源\n+\nMutually Exclusive Goals 互斥目标\n↓\nIntergroup Competition 群体竞争\n↓\nThreat 威胁\n↓\nPrejudice and Conflict 偏见与冲突\n当一个群体成功意味着另一个群体失败时：\n两个群体的利益发生直接冲突，群体关系就会恶化。\n这就是 mutually exclusive goals：\n只有一个队伍能拿到冠军\n只有一个群体能获得有限资源\n只有一方能得到工作、土地或权力\nPPT将RCT概括为：群体因稀缺资源和互斥目标展开竞争，进而产生偏见和群体攻击。\nEthnocentrism 民族／群体中心主义\n相信自己的ingroup优于其他outgroups，并把外群体看成低等或较差。\nMy group = normal / good / superior\n我的群体 = 正常、优秀\nOther group = strange / bad / inferior\n其他群体 = 奇怪、较差\n这种判断既可以强化内部团结，也可以为群体之间的不平等待遇提供理由。\n如何解决？\nUs vs Them\n我们 vs 他们\n↓\nShared Superordinate Goal\n必须一起完成的高阶目标\n↓\nWe\n共同的“我们”\n可以把它想成两个原本互相敌视的游戏公会，突然遇到一个任何单独公会都打不过的世界Boss。只有一起打才能获得奖励，旧的公会边界暂时被新的“全服务器玩家”身份覆盖。\n\n[B0032 FIGURE] 文本框 17\n\n[B0032 TEXTBOX]\nRCT的优点\n·  证明普通人也会在特定情境中形成偏见；\n·  显示偏见可以随群体关系而改变；\n·  解释了竞争、威胁和资源如何塑造敌意；\n·  提供共同目标这一现实干预思路。\nRCT的局限\n·  More descriptive than explanatory它很好地描述了“竞争后发生了什么”，但没有完全说明人的头脑内部发生了什么心理机制。\n·  现实中难以制造真正共同目标夏令营里可以安排一辆坏掉的卡车，但现实中的宗教、种族、阶级冲突远复杂得多。\n·  可能存在权威诱导的confound教授在课堂讨论中指出，如果辅导员或实验者刻意鼓励竞争，结果可能不完全来自“自然形成的群体关系”。\n·  结构不平等不会因为短期合作自动消失如果参与者回到一个仍然存在隔离和不平等的社会，短期合作效果可能无法维持。\n\n## [B0033] Approach 2：Psychodynamic Approach\n\n## [B0034] 心理动力学解释\n\n[B0034 FIGURE] 文本框 18\n\n[B0034 TEXTBOX]\n核心思想：\n偏见可能是没有被正确处理的挫折和攻击，被转移到了较弱的群体身上。\n\n## [B0037] Frustration–Aggression Hypothesis\n\n## [B0038] 挫折—攻击假说\n\n[B0038 FIGURE] 文本框 19\n\n[B0038 TEXTBOX]\nDollard及其同事最初提出：\n攻击总是意味着之前存在挫折，而挫折总会导致某种形式的攻击。\n原始模型是：\nGoal Interference\n目标被阻挡\n↓\nFrustration\n挫折\n↓\nCannot attack real source\n无法攻击真正来源\n↓\nDisplaced Aggression\n攻击被转移\n↓\nScapegoat\n替罪羊\nScapegoating 替罪羊机制\n真正造成挫折的对象可能是：\n·  政府；\n·  经济制度；\n·  老板；\n·  权力更强的群体；\n·  难以改变的社会结构。\n直接攻击这些对象风险较高，于是攻击被转向一个更弱、更安全的对象。\n教授将其概括为：\n为什么人会“向下攻击”或punch down。\n\n[B0041 FIGURE] 文本框 20\n\n[B0041 TEXTBOX]\nMiller & Bugelski, 1948\n参与者被随机分为：\n·  rustration condition 挫折组；\n·  Control condition 控制组。\n在挫折组中，原本承诺的活动突然被取消，参与者反而要完成困难任务。\n研究者在操纵前后测量他们对少数群体的态度。\n结果：\nFrustration group\n→ More negative attitudes after manipulation\nControl group\n→ No comparable change\n这支持了攻击被转移到少数群体的想法。\n但后续结果并不稳定\n一些研究发现挫折增加了对少数群体的负面态度，另一些研究却没有发现替罪羊效应。\n两个致命问题\n·  无法准确预测谁会成为替罪羊。\n·  挫折既不是攻击的必要条件，也不是充分条件。\n现实中存在：\nFrustration without aggression\n有挫折但没有攻击\nAggression without frustration\n没有明显挫折却发生攻击\n\n## [B0042] Berkowitz’s Reformulation\n\n## [B0043] Berkowitz的重新解释\n\n[B0045] Berkowitz没有完全抛弃原理论，而是做了三项关键修改。\n\n[B0046 FIGURE] 文本框 21\n\n[B0046 TEXTBOX]\nSubjective Frustration主观挫折\n重点不是一个人是否客观上真的被剥夺，而是：\n他是否认为自己被剥夺、被占便宜或受到不公平对待。\nActual deprivation\n真实损失\n≠\nPerceived deprivation\n主观上觉得自己吃亏\n政治人物可能通过强调“你的资源正在被别人抢走”，制造主观威胁，即使实际情况并没有那么简单。\nScapegoats Are Not Random替罪羊并非随机选择\n最可能成为替罪羊的群体通常：\n·  曾经和ingroup发生过冲突；\n·  被认为不喜欢或威胁ingroup；\n·  与ingroup存在长期宗教、文化或资源竞争。\n因此，历史关系和已有社会叙事会决定攻击被导向谁。\nAversive Events 厌恶性事件\n攻击的起因不一定只是“目标受阻”，也可能是任何令人不舒服的事件：\n·  pain 疼痛；\n·  extreme heat or cold 极端温度；\n·  loud noise 噪音；\n·  overcrowding 过度拥挤；\n·  economic insecurity 经济不安全感。\nBerkowitz版本仍然存在的局限\n·  仍容易把攻击看成非理性、自动反应；\n·  个体挫折难以完整解释大型社会运动；\n·  没有充分考虑社会规范如何允许或禁止攻击；\n·  不能解释群体为什么有时选择合作而非攻击。\n\n## [B0048] Approach 3：Personality Approach\n\n## [B0049] 人格解释\n\n[B0049 FIGURE] 文本框 22\n\n[B0049 TEXTBOX]\n核心观点\n有些人格特征可能使人更容易对多个不同外群体产生偏见。\n研究发现：\nReject one outgroup\n排斥一个外群体\n↓\nMore likely to reject other outgroups\n也更可能排斥其他外群体\n于是研究者提出：\nPrejudiced Personality 偏见人格\nvs\nTolerant Personality 宽容人格\n\n## [B0070] Authoritarian Personality\n\n## [B0071] 权威主义人格\n\n[B0071 FIGURE] 文本框 23\n\n[B0071 TEXTBOX]\nAdorno认为，严厉、惩罚性的早期家庭经历可能形成：\n·  insecurity 不安全感；\n·  fearfulness 恐惧；\n·  inability to tolerate uncertainty 无法忍受不确定；\n·  inability to manage inner conflict 难以处理内在冲突；\n·  black-and-white thinking 非黑即白思维。\n相反，较宽容和接纳性的成长环境被认为可能形成：\n·  security 安全感；\n·  maturity 成熟；\n·  confidence 自信；\n·  better tolerance of ambiguity 更能容忍模糊与变化。\n这是理论当时的观点，不代表Lecture认为所有严厉家庭都会必然制造偏见者。\n\n[B0072 FIGURE] 文本框 24\n\n[B0072 TEXTBOX]\n原始Authoritarian Personality的特征\nRigid conventional values\n僵硬遵守传统价值\nSubmission to strong authority\n服从强势权威\nAnti-intraception\n反感敏感、温和或内省式思维\nGeneralised hostility\n广泛敌意\nMystical / superstitious thinking\n神秘、迷信式思维\nBlack-and-white stereotyped thinking\n非黑即白和刻板化思维\n\n## [B0074] Right-Wing Authoritarianism, RWA\n\n## [B0075] 右翼权威主义\n\n[B0076 FIGURE] 文本框 26\n\n[B0076 TEXTBOX]\nAltemeyer在1981年把权威主义重新整理为三个核心维度：\n维度\n含义\nAuthoritarian Submission 权威服从\n高度服从被认为合法的权威\nAuthoritarian Aggression 权威攻击\n对权威或社会秩序指定的目标群体表现攻击性\nConventionalism 传统主义\n高度遵从权威认可的社会传统和规范\n高RWA通常和以下内容相关：\n·  prejudicial attitudes 偏见态度；\n·  traditional values 传统价值；\n·  nationalism 民族主义；\n·  respect for authority 崇尚权威；\n·  harsh treatment of marginalised groups 对边缘群体采取严厉态度。\n教授也提到 Left-Wing Authoritarianism，用于描述另一政治方向中可能出现的教条主义和对不同观点的不容忍，但它与相同暴力后果的关系没有RWA那么稳定。\n关键批判：RWA真的是固定人格吗？\nPPT直接提出：\nFixed Personality Trait\n固定人格特质\nor\nChangeable Social Attitude\n可改变的社会态度？\n因为RWA分数会随情境变化，例如：\n·  感受到外群体威胁时上升；\n·  获得权力时可能上升；\n·  不同社会环境下回答不同。\n因此，它可能同时包含：\nRelatively stable tendency\n相对稳定的倾向\n+\nContext-sensitive attitude\n受情境影响的社会态度\n人格解释的局限\n·  无法很好解释某个历史时期整个社会同时形成偏见；\n·  所谓“宽容者”也可能出现非黑即白和不宽容思维；\n·  Sherif研究说明普通人在特定环境中也会迅速产生偏见；\n·  它容易让人以为只有“心理有问题的人”才会有偏见。\n教授最后更倾向于：\nTraits × Situations人格倾向和社会情境共同作用。\n\n## [B0078] Approach 4：Cognitive Approach\n\n## [B0079] 认知解释\n\n[B0079 FIGURE] 文本框 27\n\n[B0079 TEXTBOX]\nCognitive Miser 认知吝啬者\n核心前提：\nSocial world is extremely complex\n社会世界非常复杂\nHuman processing capacity is limited\n人类加工能力有限\n↓\nInformation overload\n信息过载\n↓\nUse categories and shortcuts\n使用分类和心理捷径\nPPT用 cognitive miser 表示：人会尽可能节省认知资源，而不是每次都重新详细分析每一个人。\nLippmann’s View\n因为社会世界过于复杂，人必须：\n·  summarise 总结；\n·  select 选择；\n·  generalise 概括。\n于是我们更容易对一个群体形成总体印象，而不是逐个认识所有成员。\nFiske & Taylor：Cognitive Miser Model该模型把人看成有限且会出错的信息加工系统：\nQuick and easy judgement\n快速、轻松的判断\n→ Less effort\n→ More likely to be wrong\nSlow and detailed judgement\n缓慢、详细的判断\n→ More effort\n→ More likely to be accurate\n当人：\n·  疲劳；\n·  时间紧；\n·  信息很多；\n·  面对陌生社会情境；\n就更可能依赖刻板印象。\n\n[B0082 FIGURE] 文本框 28\n\n[B0082 TEXTBOX]\n这个解释的重要意义\n它把刻板印象理解为：\n正常但可能有问题的认知过程，而不是只有“异常人格者”才会做的事。\n刻板印象可能帮助我们快速预测环境，但也容易造成错误和不公平判断。\nCognitive Approach的局限\n·  忽视群体身份和群体关系；\n·  过度强调“节省脑力”；\n·  低估偏见的政治和社会功能；\n·  无法充分解释为什么某些具体群体在某个历史时期成为目标；\n·  偏见有时是为了维护地位、意识形态和集体行动，不只是认知失误。\n\n## [B0083] Approach 5：Social Identity & Group Approaches社会认同与群体解释\n\n[B0083 FIGURE] 文本框 29\n\n[B0083 TEXTBOX]\nTajfel把刻板印象定义为：\n把一般心理特征归给大型人类群体。\n它仍然是正常的分类过程，但这种分类会改变我们实际如何看待群体。\n\n## [B0087] Tajfel & Wilkes Line Study\n\n## [B0088] Tajfel与Wilkes线段研究\n\n[B0088 FIGURE] 文本框 30\n\n[B0088 TEXTBOX]\n实验设计\n参与者看到8条长度逐渐增加的线段。\nClassified Condition 分类条件\n·  较短的4条标为A；\n·  较长的4条标为B。\nUnclassified Condition 无分类条件\n不加任何标签。\nRandom Condition 随机条件\nA和B标签与长度没有稳定关系。\n结果：Accentuation Effect\n分类强化效应\n当标签与长度类别对应时，参与者会：\nExaggerate differences between categories\n夸大A组和B组之间的差异\nMinimise differences within categories\n低估A组内部或B组内部的差异\n放入社会世界就是：\n“男人和女人差别非常大”\n“每个男人之间都差不多”\n“每个女人之间都差不多”\n这可以解释刻板印象的两个特征：\n·  Extremity 极端化：群体差异被夸大；\n·  Homogeneity 同质化：认为外群体成员都差不多。\n\n## [B0091] Minimal Group Paradigm最小群体范式\n\n[B0091 FIGURE] 文本框 2\n\n[B0091 TEXTBOX]\n实验设计\n参与者观看Kandinsky和Klee的画作，之后被告知自己属于：\n·  Kandinsky group；\n·  Klee group。\n实际上分组非常随意，群体之间：\n·  没有历史；\n·  没有真实竞争；\n·  没有稀缺资源；\n·  成员彼此不认识；\n·  分组也不重要。\n之后参与者向匿名的ingroup和outgroup成员分配少量真实金钱。\n可选择的分配策略\n策略\n含义\nFairness\n两组得到相同金额\nMaximum Joint Profit\n两组总收益最大\nMaximum Ingroup Profit\n自己群体获得最多\nMaximum Difference\n自己群体不一定拿最多，但与外群体差距最大\nFavouritism\n综合偏向自己群体\n最重要结果\n参与者经常：\n·  给ingroup更多；\n·  更偏向自己刚刚才被分配进去的群体；\n·  甚至愿意牺牲ingroup的绝对收益，只为了让ingroup比outgroup赢得更多。\n例如：\nOption A：\nIngroup 23，Outgroup 29\n总收益很高，但自己群体少\nOption B：\nIngroup 11，Outgroup 5\n自己群体拿得更少，但“赢”了对方\n很多人会偏向Option B。\n为什么重要？\n仅仅把人分成两个毫无意义的群体，就足以产生ingroup favouritism。\n因此，偏见并不一定需要：\n·  真实竞争；\n·  稀缺资源；\n·  长期敌意；\n·  特殊人格。\n“你是红队，我是蓝队”本身就可能启动我们与他们的思维。\n\n## [B0094] Social Identity Theory社会认同理论\n\n[B0094 FIGURE] 文本框 25\n\n[B0094 TEXTBOX]\nSocial Identity 社会认同\n自我概念中与群体成员身份有关，并带有价值和情感意义的部分。\nPersonal Identity\n我是“我”\nSocial Identity\n我是“我们中的一员”\n人不仅希望自己是好的，也希望自己的群体是好的。\nPositive Distinctiveness积极区分性\nCompare ingroup with outgroup\n把内群体与外群体比较\n↓\nSeek favourable difference\n希望自己的群体显得更好\n↓\nIngroup favouritism\n内群体偏爱\nDepersonalisation 去个人化\n这里不是“失去人格”或“失去人性”，而是：\n自我定义从个人身份转向群体身份。\n“I / Me”\n我是一个独立的人\n↓\n“We / Us”\n我是这个群体的一员\n当某个群体身份变得salient时，人会更容易内化：\n·  group norms 群体规范；\n·  group values 群体价值；\n·  group beliefs 群体信念。\n身份的不同层级\nIndividual Level 个体\n“I am Panda”\nSubgroup Level 子群体\n“I am a psychology student”\nSuperordinate Level 上位群体\n“I am an ANU student”\n“I am Australian”\n“I am human”\n\n[B0097 FIGURE] 文本框 31\n\n[B0097 TEXTBOX]\n哪一个身份最重要，会根据情境变化。\nSocial Identity Theory的局限\n·  早期证据大量来自人工实验室；\n·  可能过度决定论，低估个人agency；\n·  不能假设一旦群体身份启动，人就必然成为“group zombie”；\n·  单独使用时不一定解释资源竞争，但可以与Sherif结合：\nIdentity\n群体认同\n×\nConflict\n群体冲突\n=\nStrong intergroup hostility\n更强群体敌意\n\n## [B0098] 五种偏见解释总对照\n\n[B0098 FIGURE] 文本框 32\n\n[B0098 TEXTBOX]\nApproach\n偏见主要来自\n核心关键词\n主要局限\nSocio-Cultural\n群体关系、竞争和稀缺资源\ncompetition, scarce resources, shared goals\n内部心理机制不够清楚\nPsychodynamic\n挫折被转移到替罪羊\nfrustration, displaced aggression, scapegoat\n挫折不一定导致攻击\nPersonality\n权威主义、僵化和无法容忍模糊\nauthoritarianism, conventionalism\n无法解释大规模历史变化\nCognitive\n认知容量有限，依赖分类捷径\ncognitive miser, shortcut, categorisation\n忽略政治和群体关系\nSocial Identity\n“我们—他们”分类及积极区分\ningroup, outgroup, positive distinctiveness\n早期证据较人工，可能过度决定论\n最稳的考试理解不是选一个理论宣布“它解释一切”，而是：\nCognitive tendency to categorise\n认知上自动分类\n+\nContext and competition\n情境与竞争\n+\nPersonality susceptibility\n人格上的易感性\n+\nSocial identity and norms\n社会认同与规范\n+\nStructural inequality\n结构不平等\n=\nPrejudice\n偏见\n这是整合记忆法，不是教授提出的单一正式模型。\n\n## [B0101] Can We Reduce Prejudice?\n\n## [B0102] 能否减少偏见？\n\n[B0102 FIGURE] 文本框 33\n\n[B0102 TEXTBOX]\n本讲讨论两条主要路线：\n1. Change contact between groups\n改变群体接触\n2. Change how people categorise themselves\n改变人如何定义群体身份\n最后再加上：\n3. Change social structures\n改变社会结构\n\n## [B0142] Contact Hypothesis接触假说\n\n[B0142 FIGURE] 文本框 34\n\n[B0142 TEXTBOX]\nAllport的基本观点：\n偏见之所以持续，是因为人们与“他者”保持距离，彼此不熟悉。增加有意义的群体接触，可能减少偏见。\n接触成功的三个条件\n1. Equal Status 平等地位\n两个群体在互动中不能明显处于支配者和被支配者的位置。\nInstitutional Support 制度支持\n接触需要得到：\n·  法律；\n·  学校；\n·  公司；\n·  社会规范；\n·  领导者；\n的明确支持。\nCommon Goals / Common Interests共同目标／共同利益\n双方需要真正合作，而不是只被放在同一地点。\n为什么接触可能有效？\nPositive Intergroup Contact\n积极群体接触\n↓\nLower Anxiety\n降低群际焦虑\n↓\nHigher Empathy\n增加群际同理心\n↓\nHigher Trust\n增加群际信任\n↓\nLower Prejudice\n降低偏见\n亲密的跨群体友谊通常比短暂接触更有效，而且接触效应在种族、年龄、性取向和残障偏见等领域都曾被发现\n\n## [B0144] Pettigrew & Tropp Meta-Analysis\n\n## [B0145] Pettigrew与Tropp元分析\n\n[B0145 FIGURE] 文本框 35\n\n[B0145 TEXTBOX]\n研究整合了：\n·  515项研究；\n·  713个独立样本；\n·  250,089名参与者；\n·  38个国家；\n·  多个不同学科\n总体平均相关：\nr ≈ -0.21\n意思是：\n接触更多通常和偏见较低有关，但效应较小，而且不同研究差异很大。\n图中有些研究甚至落在正方向，意味着：\nMore contact\n更多接触\n→ More prejudice\n反而更多偏见\n所以结论不是:\n“只要见面，偏见必然消失。”\n而是：\n接触通常可能有帮助，但取决于接触的性质和情境。\n\n## [B0148] Contact Caveat\n\n## [B0149] 接触警告／接触的反效果\n\n[B0149 FIGURE] 文本框 36\n\n[B0149 TEXTBOX]\nBarlow等人发现：\n负面接触增加偏见的关系，往往比正面接触减少偏见的关系更强。\nOne powerful negative encounter\n一次强烈负面接触\n可能抵消\nSeveral mild positive encounters\n多次普通正面接触\nThe Burden of Contact接触对少数群体的负担\n对少数群体成员而言，接触可能要求他们：\n·  不断监控自己的言行；\n·  充当“模范少数群体成员”；\n·  代表整个群体；\n·  忍受善意但冒犯的问题；\n·  压抑真实情绪来保持正面互动。\n这种 emotional labour 情绪劳动可能导致：\nEmotional labour\n↓\nBurnout\n↓\nLower wellbeing\n所以不能把减少偏见的责任全部扔给被偏见针对的群体。\n\n## [B0152] Between-Person vs Within-Person Effects\n\n## [B0153] 人际差异 vs 个体内改变\n\n[B0153 FIGURE] 文本框 37\n\n[B0153 TEXTBOX]\n近期Lecture提到的研究指出：\nPeople with more contact\n接触更多的人\ntend to show less prejudice\n通常偏见较少\n这是 between-person association。\n但它不一定证明：\nIncreasing contact for one person\n增加某个人的接触\nwill reduce that person’s prejudice over time\n就会使这个人的偏见下降\n这是 within-person change。\n可能本来偏见较少的人就更愿意接触其他群体，而不是接触本身造成了改变。\n其他局限包括：\n·  可能只对一部分人有效；\n·  在已经高度多元化的社会中，效果可能plateau；\n·  短暂暴露不等于有意义的互动；\n·  需要更关注不同个体如何体验接触。\nLecture内部需要保留的细微差别\nPPT前半部分提到，部分研究发现甚至较浅层的接触也可能有一定效果；但后半部分的最新研究和教授总结进一步强调：\nQuality > Quantity。\n因此考试时最稳的理解是：\nSuperficial contact\n可能产生小幅影响\nMeaningful contact\n更可能带来真正、持久的改变\nNegative contact\n甚至可能让偏见恶化\n\n## [B0156] Indirect Contact间接接触\n\n[B0156 FIGURE] 文本框 38\n\n[B0156 TEXTBOX]\nVicarious Contact 替代性接触\n看到自己群体中的人，与外群体成员进行积极互动。\nMy ingroup member\n我的群体成员\n+\nPositive interaction with outgroup\n和外群体积极相处\n↓\nI learn this relationship is acceptable\n我也认为这种关系可以接受\n它主要依靠 observational learning 观察学习。\nExtended Contact 延伸接触\n知道自己的朋友或ingroup成员，与outgroup成员有亲密关系。\n即使自己没有直接参与，也可能改变群体规范。\nParasocial Contact 拟社会接触\n通过电影、电视剧、书籍、游戏或其他媒体“接触”外群体成员。\n例如，一个作品中的少数群体角色如果：\n·  有完整人格；\n·  有真实故事；\n·  不只是刻板化配角；\n观众可能通过故事增加理解和同理心。\n这类方法的优势是：\n·  不把情绪劳动强加给现实中的少数群体；\n·  可让人接触平时不会遇到的身份和经历；\n·  可以降低焦虑并重新定义群体规范。\n\n## [B0159] Identity-Based Prejudice Reduction\n\n## [B0160] 基于身份的偏见减少\n\n[B0160 FIGURE] 文本框 39\n\n[B0160 TEXTBOX]\n核心公式：\nChange Categorisation\n改变分类方式\n↓\nChange Group Relations\n改变群体关系\nME vs YOU\n我 vs 你\n↓\nUS\n我们\nUS vs THEM\n我们 vs 他们\n↓\nWE\n共同的我们\n\n## [B0163] Common Ingroup Identity Model, CIIM\n\n## [B0164] 共同内群体认同模型\n\n[B0164 FIGURE] 文本框 40\n\n[B0164 TEXTBOX]\n核心思想：\n让原来的ingroup和outgroup，都被看成同一个更高层级群体的成员。\n例如：\nPsychology students\nvs\nBiology students\n↓\nANU students\n或者：\nLeft-wing voters\nvs\nRight-wing voters\n↓\nAustralians\n这样，原来只给予ingroup的正面态度，可能扩展到原outgroup。\n\n[B0184 FIGURE] 文本框 41\n\n[B0184 TEXTBOX]\nCIIM的风险：Assimilation 同化\n如果只强调共同的上位身份，就可能变成：\n“要成为我们的一员，就必须放弃你原来的文化和身份。”\nFocus only on superordinate identity\n只强调上位身份\n↓\nSubgroup identity “melts away”\n子群体身份被消除\n↓\nDominant group becomes the default\n主流群体文化成为唯一标准\n这就是assimilation的风险：\nHomogenisation\n所有人变得一样\n被错误地当成\nHarmony\n和谐\n\n## [B0204] Dual Identity Model双重认同模型\n\n[B0204 FIGURE] 文本框 42\n\n[B0204 TEXTBOX]\n双重认同模型主张同时保留：\nSuperordinate Identity\n共同上位身份\n+\nSubgroup Identity\n原有子群体身份\n例如：\n我们都是Australian，但存在许多不同的方式成为Australian。\n它允许：\n·  共同归属；\n·  文化差异；\n·  子群体的positive distinctiveness；\n·  彼此平等而非被同化。\n这在政治和社会实践中大致对应：\nMulticulturalism 多元文化主义。\nPPT将其概括为：新的上位群体同时承认并容纳子群体的相似性和差异\n\n## [B0207] 最终结论：Prejudice Reduction Is Social Change减少偏见也是社会改变\n\n[B0207 FIGURE] 文本框 43\n\n[B0207 TEXTBOX]\n教授最后并没有停在“多认识几个不同群体的人”上，而是提出五个更完整的方向：\n1. Quality > Quantity\n有意义的跨群体关系，比接触次数更重要\n2. Social Norms & Shared Identity\n改变社会规范和共同身份\n3. Perspective-Taking & Moral Imagination\n使用故事、媒体、VR和换位思考\n4. Timing Matters\n尽早干预，尤其在青少年阶段\n5. Structural Contexts Cannot Be Ignored\n必须处理不平等、贫困、隔离和制度问题\n微观层面的个人接触若脱离社会结构，效果可能非常有限。真正减少偏见还可能需要：\n·  government policy 政府政策；\n·  political action 政治行动；\n·  social movements 社会运动；\n·  reduced inequality 减少群体不平等；\n·  structural reform 结构改革。\nLecture最后引用的观点是：\n当偏见建立在真实的群体贫困和不平等上时，单纯改变个人态度，可能只会让公开偏见变成更隐蔽、现代或象征性的偏见。真正的挑战是减少贫困和打破长期剥夺循环。\n\n## [B0210] 本讲重要研究锚点\n\n[B0210 FIGURE] 文本框 44\n\n[B0210 TEXTBOX]\n研究／理论\n必须记住什么\nSherif’s Boys’ Camp Studies\n竞争制造冲突；普通接触没用；共同依赖目标有效\nRealistic Conflict Theory\n稀缺资源和互斥目标产生群际冲突\nDollard et al.\n挫折导致攻击，攻击可能转向替罪羊\nMiller & Bugelski\n实验性挫折后，对少数群体态度更负面\nBerkowitz\n主观剥夺、历史敌对群体、广泛厌恶事件\nAdorno\nAuthoritarian Personality\nAltemeyer\nRWA：服从、攻击、传统主义\nLippmann\n社会太复杂，人依靠概括和分类\nFiske & Taylor\nCognitive Miser\nTajfel & Wilkes\n分类夸大组间差异、缩小组内差异\nMinimal Group Studies\n随意分组也足以产生ingroup favouritism\nSocial Identity Theory\n群体成为自我一部分，人追求positive distinctiveness\nAllport\nContact Hypothesis及三个理想条件\nPettigrew & Tropp\n接触总体与较低偏见相关，但效应小且变化大\nBarlow et al.\nNegative contact的反效果可能更强\nCommon Ingroup Identity Model\n用共同上位身份把“他们”变成“我们”\nDual Identity Model\n共同身份＋保留子群体身份\n\n## [B0213] 最高频考试陷阱\n\n[B0213 FIGURE] 文本框 45\n\n[B0213 TEXTBOX]\n错误说法\n正确理解\nStereotyping、prejudice和discrimination完全相同\n它们重叠，但分别更偏向群体归因、态度和行为\nRobbers Cave中只要一起玩就能消除冲突\n普通接触失败，必须有共同依赖目标\nRCT认为偏见主要来自坏人格\n它认为偏见来自群体资源竞争和利益冲突\nFrustration一定导致aggression\n原始理论这样说，但后续证据否定了这种必然关系\nScapegoat是随机选择的\nBerkowitz认为通常是有历史冲突的外群体\nRWA一定是完全固定的人格\n分数会随威胁、权力和情境变化\nCognitive approach认为刻板印象只有坏人才有\n它认为刻板印象源自普遍的正常认知过程\nMinimal group需要真实竞争\n不需要；仅仅分类就可能产生ingroup favouritism\nDepersonalisation等于失去人格或人性\n它是从“I”转向“We”的自我分类变化\nContact一定减少偏见\n负面接触可能增加偏见\nMore contact与less prejudice证明因果\n可能只是偏见较少的人更愿意接触\nCIIM永远是最佳方案\n只强调上位身份可能造成assimilation\n多元文化主义要求群体放弃差异\nDual identity要求共同身份和子群体身份同时保留\n改变个人态度就能解决结构性偏见\n贫困、隔离、权力和制度不平等也必须改变\n\n## [B0219] PPT Revision Questions答案骨架\n\n[B0219 FIGURE] 文本框 46\n\n[B0219 TEXTBOX]\nPPT最后两页的问题基本已经把考试重点明牌写出来了。\nWhy were Sherif’s boys’ camp studies important?\nOrdinary boys\n+\nCompetition and separate group identities\n→ prejudice and conflict\nShared interdependent goals\n→ reduced conflict\n说明偏见可以由群体关系和情境制造，而不只是人格问题。\nWhat is Realistic Conflict Theory?\n竞争稀缺资源或互斥目标会使群体利益发生冲突，从而产生威胁、偏见和攻击。\nOne limitation of Frustration–Aggression?\n挫折并不必然导致攻击，攻击也可以在没有明显挫折时发生；理论也难以预测替罪羊是谁。\nWhat defines an Authoritarian Personality?\n僵化传统主义、服从强势权威、对被社会或政治秩序指向的群体表现攻击，以及非黑即白思维。\nDoes RWA assess personality?\n它可能反映相对稳定倾向，但分数会随威胁、权力和社会情境改变，因此也可能测量可变的社会态度。\nHow does the Cognitive Approach explain prejudice?\n人类认知容量有限，面对复杂社会世界时会通过分类和刻板印象节省认知资源，但这些捷径会产生错误和不公平判断。\nTajfel & Wilkes line study?\n分类使人夸大类别之间的差异，并低估同一类别内部的差异，这解释了刻板印象的极端化和同质化。\nWhat is the Minimal Group Paradigm?\n即使群体完全随机、没有历史或竞争，仅仅把人分成“我们”和“他们”也能产生ingroup favouritism。\nMain explanation from each theory?\nSocio-cultural:\ncompetition and intergroup relations\nPsychodynamic:\nfrustration and displaced aggression\nPersonality:\nauthoritarian and rigid personality tendencies\nCognitive:\nlimited capacity and categorisation shortcuts\nSocial Identity:\ningroup identification and positive distinctiveness\nContact Hypothesis and optimal conditions?\n接触可以减少偏见，但最好在平等地位、制度支持和共同目标的条件下进行。\nHow can identity reduce prejudice?\n让原本的不同群体看到共同的上位身份，把“我们vs他们”改成共同的“我们”；同时用dual identity保留并尊重原有子群体身份。",
+  "sourceHash": "87e9ab6915cea09f517d595b99df56aaf63d96190d76597fb00733e65565751d"
+}

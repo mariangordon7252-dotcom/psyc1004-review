@@ -1,0 +1,583 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f4f5ef">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="PSYC1004 复习">
+  <script>
+    (() => { let mode = 'system'; try { mode = localStorage.getItem('psyc1004.theme.v1') || mode; } catch {} const dark = mode === 'dark' || (mode !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches); document.documentElement.dataset.theme = dark ? 'dark' : 'light'; document.documentElement.style.colorScheme = dark ? 'dark' : 'light'; })();
+  </script>
+  <meta name="description" content="PSYC1004 第 1 至 12 周离线期末复习工具">
+  <title>PSYC1004 · 期末复习台</title>
+  <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTUiIGZpbGw9IiMyNzNkMzUiLz48cGF0aCBkPSJNMTUgMTdoMTZjNCAwIDcgMiA3IDV2MjljMC00LTMtNi03LTZIMTV6bTM0IDBIMzh2MzRjMC00IDMtNiA3LTZoNHoiIGZpbGw9IiNkNGVkOTkiLz48cGF0aCBkPSJNMjIgMjdoOW0tOSA3aDkiIHN0cm9rZT0iIzI3M2QzNSIgc3Ryb2tlLXdpZHRoPSIzIi8+PC9zdmc+Cg==" type="image/svg+xml">
+  <style>
+:root{--ink:#243b33;--text:#293b34;--muted:#6c776e;--paper:#f4f5ef;--line:#dfe4d9;--green:#294b3a;--lime:#d2eaa1;--white:#fff;--red:#a64136;--red-bg:#fff0ea;--gold:#86601d;--radius:16px;font-family:Inter,"Segoe UI","Microsoft YaHei",system-ui,sans-serif;font-size:16px;color:var(--text);background:var(--paper)}*{box-sizing:border-box}body{margin:0}button,input,select,textarea{font:inherit}button,a{touch-action:manipulation}button{cursor:pointer}button:disabled{opacity:.45;cursor:not-allowed}a{color:inherit}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #82aa53;outline-offset:3px}button{border:0}h1,h2,h3,p{margin-top:0}h1{font-size:32px;line-height:1.4;font-weight:650;letter-spacing:-.8px;margin-bottom:8px}h2{font-size:22px;line-height:1.5;font-weight:650}h3{font-size:18px;line-height:1.6}p{line-height:1.85}small,.small{font-size:13px;line-height:1.65}.muted{color:var(--muted)}.mono{font-family:Consolas,monospace}.skip{position:fixed;top:-100px;z-index:30;background:white;padding:14px}.skip:focus{top:8px}.sidebar{width:236px;position:fixed;inset:0 auto 0 0;background:var(--ink);color:#f2f4eb;display:flex;flex-direction:column;padding:29px 20px 20px;z-index:10}.brand{display:flex;gap:12px;align-items:center;padding:0 7px 25px}.brand-mark{display:grid;place-items:center;background:var(--lime);color:var(--ink);width:40px;height:42px;border-radius:11px}.brand strong{font-size:19px;letter-spacing:1px}.brand small{display:block;color:#bdcbb9;font-size:12px;margin-top:3px;letter-spacing:1.5px}.nav-caption{font-size:12px;color:#aebead;padding:21px 12px 10px;letter-spacing:2px}.nav{display:grid;gap:6px}.nav button{display:flex;align-items:center;gap:12px;color:#c6d2c4;background:none;border-radius:10px;padding:14px 13px;text-align:left;font-size:15px}.nav button:hover{background:#ffffff0c;color:white}.nav button.active{background:var(--lime);color:var(--ink);font-weight:650}.nav svg{width:19px;height:19px;flex-shrink:0}.badge{border-radius:20px;display:inline-block;padding:2px 8px;font-size:12px;background:#ffffff18;margin-left:auto}.nav .active .badge{background:#294b3a12}.side-bottom{margin-top:auto}.side-note{border:1px solid #ffffff22;border-radius:12px;padding:15px;font-size:13px;color:#c5d0be;line-height:1.8;margin-top:18px}.side-note strong{color:#e6efdb;display:block;font-weight:500}.side-note .dot{display:inline-block;width:7px;height:7px;background:var(--lime);border-radius:50%;margin-right:7px}.shell{margin-left:236px}.topbar{height:77px;background:#f9faf6;border-bottom:1px solid var(--line);display:flex;align-items:center;padding:0 38px;gap:18px;justify-content:space-between;position:sticky;top:0;z-index:5}.breadcrumb{color:var(--muted);font-size:14px}.breadcrumb span{margin:0 10px;color:#aab2a8}.top-actions{display:flex;gap:10px;align-items:center}.status-dot{width:7px;height:7px;display:inline-block;border-radius:50%;background:#73a452;margin-right:7px}.icon-button{background:none;padding:8px;color:var(--ink);display:flex;align-items:center;gap:7px;border-radius:8px}.icon-button:hover{background:#e7ebdf}.menu-button{display:none}main{padding:34px 38px 48px;max-width:1620px;margin:auto;min-height:calc(100vh - 77px)}.page-head{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:25px}.eyebrow{font-size:12px;letter-spacing:2px;font-weight:650;color:#718164;margin-bottom:9px}.subtitle{margin:0;color:var(--muted);font-size:14px;line-height:1.8}.button{border-radius:9px;padding:11px 17px;font-size:14px;display:inline-flex;align-items:center;justify-content:center;gap:8px;line-height:1.5;text-decoration:none;white-space:nowrap;background:var(--green);color:white;min-height:43px}.button:hover{filter:brightness(1.08)}.button.secondary{background:#fff;border:1px solid #d7dfcf;color:var(--ink)}.button.ghost{background:#e9eddf;color:var(--ink)}.button.danger{color:var(--red);background:var(--red-bg)}.button.lime{background:var(--lime);color:var(--ink)}.button svg,.icon-button svg{width:18px;height:18px}.button.compact{padding:7px 12px;min-height:35px;font-size:13px}.notice{background:#eaf0df;border:1px solid #dce6cb;border-radius:11px;display:flex;gap:12px;padding:14px 18px;font-size:13px;line-height:1.8;margin-bottom:25px}.notice p{margin:0}.notice svg{flex-shrink:0;margin-top:3px;width:18px;height:18px}.notice.warning{background:#fff4df;border-color:#ebd4a7}.notice button{background:none;text-decoration:underline;color:var(--green);padding:0}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:29px}.stat{background:var(--white);border:1px solid var(--line);border-radius:13px;padding:20px 22px}.stat-top{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--muted)}.stat-top svg{width:18px;height:18px;color:#829675}.stat-value{font-size:32px;line-height:1.6;font-weight:600;letter-spacing:-1px;margin-top:6px}.stat-value span{font-size:14px;color:var(--muted);font-weight:400;letter-spacing:0;margin-left:7px}.stat-foot{font-size:12px;color:var(--muted)}.home-grid{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:22px}.section-line{display:flex;align-items:center;justify-content:space-between;gap:15px;margin-bottom:17px}.section-line h2{margin:0;font-size:19px}.pill-group{display:flex;background:#e8ecdf;padding:4px;border-radius:9px;gap:2px;flex-shrink:0}.pill-group button{padding:7px 12px;font-size:13px;color:#65705e;background:none;border-radius:6px}.pill-group button.active{background:white;color:var(--ink);box-shadow:0 1px 4px #273d3512}.lecture-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.lecture-tile{position:relative;border:1px solid var(--line);background:white;border-radius:13px;padding:20px;display:flex;flex-direction:column;gap:0;color:inherit;text-align:left;min-height:184px;transition:transform .15s,border-color .15s}.lecture-tile:hover{border-color:#a1b482;transform:translateY(-2px)}.lecture-tag{font-size:11px;letter-spacing:1.5px;color:#718063;text-transform:uppercase;font-weight:600;margin-bottom:12px;display:flex;justify-content:space-between;align-items:center}.tile-arrow{font-size:20px;line-height:1;color:#b5bfac}.lecture-tile h3{font-size:16px;margin-bottom:6px}.lecture-tile p{font-size:12px;line-height:1.5;color:var(--muted);margin-bottom:17px}.tile-progress{margin-top:auto;display:flex;align-items:center;gap:10px;font-size:12px;color:var(--muted)}.progress{height:5px;background:#eaf0e2;border-radius:5px;overflow:hidden;flex:1}.progress i{display:block;height:100%;background:#89ac63;border-radius:5px}.study-panel{background:var(--ink);color:white;border-radius:15px;padding:25px;position:relative;overflow:hidden}.study-panel .eyebrow{color:#c9deac;font-size:11px}.study-panel h2{font-size:24px;line-height:1.5;margin-top:18px;margin-bottom:12px}.study-panel p{font-size:13px;color:#c5d1bd;line-height:1.9}.study-panel .button{width:100%;margin-top:10px}.panel-divider{border-top:1px solid #ffffff25;padding-top:16px;margin-top:20px}.focus-list{background:white;border:1px solid var(--line);border-radius:14px;padding:22px;margin-top:18px}.focus-list h3{font-size:15px;margin-bottom:13px}.focus-item{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:11px 0;border-top:1px solid #eef0e9;font-size:13px}.focus-item button{background:none;color:var(--ink);text-align:left;padding:0;line-height:1.6}.scope-hint{font-size:12px;color:var(--muted);margin-top:14px;line-height:1.8}.toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:22px}.search{flex:1;position:relative;min-width:200px}.search svg{position:absolute;left:14px;top:14px;width:18px;height:18px;color:#8a9684}.search input{width:100%;border:1px solid var(--line);border-radius:9px;padding:12px 14px 12px 41px;background:white;color:var(--ink);font-size:14px}select{border:1px solid var(--line);border-radius:9px;padding:11px 34px 11px 12px;background:white;color:var(--ink);font-size:14px;max-width:100%}.review-layout{display:grid;grid-template-columns:300px minmax(0,1fr);gap:22px;align-items:start}.concept-list{display:grid;gap:7px;max-height:calc(100vh - 282px);overflow:auto;padding:2px 5px 8px 1px;scrollbar-width:thin}.concept-button{border:1px solid transparent;border-radius:10px;background:none;color:inherit;padding:13px 15px;text-align:left;line-height:1.65}.concept-button.active{background:white;border-color:#b0c693;box-shadow:0 2px 4px #273d3508}.concept-button:hover{background:white}.concept-button strong{font-size:14px;display:block;font-weight:550}.concept-button small{font-size:12px;color:var(--muted)}.concept-button .known{float:right;color:#548445}.detail{background:white;border:1px solid var(--line);border-radius:16px;padding:30px 34px;min-width:0}.detail-head{display:flex;justify-content:space-between;gap:15px;align-items:flex-start}.detail-head h2{font-size:25px;margin-bottom:7px}.detail-head .english{color:#7a8672;font-size:14px;margin-bottom:25px}.star{background:none;border:1px solid var(--line);border-radius:9px;color:#88947e;width:39px;height:39px;font-size:21px;flex-shrink:0}.star.on{background:#fff5d6;color:#8b711f;border-color:#e8d99b}.content-label{font-size:12px;color:#829073;letter-spacing:1px;font-weight:600;margin-bottom:10px}.detail p{font-size:16px;line-height:1.95;white-space:pre-line;overflow-wrap:anywhere}.example{padding:20px 23px;border-radius:11px;background:#f4f7ee;margin:23px 0}.example p{font-size:15px;margin:0}.pitfall{font-size:14px!important;color:#796a4b;border-left:3px solid #d8c493;padding-left:17px}.source{font-size:12px;color:#7d8874;line-height:1.8;border-top:1px solid #e8ecdf;padding-top:17px;margin-top:23px;overflow-wrap:anywhere}.source button{background:none;color:var(--green);text-decoration:underline;padding:0;font-size:12px}.detail-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}.empty{background:white;border:1px dashed #cbd6c0;border-radius:15px;text-align:center;padding:60px 25px}.empty svg{width:42px;height:42px;color:#91a97a;margin-bottom:14px}.empty h2{font-size:21px}.empty p{color:var(--muted);font-size:14px}.card-wrap{max-width:820px;margin:0 auto}.card-top{display:flex;justify-content:space-between;gap:12px;align-items:center;margin:25px 0 15px;color:var(--muted);font-size:14px}.flashcard{display:flex;align-items:center;justify-content:center;flex-direction:column;min-height:335px;width:100%;border:1px solid #cbd9bd;border-radius:19px;background:#fff;box-shadow:0 9px 30px #283b3207;padding:38px 46px;text-align:center;color:var(--ink)}.flashcard .face-label{font-size:12px;color:#8b997d;letter-spacing:2px;margin-bottom:26px}.flashcard .flash-question{font-size:25px;line-height:1.8;font-weight:550;max-width:620px}.flashcard.answer{background:#eef4e5}.flash-answer{font-size:20px;line-height:1.9;white-space:pre-line;max-width:630px}.flash-hint{font-size:12px;color:#8a9680;margin-top:35px}.card-controls{display:flex;justify-content:center;gap:12px;margin-top:24px;flex-wrap:wrap}.card-controls .button{min-width:145px}.card-extra{margin-top:22px;text-align:center;font-size:13px;color:var(--muted)}.card-extra button{font-size:13px;background:none;text-decoration:underline;color:var(--green)}.quiz-layout{max-width:940px;margin:auto}.setup-panel{background:white;border:1px solid var(--line);padding:28px;border-radius:15px}.setup-panel h2{font-size:21px}.setup-fields{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin:25px 0}.field{display:flex;flex-direction:column;gap:9px;font-size:14px}.field select{width:100%}.mode-grid{display:grid;grid-template-columns:1fr 1fr;gap:15px;margin:23px 0}.mode-card{border:1px solid var(--line);border-radius:12px;padding:23px;display:flex;flex-direction:column}.mode-card.selected{border-color:#9fbb7c;background:#f4f8ee}.mode-card h3{font-size:18px}.mode-card p{font-size:14px;color:var(--muted)}.mode-card .button{margin-top:auto;align-self:flex-start}.quiz-meta{display:flex;gap:10px;align-items:center;justify-content:space-between;margin-bottom:20px}.quiz-position{font-size:14px;color:var(--muted)}.timer{font-variant-numeric:tabular-nums;font-size:18px;color:#597247;font-weight:600}.timer.urgent{color:var(--red)}.question-box{background:white;border:1px solid var(--line);padding:31px 35px;border-radius:16px}.question-labels{display:flex;gap:8px;font-size:12px;color:#748368;margin-bottom:19px;flex-wrap:wrap}.tag{background:#edf2e7;border-radius:5px;padding:4px 8px;font-size:12px;white-space:nowrap}.question-box h2{font-size:22px;line-height:1.85;margin-bottom:23px;white-space:pre-line;overflow-wrap:anywhere}.options{display:grid;gap:11px}.option{display:flex;gap:15px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:15px 17px;text-align:left;background:#fff;color:var(--ink);line-height:1.8;font-size:15px}.option-letter{width:30px;min-width:30px;height:30px;border:1px solid var(--line);border-radius:7px;display:grid;place-items:center;font-size:13px;background:#f6f8f1}.option.selected{border-color:#7f9c5b;background:#f2f7e9}.option.selected .option-letter{background:var(--green);border-color:var(--green);color:white}.option.correct{border-color:#6e9654;background:#edf5e6}.option.wrong{border-color:#d29386;background:#fff0eb}.option:disabled{opacity:1}.feedback{padding:20px 22px;background:#eff5e8;border-radius:10px;margin-top:22px}.feedback.wrong{background:#fff3eb}.feedback strong{font-size:15px}.feedback p{font-size:14px;margin:10px 0 0;line-height:1.9;white-space:pre-line}.quiz-footer{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-top:23px}.quiz-footer .muted{font-size:12px}.answer-grid{display:flex;flex-wrap:wrap;gap:7px;margin-top:22px}.answer-grid button{width:33px;height:33px;border-radius:6px;color:var(--muted);background:#e8eddf;font-size:12px}.answer-grid button.answered{background:#d0e1b9;color:var(--ink)}.answer-grid button.current{outline:2px solid var(--green);outline-offset:1px}.result-head{text-align:center;padding:25px}.score{font-size:64px;font-weight:600;letter-spacing:-3px;line-height:1.4}.score span{font-size:20px;color:var(--muted);letter-spacing:0}.results-list{display:grid;gap:12px;margin-top:24px}.result-row{background:white;border:1px solid var(--line);border-radius:11px;padding:18px 22px}.result-row summary{cursor:pointer;font-size:14px;line-height:1.8;display:flex;gap:12px}.result-row p{font-size:14px;margin:13px 0 0;white-space:pre-line}.result-row .check{color:#5d8440}.result-row .cross{color:var(--red)}.mistake-card{background:white;border:1px solid var(--line);border-radius:13px;padding:24px;margin-bottom:15px}.mistake-card h3{font-size:17px;line-height:1.8;margin:15px 0}.mistake-top{display:flex;justify-content:space-between;align-items:center;font-size:12px;color:var(--muted);gap:10px}.mistake-answer{display:flex;gap:14px;flex-wrap:wrap;font-size:13px;margin-bottom:15px}.mistake-answer .wrong-text{color:var(--red)}.mistake-card details{font-size:14px;line-height:1.9}.mistake-card summary{cursor:pointer;color:var(--green)}.mistake-card details p{margin:12px 0;font-size:14px;white-space:pre-line}.mistake-footer{margin-top:19px;display:flex;gap:9px;flex-wrap:wrap}.settings-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}.settings-card{padding:26px;background:white;border:1px solid var(--line);border-radius:14px}.settings-card h2{font-size:19px}.settings-card p{font-size:14px;color:var(--muted)}.settings-actions{display:flex;gap:10px;flex-wrap:wrap}.source-list{display:grid;gap:12px;margin-top:20px}.source-row{padding:15px 0;border-top:1px solid var(--line);display:flex;gap:18px;justify-content:space-between;align-items:center}.source-row strong{font-size:14px;display:block}.source-row small{color:var(--muted);font-size:12px;overflow-wrap:anywhere}.fineprint{font-size:12px;line-height:1.85;color:var(--muted);margin-top:28px}.label-danger{color:var(--red)}dialog{border:1px solid #c6d4b9;border-radius:16px;color:var(--ink);padding:0;width:min(800px,calc(100vw - 30px));max-height:85vh;box-shadow:0 15px 80px #1d312344}dialog::backdrop{background:#14231c70;backdrop-filter:blur(2px)}.dialog-head{display:flex;justify-content:space-between;align-items:center;padding:20px 25px;border-bottom:1px solid var(--line);position:sticky;top:0;background:white;z-index:1}.dialog-head h2{font-size:18px;margin:0}.dialog-body{padding:23px 25px}.dialog-body p{font-size:14px;line-height:1.9;overflow-wrap:anywhere}.source-paragraph{border-bottom:1px solid #eef0e9;padding:10px 0;font-size:14px;line-height:1.9;white-space:pre-wrap;overflow-wrap:anywhere}.source-paragraph small{color:#94a084;margin-right:9px}.dialog-actions{padding:0 25px 25px;display:flex;justify-content:flex-end;gap:10px}#toast{position:fixed;bottom:24px;left:calc(50% + 100px);transform:translateX(-50%);background:var(--ink);color:white;border-radius:10px;padding:12px 22px;font-size:14px;z-index:100;box-shadow:0 4px 20px #273d3522;max-width:calc(100vw - 30px);display:none;line-height:1.7}#toast.visible{display:block}kbd{font-family:inherit;font-size:11px;background:#e9eddf;border:1px solid #d2dcca;padding:1px 5px;border-radius:4px}.footer-note{margin-top:31px;color:#8b9583;font-size:12px;text-align:center;line-height:1.8}.inline-row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.divider{height:1px;background:var(--line);margin:25px 0}.progress.big{height:7px;margin-bottom:24px}.content-count{font-size:13px;color:var(--muted);margin-bottom:14px}.visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}.loading{padding:70px;line-height:2}.reminder-label{font-size:12px;color:#7b8870;line-height:1.9;margin-top:14px}.no-margin{margin:0}
+.brand-mark svg{width:24px;height:24px}
+@media(min-width:1500px){main{padding:40px 50px}.home-grid{grid-template-columns:minmax(0,1fr) 330px}.lecture-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:1180px){.sidebar{width:205px;padding-left:13px;padding-right:13px}.shell{margin-left:205px}.topbar{padding:0 25px}main{padding:27px 25px}.home-grid{grid-template-columns:minmax(0,1fr) 270px}.review-layout{grid-template-columns:245px minmax(0,1fr)}.detail{padding:25px}.stat{padding:17px}.stat-value{font-size:29px}.page-head{align-items:flex-start}.lecture-tile{padding:17px}.setup-fields{gap:12px}}
+@media(max-width:960px){.home-grid{grid-template-columns:1fr}.home-aside{display:grid;grid-template-columns:1fr 1fr;gap:16px}.focus-list{margin-top:0}.study-panel{padding:23px}.study-panel h2{margin-top:10px}.review-layout{grid-template-columns:215px minmax(0,1fr)}.stats{gap:10px}.stat{padding:15px}.stat-value{font-size:26px}.settings-grid{grid-template-columns:1fr}.topbar .save-label{display:none}.detail-head h2{font-size:22px}.detail{padding:23px}.flashcard{padding:30px}}
+@media(max-width:760px){.sidebar{transform:translateX(-100%);width:240px;transition:transform .2s}.sidebar.open{transform:translateX(0);box-shadow:0 0 0 100vmax #12221970}.shell{margin-left:0}.topbar{height:63px;padding:0 18px}.menu-button{display:flex}.breadcrumb{font-size:12px}.breadcrumb span{margin:0 5px}.top-actions{gap:4px}.topbar .button{padding:8px 11px;min-height:35px;font-size:12px}main{padding:25px 18px 35px;min-height:calc(100vh - 63px)}h1{font-size:27px}.page-head{flex-wrap:wrap;gap:15px;margin-bottom:20px}.subtitle{font-size:13px}.stats{grid-template-columns:1fr 1fr;gap:12px}.stat{padding:17px}.stat-value{font-size:29px}.home-aside{grid-template-columns:1fr}.section-line{flex-wrap:wrap;gap:12px}.lecture-grid{gap:11px}.lecture-tile{padding:16px;min-height:174px}.lecture-tile h3{font-size:15px}.review-layout{grid-template-columns:1fr}.concept-list{max-height:230px;grid-template-columns:1fr 1fr;gap:5px;border-bottom:1px solid var(--line);padding-bottom:15px}.concept-button{padding:10px}.concept-button strong{font-size:13px}.concept-button small{font-size:11px}.detail{padding:23px}.toolbar{gap:8px}.search{min-width:100%;order:-1}.toolbar select{max-width:calc(100% - 5px)}.flashcard{padding:30px 23px;min-height:330px}.flashcard .flash-question{font-size:21px}.flash-answer{font-size:18px}.card-controls{gap:9px}.card-controls .button{min-width:100px;padding:10px 12px}.card-top{font-size:12px}.setup-panel{padding:22px}.setup-fields{grid-template-columns:1fr}.mode-grid{grid-template-columns:1fr}.question-box{padding:23px 20px}.question-box h2{font-size:19px}.option{padding:12px;gap:10px;font-size:14px}.quiz-footer .muted{display:none}.quiz-footer{justify-content:flex-end}.question-labels{gap:6px}.question-labels .tag{font-size:11px}.mistake-card{padding:20px}.settings-card{padding:22px}.source-row{align-items:flex-start}.dialog-body{padding:19px}.dialog-head{padding:18px 19px}.dialog-head h2{font-size:16px}#toast{left:50%}.notice{font-size:12px;padding:13px}.home-aside .study-panel{margin-top:0}.fineprint{font-size:12px}.source-row .button{white-space:nowrap}.source-row>div{min-width:0}.page-head .button{font-size:13px}.mobile-hide{display:none}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+
+/* iPad and appearance: keep the existing paper-and-forest identity. */
+:root{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",system-ui,sans-serif;-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{padding-bottom:env(safe-area-inset-bottom,0px)}
+.sidebar{padding-top:max(29px,env(safe-area-inset-top));padding-bottom:max(20px,env(safe-area-inset-bottom));height:100vh;height:100dvh;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+.topbar{padding-left:max(38px,env(safe-area-inset-left));padding-right:max(38px,env(safe-area-inset-right));gap:12px}
+.theme-picker{display:flex;flex-shrink:0}
+.theme-picker select{font-size:14px;min-height:44px;padding:9px 28px 9px 12px;width:126px}
+.nav-close{display:none}
+.concept-list{min-height:180px;max-height:calc(100vh - 285px);max-height:calc(100dvh - 285px);overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+dialog{max-height:calc(100vh - 40px);max-height:calc(100dvh - 40px);overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+.flashcard{touch-action:manipulation;-webkit-tap-highlight-color:transparent}
+.question-box,.detail,.setup-panel{overflow-wrap:anywhere}
+.toolbar>*{min-width:0}.toolbar .search{min-width:200px}
+
+/* All surfaces, including answer feedback and native controls, have dark tokens. */
+:root[data-theme="dark"]{color-scheme:dark;--ink:#e4eadd;--text:#e4eadd;--muted:#b1bca9;--paper:#141c19;--line:#39483d;--green:#bad891;--lime:#c8e3a1;--white:#1e2923;--red:#f1aa9d;--red-bg:#402a27;--gold:#deca8d}
+[data-theme="dark"] .sidebar{background:#17251d;color:#e4eadd}
+[data-theme="dark"] .brand-mark,[data-theme="dark"] .nav button.active,[data-theme="dark"] .button.lime{color:#23382c}
+[data-theme="dark"] .nav button.active{background:var(--lime)}
+[data-theme="dark"] .topbar,[data-theme="dark"] .dialog-head{background:#18221c}
+[data-theme="dark"] .icon-button:hover{background:#2b3b2d}
+[data-theme="dark"] .stat,[data-theme="dark"] .lecture-tile,[data-theme="dark"] .focus-list,[data-theme="dark"] .detail,[data-theme="dark"] .setup-panel,[data-theme="dark"] .question-box,[data-theme="dark"] .mistake-card,[data-theme="dark"] .settings-card,[data-theme="dark"] .result-row,[data-theme="dark"] .empty,[data-theme="dark"] .flashcard,[data-theme="dark"] dialog{background:var(--white)}
+[data-theme="dark"] .button{background:#c0dd99;color:#213324}
+[data-theme="dark"] .button.secondary{background:#233027;border-color:#526148;color:var(--text)}
+[data-theme="dark"] .button.ghost{background:#303e2e;color:#e0ebd3}
+[data-theme="dark"] .button.danger{background:var(--red-bg);color:var(--red)}
+[data-theme="dark"] .notice{background:#263626;border-color:#405334}
+[data-theme="dark"] .notice.warning{background:#3b3220;border-color:#6c5931}
+[data-theme="dark"] .progress{background:#34432e}
+[data-theme="dark"] .progress i{background:#a7c97b}
+[data-theme="dark"] .pill-group{background:#243127}
+[data-theme="dark"] .pill-group button{color:#bdc9b0}
+[data-theme="dark"] .pill-group button.active{background:#3a4b30;color:#eaf3dd;box-shadow:none}
+[data-theme="dark"] .study-panel{background:#213a2a}
+[data-theme="dark"] .focus-item,[data-theme="dark"] .source-paragraph{border-color:#374433}
+[data-theme="dark"] .search input,[data-theme="dark"] select{background:#202d24;color:var(--text);border-color:#465540}
+[data-theme="dark"] .search input::placeholder{color:#aab6a0}
+[data-theme="dark"] .concept-button.active{background:#293829;border-color:#7f9c5d}
+[data-theme="dark"] .concept-button:hover{background:#263329}
+[data-theme="dark"] .concept-button .known,[data-theme="dark"] .result-row .check{color:#bedb94}
+[data-theme="dark"] .example,[data-theme="dark"] .flashcard.answer,[data-theme="dark"] .mode-card.selected{background:#2a3927;border-color:#6c8753}
+[data-theme="dark"] .content-label,[data-theme="dark"] .eyebrow,[data-theme="dark"] .lecture-tag,[data-theme="dark"] .question-labels,[data-theme="dark"] .flashcard .face-label{color:#b7c6a5}
+[data-theme="dark"] .detail-head .english,[data-theme="dark"] .source,[data-theme="dark"] .flash-hint,[data-theme="dark"] .reminder-label{color:#afbea0}
+[data-theme="dark"] .source{border-color:#435139}
+[data-theme="dark"] .pitfall{color:#e2c99c;border-color:#b2975a}
+[data-theme="dark"] .star{color:#b6c5a4;border-color:#4f6042}
+[data-theme="dark"] .star.on{background:#483f23;color:#efdb8b;border-color:#857347}
+[data-theme="dark"] .tag,[data-theme="dark"] kbd{background:#32442e;color:#d0dfbf;border-color:#4b5e40}
+[data-theme="dark"] .option{background:#202d24}
+[data-theme="dark"] .option-letter{background:#2c392d;border-color:#4e5e43;color:var(--text)}
+[data-theme="dark"] .option.selected{background:#34472b;border-color:#a1c474}
+[data-theme="dark"] .option.selected .option-letter{background:#c0dd99;color:#243522;border-color:#c0dd99}
+[data-theme="dark"] .option.correct,[data-theme="dark"] .feedback{background:#2c422b;border-color:#8ab166}
+[data-theme="dark"] .option.wrong,[data-theme="dark"] .feedback.wrong{background:#432e29;border-color:#ba8172}
+[data-theme="dark"] .answer-grid button{background:#2b382b;color:#c8d5bc}
+[data-theme="dark"] .answer-grid button.answered{background:#59783c;color:#f4f8e9}
+[data-theme="dark"] .timer{color:#c0dc98}
+[data-theme="dark"] .timer.urgent,[data-theme="dark"] .result-row .cross{color:#f3a995}
+[data-theme="dark"] #toast{background:#d1e6b5;color:#1c2b20;border:1px solid #9db980}
+[data-theme="dark"] .skip{background:#29382b}
+[data-theme="dark"] .empty{border-color:#536646}
+
+/* Portrait iPads get a drawer; landscape keeps more room for the lesson. */
+@media(max-width:1100px){
+ .sidebar{width:270px;max-width:85vw;transform:translateX(-100%);transition:transform .18s;z-index:20;padding-top:max(30px,env(safe-area-inset-top))}
+ .sidebar.open{transform:translateX(0);box-shadow:0 0 0 100vmax #10201988}
+ .sidebar .brand{padding-right:25px}.nav-close{display:flex;position:absolute;right:10px;top:max(19px,env(safe-area-inset-top));color:#e4eadd;width:44px;height:44px;justify-content:center}
+ .shell{margin-left:0}.menu-button{display:flex;width:44px;height:44px;justify-content:center}
+ .topbar{padding-left:max(22px,env(safe-area-inset-left));padding-right:max(22px,env(safe-area-inset-right))}
+ .topbar .save-label{display:none}.top-actions{gap:10px}
+ body.nav-open{overflow:hidden}
+ #toast{left:50%;bottom:max(24px,env(safe-area-inset-bottom))}
+ main{padding-left:max(26px,env(safe-area-inset-left));padding-right:max(26px,env(safe-area-inset-right))}
+}
+@media(min-width:700px) and (max-width:1100px){
+ .review-layout{grid-template-columns:240px minmax(0,1fr);gap:18px}
+ .concept-list{display:grid;grid-template-columns:1fr;border-bottom:0;max-height:calc(100dvh - 285px);gap:7px;padding-bottom:8px}
+ .concept-button{padding:13px 14px}.concept-button strong{font-size:15px}.concept-button small{font-size:12px}
+ .detail{padding:24px}.detail-head h2{font-size:24px}
+ .detail-actions .button{white-space:normal;min-height:44px}
+ .home-grid{grid-template-columns:1fr}.home-aside{display:grid;grid-template-columns:1fr 1fr;gap:18px}.focus-list{margin-top:0}
+ .lecture-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .stats{grid-template-columns:repeat(4,minmax(0,1fr))}
+ .stat{padding:17px}.stat-value{font-size:28px}.stat-top{gap:8px;line-height:1.6}
+ .search{flex-basis:100%}.toolbar .search{min-width:100%}
+ .flashcard{min-height:360px;min-height:min(44dvh,480px)}
+}
+@media(pointer:coarse){
+ .button,.button.compact,.icon-button,.star,.pill-group button,.answer-grid button,select{min-height:44px}
+ .icon-button,.star,.answer-grid button{min-width:44px}
+ .button,.button.compact,.nav button,.concept-button strong{font-size:15px}
+ .pill-group button{font-size:14px;padding:10px 14px}
+ select,.search input{font-size:16px}
+ .theme-picker select{font-size:15px;width:135px}
+ .option{min-height:62px;font-size:16px;padding:17px}
+ .answer-grid{gap:9px}.answer-grid button{font-size:14px}
+ .source button{min-height:44px;display:inline-block;padding:9px 0;font-size:14px;line-height:1.8}
+ .card-extra button,.notice button{min-height:44px;font-size:14px}
+ .card-controls{gap:14px}.card-controls .button{min-height:50px}
+ .lecture-tile:hover{transform:none}.button:hover{filter:none}
+ .flashcard{-webkit-user-select:none;user-select:none}
+ .question-box p,.detail p{font-size:16px}
+}
+@media(max-width:699px){
+ main{padding:24px max(18px,env(safe-area-inset-right)) 35px max(18px,env(safe-area-inset-left))}
+ .topbar{padding:0 max(14px,env(safe-area-inset-right)) 0 max(14px,env(safe-area-inset-left))}
+ .topbar .breadcrumb{display:none}.top-actions{gap:8px}
+ .theme-picker select{width:125px;font-size:14px}
+ .toolbar .search{min-width:100%}.home-aside{display:grid;grid-template-columns:1fr}
+ .stats{grid-template-columns:repeat(2,minmax(0,1fr))}.review-layout{grid-template-columns:1fr}
+ .concept-list{grid-template-columns:repeat(2,minmax(0,1fr));max-height:230px;min-height:0}
+ .concept-button strong{font-size:14px}.concept-button small{font-size:12px}
+ .quiz-footer>.inline-row{width:100%;flex-wrap:wrap;justify-content:flex-end}.quiz-footer .button{white-space:normal}
+ .flashcard{padding:30px 22px;min-height:330px}
+ .dialog-head h2{padding-right:8px}.page-head .button{white-space:normal}
+}
+
+/* Concept reading: one sentence, one analogy, one example; depth on demand. */
+.concept-short{display:grid;gap:1rem;margin-bottom:1.3rem}
+.detail .simple-label{margin:0 0 .45rem;font-size:.875rem;font-weight:600;line-height:1.6;color:var(--muted);letter-spacing:0}
+.detail .one-sentence{padding:0 0 .4rem}
+.detail .one-sentence p{font-size:1.25rem;line-height:1.8;font-weight:550;margin:0;color:var(--ink)}
+.simple-story{padding:1rem 1.2rem;border:1px solid var(--line);border-radius:.7rem;background:var(--paper);min-width:0}
+.detail .simple-story p{margin:0;font-size:1rem;line-height:1.85;color:var(--text)}
+.example-story{background:var(--white)}
+.concept-deeper{border-top:1px solid var(--line);margin-top:1.3rem}
+.concept-deeper>summary{padding:.9rem 0;min-height:44px;cursor:pointer;font-size:.875rem;color:var(--muted);line-height:1.7}
+.concept-deeper[open]>summary{color:var(--ink)}
+.deeper-content{padding:.5rem 0}
+.deeper-content .simple-label{margin-top:1rem}
+.deeper-content .source button{min-height:44px;font-size:.875rem;text-align:left}
+@media(max-width:699px){.detail .one-sentence p{font-size:1.125rem}.simple-story{padding:.9rem 1rem}.concept-short{gap:.8rem}}
+
+/* Beginner reading aids use the existing light/dark surface tokens. */
+.symbols-page{max-width:1000px;margin:auto}.symbol-jumps{display:flex;gap:.6rem;flex-wrap:wrap;margin-bottom:1.5rem}.symbol-jumps a{padding:.65rem .85rem;background:var(--white);border:1px solid var(--line);border-radius:.5rem;font-size:.875rem;text-decoration:none;min-height:44px;display:inline-flex;align-items:center}
+.symbol-section{padding:1.5rem;margin:0 0 1.2rem;background:var(--white);border:1px solid var(--line);border-radius:.85rem;scroll-margin-top:95px}.symbol-section h2{font-size:1.25rem}
+.symbol-list{margin:0}.symbol-row{padding:1rem 0;border-bottom:1px solid var(--line)}.symbol-row:last-child{border-bottom:0}.symbol-row dt{display:flex;flex-wrap:wrap;align-items:baseline;gap:.6rem;margin:0 0 .5rem}.symbol-row dt strong{font-size:1rem;font-weight:600}.symbol-mark{font-family:"Cambria Math","Segoe UI",sans-serif;font-size:1.2rem;color:var(--ink);overflow-wrap:anywhere}.symbol-row dd{margin:0}.symbol-row dd p,.detail .symbol-row dd p,.feedback .symbol-row dd p,.result-row .symbol-row dd p,.mistake-card .symbol-row dd p{font-size:1rem;line-height:1.8;margin:.25rem 0}.symbol-row dd .symbol-example{color:var(--muted)}
+.symbol-help,.formula-help{margin:1rem 0;border:1px solid var(--line);border-radius:.65rem;background:var(--paper);font-size:1rem;overflow:hidden;min-width:0}.symbol-help>summary,.formula-help>summary{padding:.75rem 1rem;min-height:44px;cursor:pointer;color:var(--ink);line-height:1.8;font-size:.875rem;overflow-wrap:anywhere}.symbol-help>.symbol-list{padding:0 1rem 1rem}.symbol-count{margin-left:.6rem;color:var(--muted);font-size:.875rem}.formula-inline{font-family:"Cambria Math","Segoe UI",sans-serif;margin-left:.5rem;font-size:1.05rem;overflow-wrap:anywhere}.formula-body{padding:0 1rem 1rem}.formula-body .formula-reading{font-size:1rem;line-height:1.85;font-weight:550}.formula-body ol{padding-left:1.5rem;margin-bottom:0}.formula-body li{font-size:1rem;line-height:1.85;margin:.6rem 0;overflow-wrap:anywhere}
+.plain-explanation>p,.feedback .plain-explanation>p,.result-row .plain-explanation>p,.mistake-card .plain-explanation>p{font-size:1rem;line-height:1.9;white-space:pre-line}.question-table-wrap{width:100%;overflow-x:auto;margin:1rem 0 1.5rem}.question-data{border-collapse:collapse;width:100%;font-size:1rem;color:var(--text)}.question-data th,.question-data td{padding:.65rem .8rem;border:1px solid var(--line);text-align:center;line-height:1.6}.question-data th{background:var(--paper);font-weight:550}.question-data caption{text-align:left;font-size:.875rem;margin-bottom:.6rem;color:var(--muted)}.setup-fields{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(max-width:699px){.symbol-section{padding:1rem}.formula-inline{display:block;margin-left:0}.setup-fields{grid-template-columns:1fr}.question-data th,.question-data td{padding:.5rem .4rem;font-size:.875rem}.symbol-row dt{display:block}.symbol-row dt strong{display:block;margin-top:.3rem}}
+
+/* L6: one operation per step, with readable intermediate truth-table columns. */
+.teaching-lesson{margin:1.4rem 0;min-width:0}.teaching-heading{font-size:1.15rem;margin-bottom:.8rem}.teaching-intro,.detail .teaching-intro{font-size:1rem;line-height:1.85}.teaching-formula{font-family:"Cambria Math","Segoe UI",sans-serif;font-size:1.25rem;line-height:1.8;background:var(--paper);border:1px solid var(--line);border-radius:.6rem;padding:.75rem 1rem;margin:.8rem 0;overflow-wrap:anywhere;white-space:pre-line}
+.teaching-steps{list-style:none;counter-reset:teaching-step;padding:0;margin:1rem 0;display:grid;gap:.75rem}.teaching-steps>li{counter-increment:teaching-step;display:flex;gap:.75rem;align-items:flex-start;padding:.85rem;background:var(--white);border:1px solid var(--line);border-radius:.6rem}.teaching-steps>li::before{content:counter(teaching-step);flex:0 0 1.8rem;height:1.8rem;display:grid;place-items:center;background:var(--paper);color:var(--text);border:1px solid var(--line);border-radius:50%;font-size:.9rem;line-height:1}.teaching-steps>li>div{min-width:0;flex:1}.teaching-steps strong{display:block;font-size:1rem;line-height:1.7;color:var(--ink)}.teaching-steps p,.detail .teaching-steps p,.feedback .teaching-steps p,.result-row .teaching-steps p,.mistake-card .teaching-steps p{font-size:1rem;line-height:1.85;margin:.25rem 0 0;white-space:pre-line;overflow-wrap:anywhere}
+.teaching-rules{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.65rem;margin:1rem 0}.teaching-rule{padding:.9rem;border:1px solid var(--line);border-radius:.6rem;background:var(--paper)}.teaching-rule>strong{font-size:1rem;line-height:1.7}.rule-symbol{font-family:"Cambria Math","Segoe UI",sans-serif;font-size:1.35rem;margin-right:.5rem}.teaching-rule p,.detail .teaching-rule p{font-size:1rem;line-height:1.8;margin:.5rem 0 0}.teaching-rule .rule-example{color:var(--muted)}
+.truth-table-block{margin:1.1rem 0;max-width:100%;min-width:0}.table-reading-hint,.detail .table-reading-hint,.feedback .table-reading-hint{font-size:.875rem;line-height:1.75;color:var(--muted);margin-bottom:.6rem}.truth-table-scroll{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--line);border-radius:.5rem}.truth-table{border-collapse:collapse;width:100%;font-size:1rem;background:var(--white);line-height:1.6}.truth-table caption{text-align:left;font-size:.95rem;font-weight:600;line-height:1.75;padding:.8rem;background:var(--paper);color:var(--ink);white-space:normal}.truth-table th,.truth-table td{padding:.7rem .65rem;border:1px solid var(--line);text-align:center;white-space:nowrap;color:var(--text)}.truth-table thead th{white-space:pre-line;min-width:5rem;max-width:15rem;font-size:.95rem;font-weight:600;background:var(--paper);vertical-align:bottom}.truth-table .truth-row-label{font-size:.9rem;font-weight:400;color:var(--muted)}.truth-table .truth-focus{background:#e7f0d8;border-left:2px solid #768962;border-right:2px solid #768962;font-weight:650}.truth-value{font-size:1rem;white-space:nowrap}.truth-value small{font-size:.875rem;font-weight:400}.truth-true{color:#285734}.truth-false{color:#914133}.teaching-takeaway,.detail .teaching-takeaway,.feedback .teaching-takeaway{font-size:1rem;line-height:1.85;border-left:3px solid var(--green);padding:.65rem .9rem;background:var(--paper);margin:1rem 0 0}
+.teaching-stories{margin:1rem 0;border:1px solid var(--line);border-radius:.6rem;padding:.8rem 1rem;background:var(--paper)}.teaching-stories>summary{font-size:1rem;line-height:1.8;min-height:44px;cursor:pointer}.teaching-stories h3{font-size:1rem;margin:.7rem 0 .3rem}.teaching-stories p,.detail .teaching-stories p{font-size:1rem;line-height:1.85;margin-bottom:.5rem}
+.question-reading{padding:.9rem 1rem;border-left:3px solid var(--green);background:var(--paper);margin:1.1rem 0;font-size:1rem}.question-reading h3{font-size:1rem;margin-bottom:.35rem}.question-reading>p{font-size:1rem;line-height:1.85;margin:0}.question-reading .teaching-steps{gap:.5rem;margin:.6rem 0 0}.question-reading .teaching-steps>li{padding:.6rem;background:var(--white)}:root:not([data-show-chinese="true"]) .question-reading{display:none}.correct-label{margin-left:auto;white-space:nowrap;font-size:.875rem}.correct-label .q-zh{font-size:.875rem}
+.feedback .teaching-lesson{color:var(--text)}.feedback .teaching-heading{color:var(--ink)}.result-row .symbol-help>summary,.mistake-card .symbol-help>summary{display:list-item;list-style:disclosure-closed}.result-row .symbol-help[open]>summary,.mistake-card .symbol-help[open]>summary{list-style:disclosure-open}
+[data-theme="dark"] .truth-table .truth-focus{background:#2e4030;border-color:#809665}[data-theme="dark"] .truth-true{color:#c3e2a0}[data-theme="dark"] .truth-false{color:#f0b0a1}
+@media(max-width:699px){.teaching-steps>li{padding:.7rem;gap:.55rem}.truth-table th,.truth-table td{padding:.6rem .45rem}.teaching-rules{grid-template-columns:1fr}.question-reading{padding:.8rem}.correct-label{white-space:normal;max-width:5rem}}
+
+/* English questions remain primary; optional Chinese sits directly beneath. */
+.question-language-bar{display:flex;justify-content:space-between;align-items:center;gap:18px;padding:13px 18px;margin:0 0 23px;border:1px solid var(--line);border-radius:11px;background:var(--white);font-size:14px;line-height:1.8}
+.question-language-bar strong{font-size:14px;font-weight:600;margin-right:13px}
+.language-hint{color:var(--muted);font-size:13px}
+.chinese-toggle{display:inline-flex;align-items:center;gap:10px;cursor:pointer;min-height:44px;flex-shrink:0;position:relative;user-select:none;-webkit-user-select:none}
+.chinese-toggle input{position:absolute;opacity:0;width:1px;height:1px}
+.toggle-track{display:inline-block;position:relative;width:42px;height:25px;border-radius:14px;background:#cbd3c3;border:1px solid #a5b099;transition:background .15s}
+.toggle-track::after{content:"";display:block;width:19px;height:19px;background:#fff;border-radius:50%;position:absolute;left:2px;top:2px;box-shadow:0 1px 3px #0002;transition:transform .15s}
+.chinese-toggle input:checked+.toggle-track{background:#426a3d;border-color:#426a3d}
+.chinese-toggle input:checked+.toggle-track::after{transform:translateX(17px)}
+.chinese-toggle input:focus-visible+.toggle-track{outline:3px solid #82aa53;outline-offset:4px}
+.bilingual-copy,.q-en,.q-zh{display:block;min-width:0;overflow-wrap:anywhere}
+.q-en{line-height:1.75;white-space:pre-line}
+.q-zh{margin-top:8px;font-size:.87em;line-height:1.85;font-weight:400;color:var(--muted);white-space:pre-line}
+:root:not([data-show-chinese="true"]) .q-zh{display:none!important}
+.option-copy{flex:1;min-width:0}.option .q-zh{font-size:14px}.question-box h2 .q-zh{font-size:17px}
+.result-question{display:flex;align-items:flex-start;gap:9px;min-width:0}.result-number{flex-shrink:0}.result-question>.bilingual-copy{flex:1}
+.mistake-card h3 .q-zh{font-size:15px}.result-row .q-zh,.mistake-answer .q-zh,.mistake-card details .q-zh{font-size:14px}
+.mistake-answer .bilingual-copy{margin-top:4px}.mistake-answer .q-zh{color:inherit;opacity:.9}
+[data-theme="dark"] .toggle-track{background:#3a4834;border-color:#6a7a5a}
+[data-theme="dark"] .chinese-toggle input:checked+.toggle-track{background:#a5c67b;border-color:#a5c67b}
+[data-theme="dark"] .toggle-track::after{background:#e4edd8}
+[data-theme="dark"] .chinese-toggle input:checked+.toggle-track::after{background:#263821}
+@media(pointer:coarse){.option .q-zh{font-size:15px}.question-language-bar{padding:13px 18px}.chinese-toggle{font-size:15px}.q-en{-webkit-user-select:text;user-select:text}}
+@media(max-width:699px){.question-language-bar{padding:11px 14px;gap:12px}.question-language-bar>div{min-width:0}.language-hint{display:block;font-size:12px}.question-language-bar strong{font-size:14px}.chinese-toggle{gap:8px;font-size:14px}.question-box h2 .q-zh{font-size:16px}.option{align-items:flex-start}.option-letter{margin-top:1px}}
+
+/* Psychology-specific additions; the accepted PHIL study desk is retained. */
+.lecture-tile.pending{background:transparent;border:1px dashed var(--line);min-height:155px}
+.lecture-tile.pending:hover{border-color:var(--muted)}
+.pending-label{float:right;letter-spacing:0;color:var(--muted)}
+.tile-count{margin-top:8px;color:var(--muted)}
+.option-reasons{margin:18px 0 0;border-top:1px solid var(--line);padding-top:15px}
+.option-reasons summary{cursor:pointer;font-weight:600;padding:8px 0;min-height:44px}
+.option-reasons dl{margin:0}.option-reasons dl>div{padding:15px 0;border-bottom:1px solid var(--line)}
+.option-reasons dt{line-height:1.8;font-weight:550}.option-reasons dd{margin:7px 0 0;line-height:1.8;color:var(--muted)}
+.plain-explanation>.simple-label{margin:1rem 0 .45rem;font-size:.875rem;font-weight:600;line-height:1.6;color:var(--muted);letter-spacing:0}
+.mode-card select{width:100%;margin:8px 0 15px;min-height:44px}
+.source-paragraph p{white-space:normal;margin:8px 0 0;line-height:1.9}
+.pill-group{flex-wrap:wrap}.section-line{flex-wrap:wrap}
+@media(max-width:700px){.pill-group{width:100%}.pill-group button{flex:1;min-height:44px;padding:9px 6px;font-size:12px}.page-head h1{font-size:28px}.mode-grid{grid-template-columns:1fr}.lecture-tile{min-height:180px}.question-box h2{overflow-wrap:anywhere}.source-row{gap:12px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+@media(max-width:480px){.lecture-grid,.concept-list{grid-template-columns:1fr}.lecture-tile{min-height:170px}.question-language-bar{flex-wrap:wrap}.quiz-footer .inline-row{justify-content:flex-end}.flashcard .flash-question{font-size:20px}}
+
+</style>
+</head>
+<body>
+  <a href="#main" class="skip">跳到主要内容</a>
+  <div id="app"></div>
+  <dialog id="dialog" aria-labelledby="dialog-title"></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <input type="file" id="import-file" accept="application/json,.json" hidden>
+  <script>
+/*__DATA__*/
+</script>
+  <script>
+/* IME-safe search for the offline PSYC study desk. No dependencies or network. */
+(function (factory) {
+  'use strict';
+  const api = factory();
+  if (typeof module === 'object' && module.exports) module.exports = api;
+  else (typeof window !== 'undefined' ? window : globalThis).PSYC_IME = api;
+})(function () {
+  'use strict';
+
+  function normaliseSearchText(value) {
+    const text = String(value == null ? '' : value);
+    return (typeof text.normalize === 'function' ? text.normalize('NFKC') : text)
+      .toLocaleLowerCase().trim();
+  }
+
+  /*
+   * onSearch MUST update only the results, not the search input or its ancestors.
+   * In particular, never call the application's full shell renderer here.
+   * getValue reads the app's committed query, so externally clearing a filter
+   * does not leave a stale internal de-duplication value in this controller.
+   */
+  function attachImeSearch(options) {
+    const root = options.root;
+    const getInput = options.getInput || (() => root.getElementById('concept-search'));
+    const schedule = options.schedule || ((fn) => setTimeout(fn, 0));
+    const cancel = options.cancel || ((id) => clearTimeout(id));
+    let committed = String(options.initialValue || '');
+    const getValue = options.getValue || (() => committed);
+    let composingInput = null, deferredRender = null, renderTimer = null, blurTimer = null, destroyed = false;
+
+    function cancelBlurFallback() {
+      if (blurTimer !== null) cancel(blurTimer);
+      blurTimer = null;
+    }
+
+    function ownedInput(target) {
+      return !!target && target === getInput() && target.dataset?.input === 'search';
+    }
+
+    function publish(input, reason) {
+      if (!ownedInput(input)) return;
+      // The native input value is authoritative. Never append event.data,
+      // manufacture Chinese text, modify input.value, or refocus while typing.
+      const value = String(input.value == null ? '' : input.value);
+      if (value === String(getValue())) return;
+      committed = value;
+      options.onSearch(value, { reason, input });
+    }
+
+    function settleDeferredRender() {
+      if (!deferredRender || renderTimer !== null || composingInput) return;
+      // A later task accommodates browsers whose final input event follows
+      // compositionend. Search itself is synchronous and never waits on this.
+      renderTimer = schedule(() => {
+        renderTimer = null;
+        if (destroyed || composingInput || !deferredRender) return;
+        const render = deferredRender;
+        deferredRender = null;
+        const oldInput = getInput(), focused = oldInput && root.activeElement === oldInput;
+        const selection = oldInput ? {
+          start: oldInput.selectionStart, end: oldInput.selectionEnd,
+          direction: oldInput.selectionDirection || 'none'
+        } : null;
+        render();
+        // This applies only to a separately requested full render (for example
+        // a viewport or storage update), never to ordinary search input.
+        const nextInput = getInput();
+        if (focused && nextInput && nextInput !== oldInput) {
+          nextInput.focus({ preventScroll: true });
+          if (selection && Number.isInteger(selection.start) && Number.isInteger(selection.end)) {
+            try { nextInput.setSelectionRange(selection.start, selection.end, selection.direction); }
+            catch (_) { /* Some input types do not expose a caret API. */ }
+          }
+        }
+      });
+    }
+
+    function start(event) {
+      if (ownedInput(event.target)) { cancelBlurFallback(); composingInput = event.target; }
+    }
+    function beforeInput(event) {
+      // A fallback for mobile keyboards which omit compositionstart but still
+      // mark beforeinput/input as composing.
+      if (ownedInput(event.target) && event.isComposing) { cancelBlurFallback(); composingInput = event.target; }
+    }
+    function input(event) {
+      if (!ownedInput(event.target)) return;
+      if (event.isComposing) { cancelBlurFallback(); composingInput = event.target; return; }
+      // WebKit can report isComposing=false on a preedit input. The explicit
+      // composition session is therefore also checked.
+      if (composingInput === event.target) return;
+      publish(event.target, 'input');
+    }
+    function end(event) {
+      if (composingInput === event.target) cancelBlurFallback();
+      if (!ownedInput(event.target)) {
+        if (composingInput === event.target) composingInput = null;
+        settleDeferredRender();
+        return;
+      }
+      if (composingInput === event.target) composingInput = null;
+      publish(event.target, 'compositionend');
+      // A following identical final input is naturally de-duplicated. If a
+      // browser updates the value after this event, that input publishes it.
+      settleDeferredRender();
+    }
+    function blur(event) {
+      if (composingInput !== event.target) return;
+      cancelBlurFallback();
+      const input = event.target;
+      // Some mobile engines send blur before their final compositionend/input.
+      // Keep the session and node protected through that event sequence. If no
+      // ending event arrives, settle the keyboard session on the next task.
+      blurTimer = schedule(() => {
+        blurTimer = null;
+        if (destroyed || composingInput !== input) return;
+        composingInput = null;
+        publish(input, 'blur');
+        settleDeferredRender();
+      });
+    }
+
+    const listeners = [
+      ['compositionstart', start, false], ['beforeinput', beforeInput, false],
+      ['input', input, false], ['compositionend', end, false], ['blur', blur, true]
+    ];
+    for (const [type, fn, capture] of listeners) root.addEventListener(type, fn, capture);
+
+    return {
+      isComposing: () => !!composingInput,
+      shouldIgnoreShortcut: (event) => !!composingInput || event.isComposing === true ||
+        event.keyCode === 229 || event.which === 229 || event.key === 'Process',
+      deferRender(render) {
+        if (!composingInput) return false;
+        deferredRender = render;
+        return true;
+      },
+      destroy() {
+        destroyed = true;
+        for (const [type, fn, capture] of listeners) root.removeEventListener(type, fn, capture);
+        if (renderTimer !== null) cancel(renderTimer);
+        cancelBlurFallback();
+        composingInput = null;
+        deferredRender = null;
+      }
+    };
+  }
+
+  return { attachImeSearch, normaliseSearchText };
+});
+
+/* PSYC1004 Offline Study Desk — no network, dependencies or accounts. */
+(() => {
+'use strict';
+const D=window.PSYC_DATA;
+if(!D?.lectures?.length){document.getElementById('app').innerHTML='<p class="loading">内容未能载入。请使用完整的「PSYC1004期末复习.html」离线文件。</p>';return;}
+const KEY='psyc1004.study.v1', VERSION=1;
+const THEME_KEY='psyc1004.theme.v1',systemTheme=matchMedia('(prefers-color-scheme: dark)');
+let themePreference='system';
+try{const saved=localStorage.getItem(THEME_KEY);if(['light','dark','system'].includes(saved))themePreference=saved;}catch{}
+function applyTheme(){const dark=themePreference==='dark'||themePreference==='system'&&systemTheme.matches;document.documentElement.dataset.theme=dark?'dark':'light';document.documentElement.style.colorScheme=dark?'dark':'light';document.querySelector('meta[name="theme-color"]')?.setAttribute('content',dark?'#141c19':'#f4f5ef');document.querySelectorAll('[data-change="theme"]').forEach(el=>el.value=themePreference);}
+function setTheme(mode){if(!['light','dark','system'].includes(mode))return;themePreference=mode;applyTheme();try{localStorage.setItem(THEME_KEY,mode);}catch{toast('显示模式仅对本次生效：浏览器未允许保存设置。');}}
+function themePicker(){return `<label class="theme-picker"><span class="visually-hidden">显示模式</span><select data-change="theme" aria-label="显示模式"><option value="light" ${themePreference==='light'?'selected':''}>日间模式</option><option value="dark" ${themePreference==='dark'?'selected':''}>夜间模式</option><option value="system" ${themePreference==='system'?'selected':''}>跟随系统</option></select></label>`;}
+if(systemTheme.addEventListener)systemTheme.addEventListener('change',applyTheme);else systemTheme.addListener(applyTheme);
+applyTheme();
+const CHINESE_KEY='psyc1004.showChinese.v1';
+let showChinese=false;
+try{showChinese=localStorage.getItem(CHINESE_KEY)==='true';}catch{}
+function applyQuestionLanguage(){document.documentElement.dataset.showChinese=String(showChinese);document.querySelectorAll('[data-change="show-chinese"]').forEach(el=>el.checked=showChinese);}
+function setQuestionLanguage(value){if(typeof value!=='boolean')return;showChinese=value;applyQuestionLanguage();try{localStorage.setItem(CHINESE_KEY,String(value));}catch{toast('中文显示设置仅对本次生效：浏览器未允许保存。');}}
+function questionLanguageBar(){return `<div class="question-language-bar"><div><strong>题目与选项</strong><span class="language-hint">英文始终显示 · 中文在下方对照</span></div><label class="chinese-toggle"><input type="checkbox" data-change="show-chinese" ${showChinese?'checked':''} aria-label="显示中文翻译"><span class="toggle-track" aria-hidden="true"></span><span>显示中文</span></label></div>`;}
+function bilingualText(en,zh){const english=en||zh,duplicate=String(english).replace(/\s+/g,'')===String(zh).replace(/\s+/g,'');return `<span class="bilingual-copy"><span class="q-en" lang="en">${esc(english)}</span>${duplicate?'':`<span class="q-zh" lang="zh-CN">${esc(zh)}</span>`}</span>`;}
+function questionText(q){return bilingualText(q.stemEn,q.stem);}
+function optionText(q,index){return index===null||index===undefined?bilingualText('Not answered','未作答'):bilingualText(q.optionsEn?.[index],q.options[index]);}
+applyQuestionLanguage();
+const concepts=D.lectures.flatMap(l=>l.concepts.map(c=>({...c,lectureId:l.id}))), questions=D.lectures.flatMap(l=>l.questions.map(q=>({...q,lectureId:l.id})));
+const CM=Object.assign(Object.create(null),Object.fromEntries(concepts.map(c=>[c.id,c]))),QM=Object.assign(Object.create(null),Object.fromEntries(questions.map(q=>[q.id,q]))),LM=Object.assign(Object.create(null),Object.fromEntries(D.lectures.map(l=>[l.id,l])));
+const paths={home:'M3 10l9-7 9 7v10H3z M9 20v-7h6v7',book:'M12 5v16 M3 3h5c3 0 4 2 4 2s1-2 4-2h5v16h-5c-3 0-4 2-4 2s-1-2-4-2H3z',cards:'M7 3h14v16H7z M3 7v14h14',quiz:'M9 3H5v18h14V3h-4 M9 2h6v4H9z M9 11h6 M9 16h6',mistakes:'M5 3h14v18l-7-4-7 4z M9 8l6 6 M15 8l-6 6',settings:'M4 6h16 M4 12h16 M4 18h16 M8 3v6 M16 9v6 M10 15v6',arrow:'M4 12h16 M14 6l6 6-6 6',download:'M12 3v12 M7 10l5 5 5-5 M4 17v4h16v-4',upload:'M12 16V4 M7 9l5-5 5 5 M4 17v4h16v-4',search:'M10 18a8 8 0 1 1 0-16 8 8 0 0 1 0 16 M16 16l6 6',check:'M4 12l5 5L20 6',clock:'M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20 M12 6v6l4 2',info:'M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20 M12 10v7 M12 6v1',menu:'M4 6h16 M4 12h16 M4 18h16',close:'M5 5l14 14 M19 5L5 19',refresh:'M20 8A9 9 0 1 0 21 15 M20 2v6h-6',spark:'M12 2l3 7 7 3-7 3-3 7-3-7-7-3 7-3z',chart:'M4 20V10 M12 20V4 M20 20v-7'};
+const icon=(name)=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${paths[name]||paths.book}"/></svg>`;
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const pct=(n,d)=>d?Math.round(n/d*100):0;
+const date=ms=>new Date(ms).toLocaleDateString('zh-CN',{month:'short',day:'numeric'});
+const today=()=>{const n=new Date();return `${n.getFullYear()}-${String(n.getMonth()+1).padStart(2,'0')}-${String(n.getDate()).padStart(2,'0')}`;};
+const fresh=()=>({version:VERSION,concepts:{},questions:{},days:[],quiz:null,lastConcept:null,updatedAt:0});
+let storageError='',S=fresh(),view='home',scope='all',lecture='all',search='',reviewFilter='all',selected=null,mobileOpen=false,cardDeck=[],cardIndex=0,flipped=false,cardFilter='all',mistakeFilter='active',quizDraft=null,quizCount='10',quizDifficulty='all',quizPool='all',quizSource='all',toastTimer,mockMinutes='40',finalMinutes='120';
+let searchInputController=null;
+function validate(raw){
+ if(!raw||typeof raw!=='object'||raw.version!==VERSION||!raw.concepts||!raw.questions||!Array.isArray(raw.days))throw Error('备份格式或版本不匹配');
+ const s=fresh(),num=(v,max=1e12)=>typeof v==='number'&&Number.isFinite(v)&&v>=0&&v<=max;
+ for(const [id,c]of Object.entries(raw.concepts)){if(!Object.hasOwn(CM,id))continue;if(!c||typeof c!=='object')throw Error('知识卡记录损坏');s.concepts[id]={known:c.known===true,star:c.star===true,reviews:num(c.reviews)?Math.floor(c.reviews):0,due:num(c.due,1e14)?c.due:0,last:num(c.last,1e14)?c.last:0,rating:['again','hard','good'].includes(c.rating)?c.rating:null};}
+ for(const [id,q]of Object.entries(raw.questions)){if(!Object.hasOwn(QM,id))continue;if(!q||typeof q!=='object'||!num(q.attempts)||!num(q.correct)||q.correct>q.attempts)throw Error('答题计数损坏');s.questions[id]={attempts:Math.floor(q.attempts),correct:Math.floor(q.correct),errors:num(q.errors)?Math.floor(q.errors):q.attempts-q.correct,resolved:q.resolved===true,last:num(q.last,1e14)?q.last:0,lastWrong:num(q.lastWrong,1e14)?q.lastWrong:0,lastAnswer:Number.isInteger(q.lastAnswer)&&q.lastAnswer>=0&&q.lastAnswer<4?q.lastAnswer:null,lastWrongAnswer:Number.isInteger(q.lastWrongAnswer)&&q.lastWrongAnswer>=0&&q.lastWrongAnswer<4?q.lastWrongAnswer:null};}
+ s.days=[...new Set(raw.days.filter(x=>typeof x==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(x)))].slice(-3660);s.lastConcept=typeof raw.lastConcept==='string'&&Object.hasOwn(CM,raw.lastConcept)?raw.lastConcept:null;s.updatedAt=num(raw.updatedAt,1e14)?raw.updatedAt:0;
+ if(raw.quiz){const q=raw.quiz;if(!Array.isArray(q.ids)||!q.ids.length||q.ids.length>questions.length||new Set(q.ids).size!==q.ids.length||q.ids.some(id=>typeof id!=='string'||!Object.hasOwn(QM,id))||!['practice','mock'].includes(q.mode)||!q.answers||!q.order||(q.mode==='mock'&&!num(q.deadline,1e14)))throw Error('练习记录损坏');const orders={},answers={},recorded={};for(const id of q.ids){const a=q.order[id];if(!Array.isArray(a)||a.length!==4||new Set(a).size!==4||a.some(x=>!Number.isInteger(x)||x<0||x>3))throw Error('选项顺序损坏');orders[id]=a;const ans=q.answers[id];if(ans!==undefined){if(!Number.isInteger(ans)||ans<0||ans>3)throw Error('答案记录损坏');answers[id]=ans;}if(q.recorded?.[id]===true&&ans!==undefined)recorded[id]=true;}s.quiz={ids:q.ids,mode:q.mode,final:q.final===true,answers,order:orders,recorded,index:Number.isInteger(q.index)&&q.index>=0&&q.index<q.ids.length?q.index:0,completed:q.completed===true,start:num(q.start,1e14)?q.start:Date.now(),deadline:q.mode==='mock'&&num(q.deadline,1e14)?q.deadline:null};}
+ return s;
+}
+try{const raw=localStorage.getItem(KEY);if(raw)S=validate(JSON.parse(raw));localStorage.setItem(KEY,JSON.stringify(S));}catch(e){storageError='本机存储不可用或旧进度无法读取。当前仍可学习，请及时导出备份。';}
+function save(){S.updatedAt=Date.now();try{localStorage.setItem(KEY,JSON.stringify(S));storageError='';}catch(e){storageError='进度未能写入本机，请立即导出备份；不要关闭页面。';}const status=document.getElementById('save-status');if(status){status.textContent=storageError?'保存失败 · 请导出':'本机已保存';status.classList.toggle('label-danger',!!storageError);}}
+function studied(){const d=today();if(!S.days.includes(d))S.days.push(d);}
+function toast(msg){const el=document.getElementById('toast');el.textContent=msg;el.classList.add('visible');clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove('visible'),3500);}
+function btn(text,action,extra='',klass=''){return `<button class="button ${klass}" data-action="${action}" ${extra}>${text}</button>`;}
+function empty(title,desc,action=''){return `<div class="empty">${icon('book')}<h2>${title}</h2><p>${desc}</p>${action}</div>`;}
+function scopeMatches(id){return scope==='all'||(scope==='social'&&id<=4)||(scope==='developmental'&&id>=5&&id<=8)||(scope==='personality'&&id>=9);}
+function scopedLectures(){return D.lectures.filter(l=>scopeMatches(l.id));}
+function inScope(item){return scopeMatches(item.lectureId)&&(lecture==='all'||item.lectureId===Number(lecture));}
+function activeMistakes(){return questions.filter(q=>S.questions[q.id]?.errors&&!S.questions[q.id].resolved);}
+function dueCards(){return concepts.filter(c=>!S.concepts[c.id]?.due||S.concepts[c.id].due<=Date.now());}
+function conceptStat(c){return S.concepts[c.id]||(S.concepts[c.id]={known:false,star:false,reviews:0,due:0,last:0,rating:null});}
+function scopeSwitch(){return `<div class="pill-group" aria-label="复习范围">${[['all','已收录全部'],['social','社会心理学'],['developmental','发展心理学'],['personality','人格心理学']].map(([value,label])=>`<button data-action="scope" data-value="${value}" class="${scope===value?'active':''}" aria-pressed="${scope===value}">${label}</button>`).join('')}</div>`;}
+function lectureSelect(id='lecture-filter'){return `<label class="visually-hidden" for="${id}">周次筛选</label><select id="${id}" data-change="lecture"><option value="all">当前范围全部周次</option>${scopedLectures().map(l=>`<option value="${l.id}" ${lecture===String(l.id)?'selected':''}>第 ${l.id} 周 · ${esc(l.title)}</option>`).join('')}</select>`;}
+function pageHead(title,subtitle,right='',eyebrow='PSYC1004 / FINAL REVIEW'){return `<div class="page-head"><div><div class="eyebrow">${eyebrow}</div><h1>${title}</h1><p class="subtitle">${subtitle}</p></div>${right}</div>`;}
+function shell(){if(searchInputController?.deferRender(shell))return;document.body.classList.toggle('nav-open',mobileOpen);const nav=[['home','home','学习总览'],['review','book','知识点复习'],['symbols','info','研究方法与术语'],['cards','cards','知识卡'],['quiz','quiz','选择题练习'],['mistakes','mistakes','错题集']];document.getElementById('app').innerHTML=`<aside class="sidebar ${mobileOpen?'open':''}" aria-label="主导航"><button class="nav-close icon-button" data-action="menu" aria-label="关闭导航">${icon('close')}</button><div class="brand"><div class="brand-mark">${icon('book')}</div><div><strong>PSYC1004</strong><small>STUDY DESK</small></div></div><div class="nav-caption">学习空间</div><nav class="nav">${nav.map(([v,i,t])=>`<button data-action="nav" data-view="${v}" class="${v===view?'active':''}" ${v===view?'aria-current="page"':''}>${icon(i)}<span>${t}</span>${v==='mistakes'?`<span class="badge">${activeMistakes().length}</span>`:v==='cards'?`<span class="badge">${concepts.length}</span>`:''}</button>`).join('')}</nav><div class="side-bottom"><div class="nav"><button data-action="nav" data-view="settings" class="${view==='settings'?'active':''}">${icon('settings')}<span>备份与资料</span></button></div><div class="side-note"><strong><span class="dot"></span>本地学习，本机保存</strong>不上传笔记 · 可导出备份<br>建议每次复习后导出备份</div></div></aside><div class="shell"><header class="topbar"><div class="inline-row"><button class="icon-button menu-button" data-action="menu" aria-label="打开或关闭导航" aria-expanded="${mobileOpen}">${icon('menu')}</button><div class="breadcrumb">期末复习<span>/</span>${nav.find(n=>n[0]===view)?.[2]||'备份与资料'}</div></div><div class="top-actions">${themePicker()}<span class="small muted save-label"><span class="status-dot"></span><span id="save-status" class="${storageError?'label-danger':''}">${storageError?'保存异常':'本机已保存'}</span></span>${btn(icon('download')+'导出备份','export','','secondary compact')}</div></header><main id="main" tabindex="-1">${storageError?`<div class="notice warning" role="alert">${icon('info')}<p>${esc(storageError)}</p></div>`:''}${renderView()}</main></div>`;syncDrawer();updateTimer();}
+function renderView(){return({home:homeView,review:reviewView,symbols:symbolsView,cards:cardsView,quiz:quizView,mistakes:mistakesView,settings:settingsView}[view]||homeView)();}
+function homeView(){
+ const cs=concepts.filter(c=>scopeMatches(c.lectureId)),known=cs.filter(c=>S.concepts[c.id]?.known).length;
+ const st=Object.values(S.questions),attempts=st.reduce((n,q)=>n+q.attempts,0),correct=st.reduce((n,q)=>n+q.correct,0);
+ const weak=scopedLectures().map(l=>{const qs=l.questions.map(q=>S.questions[q.id]).filter(Boolean);return {...l,attempts:qs.reduce((n,q)=>n+q.attempts,0),right:qs.reduce((n,q)=>n+q.correct,0)};}).filter(l=>l.attempts).sort((a,b)=>a.right/a.attempts-b.right/b.attempts).slice(0,3);
+ const tiles=Array.from({length:D.plannedWeeks},(_,i)=>i+1).filter(scopeMatches).map(id=>{
+  const l=LM[id];
+  if(!l)return `<button class="lecture-tile pending" data-action="pending-week" data-id="${id}"><div class="lecture-tag">WEEK ${String(id).padStart(2,'0')} <span class="pending-label">待更新</span></div><h3>第 ${id} 周</h3><p>收到新 Lecture 后加入知识点和题库。</p><div class="tile-progress"><span>尚未收录 · 不计入复习统计</span></div></button>`;
+  const n=l.concepts.filter(c=>S.concepts[c.id]?.known).length;
+  return `<button class="lecture-tile" data-action="open-lecture" data-id="${l.id}"><div class="lecture-tag">WEEK ${String(l.id).padStart(2,'0')} <span class="tile-arrow">↗</span></div><h3>${esc(l.title)}</h3><p>${esc(l.subtitle)}</p><div class="tile-progress"><div class="progress"><i style="width:${pct(n,l.concepts.length)}%"></i></div><span>${n}/${l.concepts.length}</span></div><small class="tile-count">${l.questions.length} 道练习题</small></button>`;
+ }).join('');
+ return pageHead('期末复习台','先看懂，再回忆，最后用题目检查。',btn('开始 10 题练习 '+icon('arrow'),'quick-quiz'))+
+ `<div class="notice">${icon('info')}<p><strong>已收录 ${D.lectures.length} / ${D.plannedWeeks} 周。</strong> ${D.lectures.length<D.plannedWeeks?'未收录周次保留更新入口，不混入题库。':''}期末共 80 道单选（社会 20 · 发展 30 · 人格 30），可在「选择题练习」做同结构的期末模拟；题库含教授发布的练习题。<button data-action="exam-info">查看内容与更新说明</button></p></div>
+ <div class="stats"><div class="stat"><div class="stat-top">已掌握知识点${icon('book')}</div><div class="stat-value">${known}<span>/ ${cs.length}</span></div><div class="stat-foot">当前复习范围 · 自评掌握</div></div><div class="stat"><div class="stat-top">累计答题正确率${icon('chart')}</div><div class="stat-value">${attempts?pct(correct,attempts)+'%':'—'}</div><div class="stat-foot">已作答 ${attempts} 次，含重练</div></div><div class="stat"><div class="stat-top">待巩固错题${icon('mistakes')}</div><div class="stat-value">${activeMistakes().length}<span>道</span></div><div class="stat-foot">重做答对后自动归档</div></div><div class="stat"><div class="stat-top">学习天数${icon('clock')}</div><div class="stat-value">${S.days.length}<span>天</span></div><div class="stat-foot">${S.days.includes(today())?'今天已有学习记录':'从一个知识点开始'}</div></div></div>
+ <div class="home-grid"><section><div class="section-line"><h2>12 周复习地图</h2>${scopeSwitch()}</div><div class="lecture-grid">${tiles}</div><p class="scope-hint">按你提供的 L1–L9 文件编号对应周次。课堂补讲内容保留其原有归属；出处可返回原笔记文字。</p></section><aside class="home-aside"><section class="study-panel"><div class="eyebrow">ACTIVE RECALL / 主动回忆</div><h2>先试着回答，<br>再翻开知识卡。</h2><p>每张卡都能回到概念、生活例子和易错点。</p>${btn('开始知识卡 '+icon('arrow'),'start-cards','','lime')}<div class="panel-divider"><div class="small">${dueCards().filter(c=>scopeMatches(c.lectureId)).length} 张待复习或尚未学习</div><p class="no-margin small">根据你的自评安排下次回顾。</p></div></section><section class="focus-list"><h3>${weak.length?'可以再练一遍':'建议的复习顺序'}</h3>${(weak.length?weak:scopedLectures().slice(0,3)).map(l=>`<div class="focus-item"><button data-action="open-lecture" data-id="${l.id}">第 ${l.id} 周 · ${esc(l.title)}</button><span class="small muted">${weak.length?pct(l.right,l.attempts)+'%':'↗'}</span></div>`).join('')}<p class="small muted no-margin" style="padding-top:13px">${weak.length?'按累计作答排序，不是考试能力评级。':'比较概念，再用具体情境检查自己是否会区分。'}</p></section></aside></div>
+ <div class="footer-note">${concepts.length} 个知识点 / 知识卡 · ${questions.length} 道自编单选题 · ${D.lectures.length} 讲资料 · 版本 ${esc(D.contentVersion)}</div>`;
+}
+function filteredConcepts(){const s=window.PSYC_IME.normaliseSearchText(search);return concepts.filter(c=>inScope(c)&&(!s||window.PSYC_IME.normaliseSearchText([c.title,c.english,c.oneLine,c.analogy,c.simpleExample,c.explanation,c.example,c.pitfall,JSON.stringify(c.lesson||{})].join(' ')).includes(s))&&(reviewFilter==='all'||reviewFilter==='star'&&S.concepts[c.id]?.star||reviewFilter==='unknown'&&!S.concepts[c.id]?.known));}
+function relevantSymbols(text){const t=String(text||'');const tests={correlation:/相关|correlation|\br[\s=（(]/i,causation:/因果|causation|causal/i,moderator:/调节|moderator/i,mediator:/中介|mediator/i,heritability:/遗传率|heritability|h²/i,mz:/MZ|同卵/i,dz:/DZ|异卵/i,percentage:/%|％|百分比/,average:/平均|average|mean|群体趋势/i,cohort:/世代|队列|cohort/i,operational:/操作化|operational/i};return (D.symbols||[]).filter(s=>tests[s.id]?.test(t));}
+function symbolRows(items){return `<dl class="symbol-list">${items.map(s=>`<div class="symbol-row"><dt><span class="symbol-mark">${esc(s.symbol)}</span><strong>${esc(s.name)}</strong></dt><dd><p>${esc(s.meaning)}</p><p class="symbol-example">${esc(s.example)}</p></dd></div>`).join('')}</dl>`;}
+function symbolDetails(text,title='这些符号怎么读？'){
+ const found=relevantSymbols(text);return found.length?`<details class="symbol-help"><summary>${esc(title)}<span class="symbol-count">${found.length} 项</span></summary>${symbolRows(found)}</details>`:'';
+}
+function formulaBlocks(items){return (items||[]).map(f=>`<details class="formula-help"><summary>公式逐句读 <span class="formula-inline">${esc(f.formula)}</span></summary><div class="formula-body"><p class="formula-reading">${esc(f.reading)}</p><ol>${(f.steps||[]).map(s=>`<li>${esc(s)}</li>`).join('')}</ol>${symbolDetails([f.formula,f.reading,...(f.steps||[])].join(' '),'逐个查看公式中的符号')}</div></details>`).join('');}
+function symbolsView(){const groups=[...new Set((D.symbols||[]).map(s=>s.group))];return pageHead('研究方法与术语','先弄清测量了什么，再判断研究能说明什么。')+`<div class="symbols-page"><div class="notice"><p><strong>相关不自动等于因果。</strong> 比较不同年龄的人，不等于已经追踪了同一个人的变化；群体平均趋势，也不等于每个人都一样。</p></div><div class="symbol-jumps">${groups.map((g,i)=>`<a href="#symbol-group-${i}">${esc(g)}</a>`).join('')}<a href="#formula-guide">遗传率公式怎么读</a></div>${groups.map((g,i)=>`<section class="symbol-section" id="symbol-group-${i}"><h2>${esc(g)}</h2>${symbolRows((D.symbols||[]).filter(s=>s.group===g))}</section>`).join('')}<section class="symbol-section" id="formula-guide"><h2>遗传率公式怎么读</h2><p>这是简化的双生子估算方法，不是在算“某个人有多少来自基因”。</p>${formulaBlocks(D.formulas)}</section></div>`;}
+function teachingCell(value){
+ const s=String(value),t=/^(?:T|真\s*[（(]?T[）)]?|真)$/.test(s),f=/^(?:F|假\s*[（(]?F[）)]?|假)$/.test(s);
+ return t||f?`<span class="truth-value ${t?'truth-true':'truth-false'}">${t?'真':'假'} <small>(${t?'T':'F'})</small></span>`:esc(s);
+}
+function teachingTable(table){
+ if(!table)return '';
+ const highlighted=new Set(table.highlightColumns||[]);
+ return `<div class="truth-table-block"><p class="table-reading-hint">每一行单独看；公式列显示这一行的计算结果。表格较宽时可左右滑动。</p><div class="truth-table-scroll" role="region" aria-label="${esc(table.caption||'分步真值表')}" tabindex="0"><table class="truth-table"><caption>${esc(table.caption||'分步真值表')}</caption><thead><tr><th scope="col">行</th>${table.columns.map((c,i)=>`<th scope="col" class="${highlighted.has(i)?'truth-focus':''}">${esc(c)}</th>`).join('')}</tr></thead><tbody>${table.rows.map((row,r)=>`<tr><th class="truth-row-label" scope="row">${r+1}</th>${row.map((v,c)=>`<td class="${highlighted.has(c)?'truth-focus':''}">${teachingCell(v)}</td>`).join('')}</tr>`).join('')}</tbody></table></div></div>`;
+}
+function teachingSteps(steps){return (steps||[]).length?`<ol class="teaching-steps">${steps.map(s=>`<li><div><strong>${esc(s.title.replace(/^\d+[.．、]\s*/,''))}</strong><p>${esc(s.text)}</p></div></li>`).join('')}</ol>`:'';}
+function teachingLesson(lesson,title,tableFirst=false){
+ if(!lesson)return '';
+ return `<section class="teaching-lesson" aria-label="${esc(title)}"><h3 class="teaching-heading">${esc(title)}</h3>${lesson.intro?`<p class="teaching-intro">${esc(lesson.intro)}</p>`:''}${lesson.formula?`<div class="teaching-formula">${esc(lesson.formula)}</div>`:''}${lesson.rules?.length?`<div class="teaching-rules">${lesson.rules.map(r=>`<div class="teaching-rule"><strong><span class="rule-symbol">${esc(r.symbol)}</span>${esc(r.name)}</strong><p>${esc(r.rule)}</p>${r.example?`<p class="rule-example">${esc(r.example)}</p>`:''}</div>`).join('')}</div>`:''}${tableFirst?teachingTable(lesson.table):''}${teachingSteps(lesson.steps)}${tableFirst?'':teachingTable(lesson.table)}${lesson.takeaway?`<p class="teaching-takeaway"><strong>记住这一点：</strong>${esc(lesson.takeaway)}</p>`:''}</section>`;
+}
+function l6ConceptUnderstanding(c){return `<section class="one-sentence"><h3 class="simple-label">一句话先懂</h3><p>${esc(c.oneLine)}</p></section>${teachingLesson(c.lesson,'一步一步看懂')}${formulaBlocks(c.formulaHelp)}<details class="teaching-stories"><summary>再看生活比喻与例子</summary><h3>换个熟悉的说法</h3><p>${esc(c.analogy)}</p><h3>用这个例子想一想</h3><p>${esc(c.simpleExample)}</p></details>${symbolDetails([c.oneLine,c.front,c.cardBack,JSON.stringify(c.lesson)].join(' '),'逐个查看术语含义')}<details class="concept-deeper"><summary>补充说明、易错点与笔记出处</summary><div class="deeper-content"><h3 class="simple-label">补充说明</h3><p>${esc(c.explanation)}</p><h3 class="simple-label">容易混淆的地方</h3><p class="pitfall">${esc(c.pitfall)}</p><div class="source">${esc(c.source)}<br><button data-action="source" data-id="${c.id}">查看原笔记对应段落</button></div></div></details>`;}
+function questionReading(q){return q.questionGuide?`<aside class="question-reading" aria-label="用中文读懂题目"><h3>这道题在问什么？</h3>${q.questionGuide.intro?`<p>${esc(q.questionGuide.intro)}</p>`:''}${teachingSteps(q.questionGuide.steps)}</aside>`:'';}
+
+function conceptUnderstanding(c){if(c.lesson)return l6ConceptUnderstanding(c);return `<div class="concept-short" aria-label="概念快速理解"><section class="one-sentence"><h3 class="simple-label">一句话理解</h3><p>${esc(c.oneLine||c.back)}</p></section><section class="simple-story analogy-story"><h3 class="simple-label">打个比方</h3><p>${esc(c.analogy||c.example)}</p></section><section class="simple-story example-story"><h3 class="simple-label">看个例子</h3><p>${esc(c.simpleExample||c.example)}</p></section></div>${formulaBlocks(c.formulaHelp)}${symbolDetails([c.oneLine,c.analogy,c.simpleExample,c.front,c.cardBack].join(' '),'相关术语怎么理解？')}<details class="concept-deeper"><summary>展开解释、易错点与出处</summary><div class="deeper-content"><h3 class="simple-label">再解释一下</h3><p>${esc(c.explanation)}</p><h3 class="simple-label">别混淆</h3><p class="pitfall">${esc(c.pitfall)}</p>${symbolDetails([c.explanation,c.example,c.pitfall].join(' '),'相关术语怎么理解？')}<div class="source">${esc(c.source)}<br><button data-action="source" data-id="${c.id}">查看对应课程资料 ↗</button></div></div></details>`;}
+function sourceMatches(q){return quizSource==='all'||(quizSource==='review'?q.origin==='review':q.origin!=='review');} function originLabel(q){return q.origin==='review'?'教授练习题':q.origin==='weekly'?'每周 Quiz 改编':'笔记自编';}
+/* 正式考试结构：80 道单选，社会 20 · 发展 30 · 人格 30；从全部已收录题目中抽，按部分顺序排列 */
+const FINAL_PLAN=[['social','社会心理学',20],['developmental','发展心理学',30],['personality','人格心理学',30]];
+function finalSample(){return FINAL_PLAN.flatMap(([d,,n])=>balancedSample(questions.filter(q=>q.domain===d),n)).map(q=>q.id);}
+function finalBreakdown(run){return FINAL_PLAN.map(([d,label])=>{const ids=run.ids.filter(id=>QM[id].domain===d),ok=ids.filter(id=>run.answers[id]===QM[id].answer).length;return {label,ok,total:ids.length};});}
+function questionTable(q){const t=q.table;if(!t)return '';return `<div class="question-table-wrap"><table class="question-data"><caption>${bilingualText(t.captionEn,t.caption)}</caption><thead><tr>${t.headersEn.map((h,i)=>`<th scope="col">${bilingualText(h,t.headers[i])}</th>`).join('')}</tr></thead><tbody>${t.rowsEn.map((row,i)=>`<tr>${row.map((v,j)=>j===0?`<th scope="row">${bilingualText(v,t.rows[i][j])}</th>`:`<td>${esc(v)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;}
+function questionExplanation(q){return `<div class="plain-explanation"><h3 class="simple-label">为什么选这个答案？</h3><p class="answer-reason">${esc(q.explanation)}</p>${q.optionExplanations?.length?`<details class="option-reasons"><summary>逐项看：对在哪，错在哪？</summary><dl>${q.options.map((text,i)=>`<div><dt>${bilingualText(q.optionsEn?.[i],text)}${i===q.answer?' <span class="check">✓ 正确</span>':''}</dt><dd>${esc(q.optionExplanations[i])}</dd></div>`).join('')}</dl></details>`:''}${symbolDetails([q.stem,q.stemEn,q.explanation,...q.options].join(' '),'相关术语怎么理解？')}</div>`;}
+function reviewResults(){const list=filteredConcepts();if(!list.some(c=>c.id===selected))selected=list[0]?.id||null;const c=CM[selected];return `<div class="content-count">找到 ${list.length} 个知识点</div>${!c?empty('没有匹配的知识点','试试其他关键词，或切换到已收录的全部周次。',btn('清除筛选','clear-filters','','secondary')):`<div class="review-layout"><nav class="concept-list" aria-label="知识点列表">${list.map(n=>`<button class="concept-button ${c.id===n.id?'active':''}" data-action="concept" data-id="${n.id}" ${c.id===n.id?'aria-current="true"':''}><strong>${S.concepts[n.id]?.known?'<span class="known" aria-label="已掌握">✓</span>':''}${esc(n.title)}</strong><small>L${n.lectureId} · ${esc(n.english)}</small></button>`).join('')}</nav><article class="detail"><div class="eyebrow">LECTURE ${String(c.lectureId).padStart(2,'0')} / CONCEPT</div><div class="detail-head"><div><h2>${esc(c.title)}</h2><div class="english">${esc(c.english)}</div></div><button class="star ${S.concepts[c.id]?.star?'on':''}" data-action="star" data-id="${c.id}" aria-label="${S.concepts[c.id]?.star?'取消收藏':'收藏知识点'}" aria-pressed="${!!S.concepts[c.id]?.star}">${S.concepts[c.id]?.star?'★':'☆'}</button></div>${conceptUnderstanding(c)}<div class="detail-actions">${btn(S.concepts[c.id]?.known?icon('check')+'已掌握 · 撤销':'标记为已掌握','known',`data-id="${c.id}"`,S.concepts[c.id]?.known?'ghost':'')}${btn('练习相关题目','concept-quiz',`data-id="${c.id}"`,'secondary')}${btn('下一知识点 →','next-concept',`data-id="${c.id}"`,'secondary')}</div></article></div>`}`;}
+function refreshReviewResults(){if(view!=='review')return;const results=document.getElementById('review-results');if(results)results.innerHTML=reviewResults();}
+function reviewView(){return pageHead('知识点复习','先看一句话解释，再用比喻和例子理解。详细说明、易错点和出处可以展开查看。',scopeSwitch())+`<div class="toolbar"><div class="search">${icon('search')}<input id="concept-search" data-input="search" type="search" value="${esc(search)}" placeholder="搜索概念、英文术语或案例…" aria-label="搜索知识点"></div>${lectureSelect()}<label class="visually-hidden" for="review-filter">掌握状态</label><select id="review-filter" data-change="review-filter"><option value="all" ${reviewFilter==='all'?'selected':''}>全部知识点</option><option value="unknown" ${reviewFilter==='unknown'?'selected':''}>尚未掌握</option><option value="star" ${reviewFilter==='star'?'selected':''}>我的收藏</option></select></div><div id="review-results">${reviewResults()}</div>`;}
+function resetDeck(){cardDeck=concepts.filter(c=>inScope(c)&&(cardFilter==='all'||cardFilter==='due'&&(!S.concepts[c.id]?.due||S.concepts[c.id].due<=Date.now())||cardFilter==='star'&&S.concepts[c.id]?.star)).map(c=>c.id);cardIndex=0;flipped=false;}
+function cardsView(){const c=CM[cardDeck[cardIndex]];return pageHead('知识卡','先说出自己的答案，再翻卡核对。',scopeSwitch())+`<div class="toolbar">${lectureSelect('card-lecture')}<label class="visually-hidden" for="card-filter">卡片范围</label><select id="card-filter" data-change="card-filter"><option value="all" ${cardFilter==='all'?'selected':''}>全部卡片</option><option value="due" ${cardFilter==='due'?'selected':''}>待复习 + 新卡</option><option value="star" ${cardFilter==='star'?'selected':''}>收藏的卡片</option></select>${btn(icon('refresh')+'打乱顺序','shuffle-cards','','secondary')}</div>${!c?empty('这一组卡片已经完成','可以切换范围继续学习，或去做一组选择题检验理解。',btn('查看全部卡片','all-cards','','secondary')):`<div class="card-wrap"><div class="card-top"><span>L${c.lectureId} · ${esc(c.title)}</span><span>${cardIndex+1} / ${cardDeck.length}</span></div><div class="progress big"><i style="width:${pct(cardIndex,cardDeck.length)}%"></i></div><button class="flashcard ${flipped?'answer':''}" data-action="flip" aria-label="${flipped?'返回问题':'翻开答案'}"><span class="face-label">${flipped?'ANSWER / 核对答案':'RECALL / 主动回忆'}</span><span class="${flipped?'flash-answer':'flash-question'}">${esc(flipped?(c.cardBack||c.back):c.front)}</span><span class="flash-hint">${flipped?'点击卡片返回问题':'点击翻面，或按空格键'}</span></button>${symbolDetails([c.front,flipped?(c.cardBack||c.back):''].join(' '),'知识卡涉及的研究术语')}<div class="card-controls">${flipped?btn('还没记住','rate-card','data-rating="again"','secondary')+btn('有些模糊','rate-card','data-rating="hard"','secondary')+btn('已经掌握 '+icon('check'),'rate-card','data-rating="good"'):btn('← 上一张','prev-card',cardIndex===0?'disabled':'','secondary')+btn('翻开答案','flip')+btn('跳过 →','next-card','','secondary')}</div><div class="card-extra">${flipped?'重学：10 分钟后 · 模糊：1 天后 · 掌握：3 天后起，逐步延长':'先主动回忆，再决定自己的掌握程度。'}<br><button data-action="go-concept" data-id="${c.id}">回到知识点，查看完整案例</button></div></div>`}`;}
+function shuffle(a){a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+function balancedSample(items,count){const groups=[...new Set(items.map(q=>q.lectureId))].map(id=>shuffle(items.filter(q=>q.lectureId===id)));const out=[];while(out.length<Math.min(count,items.length)&&groups.some(g=>g.length)){for(const g of shuffle(groups)){if(g.length&&out.length<count)out.push(g.pop());}}return shuffle(out);}
+function startQuiz(ids,mode='practice',opts={}){if(!ids.length){toast('当前筛选下没有可练习的题目');return;}const run=()=>{S.quiz={ids:opts.keepOrder?[...ids]:shuffle(ids),mode,answers:{},order:Object.fromEntries(ids.map(id=>[id,shuffle([0,1,2,3])])),recorded:{},index:0,completed:false,start:Date.now(),deadline:mode==='mock'?Date.now()+Number(opts.minutes||mockMinutes)*60*1000:null,final:opts.final===true};quizDraft=null;view='quiz';save();shell();window.scrollTo({top:0});};if(S.quiz&&!S.quiz.completed)confirmDialog('开始新练习？','当前未完成的练习将被替换；已经提交的练习答案与错题记录会保留。',run);else run();}
+function pool(){return questions.filter(q=>inScope(q)&&sourceMatches(q)&&(quizDifficulty==='all'||q.difficulty===quizDifficulty)&&(quizPool==='all'||quizPool==='new'&&!S.questions[q.id]?.attempts||quizPool==='wrong'&&S.questions[q.id]?.errors&&!S.questions[q.id]?.resolved));}
+function quizView(){const q=S.quiz;if(q?.completed)return resultView();if(q)return currentQuestionView();return pageHead('选择题练习','先按周复习，也可以跨周检查概念辨析。',scopeSwitch())+`<div class="quiz-layout">${questionLanguageBar()}<section class="setup-panel"><h2>设置一组练习</h2><p class="subtitle">所有题目依据笔记自编，不是官方题库。英文始终显示；开启中文后上下对照。解析为直接、简短的中文。</p><div class="setup-fields"><div class="field"><label for="quiz-lecture">周次范围</label>${lectureSelect('quiz-lecture')}</div><div class="field"><label for="quiz-difficulty">难度</label><select id="quiz-difficulty" data-change="difficulty">${[['all','全部难度'],['基础','基础'],['应用','应用'],['辨析','辨析']].map(([v,t])=>`<option value="${v}" ${quizDifficulty===v?'selected':''}>${t}</option>`).join('')}</select></div><div class="field"><label for="quiz-pool">作答状态</label><select id="quiz-pool" data-change="pool">${[['all','全部题目'],['new','尚未作答'],['wrong','待巩固错题']].map(([v,t])=>`<option value="${v}" ${quizPool===v?'selected':''}>${t}</option>`).join('')}</select></div><div class="field"><label for="quiz-source">题目来源</label><select id="quiz-source" data-change="quiz-source">${[['all','全部来源'],['review','只做教授练习题'],['notes','只做笔记自编题']].map(([v,t])=>`<option value="${v}" ${quizSource===v?'selected':''}>${t}</option>`).join('')}</select></div><div class="field"><label for="quiz-count">每组题数</label><select id="quiz-count" data-change="count">${['10','20','40','all'].map(n=>`<option value="${n}" ${quizCount===n?'selected':''}>${n==='all'?'当前范围全部':n+' 题'}</option>`).join('')}</select></div></div><p class="small muted">当前符合条件 ${pool().length} 道；不足时使用全部符合条件的题目。逐题与计时两种模式都遵循以上筛选。</p><div class="mode-grid"><div class="mode-card selected"><div class="eyebrow">PRACTICE / 逐题理解</div><h3>逐题练习</h3><p>提交后立即查看答案、选项解析和出处。错题自动记录。</p>${btn('开始练习 '+icon('arrow'),'start-practice',pool().length?'':'disabled')}</div><div class="mode-card"><div class="eyebrow">TIMED PRACTICE / 自选计时</div><h3>计时综合练习</h3><label for="mock-minutes" class="small">练习时长</label><select id="mock-minutes" data-change="mock-minutes">${['10','20','40','60'].map(n=>`<option value="${n}" ${mockMinutes===n?'selected':''}>${n} 分钟</option>`).join('')}</select><p>跨周选择时尽量均衡抽题；交卷后统一查看解析。不是正式考试时长。</p>${btn('开始计时练习','start-mock',pool().length?'':'disabled','secondary')}</div><div class="mode-card"><div class="eyebrow">FINAL EXAM / 正式考试结构</div><h3>期末模拟 · 80 题</h3><p>按正式考试比例抽题：社会心理学 20、发展心理学 30、人格心理学 30，按部分顺序排列，不受上面的筛选影响。交卷后分部分出分。</p><label for="final-minutes" class="small">考试时长</label><select id="final-minutes" data-change="final-minutes">${['90','120','150'].map(n=>`<option value="${n}" ${finalMinutes===n?'selected':''}>${n} 分钟</option>`).join('')}</select><p class="small muted">正式考试时长以考试处通知为准。</p>${btn('开始期末模拟','start-final','','secondary')}</div></div><p class="small muted no-margin">计时包括离开页面的时间，到时自动交卷；刷新可继续。${btn('查看范围说明','exam-info','','ghost compact')}</p></section></div>`;}
+function currentQuestionView(){const run=S.quiz,q=QM[run.ids[run.index]],answered=Object.hasOwn(run.answers,q.id),show=run.mode==='practice'&&answered,chosen=answered?run.answers[q.id]:quizDraft,ok=chosen===q.answer;return pageHead(run.final?'期末模拟':run.mode==='mock'?'计时模拟':'逐题练习',run.final?`80 题 · ${({social:'社会心理学',developmental:'发展心理学',personality:'人格心理学'})[q.domain]}部分 · 交卷后查看解析`:run.mode==='mock'?'当前筛选范围 · 自选计时 · 交卷后查看解析':'提交答案后查看解析，错误会自动记录。',btn('返回设置','leave-quiz','','secondary'))+`<div class="quiz-layout">${questionLanguageBar()}<div class="quiz-meta"><div class="quiz-position">第 <strong>${run.index+1}</strong> / ${run.ids.length} 题 · 已提交 ${Object.keys(run.answers).length} 题</div>${run.mode==='mock'?'<div id="timer" class="timer" aria-label="剩余时间"></div>':'<span class="small muted">不计时 · 练习模式</span>'}</div><div class="progress big"><i style="width:${pct(Object.keys(run.answers).length,run.ids.length)}%"></i></div><article class="question-box"><div class="question-labels"><span class="tag">LECTURE ${q.lectureId}</span><span class="tag">${esc(q.difficulty)}</span><span class="tag">${({social:'社会心理学',developmental:'发展心理学',personality:'人格心理学'})[q.domain]||'概念'}</span><span class="tag">${originLabel(q)}</span></div><h2 id="question-stem">${questionText(q)}</h2>${questionTable(q)}${questionReading(q)}${symbolDetails([q.stem,q.stemEn,...q.options,...(q.optionsEn||[])].join(' '),'题目涉及的研究术语')}<div class="options" role="group" aria-labelledby="question-stem">${run.order[q.id].map((o,i)=>`<button class="option ${chosen===o?'selected':''} ${show&&o===q.answer?'correct':''} ${show&&chosen===o&&!ok?'wrong':''}" data-action="choose" data-value="${o}" aria-pressed="${chosen===o}" ${show?'disabled':''}><span class="option-letter">${'ABCD'[i]}</span><span class="option-copy">${optionText(q,o)}</span>${show&&o===q.answer?`<span class="correct-label">${bilingualText("Correct","正确答案")}</span>`:''}</button>`).join('')}</div>${show?`<div class="feedback ${ok?'':'wrong'}" role="status"><strong>${ok?'✓ 回答正确':'这题先记下来，再巩固一次'}</strong>${questionExplanation(q)}<div class="source">${esc(q.source)}<br><button data-action="source-question" data-id="${q.id}">${q.origin==='weekly'?'查看改编说明':'查看对应笔记'}</button> · <button data-action="quiz-concept" data-id="${q.conceptId}">复习相关知识点</button></div></div>`:''}<div class="quiz-footer"><span class="muted">快捷键 <kbd>1–4</kbd> 选项 · <kbd>Enter</kbd> 提交 / 继续</span><div class="inline-row">${run.mode==='mock'?btn('保存本题并继续','submit-answer',chosen===null?'disabled':'')+btn('交卷','finish-quiz','','secondary'):show?btn(run.index===run.ids.length-1?'查看本组结果':'下一题 '+icon('arrow'),'next-question'):btn('提交答案','submit-answer',chosen===null?'disabled':'')}</div></div></article>${run.mode==='mock'?`<div class="answer-grid" aria-label="模拟题号导航">${run.ids.map((id,i)=>`<button class="${Object.hasOwn(run.answers,id)?'answered':''} ${i===run.index?'current':''}" data-action="jump-question" data-index="${i}" aria-label="第 ${i+1} 题${Object.hasOwn(run.answers,id)?'，已保存':'，未保存'}">${i+1}</button>`).join('')}</div><p class="small muted">选定选项后需点“保存本题并继续”。题号可自由切换；已保存的答案可修改。</p>`:''}</div>`;}
+function record(q,answer){const prev=S.questions[q.id]||{attempts:0,correct:0,errors:0,resolved:false,lastWrong:0,lastWrongAnswer:null},ok=answer===q.answer;prev.attempts++;prev.correct+=Number(ok);prev.errors+=Number(!ok);prev.last=Date.now();prev.lastAnswer=answer;if(!ok){prev.lastWrong=Date.now();prev.lastWrongAnswer=answer;prev.resolved=false;}else if(prev.errors)prev.resolved=true;S.questions[q.id]=prev;studied();}
+function submitAnswer(){const run=S.quiz;if(!run||run.completed)return;const id=run.ids[run.index],answer=quizDraft??run.answers[id];if(answer===undefined||answer===null)return;if(run.mode==='practice'&&Object.hasOwn(run.answers,id))return;run.answers[id]=answer;if(run.mode==='practice'){record(QM[id],answer);run.recorded[id]=true;}else if(run.index<run.ids.length-1)run.index++;quizDraft=null;save();shell();}
+function finishQuiz(auto=false){const run=S.quiz;if(!run||run.completed)return;const finish=()=>{for(const id of run.ids)if(!run.recorded[id]){if(Object.hasOwn(run.answers,id)){record(QM[id],run.answers[id]);run.recorded[id]=true;}else{record(QM[id],null);run.recorded[id]=true;}}run.completed=true;studied();save();shell();if(auto)toast('时间已到，模拟练习已自动交卷');};if(auto||run.mode==='practice')finish();else confirmDialog('确认交卷？',`已保存 ${Object.keys(run.answers).length}/${run.ids.length} 题。未作答计为错误并收入错题集；当前尚未保存的选项不会提交。`,finish);}
+function resultView(){const run=S.quiz,n=run.ids.filter(id=>run.answers[id]===QM[id].answer).length;return pageHead('这一组，完成了','正确与错误都值得回看：理解原因，比记住字母更重要。',btn('设置新练习','new-quiz','','secondary'))+`<div class="quiz-layout">${questionLanguageBar()}<section class="setup-panel"><div class="result-head"><div class="eyebrow">${run.final?'FINAL EXAM MOCK':run.mode==='mock'?'MOCK EXAM':'PRACTICE'} / RESULT</div><div class="score">${n}<span> / ${run.ids.length}</span></div><p class="muted">本组正确率 ${pct(n,run.ids.length)}% · ${run.ids.length-n} 道需再巩固</p>${run.final?`<p class="muted">${finalBreakdown(run).map(b=>`${b.label} ${b.ok} / ${b.total}`).join(' · ')}<br>${pct(n,run.ids.length)>=50?'达到 50% 及格线（期末是 hurdle，必须 ≥50%）':'未达到 50% 及格线：期末是 hurdle，必须 ≥50% 才能通过本课'}</p>`:''}<div class="inline-row" style="justify-content:center">${btn('重练本组错题','retry-result',run.ids.length===n?'disabled':'')}${btn('打开错题集','nav','data-view="mistakes"','secondary')}</div></div></section><div class="results-list">${run.ids.map((id,i)=>{const q=QM[id],ans=run.answers[id],ok=ans===q.answer;return `<details class="result-row"><summary><span class="${ok?'check':'cross'}">${ok?'✓':'✕'}</span><span class="result-question"><span class="result-number">${i+1}.</span>${questionText(q)}</span></summary>${questionTable(q)}<p class="muted">你的答案：${optionText(q,ans)}<br>正确答案：${optionText(q,q.answer)}</p>${questionExplanation(q)}<div class="source">${esc(q.source)}<br><button data-action="go-concept" data-id="${q.conceptId}">查看相关知识点</button></div></details>`;}).join('')}</div></div>`;}
+function mistakesView(){const list=questions.filter(q=>inScope(q)&&S.questions[q.id]?.errors&&(mistakeFilter==='all'||mistakeFilter==='active'&&!S.questions[q.id].resolved||mistakeFilter==='resolved'&&S.questions[q.id].resolved)).sort((a,b)=>S.questions[b.id].lastWrong-S.questions[a.id].lastWrong);return pageHead('错题集','保留错误轨迹，重练答对后自动移入“已巩固”。',btn('重练待巩固错题 '+icon('refresh'),'retry-mistakes',activeMistakes().filter(inScope).length?'':'disabled'))+`${questionLanguageBar()}<div class="toolbar">${scopeSwitch()}${lectureSelect('mistake-lecture')}<label class="visually-hidden" for="mistake-filter">错题状态</label><select id="mistake-filter" data-change="mistake-filter"><option value="active" ${mistakeFilter==='active'?'selected':''}>待巩固</option><option value="resolved" ${mistakeFilter==='resolved'?'selected':''}>已巩固</option><option value="all" ${mistakeFilter==='all'?'selected':''}>全部历史错题</option></select></div><div class="content-count">当前筛选下 ${list.length} 道错题</div>${list.length?list.map(q=>{const st=S.questions[q.id];return `<article class="mistake-card"><div class="mistake-top"><span>L${q.lectureId} · ${esc(q.difficulty)} · 累计错 ${st.errors} 次</span><span>${st.resolved?'✓ 已巩固':'待巩固'} · ${date(st.lastWrong)}</span></div><h3>${questionText(q)}</h3>${questionTable(q)}<div class="mistake-answer"><span class="wrong-text">上次错误：${optionText(q,st.lastWrongAnswer)}</span></div><details><summary>查看正确答案与解析</summary><p><strong>正确答案：</strong>${optionText(q,q.answer)}</p>${questionExplanation(q)}<div class="source">${esc(q.source)}</div></details><div class="mistake-footer">${btn('重做这道题','retry-one',`data-id="${q.id}"`,'secondary compact')}${btn('复习关联知识','go-concept',`data-id="${q.conceptId}"`,'ghost compact')}${st.resolved?btn('移回待巩固','unresolve',`data-id="${q.id}"`,'ghost compact'):''}</div></article>`;}).join(''):empty(mistakeFilter==='resolved'?'还没有已巩固的错题':'这里暂时没有错题','可以开始练习，或者切换 Lecture 和复习范围。',btn('去做选择题','nav','data-view="quiz"','secondary'))}`;}
+function settingsView(){return pageHead('备份与资料','保存自己的进度，后续更新继续使用。')+`<div class="settings-grid"><section class="settings-card"><h2>进度备份</h2><p>进度保存在当前设备、当前浏览器。移动文件、换浏览器或清理数据，可能无法读取原进度。</p><p>备份包含掌握状态、收藏、错题和当前练习。更新软件或换设备前，请先导出；新版打开后再导入。其他课程的备份不能导入 PSYC1004。</p><div class="settings-actions">${btn(icon('download')+'导出备份','export')}${btn(icon('upload')+'导入备份','import','','secondary')}</div><div class="divider"></div><h3>快捷键</h3><p class="small no-margin">知识卡：空格翻面，← / → 切换<br>选择题：1–4 选项，Enter 提交 / 继续<br>输入框和弹窗中不会触发学习快捷键</p></section><section class="settings-card"><h2>收录内容与更新</h2><p>总计规划 ${D.plannedWeeks} 周，已收录 ${D.lectures.length} 周、${concepts.length} 个知识点和 ${questions.length} 道自编单选题。尚未收录周次不计入题库、知识卡或正确率。</p><p>后续把新的 Lecture PPT、文字稿或笔记发到本聊天，由我补入同一套软件。现有知识点和题目编号保持稳定，备份可带入更新版。</p>${btn('查看内容与更新说明','exam-info','','secondary')}<p class="reminder-label">知识卡掌握状态为自评；正确率包含重练。模拟结果不保证预测正式成绩。考试范围和安排以学校最新通知为准。</p></section></div><section class="settings-card" style="margin-top:22px"><h2>课程文字资料库</h2><p>编号按你提供的 L1–L9 文件对应周次。B 编号是软件的内容块定位号，不是 Word 页码；文字框和表格文字也已提取。L1–L8 为原 DOCX；L9 为课件逐页文字及课堂文字稿补充。图示排版请以对应原文件为准。</p><div class="source-list">${D.lectures.map(l=>`<div class="source-row"><div><strong>第 ${l.id} 周 · ${esc(l.title)}</strong><small>${esc(l.file)}</small></div>${btn('阅读文字','full-source',`data-id="${l.id}"`,'secondary compact')}</div>`).join('')}</div></section><section class="settings-card" style="margin-top:22px"><h2>清空本机学习进度</h2><p>仅清空这款软件的掌握状态、错题和练习记录，不删除题库或原始笔记。清空前建议导出备份。</p>${btn('清空学习进度','reset','','danger')}</section>`;}
+function openDialog(title,body,actions=''){const dialog=document.getElementById('dialog');dialog.innerHTML=`<div class="dialog-head"><h2 id="dialog-title">${esc(title)}</h2><button class="icon-button" data-action="close-dialog" aria-label="关闭弹窗">${icon('close')}</button></div><div class="dialog-body">${body}</div>${actions?`<div class="dialog-actions">${actions}</div>`:''}`;if(!dialog.open)dialog.showModal();}
+let confirmedAction=null;
+function confirmDialog(title,body,fn){confirmedAction=fn;openDialog(title,`<p>${esc(body)}</p>`,btn('取消','close-dialog','','secondary')+btn('确认','confirm'));}
+function showSource(id,isQuestion=false){const c=isQuestion?QM[id]:CM[id];if(!c)return;const l=LM[c.lectureId],source=c.source||'';const ranges=[...source.matchAll(/B(\d{4})\s*[–—−-]\s*B?(\d{4})/g)].map(m=>[Number(m[1]),Number(m[2])]);if(!ranges.length){for(const n of source.matchAll(/B(\d{4})/g))ranges.push([Number(n[1]),Number(n[1])]);}const blocks=(l.sourceBlocks||[]).filter(b=>ranges.some(([a,z])=>b.id>=a&&b.id<=z));openDialog('原笔记对应内容',`<p class="muted small">${esc(l.file)}<br>${esc(source)}<br>B 编号是软件定位号，不是页码；文字包含文本框及表格。</p>${blocks.length?blocks.map(b=>`<div class="source-paragraph"><strong>B${String(b.id).padStart(4,'0')}</strong><p>${esc(b.text).replace(/\n/g,'<br>')}</p></div>`).join(''):'<p>这一定位未找到文字，请在资料库阅读本讲的完整提取内容。</p>'}<p class="small muted">生活案例和选择题为练习改编，不是教授原话或官方考试题。</p>`);}
+function examInfo(){openDialog('内容范围与后续更新',`<p><strong>规划 ${D.plannedWeeks} 周，已收录 ${D.lectures.length} 周。</strong>当前按你提供的文件夹编号对应周次；第 1–4 周为社会心理学，第 5–8 周为发展心理学，第 9 周起为人格心理学。</p><p><strong>期末考试：</strong>线下进行，占总成绩 40%，是 hurdle（必须 ≥50% 才能通过本课）。共 80 道单选：社会心理学 20 题、发展心理学 30 题、人格心理学 30 题；答错不扣分，每题都要作答。</p><p>题库包括依据笔记自编的题目，以及教授发布的 48 道期末练习题（标注「教授练习题」，最接近正式考试风格）。「选择题练习」里的「期末模拟 · 80 题」按正式考试比例抽题。</p><p>L10–L12 的笔记依据录课文字稿和 PPT 整理，原有编号与进度格式保持稳定。</p><p class="small muted">内容版本：${esc(D.contentVersion)}。本软件不需要账号、不上传内容。iPad 同一 Wi-Fi 访问方式见压缩包内说明；不是跨设备自动同步。</p>`);}
+function downloadBackup(){const payload={app:'PSYC1004 Offline Study Desk',exportedAt:new Date().toISOString(),preferences:{theme:themePreference,showChinese},state:S},blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=`PSYC1004-学习进度-${today()}.json`;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),1000);toast('已导出学习进度备份');}
+function goConcept(id){if(!CM[id])return;const c=CM[id];if(!scopeMatches(c.lectureId))scope='all';lecture=String(c.lectureId);reviewFilter='all';search='';selected=id;S.lastConcept=id;view='review';save();shell();window.scrollTo({top:0});}
+const drawerMedia=matchMedia('(max-width:1100px)');
+function syncDrawer(){const aside=document.querySelector('.sidebar');if(!aside)return;const hidden=drawerMedia.matches&&!mobileOpen;aside.inert=hidden;aside.setAttribute('aria-hidden',String(hidden));}
+if(drawerMedia.addEventListener)drawerMedia.addEventListener('change',()=>{mobileOpen=false;shell();});
+function navigate(v){view=v;mobileOpen=false;quizDraft=null;if(v==='cards')resetDeck();shell();document.getElementById('main').focus({preventScroll:true});window.scrollTo({top:0});}
+function action(name,el){switch(name){
+ case'nav':navigate(el.dataset.view);break;
+ case'pending-week':openDialog('第 '+el.dataset.id+' 周待更新','<p>尚未收到本周课程材料；现在没有虚构的知识卡或题目。</p><p>后续将新 Lecture 发到本聊天即可，由我加入更新版。更新前先导出备份，新版再导入。</p>');break;
+ case'menu':mobileOpen=!mobileOpen;shell();break;
+ case'scope':scope=el.dataset.value;lecture='all';selected=null;if(view==='cards')resetDeck();shell();break;
+ case'open-lecture':if(!LM[Number(el.dataset.id)]){toast('本周尚未收录');break;}if(!scopeMatches(Number(el.dataset.id)))scope='all';lecture=el.dataset.id;view='review';search='';reviewFilter='all';selected=null;shell();window.scrollTo({top:0});break;
+ case'concept':selected=el.dataset.id;S.lastConcept=selected;save();{const top=document.querySelector('.concept-list')?.scrollTop||0;shell();document.querySelector('.concept-list')?.scrollTo({top});}break;
+ case'clear-filters':search='';lecture='all';reviewFilter='all';shell();break;
+ case'star':{const c=conceptStat(CM[el.dataset.id]);c.star=!c.star;save();shell();break;}
+ case'known':{const c=conceptStat(CM[el.dataset.id]);c.known=!c.known;c.last=Date.now();c.due=c.known?Date.now()+7*86400000:0;studied();save();shell();toast(c.known?'已标记掌握':'已撤销掌握标记');break;}
+ case'next-concept':{const list=filteredConcepts(),i=list.findIndex(c=>c.id===selected);selected=list[(i+1)%list.length]?.id;shell();break;}
+ case'go-concept':case'quiz-concept':goConcept(el.dataset.id);break;
+ case'concept-quiz':{const id=el.dataset.id,qs=questions.filter(q=>q.conceptId===id);startQuiz(qs.map(q=>q.id));break;}
+ case'start-cards':view='cards';cardFilter='due';lecture='all';resetDeck();shell();break;
+ case'flip':if(cardDeck[cardIndex]){flipped=!flipped;shell();}break;
+ case'prev-card':if(cardIndex>0){cardIndex--;flipped=false;shell();}break;
+ case'next-card':cardIndex++;flipped=false;shell();break;
+ case'all-cards':cardFilter='all';resetDeck();shell();break;
+ case'shuffle-cards':cardDeck=shuffle(cardDeck);cardIndex=0;flipped=false;shell();break;
+ case'rate-card':{if(!flipped)return;const id=cardDeck[cardIndex],c=conceptStat(CM[id]),r=el.dataset.rating;c.reviews++;c.rating=r;c.known=r==='good';c.last=Date.now();c.due=Date.now()+(r==='again'?600000:r==='hard'?86400000:Math.min(30,3*Math.pow(2,Math.min(c.reviews-1,4)))*86400000);studied();save();cardIndex++;flipped=false;shell();break;}
+ case'quick-quiz':lecture='all';startQuiz(shuffle(questions.filter(q=>scopeMatches(q.lectureId))).slice(0,10).map(q=>q.id));break;
+ case'start-practice':startQuiz(shuffle(pool()).slice(0,quizCount==='all'?Infinity:Number(quizCount)).map(q=>q.id));break;
+ case'start-mock':{const candidates=pool(),count=quizCount==='all'?candidates.length:Number(quizCount);startQuiz(balancedSample(candidates,count).map(q=>q.id),'mock');break;}  case'start-final':startQuiz(finalSample(),'mock',{minutes:finalMinutes,keepOrder:true,final:true});break;
+ case'choose':{if(S.quiz?.mode==='practice'&&Object.hasOwn(S.quiz.answers,S.quiz.ids[S.quiz.index]))return;quizDraft=Number(el.dataset.value);if(S.quiz?.mode==='mock'&&Object.hasOwn(S.quiz.answers,S.quiz.ids[S.quiz.index])){delete S.quiz.answers[S.quiz.ids[S.quiz.index]];save();}shell();break;}
+ case'submit-answer':submitAnswer();break;
+ case'next-question':if(S.quiz.index<S.quiz.ids.length-1){S.quiz.index++;quizDraft=null;save();shell();window.scrollTo({top:0});}else finishQuiz();break;
+ case'jump-question':S.quiz.index=Number(el.dataset.index);quizDraft=null;save();shell();break;
+ case'finish-quiz':finishQuiz();break;
+ case'leave-quiz':confirmDialog('结束这组练习？','练习模式中已提交的答案会保留。未交卷的模拟不会计分；此操作将放弃本组未完成练习。',()=>{S.quiz=null;quizDraft=null;save();shell();});break;
+ case'new-quiz':S.quiz=null;save();shell();break;
+ case'retry-result':{const ids=S.quiz.ids.filter(id=>S.quiz.answers[id]!==QM[id].answer);startQuiz(ids);break;}
+ case'retry-mistakes':startQuiz(activeMistakes().filter(inScope).map(q=>q.id));break;
+ case'retry-one':startQuiz([el.dataset.id]);break;
+ case'unresolve':S.questions[el.dataset.id].resolved=false;save();shell();break;
+ case'source':showSource(el.dataset.id);break;
+ case'source-question':showSource(el.dataset.id,true);break;
+ case'full-source':{const l=LM[el.dataset.id];openDialog(`L${l.id} · 原笔记文字`,`<p class="muted small">${esc(l.file)}<br>文字提取版，B 编号为软件定位号；含文本框与表格文字。原始图像和公式排版以 DOCX 为准。</p>${l.sourceText.split('\n').map(line=>`<div class="source-paragraph">${esc(line)}</div>`).join('')}`);break;}
+ case'exam-info':examInfo();break;
+ case'export':downloadBackup();break;
+ case'import':document.getElementById('import-file').click();break;
+ case'reset':confirmDialog('清空本机进度？','此操作清空本软件的知识卡状态、收藏、答题、错题和当前练习。原笔记和题库不受影响。如无导出备份，无法恢复。',()=>{S=fresh();save();shell();toast('本软件的学习进度已清空；可通过已有备份恢复。');});break;
+ case'close-dialog':document.getElementById('dialog').close();confirmedAction=null;break;
+ case'confirm':{const fn=confirmedAction;confirmedAction=null;document.getElementById('dialog').close();fn?.();break;}
+ }}
+document.addEventListener('click',e=>{const el=e.target.closest('[data-action]');if(el&&!el.disabled)action(el.dataset.action,el);else if(mobileOpen&&!e.target.closest('.sidebar')){mobileOpen=false;shell();}});
+document.addEventListener('change',e=>{const v=e.target.value;switch(e.target.dataset.change){case'theme':setTheme(v);return;case'show-chinese':setQuestionLanguage(e.target.checked);return;case'lecture':lecture=v;selected=null;if(view==='cards')resetDeck();break;case'review-filter':reviewFilter=v;break;case'card-filter':cardFilter=v;resetDeck();break;case'difficulty':quizDifficulty=v;break;case'pool':quizPool=v;break;case'quiz-source':quizSource=v;break;case'count':quizCount=v;break;case'mock-minutes':mockMinutes=v;break;case'final-minutes':finalMinutes=v;break;case'mistake-filter':mistakeFilter=v;break;default:return;}shell();});
+searchInputController=window.PSYC_IME.attachImeSearch({root:document,getValue:()=>search,onSearch:value=>{search=value;refreshReviewResults();}});
+document.getElementById('import-file').addEventListener('change',async e=>{const file=e.target.files?.[0];e.target.value='';if(!file)return;try{if(file.size>5*1024*1024)throw Error('备份文件过大（上限 5 MB）');const data=JSON.parse(await file.text());if(data.app!=='PSYC1004 Offline Study Desk')throw Error('这不是本软件的进度备份');const next=validate(data.state);confirmDialog('导入并替换进度？',`文件含 ${Object.keys(next.concepts).length} 条知识卡状态、${Object.keys(next.questions).length} 条题目记录。将替换本机现有进度，建议先导出当前进度。`,()=>{S=next;if(['light','dark','system'].includes(data.preferences?.theme))setTheme(data.preferences.theme);if(typeof data.preferences?.showChinese==='boolean')setQuestionLanguage(data.preferences.showChinese);quizDraft=null;save();shell();toast('学习进度已导入');});}catch(err){toast('无法导入：'+err.message);}});
+document.addEventListener('keydown',e=>{if(searchInputController?.shouldIgnoreShortcut(e))return;if(e.key==='Escape'&&mobileOpen){mobileOpen=false;shell();return;}if(document.getElementById('dialog').open||/INPUT|SELECT|TEXTAREA/.test(e.target.tagName)||e.ctrlKey||e.metaKey||e.altKey)return;if(e.target.closest('button,summary,a')&&(e.code==='Space'||e.key==='Enter'))return;if(view==='cards'){if(e.code==='Space'){e.preventDefault();action('flip',{});}if(e.key==='ArrowRight'){e.preventDefault();action('next-card',{});}if(e.key==='ArrowLeft'){e.preventDefault();action('prev-card',{});}}if(view==='quiz'&&S.quiz&&!S.quiz.completed){const q=S.quiz,answered=Object.hasOwn(q.answers,q.ids[q.index]);if(/^[1-4]$/.test(e.key)&&!(q.mode==='practice'&&answered)){e.preventDefault();action('choose',{dataset:{value:q.order[q.ids[q.index]][Number(e.key)-1]}});}if(e.key==='Enter'){e.preventDefault();action(q.mode==='practice'&&answered?'next-question':'submit-answer',{});}}});
+function updateTimer(){const q=S.quiz;if(q?.mode!=='mock'||q.completed)return;const remaining=Math.max(0,q.deadline-Date.now()),el=document.getElementById('timer');if(el){el.textContent=`${String(Math.floor(remaining/60000)).padStart(2,'0')}:${String(Math.floor(remaining/1000)%60).padStart(2,'0')}`;el.classList.toggle('urgent',remaining<300000);}if(remaining===0){document.getElementById('dialog').close();finishQuiz(true);}}
+setInterval(updateTimer,1000);
+window.addEventListener('storage',e=>{if(e.key===CHINESE_KEY){showChinese=e.newValue==='true';applyQuestionLanguage();return;}if(e.key===THEME_KEY){themePreference=['light','dark','system'].includes(e.newValue)?e.newValue:'system';applyTheme();return;}if(e.key!==KEY||!e.newValue)return;try{const other=validate(JSON.parse(e.newValue));if(other.updatedAt>S.updatedAt){S=other;quizDraft=null;shell();toast('已同步另一个窗口的本机进度');}}catch{}});
+// Progressive enhancement: no dependency on WebMCP in offline browsers.
+if(document.modelContext?.registerTool){const lifecycle=new AbortController();const register=tool=>{try{Promise.resolve(document.modelContext.registerTool(tool,{signal:lifecycle.signal})).catch(()=>{});}catch{}};
+ register({name:'get_study_progress',description:'Read local PSYC1004 study progress without changing it.',inputSchema:{type:'object',properties:{},additionalProperties:false},annotations:{readOnlyHint:true},execute:()=>({concepts:concepts.length,mastered:concepts.filter(c=>S.concepts[c.id]?.known).length,activeMistakes:activeMistakes().length,questions:questions.length})});
+ register({name:'open_study_concept',description:'Open one source-based concept in the visible review view; saves last opened concept but does not mark mastery.',inputSchema:{type:'object',properties:{conceptId:{type:'string'}},required:['conceptId'],additionalProperties:false},annotations:{readOnlyHint:false},execute:input=>{if(!input||typeof input.conceptId!=='string'||!CM[input.conceptId]||Object.keys(input).some(k=>k!=='conceptId'))throw Error('Unknown conceptId');goConcept(input.conceptId);return{opened:input.conceptId};}});
+ window.addEventListener('pagehide',()=>lifecycle.abort(),{once:true});}
+shell();
+})();
+</script>
+</body>
+</html>

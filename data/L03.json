@@ -1,0 +1,2390 @@
+{
+  "id": 3,
+  "title": "态度、规范与行为",
+  "subtitle": "Attitudes, Norms & Behaviour",
+  "summary": "有某种态度，不代表一定会照着做。本讲用 TPB 看行为意图，用平衡理论和认知失调解释态度变化，用 ELM 看说服过程，再学习助推及群体规范怎样影响行为。理解效果时，也要区分意图与行动、相关与因果，并检查伦理问题。",
+  "concepts": [
+    {
+      "id": "L3-C01",
+      "title": "态度的 ABC 结构",
+      "english": "Attitude: affect, behavioural tendency, cognition",
+      "oneLine": "态度把感受、行动倾向和信念组织成对对象的评价。",
+      "analogy": "像一份评价卡：喜欢程度、打算怎么做、认为它怎样分栏记录。",
+      "simpleExample": "自拟例：喜欢骑车、打算骑车上学、相信骑车环保分别对应三个成分。",
+      "explanation": "态度是对有社会意义的对象，较持久地作出喜欢或不喜欢等评价。ABC 分别看情感、行为倾向或意图，以及信念和判断。这三部分不一定一致，尤其 B 可能只是“我打算这样做”，不代表已经行动。",
+      "example": "自拟例：喜欢骑车、打算骑车上学、相信骑车环保分别对应三个成分。",
+      "pitfall": "不要把 behavioural component 当成实际行为的可靠记录。",
+      "source": "L3 · ABCs of attitudes · [B0021–B0027]",
+      "front": "态度 ABC 各是什么？B 一定是实际行为吗？",
+      "back": "Affect、behavioural tendency/intention、cognition；B 可以只是打算行动。",
+      "cardBack": "Affect、behavioural tendency/intention、cognition；B 可以只是打算行动。"
+    },
+    {
+      "id": "L3-C02",
+      "title": "态度强度与可及性",
+      "english": "Attitude dimensions",
+      "oneLine": "重要、易想起、较少矛盾的态度通常更能影响行动。",
+      "analogy": "像桌面快捷键：常用、显眼、与你任务有关的更容易被调用。",
+      "simpleExample": "自拟例：选课时，与你职业目标有关且经常思考的课程态度更容易左右选择。",
+      "explanation": "描述态度时，要看它是否稳定、有影响、极端或重要，是否容易想起，以及内部是否矛盾、是否协调。可及性是“这个看法有多容易被想起”；矛盾性是“我对它同时有冲突感受”。态度强与立场极端有关，但不是一回事。",
+      "example": "自拟例：选课时，与你职业目标有关且经常思考的课程态度更容易左右选择。",
+      "pitfall": "立场很极端不保证很稳定；快速想起也不等于态度正确。",
+      "source": "L3 · 态度的维度 | Dimensions · [B0028–B0035]",
+      "front": "Accessibility 和 ambivalence 有何不同？",
+      "back": "前者是态度容易被想起，后者是同时存在冲突感受。",
+      "cardBack": "前者是态度容易被想起，后者是同时存在冲突感受。"
+    },
+    {
+      "id": "L3-C03",
+      "title": "态度如何形成",
+      "english": "Attitude development",
+      "oneLine": "态度由遗传倾向、学习、熟悉感和观察他人共同塑造。",
+      "analogy": "像一道菜：多种原料共同形成味道，不是单一配方决定。",
+      "simpleExample": "自拟例：反复听一首歌后更喜欢它，体现熟悉感可能增加好感。",
+      "explanation": "态度有多个来源，基因不是唯一原因。条件作用会把对象与情绪或奖惩联系起来；反复接触可能让对象更熟悉、更讨人喜欢。我们还会观察重要他人，并受群体规范影响。部分态度有可遗传成分，但不代表态度由基因固定决定。",
+      "example": "自拟例：反复听一首歌后更喜欢它，体现熟悉感可能增加好感。",
+      "pitfall": "不能把 mere exposure 理解为任何重复都会让任何人更喜欢。",
+      "source": "L3 · 态度从哪里来？ | Development · [B0036–B0040]",
+      "front": "列出态度形成的四类来源。",
+      "back": "遗传成分、条件作用、重复接触、观察/社会学习。",
+      "cardBack": "遗传成分、条件作用、重复接触、观察/社会学习。"
+    },
+    {
+      "id": "L3-C04",
+      "title": "道德确信不只是强烈偏好",
+      "english": "Moral conviction",
+      "oneLine": "道德确信是把自己的立场看成绝对的对与错，而不只是强烈喜欢或不喜欢。",
+      "analogy": "普通偏好像喜欢一种口味，道德确信像认为某种行为原则上不可接受。",
+      "simpleExample": "自拟例：不喜欢浪费是偏好；认定浪费食物绝对错误则带有道德化。",
+      "explanation": "普通态度可能随经验或说服而改变。道德化态度却会与自我、群体身份连在一起，让人把分歧看成善恶冲突，因此更难妥协。喜欢得很强烈，不一定就是把问题看成道德对错。",
+      "example": "自拟例：不喜欢浪费是偏好；认定浪费食物绝对错误则带有道德化。",
+      "pitfall": "强烈喜欢某球队不自动等于 moral conviction。",
+      "source": "L3 · 态度能否改变？ | Persuasion & moral conviction · [B0041–B0045]",
+      "front": "Moral conviction 与单纯强态度的核心差别是什么？",
+      "back": "前者把立场变成绝对 right/wrong 判断，不只是偏好很强。",
+      "cardBack": "前者把立场变成绝对 right/wrong 判断，不只是偏好很强。"
+    },
+    {
+      "id": "L3-C05",
+      "title": "LaPiere 的态度—行为落差",
+      "english": "LaPiere: stated attitude versus practice",
+      "oneLine": "问卷里说的态度，不一定等于实际接待顾客时的做法。",
+      "analogy": "像计划早睡和真的按时上床：说出来的想法，不一定变成行动。",
+      "simpleExample": "自拟例：店主网上说不接待某类客人，却在现场接待了一对具体顾客。",
+      "explanation": "LaPiere 与一对中国夫妇访问约 251 个地点，现场只被拒绝一次；之后的问卷中，多数却说不接待中国顾客。说出来的态度与实际做法并不一致。不过，问卷晚了约六个月，答卷者也可能不是现场接待的人，因此不能认定这是同一个人的态度完全无法预测行为。",
+      "example": "自拟例：店主网上说不接待某类客人，却在现场接待了一对具体顾客。",
+      "pitfall": "不能据此证明态度完全无用，也不能把差异全部归为撒谎。",
+      "source": "L3 · LaPiere (1934)：stated attitude vs observed practice · [B0050–B0055]",
+      "front": "LaPiere 发现什么？列出一个关键局限。",
+      "back": "实际几乎全接待、问卷多拒绝；测量延迟且答卷者未必是接待者。",
+      "cardBack": "实际几乎全接待、问卷多拒绝；测量延迟且答卷者未必是接待者。"
+    },
+    {
+      "id": "L3-C06",
+      "title": "Wicker 的弱平均相关",
+      "english": "Wicker review",
+      "oneLine": "一般态度对具体行为的平均预测可能较弱。",
+      "analogy": "只看“喜欢运动”像只看天气概况，很难准确预测某天是否跑步。",
+      "simpleExample": "自拟例：说健康很重要的人仍可能因时间和习惯不去健身。",
+      "explanation": "Wicker 汇总 42 项早期研究，态度与行为的平均相关约 r=.15，关系较弱。因此，预测行为不能只问一般态度，还要看意图、情境和社会因素。各研究的做法和测量不同，而且这个相关不能证明态度造成了行为。",
+      "example": "自拟例：说健康很重要的人仍可能因时间和习惯不去健身。",
+      "pitfall": "r=.15 不是 15% 的人遵循态度，也不是所有行为的固定相关。",
+      "source": "L3 · Wicker (1969)：42-study review · [B0057–B0061]",
+      "front": "Wicker 的平均 r≈.15 说明什么，不说明什么？",
+      "back": "平均关系较弱；不证明态度没有作用或态度导致行为。",
+      "cardBack": "平均关系较弱；不证明态度没有作用或态度导致行为。"
+    },
+    {
+      "id": "L3-C07",
+      "title": "计划行为理论主链",
+      "english": "Theory of Planned Behaviour (TPB)",
+      "oneLine": "你怎么看这个行为、觉得别人怎么期待、认为自己能否做到，共同影响行为意图。",
+      "analogy": "像出行计划：想去、别人支持、觉得能去一起决定计划，交通仍可能阻止成行。",
+      "simpleExample": "自拟例：想健身、朋友支持、相信有时间和器材使健身意图更强，但临时生病仍可能不去。",
+      "explanation": "TPB 用三个因素预测意图：我怎么看这个具体行为，重要他人是否期待我去做，以及我觉得自己有没有能力、机会和控制去做。后两项分别叫主观规范和知觉行为控制。意图再用于预测行为，但想做不代表最终一定做到。",
+      "example": "自拟例：想健身、朋友支持、相信有时间和器材使健身意图更强，但临时生病仍可能不去。",
+      "pitfall": "不要把主观规范误当自己喜欢，也不要把控制感等同实际控制。",
+      "source": "L3 · Theory of Planned Behaviour (TPB) · [B0062–B0072]",
+      "front": "TPB 的三项意图预测因素是什么？",
+      "back": "具体行为态度、subjective norm、perceived behavioural control；意图再预测行为。",
+      "cardBack": "具体行为态度、subjective norm、perceived behavioural control；意图再预测行为。"
+    },
+    {
+      "id": "L3-C08",
+      "title": "提高态度预测力的条件",
+      "english": "Attitude–behaviour correspondence",
+      "oneLine": "问的态度越贴近要预测的具体行为，外部限制越少，预测通常越有用。",
+      "analogy": "问“喜欢食物吗”不如问“今晚是否想吃这份饭”贴近当前选择。",
+      "simpleExample": "自拟例：“我赞成环保”不如“我支持明早骑车去学校”匹配明早骑车行为。",
+      "explanation": "想预测一个行为，就应测量对同一对象、同一行为的具体态度。态度强、重要、容易想起，有直接经验或公开承诺时，通常更能影响行动。但外部限制和诱因仍可能让人没有照着做，所以预测更好也不等于保证行动。",
+      "example": "自拟例：“我赞成环保”不如“我支持明早骑车去学校”匹配明早骑车行为。",
+      "pitfall": "不能只提高态度强度而忽略行为测量不匹配和情境成本。",
+      "source": "L3 · 什么时候态度更能预测行为？ · [B0073–B0078]",
+      "front": "一般环保态度为何不如具体骑车态度预测骑车？",
+      "back": "环保还包含许多别的行为；问明早骑车的态度，才直接对应要预测的明早骑车。",
+      "cardBack": "环保还包含许多别的行为；问明早骑车的态度，才直接对应要预测的明早骑车。"
+    },
+    {
+      "id": "L3-C09",
+      "title": "TPB 与态度测量的边界",
+      "english": "TPB and measurement limitations",
+      "oneLine": "模型与测量能增加线索，却不能把复杂行为变成纯理性答案。",
+      "analogy": "多个摄像角度有助判断，但每个角度都有盲区。",
+      "simpleExample": "自拟例：匿名问卷搭配实际回收记录，比只问“你环保吗”更能检查一致性。",
+      "explanation": "TPB 可能把行为看得太静态、太像理性计划，忽略习惯、情绪、无意识和行动后的反馈。测量也会有局限：匿名问卷减少公开压力，却不能完全消除迎合社会期待或研究要求的回答。结合多种测量可以互相核对；生理唤醒有多种原因，不能直接当成撒谎。",
+      "example": "自拟例：匿名问卷搭配实际回收记录，比只问“你环保吗”更能检查一致性。",
+      "pitfall": "即使知道 TPB 的全部因素，也不能保证准确预测每一次行为。",
+      "source": "L3 · 教授补充：attitude measurement · [B0079–B0085]",
+      "front": "匿名调查为什么仍需谨慎？",
+      "back": "匿名不能消除社会赞许、需求特征或对自身动机认识不准确。",
+      "cardBack": "匿名不能消除社会赞许、需求特征或对自身动机认识不准确。"
+    },
+    {
+      "id": "L3-C10",
+      "title": "平衡理论的人—他人—对象",
+      "english": "Heider’s Balance Theory",
+      "oneLine": "三角关系不一致时，可改变对人或议题的态度来恢复平衡。",
+      "analogy": "像三角支架：人与朋友、人与观点、朋友与观点的关系共同决定稳定感。",
+      "simpleExample": "自拟例：喜欢室友却反对室友支持的政策，可能调整政策看法或降低对室友的认同。",
+      "explanation": "平衡理论看自己 Person、他人 Other 和对象 X 之间的关系。如果你喜欢某个人，却反对他支持的观点，三者就可能不平衡。你可以改变对这个人的态度，也可以改变对该观点的看法。它关注这种三角关系，不同于个人内部的认知失调。",
+      "example": "自拟例：喜欢室友却反对室友支持的政策，可能调整政策看法或降低对室友的认同。",
+      "pitfall": "Balance Theory 不是任意态度—行为冲突的名称。",
+      "source": "L3 · Balance Theory (Heider) · [B0088–B0095]",
+      "front": "平衡理论的三角包含谁？两种修复方式是什么？",
+      "back": "Person、Other、X；改变对 Other 或对 X 的态度。",
+      "cardBack": "Person、Other、X；改变对 Other 或对 X 的态度。"
+    },
+    {
+      "id": "L3-C11",
+      "title": "认知失调及减压路径",
+      "english": "Cognitive dissonance",
+      "oneLine": "觉察自己的态度或行为冲突会不适，改变行为并非唯一出路。",
+      "analogy": "像账本对不上：可改实际开支，也可改记账理由让它看起来一致。",
+      "simpleExample": "自拟例：认为睡眠重要却通宵，可能早睡，也可能说“今晚只是特殊情况”。",
+      "explanation": "认知失调是察觉自己的态度互相冲突，或行为与态度不一致时，产生的心理不适。人可以改变行为，也可以改态度、找外部理由、说这件事不重要，或回避提醒自己的信息。因此，产生不适不保证会改好行为。",
+      "example": "自拟例：认为睡眠重要却通宵，可能早睡，也可能说“今晚只是特殊情况”。",
+      "pitfall": "失调是一种内部不适，不是单纯“同时知道两条信息”。",
+      "source": "L3 · Cognitive Dissonance Theory (Festinger) · [B0096–B0102]",
+      "front": "列出至少三种降低认知失调的方法。",
+      "back": "改行为、改态度、加外部理由，也可降重要性或回避信息。",
+      "cardBack": "改行为、改态度、加外部理由，也可降重要性或回避信息。"
+    },
+    {
+      "id": "L3-C12",
+      "title": "不足外部理由的经典实验",
+      "english": "Festinger & Carlsmith (1959)",
+      "oneLine": "做了违背自己态度的事，又找不到充分外部理由时，人可能改态度，让自己不那么矛盾。",
+      "analogy": "花小报酬做违心事，借口不够，便可能改写“我其实怎么想”。",
+      "simpleExample": "自拟例：本觉得活动无聊，却只拿象征报酬就夸有趣，之后可能说活动没那么无聊。",
+      "explanation": "参与者做完无聊的转钉任务后，拿 $1 或 $20，去向下一位学生说任务有趣。后来 $1 组觉得任务更有趣：小报酬不够解释自己为什么说违心话，于是可能改变态度来减轻矛盾。$20 组则更容易用报酬解释行为，不需要同样程度的态度改变。",
+      "example": "自拟例：本觉得活动无聊，却只拿象征报酬就夸有趣，之后可能说活动没那么无聊。",
+      "pitfall": "不是“奖励越少越喜欢”的一般规律；关键是反态度行为和不足理由。",
+      "source": "L3 · Festinger & Carlsmith (1959)：turning pegs · [B0103–B0108]",
+      "front": "为什么 $1 组可能比 $20 组说任务更有趣？",
+      "back": "$1 不足以解释自己为什么说违心话，于是人可能改成“任务其实还不错”，以减轻内心矛盾。",
+      "cardBack": "$1 不足以解释自己为什么说违心话，于是人可能改成“任务其实还不错”，以减轻内心矛盾。"
+    },
+    {
+      "id": "L3-C13",
+      "title": "肉食悖论与道德脱离",
+      "english": "Meat paradox",
+      "oneLine": "人可能降低动物的心智能力评价，以缓和爱动物却吃动物的矛盾。",
+      "analogy": "像把账单上的成本改小，而不是取消消费。",
+      "simpleExample": "自拟例：准备吃牛肉时说“牛没那么会感受”，可能使自己的选择更容易合理化。",
+      "explanation": "Bastian 等让参与者预期吃牛肉 beef 或坚果 nuts，再评价动物的心智能力和感受能力 mind/sentience。预期吃牛肉的人，对牛的评价更低。这符合一种失调解释：改变对动物的看法，让吃动物不那么难以接受。但不能认定所有食肉者都有这个动机。",
+      "example": "自拟例：准备吃牛肉时说“牛没那么会感受”，可能使自己的选择更容易合理化。",
+      "pitfall": "降低动物评价是可能机制，不代表研究证明每位食肉者都这样。",
+      "source": "L3 · Bastian et al. (2012)：the meat paradox · [B0109–B0113]",
+      "front": "肉食悖论研究中改变的是哪类评价？",
+      "back": "预期吃牛肉的人降低了对牛的心智和感受能力评价；这可能让吃动物与原有态度之间的矛盾减轻。",
+      "cardBack": "预期吃牛肉的人降低了对牛的心智和感受能力评价；这可能让吃动物与原有态度之间的矛盾减轻。"
+    },
+    {
+      "id": "L3-C14",
+      "title": "虚伪感干预与边界",
+      "english": "Hypocrisy-style intervention",
+      "oneLine": "先公开倡导一种做法，再提醒自己没有做到，可能促使部分人改变行为。",
+      "analogy": "先签下承诺再检查是否做到，会让“说与做”更难被忽略。",
+      "simpleExample": "自拟例：先公开倡导系安全带，再反思自己漏系经历，可能增加以后系带意愿。",
+      "explanation": "干预先让人公开表达健康态度或作出承诺，再提醒他过去哪些行为没有做到。改行为可以减轻这种矛盾，但人也可能找理由开脱。效果取决于他是否重视议题、能否轻易合理化；羞耻过强反而可能让人防御。",
+      "example": "自拟例：先公开倡导系安全带，再反思自己漏系经历，可能增加以后系带意愿。",
+      "pitfall": "不应把让人越羞愧当作越有效的规则。",
+      "source": "L3 · Dissonance 作为 behaviour-change tool · [B0114–B0116]",
+      "front": "为什么凸显不一致不一定使人改变行为？",
+      "back": "人可能合理化、回避；过强羞耻也可能触发防御。",
+      "cardBack": "人可能合理化、回避；过强羞耻也可能触发防御。"
+    },
+    {
+      "id": "L3-C15",
+      "title": "说服的中央与外周路径",
+      "english": "Elaboration Likelihood Model (ELM)",
+      "oneLine": "投入和能力足够时分析论据，资源不足时更依赖简捷线索。",
+      "analogy": "认真比较手机参数与看到明星代言随手买，代表不同加工投入。",
+      "simpleExample": "自拟例：重要电脑采购时查证据；疲惫刷广告时可能凭熟悉品牌选择。",
+      "explanation": "有兴趣认真考虑，而且有足够注意、知识和认知资源时，人更可能走中央路径，仔细判断论据强不强。投入或资源不足时，则可能走外周路径，更依赖来源、熟悉度、外表和情绪等线索。同一个人换个情境，也可能换一种路径。",
+      "example": "自拟例：重要电脑采购时查证据；疲惫刷广告时可能凭熟悉品牌选择。",
+      "pitfall": "不是两种固定人格；TPB 解释意图，ELM 解释说服加工。",
+      "source": "L3 · Elaboration Likelihood Model (ELM) · [B0119–B0122]",
+      "front": "中央路径需要什么条件？它与外周路径有何区别？",
+      "back": "高动机且有加工能力时分析论据；资源不足时较依赖简捷线索。",
+      "cardBack": "高动机且有加工能力时分析论据；资源不足时较依赖简捷线索。"
+    },
+    {
+      "id": "L3-C16",
+      "title": "来源—信息—受众",
+      "english": "Source, message and audience",
+      "oneLine": "说服效果取决于谁说、怎么说以及受众如何处理。",
+      "analogy": "同一说明书由不同人讲给不同状态的听众，效果不会固定。",
+      "simpleExample": "自拟例：疲惫学生看明星海报与关心安全的学生看检测证据，可能关注不同线索。",
+      "explanation": "说服要一起看来源、信息和受众。来源是否专业、是否值得信任很重要，自利动机会降低信任；论据、表达框架、恐惧程度和操纵感也会影响效果。受众想不想深入思考，是否被提醒有人要说服自己，以及是否反驳或回避信息，都会改变结果。还要结合当时的情境和加工路径。",
+      "example": "自拟例：疲惫学生看明星海报与关心安全的学生看检测证据，可能关注不同线索。",
+      "pitfall": "高权力或高吸引力来源不保证成功，受众可能抵抗。",
+      "source": "L3 · 影响说服力的三个位置 · [B0123–B0140]",
+      "front": "说服过程要看哪三个部分？各举一个因素。",
+      "back": "Source 可信度；message 论据/框架；audience 动机、能力或反驳。",
+      "cardBack": "Source 可信度；message 论据/框架；audience 动机、能力或反驳。"
+    },
+    {
+      "id": "L3-C17",
+      "title": "助推的判定标准",
+      "english": "Nudge and choice architecture",
+      "oneLine": "助推改变选择环境，不禁选项、不大改经济诱因且易于退出。",
+      "analogy": "把常用工具放手边帮助选择，不是把其他工具锁起来。",
+      "simpleExample": "自拟例：食堂把水果放在视线高度，但仍可轻松选零食。",
+      "explanation": "助推改变物理、社会或心理上的选择环境，让某种选择更容易出现，而不是强迫人。它仍保留其他选项，不显著改变经济诱因，而且退出应容易、成本低。默认设置或显眼摆放可能是助推，直接禁止一种食品则不是。",
+      "example": "自拟例：食堂把水果放在视线高度，但仍可轻松选零食。",
+      "pitfall": "法律监管型包装政策不应直接归为 pure nudge。",
+      "source": "L3 · Nudge 的判定标准 · [B0146–B0151]",
+      "front": "怎样区分助推和强制规定？",
+      "back": "检查是否保留选项、未显著改经济诱因、且易于低成本退出。",
+      "cardBack": "检查是否保留选项、未显著改经济诱因、且易于低成本退出。"
+    },
+    {
+      "id": "L3-C18",
+      "title": "不完美加工与行为偏差",
+      "english": "Imperfect processing and behavioural tendencies",
+      "oneLine": "注意、未来折扣和损失感受等偏差会影响日常选择。",
+      "analogy": "大脑像电量有限的手机，常用快捷模式而非算完全部结果。",
+      "simpleExample": "自拟例：计划下月存钱却买眼前优惠商品，可能体现 present bias。",
+      "explanation": "人掌握的信息有限，脑力和自控也有限，所以选择会受选项厌恶、显著性、损失厌恶、当下偏差、过度自信和规范影响。这些都可能成为干预的切入点。损失厌恶是同等损失通常比收益更让人难受；当下偏差则是过分看重眼前，两者不同。",
+      "example": "自拟例：计划下月存钱却买眼前优惠商品，可能体现 present bias。",
+      "pitfall": "Present bias、loss aversion 与 overconfidence 不可混为一个“非理性”。",
+      "source": "L3 · 为什么 nudge 可能有效？人是 imperfect processors · [B0152–B0155]",
+      "front": "Present bias 与 loss aversion 分别是什么？",
+      "back": "前者高估现在、低估未来；后者通常对同等损失比收益更敏感。",
+      "cardBack": "前者高估现在、低估未来；后者通常对同等损失比收益更敏感。"
+    },
+    {
+      "id": "L3-C19",
+      "title": "描述性与命令性规范",
+      "english": "Descriptive and injunctive norms",
+      "oneLine": "规范可以说明人们实际做什么，也可以说明什么被认可。",
+      "analogy": "“大家吃什么”与“大家认为应该吃什么”是两张不同菜单。",
+      "simpleExample": "自拟例：“多数同学不抄袭”是描述；“同学认为抄袭不对”是认可/应当。",
+      "explanation": "描述性规范告诉你“大家通常做什么”；命令性规范告诉你“大家认可什么、认为应该怎么做”。两种规范都可以影响行为，但人对规范的理解可能只是自己的印象，不一定准确反映真实多数。",
+      "example": "自拟例：“多数同学不抄袭”是描述；“同学认为抄袭不对”是认可/应当。",
+      "pitfall": "Injunctive 不只是“法律禁止”；descriptive 不等于研究者确认真实。",
+      "source": "L3 · Descriptive vs injunctive norms · [B0165–B0175]",
+      "front": "两类规范各回答什么问题？",
+      "back": "Descriptive：多数人做什么；injunctive：多数人认可或认为应做什么。",
+      "cardBack": "Descriptive：多数人做什么；injunctive：多数人认可或认为应做什么。"
+    },
+    {
+      "id": "L3-C20",
+      "title": "规范信息对齐",
+      "english": "Norm alignment",
+      "oneLine": "劝阻某行为却说人人都做，可能反而把问题正常化。",
+      "analogy": "路牌写“别走这里，大家都走”给出互相冲突的导航。",
+      "simpleExample": "自拟例：反作弊海报写“作弊太普遍了”可能传递“同伴都作弊”的描述规范。",
+      "explanation": "如果“大家认可什么”和“大家通常做什么”方向一致，劝说通常更有力。但一边说“别做”，一边说“大多数人都做”，就可能让人觉得这件事很正常，反而削弱劝阻。设计信息时，还必须使用真实规范，不能编数字来让人跟从。",
+      "example": "自拟例：反作弊海报写“作弊太普遍了”可能传递“同伴都作弊”的描述规范。",
+      "pitfall": "夸大问题频率不一定能提高警觉，可能产生反向规范效果。",
+      "source": "L3 · Descriptive vs injunctive norms · [B0170–B0175]",
+      "front": "为什么“不要浪费，大家都浪费”可能有反效果？",
+      "back": "它一边说浪费不应该，一边说浪费是多数人的做法，可能让人觉得“大家都这样，没什么”。",
+      "cardBack": "它一边说浪费不应该，一边说浪费是多数人的做法，可能让人觉得“大家都这样，没什么”。"
+    },
+    {
+      "id": "L3-C21",
+      "title": "规范干预的研究证据",
+      "english": "Social-norm intervention studies",
+      "oneLine": "具体、可信且相关的比较群体能影响行为，但自述原因未必准确。",
+      "analogy": "同一比较榜，与你同社区的人往往比遥远全国均值更有参照意义。",
+      "simpleExample": "自拟例：住户看到同楼邻居节电信息，可能比抽象环保口号更愿意节电。",
+      "explanation": "本讲举了税务、节电、抗生素、酒驾和校园欺凌等例子。税务回应率从常规信息的 68% 升到 town norm 的 83%；节电规范实际影响较强，人们却觉得自己受它影响很小；抗生素高处方群体收到同行比较后，处方率下降。这些研究设计和测量不同，不能说任何规范信息都能在任何地方奏效。",
+      "example": "自拟例：住户看到同楼邻居节电信息，可能比抽象环保口号更愿意节电。",
+      "pitfall": "不要把自述“我不受影响”视为实际没有影响，也别把单项结果当万能工具。",
+      "source": "L3 · 五项 social-norm interventions · [B0176–B0184]",
+      "front": "规范研究为什么既要看行为结果，也要看参照群体？",
+      "back": "看真实行为，才能知道信息有没有起作用；参照群体是否与自己相关，也会影响规范有多重要。",
+      "cardBack": "看真实行为，才能知道信息有没有起作用；参照群体是否与自己相关，也会影响规范有多重要。"
+    },
+    {
+      "id": "L3-C22",
+      "title": "规范乘上社会认同",
+      "english": "Norms × social identity",
+      "oneLine": "越认同某个群体，越可能在意“我们群体怎么做”，让它的规范影响自己的意图。",
+      "analogy": "同一队服会让“他们的规定”更像“我们怎么做”。",
+      "simpleExample": "自拟例：朋友群重视回收时，强认同该群体的成员可能更愿意回收。",
+      "explanation": "社会认同是把自己看作群体的一员。Terry/Hogg 的回收研究中，群体规范高、成员又很认同群体时，回收意图增加最多。但测量的是未来两周的意图，不是已经观察到的回收行动；课件对年份也有两种标注。",
+      "example": "自拟例：朋友群重视回收时，强认同该群体的成员可能更愿意回收。",
+      "pitfall": "不是什么群体的多数意见都一样重要；还要问这个群体是不是自己在意的“我们”。",
+      "source": "L3 · Terry & Hogg recycling study · [B0186–B0195]",
+      "front": "Terry/Hogg 结果中的最强组合是什么？测的是行为吗？",
+      "back": "高 group norm＋高 identification；主要测 recycling intention，不是直接实际行为。",
+      "cardBack": "高 group norm＋高 identification；主要测 recycling intention，不是直接实际行为。"
+    },
+    {
+      "id": "L3-C23",
+      "title": "行为干预的伦理与评估",
+      "english": "Ethical behavioural intervention",
+      "oneLine": "干预要用真实信息、让人知道怎么运作、允许退出，并检查实际行为有没有改变。",
+      "analogy": "导航可以建议路线，但不应伪造路况或锁住出口。",
+      "simpleExample": "自拟例：节电提醒用真实邻居数据，保护隐私，并检查真实电量而非只问意愿。",
+      "explanation": "先问干预是否真正有益，再检查信息是否准确、隐私是否受保护，以及人能否自主选择和退出。目标行为和参照群体要具体，也要测量实际行为与意外后果。助推不能代替解决贫困、资源不足或难以获得服务等结构问题。",
+      "example": "自拟例：节电提醒用真实邻居数据，保护隐私，并检查真实电量而非只问意愿。",
+      "pitfall": "有效不自动等于合伦理，资源障碍不应被解释为个人懒惰。",
+      "source": "L3 · 设计更强干预的 checklist · [B0162–B0204]",
+      "front": "如何改进规范干预的效果和伦理？",
+      "back": "用真实、具体、与受众有关的群体信息；解释清楚并保留选择权；最后检查实际行为及意外后果。",
+      "cardBack": "用真实、具体、与受众有关的群体信息；解释清楚并保留选择权；最后检查实际行为及意外后果。"
+    },
+    {
+      "id": "L3-C24",
+      "title": "影响机制的道德中立性",
+      "english": "Moral neutrality of social influence",
+      "oneLine": "同样的规范与身份机制既能促进合作，也能推动排斥和误导。",
+      "analogy": "扩音器能传播救援通知，也能传播谣言；机制本身不决定目标。",
+      "simpleExample": "自拟例：群聊把嘲讽外群体当忠诚标志时，成员可能跟随有害规范。",
+      "explanation": "共同身份、群体规范、领导支持，再加上限制异议，可能让危险行为看起来正常甚至必要。邪教、偏见和错误信息说明，这些影响也可能被用来伤害人，但不是说加入群体就会变坏。需要准确信息、多元观点、对领导的问责和质疑，以及退出的权利。",
+      "example": "自拟例：群聊把嘲讽外群体当忠诚标志时，成员可能跟随有害规范。",
+      "pitfall": "Jonestown 不能简化为纯自愿群体自杀；也不能把任何政治反对都视为偏见。",
+      "source": "L3 · When influence goes wrong：规范与身份的道德中立性 · [B0205–B0222]",
+      "front": "为什么不能说规范影响总是有益？",
+      "back": "规范能鼓励合作，也能让排斥、偏见和误导看起来正常。效果好坏要看内容和情境，并检查是否合乎伦理。",
+      "cardBack": "规范能鼓励合作，也能让排斥、偏见和误导看起来正常。效果好坏要看内容和情境，并检查是否合乎伦理。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "L3-Q01",
+      "conceptId": "L3-C01",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "态度 ABC 中的 B 最准确指什么？",
+      "stemEn": "What does B in the ABC model of attitudes most accurately refer to?",
+      "options": [
+        "只指已被观察到的实际行动",
+        "对对象的知识和信念",
+        "与对象相连的情绪",
+        "行为倾向或意图，不一定是已经发生的行动"
+      ],
+      "optionsEn": [
+        "Only observed, completed action",
+        "Knowledge and beliefs about the object",
+        "Feelings associated with the object",
+        "A behavioural tendency or intention, not necessarily completed action"
+      ],
+      "answer": 3,
+      "explanation": "B 可以是“我打算做”，不要求行为已经发生。态度里的行动倾向，与真正观察到的行动要分开。",
+      "optionExplanations": [
+        "错误：B 也包括倾向和意图，不只记录已经做过的事。",
+        "错误：知识和信念属于 C，即 cognition。",
+        "错误：与对象有关的情绪属于 A，即 affect。",
+        "正确：打算行动也是 B 的内容，但想做不等于已经做。"
+      ],
+      "source": "L3 · ABCs of attitudes · [B0024–B0027]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q02",
+      "conceptId": "L3-C02",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "一个态度一想到相关对象就迅速浮现，最直接体现什么？",
+      "stemEn": "An attitude comes to mind immediately when its object is mentioned. Which dimension is most directly illustrated?",
+      "options": [
+        "道德化",
+        "强制性",
+        "可及性",
+        "矛盾性"
+      ],
+      "optionsEn": [
+        "Moralisation",
+        "Coercion",
+        "Accessibility",
+        "Ambivalence"
+      ],
+      "answer": 2,
+      "explanation": "题目强调的是“很容易想起这个看法”，因此是可及性。它不是在说立场是否道德化，或内心是否同时有冲突感受。",
+      "optionExplanations": [
+        "错误：容易想起某个看法，不等于把它看成绝对对错。",
+        "错误：题目没有描述谁在强迫这个人。",
+        "正确：可及性高，就是相关对象一出现，这个态度很容易被想起。",
+        "错误：矛盾性是对同一对象有冲突感受，与想起速度不同。"
+      ],
+      "source": "L3 · 态度的维度 | Dimensions · [B0028–B0035]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q03",
+      "conceptId": "L3-C03",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "反复接触一个陌生品牌后更有好感，最直接符合哪种态度来源？",
+      "stemEn": "Greater liking develops after repeated exposure to an unfamiliar brand. Which source of attitudes best fits?",
+      "options": [
+        "实际行为已经完成",
+        "重复接触",
+        "仅由遗传决定",
+        "认知失调必然发生"
+      ],
+      "optionsEn": [
+        "Completion of the actual behaviour",
+        "Repeated exposure",
+        "Genetic determination alone",
+        "Inevitable cognitive dissonance"
+      ],
+      "answer": 1,
+      "explanation": "反复看到品牌后，它变得熟悉，好感也可能增加。这符合重复接触的解释，但不代表任何重复都会让人更喜欢。",
+      "optionExplanations": [
+        "错误：更喜欢品牌，不代表已经购买或使用它。",
+        "正确：多次接触可能增加熟悉感，继而增加好感。",
+        "错误：题目描述接触后的变化，不能据此说只由遗传决定。",
+        "错误：没有说态度与行为冲突，不能推断认知失调。"
+      ],
+      "source": "L3 · 态度从哪里来？ | Development · [B0036–B0040]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q04",
+      "conceptId": "L3-C04",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "哪项最能区分道德确信与普通强烈偏好？",
+      "stemEn": "What best distinguishes a moral conviction from a strong ordinary preference?",
+      "options": [
+        "把立场体验为绝对对错",
+        "总是比别人更了解事实",
+        "态度永远不会改变",
+        "只涉及消费选择"
+      ],
+      "optionsEn": [
+        "Experiencing the stance as a matter of absolute right and wrong",
+        "Always possessing better factual knowledge",
+        "Having an attitude that can never change",
+        "Being concerned only with consumer choices"
+      ],
+      "answer": 0,
+      "explanation": "道德确信的关键是“这件事在道德上就是对或错”，而不是“我特别喜欢”。立场强烈和把立场道德化，需要分开。",
+      "optionExplanations": [
+        "正确：把立场看成绝对对错，才是道德确信与强烈偏好的区别。",
+        "错误：认为自己在道德上正确，不保证更了解事实。",
+        "错误：难以妥协，不代表态度永远不能改变。",
+        "错误：道德确信可以涉及很多社会议题，不限于消费。"
+      ],
+      "source": "L3 · 态度能否改变？ | Persuasion & moral conviction · [B0041–B0045]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q05",
+      "conceptId": "L3-C05",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "LaPiere 研究的核心结果是什么？",
+      "stemEn": "What was the central finding of LaPiere’s study?",
+      "options": [
+        "现场全部拒绝，后来问卷全部同意",
+        "问卷和行为完全一致",
+        "态度改变先于所有观察行为",
+        "现场几乎都接待中国夫妇，后来问卷却多说不接待"
+      ],
+      "optionsEn": [
+        "Every venue refused service, but every later questionnaire agreed to serve",
+        "Questionnaire responses and behaviour matched perfectly",
+        "Attitude change preceded every observed behaviour",
+        "Almost all venues served the Chinese couple, but later questionnaires mostly reported refusal"
+      ],
+      "answer": 3,
+      "explanation": "现场只拒绝接待一次，后来问卷却多数说不接待。这个反差说明，说出来的一般态度不一定等于面对具体顾客时的做法。",
+      "optionExplanations": [
+        "错误：现场几乎都接待了，问卷则多数说不接待，方向相反。",
+        "错误：实际接待和问卷回答有明显差异。",
+        "错误：先观察实际接待，约六个月后才收集问卷态度。",
+        "正确：现场行为与后来的一般问卷态度，并不一致。"
+      ],
+      "source": "L3 · LaPiere (1934)：stated attitude vs observed practice · [B0050–B0054]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q06",
+      "conceptId": "L3-C05",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "LaPiere 研究为什么不能直接证明同一个人的态度完全不预测行为？",
+      "stemEn": "Why does LaPiere’s study not directly establish that an individual’s attitude never predicts behaviour?",
+      "options": [
+        "两种测量同时由同一员工完成",
+        "态度和行为的相关必然为零",
+        "答卷者可能不是接待者，且测量时点与情境不同",
+        "研究没有任何实际接待观察"
+      ],
+      "optionsEn": [
+        "Both measures were completed simultaneously by the same staff member",
+        "The attitude–behaviour correlation must be zero",
+        "Respondents may not have been the staff who served the couple, and timing and contexts differed",
+        "There were no observations of actual service"
+      ],
+      "answer": 2,
+      "explanation": "现场接待的人可能没有填写后来问卷，而且两次测量相隔约六个月、情境也不同。因此，不能直接说同一个人的态度完全不能预测行为。",
+      "optionExplanations": [
+        "错误：两次测量有时间间隔，答卷者也未必是接待者。",
+        "错误：出现差异，不等于证明态度与行为在所有情况下都零相关。",
+        "正确：没有确保同一个人在同一时间、同一情境接受两种测量。",
+        "错误：研究确实观察并记录了现场接待行为。"
+      ],
+      "source": "L3 · LaPiere (1934)：stated attitude vs observed practice · [B0051–B0054]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q07",
+      "conceptId": "L3-C06",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Wicker 的 r≈.15 应怎样理解？",
+      "stemEn": "How should Wicker’s average correlation of approximately .15 be interpreted?",
+      "options": [
+        "所有情境中的态度预测都恰好为 .15",
+        "早期研究中一般态度与行为的平均关系较弱",
+        "15% 的参与者具有态度",
+        "态度导致 15% 的行为"
+      ],
+      "optionsEn": [
+        "Every context has an attitude–behaviour correlation of exactly .15",
+        "The average association between general attitudes and behaviour in the reviewed early studies was weak",
+        "Fifteen percent of participants had attitudes",
+        "Attitudes caused fifteen percent of behaviour"
+      ],
+      "answer": 1,
+      "explanation": "r≈.15 表示这批早期研究中，态度与行为的平均关系较弱。它不是人数百分比，也不是态度造成了多少行为；各研究的结果也不完全一样。",
+      "optionExplanations": [
+        "错误：平均 .15 不代表每项研究、每种情境都恰好是 .15。",
+        "正确：它描述的是早期研究的平均关联，而且关联较弱。",
+        "错误：相关系数不能解释为有态度的参与者占 15%。",
+        "错误：相关不能证明因果，也不是态度造成行为的百分比。"
+      ],
+      "source": "L3 · Wicker (1969)：42-study review · [B0057–B0061]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q08",
+      "conceptId": "L3-C07",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "TPB 中哪组变量先共同预测行为意图？",
+      "stemEn": "Which set of variables jointly predicts behavioural intention in TPB?",
+      "options": [
+        "行为态度、主观规范、知觉行为控制",
+        "可及性、中心化、守恒",
+        "态度、道德圈、同理心",
+        "中央路径、外周路径、记忆阶段"
+      ],
+      "optionsEn": [
+        "Attitude toward the behaviour, subjective norm, and perceived behavioural control",
+        "Accessibility, centration, and conservation",
+        "Attitude, moral circle, and empathy",
+        "Central route, peripheral route, and memory stages"
+      ],
+      "answer": 0,
+      "explanation": "TPB 先看“我怎么看这件事”“重要他人期待我怎么做”“我觉得自己能否做到”。这三个因素共同预测意图，再用意图预测行为。",
+      "optionExplanations": [
+        "正确：分别对应对行为的评价、他人期待和自己觉得能否做到。",
+        "错误：中心化和守恒不属于 TPB 的三项意图预测因素。",
+        "错误：TPB 的三项核心因素中不包括道德圈和同理心。",
+        "错误：中央与外周路径解释 ELM 的说服过程，不是 TPB。"
+      ],
+      "source": "L3 · Theory of Planned Behaviour (TPB) · [B0062–B0068]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q09",
+      "conceptId": "L3-C07",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "学生想骑车上学，但觉得没有安全路线、自己做不到。TPB 中最直接对应什么？",
+      "stemEn": "A student wants to cycle to campus but believes there is no safe route and they cannot manage it. Which TPB construct is most directly involved?",
+      "options": [
+        "主观规范",
+        "单纯行为态度",
+        "外周说服路径",
+        "知觉行为控制"
+      ],
+      "optionsEn": [
+        "Subjective norm",
+        "Attitude toward the behaviour alone",
+        "The peripheral persuasion route",
+        "Perceived behavioural control"
+      ],
+      "answer": 3,
+      "explanation": "学生想骑车，但担心路线和自身能力，重点是“我能不能做到”。这种对能力、机会和控制的判断，就是知觉行为控制。",
+      "optionExplanations": [
+        "错误：主观规范看重要他人的期待，题目没有描述这一点。",
+        "错误：学生想骑车，当前障碍不是喜不喜欢，而是能不能做到。",
+        "错误：题目没有描述他如何处理说服信息。",
+        "正确：路线和能力影响他觉得自己能否完成行为。"
+      ],
+      "source": "L3 · Theory of Planned Behaviour (TPB) · [B0065–B0068]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q10",
+      "conceptId": "L3-C08",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "若预测明天骑车上学，哪项态度测量最匹配？",
+      "stemEn": "Which attitude measure best matches a prediction of cycling to campus tomorrow?",
+      "options": [
+        "对所有交通工具的总体印象",
+        "对朋友人格的评价",
+        "对明天骑车上学的具体评价",
+        "对人类健康的一般评价"
+      ],
+      "optionsEn": [
+        "An overall impression of all transport",
+        "Evaluation of a friend’s personality",
+        "Evaluation of cycling to campus tomorrow",
+        "A general evaluation of human health"
+      ],
+      "answer": 2,
+      "explanation": "要预测明天骑车，就问对“明天骑车上学”的看法。问得太宽，会混进其他交通方式或健康行为，不如直接对应目标行为。",
+      "optionExplanations": [
+        "错误：对所有交通工具的印象，混合了很多不同选择。",
+        "错误：评价朋友人格，不是在评价自己明天骑车。",
+        "正确：对象、行为和时间都贴近要预测的明天骑车。",
+        "错误：健康的一般评价太宽，不能直接对应这次骑车选择。"
+      ],
+      "source": "L3 · 什么时候态度更能预测行为？ · [B0073–B0078]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q11",
+      "conceptId": "L3-C09",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "匿名态度问卷最合理的优势与边界是什么？",
+      "stemEn": "What is a reasonable advantage and limitation of an anonymous attitude questionnaire?",
+      "options": [
+        "生理唤醒可保证辨别谎言",
+        "可降低社会压力，但不消除社会赞许或自我认识偏差",
+        "完全消除一切报告偏差",
+        "直接观察所有真实行为"
+      ],
+      "optionsEn": [
+        "Physiological arousal guarantees detection of lies",
+        "It may reduce social pressure without eliminating desirability or limits in self-insight",
+        "It eliminates every reporting bias",
+        "It directly observes all real behaviour"
+      ],
+      "answer": 1,
+      "explanation": "匿名能减少被别人评价的压力，但人仍可能想给出社会认可的答案，也可能不了解自己的真实动机。问卷不是实际行为记录，所以最好结合其他测量核对。",
+      "optionExplanations": [
+        "错误：生理唤醒可能有多种原因，不能保证识别谎言。",
+        "正确：匿名减轻公开压力，但仍不能排除迎合期待或不了解自己的回答。",
+        "错误：匿名不会自动消除所有自我报告偏差。",
+        "错误：问卷记录的是人怎么回答，不是直接看他怎么行动。"
+      ],
+      "source": "L3 · 教授补充：attitude measurement · [B0079–B0085]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q12",
+      "conceptId": "L3-C10",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "你喜欢的朋友支持你反对的议题，随后你降低对朋友的好感。哪种机制最直接？",
+      "stemEn": "A friend you like supports an issue you oppose, so you lower your liking for that friend. Which mechanism best fits?",
+      "options": [
+        "平衡理论：改变对 Other 的态度",
+        "TPB：提高知觉控制",
+        "ELM：分析更强论据",
+        "助推：改变默认选项"
+      ],
+      "optionsEn": [
+        "Balance theory: changing the attitude toward Other",
+        "TPB: increasing perceived control",
+        "ELM: analysing stronger arguments",
+        "Nudging: changing a default option"
+      ],
+      "answer": 0,
+      "explanation": "你喜欢朋友，却反对他支持的议题，这个三角关系让你感到不协调。降低对朋友的好感，就是改变对 Other 的态度来恢复平衡。",
+      "optionExplanations": [
+        "正确：自己、朋友和议题关系不平衡，于是改变对朋友的态度。",
+        "错误：题目没有说你觉得自己更有能力完成某个行为。",
+        "错误：题目没有描述分析说服论据，而是对朋友的好感改变。",
+        "错误：没有调整选择环境或默认选项。"
+      ],
+      "source": "L3 · Balance Theory (Heider) · [B0088–B0095]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q13",
+      "conceptId": "L3-C11",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "重视环保却频繁坐飞机的人说“我的工作根本没有替代方案”。这最像哪种失调减压？",
+      "stemEn": "Someone values the environment but flies frequently and says, “My job gives me no alternative.” Which dissonance-reduction response best fits?",
+      "options": [
+        "已经停止飞行",
+        "消除所有群体规范",
+        "完成中央路径加工",
+        "增加外部理由"
+      ],
+      "optionsEn": [
+        "Having stopped flying",
+        "Eliminating all group norms",
+        "Completing central-route processing",
+        "Adding an external justification"
+      ],
+      "answer": 3,
+      "explanation": "他仍继续飞行，但用工作限制来解释为什么无法按环保态度行动。这是在增加外部理由，以减轻矛盾，而不是改变行为。",
+      "optionExplanations": [
+        "错误：题目仍说他频繁飞行，没有停止。",
+        "错误：解释自己的行为，不代表所有群体规范消失。",
+        "错误：题目没有描述仔细分析说服论据。",
+        "正确：把工作限制当作理由，让行为与态度的冲突更容易接受。"
+      ],
+      "source": "L3 · 常见的减压路径 · [B0098–B0102]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q14",
+      "conceptId": "L3-C12",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "转钉实验中 $1 组更称任务有趣，正确解释是什么？",
+      "stemEn": "Why did the $1 group report greater enjoyment in the peg-turning study?",
+      "options": [
+        "$20 组一定没有撒谎",
+        "$1 组任务内容原本更精彩",
+        "反态度撒谎缺乏充分外部理由，改态度有助减失调",
+        "小额奖励总让任何任务更有趣"
+      ],
+      "optionsEn": [
+        "The $20 group definitely did not lie",
+        "The $1 group originally received a more interesting task",
+        "Counter-attitudinal lying lacked sufficient external justification, so attitude change could reduce dissonance",
+        "Small rewards always make any task more enjoyable"
+      ],
+      "answer": 2,
+      "explanation": "两组都把无聊任务说成有趣。$20 更容易解释自己为何说违心话；$1 的理由不够充分，于是人可能改变态度，让说过的话与原本看法不那么冲突。",
+      "optionExplanations": [
+        "错误：$20 组同样把无聊任务说成有趣，只是报酬更能解释行为。",
+        "错误：不是因为 $1 组做了更精彩的任务。",
+        "正确：小报酬不足以解释违心行为，改态度便可能减轻内心矛盾。",
+        "错误：关键是违背态度的行为和理由不足，不是小奖励总让任务更有趣。"
+      ],
+      "source": "L3 · Festinger & Carlsmith (1959)：turning pegs · [B0103–B0108]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q15",
+      "conceptId": "L3-C13",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "应用",
+      "stem": "Bastian 等肉食悖论研究中，预期吃牛肉者降低对牛的心智评价意味着什么？",
+      "stemEn": "In the meat-paradox study, what does lower mind attribution to cows among those expecting to eat beef suggest?",
+      "options": [
+        "参与者已永久停止吃肉",
+        "通过改变动物评价来缓和自身矛盾的一种机制",
+        "所有食肉者都不关心动物",
+        "研究证明牛没有感受能力"
+      ],
+      "optionsEn": [
+        "Participants had permanently stopped eating meat",
+        "A possible mechanism for reducing personal inconsistency by changing evaluations of animals",
+        "All meat eaters do not care about animals",
+        "The study proves cows have no capacity to feel"
+      ],
+      "answer": 1,
+      "explanation": "如果觉得牛的感受能力较低，预期吃牛肉就可能不那么令人矛盾。这支持通过改变信念减轻失调的解释，但不说明所有食肉者都这样想。",
+      "optionExplanations": [
+        "错误：实验观察的是对牛的评价，不是永久停止食肉。",
+        "正确：降低动物评价，可能让吃动物与自己的态度不那么冲突。",
+        "错误：一项实验不能证明所有食肉者都不关心动物。",
+        "错误：测的是参与者怎么看牛，不是牛真实的感受能力。"
+      ],
+      "source": "L3 · Bastian et al. (2012)：the meat paradox · [B0109–B0113]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q16",
+      "conceptId": "L3-C14",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "虚伪感干预为何不保证行为改善？",
+      "stemEn": "Why does a hypocrisy-style intervention not guarantee improved behaviour?",
+      "options": [
+        "人可以合理化或回避，过强羞耻可引发防御",
+        "公开承诺永远不起作用",
+        "认知失调只发生在人与人之间",
+        "只要产生不适就必然改变行为"
+      ],
+      "optionsEn": [
+        "People can rationalise or avoid the issue, and excessive shame can trigger defensiveness",
+        "Public commitment never has an effect",
+        "Dissonance occurs only between different people",
+        "Any discomfort necessarily changes behaviour"
+      ],
+      "answer": 0,
+      "explanation": "被提醒没有做到自己的承诺后，人可能改行为，也可能找理由、回避信息或防御。羞耻过强甚至会增加防御，所以不适不等于一定改好。",
+      "optionExplanations": [
+        "正确：人也能靠解释、回避或防御减轻不适，不一定改行为。",
+        "错误：公开承诺可能让人更在意说到做到，只是不保证有效。",
+        "错误：认知失调指同一个人内部的矛盾和不适。",
+        "错误：改变行为只是减轻不适的一种办法，也可能改态度或回避。"
+      ],
+      "source": "L3 · Dissonance 作为 behaviour-change tool · [B0114–B0116]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q17",
+      "conceptId": "L3-C15",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "购电脑前认真查检测结果并比较论据，最符合哪种加工？",
+      "stemEn": "Before buying a computer, a person carefully examines test results and compares arguments. Which processing route best fits?",
+      "options": [
+        "外周路径",
+        "A-not-B 错误",
+        "主观规范自动消失",
+        "中央路径"
+      ],
+      "optionsEn": [
+        "Peripheral route",
+        "The A-not-B error",
+        "Automatic disappearance of subjective norms",
+        "Central route"
+      ],
+      "answer": 3,
+      "explanation": "他在认真比较检测证据和论据，而不是只凭明星、外表或熟悉感决定。这种深入处理信息，符合中央路径。",
+      "optionExplanations": [
+        "错误：外周路径更依赖简捷线索，不以仔细比较证据为重点。",
+        "错误：A-not-B 是婴儿搜索任务中的错误，与说服路径不同。",
+        "错误：仔细看证据，不代表重要他人的期待自动消失。",
+        "正确：认真评估信息内容和论据，是中央路径的重点。"
+      ],
+      "source": "L3 · Elaboration Likelihood Model (ELM) · [B0119–B0122]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q18",
+      "conceptId": "L3-C15",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "ELM 中两条路径最合理的关系是什么？",
+      "stemEn": "How should the two ELM routes be understood?",
+      "options": [
+        "中央路径就是已经有行为意图",
+        "外周路径只可能由专家使用",
+        "同一人随动机和认知资源变化可能使用不同路径",
+        "人出生后固定属于中央型或外周型"
+      ],
+      "optionsEn": [
+        "Central processing is simply having a behavioural intention",
+        "Only experts can use the peripheral route",
+        "The same person may use different routes as motivation and cognitive resources change",
+        "People are permanently born as central or peripheral types"
+      ],
+      "answer": 2,
+      "explanation": "一个人有兴趣、有资源时可能仔细分析，疲惫或不关心时则可能靠简单线索。中央和外周路径描述处理信息的方式，不是两种出生后固定的人。",
+      "optionExplanations": [
+        "错误：行为意图是 TPB 的重点，中央路径说的是怎样处理信息。",
+        "错误：任何人在投入或资源不足时，都可能依赖外周线索。",
+        "正确：同一个人的动机和资源改变，处理信息的方式也可能改变。",
+        "错误：ELM 不是把人固定分成中央型和外周型。"
+      ],
+      "source": "L3 · Elaboration Likelihood Model (ELM) · [B0119–B0122]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q19",
+      "conceptId": "L3-C16",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "一位专家明显从推荐中获得私利，其说服力可能受损，最直接涉及什么？",
+      "stemEn": "An expert visibly profits from a recommendation. Which factor most directly explains a possible reduction in persuasiveness?",
+      "options": [
+        "行为控制已经提高",
+        "来源的可信赖性与动机",
+        "信息中变量控制是否系统",
+        "所有受众都进入同一路径"
+      ],
+      "optionsEn": [
+        "An increase in behavioural control",
+        "Source trustworthiness and motive",
+        "Systematic variable control in the message",
+        "All audiences entering the same route"
+      ],
+      "answer": 1,
+      "explanation": "专家可能很懂，但如果推荐能让他获利，受众就可能怀疑他是否诚实。可信度既看专业能力，也看是否值得信任。",
+      "optionExplanations": [
+        "错误：知道专家会获利，不会直接让受众觉得自己更能完成行为。",
+        "正确：自利动机可能削弱信任，即使来源确实专业。",
+        "错误：题目关心推荐者是否可信，不是实验如何控制变量。",
+        "错误：同一个来源线索，也不保证所有受众都用同一种加工路径。"
+      ],
+      "source": "L3 · Source / 来源 · [B0123–B0128]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q20",
+      "conceptId": "L3-C17",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "哪项最符合 pure nudge 的定义？",
+      "stemEn": "Which intervention best fits the definition of a pure nudge?",
+      "options": [
+        "把水果摆在视线高度，仍易于选其他食物",
+        "全面禁止购买零食",
+        "对选零食者征收巨额罚款",
+        "让退出健康套餐默认的手续极其困难"
+      ],
+      "optionsEn": [
+        "Placing fruit at eye level while other foods remain easy to choose",
+        "Banning all purchases of snacks",
+        "Imposing a large fine on snack choices",
+        "Making it extremely difficult to opt out of the healthy-meal default"
+      ],
+      "answer": 0,
+      "explanation": "水果更容易被看见，但人仍能轻松选择别的食物，也没有大幅改变金钱诱因。这是改变选择环境，不是限制选择。",
+      "optionExplanations": [
+        "正确：让水果更显眼，同时保留轻松选择其他食物的权利。",
+        "错误：禁买零食直接拿掉了选项，属于强制限制。",
+        "错误：巨额罚款大幅改变经济诱因，不是纯助推。",
+        "错误：退出困难，不符合助推应容易、低成本避开的要求。"
+      ],
+      "source": "L3 · Nudge 的判定标准 · [B0146–B0151]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q21",
+      "conceptId": "L3-C18",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "重视未来储蓄却被眼前消费诱惑，最直接体现什么？",
+      "stemEn": "A person values future savings but is repeatedly drawn to immediate spending. Which tendency is most directly illustrated?",
+      "options": [
+        "态度协调性",
+        "道德圈扩张",
+        "长时段一致性",
+        "当下偏差"
+      ],
+      "optionsEn": [
+        "Attitude coherence",
+        "Moral expansion",
+        "Diachronic consistency",
+        "Present bias"
+      ],
+      "answer": 3,
+      "explanation": "眼前消费的吸引力压过了未来储蓄的好处，说明此刻的收益被看得过重。这是当下偏差，不是损失厌恶。",
+      "optionExplanations": [
+        "错误：协调性看态度的情感和认知是否一致，不是眼前与未来的权衡。",
+        "错误：题目没有描述对更多对象产生道德关切。",
+        "错误：长时段一致性属于少数群体影响的概念，不解释这里的消费诱惑。",
+        "正确：眼前消费被看得过重，未来储蓄的收益被低估。"
+      ],
+      "source": "L3 · 为什么 nudge 可能有效？人是 imperfect processors · [B0152–B0155]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q22",
+      "conceptId": "L3-C19",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "“多数同学赞同不抄袭”最直接是哪类规范？",
+      "stemEn": "“Most students approve of not plagiarising” most directly expresses which norm?",
+      "options": [
+        "知觉行为控制",
+        "态度遗传性",
+        "命令性规范",
+        "描述性规范"
+      ],
+      "optionsEn": [
+        "Perceived behavioural control",
+        "Heritability of attitudes",
+        "Injunctive norm",
+        "Descriptive norm"
+      ],
+      "answer": 2,
+      "explanation": "“赞同不抄袭”说的是大家认可什么，而不是统计大家实际做什么。因此是命令性规范；如果说“多数人没有抄袭”，才是描述性规范。",
+      "optionExplanations": [
+        "错误：题目没有说自己是否有能力或机会做到不抄袭。",
+        "错误：这里描述同学的认可，没有遗传证据。",
+        "正确：“赞同”表达群体认可的做法，属于命令性规范。",
+        "错误：描述性规范说大家实际做什么，而这句说的是认可什么。"
+      ],
+      "source": "L3 · Descriptive vs injunctive norms · [B0170–B0173]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q23",
+      "conceptId": "L3-C20",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "反浪费海报写“别浪费！所有人都在浪费”，主要风险是什么？",
+      "stemEn": "A waste-reduction poster says, “Do not waste! Everyone is wasting.” What is its main risk?",
+      "options": [
+        "它证明实际人人都浪费",
+        "描述性信息可能把浪费正常化并与劝阻冲突",
+        "两类规范完全一致",
+        "它必然禁止了所有浪费选项"
+      ],
+      "optionsEn": [
+        "It proves that everyone actually wastes",
+        "Its descriptive message may normalise waste and conflict with disapproval",
+        "The two norm messages are fully aligned",
+        "It necessarily bans every wasteful option"
+      ],
+      "answer": 1,
+      "explanation": "“别浪费”在劝阻，“所有人都在浪费”却让浪费看起来是常态。后一条信息可能让人觉得自己跟着做也很正常，削弱原本的劝阻。",
+      "optionExplanations": [
+        "错误：海报上的一句话，不能证明实际每个人都在浪费。",
+        "正确：说浪费很普遍，可能把它变成正常做法，与劝阻目的冲突。",
+        "错误：“不要做”与“大家都做”传递的是相反方向。",
+        "错误：海报劝说人，但没有拿掉浪费的选项。"
+      ],
+      "source": "L3 · Descriptive vs injunctive norms · [B0170–B0175]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q24",
+      "conceptId": "L3-C21",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "应用",
+      "stem": "税务规范干预中把参照群体缩小到 town，较全国信息回应率更高，最合理说明什么？",
+      "stemEn": "Tax reminders using a town reference group produced a higher response rate than national norm messages. What does this most reasonably illustrate?",
+      "options": [
+        "更具体相关的“像我们的人”可能增强规范影响",
+        "任何虚假多数数字都合伦理",
+        "只有威胁才会影响缴税",
+        "所有国家的所有政策必定同效"
+      ],
+      "optionsEn": [
+        "A more specific and relevant “people like us” reference group may strengthen normative influence",
+        "Any fabricated majority statistic is ethical",
+        "Only threats can affect tax responses",
+        "Every policy in every country must have the same effect"
+      ],
+      "answer": 0,
+      "explanation": "本镇居民更像与自己有关的“我们”，因此他们的做法可能更有参考意义。常规信息与 town norm 条件的回应率分别为 68% 和 83%；这不保证所有地方都得到同样效果。",
+      "optionExplanations": [
+        "正确：更具体、更贴近自己的参照群体，可能让规范更重要。",
+        "错误：即使某个信息有效，也不能用虚假的多数数字误导人。",
+        "错误：研究比较了规范信息与法律威胁，不是说只有威胁才有效。",
+        "错误：一次干预的结果，不能保证所有国家和政策都同样有效。"
+      ],
+      "source": "L3 · 五项 social-norm interventions · [B0176–B0179]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q25",
+      "conceptId": "L3-C21",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "节电研究中人们觉得邻居规范最不可能影响自己，但实际降低用电最多，说明什么？",
+      "stemEn": "Participants believed neighbour-norm messages were least likely to influence them, yet those messages reduced energy use most. What follows?",
+      "options": [
+        "人们的自我报告总是完全准确",
+        "规范只改变答案而未涉及用电",
+        "研究证明每个人都故意撒谎",
+        "自述影响原因可能与实际行为效果不一致"
+      ],
+      "optionsEn": [
+        "People’s self-reports are always fully accurate",
+        "Norms changed only answers, not energy use",
+        "The study proves every participant intentionally lied",
+        "Self-reported influences can diverge from actual behavioural effects"
+      ],
+      "answer": 3,
+      "explanation": "人们以为邻居规范不太影响自己，实际用电却下降最多。自述不一定能准确解释行为原因，所以要把回答与真实用电一起看。",
+      "optionExplanations": [
+        "错误：人未必完全知道自己为什么行动，自我报告也可能不准确。",
+        "错误：研究不只问看法，还观察到实际用电下降。",
+        "错误：不了解影响自己的原因，不等于故意撒谎。",
+        "正确：他说自己受什么影响，与实际哪种信息改变了用电，可能不同。"
+      ],
+      "source": "L3 · 五项 social-norm interventions · [B0176–B0177]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q26",
+      "conceptId": "L3-C21",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "Hallsworth 等抗生素干预的关键做法是什么？",
+      "stemEn": "What was the key method in Hallsworth and colleagues’ antibiotic intervention?",
+      "options": [
+        "只向最低处方群体发送奖金",
+        "只询问医生是否愿意改善而不看处方",
+        "向高处方 GP 群体发送同行比较信",
+        "让所有患者禁用抗生素"
+      ],
+      "optionsEn": [
+        "Giving bonuses only to the lowest-prescribing practices",
+        "Asking only about willingness to improve without examining prescribing",
+        "Sending peer-comparison letters to high-prescribing GP practices",
+        "Banning antibiotics for every patient"
+      ],
+      "answer": 2,
+      "explanation": "研究向处方率最高的 20% GP 群体发信，告诉他们自己的处方率高于 80% 同行。收到这种同行比较后，处方率降低；做法是反馈规范信息，不是禁止所有人使用抗生素。",
+      "optionExplanations": [
+        "错误：对象是高处方 GP 群体，做法是同行比较信，不是给低处方群体奖金。",
+        "错误：研究看了实际处方率，不只询问改善意愿。",
+        "正确：给高处方 GP 同行比较信息，让他们知道自己的处方率高于多数同行。",
+        "错误：干预没有全面禁止患者使用抗生素。"
+      ],
+      "source": "L3 · 五项 social-norm interventions · [B0176–B0177]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q27",
+      "conceptId": "L3-C21",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "应用",
+      "stem": "酒驾宣传强调“4/5 年轻成年人不酒驾”，最直接使用什么？",
+      "stemEn": "A campaign states, “Four out of five young adults do not drink and drive.” What does it most directly use?",
+      "options": [
+        "知觉控制的强制替代",
+        "以不酒驾为常态的描述性规范",
+        "只有恐惧诉求",
+        "群体实际批准酒驾"
+      ],
+      "optionsEn": [
+        "A mandatory substitute for perceived control",
+        "A descriptive norm presenting non-drink-driving as typical",
+        "Only a fear appeal",
+        "Group approval of drink-driving"
+      ],
+      "answer": 1,
+      "explanation": "“4/5 不酒驾”说明多数年轻成年人实际不做什么，把不酒驾呈现为常态。因此是描述性规范，不是在说大家是否道德上赞同酒驾。",
+      "optionExplanations": [
+        "错误：给出规范信息，不等于强制替代个人控制。",
+        "正确：用多数人的实际做法，说明不酒驾才是常态。",
+        "错误：这句话靠多数行为信息，而不是单靠恐吓。",
+        "错误：它说多数人不酒驾，没有说大家批准酒驾。"
+      ],
+      "source": "L3 · 五项 social-norm interventions · [B0176–B0177]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q28",
+      "conceptId": "L3-C22",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Terry/Hogg 回收研究的最强规范效应出现在什么组合？",
+      "stemEn": "In the Terry/Hogg recycling study, which combination showed the strongest increase in intention?",
+      "options": [
+        "高群体规范与高群体认同",
+        "高群体规范与身份完全无关",
+        "低规范与低认同必定最高",
+        "只有一般环保态度无需群体因素"
+      ],
+      "optionsEn": [
+        "High group norm and high group identification",
+        "High norm with identification entirely irrelevant",
+        "Low norm and low identification necessarily highest",
+        "General environmental attitude alone, with no group factors"
+      ],
+      "answer": 0,
+      "explanation": "群体规范高，而且参与者很认同这个群体时，回收意图增加最多。“我们群体怎么做”更容易影响在意这份归属的人；测到的是意图，不是已经发生的回收行为。",
+      "optionExplanations": [
+        "正确：高规范与高认同一起出现时，回收意图增幅最大。",
+        "错误：规范的作用会随群体认同改变，不能把身份排除。",
+        "错误：低规范时意图通常更低，并不是最高组合。",
+        "错误：一般环保态度不能代替对相关群体的认同及其规范。"
+      ],
+      "source": "L3 · Terry & Hogg recycling study · [B0191–B0195]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q29",
+      "conceptId": "L3-C23",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "哪种做法同时更符合规范干预的效果评估与伦理？",
+      "stemEn": "Which approach better supports both evaluation and ethics in a norm intervention?",
+      "options": [
+        "编造多数比例，只看意愿上升",
+        "羞辱资源不足者确保服从",
+        "取消退出权使效果最大",
+        "真实群体数据、保护自主，并测实际行为和意外影响"
+      ],
+      "optionsEn": [
+        "Inventing majority statistics and measuring intention only",
+        "Shaming people with limited resources into compliance",
+        "Removing the right to opt out to maximise effects",
+        "Using accurate group data, protecting autonomy, and measuring behaviour and unintended effects"
+      ],
+      "answer": 3,
+      "explanation": "信息要真实，参与者要保有选择权，评估还要看实际行为和意外后果。只让意愿上升，或用误导和强迫换来服从，都不足以说明干预做好了。",
+      "optionExplanations": [
+        "错误：编造比例会误导人，意愿上升也不代表实际行为改变。",
+        "错误：资源不足是现实障碍，羞辱不能解决它。",
+        "错误：取消退出权会损害自主选择，不符合伦理要求。",
+        "正确：既检查真实效果，也尊重信息准确和参与者的选择权。"
+      ],
+      "source": "L3 · 政府应用 · [B0157–B0162]；L3 · 设计更强干预的 checklist · [B0196–B0204]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q30",
+      "conceptId": "L3-C24",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "为什么同样规范与身份机制可用于回收，也可用于排斥？",
+      "stemEn": "Why can the same norm and identity mechanisms support recycling or exclusion?",
+      "options": [
+        "健康干预使用完全不同的心理机制",
+        "只要多数认可就合伦理",
+        "机制本身不规定道德目标，结果依赖规范内容和情境",
+        "所有群体身份本质上都有害"
+      ],
+      "optionsEn": [
+        "Health interventions use entirely different psychological mechanisms",
+        "Majority approval automatically makes an action ethical",
+        "The mechanisms do not specify moral goals; outcomes depend on norm content and context",
+        "All group identification is inherently harmful"
+      ],
+      "answer": 2,
+      "explanation": "在意群体、跟随规范，本身不能决定事情是好是坏。群体提倡回收时可能促进合作，提倡排斥时也可能伤害人，所以还要看规范内容、情境和伦理。",
+      "optionExplanations": [
+        "错误：相同的规范和认同过程，也可能导向不同结果。",
+        "错误：多数人赞成，不代表做法就合乎伦理。",
+        "正确：过程本身不保证目标有益，结果还取决于群体提倡什么。",
+        "错误：群体身份也可以支持健康、合作和可持续行为。"
+      ],
+      "source": "L3 · When influence goes wrong：规范与身份的道德中立性 · [B0205–B0222]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q31",
+      "conceptId": "L3-C09",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "哪项是 TPB 的合理批评？",
+      "stemEn": "Which is a reasonable criticism of TPB?",
+      "options": [
+        "它保证知道态度就可完美预测行为",
+        "可能低估习惯、情绪和无意识影响，且大量证据为相关",
+        "它完全不包含意图",
+        "它只研究论据的中央加工"
+      ],
+      "optionsEn": [
+        "It guarantees perfect behavioural prediction from attitude",
+        "It may underestimate habits, emotion and unconscious influences, and much evidence is correlational",
+        "It contains no intention construct",
+        "It studies only central processing of arguments"
+      ],
+      "answer": 1,
+      "explanation": "TPB 偏重较静态的理性计划，可能漏掉习惯、情绪和无意识的作用。很多证据又是相关，因此预测有效不等于已证明完整的因果过程。",
+      "optionExplanations": [
+        "错误：TPB 的预测并不完美，也不只靠态度一个因素。",
+        "正确：它可能低估非理性和动态因素，相关证据也不能直接证明因果。",
+        "错误：意图正是 TPB 连接预测因素与行为的重要部分。",
+        "错误：中央加工属于 ELM 的说服路径，不是 TPB 的研究重点。"
+      ],
+      "source": "L3 · TPB 的批评 | Criticisms · [B0079–B0083]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q32",
+      "conceptId": "L3-C11",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "平衡理论与认知失调最关键的课堂区分是什么？",
+      "stemEn": "What is the key lecture distinction between balance theory and cognitive dissonance?",
+      "options": [
+        "前者分析人—他人—对象关系，后者分析个人内部不一致",
+        "两者都只测实际行为意图",
+        "前者是文化维度，后者是记忆阶段",
+        "两者都要求禁止某个选择"
+      ],
+      "optionsEn": [
+        "Balance theory examines person–other–object relations; dissonance examines inconsistency within a person",
+        "Both measure only actual behavioural intention",
+        "The former is a cultural dimension and the latter a memory stage",
+        "Both require banning a choice"
+      ],
+      "answer": 0,
+      "explanation": "平衡理论看自己、他人和对象之间的三角关系是否协调；认知失调看自己内部的态度或行为冲突是否带来不适。两者都讨论一致性，但关注的位置不同。",
+      "optionExplanations": [
+        "正确：前者看自己—他人—对象的关系，后者看个人内部的矛盾和不适。",
+        "错误：它们解释一致性的压力，不是只测行为意图。",
+        "错误：它们都是社会心理学中的一致性理论，不是文化维度或记忆阶段。",
+        "错误：禁止选项不是任何一个理论的定义。"
+      ],
+      "source": "L3 · Balance Theory (Heider) · [B0088–B0102]",
+      "origin": "notes"
+    },
+    {
+      "id": "L3-Q33",
+      "conceptId": "L3-C21",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "校园欺凌规范干预先测真实规范，再宣传多数同伴不欺凌。解释结果时应注意什么？",
+      "stemEn": "A school bullying intervention first measured real norms and then publicised that most peers did not bully. What should interpretation retain?",
+      "options": [
+        "宣传真实多数意味着任何因果解释都已排除",
+        "它只利用“大家都欺凌”的信息",
+        "它证明规范宣传在每所学校效果完全相同",
+        "结果包含自报欺凌与态度变化，不能当作所有行为都被直接观察"
+      ],
+      "optionsEn": [
+        "Using a real majority automatically excludes all alternative causal explanations",
+        "It used only the message that everyone bullied",
+        "It proves identical effects in every school",
+        "Outcomes included self-reported bullying and attitude changes, not direct observation of every behaviour"
+      ],
+      "answer": 3,
+      "explanation": "研究包含学生自报的欺凌和态度变化，这不等于研究者直接观察了所有行为。不同学校的海报记忆和改善也有差异，不能保证每所学校都同样有效。",
+      "optionExplanations": [
+        "错误：规范数据真实，不代表研究的所有方法问题都已解决。",
+        "错误：宣传强调九成同伴不欺凌或排斥，而不是“大家都欺凌”。",
+        "错误：学校之间的海报记忆和改善不同，不能说效果完全相同。",
+        "正确：自报行为和态度不是全部直接观察到的行动，解释时必须分清。"
+      ],
+      "source": "L3 · 五项 social-norm interventions · [B0176–B0184]",
+      "origin": "notes"
+    }
+  ],
+  "file": "PSYC1004_Lecture_3_Attitudes_Norms_Behaviour_Notes.docx",
+  "sourceBlocks": [
+    {
+      "id": 1,
+      "text": "PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT"
+    },
+    {
+      "id": 2,
+      "text": "Lecture 3"
+    },
+    {
+      "id": 3,
+      "text": "Attitudes, Norms & Behaviour"
+    },
+    {
+      "id": 4,
+      "text": "态度、社会规范与行为：双语复习笔记"
+    },
+    {
+      "id": 5,
+      "text": "Dr Charlie Crimston  |  77-page slide deck  |  2:31:03 class recording"
+    },
+    {
+      "id": 6,
+      "text": "CORE IDEA  态度不会自动变成行为。行为来自 attitude、subjective norms、perceived control、identity、情境与认知加工的共同作用；同一套影响机制既能促进健康与可持续行为，也能被用于排斥、误导与伤害。"
+    },
+    {
+      "id": 8,
+      "text": "Lecture map：整讲内容按逻辑重组，而非逐页抄写。"
+    },
+    {
+      "id": 9,
+      "text": "阅读方法：蓝色为核心理论；金色 EXAM 为高概率答题触发点；红色 CRITIQUE 为研究局限；绿色 APPLICATION 为现实应用。英文术语保留，中文负责解释。"
+    },
+    {
+      "id": 10,
+      "text": "资料处理：课件负责术语、图表与数字；教授 transcript/recording 负责解释、例子与批判。设备调试、休息、广告逐字稿及重复课堂互动已压缩。"
+    },
+    {
+      "id": 12,
+      "text": "一页速记 | Lecture at a glance"
+    },
+    {
+      "id": 13,
+      "text": "对应课件总览：slides 6, 75-76；适合考前先背主干。"
+    },
+    {
+      "id": 14,
+      "text": "MEMORY CHAIN  ATTITUDE (ABC) → intention is not action → consistency pressures → persuasion routes → nudges → norms become strongest when they feel like OUR norms."
+    },
+    {
+      "id": 15,
+      "text": "主干 | 必须会说的一句话\n\nAttitudes | 态度包含 Affect、Behavioural tendency/intention、Cognition；强度、可及性、重要性等决定其影响力。\n\nAttitude-behaviour gap | LaPiere 与 Wicker 显示：人说的态度和实际行为可能差很远。\n\nTheory of Planned Behaviour | Attitude + subjective norm + perceived behavioural control 先预测 intention；intention 才进一步预测 behaviour。\n\nConsistency | 不一致让人不舒服；我们会改变对人、议题、自己行为或理由的看法来恢复一致。\n\nPersuasion & nudging | 说服可走 central/peripheral route；nudge 改变 choice architecture，但不禁止选项。\n\nNorms × identity | 规范不是对所有人同样有效：相关 in-group 越重要，越容易把规范内化并照做。\n\nMoral neutrality | 影响机制本身不善不恶；同样可用于戒烟、节能，也可用于偏见、邪教与 misinformation。"
+    },
+    {
+      "id": 17,
+      "text": "EXAM  若题目问“attitudes 是否预测 behaviour”，不要只答 yes/no：先说明平均关系有限，再用 specificity、strength、subjective norm、perceived control、identity 与 situational noise 解释何时会更强。"
+    },
+    {
+      "id": 19,
+      "text": "Attitudes：态度的结构、强度与来源"
+    },
+    {
+      "id": 20,
+      "text": "Slides 7-13；教授补充：dog example、repeated exposure、moral convictions。"
+    },
+    {
+      "id": 21,
+      "text": "定义 | Definition"
+    },
+    {
+      "id": 22,
+      "text": "Attitude 是对具有社会意义的对象、群体、事件或符号作出 favour/disfavour（喜欢/不喜欢）评价的相对持久心理倾向。它既包含 belief，也包含 feeling 与 behavioural tendency。"
+    },
+    {
+      "id": 23,
+      "text": "Hogg & Vaughan (2005) 强调 enduring organisation；Eagly & Chaiken (1993) 强调 evaluation。两种定义的共同点：态度具有方向、对象与相对稳定性，但并非永远不变。"
+    },
+    {
+      "id": 24,
+      "text": "ABCs of attitudes"
+    },
+    {
+      "id": 25,
+      "text": "Component | 含义 | Dog example\n\nAffect | 与对象相连的正面、负面或中性情绪。 | “我喜欢狗摇尾巴”；“狗扑上来会让我烦。”\n\nBehaviour | 行动倾向或 intention；不等同于已发生的行为。 | 靠近、微笑、抚摸狗，或主动避开。\n\nCognition | 基于 beliefs、facts 与 judgement 的评价。 | “狗很友善”或“狗有味道”。"
+    },
+    {
+      "id": 27,
+      "text": "CORE DISTINCTION  Behavioural component 可以只是“我打算做”，不是“我已经做了”。这一区分会直接进入 Theory of Planned Behaviour。"
+    },
+    {
+      "id": 28,
+      "text": "态度的维度 | Dimensions"
+    },
+    {
+      "id": 29,
+      "text": "Strength / durability：态度多稳定、能否抵抗改变。"
+    },
+    {
+      "id": 30,
+      "text": "Impact：它对思考与行为有多大影响。"
+    },
+    {
+      "id": 31,
+      "text": "Extremity：立场距离中点有多远。"
+    },
+    {
+      "id": 32,
+      "text": "Importance：议题是否与个人利益、身份或价值密切相关。"
+    },
+    {
+      "id": 33,
+      "text": "Accessibility：态度能否快速、自动地进入意识；越容易想起，越可能影响行为。"
+    },
+    {
+      "id": 34,
+      "text": "Ambivalence：是否同时存在冲突感受；ambivalence 越低，影响通常越强。"
+    },
+    {
+      "id": 35,
+      "text": "Coherence：cognitive 与 affective elements 是否一致。"
+    },
+    {
+      "id": 36,
+      "text": "态度从哪里来？ | Development"
+    },
+    {
+      "id": 37,
+      "text": "Genetics：双生子研究显示部分态度具有 heritable component，但基因不是单一决定因素。"
+    },
+    {
+      "id": 38,
+      "text": "Conditioning：classical/instrumental learning 将对象与奖惩或情绪反应连接。"
+    },
+    {
+      "id": 39,
+      "text": "Exposure：mere/repeated exposure 可因熟悉感提高好感，常被 marketing 利用。"
+    },
+    {
+      "id": 40,
+      "text": "Observational learning：观察重要他人的态度和行为，并在想融入群体时跟随 social norms。"
+    },
+    {
+      "id": 41,
+      "text": "态度能否改变？ | Persuasion & moral conviction"
+    },
+    {
+      "id": 42,
+      "text": "Persuasion 是改变他人态度的尝试。普通态度会随经验、信息与社会影响改变，但 morally charged attitudes 尤其顽固，因为它们构成自我与群体身份的一部分。"
+    },
+    {
+      "id": 43,
+      "text": "Moral conviction：关于绝对 right/wrong 的信念，不只是“很强的普通态度”。"
+    },
+    {
+      "id": 44,
+      "text": "当道德确信冲突时，争议容易从“意见不同”升级为 good versus evil，并伴随情绪化、不宽容，甚至更接受以暴力捍卫立场。"
+    },
+    {
+      "id": 45,
+      "text": "EXAM  解释 moral convictions 时，要把“strength”与“moralisation”分开：一个看重强度，一个把立场变成不可妥协的道德判断。"
+    },
+    {
+      "id": 47,
+      "text": "Attitude-behaviour gap：态度为何不能直接预测行为"
+    },
+    {
+      "id": 48,
+      "text": "Slides 14-23；核心证据：LaPiere (1934)、Wicker (1969)、Ajzen (1991)。"
+    },
+    {
+      "id": 49,
+      "text": "日常例子很常见：认为运动重要却不运动；关心环境却频繁乘飞机；重视睡眠却熬夜。态度可能参与决策，但情境、成本、习惯、规范与控制感会在最后一步改变行为。"
+    },
+    {
+      "id": 50,
+      "text": "LaPiere (1934)：stated attitude vs observed practice"
+    },
+    {
+      "id": 51,
+      "text": "Method / 方法：LaPiere 与一对 Chinese couple 走访美国约 251 家酒店、餐厅与旅游设施，记录是否被拒绝服务；约 6 个月后再向这些地点寄出“是否接待 Chinese guests”的问卷，并加入未访问地点作比较。"
+    },
+    {
+      "id": 52,
+      "text": "Finding / 结果：真实接待中只被拒绝 1 次；问卷中 visited establishments 的 128 份回复里，118 份写 No、9 份 Not sure、仅 1 份 Yes。未访问地点也几乎相同（186 No、9 Not sure、1 Yes）。"
+    },
+    {
+      "id": 53,
+      "text": "Meaning / 意义：抽象问卷中的偏见态度没有直接转化成面对具体顾客时的行为，揭示 attitude-behaviour gap。"
+    },
+    {
+      "id": 54,
+      "text": "Critique / 局限：测量顺序是 behaviour 后 attitude；六个月延迟；答卷者可能不是当天接待者；问卷、经济利益、面对面尴尬与研究者在场等情境因素都可能造成差异；按现代标准还存在 consent 与种族研究伦理问题。"
+    },
+    {
+      "id": 55,
+      "text": "Survey response | Visited | Not visited\n\nNo | 118 | 186\n\nNot sure | 9 | 9\n\nYes | 1 | 1\n\nTotal replies | 128 | 196"
+    },
+    {
+      "id": 57,
+      "text": "Wicker (1969)：42-study review"
+    },
+    {
+      "id": 58,
+      "text": "Method / 方法：汇总当时 42 项实验研究，检验 attitudes 与 behaviours 的一致程度。"
+    },
+    {
+      "id": 59,
+      "text": "Finding / 结果：平均相关约 r = .15。0 表示无关系，1 表示完美正相关，因此 .15 属于弱关系。"
+    },
+    {
+      "id": 60,
+      "text": "Meaning / 意义：不能仅凭一般态度准确预测具体行为；应加入行为意图、情境与社会因素。"
+    },
+    {
+      "id": 61,
+      "text": "Critique / 局限：研究年代早、研究与测量高度异质；相关不等于因果。"
+    },
+    {
+      "id": 62,
+      "text": "Theory of Planned Behaviour (TPB)"
+    },
+    {
+      "id": 64,
+      "text": "Figure: Ajzen (1991) correlations reproduced conceptually from slide 21."
+    },
+    {
+      "id": 65,
+      "text": "Attitude toward behaviour：我对这个具体行为的评价。越具体匹配，预测越好。"
+    },
+    {
+      "id": 66,
+      "text": "Subjective norm：我认为重要他人/相关群体如何看待这个行为，以及他们期望我怎么做。"
+    },
+    {
+      "id": 67,
+      "text": "Perceived behavioural control：我是否相信自己有能力、机会和控制去完成该行为。"
+    },
+    {
+      "id": 68,
+      "text": "Behavioural intention：行动前的计划或意图；仍然不等于实际 behaviour。"
+    },
+    {
+      "id": 69,
+      "text": "相关强度 | Correlations on slide 21"
+    },
+    {
+      "id": 70,
+      "text": "Path / construct | Reported r | Interpretation\n\nAttitude → intention | .45-.60 | 中等偏强；比直接预测 behaviour 更稳定。\n\nSubjective norm → intention | .34-.42 | 相关群体的期待提供额外预测力。\n\nPerceived control → intention | .35-.46 | 相信“我做得到”会提高意图。\n\nThree predictors → intention | .63-.71 | 组合预测明显强于单一 attitude。\n\nIntention → behaviour | .53 | 仍非完美；intention-behaviour gap 继续存在。"
+    },
+    {
+      "id": 72,
+      "text": "DO NOT OVERCLAIM  相关系数说明 variables co-vary，不证明 attitude、norm 或 control 单独造成 behaviour。"
+    },
+    {
+      "id": 73,
+      "text": "什么时候态度更能预测行为？"
+    },
+    {
+      "id": 74,
+      "text": "Correspondence / specificity：一般“健康很好”不如具体“我喜欢每天早上跑步”能预测跑步。"
+    },
+    {
+      "id": 75,
+      "text": "Potency / strength：立场越强、越重要、越可及，越可能转化为行动。"
+    },
+    {
+      "id": 76,
+      "text": "Salience & public commitment：被要求思考或公开表达立场，会提高保持一致的压力。"
+    },
+    {
+      "id": 77,
+      "text": "Direct experience：亲身经历（如 housing insecurity）使相关态度更具体、更有分量。"
+    },
+    {
+      "id": 78,
+      "text": "Reduced external noise：其他限制、诱因和 confounds 越少，态度与行为的关系越清楚。"
+    },
+    {
+      "id": 79,
+      "text": "TPB 的批评 | Criticisms"
+    },
+    {
+      "id": 80,
+      "text": "模型可能过于 obvious/simplistic，并大量依赖 correlational evidence。"
+    },
+    {
+      "id": 81,
+      "text": "过于 static：未充分纳入过去行为、习惯与动态反馈。"
+    },
+    {
+      "id": 82,
+      "text": "过度强调 rational reasoning，低估 unconscious influences、emotion 与 biases。"
+    },
+    {
+      "id": 83,
+      "text": "predictive validity 仍有限：知道所有构念，也不能完全预测实际 behaviour。"
+    },
+    {
+      "id": 84,
+      "text": "教授补充：attitude measurement"
+    },
+    {
+      "id": 85,
+      "text": "Social psychology 常用 anonymous surveys；匿名可降低 social pressure，却不能消除 social desirability、demand characteristics，或人们无法准确解释自身动机的问题。Implicit/reaction-time、neural、physiological 与 polygraph measures 各提供不同线索，也各有局限；生理唤醒尤其不等于撒谎。更稳妥的方法是 triangulation：组合多种测量，而不是寻找一个完美指标。"
+    },
+    {
+      "id": 86,
+      "text": "Cognitive consistency：我们如何处理不一致"
+    },
+    {
+      "id": 87,
+      "text": "Slides 24-39；核心理论：Heider’s Balance Theory 与 Festinger’s Cognitive Dissonance Theory。"
+    },
+    {
+      "id": 88,
+      "text": "Balance Theory (Heider)"
+    },
+    {
+      "id": 89,
+      "text": "Balance Theory 讨论人与人之间的认知一致性。三角形包含 Person（你）、Other（另一个人）和 X（态度对象）。关系可为正/负；当三条关系组合产生一致结构时，心理上较稳定。"
+    },
+    {
+      "id": 91,
+      "text": "Balance logic：喜欢朋友且观点相同较平衡；喜欢朋友但观点冲突会产生不平衡。"
+    },
+    {
+      "id": 92,
+      "text": "遇到喜欢的人持有相反观点时，理论给出两种主要修复路径："
+    },
+    {
+      "id": 93,
+      "text": "改变对 Other 的态度：降低对这个人的喜欢或尊重。"
+    },
+    {
+      "id": 94,
+      "text": "改变对 X 的态度：调整自己对议题的看法，或说服对方改变。"
+    },
+    {
+      "id": 95,
+      "text": "EXAM  Balance Theory 的冲突发生在 person-other-object 三角关系；Cognitive Dissonance 的冲突发生在同一个人内部。"
+    },
+    {
+      "id": 96,
+      "text": "Cognitive Dissonance Theory (Festinger)"
+    },
+    {
+      "id": 97,
+      "text": "Cognitive dissonance 是当一个人觉察到两项 attitudes 之间，或 attitude 与 behaviour 之间不一致时产生的不愉快内部状态。人不喜欢把自己看成 hypocrite，因此会尝试降低不适。"
+    },
+    {
+      "id": 98,
+      "text": "常见的减压路径"
+    },
+    {
+      "id": 99,
+      "text": "改变 behaviour，使行动符合态度。"
+    },
+    {
+      "id": 100,
+      "text": "改变态度或 belief，使它符合已经发生的行为。"
+    },
+    {
+      "id": 101,
+      "text": "加入 external justification：例如“我得到足够补偿”“环境逼我这样做”。"
+    },
+    {
+      "id": 102,
+      "text": "降低议题重要性、回避信息、分散注意力，等待不适减弱。"
+    },
+    {
+      "id": 103,
+      "text": "Festinger & Carlsmith (1959)：turning pegs"
+    },
+    {
+      "id": 104,
+      "text": "Method / 方法：参与者做 1 小时极其无聊的转 peg task；随后被要求向下一位“学生”撒谎说任务有趣，并获 $1 或 $20；control 不撒谎。之后评价任务 enjoyment。"
+    },
+    {
+      "id": 105,
+      "text": "Finding / 结果：$1 lie group 报告的 enjoyment 最高，$20 group 只略高于 control。"
+    },
+    {
+      "id": 106,
+      "text": "Meaning / 意义：$20 提供 sufficient external justification，因此 dissonance 较低；$1 不足以解释撒谎，参与者通过“其实任务没那么糟”改变态度，使 behaviour 与 attitude 重新一致。"
+    },
+    {
+      "id": 107,
+      "text": "Critique / 局限：经典研究的样本与时代背景有限；self-report enjoyment 也可能受 demand characteristics 影响。"
+    },
+    {
+      "id": 108,
+      "text": "CLASSIC TRAP  不是“奖励越少越喜欢任务”这种一般规律；关键条件是先做 counter-attitudinal behaviour，且外部理由不足。"
+    },
+    {
+      "id": 109,
+      "text": "Bastian et al. (2012)：the meat paradox"
+    },
+    {
+      "id": 110,
+      "text": "Method / 方法：参与者随机被告知将吃 beef 或 nuts（control），随后评价不同动物的 mind/sentience。"
+    },
+    {
+      "id": 111,
+      "text": "Finding / 结果：预期吃 beef 的人把 cows 评价为更少 sentient / mind-like。"
+    },
+    {
+      "id": 112,
+      "text": "Meaning / 意义：人没有立刻停止吃肉，而是通过降低动物的心智能力与 moral relevance 来减轻“爱动物却吃动物”的 dissonance。"
+    },
+    {
+      "id": 113,
+      "text": "Critique / 局限：这展示 belief change 与 moral disengagement；不能把单一实验扩展为所有食肉者的固定动机。"
+    },
+    {
+      "id": 114,
+      "text": "Dissonance 作为 behaviour-change tool"
+    },
+    {
+      "id": 115,
+      "text": "Hypocrisy-style intervention 会让人先公开倡导一个健康态度，再凸显自己过去行为与之不一致。例如 safe sex、seatbelts、quitting smoking：公开承诺提高一致性压力，行为改变可成为降低 dissonance 的方式。"
+    },
+    {
+      "id": 116,
+      "text": "BOUNDARY  是否有效取决于议题是否重要、dissonance 是否足够强，以及个人是否能轻易合理化、忽略或回避；过强羞耻也可能引发防御而非改变。"
+    },
+    {
+      "id": 117,
+      "text": "Persuasion：态度通过什么路径被改变"
+    },
+    {
+      "id": 118,
+      "text": "Slides 40-44；Petty & Cacioppo (1986) Elaboration Likelihood Model。"
+    },
+    {
+      "id": 119,
+      "text": "Elaboration Likelihood Model (ELM)"
+    },
+    {
+      "id": 120,
+      "text": "Central route | Peripheral route\n\n高 motivation + 足够 attention/cognitive capacity | 低 motivation 或资源不足，较像 autopilot\n\n仔细分析 message content 与 evidence | 依赖 heuristics、来源、熟悉度、重复与外表线索\n\nargument strength 尤其重要 | 简单、显眼、情绪化或身份相关线索更重要\n\n适合高度相关、时间充足、need for cognition 较高的受众 | 常见于广告、政治口号和低注意力场景"
+    },
+    {
+      "id": 122,
+      "text": "CORE  Central/peripheral 不是两类固定的人，而是同一个人在不同 motivation、knowledge、time 与 cognitive load 下可能走的不同加工路径。"
+    },
+    {
+      "id": 123,
+      "text": "影响说服力的三个位置"
+    },
+    {
+      "id": 124,
+      "text": "Source / 来源"
+    },
+    {
+      "id": 125,
+      "text": "Credibility：competence/expertise + trustworthiness。"
+    },
+    {
+      "id": 126,
+      "text": "Motive：若来源明显 self-interested，可信度下降。"
+    },
+    {
+      "id": 127,
+      "text": "Similarity：like me 的人更容易产生认同；attractiveness 则体现“我想像你”。"
+    },
+    {
+      "id": 128,
+      "text": "Power：高权力来源通常更有说服力，但也可能触发抵抗。"
+    },
+    {
+      "id": 129,
+      "text": "Message / 信息"
+    },
+    {
+      "id": 130,
+      "text": "Central route 下需要 strong arguments 与事实。"
+    },
+    {
+      "id": 131,
+      "text": "过度显露“我正在操纵你”会引发 resistance；native content 等会降低这种感觉。"
+    },
+    {
+      "id": 132,
+      "text": "fear appeals 以 moderate 程度更稳妥：be alert, not alarmed。"
+    },
+    {
+      "id": 133,
+      "text": "positive framing 强调获得的 benefit；framing 效果仍取决于议题与受众。"
+    },
+    {
+      "id": 134,
+      "text": "Audience / 受众"
+    },
+    {
+      "id": 135,
+      "text": "Need for cognition：享受复杂思考的人更可能深入加工。"
+    },
+    {
+      "id": 136,
+      "text": "Self-regulation：主动控制注意力并抵抗说服。"
+    },
+    {
+      "id": 137,
+      "text": "Forewarning：提前知道说服即将发生，开始防御。"
+    },
+    {
+      "id": 138,
+      "text": "Selective avoidance：只看支持原立场的信息。"
+    },
+    {
+      "id": 139,
+      "text": "Counter-arguing：预先生成反驳，保护当前态度。"
+    },
+    {
+      "id": 140,
+      "text": "APPLICATION  Plain cigarette packaging、Slip-Slop-Slap 与 seatbelt campaigns 不是需要背对白的案例；重点是识别 source、message、audience 线索与加工路径。"
+    },
+    {
+      "id": 141,
+      "text": "Behaviour change & nudging：改变选择环境"
+    },
+    {
+      "id": 142,
+      "text": "Slides 45-55；Thaler & Sunstein (2008)；Australian BETA examples。"
+    },
+    {
+      "id": 143,
+      "text": "三个相邻领域"
+    },
+    {
+      "id": 144,
+      "text": "Field | Focus\n\nBehavioural economics | 用心理学洞见解释 economic decision-making，挑战完全理性的 actor model。\n\nSocial psychology | 研究 thoughts、feelings、behaviours 如何被 others、groups、norms、authorities 与 institutions 影响。\n\nBehavioural insights | 综合 economics、psychology、neuroscience，理解日常决策并设计、测试干预。"
+    },
+    {
+      "id": 146,
+      "text": "Nudge 的判定标准"
+    },
+    {
+      "id": 147,
+      "text": "Thaler & Sunstein (2008) 将 nudge 定义为：choice architecture 中能够以可预测方式改变行为，但不禁止任何选项，也不显著改变经济诱因的设计；干预必须容易且便宜地避开。"
+    },
+    {
+      "id": 148,
+      "text": "Choice architecture：选择发生时的 physical、social、psychological context。"
+    },
+    {
+      "id": 149,
+      "text": "Not a mandate：把水果放在视线高度是 nudge；禁止 junk food 不是。"
+    },
+    {
+      "id": 150,
+      "text": "Easy to avoid：若退出代价极高，便不再是“mere nudge”。"
+    },
+    {
+      "id": 151,
+      "text": "其他例子：urinal fly target、让 stairs 更有趣、让健康食品更显眼，以及 organ donation 的 opt-out default。它们通过环境/default 改变行为，不等于口号式 persuasion。"
+    },
+    {
+      "id": 152,
+      "text": "为什么 nudge 可能有效？人是 imperfect processors"
+    },
+    {
+      "id": 153,
+      "text": "我们没有 perfect information、unlimited cognitive ability 或 complete self-control。"
+    },
+    {
+      "id": 154,
+      "text": "我们也关心 fairness 与他人福利，并非只最大化个人经济收益。"
+    },
+    {
+      "id": 155,
+      "text": "Bias / tendency | 含义与设计机会\n\nChoice aversion | 选项过多会拖延；defaults 或简化流程可减少负担。\n\nSalience | 我们注意 novel、relevant、显眼的线索；位置与提示会改变选择。\n\nLoss aversion | 损失带来的痛苦通常强于同等收益的快乐；framing 会影响行动。\n\nPresent bias | 高估现在、低估未来；即时反馈或便利可帮助长期目标。\n\nOverconfidence | 高估好结果、低估风险；个性化反馈可纠正判断。\n\nSocial norms | 被真实或 perceived behaviour of others 影响；这是后半讲的桥梁。"
+    },
+    {
+      "id": 157,
+      "text": "政府应用"
+    },
+    {
+      "id": 158,
+      "text": "Obama 2015 Executive Order 13707 明确鼓励将 behavioural science 用于更好政策设计。"
+    },
+    {
+      "id": 159,
+      "text": "澳大利亚 BETA（Behavioural Economics Team of the Australian Government）测试减少 antibiotic overprescribing、gambling harm、energy use，以及提高 organ donation 等方案。"
+    },
+    {
+      "id": 160,
+      "text": "Plain cigarette packaging 通过去除品牌字体与包装吸引力来改变 choice context；它是法律监管型 behaviour-change intervention，并非 pure nudge，不需要背新闻片段。"
+    },
+    {
+      "id": 161,
+      "text": "教授引用一项 2015 government review，称实施后的下降相当于约 100,000 fewer smokers；答题时应写成讲者所引评估，不要把全部 smoking decline 单因归于包装。"
+    },
+    {
+      "id": 162,
+      "text": "ETHICS  好的 nudge 仍需问：目标是否真正增进 welfare？是否透明、可退出、使用准确数据并尊重 autonomy？还要避免只 nudge 个体而忽略 poverty、access 等 structural barriers，并权衡个性化干预需要的数据与 privacy。"
+    },
+    {
+      "id": 163,
+      "text": "Group norms：群体如何改变行为"
+    },
+    {
+      "id": 164,
+      "text": "Slides 55-70；五项应用研究 + Terry/Hogg recycling interaction。"
+    },
+    {
+      "id": 165,
+      "text": "定义与特征"
+    },
+    {
+      "id": 166,
+      "text": "Group norms 指群体中通常发生的行为，以及成员认为适当、被期待的行为。它们是 group-level variables：在互相影响、socialisation、culture 与 local networks 中随时间形成，并反过来影响成员。"
+    },
+    {
+      "id": 167,
+      "text": "由 group members endorsement，表达“这是对的/正常的”。"
+    },
+    {
+      "id": 168,
+      "text": "描述 appropriate behaviour，并带有 expectation、obligation 或 oughtness。"
+    },
+    {
+      "id": 169,
+      "text": "表达当时的 social values；规范可能是明确规则，也可能只是成员共同感知。"
+    },
+    {
+      "id": 170,
+      "text": "Descriptive vs injunctive norms"
+    },
+    {
+      "id": 171,
+      "text": "Descriptive norm | Injunctive norm\n\nWhat most people do：典型、常见、正常的实际行为。 | What most people approve of：应当、正确、被认可的行为。\n\n“Most Australians are wearing masks.” | “Wearing masks is the right thing to do.”\n\n主要提供 reality/typicality 信息。 | 主要提供 morality/approval 信息。"
+    },
+    {
+      "id": 173,
+      "text": "BEST ALIGNMENT  当 descriptive 与 injunctive norms 指向同一行为时，信息通常最有说服力；若两者冲突，告诉人“不要做”却暗示“大家都在做”，可能反而正常化问题。"
+    },
+    {
+      "id": 174,
+      "text": "规范可以是 perceived，而非真实"
+    },
+    {
+      "id": 175,
+      "text": "教授声称“92% of PSYC1004 students read the slides before class”，随后说明数字是假的。这个示范说明：如果学生在意“PSYC1004 student / good student”身份，仅仅感知到规范就可能改变行为。它也提醒我们，虚假规范可能有效，但存在明显伦理问题。"
+    },
+    {
+      "id": 176,
+      "text": "五项 social-norm interventions"
+    },
+    {
+      "id": 177,
+      "text": "Study | Intervention / design | Key finding\n\nTaxes — Martin (2012) | 从法律威胁改为真实规范，并把 reference group 从 UK 缩小到 postcode / town。 | 回应率：usual 68%，UK 73%，postcode 79%，town 83%；“people like you”越具体越有效。\n\nEnergy — Nolan et al. (2009) | 981 households 收到五种节能门牌信息；一项强调 join your neighbours。 | 邻居规范信息最能降低用电，影响持续数月；但人们主观上把它评为最不可能影响自己。\n\nAntibiotics — Hallsworth et al. (2016) | 向 local area 中处方率最高 20% 的 GP practices 发 CMO 信，指出其高于 80% 同行。 | 6 个月处方率下降 3.3%，约少开 74,000 份，接近 4% 政策目标。\n\nDrink driving — Perkins et al. (2010) | Montana 地区分 social-norm campaign、buffer、control；信息为 4/5 young adults do not drink and drive。 | 改变 perceived norm，并增加 sober/designated drivers；无需 fear 或 ought message。\n\nBullying — Perkins et al. (2011) | 5 所 middle schools 先测量真实规范，再宣传 9/10 peers 不 bullying/exclude；12-18 个月追踪。 | self-reported bullying、perceived bullying、pro-bullying attitudes 均下降；变化约 17%-25%，海报记忆最好学校改善最大。"
+    },
+    {
+      "id": 179,
+      "text": "DATA CORRECTION  Tax slide 62 显示 UK-norm condition = 73%；自动 transcript 中出现过 63% 的口头/转录偏差。本笔记以课件表格 73% 为准。"
+    },
+    {
+      "id": 180,
+      "text": "为什么总体研究仍不一致？"
+    },
+    {
+      "id": 181,
+      "text": "Nyborg et al. (2016) 指出，利用 norms 解决大规模问题的潜力与边界仍未完全理解。关键缺口包括："
+    },
+    {
+      "id": 182,
+      "text": "underlying mechanism 不清：为什么某条信息有效、另一条无效？"
+    },
+    {
+      "id": 183,
+      "text": "“others” 常未定义：是谁的规范？哪个 group 对目标人真正重要？"
+    },
+    {
+      "id": 184,
+      "text": "情境差异大，尚不存在可在所有场景直接复制的 ready-to-use toolbox。"
+    },
+    {
+      "id": 186,
+      "text": "Norms × social identity：把“他们的规范”变成“我们的规范”"
+    },
+    {
+      "id": 187,
+      "text": "Slides 67-70；Social Identity approach + Terry & Hogg recycling example。"
+    },
+    {
+      "id": 188,
+      "text": "人既可以把自己定义为独立的 I/me，也可以定义为 group member 的 we/us。当某些 others 被分类为“像我、属于我”，他们才更可能成为 social influence 的来源。"
+    },
+    {
+      "id": 190,
+      "text": "Norm intervention mechanism：reference group relevance 与 identification 是关键放大器。"
+    },
+    {
+      "id": 191,
+      "text": "Terry & Hogg recycling study"
+    },
+    {
+      "id": 192,
+      "text": "Method / 方法：测量 friends/peers 的 recycling norm、参与者对这个 reference group 的 identification，以及未来两周的 recycling intention。"
+    },
+    {
+      "id": 193,
+      "text": "Finding / 结果：低 group norm 时 intention 较低；norm 变高时 intention 上升。最大增幅出现在 high norm + high identification。"
+    },
+    {
+      "id": 194,
+      "text": "Meaning / 意义：不是“任何多数信息”都有效。只有当规范来自 behaviourally relevant 且 psychologically important 的群体，才更像 our norm 并推动行动。"
+    },
+    {
+      "id": 195,
+      "text": "Critique / 局限：课件页眉写 Terry et al. (1999)，正文引用 Terry & Hogg (1996)。考试时优先准确描述 recycling interaction；若写年份，可注明课件存在双重标注。"
+    },
+    {
+      "id": 196,
+      "text": "设计更强干预的 checklist"
+    },
+    {
+      "id": 197,
+      "text": "使用 accurate norm，不编造多数。"
+    },
+    {
+      "id": 198,
+      "text": "选 behaviourally specific 的信息，而非宽泛价值口号。"
+    },
+    {
+      "id": 199,
+      "text": "明确 relevant in-group：people like you 必须真的像目标受众。"
+    },
+    {
+      "id": 200,
+      "text": "让 identity salient，但避免以羞辱、排斥制造顺从。"
+    },
+    {
+      "id": 201,
+      "text": "尽量让 descriptive 与 injunctive messages 一致。"
+    },
+    {
+      "id": 202,
+      "text": "测量真实 behaviour，不只测 self-reported intention。"
+    },
+    {
+      "id": 203,
+      "text": "保留 autonomy、退出路径与透明度，并持续测试 unintended effects。"
+    },
+    {
+      "id": 204,
+      "text": "SYNTHESIS  Social Identity Theory 不只是再加一个 predictor；它解释 subjective norm 为什么有时很强、有时几乎无效：影响取决于信息来源是否被体验为“us”。"
+    },
+    {
+      "id": 205,
+      "text": "When influence goes wrong：规范与身份的道德中立性"
+    },
+    {
+      "id": 206,
+      "text": "Slides 71-74；课堂应用：peer pressure、prejudice norms、cults/Jonestown、misinformation。"
+    },
+    {
+      "id": 207,
+      "text": "KEY WARNING  The psychology of influence does not change; the outcome does. 同一机制能促进回收，也能把排斥、偏见与伤害包装成正常、必要甚至道德。"
+    },
+    {
+      "id": 208,
+      "text": "Peer pressure, exclusion & prejudice"
+    },
+    {
+      "id": 209,
+      "text": "想融入群体会让成员跟随真实或 perceived norms，即使它们与个人判断冲突。"
+    },
+    {
+      "id": 210,
+      "text": "当 bullying、exclusion 或 racist language 被群体与领导者容忍，它们可能从“越界”变成“可接受”。"
+    },
+    {
+      "id": 211,
+      "text": "教授以 Voice referendum 后 First Nations Australians 报告更多 racism 为例，但明确提醒：这不等于把所有 opposition 本身定义为 racist；重点是 campaign context 可能改变 permissible language 的感知。"
+    },
+    {
+      "id": 212,
+      "text": "美国政治研究同样被用于说明：inflammatory rhetoric 对已有 prejudice 较高者的影响，会在其他 leaders 容忍/背书时增强。"
+    },
+    {
+      "id": 213,
+      "text": "Cults and Jonestown"
+    },
+    {
+      "id": 214,
+      "text": "Cults 是 norms 与 identity 被 weaponised 的极端案例：强烈 shared identity、loyalty、isolation 与对 dissent 的惩罚，可让危险行为显得 necessary、moral 或 virtuous。1978 Jonestown 的 People’s Temple 事件造成近千人死亡，包括约 300 名儿童；由于存在强迫服毒、注射与枪杀，更准确的表述是 involving coercion 的 mass death / murder-suicide，而不只是自愿的 mass suicide。"
+    },
+    {
+      "id": 215,
+      "text": "DO NOT SIMPLIFY  不能只说“群体让人变坏”。更准确的解释是：领导、规范、身份认同、隔绝替代观点、惩罚 dissent 与责任结构共同塑造行动。"
+    },
+    {
+      "id": 216,
+      "text": "Political misinformation"
+    },
+    {
+      "id": 217,
+      "text": "Misinformation 利用 shared identity 和 group norms：强化 in-group loyalty，把 opposing views 解释为威胁，并在符合 group goals 时把失真信息正常化。92% 假规范示范说明，影响甚至不要求信息真实。"
+    },
+    {
+      "id": 218,
+      "text": "安全护栏 | Guardrails"
+    },
+    {
+      "id": 219,
+      "text": "准确性：不以 fabricated norm 获得顺从。"
+    },
+    {
+      "id": 220,
+      "text": "多元信息：避免隔绝成员与 alternative perspectives。"
+    },
+    {
+      "id": 221,
+      "text": "领导责任：领导者公开挑战有害规范，而不是默许。"
+    },
+    {
+      "id": 222,
+      "text": "个人 agency：允许质疑、退出与申诉，避免把 loyalty 放在 ethics 之上。"
+    },
+    {
+      "id": 223,
+      "text": "Revision questions：原课件题目与答题骨架"
+    },
+    {
+      "id": 224,
+      "text": "Slides 75-76；答案为根据本讲材料整理的短答骨架。"
+    },
+    {
+      "id": 225,
+      "text": "What is an attitude?"
+    },
+    {
+      "id": 226,
+      "text": "答题骨架：对社会对象作 favour/disfavour 评价的相对持久心理倾向，包含 Affect、Behavioural tendency/intention 与 Cognition。"
+    },
+    {
+      "id": 227,
+      "text": "How do attitudes develop?"
+    },
+    {
+      "id": 228,
+      "text": "答题骨架：Genetics、conditioning、repeated exposure 与 observational/social learning 共同作用。"
+    },
+    {
+      "id": 229,
+      "text": "Why was LaPiere’s (1934) study important?"
+    },
+    {
+      "id": 230,
+      "text": "答题骨架：真实服务几乎不拒绝 Chinese couple，但问卷绝大多数说会拒绝，直接显示 stated attitudes 与 observed behaviour 可分离。"
+    },
+    {
+      "id": 231,
+      "text": "What are the key elements of the Theory of Planned Behaviour?"
+    },
+    {
+      "id": 232,
+      "text": "答题骨架：Attitude toward behaviour、subjective norm、perceived behavioural control → behavioural intention → behaviour。"
+    },
+    {
+      "id": 233,
+      "text": "What are criticisms of TPB?"
+    },
+    {
+      "id": 234,
+      "text": "答题骨架：过于静态与理性化、依赖相关、自变量明显、未充分纳入习惯/情绪/无意识过程，且实际行为预测仍不完美。"
+    },
+    {
+      "id": 235,
+      "text": "What two choices does Heider give in an imbalanced situation?"
+    },
+    {
+      "id": 236,
+      "text": "答题骨架：改变对 Other 的态度，或改变自己/对方对 X 的态度。"
+    },
+    {
+      "id": 237,
+      "text": "Explain Festinger & Carlsmith (1959)."
+    },
+    {
+      "id": 238,
+      "text": "答题骨架：$1 lie 缺乏充分外部理由，dissonance 较强，于是通过提高 task enjoyment 改变态度；$20 提供 justification。"
+    },
+    {
+      "id": 239,
+      "text": "What factors improve persuasiveness?"
+    },
+    {
+      "id": 240,
+      "text": "答题骨架：Source credibility/similarity/power；strong、moderate、well-framed message；audience motivation、capacity、need for cognition 与 resistance。"
+    },
+    {
+      "id": 241,
+      "text": "What is a nudge?"
+    },
+    {
+      "id": 242,
+      "text": "答题骨架：可预测地改变行为的 choice architecture；不禁选项、不显著改经济诱因，并且易于、低成本避开。"
+    },
+    {
+      "id": 243,
+      "text": "What is a social norm?"
+    },
+    {
+      "id": 244,
+      "text": "答题骨架：群体中通常做什么，以及成员认为适当、被期待做什么的社会规则/标准。"
+    },
+    {
+      "id": 245,
+      "text": "Descriptive vs injunctive norm?"
+    },
+    {
+      "id": 246,
+      "text": "答题骨架：Descriptive = what people do；injunctive = what people approve/think one ought to do。"
+    },
+    {
+      "id": 247,
+      "text": "Give one norms research example."
+    },
+    {
+      "id": 248,
+      "text": "答题骨架：可用 taxes：把真实规范具体到 postcode/town，回应率由 usual 68% 提升至 79%/83%，说明 relevant reference group 增强影响。"
+    },
+    {
+      "id": 249,
+      "text": "Why are ingroups and identification important?"
+    },
+    {
+      "id": 250,
+      "text": "答题骨架：我们更容易服从被体验为 us 的群体规范；high norm + high identification 才产生最强 intention。"
+    },
+    {
+      "id": 251,
+      "text": "How can interventions be improved?"
+    },
+    {
+      "id": 252,
+      "text": "答题骨架：准确、具体、相关群体、突出身份、对齐 descriptive/injunctive norms、测真实行为、保留透明与 autonomy。"
+    },
+    {
+      "id": 253,
+      "text": "Are group norms always used for good?"
+    },
+    {
+      "id": 254,
+      "text": "答题骨架：不是。机制 morally neutral，可用于健康/可持续，也可推动 exclusion、prejudice、cults 与 misinformation。"
+    },
+    {
+      "id": 255,
+      "text": "EXAM STRATEGY  短答先给 definition/model，再给 one named study + finding，最后写 meaning/limitation。不要只讲日常例子，也不要把 intention 当 behaviour。"
+    },
+    {
+      "id": 257,
+      "text": "Key-term glossary：考前触发词"
+    },
+    {
+      "id": 258,
+      "text": "Term | 最短定义\n\nAttitude | 对对象作正/负评价的相对持久心理倾向。\n\nAffect | 态度中的情绪感受。\n\nBehavioural intention | 采取行动的计划；尚未等于实际行为。\n\nAccessibility | 态度进入意识的容易程度。\n\nAmbivalence | 对同一对象有冲突的正负感受。\n\nMoral conviction | 被体验为绝对 right/wrong 的态度。\n\nSubjective norm | 感知重要他人/群体对行为的看法与期待。\n\nPerceived behavioural control | 感知自己是否有能力与机会完成行为。\n\nCognitive dissonance | 觉察态度彼此冲突或态度-行为冲突时的不适。\n\nCentral route | 高投入、系统处理 argument content。\n\nPeripheral route | 低投入，依赖 heuristic 与表面线索。\n\nNudge | 不禁选项的 choice-architecture intervention。\n\nDescriptive norm | 多数人实际上做什么。\n\nInjunctive norm | 多数人赞同/认为应该做什么。\n\nSocial identification | 把自己定义为 group member 的程度。\n\nReference group | 提供规范、且与行为和身份相关的群体。"
+    },
+    {
+      "id": 260,
+      "text": "Slide map：回课件定位"
+    },
+    {
+      "id": 261,
+      "text": "Slides | Topic\n\n7-13 | Attitude definitions, ABC, dimensions, development, moral convictions\n\n14-23 | Attitude-behaviour gap, LaPiere, Wicker, TPB\n\n24-39 | Balance Theory, cognitive dissonance, meat paradox, behaviour change\n\n40-44 | ELM and factors affecting persuasiveness\n\n45-55 | Behavioural insights, nudging, imperfect processing\n\n56-70 | Group norms, five interventions, social identity\n\n71-74 | Bad behaviour, exclusion, cults, misinformation\n\n75-76 | Revision questions"
+    },
+    {
+      "id": 263,
+      "text": "Accuracy notes"
+    },
+    {
+      "id": 264,
+      "text": "Transcript 无时间戳但首尾覆盖完整；录课 2:31:03，音视频连续，无明显重复或容器断档。"
+    },
+    {
+      "id": 265,
+      "text": "Automatic transcript 将 Eagly & Chaiken、affective、planned behaviour、dissonance 等术语多次误识别；本笔记已按课件校正。"
+    },
+    {
+      "id": 266,
+      "text": "Tax UK condition 使用 slide 62 的 73%；Terry study 的年份双重标注已在正文说明。"
+    },
+    {
+      "id": 267,
+      "text": "广告/新闻片段仅保留其理论用途；学生低声提问若 transcript 不完整，仅保留教授明确复述与澄清。"
+    },
+    {
+      "id": 268,
+      "text": "FINAL MEMORY  Attitudes matter, but context decides how much. Norms matter, but identity decides whose norms. Influence works, but ethics decides toward what end."
+    }
+  ],
+  "sourceText": "# Lecture 3\n\n\n\n\n[B0001] PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT\n\n[B0002] Lecture 3\n\n[B0003] Attitudes, Norms & Behaviour\n\n[B0004] 态度、社会规范与行为：双语复习笔记\n\n[B0005] Dr Charlie Crimston  |  77-page slide deck  |  2:31:03 class recording\n\n[B0006] CORE IDEA  态度不会自动变成行为。行为来自 attitude、subjective norms、perceived control、identity、情境与认知加工的共同作用；同一套影响机制既能促进健康与可持续行为，也能被用于排斥、误导与伤害。\n\n[B0007 FIGURE] Lecture 3 conceptual map\n\n[B0008] Lecture map：整讲内容按逻辑重组，而非逐页抄写。\n\n[B0009] 阅读方法：蓝色为核心理论；金色 EXAM 为高概率答题触发点；红色 CRITIQUE 为研究局限；绿色 APPLICATION 为现实应用。英文术语保留，中文负责解释。\n\n[B0010] 资料处理：课件负责术语、图表与数字；教授 transcript/recording 负责解释、例子与批判。设备调试、休息、广告逐字稿及重复课堂互动已压缩。\n\n## [B0012] 一页速记 | Lecture at a glance\n\n[B0013] 对应课件总览：slides 6, 75-76；适合考前先背主干。\n\n[B0014] MEMORY CHAIN  ATTITUDE (ABC) → intention is not action → consistency pressures → persuasion routes → nudges → norms become strongest when they feel like OUR norms.\n\n\n[B0015 TABLE]\n\n主干 | 必须会说的一句话\n\nAttitudes | 态度包含 Affect、Behavioural tendency/intention、Cognition；强度、可及性、重要性等决定其影响力。\n\nAttitude-behaviour gap | LaPiere 与 Wicker 显示：人说的态度和实际行为可能差很远。\n\nTheory of Planned Behaviour | Attitude + subjective norm + perceived behavioural control 先预测 intention；intention 才进一步预测 behaviour。\n\nConsistency | 不一致让人不舒服；我们会改变对人、议题、自己行为或理由的看法来恢复一致。\n\nPersuasion & nudging | 说服可走 central/peripheral route；nudge 改变 choice architecture，但不禁止选项。\n\nNorms × identity | 规范不是对所有人同样有效：相关 in-group 越重要，越容易把规范内化并照做。\n\nMoral neutrality | 影响机制本身不善不恶；同样可用于戒烟、节能，也可用于偏见、邪教与 misinformation。\n\n\n\n[B0017] EXAM  若题目问“attitudes 是否预测 behaviour”，不要只答 yes/no：先说明平均关系有限，再用 specificity、strength、subjective norm、perceived control、identity 与 situational noise 解释何时会更强。\n\n## [B0019] Attitudes：态度的结构、强度与来源\n\n[B0020] Slides 7-13；教授补充：dog example、repeated exposure、moral convictions。\n\n## [B0021] 定义 | Definition\n\n[B0022] Attitude 是对具有社会意义的对象、群体、事件或符号作出 favour/disfavour（喜欢/不喜欢）评价的相对持久心理倾向。它既包含 belief，也包含 feeling 与 behavioural tendency。\n\n[B0023] Hogg & Vaughan (2005) 强调 enduring organisation；Eagly & Chaiken (1993) 强调 evaluation。两种定义的共同点：态度具有方向、对象与相对稳定性，但并非永远不变。\n\n## [B0024] ABCs of attitudes\n\n\n[B0025 TABLE]\n\nComponent | 含义 | Dog example\n\nAffect | 与对象相连的正面、负面或中性情绪。 | “我喜欢狗摇尾巴”；“狗扑上来会让我烦。”\n\nBehaviour | 行动倾向或 intention；不等同于已发生的行为。 | 靠近、微笑、抚摸狗，或主动避开。\n\nCognition | 基于 beliefs、facts 与 judgement 的评价。 | “狗很友善”或“狗有味道”。\n\n\n\n[B0027] CORE DISTINCTION  Behavioural component 可以只是“我打算做”，不是“我已经做了”。这一区分会直接进入 Theory of Planned Behaviour。\n\n## [B0028] 态度的维度 | Dimensions\n\n[B0029] Strength / durability：态度多稳定、能否抵抗改变。\n\n[B0030] Impact：它对思考与行为有多大影响。\n\n[B0031] Extremity：立场距离中点有多远。\n\n[B0032] Importance：议题是否与个人利益、身份或价值密切相关。\n\n[B0033] Accessibility：态度能否快速、自动地进入意识；越容易想起，越可能影响行为。\n\n[B0034] Ambivalence：是否同时存在冲突感受；ambivalence 越低，影响通常越强。\n\n[B0035] Coherence：cognitive 与 affective elements 是否一致。\n\n## [B0036] 态度从哪里来？ | Development\n\n[B0037] Genetics：双生子研究显示部分态度具有 heritable component，但基因不是单一决定因素。\n\n[B0038] Conditioning：classical/instrumental learning 将对象与奖惩或情绪反应连接。\n\n[B0039] Exposure：mere/repeated exposure 可因熟悉感提高好感，常被 marketing 利用。\n\n[B0040] Observational learning：观察重要他人的态度和行为，并在想融入群体时跟随 social norms。\n\n## [B0041] 态度能否改变？ | Persuasion & moral conviction\n\n[B0042] Persuasion 是改变他人态度的尝试。普通态度会随经验、信息与社会影响改变，但 morally charged attitudes 尤其顽固，因为它们构成自我与群体身份的一部分。\n\n[B0043] Moral conviction：关于绝对 right/wrong 的信念，不只是“很强的普通态度”。\n\n[B0044] 当道德确信冲突时，争议容易从“意见不同”升级为 good versus evil，并伴随情绪化、不宽容，甚至更接受以暴力捍卫立场。\n\n[B0045] EXAM  解释 moral convictions 时，要把“strength”与“moralisation”分开：一个看重强度，一个把立场变成不可妥协的道德判断。\n\n## [B0047] Attitude-behaviour gap：态度为何不能直接预测行为\n\n[B0048] Slides 14-23；核心证据：LaPiere (1934)、Wicker (1969)、Ajzen (1991)。\n\n[B0049] 日常例子很常见：认为运动重要却不运动；关心环境却频繁乘飞机；重视睡眠却熬夜。态度可能参与决策，但情境、成本、习惯、规范与控制感会在最后一步改变行为。\n\n## [B0050] LaPiere (1934)：stated attitude vs observed practice\n\n[B0051] Method / 方法：LaPiere 与一对 Chinese couple 走访美国约 251 家酒店、餐厅与旅游设施，记录是否被拒绝服务；约 6 个月后再向这些地点寄出“是否接待 Chinese guests”的问卷，并加入未访问地点作比较。\n\n[B0052] Finding / 结果：真实接待中只被拒绝 1 次；问卷中 visited establishments 的 128 份回复里，118 份写 No、9 份 Not sure、仅 1 份 Yes。未访问地点也几乎相同（186 No、9 Not sure、1 Yes）。\n\n[B0053] Meaning / 意义：抽象问卷中的偏见态度没有直接转化成面对具体顾客时的行为，揭示 attitude-behaviour gap。\n\n[B0054] Critique / 局限：测量顺序是 behaviour 后 attitude；六个月延迟；答卷者可能不是当天接待者；问卷、经济利益、面对面尴尬与研究者在场等情境因素都可能造成差异；按现代标准还存在 consent 与种族研究伦理问题。\n\n\n[B0055 TABLE]\n\nSurvey response | Visited | Not visited\n\nNo | 118 | 186\n\nNot sure | 9 | 9\n\nYes | 1 | 1\n\nTotal replies | 128 | 196\n\n\n\n## [B0057] Wicker (1969)：42-study review\n\n[B0058] Method / 方法：汇总当时 42 项实验研究，检验 attitudes 与 behaviours 的一致程度。\n\n[B0059] Finding / 结果：平均相关约 r = .15。0 表示无关系，1 表示完美正相关，因此 .15 属于弱关系。\n\n[B0060] Meaning / 意义：不能仅凭一般态度准确预测具体行为；应加入行为意图、情境与社会因素。\n\n[B0061] Critique / 局限：研究年代早、研究与测量高度异质；相关不等于因果。\n\n## [B0062] Theory of Planned Behaviour (TPB)\n\n[B0063 FIGURE] Theory of Planned Behaviour path diagram with correlations\n\n[B0064] Figure: Ajzen (1991) correlations reproduced conceptually from slide 21.\n\n[B0065] Attitude toward behaviour：我对这个具体行为的评价。越具体匹配，预测越好。\n\n[B0066] Subjective norm：我认为重要他人/相关群体如何看待这个行为，以及他们期望我怎么做。\n\n[B0067] Perceived behavioural control：我是否相信自己有能力、机会和控制去完成该行为。\n\n[B0068] Behavioural intention：行动前的计划或意图；仍然不等于实际 behaviour。\n\n## [B0069] 相关强度 | Correlations on slide 21\n\n\n[B0070 TABLE]\n\nPath / construct | Reported r | Interpretation\n\nAttitude → intention | .45-.60 | 中等偏强；比直接预测 behaviour 更稳定。\n\nSubjective norm → intention | .34-.42 | 相关群体的期待提供额外预测力。\n\nPerceived control → intention | .35-.46 | 相信“我做得到”会提高意图。\n\nThree predictors → intention | .63-.71 | 组合预测明显强于单一 attitude。\n\nIntention → behaviour | .53 | 仍非完美；intention-behaviour gap 继续存在。\n\n\n\n[B0072] DO NOT OVERCLAIM  相关系数说明 variables co-vary，不证明 attitude、norm 或 control 单独造成 behaviour。\n\n## [B0073] 什么时候态度更能预测行为？\n\n[B0074] Correspondence / specificity：一般“健康很好”不如具体“我喜欢每天早上跑步”能预测跑步。\n\n[B0075] Potency / strength：立场越强、越重要、越可及，越可能转化为行动。\n\n[B0076] Salience & public commitment：被要求思考或公开表达立场，会提高保持一致的压力。\n\n[B0077] Direct experience：亲身经历（如 housing insecurity）使相关态度更具体、更有分量。\n\n[B0078] Reduced external noise：其他限制、诱因和 confounds 越少，态度与行为的关系越清楚。\n\n## [B0079] TPB 的批评 | Criticisms\n\n[B0080] 模型可能过于 obvious/simplistic，并大量依赖 correlational evidence。\n\n[B0081] 过于 static：未充分纳入过去行为、习惯与动态反馈。\n\n[B0082] 过度强调 rational reasoning，低估 unconscious influences、emotion 与 biases。\n\n[B0083] predictive validity 仍有限：知道所有构念，也不能完全预测实际 behaviour。\n\n## [B0084] 教授补充：attitude measurement\n\n[B0085] Social psychology 常用 anonymous surveys；匿名可降低 social pressure，却不能消除 social desirability、demand characteristics，或人们无法准确解释自身动机的问题。Implicit/reaction-time、neural、physiological 与 polygraph measures 各提供不同线索，也各有局限；生理唤醒尤其不等于撒谎。更稳妥的方法是 triangulation：组合多种测量，而不是寻找一个完美指标。\n\n## [B0086] Cognitive consistency：我们如何处理不一致\n\n[B0087] Slides 24-39；核心理论：Heider’s Balance Theory 与 Festinger’s Cognitive Dissonance Theory。\n\n## [B0088] Balance Theory (Heider)\n\n[B0089] Balance Theory 讨论人与人之间的认知一致性。三角形包含 Person（你）、Other（另一个人）和 X（态度对象）。关系可为正/负；当三条关系组合产生一致结构时，心理上较稳定。\n\n[B0090 FIGURE] Balanced and imbalanced Heider triads\n\n[B0091] Balance logic：喜欢朋友且观点相同较平衡；喜欢朋友但观点冲突会产生不平衡。\n\n[B0092] 遇到喜欢的人持有相反观点时，理论给出两种主要修复路径：\n\n[B0093] 改变对 Other 的态度：降低对这个人的喜欢或尊重。\n\n[B0094] 改变对 X 的态度：调整自己对议题的看法，或说服对方改变。\n\n[B0095] EXAM  Balance Theory 的冲突发生在 person-other-object 三角关系；Cognitive Dissonance 的冲突发生在同一个人内部。\n\n## [B0096] Cognitive Dissonance Theory (Festinger)\n\n[B0097] Cognitive dissonance 是当一个人觉察到两项 attitudes 之间，或 attitude 与 behaviour 之间不一致时产生的不愉快内部状态。人不喜欢把自己看成 hypocrite，因此会尝试降低不适。\n\n## [B0098] 常见的减压路径\n\n[B0099] 改变 behaviour，使行动符合态度。\n\n[B0100] 改变态度或 belief，使它符合已经发生的行为。\n\n[B0101] 加入 external justification：例如“我得到足够补偿”“环境逼我这样做”。\n\n[B0102] 降低议题重要性、回避信息、分散注意力，等待不适减弱。\n\n## [B0103] Festinger & Carlsmith (1959)：turning pegs\n\n[B0104] Method / 方法：参与者做 1 小时极其无聊的转 peg task；随后被要求向下一位“学生”撒谎说任务有趣，并获 $1 或 $20；control 不撒谎。之后评价任务 enjoyment。\n\n[B0105] Finding / 结果：$1 lie group 报告的 enjoyment 最高，$20 group 只略高于 control。\n\n[B0106] Meaning / 意义：$20 提供 sufficient external justification，因此 dissonance 较低；$1 不足以解释撒谎，参与者通过“其实任务没那么糟”改变态度，使 behaviour 与 attitude 重新一致。\n\n[B0107] Critique / 局限：经典研究的样本与时代背景有限；self-report enjoyment 也可能受 demand characteristics 影响。\n\n[B0108] CLASSIC TRAP  不是“奖励越少越喜欢任务”这种一般规律；关键条件是先做 counter-attitudinal behaviour，且外部理由不足。\n\n## [B0109] Bastian et al. (2012)：the meat paradox\n\n[B0110] Method / 方法：参与者随机被告知将吃 beef 或 nuts（control），随后评价不同动物的 mind/sentience。\n\n[B0111] Finding / 结果：预期吃 beef 的人把 cows 评价为更少 sentient / mind-like。\n\n[B0112] Meaning / 意义：人没有立刻停止吃肉，而是通过降低动物的心智能力与 moral relevance 来减轻“爱动物却吃动物”的 dissonance。\n\n[B0113] Critique / 局限：这展示 belief change 与 moral disengagement；不能把单一实验扩展为所有食肉者的固定动机。\n\n## [B0114] Dissonance 作为 behaviour-change tool\n\n[B0115] Hypocrisy-style intervention 会让人先公开倡导一个健康态度，再凸显自己过去行为与之不一致。例如 safe sex、seatbelts、quitting smoking：公开承诺提高一致性压力，行为改变可成为降低 dissonance 的方式。\n\n[B0116] BOUNDARY  是否有效取决于议题是否重要、dissonance 是否足够强，以及个人是否能轻易合理化、忽略或回避；过强羞耻也可能引发防御而非改变。\n\n## [B0117] Persuasion：态度通过什么路径被改变\n\n[B0118] Slides 40-44；Petty & Cacioppo (1986) Elaboration Likelihood Model。\n\n## [B0119] Elaboration Likelihood Model (ELM)\n\n\n[B0120 TABLE]\n\nCentral route | Peripheral route\n\n高 motivation + 足够 attention/cognitive capacity | 低 motivation 或资源不足，较像 autopilot\n\n仔细分析 message content 与 evidence | 依赖 heuristics、来源、熟悉度、重复与外表线索\n\nargument strength 尤其重要 | 简单、显眼、情绪化或身份相关线索更重要\n\n适合高度相关、时间充足、need for cognition 较高的受众 | 常见于广告、政治口号和低注意力场景\n\n\n\n[B0122] CORE  Central/peripheral 不是两类固定的人，而是同一个人在不同 motivation、knowledge、time 与 cognitive load 下可能走的不同加工路径。\n\n## [B0123] 影响说服力的三个位置\n\n## [B0124] Source / 来源\n\n[B0125] Credibility：competence/expertise + trustworthiness。\n\n[B0126] Motive：若来源明显 self-interested，可信度下降。\n\n[B0127] Similarity：like me 的人更容易产生认同；attractiveness 则体现“我想像你”。\n\n[B0128] Power：高权力来源通常更有说服力，但也可能触发抵抗。\n\n## [B0129] Message / 信息\n\n[B0130] Central route 下需要 strong arguments 与事实。\n\n[B0131] 过度显露“我正在操纵你”会引发 resistance；native content 等会降低这种感觉。\n\n[B0132] fear appeals 以 moderate 程度更稳妥：be alert, not alarmed。\n\n[B0133] positive framing 强调获得的 benefit；framing 效果仍取决于议题与受众。\n\n## [B0134] Audience / 受众\n\n[B0135] Need for cognition：享受复杂思考的人更可能深入加工。\n\n[B0136] Self-regulation：主动控制注意力并抵抗说服。\n\n[B0137] Forewarning：提前知道说服即将发生，开始防御。\n\n[B0138] Selective avoidance：只看支持原立场的信息。\n\n[B0139] Counter-arguing：预先生成反驳，保护当前态度。\n\n[B0140] APPLICATION  Plain cigarette packaging、Slip-Slop-Slap 与 seatbelt campaigns 不是需要背对白的案例；重点是识别 source、message、audience 线索与加工路径。\n\n## [B0141] Behaviour change & nudging：改变选择环境\n\n[B0142] Slides 45-55；Thaler & Sunstein (2008)；Australian BETA examples。\n\n## [B0143] 三个相邻领域\n\n\n[B0144 TABLE]\n\nField | Focus\n\nBehavioural economics | 用心理学洞见解释 economic decision-making，挑战完全理性的 actor model。\n\nSocial psychology | 研究 thoughts、feelings、behaviours 如何被 others、groups、norms、authorities 与 institutions 影响。\n\nBehavioural insights | 综合 economics、psychology、neuroscience，理解日常决策并设计、测试干预。\n\n\n\n## [B0146] Nudge 的判定标准\n\n[B0147] Thaler & Sunstein (2008) 将 nudge 定义为：choice architecture 中能够以可预测方式改变行为，但不禁止任何选项，也不显著改变经济诱因的设计；干预必须容易且便宜地避开。\n\n[B0148] Choice architecture：选择发生时的 physical、social、psychological context。\n\n[B0149] Not a mandate：把水果放在视线高度是 nudge；禁止 junk food 不是。\n\n[B0150] Easy to avoid：若退出代价极高，便不再是“mere nudge”。\n\n[B0151] 其他例子：urinal fly target、让 stairs 更有趣、让健康食品更显眼，以及 organ donation 的 opt-out default。它们通过环境/default 改变行为，不等于口号式 persuasion。\n\n## [B0152] 为什么 nudge 可能有效？人是 imperfect processors\n\n[B0153] 我们没有 perfect information、unlimited cognitive ability 或 complete self-control。\n\n[B0154] 我们也关心 fairness 与他人福利，并非只最大化个人经济收益。\n\n\n[B0155 TABLE]\n\nBias / tendency | 含义与设计机会\n\nChoice aversion | 选项过多会拖延；defaults 或简化流程可减少负担。\n\nSalience | 我们注意 novel、relevant、显眼的线索；位置与提示会改变选择。\n\nLoss aversion | 损失带来的痛苦通常强于同等收益的快乐；framing 会影响行动。\n\nPresent bias | 高估现在、低估未来；即时反馈或便利可帮助长期目标。\n\nOverconfidence | 高估好结果、低估风险；个性化反馈可纠正判断。\n\nSocial norms | 被真实或 perceived behaviour of others 影响；这是后半讲的桥梁。\n\n\n\n## [B0157] 政府应用\n\n[B0158] Obama 2015 Executive Order 13707 明确鼓励将 behavioural science 用于更好政策设计。\n\n[B0159] 澳大利亚 BETA（Behavioural Economics Team of the Australian Government）测试减少 antibiotic overprescribing、gambling harm、energy use，以及提高 organ donation 等方案。\n\n[B0160] Plain cigarette packaging 通过去除品牌字体与包装吸引力来改变 choice context；它是法律监管型 behaviour-change intervention，并非 pure nudge，不需要背新闻片段。\n\n[B0161] 教授引用一项 2015 government review，称实施后的下降相当于约 100,000 fewer smokers；答题时应写成讲者所引评估，不要把全部 smoking decline 单因归于包装。\n\n[B0162] ETHICS  好的 nudge 仍需问：目标是否真正增进 welfare？是否透明、可退出、使用准确数据并尊重 autonomy？还要避免只 nudge 个体而忽略 poverty、access 等 structural barriers，并权衡个性化干预需要的数据与 privacy。\n\n## [B0163] Group norms：群体如何改变行为\n\n[B0164] Slides 55-70；五项应用研究 + Terry/Hogg recycling interaction。\n\n## [B0165] 定义与特征\n\n[B0166] Group norms 指群体中通常发生的行为，以及成员认为适当、被期待的行为。它们是 group-level variables：在互相影响、socialisation、culture 与 local networks 中随时间形成，并反过来影响成员。\n\n[B0167] 由 group members endorsement，表达“这是对的/正常的”。\n\n[B0168] 描述 appropriate behaviour，并带有 expectation、obligation 或 oughtness。\n\n[B0169] 表达当时的 social values；规范可能是明确规则，也可能只是成员共同感知。\n\n## [B0170] Descriptive vs injunctive norms\n\n\n[B0171 TABLE]\n\nDescriptive norm | Injunctive norm\n\nWhat most people do：典型、常见、正常的实际行为。 | What most people approve of：应当、正确、被认可的行为。\n\n“Most Australians are wearing masks.” | “Wearing masks is the right thing to do.”\n\n主要提供 reality/typicality 信息。 | 主要提供 morality/approval 信息。\n\n\n\n[B0173] BEST ALIGNMENT  当 descriptive 与 injunctive norms 指向同一行为时，信息通常最有说服力；若两者冲突，告诉人“不要做”却暗示“大家都在做”，可能反而正常化问题。\n\n## [B0174] 规范可以是 perceived，而非真实\n\n[B0175] 教授声称“92% of PSYC1004 students read the slides before class”，随后说明数字是假的。这个示范说明：如果学生在意“PSYC1004 student / good student”身份，仅仅感知到规范就可能改变行为。它也提醒我们，虚假规范可能有效，但存在明显伦理问题。\n\n## [B0176] 五项 social-norm interventions\n\n\n[B0177 TABLE]\n\nStudy | Intervention / design | Key finding\n\nTaxes — Martin (2012) | 从法律威胁改为真实规范，并把 reference group 从 UK 缩小到 postcode / town。 | 回应率：usual 68%，UK 73%，postcode 79%，town 83%；“people like you”越具体越有效。\n\nEnergy — Nolan et al. (2009) | 981 households 收到五种节能门牌信息；一项强调 join your neighbours。 | 邻居规范信息最能降低用电，影响持续数月；但人们主观上把它评为最不可能影响自己。\n\nAntibiotics — Hallsworth et al. (2016) | 向 local area 中处方率最高 20% 的 GP practices 发 CMO 信，指出其高于 80% 同行。 | 6 个月处方率下降 3.3%，约少开 74,000 份，接近 4% 政策目标。\n\nDrink driving — Perkins et al. (2010) | Montana 地区分 social-norm campaign、buffer、control；信息为 4/5 young adults do not drink and drive。 | 改变 perceived norm，并增加 sober/designated drivers；无需 fear 或 ought message。\n\nBullying — Perkins et al. (2011) | 5 所 middle schools 先测量真实规范，再宣传 9/10 peers 不 bullying/exclude；12-18 个月追踪。 | self-reported bullying、perceived bullying、pro-bullying attitudes 均下降；变化约 17%-25%，海报记忆最好学校改善最大。\n\n\n\n[B0179] DATA CORRECTION  Tax slide 62 显示 UK-norm condition = 73%；自动 transcript 中出现过 63% 的口头/转录偏差。本笔记以课件表格 73% 为准。\n\n## [B0180] 为什么总体研究仍不一致？\n\n[B0181] Nyborg et al. (2016) 指出，利用 norms 解决大规模问题的潜力与边界仍未完全理解。关键缺口包括：\n\n[B0182] underlying mechanism 不清：为什么某条信息有效、另一条无效？\n\n[B0183] “others” 常未定义：是谁的规范？哪个 group 对目标人真正重要？\n\n[B0184] 情境差异大，尚不存在可在所有场景直接复制的 ready-to-use toolbox。\n\n## [B0186] Norms × social identity：把“他们的规范”变成“我们的规范”\n\n[B0187] Slides 67-70；Social Identity approach + Terry & Hogg recycling example。\n\n[B0188] 人既可以把自己定义为独立的 I/me，也可以定义为 group member 的 we/us。当某些 others 被分类为“像我、属于我”，他们才更可能成为 social influence 的来源。\n\n[B0189 FIGURE] Mechanism linking relevant group norm, identification, and behaviour\n\n[B0190] Norm intervention mechanism：reference group relevance 与 identification 是关键放大器。\n\n## [B0191] Terry & Hogg recycling study\n\n[B0192] Method / 方法：测量 friends/peers 的 recycling norm、参与者对这个 reference group 的 identification，以及未来两周的 recycling intention。\n\n[B0193] Finding / 结果：低 group norm 时 intention 较低；norm 变高时 intention 上升。最大增幅出现在 high norm + high identification。\n\n[B0194] Meaning / 意义：不是“任何多数信息”都有效。只有当规范来自 behaviourally relevant 且 psychologically important 的群体，才更像 our norm 并推动行动。\n\n[B0195] Critique / 局限：课件页眉写 Terry et al. (1999)，正文引用 Terry & Hogg (1996)。考试时优先准确描述 recycling interaction；若写年份，可注明课件存在双重标注。\n\n## [B0196] 设计更强干预的 checklist\n\n[B0197] 使用 accurate norm，不编造多数。\n\n[B0198] 选 behaviourally specific 的信息，而非宽泛价值口号。\n\n[B0199] 明确 relevant in-group：people like you 必须真的像目标受众。\n\n[B0200] 让 identity salient，但避免以羞辱、排斥制造顺从。\n\n[B0201] 尽量让 descriptive 与 injunctive messages 一致。\n\n[B0202] 测量真实 behaviour，不只测 self-reported intention。\n\n[B0203] 保留 autonomy、退出路径与透明度，并持续测试 unintended effects。\n\n[B0204] SYNTHESIS  Social Identity Theory 不只是再加一个 predictor；它解释 subjective norm 为什么有时很强、有时几乎无效：影响取决于信息来源是否被体验为“us”。\n\n## [B0205] When influence goes wrong：规范与身份的道德中立性\n\n[B0206] Slides 71-74；课堂应用：peer pressure、prejudice norms、cults/Jonestown、misinformation。\n\n[B0207] KEY WARNING  The psychology of influence does not change; the outcome does. 同一机制能促进回收，也能把排斥、偏见与伤害包装成正常、必要甚至道德。\n\n## [B0208] Peer pressure, exclusion & prejudice\n\n[B0209] 想融入群体会让成员跟随真实或 perceived norms，即使它们与个人判断冲突。\n\n[B0210] 当 bullying、exclusion 或 racist language 被群体与领导者容忍，它们可能从“越界”变成“可接受”。\n\n[B0211] 教授以 Voice referendum 后 First Nations Australians 报告更多 racism 为例，但明确提醒：这不等于把所有 opposition 本身定义为 racist；重点是 campaign context 可能改变 permissible language 的感知。\n\n[B0212] 美国政治研究同样被用于说明：inflammatory rhetoric 对已有 prejudice 较高者的影响，会在其他 leaders 容忍/背书时增强。\n\n## [B0213] Cults and Jonestown\n\n[B0214] Cults 是 norms 与 identity 被 weaponised 的极端案例：强烈 shared identity、loyalty、isolation 与对 dissent 的惩罚，可让危险行为显得 necessary、moral 或 virtuous。1978 Jonestown 的 People’s Temple 事件造成近千人死亡，包括约 300 名儿童；由于存在强迫服毒、注射与枪杀，更准确的表述是 involving coercion 的 mass death / murder-suicide，而不只是自愿的 mass suicide。\n\n[B0215] DO NOT SIMPLIFY  不能只说“群体让人变坏”。更准确的解释是：领导、规范、身份认同、隔绝替代观点、惩罚 dissent 与责任结构共同塑造行动。\n\n## [B0216] Political misinformation\n\n[B0217] Misinformation 利用 shared identity 和 group norms：强化 in-group loyalty，把 opposing views 解释为威胁，并在符合 group goals 时把失真信息正常化。92% 假规范示范说明，影响甚至不要求信息真实。\n\n## [B0218] 安全护栏 | Guardrails\n\n[B0219] 准确性：不以 fabricated norm 获得顺从。\n\n[B0220] 多元信息：避免隔绝成员与 alternative perspectives。\n\n[B0221] 领导责任：领导者公开挑战有害规范，而不是默许。\n\n[B0222] 个人 agency：允许质疑、退出与申诉，避免把 loyalty 放在 ethics 之上。\n\n## [B0223] Revision questions：原课件题目与答题骨架\n\n[B0224] Slides 75-76；答案为根据本讲材料整理的短答骨架。\n\n[B0225] What is an attitude?\n\n[B0226] 答题骨架：对社会对象作 favour/disfavour 评价的相对持久心理倾向，包含 Affect、Behavioural tendency/intention 与 Cognition。\n\n[B0227] How do attitudes develop?\n\n[B0228] 答题骨架：Genetics、conditioning、repeated exposure 与 observational/social learning 共同作用。\n\n[B0229] Why was LaPiere’s (1934) study important?\n\n[B0230] 答题骨架：真实服务几乎不拒绝 Chinese couple，但问卷绝大多数说会拒绝，直接显示 stated attitudes 与 observed behaviour 可分离。\n\n[B0231] What are the key elements of the Theory of Planned Behaviour?\n\n[B0232] 答题骨架：Attitude toward behaviour、subjective norm、perceived behavioural control → behavioural intention → behaviour。\n\n[B0233] What are criticisms of TPB?\n\n[B0234] 答题骨架：过于静态与理性化、依赖相关、自变量明显、未充分纳入习惯/情绪/无意识过程，且实际行为预测仍不完美。\n\n[B0235] What two choices does Heider give in an imbalanced situation?\n\n[B0236] 答题骨架：改变对 Other 的态度，或改变自己/对方对 X 的态度。\n\n[B0237] Explain Festinger & Carlsmith (1959).\n\n[B0238] 答题骨架：$1 lie 缺乏充分外部理由，dissonance 较强，于是通过提高 task enjoyment 改变态度；$20 提供 justification。\n\n[B0239] What factors improve persuasiveness?\n\n[B0240] 答题骨架：Source credibility/similarity/power；strong、moderate、well-framed message；audience motivation、capacity、need for cognition 与 resistance。\n\n[B0241] What is a nudge?\n\n[B0242] 答题骨架：可预测地改变行为的 choice architecture；不禁选项、不显著改经济诱因，并且易于、低成本避开。\n\n[B0243] What is a social norm?\n\n[B0244] 答题骨架：群体中通常做什么，以及成员认为适当、被期待做什么的社会规则/标准。\n\n[B0245] Descriptive vs injunctive norm?\n\n[B0246] 答题骨架：Descriptive = what people do；injunctive = what people approve/think one ought to do。\n\n[B0247] Give one norms research example.\n\n[B0248] 答题骨架：可用 taxes：把真实规范具体到 postcode/town，回应率由 usual 68% 提升至 79%/83%，说明 relevant reference group 增强影响。\n\n[B0249] Why are ingroups and identification important?\n\n[B0250] 答题骨架：我们更容易服从被体验为 us 的群体规范；high norm + high identification 才产生最强 intention。\n\n[B0251] How can interventions be improved?\n\n[B0252] 答题骨架：准确、具体、相关群体、突出身份、对齐 descriptive/injunctive norms、测真实行为、保留透明与 autonomy。\n\n[B0253] Are group norms always used for good?\n\n[B0254] 答题骨架：不是。机制 morally neutral，可用于健康/可持续，也可推动 exclusion、prejudice、cults 与 misinformation。\n\n[B0255] EXAM STRATEGY  短答先给 definition/model，再给 one named study + finding，最后写 meaning/limitation。不要只讲日常例子，也不要把 intention 当 behaviour。\n\n## [B0257] Key-term glossary：考前触发词\n\n\n[B0258 TABLE]\n\nTerm | 最短定义\n\nAttitude | 对对象作正/负评价的相对持久心理倾向。\n\nAffect | 态度中的情绪感受。\n\nBehavioural intention | 采取行动的计划；尚未等于实际行为。\n\nAccessibility | 态度进入意识的容易程度。\n\nAmbivalence | 对同一对象有冲突的正负感受。\n\nMoral conviction | 被体验为绝对 right/wrong 的态度。\n\nSubjective norm | 感知重要他人/群体对行为的看法与期待。\n\nPerceived behavioural control | 感知自己是否有能力与机会完成行为。\n\nCognitive dissonance | 觉察态度彼此冲突或态度-行为冲突时的不适。\n\nCentral route | 高投入、系统处理 argument content。\n\nPeripheral route | 低投入，依赖 heuristic 与表面线索。\n\nNudge | 不禁选项的 choice-architecture intervention。\n\nDescriptive norm | 多数人实际上做什么。\n\nInjunctive norm | 多数人赞同/认为应该做什么。\n\nSocial identification | 把自己定义为 group member 的程度。\n\nReference group | 提供规范、且与行为和身份相关的群体。\n\n\n\n## [B0260] Slide map：回课件定位\n\n\n[B0261 TABLE]\n\nSlides | Topic\n\n7-13 | Attitude definitions, ABC, dimensions, development, moral convictions\n\n14-23 | Attitude-behaviour gap, LaPiere, Wicker, TPB\n\n24-39 | Balance Theory, cognitive dissonance, meat paradox, behaviour change\n\n40-44 | ELM and factors affecting persuasiveness\n\n45-55 | Behavioural insights, nudging, imperfect processing\n\n56-70 | Group norms, five interventions, social identity\n\n71-74 | Bad behaviour, exclusion, cults, misinformation\n\n75-76 | Revision questions\n\n\n\n## [B0263] Accuracy notes\n\n[B0264] Transcript 无时间戳但首尾覆盖完整；录课 2:31:03，音视频连续，无明显重复或容器断档。\n\n[B0265] Automatic transcript 将 Eagly & Chaiken、affective、planned behaviour、dissonance 等术语多次误识别；本笔记已按课件校正。\n\n[B0266] Tax UK condition 使用 slide 62 的 73%；Terry study 的年份双重标注已在正文说明。\n\n[B0267] 广告/新闻片段仅保留其理论用途；学生低声提问若 transcript 不完整，仅保留教授明确复述与澄清。\n\n[B0268] FINAL MEMORY  Attitudes matter, but context decides how much. Norms matter, but identity decides whose norms. Influence works, but ethics decides toward what end.",
+  "sourceHash": "bc65bea1f3c8f7c2d183abfe1818fcee5aa0bc8f44c9d48626053110f9ac1570"
+}

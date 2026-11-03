@@ -1,0 +1,770 @@
+[
+  {
+    "lectureId": 9,
+    "id": "REV-P01",
+    "conceptId": "L9-C10",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is true:",
+    "optionsEn": [
+      "Personality is permanent and can never change",
+      "Phrenology has strong scientific evidence to support it",
+      "The pattern that a person sees in an ink blot reveals their personality",
+      "The Big-5 personality inventory has strong scientific evidence to support it"
+    ],
+    "answer": 3,
+    "stem": "下列哪一项是正确的？",
+    "options": [
+      "人格是永久的，永远不会改变",
+      "颅相学（phrenology）有强有力的科学证据支持",
+      "一个人在墨迹（ink blot）中看到的图案能揭示其人格",
+      "大五人格量表（Big-5 personality inventory）有强有力的科学证据支持"
+    ],
+    "explanation": "课上把大五列为有证据基础的人格测量：五个因素来自问卷回答的因子分析，有遗传性，并能在多种情境中预测行为。颅相学和墨迹投射测验则被明确标为 NOT evidence-based。",
+    "optionExplanations": [
+      "人格是相对持久（enduring）的模式，不等于永远不变，仍可能随时间和环境变化。",
+      "颅相学是课上举的“非证据基础”人格测量例子，没有科学证据支持。",
+      "墨迹测验属于投射测验（projective tests），课件同样标为非证据基础的测量。",
+      "正确。大五有三类证据：因子分析得出、具有遗传性、能跨情境预测行为。"
+    ],
+    "source": "教授期末练习题 · Personality 第 1 题；对应 L9 · Evidence-based Big Five · [B0014]；NOT evidence-based measures · [B0015–B0016]；What is personality? · [B0005]；课件自测 · [B0049]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 9,
+    "id": "REV-P02",
+    "conceptId": "L9-C04",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "Which of the following is not a dimension of the Big 5 Personality Model",
+    "optionsEn": [
+      "Extraversion",
+      "Psychopathy",
+      "Agreeableness",
+      "Openness to Experience"
+    ],
+    "answer": 1,
+    "stem": "下列哪一项不是大五人格模型（Big 5 Personality Model）的维度？",
+    "options": [
+      "外向性（Extraversion）",
+      "精神病态（Psychopathy）",
+      "宜人性（Agreeableness）",
+      "经验开放性（Openness to Experience）"
+    ],
+    "explanation": "大五是 OCEAN / CANOE：尽责性、宜人性、神经质、经验开放性、外向性。Psychopathy 是 L10 讲的另一个人格维度，不在大五里。",
+    "optionExplanations": [
+      "外向性是大五中的 E。",
+      "正确。Psychopathy 是单独研究的人格维度（冷酷、操纵、主动性攻击等），不是大五之一。",
+      "宜人性是大五中的 A。",
+      "经验开放性是大五中的 O。"
+    ],
+    "source": "教授期末练习题 · Personality 第 2 题；对应 L9 · Big Five Inventory · [B0008]；课件自测 · [B0050]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 9,
+    "id": "REV-P03",
+    "conceptId": "L9-C08",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "A person who is high on Openness to Experience is:",
+    "optionsEn": [
+      "Organised and disciplined",
+      "Cooperative and helpful",
+      "Emotionally volatile",
+      "Intellectually curious and imaginative"
+    ],
+    "answer": 3,
+    "stem": "经验开放性（Openness to Experience）高的人是：",
+    "options": [
+      "有条理、自律",
+      "合作、乐于助人",
+      "情绪不稳定、易波动",
+      "求知欲强、富有想象力"
+    ],
+    "explanation": "课件对开放性的描述是 intellectually curious, imaginative, introspective, creative，典型条目如“我有生动的想象力”。",
+    "optionExplanations": [
+      "有条理、自律是尽责性（Conscientiousness）。",
+      "合作、乐于助人是宜人性（Agreeableness）。",
+      "情绪波动、容易产生强烈负性情绪是神经质（Neuroticism）。",
+      "正确。求知欲强、富有想象力正是开放性的定义。"
+    ],
+    "source": "教授期末练习题 · Personality 第 3 题；对应 L9 · Openness to experience · [B0012]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 9,
+    "id": "REV-P04",
+    "conceptId": "L9-C05",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "A person who his high on Conscientiousness is:",
+    "optionsEn": [
+      "Organised and disciplined",
+      "Cooperative and helpful",
+      "Emotionally volatile",
+      "Intellectually curious and imaginative"
+    ],
+    "answer": 0,
+    "stem": "尽责性（Conscientiousness）高的人是：",
+    "options": [
+      "有条理、自律",
+      "合作、乐于助人",
+      "情绪不稳定、易波动",
+      "求知欲强、富有想象力"
+    ],
+    "explanation": "课件对尽责性的描述是 organised, self-disciplined, thorough，典型条目如“我注意细节”“我按计划行事”。",
+    "optionExplanations": [
+      "正确。有条理、自律、做事周全就是尽责性。",
+      "合作、乐于助人是宜人性（Agreeableness）。",
+      "情绪波动是神经质（Neuroticism）。",
+      "求知欲强、富有想象力是经验开放性（Openness to Experience）。"
+    ],
+    "source": "教授期末练习题 · Personality 第 4 题；对应 L9 · Conscientiousness · [B0009]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 9,
+    "id": "REV-P05",
+    "conceptId": "L9-C09",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "A person who is energetic and talkative is high on which personality dimension:",
+    "optionsEn": [
+      "Extraversion",
+      "Openness to Experience",
+      "Cognitive Failures",
+      "Neuroticism"
+    ],
+    "answer": 0,
+    "stem": "一个精力充沛、健谈的人在哪个人格维度上得分高？",
+    "options": [
+      "外向性（Extraversion）",
+      "经验开放性（Openness to Experience）",
+      "认知失误（Cognitive Failures）",
+      "神经质（Neuroticism）"
+    ],
+    "explanation": "课件对外向性的描述是 energetic, talkative, outgoing，关注外部来源，典型条目如“我是聚会的灵魂人物”。",
+    "optionExplanations": [
+      "正确。精力充沛、健谈、外向正是外向性。",
+      "开放性指好奇、想象、内省，不是健谈。",
+      "认知失误是 L11 讲的日常注意、记忆失误倾向，不是大五维度，也与健谈无关。",
+      "神经质指容易产生强烈负性情绪。"
+    ],
+    "source": "教授期末练习题 · Personality 第 5 题；对应 L9 · Extraversion · [B0013]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 9,
+    "id": "REV-P06",
+    "conceptId": "L9-C13",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "Which theory of personality considers defence mechanisms used by the ego:",
+    "optionsEn": [
+      "Trait theory",
+      "Humanistic theory",
+      "Psychodynamic theory",
+      "Social Cognitive Theory"
+    ],
+    "answer": 2,
+    "stem": "哪一种人格理论讨论自我（ego）使用的防御机制（defence mechanisms）？",
+    "options": [
+      "特质理论（Trait theory）",
+      "人本主义理论（Humanistic theory）",
+      "心理动力学理论（Psychodynamic theory）",
+      "社会认知理论（Social Cognitive Theory）"
+    ],
+    "explanation": "Freud 的心理动力学理论把人格分为本我、自我、超我，并提出自我使用投射、置换、压抑等防御机制。课上只要求掌握“防御机制属于心理动力学”这一归属。",
+    "optionExplanations": [
+      "特质理论关注可测量的潜在维度（如大五），不讨论防御机制。",
+      "人本主义关注自我概念、成长和成为 fully functioning 的人。",
+      "正确。防御机制由 ego 使用，是 Freud 心理动力学理论的内容。",
+      "社会认知理论关注观察学习和自我效能。"
+    ],
+    "source": "教授期末练习题 · Personality 第 6 题；对应 L9 · Psychodynamic Theory · [B0019]；Defence mechanisms · [B0020]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 9,
+    "id": "REV-P07",
+    "conceptId": "L9-C20",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "Which theory of personality assumes that conditions of worth thwart a person becoming fully functioning:",
+    "optionsEn": [
+      "Trait theory",
+      "Humanistic theory",
+      "Psychodynamic theory",
+      "Social Cognitive Theory"
+    ],
+    "answer": 1,
+    "stem": "哪一种人格理论认为价值条件（conditions of worth）会阻碍一个人成为功能完善（fully functioning）的人？",
+    "options": [
+      "特质理论（Trait theory）",
+      "人本主义理论（Humanistic theory）",
+      "心理动力学理论（Psychodynamic theory）",
+      "社会认知理论（Social Cognitive Theory）"
+    ],
+    "explanation": "人本主义（Rogers）认为理想自我与实际自我一致就是 fully functioning，而“只有满足某些条件才被接纳”的价值条件会阻碍这一点；治疗中靠无条件积极关注来化解不一致。",
+    "optionExplanations": [
+      "特质理论只描述稳定维度，不讨论价值条件。",
+      "正确。Conditions of worth 和 fully functioning 都是 Rogers 人本主义的概念。",
+      "心理动力学关注本我、自我、超我和防御机制。",
+      "社会认知理论关注观察学习和自我效能。"
+    ],
+    "source": "教授期末练习题 · Personality 第 7 题；对应 L9 · Rogers and client-centred therapy · [B0027]；Humanistic Theory · [B0026]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 9,
+    "id": "REV-P08",
+    "conceptId": "L9-C22",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "Which theory of personality considers the role of learning by observing others in shaping behaviour:",
+    "optionsEn": [
+      "Trait theory",
+      "Humanistic theory",
+      "Psychodynamic theory",
+      "Social Cognitive Theory"
+    ],
+    "answer": 3,
+    "stem": "哪一种人格理论讨论通过观察他人进行学习在塑造行为中的作用？",
+    "options": [
+      "特质理论（Trait theory）",
+      "人本主义理论（Humanistic theory）",
+      "心理动力学理论（Psychodynamic theory）",
+      "社会认知理论（Social Cognitive Theory）"
+    ],
+    "explanation": "Bandura 的社会认知理论以观察学习（observational learning）为核心：直接强化解释不了全部行为，人通过观察环境中的他人习得行为，认知因素决定是否习得。",
+    "optionExplanations": [
+      "特质理论关注稳定维度，不以学习过程为核心。",
+      "人本主义关注自由意志、成长和自我概念。",
+      "心理动力学关注无意识过程和防御机制。",
+      "正确。观察学习（如 Bobo doll 研究）是 Bandura 社会认知理论的核心。"
+    ],
+    "source": "教授期末练习题 · Personality 第 8 题；对应 L9 · Social-Cognitive Theory · [B0029–B0030]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 10,
+    "id": "REV-P09",
+    "conceptId": "L10-C01",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is true:",
+    "optionsEn": [
+      "Personality variables explain all human behaviour",
+      "Contextual factors explain all human behaviour",
+      "Considering the interaction between personality and contextual factors typically explains more of human behaviour than considering either in isolation",
+      "None of the above"
+    ],
+    "answer": 2,
+    "stem": "下列哪一项是正确的？",
+    "options": [
+      "人格变量能解释人类的全部行为",
+      "情境因素能解释人类的全部行为",
+      "考虑人格与情境因素之间的交互作用（interaction），通常比单独考虑任何一方解释更多的人类行为",
+      "以上都不对"
+    ],
+    "explanation": "课件 Interactions 一页：人格因素解释一部分行为，情境因素也解释一部分，同时考虑二者的交互作用通常比单独考虑任何一方解释得更多。",
+    "optionExplanations": [
+      "人格只解释一部分行为；只看特质会忽视情境的力量。",
+      "情境也只解释一部分；只看实验操纵会把个体差异当成误差方差。",
+      "正确。人格 × 情境的交互作用通常解释得更多。",
+      "C 是正确的，所以“以上都不对”错误。"
+    ],
+    "source": "教授期末练习题 · Personality 第 9 题；对应 L10 · Interactions · [B0002]–[B0003]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 10,
+    "id": "REV-P10",
+    "conceptId": "L10-C04",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "Higher levels of psychopathy are characterised by:",
+    "optionsEn": [
+      "Callousness",
+      "Extraversion",
+      "Openness to Experience",
+      "Agreeableness"
+    ],
+    "answer": 0,
+    "stem": "较高的精神病态（psychopathy）水平的特征是：",
+    "options": [
+      "冷酷无情（Callousness）",
+      "外向性（Extraversion）",
+      "经验开放性（Openness to Experience）",
+      "宜人性（Agreeableness）"
+    ],
+    "explanation": "Psychopathy 是一个人格维度，由自私、冷酷无情、操纵、刻薄、大胆、去抑制和主动性攻击等特征组成。Callousness 是其中之一。",
+    "optionExplanations": [
+      "正确。冷酷无情（对他人冷漠、不动感情）是 psychopathy 的核心特征。",
+      "外向性是大五维度，不是 psychopathy 的定义特征。",
+      "开放性是大五维度，不是 psychopathy 的定义特征。",
+      "宜人性指合作、友善，与 psychopathy 的冷酷、操纵方向相反。"
+    ],
+    "source": "教授期末练习题 · Personality 第 10 题；对应 L10 · What is psychopathy? · [B0008]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 10,
+    "id": "REV-P11",
+    "conceptId": "L10-C11",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is true about people higher in psychopathy:",
+    "optionsEn": [
+      "They show increased amygdala activation in response to emotional stimuli",
+      "They show reduced amygdala activation in response to emotional stimuli when the emotional stimuli are not the focus of attention",
+      "They show increased processing of neutral distractors",
+      "Their fear-potentiated startle is invariant to attention"
+    ],
+    "answer": 1,
+    "stem": "关于 psychopathy 较高的人，下列哪一项是正确的？",
+    "options": [
+      "他们对情绪刺激表现出更强的杏仁核（amygdala）激活",
+      "当情绪刺激不是注意焦点时，他们对情绪刺激的杏仁核激活减弱",
+      "他们对中性干扰物（neutral distractors）的加工增加",
+      "他们的恐惧增强惊跳（fear-potentiated startle）不受注意影响"
+    ],
+    "explanation": "注意瓶颈理论的证据：psychopathy 高者的杏仁核激活减弱只出现在情绪刺激不是注意焦点时；一旦任务把注意引向情绪（判断恐惧还是中性面孔），激活就与常人相同。",
+    "optionExplanations": [
+      "方向错误：研究发现的是激活减弱，而且只在情绪不是注意焦点时出现。",
+      "正确。杏仁核激活受注意调节，减弱只在情绪刺激不被注意时出现。",
+      "方向错误：psychopathy 高者对与任务无关的中性干扰物加工更少。",
+      "错误：自由观看时惊跳较小，但把注意引向情绪后两组差不多，说明惊跳受注意调节。"
+    ],
+    "source": "教授期末练习题 · Personality 第 11 题；对应 L10 · Attentional bottleneck evidence · [B0015]–[B0016]；Reduced distractor processing · [B0019]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 10,
+    "id": "REV-P12",
+    "conceptId": "L10-C20",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is true about psychopathy:",
+    "optionsEn": [
+      "The revised expanded Levenson Self-Report Psychopathy Scale (LSRP) measures egocentricity, callousness, and antisociality",
+      "The Triarchic Model of Psychopathy (TPM) measure extraversion, neuroticism, and agreeableness",
+      "There are no self-report measures of psychopathy",
+      "Psychopathy is identical to Antisocial Personality Disorder"
+    ],
+    "answer": 0,
+    "stem": "关于 psychopathy，下列哪一项是正确的？",
+    "options": [
+      "修订扩展版 Levenson 自我报告精神病态量表（LSRP）测量自我中心（egocentricity）、冷酷（callousness）和反社会（antisociality）",
+      "精神病态三元模型（Triarchic Model of Psychopathy, TPM）测量外向性、神经质和宜人性",
+      "不存在 psychopathy 的自我报告测量",
+      "Psychopathy 与反社会人格障碍（Antisocial Personality Disorder, APD）完全相同"
+    ],
+    "explanation": "Christian & Sellbom（2016）修订扩展 LSRP，得到自我中心、冷酷、反社会三个因素，心理测量学特性更好。",
+    "optionExplanations": [
+      "正确。三因素 LSRP 就是 Egocentric、Callous、Antisocial。",
+      "TPM 测的是大胆（boldness）、刻薄（meanness）、去抑制（disinhibition），不测大五维度。",
+      "LSRP 和 TPM 本身就是自我报告量表，适用于社区样本。",
+      "二者相关但不相同：APD 偏重可观察行为，只有约 20–30% 的 APD 者符合 psychopath 标准。"
+    ],
+    "source": "教授期末练习题 · Personality 第 12 题；对应 L10 · LSRP 3 Factor Expansion · [B0028]；Triarchic Model · [B0031]；Psychopathy vs APD · [B0034]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 10,
+    "id": "REV-P13",
+    "conceptId": "L10-C27",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following did Batson and colleagues propose:",
+    "optionsEn": [
+      "Feelings of empathy or compassion for another person promote egoistic motivation",
+      "Both altruistic and egoistic motivations can promote helping behaviour",
+      "Feelings of personal distress promote altruistic motivation",
+      "It is possible to infer whether motivation is altruistic or egoistic from a single instance of behaviour"
+    ],
+    "answer": 1,
+    "stem": "Batson 及其同事提出了下列哪一观点？",
+    "options": [
+      "对他人的共情或同情（empathy or compassion）会促进利己动机（egoistic motivation）",
+      "利他动机和利己动机都可以促进助人行为",
+      "个人痛苦（personal distress）的感受会促进利他动机（altruistic motivation）",
+      "可以从单次行为推断动机是利他还是利己"
+    ],
+    "explanation": "Batson 提出两条路径：共情/同情 → 利他动机；个人痛苦和自我关注 → 利己动机。两种动机都可能导致帮助，只是利己的帮助对情境（如能否逃离）非常敏感。",
+    "optionExplanations": [
+      "方向弄反：共情促进的是利他动机。",
+      "正确。两种动机都能带来帮助，所以不能只看“帮了没有”判断动机。",
+      "方向弄反：个人痛苦促进的是利己动机。",
+      "Batson 明确认为不能从单次行为推断动机，要看条件变化时的行为模式。"
+    ],
+    "source": "教授期末练习题 · Personality 第 13 题；对应 L10 · Altruism vs Egoism · [B0038]–[B0039]；Ease of escape paradigm · [B0041]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 10,
+    "id": "REV-P14",
+    "conceptId": "L10-C30",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following did Batson and colleagues find when participants witnessed another person in distress:",
+    "optionsEn": [
+      "When escape from the situation was easy, egoistically motivated individuals were less likely to leave",
+      "Ease of escape had minimal impact on egoistically motivated individuals' likelihood of helping",
+      "Ease of escape had minimal impact on altruistically motivated individuals' likelihood of helping",
+      "When escape from the situation was difficult, altruistic individuals were more likely to leave"
+    ],
+    "answer": 2,
+    "stem": "当参与者目睹另一个人陷入痛苦时，Batson 及其同事发现了什么？",
+    "options": [
+      "当容易逃离情境时，利己动机者更不可能离开",
+      "逃离难易对利己动机者帮助的可能性影响很小",
+      "逃离难易对利他动机者帮助的可能性影响很小",
+      "当难以逃离情境时，利他者更可能离开"
+    ],
+    "explanation": "报告共情和同情的人，无论逃离容易与否都很可能留下帮忙；报告个人痛苦的人在容易逃离时更可能离开。这说明利他动机确实存在。",
+    "optionExplanations": [
+      "方向弄反：容易逃离时，利己者更可能离开。",
+      "错误：逃离难易对利己者影响很大，容易逃离时帮助率明显下降。",
+      "正确。利他者的帮助几乎不受逃离难易影响。",
+      "错误：利他者无论逃离难易都倾向留下帮忙；难以逃离时连利己者也会留下。"
+    ],
+    "source": "教授期末练习题 · Personality 第 14 题；对应 L10 · Batson's findings · [B0042]；Ease of escape paradigm · [B0041]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 11,
+    "id": "REV-P15",
+    "conceptId": "L11-C05",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "Which of the following has been identified as an executive function:",
+    "optionsEn": [
+      "Inhibition",
+      "Impulsivity",
+      "Attentional breadth",
+      "Extraversion"
+    ],
+    "answer": 0,
+    "stem": "下列哪一项被确认为一种执行功能（executive function）？",
+    "options": [
+      "抑制（Inhibition）",
+      "冲动性（Impulsivity）",
+      "注意广度（Attentional breadth）",
+      "外向性（Extraversion）"
+    ],
+    "explanation": "Unity and diversity 模型提出三种核心执行功能：切换（shifting）、更新（updating）和抑制（inhibition）。",
+    "optionExplanations": [
+      "正确。抑制是三种核心执行功能之一。",
+      "冲动性是执行功能差时更容易出现的结果或人格特征，不是执行功能本身。",
+      "注意广度是 L12 讲的空间注意个体差异，不是执行功能。",
+      "外向性是大五人格维度。"
+    ],
+    "source": "教授期末练习题 · Personality 第 15 题；对应 L11 · Three executive functions · [B0005]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 11,
+    "id": "REV-P16",
+    "conceptId": "L11-C15",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Scores on the Cognitive Failures Questionnaire (CFQ) are:",
+    "optionsEn": [
+      "Positively correlated with depression",
+      "Positively correlated with impulsivity",
+      "Negatively correlated with cognitive empathy",
+      "All of the above"
+    ],
+    "answer": 3,
+    "stem": "认知失误问卷（Cognitive Failures Questionnaire, CFQ）的得分：",
+    "options": [
+      "与抑郁正相关",
+      "与冲动性正相关",
+      "与认知共情（cognitive empathy）负相关",
+      "以上都对"
+    ],
+    "explanation": "CFQ 得分高（日常认知失误多）的人抑郁更多、冲动性更高，同时认知共情更低（但情感共情更高）。三项都对。",
+    "optionExplanations": [
+      "对。CFQ 与抑郁症状正相关，属于“认知失误多 → 心理健康较差”。",
+      "对。CFQ 与冲动性正相关。",
+      "对。CFQ 与认知共情负相关；注意它与情感共情是正相关。",
+      "正确。A、B、C 三项都与课上讲的相关方向一致。"
+    ],
+    "source": "教授期末练习题 · Personality 第 16 题；对应 L11 · CFQ and wellbeing · [B0016]；CFQ, emotion regulation and empathy · [B0017]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 11,
+    "id": "REV-P17",
+    "conceptId": "L11-C20",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is true about the new and updated Cognitive Failures Questionnaire (CFQ 2.0):",
+    "optionsEn": [
+      "Confirmatory but not exploratory factor analysis was used in its development",
+      "It explains more variance in objective performance on an attentional control task than the original CFQ",
+      "Its final form consists of two factors",
+      "All of the above"
+    ],
+    "answer": 1,
+    "stem": "关于新的、更新版认知失误问卷（CFQ 2.0），下列哪一项是正确的？",
+    "options": [
+      "开发中使用了验证性因子分析（confirmatory factor analysis），但没有使用探索性因子分析（exploratory factor analysis）",
+      "它比原版 CFQ 解释了更多客观注意控制任务（attentional control task）表现的方差",
+      "它的最终形式由两个因子组成",
+      "以上都对"
+    ],
+    "explanation": "Study 3 检验增量效度（incremental validity）：CFQ 2.0 分数比原版 CFQ 更好地预测客观注意控制任务表现，即解释了更多方差。",
+    "optionExplanations": [
+      "错误：Study 1 用了 EFA，Study 2–3 用了 CFA，两者都用了。",
+      "正确。这就是 CFQ 2.0 的增量效度证据。",
+      "错误：EFA 曾提示三个因子，但 CFA 显示一因子模型（Inattentiveness/Forgetfulness）拟合最好，最终是一个因子。",
+      "A 和 C 都错，所以不能选“以上都对”。"
+    ],
+    "source": "教授期末练习题 · Personality 第 17 题；对应 L11 · CFQ 2.0 Study 3: incremental validity · [B0022]；Study 1 (EFA) · [B0020]；Study 2 (CFA) · [B0021]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 11,
+    "id": "REV-P18",
+    "conceptId": "L11-C24",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following are associated with increased risk of car crash:",
+    "optionsEn": [
+      "Faster speed choice",
+      "Poorer hazard perception",
+      "Poorer performance on the useful field of view (UFOV) task",
+      "All of the above"
+    ],
+    "answer": 3,
+    "stem": "下列哪些与车祸风险升高有关？",
+    "options": [
+      "选择更快的车速",
+      "危险感知（hazard perception）较差",
+      "有效视野（useful field of view, UFOV）任务表现较差",
+      "以上都对"
+    ],
+    "explanation": "课上讲了三类预测因子：驾驶风格（如车速）、驾驶技能（如危险感知）和认知因素（如 UFOV）。三项都与更高的事故风险有关。",
+    "optionExplanations": [
+      "对。车速选择属于驾驶风格，开得越快风险越高。",
+      "对。危险感知属于驾驶技能，对事故风险有很强的预测力。",
+      "对。UFOV 表现越差（阈限越高）事故风险越高，对老年司机证据最有力。",
+      "正确。A、B、C 都是课上列出的事故风险预测因子。"
+    ],
+    "source": "教授期末练习题 · Personality 第 18 题；对应 L11 · Individual differences in crash risk · [B0027]；Driving skill · [B0030]；Driving style · [B0032]；Cognitive predictors · [B0034]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 12,
+    "id": "REV-P19",
+    "conceptId": "L12-C07",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is true about individual differences in attentional breadth:",
+    "optionsEn": [
+      "People who have a preference for a narrower attentional breadth are impaired at adopting a broad attentional breadth",
+      "People with an Eastern cultural background show a greater ability to adopt a broad attentional breadth:",
+      "People higher on Openness to Experience make smaller saccades and have shorter scan paths when viewing a scene",
+      "People diagnosed with Autism Spectrum Disorder have a preference for a broad attentional breadth"
+    ],
+    "answer": 2,
+    "stem": "关于注意广度（attentional breadth）的个体差异，下列哪一项是正确的？",
+    "options": [
+      "偏好较窄注意广度的人，在采用宽注意广度时能力受损",
+      "具有东方文化背景的人表现出更强的采用宽注意广度的能力",
+      "经验开放性（Openness to Experience）较高的人在观看场景时扫视（saccades）更小、扫描路径（scan paths）更短",
+      "被诊断为自闭症谱系障碍（Autism Spectrum Disorder）的人偏好宽注意广度"
+    ],
+    "explanation": "开放性高的人看场景时扫视更小、扫描路径更短，说明他们与视觉信息有更投入、沉浸的接触。其余选项混淆了偏好（preference）和能力（ability），或把方向弄反。",
+    "optionExplanations": [
+      "错误：偏好和能力可以分离，偏好窄不代表采用宽注意的能力受损（如 ASD 研究）。",
+      "错误：东方背景的人更偏好宽注意，但能力上与西方背景者没有差异。",
+      "正确。方向是“更小、更短”，与开放性“好奇、沉浸探索”的画像一致。",
+      "错误：ASD 组偏好的是窄注意广度，且能力上无差异。"
+    ],
+    "source": "教授期末练习题 · Personality 第 19 题；对应 L12 · Openness and eye movements · [B0008]；Preference vs ability · [B0004]；Eastern vs Western · [B0005]；Autism Spectrum Disorder · [B0007]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 12,
+    "id": "REV-P20",
+    "conceptId": "L12-C19",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is true about trait anxiety:",
+    "optionsEn": [
+      "A person who is high in trait anxiety always feels anxious",
+      "Trait anxiety is correlated with Extraversion from the Big 5 model",
+      "Trait anxiety is correlated with poorer self-reported attentional control",
+      "People who are high in trait anxiety always also have social anxiety"
+    ],
+    "answer": 2,
+    "stem": "关于特质焦虑（trait anxiety），下列哪一项是正确的？",
+    "options": [
+      "特质焦虑高的人总是感到焦虑",
+      "特质焦虑与大五模型中的外向性（Extraversion）相关",
+      "特质焦虑与较差的自评注意控制（self-reported attentional control）相关",
+      "特质焦虑高的人总是同时有社交焦虑（social anxiety）"
+    ],
+    "explanation": "特质焦虑与自评注意控制强负相关：特质焦虑越高，自评注意控制越差（如 CFQ 上报告更多认知失误），而且这一关系在自评上比在行为任务上更强。",
+    "optionExplanations": [
+      "错误：特质焦虑是更容易焦虑的倾向，不是一直处于状态焦虑（如度假时也可以很放松）。",
+      "错误：与特质焦虑相关的是神经质（Neuroticism），不是外向性。",
+      "正确。特质焦虑越高，自评注意控制越差。",
+      "错误：两者相关但可分离，有人只在其中一项上高。"
+    ],
+    "source": "教授期末练习题 · Personality 第 20 题；对应 L12 · Self-reported attentional control · [B0019]；Trait anxiety: definition · [B0012]；State vs trait anxiety · [B0013]；Trait vs social anxiety · [B0014]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 12,
+    "id": "REV-P21",
+    "conceptId": "L12-C24",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is true about emotion regulation:",
+    "optionsEn": [
+      "Reappraisal is the only useful emotion regulation strategy",
+      "Attentional deployment is an aspect of emotion regulation Gross's model of emotion regulation",
+      "Individuals who engage in reappraisal more often experience more negative and less positive emotion",
+      "All of the above"
+    ],
+    "answer": 1,
+    "stem": "关于情绪调节（emotion regulation），下列哪一项是正确的？",
+    "options": [
+      "重评（reappraisal）是唯一有用的情绪调节策略",
+      "注意部署（attentional deployment）是 Gross 情绪调节模型中的一个组成部分",
+      "更常使用重评的人体验到更多负性情绪、更少正性情绪",
+      "以上都对"
+    ],
+    "explanation": "Gross 模型包括五类：情境选择、情境修改、注意部署、认知改变、反应调节。注意部署就是有意引导注意来影响情绪反应。",
+    "optionExplanations": [
+      "错误：Gross 模型有五类策略，且课上强调没有万能策略，要灵活选择。",
+      "正确。注意部署是 Gross 模型的第三类，例如紧张时专注看台下微笑鼓励你的朋友。",
+      "说反了：更常重评的人正性情绪更多、负性情绪更少。",
+      "A 和 C 都错，所以不能选“以上都对”。"
+    ],
+    "source": "教授期末练习题 · Personality 第 21 题；对应 L12 · Gross model: attentional deployment · [B0026]；Gross model · [B0024]；Reappraisal propensity and outcomes · [B0030]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 12,
+    "id": "REV-P22",
+    "conceptId": "L12-C32",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is true in relation to individual differences in emotional reactions to bistable images",
+    "optionsEn": [
+      "Higher cognitive empathy is associated with more positive reactions",
+      "Higher affective empathy is associated with more negative reactions",
+      "Intolerance of uncertainty is not associated with emotional reactions",
+      "Higher negative affect is associated with more positive emotional reactions"
+    ],
+    "answer": 0,
+    "stem": "关于对双稳态图像（bistable images）情绪反应的个体差异，下列哪一项是正确的？",
+    "options": [
+      "认知共情（cognitive empathy）越高，反应越正性",
+      "情感共情（affective empathy）越高，反应越负性",
+      "无法忍受不确定性（intolerance of uncertainty）与情绪反应无关",
+      "负性情感（negative affect）越高，情绪反应越正性"
+    ],
+    "explanation": "Goodhew & Edwards（2024）发现：认知共情预测更正性的反应，并且在回归中控制 IU 和 NA 后仍解释独特变异；IU 和 NA 预测更负性的反应，情感共情无关。",
+    "optionExplanations": [
+      "正确。认知共情越高，对能看成两种样子的图像反应越正性。",
+      "错误：情感共情与情绪反应无关（符合预测）。",
+      "错误：IU 越高，情绪反应越负性。",
+      "方向弄反：负性情感越高，反应越负性。"
+    ],
+    "source": "教授期末练习题 · Personality 第 22 题；对应 L12 · Bistable images: results · [B0041]；regression · [B0042]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 11,
+    "id": "REV-P23",
+    "conceptId": "L11-C28",
+    "domain": "personality",
+    "type": "concept",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is an individual difference in driving style that is predictive of crash risk:",
+    "optionsEn": [
+      "Vehicle control",
+      "Speed choice",
+      "Following distance",
+      "Both `B' and `C'"
+    ],
+    "answer": 3,
+    "stem": "下列哪一项是能预测车祸风险的驾驶风格（driving style）个体差异？",
+    "options": [
+      "车辆操控（Vehicle control）",
+      "车速选择（Speed choice）",
+      "跟车距离（Following distance）",
+      "B 和 C 都是"
+    ],
+    "explanation": "驾驶风格是司机自己选择怎么开，包括车速选择、跟车距离、间隙接受、分心和疲劳等；车辆操控属于驾驶技能（skill）。",
+    "optionExplanations": [
+      "错误：车辆操控属于驾驶技能，而且熟练后不再能预测事故风险。",
+      "对。车速选择属于驾驶风格，开得越快风险越高。",
+      "对。跟车距离属于驾驶风格，跟车太近（tailgating）风险大得多。",
+      "正确。B 和 C 都是预测事故风险的驾驶风格因素。"
+    ],
+    "source": "教授期末练习题 · Personality 第 23 题；对应 L11 · Driving style · [B0029]；[B0032]；Driving skill · [B0030]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 10,
+    "id": "REV-P24",
+    "conceptId": "L10-C06",
+    "domain": "personality",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Higher levels of psychopathy are associated with:",
+    "optionsEn": [
+      "Lower levels of cognitive empathy",
+      "Higher levels of affective empathy",
+      "Lower levels of affective empathy",
+      "Both `A' and `C'"
+    ],
+    "answer": 2,
+    "stem": "较高的 psychopathy 水平与什么相关？",
+    "options": [
+      "认知共情（cognitive empathy）较低",
+      "情感共情（affective empathy）较高",
+      "情感共情（affective empathy）较低",
+      "A 和 C 都对"
+    ],
+    "explanation": "Psychopathy 高的人情感共情较低（不太被别人的情绪带动），但认知共情没有受损，仍能理解别人在想什么、感受什么。",
+    "optionExplanations": [
+      "错误：psychopathy 与认知共情不相关，高者理解他人想法的能力并不更差。",
+      "方向错误：是情感共情较低。",
+      "正确。情感共情（情绪传染）较低是 psychopathy 的特点。",
+      "错误：只有 C 对，认知共情并未降低。"
+    ],
+    "source": "教授期末练习题 · Personality 第 24 题；对应 L10 · Affective vs cognitive empathy · [B0010]",
+    "origin": "review"
+  }
+]

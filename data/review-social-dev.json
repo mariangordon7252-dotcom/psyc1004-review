@@ -1,0 +1,770 @@
+[
+  {
+    "lectureId": 1,
+    "id": "REV-S01",
+    "conceptId": "L1-C02",
+    "domain": "social",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "Which of the following best describes the field of social psychology?",
+    "optionsEn": [
+      "The study of individual personality traits and how they interact with environmental factors to understand our attitudes and behaviours.",
+      "The scientific investigation of how the thoughts, feelings, and behaviours of individuals are influenced by the actual, imagined, or implied presence of others.",
+      "The study of the biological and contextual basis of behaviour, focusing on how the brain functions in social settings.",
+      "The analysis of economic systems and their effects on social structures."
+    ],
+    "answer": 1,
+    "stem": "下列哪一项最能描述社会心理学（social psychology）这一领域？",
+    "options": [
+      "研究个人人格特质（personality traits）如何与环境因素互动，以理解我们的态度和行为。",
+      "科学地研究个体的思想、感受和行为如何受到他人实际、想象或隐含存在（actual, imagined, or implied presence of others）的影响。",
+      "研究行为的生物与情境基础，重点关注大脑在社会情境中如何运作。",
+      "分析经济制度及其对社会结构的影响。"
+    ],
+    "explanation": "这是课上引用的 Allport 定义：社会心理学研究他人的实际、想象或隐含存在如何影响个体的思想、感受和行为。即使房间里没有人，想到“别人会怎么看我”也算社会影响。",
+    "optionExplanations": [
+      "以个人特质为中心是人格心理学（personality psychology）的重点，不是社会心理学的定义。",
+      "正确。与 Allport 定义一致：他人可以是实际在场、想象中或隐含的存在。",
+      "以大脑和生物基础为中心更接近社会神经科学，不是本课给的社会心理学定义。",
+      "经济制度与社会结构属于经济学或社会学的研究对象，不以个体心理为单位。"
+    ],
+    "source": "教授期末练习题 · Social 第 1 题；对应 L1 · What Is Social Psychology? · [B0016–B0017]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 1,
+    "id": "REV-S02",
+    "conceptId": "L1-C20",
+    "domain": "social",
+    "type": "research",
+    "difficulty": "基础",
+    "stemEn": "Milgram's studies on obedience to authority showed that:",
+    "optionsEn": [
+      "Surprisingly, most people were able to resist the experimenter's pressure to shock the ‘learner’.",
+      "As predicted, obedience was strongly linked to the participant's personality",
+      "As predicted, participants readily imitated aggressive behaviour after seeing violent movies",
+      "Surprisingly, most 'teachers' delivered the maximum amount of shock to the 'learner.'"
+    ],
+    "answer": 3,
+    "stem": "Milgram 关于服从权威（obedience to authority）的研究显示：",
+    "options": [
+      "出人意料的是，大多数人能够抵抗实验者要求电击“学习者（learner）”的压力。",
+      "与预测一致，服从与参与者的人格密切相关。",
+      "与预测一致，参与者在看过暴力电影后很容易模仿攻击行为。",
+      "出人意料的是，大多数“教师（teacher）”对“学习者”施加了最高强度的电击。"
+    ],
+    "explanation": "Milgram 研究的核心结果是约 65% 的参与者一直服从到最高 450 伏。这出乎多数人的预料，说明普通人在合法权威和责任转移等情境下会做出与自身道德判断冲突的行为。",
+    "optionExplanations": [
+      "与结果相反：多数人没有抵抗到底，65% 服从到最高电压。",
+      "研究强调的是情境因素（合法权威、责任转移、逐步升级），而不是人格。",
+      "模仿暴力电影中的攻击是 Bandura 社会学习一类研究的话题，与 Milgram 无关。",
+      "正确。65% 的参与者施加了最高 450 伏电击，这一结果令人意外。"
+    ],
+    "source": "教授期末练习题 · Social 第 2 题；对应 L1 · Milgram服从研究 · [B0233]；[B0238]；[B0282]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 1,
+    "id": "REV-S03",
+    "conceptId": "L1-C10",
+    "domain": "social",
+    "type": "application",
+    "difficulty": "应用",
+    "stemEn": "Imagine you are a psychologist conducting a study on the links between political orientation and prejudice. You decide to recruit participants from a university in a wealthy, industrialised country. After publishing your results, a colleague points out that your sample consists mainly of W.E.I.R.D. individuals. Why might this be a problem for the generalisability of your findings?",
+    "optionsEn": [
+      "Your findings will likely apply well to diverse cultural and socioeconomic groups around the world.",
+      "Your findings may not accurately reflect the link between these constructs in non-W.E.I.R.D. populations, as they represent only a small fraction of the global population.",
+      "Your research will be more rigorous because W.E.I.R.D. populations are considered the most representative samples.",
+      "Your study will likely encounter fewer ethical concerns because W.E.I.R.D. populations are more homogeneous."
+    ],
+    "answer": 1,
+    "stem": "假设你是一位心理学家，研究政治倾向与偏见之间的关系。你从一个富裕、工业化国家的大学招募参与者。论文发表后，一位同事指出你的样本主要是 W.E.I.R.D.（西方、受教育、工业化、富裕、民主）人群。为什么这可能影响研究结果的可推广性（generalisability）？",
+    "options": [
+      "你的结果很可能适用于世界各地不同文化和社会经济背景的群体。",
+      "你的结果可能无法准确反映非 W.E.I.R.D. 人群中这些变量之间的关系，因为 W.E.I.R.D. 人群只占全球人口的一小部分。",
+      "你的研究会更严谨，因为 W.E.I.R.D. 人群被认为是最具代表性的样本。",
+      "你的研究会遇到更少的伦理问题，因为 W.E.I.R.D. 人群更同质。"
+    ],
+    "explanation": "WEIRD 人群约占全球人口 12%，却占心理学研究参与者的高达约 80%。从这样狭窄的样本得到的关系，不能直接推广到全人类；样本量再大也解决不了这个问题。",
+    "optionExplanations": [
+      "正好相反：WEIRD 样本的问题就在于不一定能推广到其他文化和社会经济群体。",
+      "正确。WEIRD 只是全球人口的一小部分，变量间的关系在其他人群中可能不同。",
+      "WEIRD 样本恰恰被批评为不具代表性，而不是最具代表性。",
+      "同质性与伦理问题多少无关；同事指出的是可推广性问题，不是伦理问题。"
+    ],
+    "source": "教授期末练习题 · Social 第 3 题；对应 L1 · WEIRD Samples WEIRD样本偏差 · [B0027]；[B0406]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 2,
+    "id": "REV-S04",
+    "conceptId": "L2-C14",
+    "domain": "social",
+    "type": "research",
+    "difficulty": "基础",
+    "stemEn": "The Minimal Group Paradigm is important because it showed that ________.",
+    "optionsEn": [
+      "Prejudice is linked to forming an ingroup identity",
+      "Prejudice is related to a person's personality profile",
+      "Prejudice is due to a history of conflict between groups",
+      "Prejudice occurs because of limited cognitive capacity"
+    ],
+    "answer": 0,
+    "stem": "最小群体范式（Minimal Group Paradigm）之所以重要，是因为它显示了 ________。",
+    "options": [
+      "偏见与形成内群体认同（ingroup identity）有关",
+      "偏见与一个人的人格特征有关",
+      "偏见源于群体之间的冲突历史",
+      "偏见的产生是因为认知容量有限"
+    ],
+    "explanation": "最小群体范式用 Kandinsky/Klee 这样随意的标准分组，群体之间没有历史、竞争或稀缺资源，参与者仍然偏向内群体。说明仅仅分出“我们”和“他们”、形成内群体认同，就足以产生内群体偏好，这是社会认同理论的基础。",
+    "optionExplanations": [
+      "正确。仅凭分类形成的内群体认同就能产生内群体偏好（ingroup favouritism）。",
+      "这是人格解释（如权威主义人格），分组是随机的，与人格无关。",
+      "这是现实冲突理论的思路；最小群体刻意排除了冲突历史和竞争。",
+      "这是认知解释（cognitive miser）的说法，不是最小群体范式要证明的内容。"
+    ],
+    "source": "教授期末练习题 · Social 第 4 题；对应 L2 · Minimal Group Paradigm最小群体范式 · [B0091]；五种偏见解释总对照 · [B0098]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 2,
+    "id": "REV-S05",
+    "conceptId": "L2-C05",
+    "domain": "social",
+    "type": "application",
+    "difficulty": "应用",
+    "stemEn": "Imagine a town where two groups are competing for control over a limited water supply during a drought. According to Realistic Conflict Theory, what is the most likely outcome of this situation?",
+    "optionsEn": [
+      "The two groups will work together to find a cooperative solution, strengthening their relationship.",
+      "The conflict will be resolved peacefully if both groups realise the importance of sharing resources.",
+      "The competition for the scarce resource will lead to increased prejudice and intergroup aggression between the two groups.",
+      "The scarcity of resources will have no effect on intergroup relations as long as each group maintains its own territory."
+    ],
+    "answer": 2,
+    "stem": "设想一个小镇在干旱期间，两个群体争夺有限的供水控制权。根据现实冲突理论（Realistic Conflict Theory），最可能出现什么结果？",
+    "options": [
+      "两个群体会合作寻找解决方案，关系因此加强。",
+      "只要两个群体都意识到共享资源的重要性，冲突就会和平解决。",
+      "对稀缺资源的竞争会导致两个群体之间的偏见和群际攻击增加。",
+      "只要各群体守住自己的地盘，资源稀缺就不会影响群际关系。"
+    ],
+    "explanation": "现实冲突理论的核心链条是：稀缺资源 + 互斥目标 → 群体竞争 → 威胁 → 偏见与冲突。争夺有限供水正是稀缺资源和互斥目标，所以预测偏见和群际攻击增加。",
+    "optionExplanations": [
+      "合作改善关系需要共同依赖的超级目标（superordinate goals），题目情境是竞争而不是共同目标。",
+      "RCT 不预测“意识到共享重要”就能自动化解竞争；Sherif 研究中普通接触也没能减少冲突。",
+      "正确。稀缺资源和互斥目标引发竞争，进而产生偏见和群际攻击。",
+      "RCT 认为稀缺资源正是群际冲突的来源，不会“没有影响”。"
+    ],
+    "source": "教授期末练习题 · Social 第 5 题；对应 L2 · 现实冲突理论 · [B0029]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 4,
+    "id": "REV-S06",
+    "conceptId": "L4-C08",
+    "domain": "social",
+    "type": "concept",
+    "difficulty": "辨析",
+    "stemEn": "According to Triandis (and our general discussion in lecture about the relevance of culture) which of the following is not necessarily a defining attribute of individualist cultures?",
+    "optionsEn": [
+      "Personal goals tend to have priority",
+      "The self is independent of groups",
+      "Individuals leave unsatisfactory relationships",
+      "The self is interdependent with some groups"
+    ],
+    "answer": 3,
+    "stem": "根据 Triandis（以及课上关于文化作用的讨论），下列哪一项不一定是个人主义文化（individualist cultures）的定义性特征？",
+    "options": [
+      "个人目标往往优先",
+      "自我独立于群体（independent self）",
+      "个人会离开不满意的关系",
+      "自我与某些群体相互依存（interdependent self）"
+    ],
+    "explanation": "课上对比：个人主义倾向是独立自我、个人目标与权利优先、较可能离开不满意的群体或关系；集体主义倾向是相互依存的自我、群体目标与义务优先。“自我与群体相互依存”属于集体主义的特征。",
+    "optionExplanations": [
+      "个人目标优先是个人主义的典型特征。",
+      "独立、自主、与他人区分的自我是个人主义的典型特征。",
+      "课上明确列出：个人主义者较可能离开不满意的群体或关系。",
+      "正确。相互依存的自我（interdependent self）是集体主义的特征，不是个人主义的定义性特征。"
+    ],
+    "source": "教授期末练习题 · Social 第 6 题；对应 L4 · Independent vs interdependent self-construal · [B0069]；[B0071]；[B0079]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 4,
+    "id": "REV-S07",
+    "conceptId": "L4-C16",
+    "domain": "social",
+    "type": "application",
+    "difficulty": "应用",
+    "stemEn": "A community is organising a protest to demand better public services. According to the concept of collective efficacy, which of the following factors would most likely increase participation in the protest?",
+    "optionsEn": [
+      "A belief among community members that their collective actions won't make a difference in achieving their goals.",
+      "A shared belief among the community that their collective efforts will effectively bring about the desired changes.",
+      "A focus on the difficulties and potential failures of previous protests.",
+      "A low level of communication among group members about the protest and its goals."
+    ],
+    "answer": 1,
+    "stem": "一个社区正在组织抗议，要求改善公共服务。根据集体效能（collective efficacy）的概念，下列哪个因素最可能提高参与率？",
+    "options": [
+      "社区成员认为他们的集体行动无法帮助实现目标。",
+      "社区成员共同相信，他们的集体努力能够有效带来所期望的改变。",
+      "关注以往抗议的困难和可能的失败。",
+      "群体成员之间很少沟通抗议及其目标。"
+    ],
+    "explanation": "集体效能回答的是“我们一起能不能带来改变？”。共同相信集体行动有效，会增强赋权感，推动并维持集体行动。",
+    "optionExplanations": [
+      "这是低集体效能，会降低参与。",
+      "正确。这正是集体效能的定义：共同相信集体努力能带来改变。",
+      "聚焦以往失败会削弱效能信念；课上也提到失败会让集体效能难以重建。",
+      "缺乏沟通不利于形成共同信念和身份，不会提高参与。"
+    ],
+    "source": "教授期末练习题 · Social 第 7 题；对应 L4 · 五类驱动力 · [B0105]；[B0119]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 3,
+    "id": "REV-S08",
+    "conceptId": "L3-C11",
+    "domain": "social",
+    "type": "application",
+    "difficulty": "应用",
+    "stemEn": "Samantha is an advocate for environmental sustainability and often talks about the importance of reducing waste. However, she finds herself frequently using single-use plastic bottles because they are more convenient for her busy lifestyle. According to cognitive dissonance theory, what is Samantha likely to experience as a result of this inconsistency between her attitude and behaviour?",
+    "optionsEn": [
+      "Cognitive dissonance, as her convenience outweighs her environmental concerns.",
+      "Cognitive dissonance, leading to an internal conflict and an unpleasant psychological state.",
+      "No significant reaction, as the inconsistency is minor and not important.",
+      "An increase in her advocacy efforts to distract from the inconsistency."
+    ],
+    "answer": 1,
+    "stem": "Samantha 倡导环境可持续，常谈减少浪费的重要性。但因为生活忙碌、图方便，她经常使用一次性塑料瓶。根据认知失调理论（cognitive dissonance theory），这种态度与行为的不一致可能让她体验到什么？",
+    "options": [
+      "认知失调，因为她对方便的需求超过了对环境的关注。",
+      "认知失调，带来内部冲突和一种不愉快的心理状态。",
+      "没有明显反应，因为这种不一致很小、不重要。",
+      "加强倡导活动，以转移对这种不一致的注意。"
+    ],
+    "explanation": "Festinger 的认知失调是：觉察到态度与态度、或态度与行为不一致时产生的不愉快内部状态。Samantha 的环保态度与使用塑料瓶的行为冲突，正会产生这种不适。",
+    "optionExplanations": [
+      "失调不是因为“方便超过环保”；若她真认为方便更重要，冲突反而会减弱。失调来自两者不一致带来的不适。",
+      "正确。态度与行为不一致 → 内部冲突 → 不愉快的心理状态，这就是认知失调的定义。",
+      "理论预测会出现失调；而且她常谈环保，这个态度对她很重要，失调更明显。",
+      "理论描述的首先是失调这种不适状态；转移注意并不是理论直接预测的结果。"
+    ],
+    "source": "教授期末练习题 · Social 第 8 题；对应 L3 · Cognitive Dissonance Theory (Festinger) · [B0096–B0097]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 2,
+    "id": "REV-S09",
+    "conceptId": "L2-C07",
+    "domain": "social",
+    "type": "concept",
+    "difficulty": "辨析",
+    "stemEn": "Which of the statements below best describes the psycho-dynamic approach to explaining prejudice?",
+    "optionsEn": [
+      "Prejudice is related to an aggressive personality",
+      "Prejudice is related to experiences of disadvantage",
+      "Prejudice is related to permissive parenting",
+      "Prejudice is related to experiences of frustration"
+    ],
+    "answer": 3,
+    "stem": "下列哪种说法最能描述解释偏见的心理动力学取向（psychodynamic approach）？",
+    "options": [
+      "偏见与攻击性人格有关",
+      "偏见与处于不利地位的经历有关",
+      "偏见与放任型教养有关",
+      "偏见与挫折（frustration）经历有关"
+    ],
+    "explanation": "心理动力学取向的核心是挫折—攻击假说（Dollard 等）：目标受阻产生挫折，无法攻击真正来源时，攻击被转移到较弱的替罪羊群体上。",
+    "optionExplanations": [
+      "把偏见归于人格属于人格取向（如权威主义人格），不是心理动力学取向。",
+      "不利处境可能带来挫折，但该取向的关键变量是挫折本身；Berkowitz 后来强调的也是主观剥夺感，而不是客观不利。",
+      "放任型教养不是本课讲的偏见解释；Adorno 的权威主义人格反而与严厉教养相关。",
+      "正确。挫折 → 转移性攻击 → 替罪羊，是心理动力学取向的解释。"
+    ],
+    "source": "教授期末练习题 · Social 第 9 题；对应 L2 · 挫折—攻击假说 · [B0034]；[B0038]；五种偏见解释总对照 · [B0098]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 3,
+    "id": "REV-S10",
+    "conceptId": "L3-C22",
+    "domain": "social",
+    "type": "application",
+    "difficulty": "应用",
+    "stemEn": "A company is trying to encourage its employees to adopt more environmentally friendly practices, such as recycling. According to research on group norms, under which condition is this intervention most likely to succeed?",
+    "optionsEn": [
+      "When the company has a general recycling policy that employees support and there are incentives for compliance.",
+      "When the company enforces strict recycling rules and introduces non-compliance punishments.",
+      "When there is a strong group norm to recycle, and employees strongly identify with their workgroup.",
+      "When the company offers financial incentives for recycling, regardless of group norms or identification."
+    ],
+    "answer": 2,
+    "stem": "一家公司希望鼓励员工采取更环保的做法，例如回收。根据群体规范（group norms）的研究，这项干预在什么条件下最可能成功？",
+    "options": [
+      "公司有一项员工支持的一般回收政策，并对遵守给予奖励。",
+      "公司严格执行回收规定，并对不遵守者实施惩罚。",
+      "存在强烈的回收群体规范，且员工高度认同自己的工作小组。",
+      "公司为回收提供经济奖励，不管群体规范或认同如何。"
+    ],
+    "explanation": "Terry & Hogg 的回收研究发现：群体规范越强，回收意向越高，而最大增幅出现在“高规范 + 高认同”。规范必须来自自己认同的群体，才会变成“我们的规范”并推动行动。",
+    "optionExplanations": [
+      "一般政策和奖励不涉及群体规范与认同，不是该研究找到的关键条件。",
+      "规则与惩罚是外部强制，不是群体规范研究的结论。",
+      "正确。强群体规范 × 高群体认同的组合效果最大。",
+      "题干明确“不管群体规范或认同”，与研究强调规范 × 认同的结论相反。"
+    ],
+    "source": "教授期末练习题 · Social 第 10 题；对应 L3 · Terry & Hogg recycling study · [B0191–B0194]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 6,
+    "id": "REV-D01",
+    "conceptId": "L6-C25",
+    "domain": "developmental",
+    "type": "research",
+    "difficulty": "基础",
+    "stemEn": "Dunham, Baron & Banaji (2008) showed that:",
+    "optionsEn": [
+      "Explicit bias decreases with age, implicit bias remains",
+      "Both explicit and implicit bias decrease",
+      "Explicit bias remains constant, implicit bias increases",
+      "Both increases"
+    ],
+    "answer": 0,
+    "stem": "Dunham、Baron 与 Banaji（2008）的研究显示：",
+    "options": [
+      "显性偏见（explicit bias）随年龄下降，隐性偏见（implicit bias）保持不变",
+      "显性和隐性偏见都下降",
+      "显性偏见保持不变，隐性偏见上升",
+      "两者都上升"
+    ],
+    "explanation": "课上的 Baron & Banaji 系列研究比较 6 岁、10 岁儿童和成人：明确说出的种族偏好随年龄减弱，而 Child IAT 测到的隐性联结幅度在各年龄相近。隐性与显性测量反映的东西不同，不能互相替代。",
+    "optionExplanations": [
+      "正确。显性偏见随年龄下降，隐性偏见大体保持。",
+      "隐性偏见没有像显性偏见那样下降。",
+      "显性偏见是下降而非不变，隐性偏见也没有上升。",
+      "显性偏见是下降的，两者都上升与研究结果不符。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 1 题；对应 L6 · Child IAT：用反应时观察联结 · [B0190]；[B0193]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 5,
+    "id": "REV-D02",
+    "conceptId": "L5-C02",
+    "domain": "developmental",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "Freud's psychodynamic theory emphasised:",
+    "optionsEn": [
+      "Observable behaviours only",
+      "Unconscious drives and conflicts",
+      "Information processing models",
+      "Conditioning principles"
+    ],
+    "answer": 1,
+    "stem": "Freud 的心理动力学理论（psychodynamic theory）强调：",
+    "options": [
+      "只关注可观察的行为",
+      "无意识的驱力与冲突（unconscious drives and conflicts）",
+      "信息加工模型",
+      "条件作用原理"
+    ],
+    "explanation": "课上把 Freud 的贡献概括为：童年经验可能影响成人，行为可受意识之外的过程影响，并提出防御机制。核心就是无意识的驱力与冲突。",
+    "optionExplanations": [
+      "只看可观察行为是行为主义的立场，与 Freud 强调内在无意识过程相反。",
+      "正确。Freud 强调意识之外的驱力与冲突塑造行为。",
+      "信息加工模型属于后来的认知心理学取向。",
+      "条件作用原理属于行为主义（如 Pavlov、Skinner）。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 2 题；对应 L5 · Freud, Adler and Jung · [B0033]；[B0035]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 5,
+    "id": "REV-D03",
+    "conceptId": "L5-C12",
+    "domain": "developmental",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "Piaget's theory is best described as:",
+    "optionsEn": [
+      "Stage-based, qualitative cognitive development",
+      "Continuous, quantitative improvement",
+      "Entirely nurture-driven",
+      "Focused only on adolescence"
+    ],
+    "answer": 0,
+    "stem": "Piaget 的理论最适合描述为：",
+    "options": [
+      "阶段式、质变的认知发展（stage-based, qualitative）",
+      "连续的、量变的进步（continuous, quantitative）",
+      "完全由后天养育（nurture）驱动",
+      "只关注青春期"
+    ],
+    "explanation": "Piaget 阶段理论的主张之一是质的差异：不同阶段不只是知道得更多，而是推理形式不同；阶段顺序固定（invariant sequence）。所以是阶段式、质变的发展。",
+    "optionExplanations": [
+      "正确。阶段之间是推理形式的质变。",
+      "连续量变是与阶段理论相对的观点，不是 Piaget 的主张。",
+      "Piaget 强调儿童与环境互动、主动建构，不是完全由养育决定。",
+      "他的四个阶段覆盖从出生（感知运动期）到青少年（形式运算期）。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 3 题；对应 L5 · Piaget stage theory 的四个主张 · [B0085]；[B0087]；[B0093]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 5,
+    "id": "REV-D04",
+    "conceptId": "L5-C13",
+    "domain": "developmental",
+    "type": "concept",
+    "difficulty": "基础",
+    "stemEn": "Object permanence refers to:",
+    "optionsEn": [
+      "Ability to imitate gestures",
+      "Understanding that objects continue to exist when out of sight",
+      "Conservation of number",
+      "Reversible operations"
+    ],
+    "answer": 1,
+    "stem": "客体永久性（object permanence）指的是：",
+    "options": [
+      "模仿手势的能力",
+      "理解物体在看不见时仍然继续存在",
+      "数量守恒",
+      "可逆运算"
+    ],
+    "explanation": "客体永久性是感知运动期的重要成就：物体不可见时，婴儿理解它仍然存在。它约在 4–8 个月开始发展。",
+    "optionExplanations": [
+      "模仿是另一种能力，与理解物体是否存在无关。",
+      "正确。这正是客体永久性的定义。",
+      "数量守恒是前运算期儿童常失败、具体运算期掌握的能力。",
+      "可逆运算属于具体运算期的推理特征。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 4 题；对应 L5 · Sensorimotor stage：六个 substages · [B0093]；[B0096]；[B0195]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 7,
+    "id": "REV-D05",
+    "conceptId": "L7-C25",
+    "domain": "developmental",
+    "type": "research",
+    "difficulty": "基础",
+    "stemEn": "Cross-cultural research suggests:",
+    "optionsEn": [
+      "ICs only occur in the US",
+      "ICs exist across cultures, but form varies",
+      "ICs occur only in collectivist societies",
+      "ICs are unrelated to culture"
+    ],
+    "answer": 1,
+    "stem": "跨文化研究表明：",
+    "options": [
+      "想象伙伴（imaginary companions, ICs）只出现在美国",
+      "想象伙伴存在于各种文化中，但形式不同",
+      "想象伙伴只出现在集体主义社会",
+      "想象伙伴与文化无关"
+    ],
+    "explanation": "想象伙伴在儿童游戏中并不罕见，可以是看不见的伙伴、被人格化的玩具、扮演身份或共享伙伴。课件指出不同文化中角色形式和报告方式会不同，即普遍存在、形式各异。",
+    "optionExplanations": [
+      "ICs 不限于某一国家。",
+      "正确。跨文化普遍存在，但形式随文化和游戏环境变化。",
+      "ICs 不限于集体主义社会。",
+      "形式和报告方式受文化影响，不能说与文化无关。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 5 题；对应 L7 · Imaginary companion 可以有哪些形式？ · [B0223]；[B0227]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 5,
+    "id": "REV-D06",
+    "conceptId": "L5-C11",
+    "domain": "developmental",
+    "type": "concept",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following statements is true of Piaget's theory of development?",
+    "optionsEn": [
+      "He believed that cognitive development followed a genetically programmed, maturational schedule.",
+      "He believed that cognitive development primarily occurred in the context of social interaction.",
+      "He believed that children constructed knowledge in response to experience.",
+      "He believed that children from different cultures experienced different developmental stages."
+    ],
+    "answer": 2,
+    "stem": "下列关于 Piaget 发展理论的说法，哪一项正确？",
+    "options": [
+      "他认为认知发展遵循由基因设定的成熟时间表。",
+      "他认为认知发展主要发生在社会互动之中。",
+      "他认为儿童根据经验主动建构知识。",
+      "他认为不同文化的儿童经历不同的发展阶段。"
+    ],
+    "explanation": "Piaget 采取建构主义（constructivist）取向：儿童像小科学家，通过行动、预测、犯错和修正，借同化与顺应调整图式，主动建构知识。",
+    "optionExplanations": [
+      "Piaget 不认为发展只是基因决定的成熟；知识来自儿童与经验的互动建构。",
+      "强调社会互动是 Vygotsky 的观点；Piaget 恰恰被批评低估了社会互动和文化。",
+      "正确。儿童根据经验主动建构知识，是 Piaget 的核心观点。",
+      "Piaget 主张阶段顺序跨文化普遍适用，不是因文化而异。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 6 题；对应 L5 · Piaget：儿童主动建构知识 · [B0079]；[B0082]；[B0088]；[B0115]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 5,
+    "id": "REV-D07",
+    "conceptId": "L5-C26",
+    "domain": "developmental",
+    "type": "concept",
+    "difficulty": "辨析",
+    "stemEn": "Which of the following is NOT true about Vygotsky?",
+    "optionsEn": [
+      "Vygotsky believed that the child was an active participant in constructing knowledge.",
+      "Vygotsky emphasized the importance of social interaction in cognitive development.",
+      "Vygotsky believed that the child was like a little scientist, conducting experiments and trying to understand the physical world.",
+      "Vygotsky predicted cross-cultural variability in development."
+    ],
+    "answer": 2,
+    "stem": "下列关于 Vygotsky 的说法，哪一项不正确？",
+    "options": [
+      "Vygotsky 认为儿童是建构知识的主动参与者。",
+      "Vygotsky 强调社会互动在认知发展中的重要性。",
+      "Vygotsky 认为儿童像小科学家，进行实验，努力理解物理世界。",
+      "Vygotsky 预测发展会存在跨文化差异。"
+    ],
+    "explanation": "“儿童是小科学家”是 Piaget 的比喻。Vygotsky 同样把儿童看作主动学习者，但强调知识通过更有能力的他人、语言和文化实践共同建构，所以预期发展因文化而异。",
+    "optionExplanations": [
+      "正确说法：Vygotsky 同样把儿童看作主动学习者。",
+      "正确说法：社会互动是 Vygotsky 理论的核心（知识先存在于人与人之间）。",
+      "不正确，因此选它。独自实验、探索物理世界的“小科学家”是 Piaget 的观点。",
+      "正确说法：文化提供不同的知识、工具和实践，所以 Vygotsky 预期发展有跨文化差异。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 7 题；对应 L5 · Piaget vs Vygotsky · [B0079]；[B0120]；[B0123]；[B0153]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 7,
+    "id": "REV-D08",
+    "conceptId": "L7-C05",
+    "domain": "developmental",
+    "type": "application",
+    "difficulty": "应用",
+    "stemEn": "Imagine I conduct a twin study aimed at examining whether extraversion is heritable. Which of the following possible results would indicate that extraversion is heritable?",
+    "optionsEn": [
+      "A stronger correlation between extraversion scores in pairs of monozygotic (identical) twins than in pairs of dizygotic (fraternal) twins.",
+      "A stronger correlation between extraversion scores in pairs of dizygotic (fraternal) than in pairs of monozygotic (identical) twins.",
+      "Higher extraversion scores amongst monozygotic (identical) than dizygotic (fraternal) twins.",
+      "Higher extraversion scores amongst dizygotic (fraternal) than monozygotic (identical) twins."
+    ],
+    "answer": 0,
+    "stem": "假设我做一项双生子研究，考察外向性（extraversion）是否可遗传。下列哪种结果表明外向性具有遗传性？",
+    "options": [
+      "同卵双生子（monozygotic, MZ）配对之间的外向性分数相关，强于异卵双生子（dizygotic, DZ）配对。",
+      "异卵双生子配对之间的外向性分数相关，强于同卵双生子配对。",
+      "同卵双生子的外向性分数高于异卵双生子。",
+      "异卵双生子的外向性分数高于同卵双生子。"
+    ],
+    "explanation": "MZ 几乎共享全部遗传变异，DZ 平均约一半。比较的是同一特质在配对内的相关程度：若 MZ 相关高于 DZ，说明遗传差异参与了该特质的个体差异。",
+    "optionExplanations": [
+      "正确。rMZ > rDZ 是遗传贡献的证据（也可代入 h² ≈ 2(rMZ − rDZ)）。",
+      "方向相反；DZ 共享的遗传更少，若相关反而更高则不支持遗传性。",
+      "比较的是配对内的相似程度（相关），不是谁的平均分更高。",
+      "同样是比较平均分，不能说明遗传性。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 8 题；对应 L7 · Behavioural genetics 问的是变异来源 · [B0064–B0065]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 7,
+    "id": "REV-D09",
+    "conceptId": "L7-C06",
+    "domain": "developmental",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "A common criticism of Behavioural Genetics research is that:",
+    "optionsEn": [
+      "Most psychological behaviours are the result of polygenic inheritance.",
+      "The assumption that monozygotic and dizygotic twins share the same environment is problematic.",
+      "These days few twins are separated at birth.",
+      "(A) and (C)."
+    ],
+    "answer": 1,
+    "stem": "对行为遗传学（Behavioural Genetics）研究的一个常见批评是：",
+    "options": [
+      "大多数心理行为是多基因遗传（polygenic inheritance）的结果。",
+      "“同卵和异卵双生子共享相同环境”这一假设有问题。",
+      "如今很少有双生子在出生时被分开。",
+      "(A) 和 (C)。"
+    ],
+    "explanation": "双生子设计依赖等环境假设（equal-environments assumption）：MZ 与 DZ 的环境相似度相同。但 MZ 外表更像，可能被更相似地对待，所以 MZ 更相似时可能也混有环境效应。这是对行为遗传学的核心批评。",
+    "optionExplanations": [
+      "多基因遗传是事实描述（复杂特质通常多基因），不是对行为遗传学研究方法的批评。",
+      "正确。等环境假设不一定成立，是常见批评。",
+      "这只是分离双生子研究样本难找的现实，不是对行为遗传学研究逻辑的常见批评。",
+      "A 不是批评；C 也不是题目所说的常见批评，所以组合选项不对。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 9 题；对应 L7 · 等环境假设与非共享经验 · [B0067–B0069]；另见 [B0033]；[B0089]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 8,
+    "id": "REV-D10",
+    "conceptId": "L8-C06",
+    "domain": "developmental",
+    "type": "application",
+    "difficulty": "应用",
+    "stemEn": "A researcher finds that 15-year-olds make similar decisions to adults when completing a neutral reasoning task alone, but take more risks when the task offers exciting rewards. What is the best interpretation?",
+    "optionsEn": [
+      "Adolescents are incapable of rational decision-making",
+      "Risk-taking is unrelated to reward sensitivity",
+      "Adolescents have fully matured cognitive control systems",
+      "Adolescents' heightened reward sensitivity influences cognitive ability in affective contexts"
+    ],
+    "answer": 3,
+    "stem": "研究者发现，15 岁青少年独自完成中性推理任务时，决策与成人相似；但当任务提供刺激性奖励时，他们更冒险。最佳解释是什么？",
+    "options": [
+      "青少年无法进行理性决策",
+      "冒险与奖励敏感性无关",
+      "青少年的认知控制系统已完全成熟",
+      "青少年较高的奖励敏感性（reward sensitivity）在情绪性情境（affective contexts）中影响其认知能力"
+    ],
+    "explanation": "双系统模型：奖励系统（yes system）在青春期较早变得敏感，控制系统（no system）成熟较晚。在中性情境中青少年能像成人一样推理，但在奖励、情绪或同伴等情绪性情境中，较高的奖励敏感性会推动更冒险的选择。",
+    "optionExplanations": [
+      "中性任务中他们与成人表现相似，说明并非无法理性决策；课上也提醒不要写“青少年无法理解后果”。",
+      "冒险只在有奖励时增加，恰恰说明与奖励敏感性有关。",
+      "控制系统在青春期仍在发展，没有完全成熟。",
+      "正确。奖励敏感性在情绪性情境中影响决策，中性情境下则差异不大。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 10 题；对应 L8 · 双系统模型 · [B0057]；[B0061]；风险选择 · [B0044]；[B0049]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 8,
+    "id": "REV-D11",
+    "conceptId": "L8-C19",
+    "domain": "developmental",
+    "type": "application",
+    "difficulty": "应用",
+    "stemEn": "A teenager watches a series of videos criticising a particular social group. Their social media feed begins showing increasingly similar content, making that viewpoint appear more universally accepted. Which concept best describes this?",
+    "optionsEn": [
+      "Accommodation",
+      "Socioemotional selectivity",
+      "Echo chambers",
+      "Longitudinal Development"
+    ],
+    "answer": 2,
+    "stem": "一名青少年观看了一系列批评某个社会群体的视频，之后其社交媒体推送开始出现越来越多类似内容，使这种观点看起来更被普遍接受。哪个概念最能描述这一现象？",
+    "options": [
+      "顺应（accommodation）",
+      "社会情绪选择（socioemotional selectivity）",
+      "回音室（echo chambers）",
+      "纵向发展（longitudinal development）"
+    ],
+    "explanation": "回音室指相似观点在内容和社交网络中反复强化，让某种看法显得更普遍。推送算法把相似内容越推越多，正是这一信息环境。",
+    "optionExplanations": [
+      "顺应是 Piaget 的术语：修改图式以容纳新经验，与信息环境无关。",
+      "社会情绪选择理论讲老年人因感到未来时间有限而优先情感上重要的关系。",
+      "正确。相似观点被反复强化，使其看起来普遍被接受，就是回音室。",
+      "纵向是研究设计（同一批人多次测量），不是描述信息环境的概念。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 11 题；对应 L8 · 算法环境与虚假信息判断 · [B0149]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 5,
+    "id": "REV-D12",
+    "conceptId": "L5-C07",
+    "domain": "developmental",
+    "type": "application",
+    "difficulty": "应用",
+    "stemEn": "Researchers compare the memory abilities of 8, 12, and 16-year-olds at a single point in time. They conclude that memory improves with age. What is the main methodological limitation?",
+    "optionsEn": [
+      "The study cannot identify differences between age groups",
+      "The study requires waiting many years for results",
+      "All participants experience identical environmental influences",
+      "The study may confuse age differences with cohort effects"
+    ],
+    "answer": 3,
+    "stem": "研究者在同一时间点比较 8 岁、12 岁和 16 岁儿童的记忆能力，并得出“记忆随年龄提高”的结论。主要的方法学局限是什么？",
+    "options": [
+      "该研究无法发现年龄组之间的差异",
+      "该研究需要等待许多年才能得到结果",
+      "所有参与者经历完全相同的环境影响",
+      "该研究可能把年龄差异与世代效应（cohort effects）混为一谈"
+    ],
+    "explanation": "这是横断设计（cross-sectional）：同一时间比较不同年龄组。它快速、成本低，但不同年龄组也是不同世代，差异可能来自成长年代和经历；而且没有观察同一个人的变化，年龄差异不等于年龄造成变化。",
+    "optionExplanations": [
+      "横断设计正是用来比较年龄组差异的，能发现差异。",
+      "需要等待多年是纵向设计（longitudinal）的局限，横断设计不需要。",
+      "不同年龄组成长于不同时期，环境并不相同，这正是问题所在。",
+      "正确。世代效应是横断设计的主要局限。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 12 题；对应 L5 · Research methods：年龄差异不自动等于发展原因 · [B0068]；[B0071]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 7,
+    "id": "REV-D13",
+    "conceptId": "L7-C18",
+    "domain": "developmental",
+    "type": "application",
+    "difficulty": "应用",
+    "stemEn": "A child learns that dolphins live in water and resemble fish, but classifies them as mammals after learning that they breathe air and nurse their young. What best explains this change?",
+    "optionsEn": [
+      "Classification based exclusively on perceptual similarity",
+      "A failure to form hierarchical categories",
+      "The disappearance of all perceptual knowledge",
+      "A shift towards causal conceptual understanding"
+    ],
+    "answer": 3,
+    "stem": "一个孩子知道海豚生活在水中、外形像鱼，但在得知它们用肺呼吸空气、给幼崽哺乳后，把它们归为哺乳动物。什么最能解释这种变化？",
+    "options": [
+      "完全基于知觉相似性（perceptual similarity）进行分类",
+      "未能形成层级类别",
+      "所有知觉知识的消失",
+      "转向基于因果的概念理解（causal conceptual understanding）"
+    ],
+    "explanation": "基于理论的概念（theory-based concepts）超越外形相似：儿童用呼吸方式、哺乳等内在、有因果意义的特征来分类，而不再只看“像不像鱼”。这有助于组织知识和推广到新例子。",
+    "optionExplanations": [
+      "孩子恰恰放弃了只看外形（像鱼）的分类。",
+      "把海豚归入“哺乳动物”说明能使用层级类别，不是失败。",
+      "知觉知识没有消失；孩子仍知道海豚像鱼，只是不再仅凭外形分类。",
+      "正确。分类依据从外形转向内在因果特征。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 13 题；对应 L7 · Theory-based concepts 超越外形相似 · [B0159–B0161]",
+    "origin": "review"
+  },
+  {
+    "lectureId": 6,
+    "id": "REV-D14",
+    "conceptId": "L6-C03",
+    "domain": "developmental",
+    "type": "research",
+    "difficulty": "辨析",
+    "stemEn": "Which conclusion is most consistent with developmental attachment research?",
+    "optionsEn": [
+      "Attachment has an evolutionary and maturational basis, but its behavioural expression can be shaped by cultural context",
+      "Attachment is entirely determined by cultural practices, with no biological influence",
+      "Attachment develops identically across cultures because it is a universal biological process",
+      "Cultural differences in separation distress demonstrate that attachment is not an innate developmental tendency"
+    ],
+    "answer": 0,
+    "stem": "哪一个结论最符合发展心理学的依恋（attachment）研究？",
+    "options": [
+      "依恋有进化和成熟的基础，但其行为表现会受文化情境塑造",
+      "依恋完全由文化习俗决定，没有生物影响",
+      "依恋在各文化中以完全相同的方式发展，因为它是普遍的生物过程",
+      "分离焦虑的文化差异说明依恋不是一种先天的发展倾向"
+    ],
+    "explanation": "Bowlby 认为依恋系统有进化的生存价值；不同文化和视障儿童也会出现分离焦虑，说明有成熟因素。但分离焦虑出现的时间、依恋类型的分布都有个体和文化差异。所以是“生物基础 + 文化塑造表现”。",
+    "optionExplanations": [
+      "正确。进化与成熟提供基础，文化塑造具体表现。",
+      "忽略了依恋的进化功能和跨文化普遍出现的分离焦虑。",
+      "忽略了文化差异；分离焦虑的时间和依恋类型比例并非各文化一致。",
+      "表现形式的文化差异不能否定先天倾向；课上用跨文化都有分离焦虑来支持成熟基础。"
+    ],
+    "source": "教授期末练习题 · Developmental 第 14 题；对应 L6 · Bowlby：依恋的进化功能 · [B0029]；[B0031]；大致时间线 · [B0036]；[B0038]；[B0051]",
+    "origin": "review"
+  }
+]

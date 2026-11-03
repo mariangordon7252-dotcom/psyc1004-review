@@ -1,0 +1,2122 @@
+{
+  "id": 4,
+  "title": "跨文化心理学与集体行动",
+  "subtitle": "Cross-Cultural Psychology & Collective Action",
+  "summary": "先看心理规律能否跨文化适用，再分清国家平均与个人差异；用 SIMCA、道德关切和少数群体的一致性，理解人们怎样一起推动社会改变。",
+  "concepts": [
+    {
+      "id": "L4-C01",
+      "title": "文化与跨文化心理学",
+      "english": "Culture and cross-cultural psychology",
+      "oneLine": "一种文化中的发现，不一定适用于所有人。",
+      "analogy": "像测试软件：在一种系统运行正常，不代表所有系统都兼容。",
+      "simpleExample": "自拟例：只在一种文化验证的自尊量表，不能默认适用于全球。",
+      "explanation": "文化是群体共享、传递的价值、信念、规范和日常做法。跨文化心理学比较不同文化中的心理现象，看看哪些规律较普遍，哪些只适用于特定文化。一个结果在别处没有重复出现，仍可能准确描述原来的环境。",
+      "example": "自拟例：只在一种文化验证的自尊量表，不能默认适用于全球。",
+      "pitfall": "别处没有重复出同一结果，不等于原研究毫无价值。",
+      "source": "L4 · 定义与研究问题 · [B0021–B0029]",
+      "front": "跨文化心理学比较什么？为什么局部结果仍可能有价值？",
+      "back": "比较不同文化中的心理现象，检验规律是否普遍。只在某地成立的结果，也能帮助我们理解当地文化。",
+      "cardBack": "比较不同文化中的心理现象，检验规律是否普遍。只在某地成立的结果，也能帮助我们理解当地文化。"
+    },
+    {
+      "id": "L4-C02",
+      "title": "WEIRD 样本偏差",
+      "english": "WEIRD generalisability",
+      "oneLine": "样本过于集中在 WEIRD 群体，就很难代表全人类。",
+      "analogy": "只试驾一种路况，不能宣称车辆在所有道路表现相同。",
+      "simpleExample": "自拟例：用富裕大学生推论所有人如何判断公平，需要额外检验。",
+      "explanation": "WEIRD 指 Western、Educated、Industrialised、Rich、Democratic。过度依赖这类样本，不只会影响代表性，还会影响研究者问什么、把什么视为正常，以及量表如何定义心理特征。这些社会内部的少数群体也可能被忽略。",
+      "example": "自拟例：用富裕大学生推论所有人如何判断公平，需要额外检验。",
+      "pitfall": "WEIRD 样本不代表研究一定错了，也不代表同一国家人人相同。",
+      "source": "L4 · WEIRD generalisability problem · [B0030–B0037]",
+      "front": "WEIRD 五个词是什么？为什么影响的不只是代表性？",
+      "back": "Western、Educated、Industrialised、Rich、Democratic。影响的不只是找了谁来研究，也包括问题选择和心理特征的定义。",
+      "cardBack": "Western、Educated、Industrialised、Rich、Democratic。影响的不只是找了谁来研究，也包括问题选择和心理特征的定义。"
+    },
+    {
+      "id": "L4-C03",
+      "title": "共同能力与文化表达",
+      "english": "Universality and cultural expression",
+      "oneLine": "人们可能都有某种能力，但使用它的方式会因文化而不同。",
+      "analogy": "各种手机都能发消息，但默认格式和礼仪可能不同。",
+      "simpleExample": "自拟例：不同群体都能识别愤怒，却对何时向长辈表达愤怒有不同规范。",
+      "explanation": "基本情绪识别、互惠等倾向可能广泛存在，但强度、表达方式和适用情境不必相同。Leung/Bond 提出的社会信念包括社会愤世、社会复杂性、努力回报、灵性和命运控制。判断某规律是否普遍，要分清共同能力和具体表现。",
+      "example": "自拟例：不同群体都能识别愤怒，却对何时向长辈表达愤怒有不同规范。",
+      "pitfall": "一种能力普遍存在，不表示每个人都会表现得一样。",
+      "source": "L4 · Universality and diversity：共同能力，不同表达 · [B0038–B0043]",
+      "front": "普遍情绪识别与文化 display rules 能同时成立吗？",
+      "back": "可以同时成立。人们都能识别情绪，不表示表达情绪的时机、强度和规则也相同。",
+      "cardBack": "可以同时成立。人们都能识别情绪，不表示表达情绪的时机、强度和规则也相同。"
+    },
+    {
+      "id": "L4-C04",
+      "title": "荣誉文化与侮辱反应",
+      "english": "Culture of honour",
+      "oneLine": "同一句侮辱，在不同名誉规范下可能带来不同的威胁感。",
+      "analogy": "同一句话在闲聊与公开颁奖台上，身份含义可能不同。",
+      "simpleExample": "自拟例：公开质疑能力，在重视名誉的群体中可能被体验为必须回应的挑战。",
+      "explanation": "Cohen 等比较了北方与南方白人男大学生被侮辱后的睾酮反应，南方样本反应更明显。这符合“名誉规范会影响如何理解侮辱”的解释。但样本有限，睾酮变化不等于愤怒或攻击；复制结果和其他地区差异也要考虑。",
+      "example": "自拟例：公开质疑能力，在重视名誉的群体中可能被体验为必须回应的挑战。",
+      "pitfall": "群体平均差异不能证明每个南方人都更有攻击性。",
+      "source": "L4 · Cohen et al. (1996): hallway insult study · [B0046–B0053]",
+      "front": "荣誉文化研究支持什么？为何不能直接推断攻击？",
+      "back": "研究支持文化规范会影响人们如何理解侮辱。它不能直接证明攻击性差异，因为睾酮不是攻击行为的专门指标，样本也有限。",
+      "cardBack": "研究支持文化规范会影响人们如何理解侮辱。它不能直接证明攻击性差异，因为睾酮不是攻击行为的专门指标，样本也有限。"
+    },
+    {
+      "id": "L4-C05",
+      "title": "情绪表达与两种投射",
+      "english": "Emotion display and projection",
+      "oneLine": "文化会影响怎样表达情绪，也会影响怎样猜别人的情绪。",
+      "analogy": "读表情像读聊天消息：可用自己的情绪猜，也可用关系背景猜。",
+      "simpleExample": "自拟例：自己生气时觉得对方也生气是自我投射；猜对方会如何回应自己是关系投射。",
+      "explanation": "Display rules 规定何时、对谁、表达什么情绪。Cohen/Gunz 的模糊面孔研究中，西方样本较常用自己的情绪猜对方，东方样本较常想对方会如何回应自己。这只是幅度较小的平均差异，不能套在每个人身上。",
+      "example": "自拟例：自己生气时觉得对方也生气是自我投射；猜对方会如何回应自己是关系投射。",
+      "pitfall": "少表达情绪，不表示没有情绪，也不一定不健康。",
+      "source": "L4 · Cohen & Gunz (2002): ambiguous faces · [B0054–B0061]",
+      "front": "Egocentric 与 relational projection 各是什么？",
+      "back": "自我投射：用自己的情绪猜对方。关系投射：根据对方会怎样回应自己，推测对方的情绪。",
+      "cardBack": "自我投射：用自己的情绪猜对方。关系投射：根据对方会怎样回应自己，推测对方的情绪。"
+    },
+    {
+      "id": "L4-C06",
+      "title": "求助行为的文化与制度条件",
+      "english": "Mental-health norms and help seeking",
+      "oneLine": "不求助可能有多种障碍，不能只归因于文化。",
+      "analogy": "有需求却没求助，可能是门口有多种障碍，不是没有需求。",
+      "simpleExample": "自拟例：学生愿意谈焦虑，但担心家人评价且预约困难，因而迟迟未求助。",
+      "explanation": "污名、面子、家庭或宗教观念，以及服务是否容易获得，都会影响求助。国家比较能显示群体趋势，但同一文化中也有人愿意求助、有人回避。解释一个人的选择，不能只看国籍。",
+      "example": "自拟例：学生愿意谈焦虑，但担心家人评价且预约困难，因而迟迟未求助。",
+      "pitfall": "不公开谈心理困扰，不表示没有困扰。",
+      "source": "L4 · Mental-health norms and help seeking · [B0062–B0063]",
+      "front": "为何不能只用文化解释不求助？",
+      "back": "文化之外，还要看服务能否获得、家庭如何理解困扰，以及个人情况。",
+      "cardBack": "文化之外，还要看服务能否获得、家庭如何理解困扰，以及个人情况。"
+    },
+    {
+      "id": "L4-C07",
+      "title": "分析式与整体式推理",
+      "english": "Analytic versus holistic reasoning",
+      "oneLine": "分析式先看对象本身，整体式先看关系和背景。",
+      "analogy": "一边看单棵树，一边看整片森林与树的联系。",
+      "simpleExample": "自拟例：同学迟交时先看个人努力，或先查家庭压力、分工和制度障碍。",
+      "explanation": "分析式推理较关注独立对象、规则，以及解释是否自相矛盾。整体式推理较关注整体情况、关系、背景和相互作用的力量。两者都可能有用，主要区别是先注意什么，而不是谁永远更好。",
+      "example": "自拟例：同学迟交时先看个人努力，或先查家庭压力、分工和制度障碍。",
+      "pitfall": "整体式不是不讲逻辑，分析式也不是从不看背景。",
+      "source": "L4 · Analytic vs holistic reasoning · [B0064–B0067]",
+      "front": "两种推理的默认关注点有什么不同？",
+      "back": "分析式先看独立对象和规则；整体式先看关系、背景及整体情况。",
+      "cardBack": "分析式先看独立对象和规则；整体式先看关系、背景及整体情况。"
+    },
+    {
+      "id": "L4-C08",
+      "title": "自我建构与生态谬误",
+      "english": "Self-construal and ecological fallacy",
+      "oneLine": "国家平均分不能告诉你某个人一定怎样想、怎样做。",
+      "analogy": "平均鞋码无法保证某位同学穿哪一号。",
+      "simpleExample": "自拟例：来自强调集体义务的环境的学生，也可能在选专业时优先个人兴趣。",
+      "explanation": "独立自我较重视个人目标和权利，互依自我较重视关系、群体义务与和谐。个人主义与集体主义不是非此即彼，而是程度不同，也会随群体和情境变化。直接用国家平均值判断一个人，就是生态谬误。",
+      "example": "自拟例：来自强调集体义务的环境的学生，也可能在选专业时优先个人兴趣。",
+      "pitfall": "国籍不能用来诊断一个人的性格。",
+      "source": "L4 · Independent vs interdependent self-construal · [B0068–B0071]",
+      "front": "Ecological fallacy 在文化研究中是什么？",
+      "back": "把国家或群体的平均特征，直接当成某个成员的特征。",
+      "cardBack": "把国家或群体的平均特征，直接当成某个成员的特征。"
+    },
+    {
+      "id": "L4-C09",
+      "title": "政治意识形态与气候信念",
+      "english": "Ideology and climate attitudes across countries",
+      "oneLine": "政治立场和气候怀疑的关系，在不同国家并不相同。",
+      "analogy": "相同颜色标记在不同地图中未必有同一含义。",
+      "simpleExample": "自拟例：某地保守立场常与气候怀疑相连，不代表另一地也同方向。",
+      "explanation": "Hornsey 等比较了 25 国，发现政治立场与气候怀疑的关系有强有弱，方向也会改变。美国和澳洲关联较强，多国接近零。当地政治讨论、身份认同和信息环境可能影响这段关系；相关结果不能证明意识形态是唯一原因。",
+      "example": "自拟例：某地保守立场常与气候怀疑相连，不代表另一地也同方向。",
+      "pitfall": "某国的强关联，不是放之四海皆准的规律。",
+      "source": "L4 · Hornsey et al. (2018): 25-country comparison · [B0072–B0077]",
+      "front": "25 国研究对“保守必然更怀疑气候”有何启示？",
+      "back": "保守立场不一定在每个国家都对应更强气候怀疑。关系会随政治文化环境变化，相关也不等于单一因果。",
+      "cardBack": "保守立场不一定在每个国家都对应更强气候怀疑。关系会随政治文化环境变化，相关也不等于单一因果。"
+    },
+    {
+      "id": "L4-C10",
+      "title": "权力距离与个人主义",
+      "english": "Hofstede: power distance and individualism",
+      "oneLine": "PDI 看人们是否接受权力不平等；IDV 看个人与群体的关系。",
+      "analogy": "团队是否接受领导说了算，与成员更重视个人还是集体，是两个不同问题。",
+      "simpleExample": "自拟例：习惯由上级单方面决定，体现权力距离；强调个人权利，体现个人主义。",
+      "explanation": "权力距离高的文化较接受不平等权力和自上而下的决定，低的文化较强调协商和平等。个人主义较重视个人成就与自主，另一端较重视紧密群体中的忠诚与互依。这些维度描述国家层面的趋势，不是给个人贴标签。",
+      "example": "自拟例：习惯由上级单方面决定，体现权力距离；强调个人权利，体现个人主义。",
+      "pitfall": "权力距离低，不表示个人主义一定高；两者问的是不同问题。",
+      "source": "L4 · Hofstede's six cultural dimensions · [B0080–B0086]",
+      "front": "PDI 与 IDV 各测哪类文化倾向？",
+      "back": "PDI：多大程度接受权力不平等。IDV：更重视个人自主，还是群体忠诚与互依。",
+      "cardBack": "PDI：多大程度接受权力不平等。IDV：更重视个人自主，还是群体忠诚与互依。"
+    },
+    {
+      "id": "L4-C11",
+      "title": "竞争关怀与不确定性规避",
+      "english": "Hofstede: masculinity and uncertainty avoidance",
+      "oneLine": "MAS 看竞争与关怀的侧重；UAI 看对不确定情况的接受程度。",
+      "analogy": "团队更想赢比赛还是照顾成员，与团队需要多少明确规则，是两件事。",
+      "simpleExample": "自拟例：开放作业时强烈要求明确 rubric，符合高不确定性规避倾向。",
+      "explanation": "Masculinity 维度比较文化更重视竞争、野心和权力，还是关系、关怀和生活质量。不确定性规避高时，人们较倾向用规则、计划和谨慎减少模糊；低时较能接受变化与不确定。Masculinity 是历史名称，不是在测个人生理性别。",
+      "example": "自拟例：开放作业时强烈要求明确 rubric，符合高不确定性规避倾向。",
+      "pitfall": "MAS 不是男性比例，UAI 高也不表示绝不冒险。",
+      "source": "L4 · Hofstede's six cultural dimensions · [B0080–B0086]",
+      "front": "MAS 与 UAI 分别比较什么？",
+      "back": "MAS：竞争成就与关怀、生活质量之间的侧重。UAI：更需要规则来减少模糊，还是更能接受不确定。",
+      "cardBack": "MAS：竞争成就与关怀、生活质量之间的侧重。UAI：更需要规则来减少模糊，还是更能接受不确定。"
+    },
+    {
+      "id": "L4-C12",
+      "title": "长期导向与纵容约束",
+      "english": "Hofstede: long-term orientation and indulgence",
+      "oneLine": "LTO 看长远与眼前的侧重；IVR 看享受与约束的侧重。",
+      "analogy": "计划多年后的目标，与现在是否允许享乐，是两种不同取向。",
+      "simpleExample": "自拟例：愿为多年目标持续努力体现长期导向；限制休闲享乐体现 restraint。",
+      "explanation": "长期导向较重视未来、务实和坚持，另一端较重视传统、当前义务和短期。纵容较允许享受和满足欲望，约束较依靠社会规范与禁忌限制欲望。六维分数来自特定资料和框架，不表示文化永远不变。",
+      "example": "自拟例：愿为多年目标持续努力体现长期导向；限制休闲享乐体现 restraint。",
+      "pitfall": "LTO 不是个人年龄，IVR 也不是智商。",
+      "source": "L4 · Hofstede's six cultural dimensions · [B0080–B0086]",
+      "front": "LTO 与 IVR 分别关注什么？",
+      "back": "LTO：未来、务实、坚持与短期、传统之间的侧重。IVR：允许享受满足，还是用社会规范约束欲望。",
+      "cardBack": "LTO：未来、务实、坚持与短期、传统之间的侧重。IVR：允许享受满足，还是用社会规范约束欲望。"
+    },
+    {
+      "id": "L4-C13",
+      "title": "测量等价与去殖民化",
+      "english": "Measurement equivalence and decolonisation",
+      "oneLine": "翻译正确，不表示两地测到了同一件事；多找样本也不等于完成去殖民化。",
+      "analogy": "尺子刻度翻译了，仍要确认每地量的是同一物品。",
+      "simpleExample": "自拟例：“我很突出”在一地指自信，在另一地指不合群，可能不测相同自尊。",
+      "explanation": "跨文化比较要检查抽样、翻译，以及同一量表在不同文化中是否测相同特征，也要反思研究者的立场。去殖民化还问：谁决定研究问题，谁拥有知识，是否尊重当地人的生活现实和知识方式。Hofstede 的 IBM 样本及“同一国家较一致”的假设，也限制结果的推广。",
+      "example": "自拟例：“我很突出”在一地指自信，在另一地指不合群，可能不测相同自尊。",
+      "pitfall": "增加非西方样本，不能自动解决问题定义、测量和权力关系中的偏差。",
+      "source": "L4 · 为什么重要，又为什么困难？ · [B0086–B0095]",
+      "front": "Measurement equivalence 为什么不只是翻译准确？",
+      "back": "同一句话在不同文化中可能有不同含义，测到的心理特征也可能不同。因此，不能只检查字词翻译，还要检验结果能否比较。",
+      "cardBack": "同一句话在不同文化中可能有不同含义，测到的心理特征也可能不同。因此，不能只检查字词翻译，还要检验结果能否比较。"
+    },
+    {
+      "id": "L4-C14",
+      "title": "跨国调查与文化变化",
+      "english": "World Values Survey and European Values Study",
+      "oneLine": "多次调查能看见价值观变化，不能把一次结果当成永久国民性。",
+      "analogy": "连续拍照片才能看见变化，而非把一张照片当永久肖像。",
+      "simpleExample": "自拟例：追踪不同调查波次对性别平等的态度，可能看见代际与时代变化。",
+      "explanation": "WVS 与 EVS 自 1981 起调查社会、政治和道德等价值观。比较不同波次，可以观察世代差异和随时间出现的变化。文化不是固定不变的，但仍要检查各次调查的抽样和测量能否比较。",
+      "example": "自拟例：追踪不同调查波次对性别平等的态度，可能看见代际与时代变化。",
+      "pitfall": "多次调查不一定追踪同一批人，也不能自动证明变化原因。",
+      "source": "L4 · Large cross-national surveys · [B0087–B0091]",
+      "front": "Repeated waves 有何用途？",
+      "back": "比较不同波次的价值观，观察世代与时间变化，说明文化不是固定的国家本质。",
+      "cardBack": "比较不同波次的价值观，观察世代与时间变化，说明文化不是固定的国家本质。"
+    },
+    {
+      "id": "L4-C15",
+      "title": "集体行动与结构性改变",
+      "english": "Collective action and structural change",
+      "oneLine": "集体行动让人们一起争取社会改变，不只改变个人态度。",
+      "analogy": "修补一块砖与调整整栋楼的设计，是不同尺度的改变。",
+      "simpleExample": "自拟例：学生共同联署改善无障碍通道，针对制度可及性而非只劝人友善。",
+      "explanation": "抗议、抵制、罢工和社会运动都是集体行动。结构性不平等可能需要改变制度和资源分配，单靠减少个人偏见未必够。1967 澳洲公投改变了歧视性宪法条文，但不是首次授予公民身份或选举权，也没有立刻实现物质平等。",
+      "example": "自拟例：学生共同联署改善无障碍通道，针对制度可及性而非只劝人友善。",
+      "pitfall": "法律或象征上的改变，不会自动带来资源和生活条件的平等。",
+      "source": "L4 · 历史案例：symbolic change 与 material change · [B0097–B0102]",
+      "front": "集体行动是什么？法律象征变化为何不等于物质平等？",
+      "back": "人们为共同社会或政治目标一起行动。法律改变后，执行、资源分配和制度结果仍可能需要进一步改善。",
+      "cardBack": "人们为共同社会或政治目标一起行动。法律改变后，执行、资源分配和制度结果仍可能需要进一步改善。"
+    },
+    {
+      "id": "L4-C16",
+      "title": "不公、效能、身份与情绪",
+      "english": "Collective-action drivers",
+      "oneLine": "感到不公平是行动理由；相信大家能改变，是行动信心。",
+      "analogy": "看到漏水是行动理由，相信大家能修好是动手条件。",
+      "simpleExample": "自拟例：住户比较后觉得涨租不公平；曾成功联署，又让他们相信大家一起投诉有用。",
+      "explanation": "不公感、集体效能、社会认同、群体规范和情绪都可能推动行动。相对剥夺是比较后感到自己或群体受到不公平对待；集体效能是相信大家一起能带来改变。愤怒、骄傲和悲伤可能推动或维持团结，但不会保证每个人参与。",
+      "example": "自拟例：住户比较后觉得涨租不公平；曾成功联署，又让他们相信大家一起投诉有用。",
+      "pitfall": "“我很自信”不等于“我们一起能改变”。",
+      "source": "L4 · 五类驱动力 · [B0104–B0107]",
+      "front": "Perceived injustice 与 collective efficacy 分别回答什么？",
+      "back": "不公感问：这是否不公平？集体效能问：我们一起行动能否改变它？",
+      "cardBack": "不公感问：这是否不公平？集体效能问：我们一起行动能否改变它？"
+    },
+    {
+      "id": "L4-C17",
+      "title": "规范性与非规范性行动",
+      "english": "Normative and non-normative action",
+      "oneLine": "不按主流规则行动，未必是在使用暴力。",
+      "analogy": "走常规入口与打破通常通行方式有别，但后者未必伤人。",
+      "simpleExample": "自拟例：合法联署较规范；违反主流程序的和平静坐可非规范且非暴力。",
+      "explanation": "规范性行动在当时的法律或社会规范内施压。非规范性行动会更明显地扰动或挑战原有秩序，例如占领、封锁和公民不服从。是否被接受，要看参照的群体和历史环境；非规范性不等于暴力。",
+      "example": "自拟例：合法联署较规范；违反主流程序的和平静坐可非规范且非暴力。",
+      "pitfall": "同一种策略可能不符合主流规范，却符合运动内部的规范。",
+      "source": "L4 · Normative vs non-normative action · [B0108–B0111]",
+      "front": "为什么 non-normative 不等于 violent？",
+      "back": "非规范性说的是偏离某套规则，不是有没有伤人。和平静坐和公民不服从也可能不符合主流规则。",
+      "cardBack": "非规范性说的是偏离某套规则，不是有没有伤人。和平静坐和公民不服从也可能不符合主流规则。"
+    },
+    {
+      "id": "L4-C18",
+      "title": "SIMCA 的身份组织中心",
+      "english": "Social Identity Model of Collective Action",
+      "oneLine": "SIMCA 用身份、不公感和集体效能，解释人们为何参与行动。",
+      "analogy": "觉得“我们是一群人”时，更容易把问题看成“我们受到了不公平”“我们可以一起改变”。",
+      "simpleExample": "自拟例：学生认同校园公平共同体，便把无障碍政策视为大家共同的问题，也更有联合行动的信心。",
+      "explanation": "在 SIMCA 中，社会认同既直接预测行动，也与群体不公感、集体效能有关。觉得自己属于“我们”，会影响怎样看待群体的不公平处境，以及是否相信大家能改变它。不公感和效能也各自与行动相关。综合路径系数显示平均关联，不表示每项研究都是实验。",
+      "example": "自拟例：学生认同校园公平共同体，便把无障碍政策视为大家共同的问题，也更有联合行动的信心。",
+      "pitfall": "社会认同不是无关背景；模型中的箭头也不能直接证明唯一因果。",
+      "source": "L4 · SIMCA：Social Identity Model of Collective Action · [B0112–B0122]",
+      "front": "SIMCA 中，社会认同与哪三项有关？",
+      "back": "社会认同直接与行动有关，也分别与群体不公感、集体效能有关。",
+      "cardBack": "社会认同直接与行动有关，也分别与群体不公感、集体效能有关。"
+    },
+    {
+      "id": "L4-C19",
+      "title": "道德地位与主动纳入",
+      "english": "Moral standing versus moral inclusion",
+      "oneLine": "觉得某对象值得关心，与真正把它纳入保护和行动，并不一样。",
+      "analogy": "认可有人需要伞与真正把他纳入借伞安排不相同。",
+      "simpleExample": "自拟例：承认流浪动物会受苦是 standing；支持救助和保护政策是 active inclusion。",
+      "explanation": "道德地位是承认某对象值得道德考虑；主动道德纳入则进一步把它纳入公平对待、保护和实际行动。社会运动可能扩大这个道德圈，但圈内对象不是一份固定的道德等级表。",
+      "example": "自拟例：承认流浪动物会受苦是 standing；支持救助和保护政策是 active inclusion。",
+      "pitfall": "口头说值得关心，不表示已经采取保护行动。",
+      "source": "L4 · Moral standing vs active moral inclusion · [B0123–B0129]",
+      "front": "Standing 和 active inclusion 的关键差异是什么？",
+      "back": "Standing 是承认值得关心；active inclusion 是进一步纳入公平保护与实际行动。",
+      "cardBack": "Standing 是承认值得关心；active inclusion 是进一步纳入公平保护与实际行动。"
+    },
+    {
+      "id": "L4-C20",
+      "title": "道德扩张测量与条件",
+      "english": "Moral Expansiveness Scale (MES)",
+      "oneLine": "MES 看你把哪些对象纳入关心范围，以及关心到什么程度。",
+      "analogy": "像保护名单的圈层：范围可以扩大或收窄，不能当永久排行榜。",
+      "simpleExample": "自拟例：按“谁应被纳入”来想时，人可能把陌生动物也放进关心范围；按“谁应被排除”来想时，范围可能较窄。",
+      "explanation": "MES 让参与者把不同对象放入高、中、低道德关切的圈层，或放在边界外。平均结果中，亲友常更靠近中心，但这不是规定大家应该怎样排序。对象是否有心智、会不会痛，以及思考方式、竞争、资源和信任，都可能影响边界。",
+      "example": "自拟例：按“谁应被纳入”来想时，人可能把陌生动物也放进关心范围；按“谁应被排除”来想时，范围可能较窄。",
+      "pitfall": "一次量表分数不能判定固定人格，也不能给国家道德排高低。",
+      "source": "L4 · Moral Expansiveness Scale (MES) · [B0131–B0136]",
+      "front": "MES 测量如何进行？哪些因素可改变边界？",
+      "back": "把对象放入不同程度的道德关切圈层。对象特征、思考方式、情境和个人差异，都可能改变范围。",
+      "cardBack": "把对象放入不同程度的道德关切圈层。对象特征、思考方式、情境和个人差异，都可能改变范围。"
+    },
+    {
+      "id": "L4-C21",
+      "title": "同理心与慈悲关怀",
+      "english": "Empathy versus compassion",
+      "oneLine": "Compassion 不只感受痛苦，还包括想减轻痛苦。",
+      "analogy": "跟着难受像接收到警报，关怀还想去提供援助。",
+      "simpleExample": "自拟例：感受同学焦虑是 empathy；帮助他寻找支持资源体现 compassion 动机。",
+      "explanation": "Empathy 是理解或感受别人的情绪。Compassion 还包括察觉对方的痛苦，并希望帮助减轻它。这种帮助动机与更广的道德关切有关。两者可以同时出现，但不是同一个意思。",
+      "example": "自拟例：感受同学焦虑是 empathy；帮助他寻找支持资源体现 compassion 动机。",
+      "pitfall": "感受到别人的情绪，不保证一定会帮助他。",
+      "source": "L4 · 什么会扩大或收窄 moral boundaries？ · [B0135–B0139]",
+      "front": "Compassion 比 empathy 多出什么核心成分？",
+      "back": "多了减轻痛苦的动机：不只知道对方难受，还希望帮他缓解。",
+      "cardBack": "多了减轻痛苦的动机：不只知道对方难受，还希望帮他缓解。"
+    },
+    {
+      "id": "L4-C22",
+      "title": "信任、稀缺与道德边界",
+      "english": "Trust, inequality and moral boundaries",
+      "oneLine": "低信任和害怕被利用，可能让人减少对他人的关心。",
+      "analogy": "不信任别人时，关心范围可能收紧；但不能仅凭这个范围，判断造成它的所有原因。",
+      "simpleExample": "自拟例：担心帮助陌生人会被利用，可能减少把陌生人纳入关怀。",
+      "explanation": "Fears of compassion 指担心关怀别人会让自己被利用。讲者讨论了不平等、较低信任和较窄道德边界之间的社会关联及可能机制。但跨国平均值和不完整排名，不能说明每个人都会沿同一因果链变化，也不能定义固定国民性。",
+      "example": "自拟例：担心帮助陌生人会被利用，可能减少把陌生人纳入关怀。",
+      "pitfall": "国家 MES 排名不能代表道德优劣，更不能判断某个公民的性格。",
+      "source": "L4 · 什么会扩大或收窄 moral boundaries？ · [B0135–B0141]",
+      "front": "为什么不能把“不平等→低信任→较窄道德边界”当成个人必然经历？",
+      "back": "这是社会层面的关联或可能机制，不是每个人都会经历的必然因果链。",
+      "cardBack": "这是社会层面的关联或可能机制，不是每个人都会经历的必然因果链。"
+    },
+    {
+      "id": "L4-C23",
+      "title": "少数影响的两种一致性",
+      "english": "Minority influence: diachronic and synchronic consistency",
+      "oneLine": "少数人长期坚持核心立场、成员彼此一致，也可能影响多数。",
+      "analogy": "同一支小乐队长期保持主题且成员合拍，比不停换曲更容易被听见。",
+      "simpleExample": "自拟例：少数学生连续学期要求无障碍入口，成员共同坚持核心目标。",
+      "explanation": "Diachronic 是跨时间保持立场，synchronic 是少数成员之间保持核心立场一致。这种一致性可能打断多数的惯常想法、吸引注意并显示承诺，让人认真考虑另一种观点。坚持核心目标不等于拒绝讨论，也不要求所有细节永远不改。",
+      "example": "自拟例：少数学生连续学期要求无障碍入口，成员共同坚持核心目标。",
+      "pitfall": "一致性不是人数占多数；坚持也不等于越僵硬越有效。",
+      "source": "L4 · Minority influence：少数如何推动规范改变 · [B0142–B0156]",
+      "front": "Diachronic 与 synchronic 分别指什么？",
+      "back": "Diachronic：不同时期保持核心立场。Synchronic：少数成员之间保持核心立场一致。",
+      "cardBack": "Diachronic：不同时期保持核心立场。Synchronic：少数成员之间保持核心立场一致。"
+    },
+    {
+      "id": "L4-C24",
+      "title": "集体行动失败与策略变化",
+      "english": "Failure and strategy shifts",
+      "oneLine": "行动失败后，人们可能退出、换策略或重组，不一定转向暴力。",
+      "analogy": "一次修路失败可能让人休息、重组或换路线，不只有撞破障碍一种结果。",
+      "simpleExample": "自拟例：多次申诉无效后，一些学生退出，另一些和平静坐，还有人重组联署。",
+      "explanation": "失败可能让现状延续，使人耗竭，削弱集体效能和对制度的信任。部分成员可能转向非规范性策略，另一些人可能休整、重组，或在更长时间后成功。这些是不同可能结果，不能写成“失败必然导致暴力”。",
+      "example": "自拟例：多次申诉无效后，一些学生退出，另一些和平静坐，还有人重组联署。",
+      "pitfall": "非规范性策略不等于暴力，一次失败也不表示运动永久无效。",
+      "source": "L4 · When collective action fails - or just takes time · [B0157–B0162]",
+      "front": "列出失败的可能影响，并给出关键边界。",
+      "back": "可能耗竭、现状延续、信任下降或调整策略；也可能休整重组，不一定转向暴力。",
+      "cardBack": "可能耗竭、现状延续、信任下降或调整策略；也可能休整重组，不一定转向暴力。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "L4-Q01",
+      "conceptId": "L4-C01",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "跨文化心理学的主要任务是什么？",
+      "stemEn": "What is a central task of cross-cultural psychology?",
+      "options": [
+        "把一个国家的结果直接定义为人性",
+        "只研究翻译而不研究行为",
+        "证明所有文化都完全不同",
+        "系统比较文化条件下的心理变量"
+      ],
+      "optionsEn": [
+        "Defining one country’s findings as human nature",
+        "Studying only translation, not behaviour",
+        "Proving that all cultures are entirely different",
+        "Systematically comparing psychological variables across cultural conditions"
+      ],
+      "answer": 3,
+      "explanation": "比较不同文化，才能判断一个发现是否普遍，还是只在特定环境中成立。",
+      "optionExplanations": [
+        "一个国家的结果不能未经检验就代表所有人。",
+        "翻译是研究方法的一部分，研究也比较心理与行为。",
+        "文化可以既有共同倾向，也有不同表现。",
+        "比较不同文化，才能判断一个发现是否普遍，还是只在特定环境中成立。"
+      ],
+      "source": "L4 · 定义与研究问题 · [B0021–B0029]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q02",
+      "conceptId": "L4-C02",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "WEIRD 中 E 与 D 分别是什么？",
+      "stemEn": "What do E and D stand for in WEIRD?",
+      "options": [
+        "Equal 与 Developed",
+        "Experimental 与 Diverse",
+        "Educated 与 Democratic",
+        "Emotional 与 Dependent"
+      ],
+      "optionsEn": [
+        "Equal and Developed",
+        "Experimental and Diverse",
+        "Educated and Democratic",
+        "Emotional and Dependent"
+      ],
+      "answer": 2,
+      "explanation": "E 是 Educated，D 是 Democratic；完整缩写为 Western、Educated、Industrialised、Rich、Democratic。",
+      "optionExplanations": [
+        "Equal 和 Developed 不是这里的 E 与 D。",
+        "Experimental 和 Diverse 不是这里的 E 与 D。",
+        "E 是 Educated，D 是 Democratic；完整缩写为 Western、Educated、Industrialised、Rich、Democratic。",
+        "Emotional 和 Dependent 不属于这个缩写。"
+      ],
+      "source": "L4 · WEIRD generalisability problem · [B0030–B0037]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q03",
+      "conceptId": "L4-C03",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "基本情绪识别可较普遍，如何仍存在文化差异？",
+      "stemEn": "If basic emotion recognition is relatively widespread, how can cultural differences still exist?",
+      "options": [
+        "共同倾向意味着每个人完全一致",
+        "表达规则、触发条件和重要性仍可不同",
+        "普遍识别必然要求所有人同样表达",
+        "任何表达差异都证明识别研究无价值"
+      ],
+      "optionsEn": [
+        "A shared tendency means every individual is identical",
+        "Display rules, triggers and importance may still differ",
+        "Widespread recognition requires identical expression by everyone",
+        "Any expression difference makes recognition research worthless"
+      ],
+      "answer": 1,
+      "explanation": "识别情绪与表达情绪是两回事。人们都能认出某种情绪，仍可能遵循不同的表达规则。",
+      "optionExplanations": [
+        "群体有共同倾向，不表示每个人完全一样。",
+        "识别情绪与表达情绪是两回事。人们都能认出某种情绪，仍可能遵循不同的表达规则。",
+        "能认出某种情绪，不表示必须用同一种方式表达它。",
+        "表达差异可能就是文化影响，并不会让识别研究失去价值。"
+      ],
+      "source": "L4 · Universality and diversity：共同能力，不同表达 · [B0038–B0043]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q04",
+      "conceptId": "L4-C04",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Cohen 等走廊侮辱研究为何不能直接证明南方人更具攻击性？",
+      "stemEn": "Why does the hallway-insult study not directly prove that Southerners are more aggressive?",
+      "options": [
+        "样本限于白人男大学生，睾酮也不是攻击的纯指标",
+        "完全没有文化规范可参与反应",
+        "研究观察了每个地区所有居民",
+        "所有复制都完美稳定"
+      ],
+      "optionsEn": [
+        "The sample was White male students, and testosterone is not a pure aggression measure",
+        "Cultural norms cannot influence any response",
+        "The study observed every resident of each region",
+        "Every replication was perfectly stable"
+      ],
+      "answer": 0,
+      "explanation": "研究只比较了白人男大学生，而且睾酮变化不等于攻击行为。再考虑复制结果，就更不能把发现套到所有南方人身上。",
+      "optionExplanations": [
+        "研究只比较了白人男大学生，而且睾酮变化不等于攻击行为。再考虑复制结果，就更不能把发现套到所有南方人身上。",
+        "研究恰恰在讨论文化规范如何影响人们理解侮辱。",
+        "参与者只是特定样本，并非两个地区的所有居民。",
+        "复制结果并不是始终一致，不能说已完全稳定。"
+      ],
+      "source": "L4 · Cohen et al. (1996): hallway insult study · [B0048–B0052]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q05",
+      "conceptId": "L4-C05",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "判断模糊面孔时，猜“对方会怎样回应我”，更符合什么？",
+      "stemEn": "When judging an ambiguous face, a person asks, “How would they respond to me?” Which form of projection best fits?",
+      "options": [
+        "自我情绪直接投射",
+        "认知失调减压",
+        "长远导向",
+        "关系投射"
+      ],
+      "optionsEn": [
+        "Direct projection of one’s own emotion",
+        "Dissonance reduction",
+        "Long-term orientation",
+        "Relational projection"
+      ],
+      "answer": 3,
+      "explanation": "关键是想“对方会怎样回应我”，这是用双方关系来猜情绪，而不是把自己的情绪直接放到对方身上。",
+      "optionExplanations": [
+        "自我投射会用自己当前的情绪猜对方；题中问的是对方的关系回应。",
+        "认知失调涉及自身想法或行为的矛盾，题中没有这些信息。",
+        "长远导向看未来与眼前的侧重，不是在猜别人的情绪。",
+        "关键是想“对方会怎样回应我”，这是用双方关系来猜情绪，而不是把自己的情绪直接放到对方身上。"
+      ],
+      "source": "L4 · Cohen & Gunz (2002): ambiguous faces · [B0057–B0061]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q06",
+      "conceptId": "L4-C06",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "学生没有向专业服务求助，哪项解释最应谨慎检查？",
+      "stemEn": "A student has not sought professional support. Which explanation calls for the broadest careful assessment?",
+      "options": [
+        "必定没有心理困扰",
+        "只要翻译信息就消除全部障碍",
+        "污名、家庭意义、服务可及性与个人差异都可能参与",
+        "只由国籍决定"
+      ],
+      "optionsEn": [
+        "The student must have no distress",
+        "Translation alone eliminates every barrier",
+        "Stigma, family meanings, service access and individual differences may all matter",
+        "Nationality alone determines the decision"
+      ],
+      "answer": 2,
+      "explanation": "没求助不表示没困扰。担心被评价、家庭观念、服务难获得和个人情况，都可能让人迟迟不求助。",
+      "optionExplanations": [
+        "没有求助，仍可能有心理困扰和需求。",
+        "翻译信息不能解决污名、预约困难或服务不足。",
+        "没求助不表示没困扰。担心被评价、家庭观念、服务难获得和个人情况，都可能让人迟迟不求助。",
+        "国籍只能提供群体背景，不能决定一个人的求助行为。"
+      ],
+      "source": "L4 · Mental-health norms and help seeking · [B0062–B0063]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q07",
+      "conceptId": "L4-C07",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "同学迟交时先查家庭压力、分工和制度障碍，最符合哪种默认推理？",
+      "stemEn": "When a classmate submits work late, someone first examines family pressure, team coordination and institutional barriers. Which default reasoning style best fits?",
+      "options": [
+        "强制助推",
+        "整体式推理",
+        "只聚焦独立人格的分析式推理",
+        "不足外部理由"
+      ],
+      "optionsEn": [
+        "A coercive nudge",
+        "Holistic reasoning",
+        "Analytic reasoning focused only on individual traits",
+        "Insufficient external justification"
+      ],
+      "answer": 1,
+      "explanation": "先看家庭、分工和制度，就是优先从背景与关系理解行为，符合整体式推理；这不表示完全忽略个人。",
+      "optionExplanations": [
+        "题中没有改变选择环境或强制行为。",
+        "先看家庭、分工和制度，就是优先从背景与关系理解行为，符合整体式推理；这不表示完全忽略个人。",
+        "题中先看的是背景，而不是个人本身的特征。",
+        "没有反态度行为或外部理由不足，不能用认知失调解释。"
+      ],
+      "source": "L4 · Analytic vs holistic reasoning · [B0064–B0067]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q08",
+      "conceptId": "L4-C08",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "从某国集体主义平均分推断某位学生必定牺牲个人目标，属于什么？",
+      "stemEn": "Inferring from a country’s average collectivism score that one student must sacrifice personal goals is an example of what?",
+      "options": [
+        "生态谬误",
+        "测量等价已被证明",
+        "随机实验因果推断",
+        "文化差异完全不存在"
+      ],
+      "optionsEn": [
+        "Ecological fallacy",
+        "Established measurement equivalence",
+        "Causal inference from random assignment",
+        "Absence of all cultural differences"
+      ],
+      "answer": 0,
+      "explanation": "国家平均值描述群体趋势，不能保证某个成员也有同样倾向。直接这样推断，就是生态谬误。",
+      "optionExplanations": [
+        "国家平均值描述群体趋势，不能保证某个成员也有同样倾向。直接这样推断，就是生态谬误。",
+        "一个国家的均分，不能证明量表在不同文化测到相同内容。",
+        "比较国家均值，不等于把个人随机分组做实验。",
+        "不能套用到个人，不代表文化群体之间完全没有差异。"
+      ],
+      "source": "L4 · Independent vs interdependent self-construal · [B0068–B0071]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q09",
+      "conceptId": "L4-C09",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Hornsey 等 25 国比较最支持什么？",
+      "stemEn": "What is most strongly supported by the 25-country comparison of ideology and climate attitudes?",
+      "options": [
+        "保守立场在所有国家必然同等怀疑气候",
+        "意识形态已被证明是唯一原因",
+        "国家政治标签含义必定完全相同",
+        "关联强弱与方向取决于政治文化情境"
+      ],
+      "optionsEn": [
+        "Conservatism necessarily predicts equal climate scepticism in every country",
+        "Ideology has been established as the sole cause",
+        "Political labels must mean exactly the same thing everywhere",
+        "The strength and direction of association depend on political and cultural context"
+      ],
+      "answer": 3,
+      "explanation": "25 国的关系并不一致，多国接近零，部分方向不同。因此，不能把某国的强关联当成普遍规律。",
+      "optionExplanations": [
+        "研究发现关系并非各国相同，很多国家接近零。",
+        "跨国相关不能证明意识形态是唯一原因。",
+        "相同政治标签在各国可能有不同含义，仍需检查可比性。",
+        "25 国的关系并不一致，多国接近零，部分方向不同。因此，不能把某国的强关联当成普遍规律。"
+      ],
+      "source": "L4 · Hornsey et al. (2018): 25-country comparison · [B0073–B0077]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q10",
+      "conceptId": "L4-C10",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "一个组织习惯不质疑上级、接受不平等权力，最直接对应哪一维？",
+      "stemEn": "An organisation accepts unequal authority and rarely questions superiors. Which dimension is most directly illustrated?",
+      "options": [
+        "高纵容",
+        "低长期导向",
+        "高权力距离",
+        "低不确定性规避"
+      ],
+      "optionsEn": [
+        "High indulgence",
+        "Low long-term orientation",
+        "High power distance",
+        "Low uncertainty avoidance"
+      ],
+      "answer": 2,
+      "explanation": "关键是接受上级拥有更多权力，并习惯自上而下的决定。权力距离正是描述这种接受程度。",
+      "optionExplanations": [
+        "纵容看是否允许享受与满足欲望，不看对上级权力的态度。",
+        "长期导向看未来与当前传统的侧重，不看权力等级。",
+        "关键是接受上级拥有更多权力，并习惯自上而下的决定。权力距离正是描述这种接受程度。",
+        "不确定性规避看模糊与规则需求，不能直接代替权力距离。"
+      ],
+      "source": "L4 · Hofstede's six cultural dimensions · [B0080–B0086]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q11",
+      "conceptId": "L4-C10",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "Hofstede 的 individualism 一端最突出什么？",
+      "stemEn": "What is most emphasised at the individualist end of Hofstede’s dimension?",
+      "options": [
+        "休闲欲望的社会约束",
+        "自主自我、个人成就与权利",
+        "权力不平等的接受程度",
+        "对模糊任务的规则需求"
+      ],
+      "optionsEn": [
+        "Social constraints on leisure desires",
+        "Autonomous self, personal achievement and rights",
+        "Acceptance of unequal power",
+        "Demand for rules in ambiguous tasks"
+      ],
+      "answer": 1,
+      "explanation": "个人主义较重视个人自主、成就和权利；另一端则较重视紧密群体中的忠诚与互依。",
+      "optionExplanations": [
+        "限制享乐欲望属于纵容与约束维度。",
+        "个人主义较重视个人自主、成就和权利；另一端则较重视紧密群体中的忠诚与互依。",
+        "接受权力不平等属于权力距离。",
+        "面对模糊任务需要规则属于不确定性规避。"
+      ],
+      "source": "L4 · Hofstede's six cultural dimensions · [B0080–B0086]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q12",
+      "conceptId": "L4-C11",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "面对完全开放的作业强烈要求 rubric 和明确边界，最直接对应什么？",
+      "stemEn": "A learner strongly demands a rubric and clear boundaries for a completely open-ended assignment. Which tendency best fits?",
+      "options": [
+        "高不确定性规避",
+        "高个人主义必定成立",
+        "低权力距离必定成立",
+        "高纵容必定成立"
+      ],
+      "optionsEn": [
+        "High uncertainty avoidance",
+        "Necessarily high individualism",
+        "Necessarily low power distance",
+        "Necessarily high indulgence"
+      ],
+      "answer": 0,
+      "explanation": "学生想用明确规则减少开放任务的不确定，符合高不确定性规避。不能据此推出其他文化维度。",
+      "optionExplanations": [
+        "学生想用明确规则减少开放任务的不确定，符合高不确定性规避。不能据此推出其他文化维度。",
+        "重视个人自主，不一定就需要更明确的规则。",
+        "对权力的态度和对模糊的容忍是两件事。",
+        "允许享乐与否，不能解释这里的任务规则需求。"
+      ],
+      "source": "L4 · Hofstede's six cultural dimensions · [B0080–B0086]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q13",
+      "conceptId": "L4-C11",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "Hofstede 的 masculinity 维度最准确是什么？",
+      "stemEn": "What is the most accurate interpretation of Hofstede’s masculinity dimension?",
+      "options": [
+        "一个国家男性的百分比",
+        "每个人的生理性别",
+        "所有男性都比女性更竞争",
+        "竞争、成就相对关系、关怀和生活质量的文化权重"
+      ],
+      "optionsEn": [
+        "The percentage of men in a country",
+        "Each person’s biological sex",
+        "A claim that all men are more competitive than women",
+        "The cultural emphasis on competition and achievement relative to relationships, care and quality of life"
+      ],
+      "answer": 3,
+      "explanation": "这个历史名称描述文化更重视竞争成就，还是关系关怀与生活质量，不是在统计男性人数或测生理性别。",
+      "optionExplanations": [
+        "该维度不是男性人口比例。",
+        "该维度描述文化价值，不是个人生理性别。",
+        "文化维度不能证明每个男性都比女性更竞争。",
+        "这个历史名称描述文化更重视竞争成就，还是关系关怀与生活质量，不是在统计男性人数或测生理性别。"
+      ],
+      "source": "L4 · Hofstede's six cultural dimensions · [B0080–B0086]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q14",
+      "conceptId": "L4-C12",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "为多年目标坚持、重视未来务实安排，最符合哪一维的一端？",
+      "stemEn": "Persistence toward goals over many years and pragmatic future planning best fit which dimension?",
+      "options": [
+        "权力距离",
+        "命运控制",
+        "长期导向",
+        "纵容"
+      ],
+      "optionsEn": [
+        "Power distance",
+        "Fate control",
+        "Long-term orientation",
+        "Indulgence"
+      ],
+      "answer": 2,
+      "explanation": "题中突出未来、务实安排和长期坚持，这些是长期导向一端的重点。",
+      "optionExplanations": [
+        "权力距离看是否接受权力不平等，不看时间取向。",
+        "命运控制强调外部命运的作用，不等于主动长期规划。",
+        "题中突出未来、务实安排和长期坚持，这些是长期导向一端的重点。",
+        "纵容看是否允许享受和满足欲望，不看目标有多长远。"
+      ],
+      "source": "L4 · Hofstede's six cultural dimensions · [B0080–B0086]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q15",
+      "conceptId": "L4-C12",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "Indulgence 与 restraint 最主要区分什么？",
+      "stemEn": "What primarily distinguishes indulgence from restraint?",
+      "options": [
+        "是否只考虑未来",
+        "允许享受满足还是以社会规范约束欲望",
+        "是否所有人都聪明",
+        "是否所有人都服从领导"
+      ],
+      "optionsEn": [
+        "Whether only the future matters",
+        "Allowing enjoyment and gratification versus constraining desires through social norms",
+        "Whether everyone is intelligent",
+        "Whether everyone obeys leaders"
+      ],
+      "answer": 1,
+      "explanation": "纵容较允许享受和满足欲望；约束较依靠社会规范与禁忌限制欲望。它不是时间、智力或权力指标。",
+      "optionExplanations": [
+        "未来与当前的侧重属于长期导向。",
+        "纵容较允许享受和满足欲望；约束较依靠社会规范与禁忌限制欲望。它不是时间、智力或权力指标。",
+        "这个维度不测智力。",
+        "接受领导权力更接近权力距离。"
+      ],
+      "source": "L4 · Hofstede's six cultural dimensions · [B0080–B0086]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q16",
+      "conceptId": "L4-C13",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "同一句“我很突出”在一地表示自信，在另一地表示不合群，主要提示什么？",
+      "stemEn": "The same statement, “I stand out,” means confidence in one culture and poor fit in another. What does this primarily indicate?",
+      "options": [
+        "需检验测量等价，正确翻译仍可能测不同构念",
+        "只要逐字翻译就保证可比",
+        "一个文化的所有人低自尊",
+        "跨文化比较毫无价值"
+      ],
+      "optionsEn": [
+        "Measurement equivalence must be tested; correct translation may still measure different constructs",
+        "Literal translation guarantees comparability",
+        "Everyone in one culture has low self-esteem",
+        "Cross-cultural comparison has no value"
+      ],
+      "answer": 0,
+      "explanation": "字词相同，心理含义仍可能不同。如果两地对“突出”的理解不一样，就要检查量表是否仍在测同一种自尊。",
+      "optionExplanations": [
+        "字词相同，心理含义仍可能不同。如果两地对“突出”的理解不一样，就要检查量表是否仍在测同一种自尊。",
+        "逐字翻译不能保证社会含义相同。",
+        "对词语的理解不同，不能证明某文化人人低自尊。",
+        "这说明需要改进测量，不表示跨文化比较没有价值。"
+      ],
+      "source": "L4 · 为什么重要，又为什么困难？ · [B0086–B0095]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q17",
+      "conceptId": "L4-C14",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "WVS/EVS 的重复波次能帮助研究什么？",
+      "stemEn": "What can repeated WVS/EVS waves help researchers examine?",
+      "options": [
+        "国家文化永远固定的证明",
+        "每个参与者一生都被跟踪的保证",
+        "自动排除所有因果混淆",
+        "价值随世代和时间的变化"
+      ],
+      "optionsEn": [
+        "Proof that national culture never changes",
+        "A guarantee of lifelong tracking of every participant",
+        "Automatic removal of all causal confounds",
+        "Changes in values across generations and time"
+      ],
+      "answer": 3,
+      "explanation": "比较不同调查波次，能观察价值观怎样随世代和时间变化。它不一定追踪同一批人，也不会自动证明变化原因。",
+      "optionExplanations": [
+        "重复调查是用来看变化，不是证明文化永远固定。",
+        "不同波次可能调查不同的人，不一定是同一批人的长期追踪。",
+        "调查仍可能受抽样、测量和其他因素影响。",
+        "比较不同调查波次，能观察价值观怎样随世代和时间变化。它不一定追踪同一批人，也不会自动证明变化原因。"
+      ],
+      "source": "L4 · Large cross-national surveys · [B0087–B0091]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q18",
+      "conceptId": "L4-C15",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "哪项最符合 collective action？",
+      "stemEn": "Which example best fits collective action?",
+      "options": [
+        "一人练习记忆卡但没有共同社会目标",
+        "任何同时发生的无关动作",
+        "住户共同联署要求公平租房政策",
+        "一人只在心里不喜欢涨租"
+      ],
+      "optionsEn": [
+        "One person practising memory cards without a shared social goal",
+        "Any unrelated actions occurring at the same time",
+        "Residents jointly petitioning for fair housing policy",
+        "One person privately disliking a rent rise"
+      ],
+      "answer": 2,
+      "explanation": "住户围绕共同社会目标联合行动，符合集体行动。关键不只是“多人”，还要有共同目的和实际行动。",
+      "optionExplanations": [
+        "个人练习没有共同社会目标。",
+        "动作同时发生，不表示大家为了同一个目的。",
+        "住户围绕共同社会目标联合行动，符合集体行动。关键不只是“多人”，还要有共同目的和实际行动。",
+        "一个人的私人感受，还不是群体共同采取行动。"
+      ],
+      "source": "L4 · Collective action：群体如何改变社会结构 · [B0097–B0100]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q19",
+      "conceptId": "L4-C15",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "1967 澳洲公投的课堂例子应如何准确表述？",
+      "stemEn": "How should the lecture’s example of the 1967 Australian referendum be stated?",
+      "options": [
+        "一夜间消除一切制度不平等",
+        "改变歧视性宪法条文，不自动等于物质平等",
+        "首次授予所有 First Nations 人公民身份",
+        "首次授予所有 First Nations 人投票权"
+      ],
+      "optionsEn": [
+        "It eliminated all institutional inequality overnight",
+        "It changed discriminatory constitutional provisions without automatically producing material equality",
+        "It first granted citizenship to all First Nations people",
+        "It first granted voting rights to all First Nations people"
+      ],
+      "answer": 1,
+      "explanation": "公投改变了歧视性宪法条文，但法律改变不会自动改善资源与生活条件。它也不是首次授予公民身份或投票权。",
+      "optionExplanations": [
+        "法律改变后，制度和物质条件仍需进一步改善。",
+        "公投改变了歧视性宪法条文，但法律改变不会自动改善资源与生活条件。它也不是首次授予公民身份或投票权。",
+        "该公投不是首次授予 First Nations 人公民身份。",
+        "该公投不是首次授予 First Nations 人投票权。"
+      ],
+      "source": "L4 · 历史案例：symbolic change 与 material change · [B0101–B0102]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q20",
+      "conceptId": "L4-C16",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "住户相信“大家一起投诉能改政策”，最直接是什么？",
+      "stemEn": "Residents believe, “Together we can change the policy by complaining.” What is most directly illustrated?",
+      "options": [
+        "集体效能",
+        "相对剥夺本身",
+        "命运控制",
+        "自我情绪投射"
+      ],
+      "optionsEn": [
+        "Collective efficacy",
+        "Relative deprivation alone",
+        "Fate control",
+        "Egocentric emotional projection"
+      ],
+      "answer": 0,
+      "explanation": "“大家一起能改政策”表达的是对共同改变能力的信心，也就是集体效能；它不是单纯觉得不公平。",
+      "optionExplanations": [
+        "“大家一起能改政策”表达的是对共同改变能力的信心，也就是集体效能；它不是单纯觉得不公平。",
+        "相对剥夺是比较后感到不公，不是相信大家有能力改变。",
+        "这里把改变寄望于共同行动，不是命运外力。",
+        "题中没有根据自身情绪判断别人的表情。"
+      ],
+      "source": "L4 · 五类驱动力 · [B0104–B0107]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q21",
+      "conceptId": "L4-C17",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "和平静坐违反主流制度程序，能如何分类？",
+      "stemEn": "A peaceful sit-in violates prevailing institutional procedures. How can it be classified?",
+      "options": [
+        "只要非规范就必然暴力",
+        "只要和平就必然规范",
+        "分类永远不依参照情境",
+        "非规范但非暴力"
+      ],
+      "optionsEn": [
+        "Necessarily violent because it is non-normative",
+        "Necessarily normative because it is peaceful",
+        "Classification never depends on reference context",
+        "Non-normative but non-violent"
+      ],
+      "answer": 3,
+      "explanation": "静坐可以不符合主流程序，却不伤害他人。“是否违反规范”和“是否暴力”要分开判断。",
+      "optionExplanations": [
+        "和平的公民不服从也可能违反主流规则。",
+        "和平不代表一定符合主流程序。",
+        "参照群体和历史环境会影响什么被视为规范。",
+        "静坐可以不符合主流程序，却不伤害他人。“是否违反规范”和“是否暴力”要分开判断。"
+      ],
+      "source": "L4 · Normative vs non-normative action · [B0108–B0111]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q22",
+      "conceptId": "L4-C18",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "SIMCA 中 social identity 的作用是什么？",
+      "stemEn": "What role does social identity play in SIMCA?",
+      "options": [
+        "只降低所有不公感",
+        "仅预测个人运动习惯",
+        "直接关联行动，并组织不公与效能路径",
+        "只是在模型之外无关的背景"
+      ],
+      "optionsEn": [
+        "It only reduces every sense of injustice",
+        "It predicts only individual exercise habits",
+        "It relates directly to action and organises injustice and efficacy pathways",
+        "It is an unrelated background factor outside the model"
+      ],
+      "answer": 2,
+      "explanation": "觉得自己属于“我们”，会影响如何看待群体受到的不公，以及是否相信大家能改变。身份也直接与行动有关。",
+      "optionExplanations": [
+        "认同群体可能增强不公感，不是只会降低它。",
+        "SIMCA 解释共同社会行动，不是个人运动习惯。",
+        "觉得自己属于“我们”，会影响如何看待群体受到的不公，以及是否相信大家能改变。身份也直接与行动有关。",
+        "身份是模型的重要部分，并非模型外的无关背景。"
+      ],
+      "source": "L4 · SIMCA：Social Identity Model of Collective Action · [B0112–B0122]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q23",
+      "conceptId": "L4-C18",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "SIMCA 综合证据的路径系数可以怎样表述？",
+      "stemEn": "How should path coefficients from the SIMCA synthesis be described?",
+      "options": [
+        "identity 完全不关联 injustice",
+        "平均关联路径，不保证每个纳入研究都是实验",
+        "所有路径都证明唯一单向因果",
+        "任何系数都代表参与者人数百分比"
+      ],
+      "optionsEn": [
+        "Identity has no association with injustice",
+        "Average associative paths, without assuming every included study was experimental",
+        "Every path proves a unique one-way cause",
+        "Every coefficient is a percentage of participants"
+      ],
+      "answer": 1,
+      "explanation": "这些系数概括变量之间的平均关联。综合研究并非全是实验，因此不能把每条路径都当成已证明的单向因果。",
+      "optionExplanations": [
+        "模型包含身份与不公感之间的关联。",
+        "这些系数概括变量之间的平均关联。综合研究并非全是实验，因此不能把每条路径都当成已证明的单向因果。",
+        "有统计关联，不表示已排除所有其他原因。",
+        "路径系数不是参与者人数的百分比。"
+      ],
+      "source": "L4 · SIMCA：Social Identity Model of Collective Action · [B0115–B0122]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q24",
+      "conceptId": "L4-C19",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "承认流浪动物值得关心，但尚未纳入保护与行动，最直接是？",
+      "stemEn": "Recognising that stray animals deserve concern, without yet including them in protection or action, most directly illustrates what?",
+      "options": [
+        "道德地位",
+        "主动道德纳入已完成",
+        "集体效能",
+        "权力距离"
+      ],
+      "optionsEn": [
+        "Moral standing",
+        "Completed active moral inclusion",
+        "Collective efficacy",
+        "Power distance"
+      ],
+      "answer": 0,
+      "explanation": "觉得动物值得关心，已经承认它们有道德地位。题中还没有把它们纳入保护和实际行动，所以不算完成主动纳入。",
+      "optionExplanations": [
+        "觉得动物值得关心，已经承认它们有道德地位。题中还没有把它们纳入保护和实际行动，所以不算完成主动纳入。",
+        "题中明确还没有保护和实际行动。",
+        "没有提到是否相信大家能共同改变。",
+        "没有提到是否接受等级权力。"
+      ],
+      "source": "L4 · Moral standing vs active moral inclusion · [B0128–B0129]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q25",
+      "conceptId": "L4-C20",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "MES 的典型测量做法是什么？",
+      "stemEn": "What is a typical measurement procedure in the Moral Expansiveness Scale?",
+      "options": [
+        "只测一个国家平均智商",
+        "强制所有人把同样对象排同一等级",
+        "直接测量所有实际援助行为",
+        "将不同对象置于不同道德关切圈层或边界外"
+      ],
+      "optionsEn": [
+        "Measuring only national average IQ",
+        "Forcing everyone to rank identical targets in the same order",
+        "Directly measuring every actual helping action",
+        "Placing targets in different levels of moral concern or outside the boundary"
+      ],
+      "answer": 3,
+      "explanation": "MES 用圈层表示对不同对象关心到什么程度，也允许把对象放在边界外。它测关切范围，不是直接观察所有帮助行为。",
+      "optionExplanations": [
+        "MES 不是智商测验。",
+        "不同人的道德边界可以不同，量表不规定统一排序。",
+        "报告关心某对象，不表示研究已观察到所有实际帮助行为。",
+        "MES 用圈层表示对不同对象关心到什么程度，也允许把对象放在边界外。它测关切范围，不是直接观察所有帮助行为。"
+      ],
+      "source": "L4 · Moral Expansiveness Scale (MES) · [B0131–B0136]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q26",
+      "conceptId": "L4-C21",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "Compassion 相比 empathy 的关键新增成分是什么？",
+      "stemEn": "What key component does compassion add beyond empathy?",
+      "options": [
+        "对权力不等的接受",
+        "让所有群体边界固定",
+        "减轻痛苦的动机",
+        "只感受他人情绪而无行动倾向"
+      ],
+      "optionsEn": [
+        "Acceptance of unequal authority",
+        "Making all group boundaries fixed",
+        "Motivation to reduce suffering",
+        "Only sharing emotion without any action tendency"
+      ],
+      "answer": 2,
+      "explanation": "Compassion 不只理解或感受别人难受，还包含希望减轻对方痛苦的动机。",
+      "optionExplanations": [
+        "接受权力不平等是权力距离的内容。",
+        "关怀可能扩大道德边界，不是让边界固定。",
+        "Compassion 不只理解或感受别人难受，还包含希望减轻对方痛苦的动机。",
+        "只共享情绪，遗漏了希望减轻痛苦的动机。"
+      ],
+      "source": "L4 · 什么会扩大或收窄 moral boundaries？ · [B0135–B0139]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q27",
+      "conceptId": "L4-C22",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "不平等、低信任与道德边界收窄的关系，应如何理解？",
+      "stemEn": "How should the relationship among inequality, lower trust and narrower moral boundaries be interpreted?",
+      "options": [
+        "单一关系证明所有其他因素无关",
+        "社会层面关联或提出机制，不是所有个人必然因果链",
+        "每个贫困者一定缺乏关怀",
+        "国家排名可精确诊断每个人"
+      ],
+      "optionsEn": [
+        "One relationship proves that all other factors are irrelevant",
+        "A societal association or proposed mechanism, not an inevitable causal chain for every individual",
+        "Every poor person necessarily lacks compassion",
+        "National rankings precisely diagnose every person"
+      ],
+      "answer": 1,
+      "explanation": "社会层面的关联不表示每个人都会按同一因果链变化。个人差异、关心的对象和具体情境也会影响道德边界。",
+      "optionExplanations": [
+        "一个关联不能排除个人差异、对象和情境等其他因素。",
+        "社会层面的关联不表示每个人都会按同一因果链变化。个人差异、关心的对象和具体情境也会影响道德边界。",
+        "贫困处境不能用来判断一个人是否有同情心。",
+        "国家平均值或排名，不能诊断每个人的性格。"
+      ],
+      "source": "L4 · 什么会扩大或收窄 moral boundaries？ · [B0135–B0141]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q28",
+      "conceptId": "L4-C23",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "少数群体跨几个学期保持同一核心诉求，属于什么？",
+      "stemEn": "A minority maintains the same core demand across several semesters. Which consistency is illustrated?",
+      "options": [
+        "Diachronic consistency",
+        "Synchronic consistency 的成员间定义",
+        "权力距离",
+        "行为控制"
+      ],
+      "optionsEn": [
+        "Diachronic consistency",
+        "The between-member definition of synchronic consistency",
+        "Power distance",
+        "Behavioural control"
+      ],
+      "answer": 0,
+      "explanation": "题中强调跨几个学期仍保持核心诉求，所以是跨时间一致。成员彼此是否一致，则是另一种一致性。",
+      "optionExplanations": [
+        "题中强调跨几个学期仍保持核心诉求，所以是跨时间一致。成员彼此是否一致，则是另一种一致性。",
+        "Synchronic 看同一少数群体成员之间是否一致。",
+        "权力距离看对等级权力的接受，不看立场随时间是否改变。",
+        "行为控制看完成行为的机会或能力，不看长期立场。"
+      ],
+      "source": "L4 · Minority influence：少数如何推动规范改变 · [B0142–B0156]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q29",
+      "conceptId": "L4-C23",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "少数团体成员对核心目标一致但可讨论细节，最合理是什么？",
+      "stemEn": "Minority members agree on the core goal while debating details. What is the best interpretation?",
+      "options": [
+        "一致性要求每句措辞永不变化",
+        "只有人数超过一半才叫一致性",
+        "讨论细节必定消除所有影响",
+        "可以体现 synchronic consistency，不必等于僵硬"
+      ],
+      "optionsEn": [
+        "Consistency requires every word to remain unchanged forever",
+        "Consistency exists only when membership exceeds half the population",
+        "Discussing details necessarily removes all influence",
+        "They can show synchronic consistency without being rigid"
+      ],
+      "answer": 3,
+      "explanation": "成员共享核心目标，就可以体现成员间一致性。细节能讨论和调整，不表示核心立场已经分裂。",
+      "optionExplanations": [
+        "一致性不要求每句话的措辞永远不变。",
+        "一致性说的是立场与行为风格，不是人数超过一半。",
+        "适度灵活可以与核心一致同时存在。",
+        "成员共享核心目标，就可以体现成员间一致性。细节能讨论和调整，不表示核心立场已经分裂。"
+      ],
+      "source": "L4 · Minority influence：少数如何推动规范改变 · [B0142–B0156]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q30",
+      "conceptId": "L4-C24",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "集体行动失败后，哪项表述最符合课堂边界？",
+      "stemEn": "After collective action fails, which statement best matches the lecture’s qualifications?",
+      "options": [
+        "必然永久退出社会参与",
+        "一切失败都没有心理影响",
+        "可能耗竭、信任下降或转策略，也可能休整重组",
+        "必然转向暴力"
+      ],
+      "optionsEn": [
+        "Everyone necessarily abandons social participation permanently",
+        "Failure never has psychological effects",
+        "Burnout, reduced trust or strategic shifts may occur, but rest and reorganisation are also possible",
+        "It necessarily becomes violent"
+      ],
+      "answer": 2,
+      "explanation": "失败可能让人耗竭、失去信任或调整策略，也可能带来休整和重组。不能从失败直接推出永久退出或暴力。",
+      "optionExplanations": [
+        "有人退出，不代表所有人都会永久放弃参与。",
+        "失败可能影响情绪、信心与社会信任。",
+        "失败可能让人耗竭、失去信任或调整策略，也可能带来休整和重组。不能从失败直接推出永久退出或暴力。",
+        "即使转向非规范策略，也可能仍是和平行动。"
+      ],
+      "source": "L4 · When collective action fails - or just takes time · [B0157–B0162]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q31",
+      "conceptId": "L4-C13",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "研究去殖民化为什么不只是增加非西方样本？",
+      "stemEn": "Why is decolonising research more than adding non-Western participants?",
+      "options": [
+        "所有西方研究必须一律删除",
+        "还需审视谁定义问题、拥有知识及本土社会历史现实",
+        "增加人数自动消除构念偏差",
+        "本土知识只能作为研究对象不能参与定义"
+      ],
+      "optionsEn": [
+        "All Western research must be deleted",
+        "It also examines who defines questions, owns knowledge and represents local social and historical realities",
+        "Increasing numbers automatically removes construct bias",
+        "Local knowledge can only be studied, not shape research questions"
+      ],
+      "answer": 1,
+      "explanation": "去殖民化不只问研究了多少非西方人，还问谁决定问题、拥有知识，以及当地人的现实和知识是否被尊重。",
+      "optionExplanations": [
+        "反思和改进研究，不等于一律删除所有西方研究。",
+        "去殖民化不只问研究了多少非西方人，还问谁决定问题、拥有知识，以及当地人的现实和知识是否被尊重。",
+        "人数增加不能自动纠正问题定义和测量中的偏差。",
+        "本土知识也应参与定义研究问题，而不只是被当成研究对象。"
+      ],
+      "source": "L4 · 为什么重要，又为什么困难？ · [B0092–B0095]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q32",
+      "conceptId": "L4-C23",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "应用",
+      "stem": "一致少数为何可能影响多数？",
+      "stemEn": "Why can a consistent minority influence a majority?",
+      "options": [
+        "打断既有规范、吸引对替代观点的注意并显示承诺",
+        "人数少自动保证正确",
+        "只能通过强制禁止异议",
+        "从不需要多数重新思考"
+      ],
+      "optionsEn": [
+        "It disrupts prevailing norms, draws attention to alternatives and signals commitment",
+        "Small numbers automatically guarantee correctness",
+        "It can act only by coercively banning dissent",
+        "It never requires the majority to reconsider"
+      ],
+      "answer": 0,
+      "explanation": "持续一致能让多数注意到另一种观点，并看到少数人的承诺。它也让分歧保持可见，促使人们重新考虑原有规范。",
+      "optionExplanations": [
+        "持续一致能让多数注意到另一种观点，并看到少数人的承诺。它也让分歧保持可见，促使人们重新考虑原有规范。",
+        "人数少或立场一致，都不能保证观点正确。",
+        "少数影响不等于强制禁止别人反对。",
+        "让多数重新考虑替代观点，是可能影响之一。"
+      ],
+      "source": "L4 · 一致 minority 的五个效果 · [B0149–B0156]",
+      "origin": "notes"
+    },
+    {
+      "id": "L4-Q33",
+      "conceptId": "L4-C03",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "“凡事要看情境，多种路径可能有效”最贴近哪种社会信念？",
+      "stemEn": "“Circumstances matter, and several approaches may work” most closely reflects which social belief?",
+      "options": [
+        "Social cynicism",
+        "Reward for application",
+        "Fate control",
+        "Social complexity"
+      ],
+      "optionsEn": [
+        "Social cynicism",
+        "Reward for application",
+        "Fate control",
+        "Social complexity"
+      ],
+      "answer": 3,
+      "explanation": "这句话强调情境不同，解决办法也可能不同，正是社会复杂性的重点。",
+      "optionExplanations": [
+        "社会愤世较强调对权力和人性的负面预期。",
+        "努力回报较强调努力、计划与成功的关系。",
+        "命运控制较强调命运等外力对结果的作用。",
+        "这句话强调情境不同，解决办法也可能不同，正是社会复杂性的重点。"
+      ],
+      "source": "L4 · Universality and diversity：共同能力，不同表达 · [B0038–B0043]",
+      "origin": "notes"
+    }
+  ],
+  "file": "PSYC1004_Lecture_4_Cross_Cultural_Psychology_Collective_Action_Notes.docx",
+  "sourceBlocks": [
+    {
+      "id": 1,
+      "text": "PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT"
+    },
+    {
+      "id": 2,
+      "text": "Lecture 4"
+    },
+    {
+      "id": 3,
+      "text": "Cross-Cultural Psychology & Collective Action"
+    },
+    {
+      "id": 4,
+      "text": "跨文化心理学、集体行动与道德扩张：双语复习笔记"
+    },
+    {
+      "id": 5,
+      "text": "Dr Charlie Crimston  |  84-page slide deck  |  2:16:59 class recording"
+    },
+    {
+      "id": 6,
+      "text": "CORE IDEA  Culture shapes which psychological patterns appear normal, universal or adaptive; collective action shows the reverse direction too - people can organise through identity, injustice and efficacy to change the social structures that shape them."
+    },
+    {
+      "id": 8,
+      "text": "Lecture map：两个主题由 culture, identity, norms 与 social change 串联。"
+    },
+    {
+      "id": 9,
+      "text": "阅读方法：蓝色为核心理论；金色 EXAM/EXAMPLE 为答题重点与理解案例；红色 CRITIQUE/ACCURACY 为研究局限或资料修正；绿色 APPLICATION 为现实应用。"
+    },
+    {
+      "id": 10,
+      "text": "资料处理：术语、图表与数字以 PDF 为准；教授 transcript/recording 用于补充解释、案例和批判。所有额外通俗案例均明确标为“自拟”，不冒充课堂研究。"
+    },
+    {
+      "id": 12,
+      "text": "一页速记 | Lecture at a glance"
+    },
+    {
+      "id": 13,
+      "text": "对应课件总览：slides 6, 40, 47, 72, 81-82；适合考前先背主干。"
+    },
+    {
+      "id": 14,
+      "text": "MEMORY CHAIN  WEIRD sampling → test universality → compare cultural patterns → avoid national stereotypes → injustice + efficacy + identity → collective action → moral expansion → consistent minorities can shift norms."
+    },
+    {
+      "id": 15,
+      "text": "主干 | 必须会说的一句话\n\nCross-cultural psychology | 系统比较不同 cultural conditions 下的心理变量，判断规律是 universal 还是 culturally specific。\n\nWEIRD problem | 研究样本高度集中于 Western, Educated, Industrialised, Rich, Democratic populations，因此 generalisation 可能失真。\n\nCulture | 共享 values, beliefs, norms and practices 会改变心理过程的表达、意义与默认倾向。\n\nIndividualism / collectivism | 关注 independent self 与 personal goals，或 interdependent self、group goals 与 obligations；它是 continuum，不是给个人贴标签。\n\nCollective action | 群体为共同社会或政治目标而行动，主要受 injustice、efficacy、identity/norms 与 emotion 推动。\n\nSIMCA | Social identity 直接影响行动，也影响我们如何体验 group-based injustice 与 collective efficacy。\n\nMoral expansion | 社会运动常扩大谁被承认为有 moral standing，并推动 active moral inclusion。\n\nMinority influence | 少数群体跨时间和内部保持一致，会打断多数规范、显示 commitment，并促使多数重新思考。"
+    },
+    {
+      "id": 17,
+      "text": "EXAM  选择题最常见陷阱：cultural average 不等于 every individual；non-normative 不等于 violent；social identity 在 SIMCA 中不是附加变量，而是组织模型的中心。"
+    },
+    {
+      "id": 19,
+      "text": "Cross-cultural psychology：文化不是脚注"
+    },
+    {
+      "id": 20,
+      "text": "Slides 2-13；教授开场用 Kohlberg、attribution 与 self-enhancement 说明“局部发现不等于普遍真理”。"
+    },
+    {
+      "id": 21,
+      "text": "定义与研究问题"
+    },
+    {
+      "id": 22,
+      "text": "Culture 是群体共享并代际传递的 values、beliefs、norms、behaviours 与 traditions。它影响我们如何解释世界、表达情绪、理解 self，并与他人互动。"
+    },
+    {
+      "id": 23,
+      "text": "Cultural psychology 把文化视为心理形成与表达的基础。Hazel Rose Markus 的核心观点是：mind 的产物与人所属的 social communities 密不可分。"
+    },
+    {
+      "id": 24,
+      "text": "Cross-cultural psychology 则明确、系统地比较不同文化条件下的 psychological variables，以识别 behaviour 的 antecedents 与 mediating processes (Eckensberger, 1972)。"
+    },
+    {
+      "id": 25,
+      "text": "CORE DISTINCTION  一个结果不能跨文化复制，并不代表它“没价值”；它可能精确揭示某一文化情境。真正错误是未经检验就把局部结果默认成 universal human nature。"
+    },
+    {
+      "id": 26,
+      "text": "三个开场例子：为什么要跨文化检验？"
+    },
+    {
+      "id": 27,
+      "text": "原本被当作普遍规律 | 跨文化观察 | 正确结论\n\nKohlberg moral development | 后期阶段强调 abstract justice/individual rights；部分文化更重视 duty、community 与 relational obligations。 | 所谓“最高阶段”可能包含 Western value assumptions。\n\nFundamental attribution error | 西方样本更常把插队/加塞归因于人格；一些 East Asian contexts 更常考虑 situation。 | 文化会改变 personality vs context 的默认权重。\n\nSelf-enhancement bias | 部分文化更少把自己评为 above average，更重视 humility、modesty 与 harmony。 | self-criticism 不应自动被诊断为 low self-esteem。"
+    },
+    {
+      "id": 29,
+      "text": "理解案例（自拟）  若一款 wellbeing app 用“我比多数人优秀”衡量健康自尊，它可能把重视谦逊的使用者误判为低自尊。翻译正确，也不代表构念在不同文化中意义相同。"
+    },
+    {
+      "id": 30,
+      "text": "WEIRD generalisability problem"
+    },
+    {
+      "id": 32,
+      "text": "WEIRD sample imbalance：样本占比与全球人口结构严重不对称。"
+    },
+    {
+      "id": 33,
+      "text": "WEIRD = Western, Educated, Industrialised, Rich, Democratic。"
+    },
+    {
+      "id": 34,
+      "text": "课件给出：WEIRD participants 最多约占 published literature 的 80%，但相关人口约占全球 12%。"
+    },
+    {
+      "id": 35,
+      "text": "Hruschka (2018) 的地图显示，2017 年 Psychological Science 研究地点中约 93% 集中在少数 Western/Anglophone regions。"
+    },
+    {
+      "id": 36,
+      "text": "即使在 WEIRD societies 内，majority groups 也更常被研究；minority groups 和 researchers' own standpoints 仍可能缺席。"
+    },
+    {
+      "id": 37,
+      "text": "CRITIQUE  样本偏差不只影响代表性，也可能改变理论本身：研究者选择什么问题、如何定义健康/正常、以及使用什么量表，都可能携带文化假设。"
+    },
+    {
+      "id": 38,
+      "text": "Universality and diversity：共同能力，不同表达"
+    },
+    {
+      "id": 39,
+      "text": "Slides 11-13；basic emotion recognition、reciprocity、incest taboo、supernatural beliefs 与 social axioms。"
+    },
+    {
+      "id": 40,
+      "text": "人类可能共享某些 broad/near-universal tendencies，例如基本情绪面孔的识别、reciprocity、对 incest 的禁忌，以及广泛存在的 religious/supernatural beliefs。但“共同存在”不等于表达规则、重要性或触发条件完全相同。"
+    },
+    {
+      "id": 41,
+      "text": "Leung & Bond social belief | 课件示例 | 最短理解\n\nSocial cynicism | Powerful people tend to exploit others. | 对权力与人性的负面预期。\n\nSocial complexity | Deal with matters according to circumstances. | 多种路径可能有效，需看情境。\n\nReward for application | One succeeds if one really tries. | 努力、计划与回报相连。\n\nSpirituality | Religious faith supports mental health. | 宗教/灵性具有社会与心理意义。\n\nFate control | Fate determines success and failure. | 结果受到命运或外在力量影响。"
+    },
+    {
+      "id": 43,
+      "text": "EXAM  可以同时成立：basic emotion recognition 相对普遍，但文化 display rules 决定 anger 应在何时、对谁、以多强的程度表达。"
+    },
+    {
+      "id": 44,
+      "text": "Cultural patterns：规范如何改变情绪、推理与 self"
+    },
+    {
+      "id": 45,
+      "text": "Slides 14-27；重点研究：Cohen et al. (1996)、Cohen & Gunz (2002)、Hornsey et al. (2018)。"
+    },
+    {
+      "id": 46,
+      "text": "Culture of Honour"
+    },
+    {
+      "id": 47,
+      "text": "在 honour culture 中，小型冲突可能被理解成 reputation/status challenge；若不回应，可能被视为软弱。课件指出这种规范在 Latin America、Mediterranean 与 Southern US 某些地区更常见。"
+    },
+    {
+      "id": 48,
+      "text": "Cohen et al. (1996): hallway insult study"
+    },
+    {
+      "id": 49,
+      "text": "Method / 方法：173 White male undergraduates (111 Northerners, 62 Southerners)。男性 confederate 在走廊撞到参与者并辱骂；比较 insult 与 control 后的 testosterone response。"
+    },
+    {
+      "id": 50,
+      "text": "Finding / 结果：Control 下两组都约 4.7-4.8；insult 后 Southern group 约升至 12.5，Northern group 约 5.2。"
+    },
+    {
+      "id": 51,
+      "text": "Meaning / 意义：相同 insult 在不同 reputation norms 中可能具有不同社会意义；culture 能调节威胁反应。"
+    },
+    {
+      "id": 52,
+      "text": "Critique / 局限：全为 White male students；testosterone 不是 anger/aggression 的纯指标；baseline 与地区混淆因素存在，讲师也提醒 replication 并非始终稳定。"
+    },
+    {
+      "id": 53,
+      "text": "理解案例（自拟）  同一句“你根本不会做”在普通讨论中可能只是无礼；在重视公开 reputation 的群体中，它可能被体验为必须回应的身份挑战。"
+    },
+    {
+      "id": 54,
+      "text": "Emotion expression and perception"
+    },
+    {
+      "id": 55,
+      "text": "Matsumoto et al. (2008)：文化 display rules 影响何时、何地、如何表达情绪。Western openness 与 Eastern suppression 只是总体趋势，不是个人规则。"
+    },
+    {
+      "id": 56,
+      "text": "Markus & Kitayama (1991)：Japanese sample 在 close relationships 中表达 anger 较不常见；American sample 较常见，可能反映 harmony 与 authenticity 的不同权重。"
+    },
+    {
+      "id": 57,
+      "text": "Cohen & Gunz (2002): ambiguous faces"
+    },
+    {
+      "id": 58,
+      "text": "Method / 方法：诱发 shame、anger 或 sadness，再让 Western/Eastern participants 判断 ambiguous emotional faces。"
+    },
+    {
+      "id": 59,
+      "text": "Finding / 结果：Westerners 较偏 egocentric projection (把自己的情绪投射给对方；约 2.84 vs 2.67)；Easterners 较偏 relational projection (推测对方会如何回应自己；约 2.89 vs 2.72)。"
+    },
+    {
+      "id": 60,
+      "text": "Meaning / 意义：文化可改变我们读脸时以 self 为中心，还是以 relationship/context 为中心。"
+    },
+    {
+      "id": 61,
+      "text": "Critique / 局限：图中均值差异较小；样本标签是 broad cultural categories，不能推出所有成员都如此。"
+    },
+    {
+      "id": 62,
+      "text": "Mental-health norms and help seeking"
+    },
+    {
+      "id": 63,
+      "text": "Stigma、face、family/religious frameworks、service access 与 healthcare system 都会影响人是否公开谈论 distress、向谁求助。教授反复强调：Australia/Japan 等比较只能描述 patterns；任何文化内部都有倡导者、回避者与群体差异。"
+    },
+    {
+      "id": 64,
+      "text": "Analytic vs holistic reasoning"
+    },
+    {
+      "id": 65,
+      "text": "Analytic reasoning | Holistic reasoning\n\n把对象拆成相对独立的部分，强调 rules 与 non-contradiction。 | 看整体 pattern、relationships、background 与 competing forces。\n\n像突出一棵 tree，较少依赖 forest context。 | 先看 forest，再理解每棵 tree 如何互相连接。\n\n可能更容易把迟交归因于“这个人不负责”。 | 会同时检查 illness、family pressure、task design 与 group coordination。"
+    },
+    {
+      "id": 67,
+      "text": "理解案例（自拟）  同学迟交 group assignment：analytic default 先看个人努力；holistic default 先问是否有家庭事件、分工问题或制度性障碍。两种思路都可能有用，区别在默认关注点。"
+    },
+    {
+      "id": 68,
+      "text": "Independent vs interdependent self-construal"
+    },
+    {
+      "id": 69,
+      "text": "Individualistic tendency | Collectivistic tendency\n\nSelf 更 autonomous/distinct；personal goals 与 rights 更突出。 | Self 更 interdependent/connected；group goals、duties 与 harmony 更突出。\n\nPersonal attitudes/needs 可能更能预测行为。 | In-group norms 与 obligations 可能更能预测行为。\n\n较可能离开不满意的 group/relationship。 | 即使关系不愉快，也可能为 communal obligations 留下。\n\n“The squeaky wheel gets the grease.” | “The nail that stands out gets pounded down.”"
+    },
+    {
+      "id": 71,
+      "text": "DO NOT STEREOTYPE  Individualism-collectivism 是 continuum；同一国家内会随地区、阶级、族群、情境和个人而变。country-level average 推断个人会犯 ecological fallacy。"
+    },
+    {
+      "id": 72,
+      "text": "Political ideology and climate belief"
+    },
+    {
+      "id": 73,
+      "text": "Hornsey et al. (2018): 25-country comparison"
+    },
+    {
+      "id": 74,
+      "text": "Method / 方法：跨 25 国比较 left-right ideology 与 climate attitudes 的 association。"
+    },
+    {
+      "id": 75,
+      "text": "Finding / 结果：总体效应约 .09 [.04, .15]；United States .44 [.30, .57]，Australia .30 [.15, .45]；多国接近零，India 为 -.20 [-.37, -.04]。"
+    },
+    {
+      "id": 76,
+      "text": "Meaning / 意义：“Conservatism predicts climate scepticism”并非固定 universal law；local political discourse、identity 与 information ecosystem 会改变强度甚至方向。"
+    },
+    {
+      "id": 77,
+      "text": "Critique / 局限：跨国相关不能证明 ideology 单独造成 scepticism；country samples、political labels 与测量等价性仍需检查。"
+    },
+    {
+      "id": 78,
+      "text": "Cross-cultural approaches：如何比较文化"
+    },
+    {
+      "id": 79,
+      "text": "Slides 28-39；Triandis、Hofstede、World Values Survey / European Values Study、decolonisation。"
+    },
+    {
+      "id": 80,
+      "text": "Hofstede's six cultural dimensions"
+    },
+    {
+      "id": 81,
+      "text": "Dimension | High / one pole | Contrast / other pole\n\nPower distance (PDI) | 接受 unequal power 与 top-down authority。 | 偏好 consultative、more equal relations。\n\nIndividualism (IDV) | personal achievement/rights 与 autonomous self。 | loyalty to cohesive groups 与 interdependence。\n\nMasculinity (MAS) | competition、ambition、power。 | relationships、care、quality of life。\n\nUncertainty avoidance (UAI) | 以 rules、planning、caution 降低 ambiguity。 | 更能接受 change、fewer rules 与 uncertainty。\n\nLong-term orientation (LTO) | future-focused、pragmatic、persistent。 | tradition、current obligations、short-term focus。\n\nIndulgence (IVR) | 允许 enjoyment/gratification。 | 通过 norms/taboos 约束欲望。"
+    },
+    {
+      "id": 84,
+      "text": "Slide 33：Australia-China 六维 country scores；用于比较社会平均，不用于诊断个人。"
+    },
+    {
+      "id": 85,
+      "text": "理解案例（自拟）  老师给完全开放的 assignment：high uncertainty-avoidance context 可能更强烈要求 rubric、范例和明确边界；low uncertainty-avoidance context 可能更愿意自由探索。"
+    },
+    {
+      "id": 86,
+      "text": "CRITIQUE  Hofstede 基于 IBM employees；国家不是 homogeneous unit。还要警惕 Western framing、translation/measurement equivalence、文化随时间变化，以及 national score 被误用为 individual personality。"
+    },
+    {
+      "id": 87,
+      "text": "Large cross-national surveys"
+    },
+    {
+      "id": 88,
+      "text": "World Values Survey (WVS)：1981 开始，覆盖 100 多国，可追踪 democracy、minority tolerance、gender equality、religion、environment、identity 与 wellbeing。"
+    },
+    {
+      "id": 89,
+      "text": "European Values Study (EVS)：同样始于 1981，覆盖近 50 个欧洲国家，关注 social/political institutions 背后的 moral and social values。"
+    },
+    {
+      "id": 90,
+      "text": "Repeated waves 可观察 generation 与 time change；culture 不是永远固定的 national essence。"
+    },
+    {
+      "id": 91,
+      "text": "MEASUREMENT EQUIVALENCE（自拟）  问卷句子“I stand out from others”在一个文化可能表示 confidence，在另一个文化可能表示不合群。字面翻译正确，不等于量表测到同一 construct。"
+    },
+    {
+      "id": 92,
+      "text": "为什么重要，又为什么困难？"
+    },
+    {
+      "id": 93,
+      "text": "Research value | Ongoing challenge\n\n区分 universality 与 cultural specificity。 | Cultural bias 与 researcher standpoint。\n\n更完整理解 behaviour and cognition。 | Sampling、translation、measurement equivalence。\n\n挑战 Western assumptions。 | Power、representation、costs 与 time。\n\n支持 culturally sensitive practice。 | 同文化内部差异及 national stereotypes。"
+    },
+    {
+      "id": 95,
+      "text": "DECOLONISATION  不只是“多收几个 non-Western samples”。还要审视谁定义问题、谁拥有知识、研究是否把 minority communities 描绘成问题并责怪其处境，以及 Indigenous ways of knowing/being/doing 是否建立在 lived social and historical realities 上。"
+    },
+    {
+      "id": 97,
+      "text": "Collective action：群体如何改变社会结构"
+    },
+    {
+      "id": 98,
+      "text": "Slides 41-57；由 prejudice reduction 转向 material relations 与 structural change。"
+    },
+    {
+      "id": 99,
+      "text": "Micro-level prejudice reduction 有时不够。如果 low status、disadvantage 与 inequality 嵌入真实 institutions 和 intergroup relations，就需要 political action、government reform 或 social movements 改变制度与资源关系。"
+    },
+    {
+      "id": 100,
+      "text": "DEFINITION  Collective action = activities undertaken by a group of individuals aimed at achieving a common goal，通常与 social or political change 相连；包括 protest、boycott、strike 与 social movement。"
+    },
+    {
+      "id": 101,
+      "text": "历史案例：symbolic change 与 material change"
+    },
+    {
+      "id": 102,
+      "text": "Case | What it illustrates | Accuracy / interpretation\n\nWomen's suffrage | 长期 protest、hunger strike、lobbying 与 civil disobedience 改变 voting norms。 | Night of Terror 发生于 1917；transcript 口头说 1913，笔记按历史年份修正。\n\nStonewall, 1969 | Police raid 后的 resistance 成为 LGBTQ+ identity 与 mobilisation 的重要转折点。 | 并非一夜改变法律；movement-building 与后续组织才关键。\n\n1967 Australian referendum | First Nations-led campaigns 获近 91% Yes，改变两项 discriminatory constitutional provisions。 | 并非授予 citizenship 或 voting rights；symbolic/legal change 不自动等于 material equality。"
+    },
+    {
+      "id": 104,
+      "text": "五类驱动力"
+    },
+    {
+      "id": 105,
+      "text": "Driver | Question inside the group | Mechanism\n\nPerceived injustice | Is this unfair or morally wrong? | moral outrage、moral conviction 与 relative deprivation 提供行动理由。\n\nCollective efficacy | Can we make a difference together? | shared belief in change 增强 empowerment，并帮助 movement sustain。\n\nSocial identity | Is this happening to us? | 把个人遭遇变成 group-based grievance，并连接共同目标。\n\nGroup norms | Do people like us take action? | 行动若被体验为 our norm，更容易参与；行动本身也可形成新规范。\n\nEmotion | What do we feel together? | anger、pride、grief 等可 spark action，也维持 solidarity。"
+    },
+    {
+      "id": 107,
+      "text": "理解案例（自拟）  两栋相同宿舍只有一栋突然涨租：比较产生 relative deprivation；若学生相信上次联署成功过，collective efficacy 上升；“我们住户”身份、同伴参与规范与愤怒共同推动行动。"
+    },
+    {
+      "id": 108,
+      "text": "Normative vs non-normative action"
+    },
+    {
+      "id": 109,
+      "text": "Normative action | Non-normative action\n\n符合当时法律/社会规范：petition、lawful march、legal strike。 | 偏离主流规则且更 disruptive：civil disobedience、occupation、blockade、riot。\n\n通常被视为 legitimate/acceptable。 | 可能 illegal 或 controversial，但不等于必然 violent。\n\n在 institutional channels 内施压。 | 常在 conventional methods 被视为无效时出现。"
+    },
+    {
+      "id": 111,
+      "text": "CONTEXT MATTERS  同一 tactic 在社会整体看来可能 non-normative，但在 union 或 climate movement 内部已成为 group norm。分类取决于参照规范与历史情境。"
+    },
+    {
+      "id": 112,
+      "text": "SIMCA：Social Identity Model of Collective Action"
+    },
+    {
+      "id": 113,
+      "text": "Slides 54-56；van Zomeren, Postmes & Spears (2008)。"
+    },
+    {
+      "id": 115,
+      "text": "SIMCA：identity 直接推动行动，并组织 injustice 与 efficacy 两条路径。"
+    },
+    {
+      "id": 116,
+      "text": "Identity → Injustice (.26)：以“we”理解事件，增强 group-based injustice。"
+    },
+    {
+      "id": 117,
+      "text": "Identity → Efficacy (.19)：更相信 in-group 有共同能力。"
+    },
+    {
+      "id": 118,
+      "text": "Identity → Collective action (.21)：身份本身也直接预测行动。"
+    },
+    {
+      "id": 119,
+      "text": "Injustice / Efficacy → Action (.28 each)：不公提供 reason，效能提供 possibility。"
+    },
+    {
+      "id": 120,
+      "text": "EXAM  不要只背三个 predictor。高分答案要说 identity 是 organising centre：它决定“不公发生在谁身上”，也影响“我们能不能改变”。"
+    },
+    {
+      "id": 121,
+      "text": "理解案例（自拟）  校园取消无障碍接驳车：学生认同“公平通行的校园共同体”(identity)，认为决定不公 (injustice)，又相信联名能改政策 (efficacy)，因此参与 collective action。"
+    },
+    {
+      "id": 122,
+      "text": "EVIDENCE CAUTION  模型系数来自综合证据，表示 variables co-vary 的平均路径；不要把每项纳入研究都说成实验，也不要把 association 自动写成单一因果。"
+    },
+    {
+      "id": 123,
+      "text": "Moral expansion：社会改变是为了谁？"
+    },
+    {
+      "id": 124,
+      "text": "Slides 58-65；Crimston, Bain, Hornsey & Bastian (2016) Moral Expansiveness Scale。"
+    },
+    {
+      "id": 125,
+      "text": "Social movements 不只改变政策，也会改变 moral circle：哪些 people、groups、animals 或 parts of nature 被视为值得 rights、protection 与 compassion。历史上的 moral boundaries 并非固定；activism、empathy 与 shifting norms 可以把曾被排除的 targets 纳入。"
+    },
+    {
+      "id": 127,
+      "text": "Moral circle：越靠中心代表越高 moral concern；图示为概念结构，不是固定道德等级。"
+    },
+    {
+      "id": 128,
+      "text": "Moral standing vs active moral inclusion"
+    },
+    {
+      "id": 129,
+      "text": "Concept | Meaning | 理解案例（自拟）\n\nMoral standing | 承认对象值得 moral consideration。 | 承认流浪动物会受苦，也值得被关心。\n\nMoral inclusion | 真正纳入公平对待、保护和为其受害而行动。 | 支持 rescue、desexing、adoption 或反虐待政策。"
+    },
+    {
+      "id": 131,
+      "text": "Moral Expansiveness Scale (MES)"
+    },
+    {
+      "id": 132,
+      "text": "参与者把多种 targets 放进 concentric circles：highest、moderate、minimal concern，或 moral boundary 之外。"
+    },
+    {
+      "id": 133,
+      "text": "Targets 包括 family/friends、in-group、revered/stigmatised groups、outgroups、animals、environment、plants 与 villains。"
+    },
+    {
+      "id": 134,
+      "text": "Slide 62 的 Western pattern 常把 family/friends 放中心；向外依次出现 groups、animals/environment/plants；villains 可能被排除。它只是 average pattern。"
+    },
+    {
+      "id": 135,
+      "text": "什么会扩大或收窄 moral boundaries？"
+    },
+    {
+      "id": 136,
+      "text": "Factor | How it works\n\nIndividual differences | empathy 与 compassion 的个人差异。\n\nTarget attributes | 是否被认为有 mind、sentience、pain 与 moral relevance。\n\nCognitive framing | 任务要求 inclusion 还是 exclusion，会改变总体 concern。\n\nContextual factors | competition、conflict、resource scarcity 与 social trust。"
+    },
+    {
+      "id": 138,
+      "text": "COMPASSION ≠ EMPATHY  Empathy 是感受到/理解他人的情绪；compassion 还包含 recognising suffering + motivation to reduce it。正是“想减轻痛苦”的行动倾向，使 compassion 更强地关联 moral expansion。"
+    },
+    {
+      "id": 139,
+      "text": "理解案例（自拟）  看到同学焦虑，自己也难受是 empathy；陪他联系 counselling、替他寻找支持资源，才体现 compassion 的 action motivation。"
+    },
+    {
+      "id": 140,
+      "text": "Fears of compassion 指担心关心陌生人会让自己被利用，因此可能收窄 moral community。跨约 40 个文化样本的课件图把 French Canadian sample 排在较高端、Japan 较低端；图缺少逐项来源与精确数值，不能把排名解释成固定 national character。"
+    },
+    {
+      "id": 141,
+      "text": "SOCIETAL PATTERN  教授强调的解释链是 inequality → lower social trust → narrower moral boundaries。该跨国关系应理解为 societal association / proposed mechanism，而不是对每个个人的确定因果。"
+    },
+    {
+      "id": 142,
+      "text": "Minority influence：少数如何推动规范改变"
+    },
+    {
+      "id": 143,
+      "text": "Slides 66-68；Moscovici's genetic model 与 behavioural consistency。"
+    },
+    {
+      "id": 144,
+      "text": "Moscovici 认为 influence 不是 majority 单向施加给 minority。少数群体可以通过制造、强化或指出 unresolved conflict，迫使多数注意 alternative point of view。成功关键不是人数，而是 behavioural style。"
+    },
+    {
+      "id": 146,
+      "text": "Consistent minority：diachronic + synchronic consistency 增强注意、commitment 与潜在 norm change。"
+    },
+    {
+      "id": 147,
+      "text": "Consistency | Definition | Why it matters\n\nDiachronic | 同一 minority across time 保持清晰立场。 | 显示不是短暂情绪或机会性诉求。\n\nSynchronic | minority members 之间保持 core position 一致。 | 显示 shared commitment，并减少多数用“他们自己都不同意”来忽略议题。"
+    },
+    {
+      "id": 149,
+      "text": "一致 minority 的五个效果"
+    },
+    {
+      "id": 150,
+      "text": "disrupts the majority norm；"
+    },
+    {
+      "id": 151,
+      "text": "draws attention to the minority as an entity；"
+    },
+    {
+      "id": 152,
+      "text": "draws attention to an alternative point of view；"
+    },
+    {
+      "id": 153,
+      "text": "demonstrates certainty and commitment；"
+    },
+    {
+      "id": 154,
+      "text": "使 adoption of the minority view 看起来成为解决 conflict 的路径。"
+    },
+    {
+      "id": 155,
+      "text": "理解案例（自拟）  少数学生连续几个学期提出同一核心要求 - 所有教学楼必须提供无障碍入口 - 且成员对核心目标一致，比每周更换诉求更容易让校方认真处理。"
+    },
+    {
+      "id": 156,
+      "text": "NUANCE  Consistency 不等于成员永远不能讨论或修正细节；它指核心 position 清晰且稳定。过度 rigidity 也可能被视为 unreasonable，因此现实影响还取决于 flexibility 与 context。"
+    },
+    {
+      "id": 157,
+      "text": "When collective action fails - or just takes time"
+    },
+    {
+      "id": 158,
+      "text": "Slides 69-71；failure consequences 与 normative/non-normative strategy shift。"
+    },
+    {
+      "id": 159,
+      "text": "Potential consequence | Psychological/social meaning\n\nBurnout and demoralisation | activists 精疲力竭，未来参与意愿下降，边缘群体承担更高 emotional load。\n\nUpholding the status quo | 原有 inequality 与 power structures 延续，下一次挑战看起来更困难。\n\nErosion of trust | 对 institutions、allies 与 meaningful change 的信念下降，collective efficacy 难以重建。\n\nEscalation | 若 peaceful/institutional channels 被视为无效，部分成员可能转向 disruptive、non-normative tactics。"
+    },
+    {
+      "id": 161,
+      "text": "DO NOT OVERCLAIM  失败可能改变 tactics，但不会必然导致 violence。Civil disobedience、sit-in 与 blockade 可是 non-normative yet non-violent；运动也可能休整、重组或在更长时间尺度上成功。"
+    },
+    {
+      "id": 162,
+      "text": "理解案例（自拟）  多次合法申诉被拒后，一部分成员 burnout 退出，另一部分改为 sit-in；同时对学校制度的 trust 下降。这个例子展示可能路径，不是自动因果链。"
+    },
+    {
+      "id": 163,
+      "text": "Revision questions：原课件题目与答题骨架"
+    },
+    {
+      "id": 164,
+      "text": "Slides 40, 72, 81-82；答案为根据本讲材料整理的 MCQ/短答复习骨架。"
+    },
+    {
+      "id": 165,
+      "text": "What is cross-cultural psychology and why is it important?"
+    },
+    {
+      "id": 166,
+      "text": "答题骨架：系统比较不同文化下的 psychological variables，检验 universality/cultural specificity，减少 WEIRD generalisation，并改进 culturally sensitive theory/practice。"
+    },
+    {
+      "id": 167,
+      "text": "Why test psychological theories cross-culturally?"
+    },
+    {
+      "id": 168,
+      "text": "答题骨架：同一 finding 可能依赖当地 values、norms、language、institutions 与 sampling；未经测试不能声称 universal human nature。"
+    },
+    {
+      "id": 169,
+      "text": "Do universal beliefs and behaviours exist?"
+    },
+    {
+      "id": 170,
+      "text": "答题骨架：存在 broad tendencies，如基本情绪识别与 reciprocity；但 expression、strength、meaning 与 triggers 可受文化影响。"
+    },
+    {
+      "id": 171,
+      "text": "Why do findings not always replicate across cultures?"
+    },
+    {
+      "id": 172,
+      "text": "答题骨架：真实 cultural moderation，也可能来自 translation、measurement equivalence、sampling、procedure 与 researcher bias。"
+    },
+    {
+      "id": 173,
+      "text": "Individualistic vs collectivistic cultures?"
+    },
+    {
+      "id": 174,
+      "text": "答题骨架：independent/personal goals/rights vs interdependent/group goals/obligations；是 continuum，不能套用到每个人。"
+    },
+    {
+      "id": 175,
+      "text": "Describe two Hofstede dimensions."
+    },
+    {
+      "id": 176,
+      "text": "答题骨架：先定义任意两维，再说 high/low pole；例如 PDI = 接受 unequal power，UAI = 依规则规划降低 ambiguity。"
+    },
+    {
+      "id": 177,
+      "text": "What is collective action?"
+    },
+    {
+      "id": 178,
+      "text": "答题骨架：群体成员为共同 social/political goal 采取的行动，如 protest、boycott、strike 或 movement。"
+    },
+    {
+      "id": 179,
+      "text": "What drives collective action?"
+    },
+    {
+      "id": 180,
+      "text": "答题骨架：perceived injustice、collective efficacy、social identity、group norms 与 emotions。"
+    },
+    {
+      "id": 181,
+      "text": "What helps a movement sustain support?"
+    },
+    {
+      "id": 182,
+      "text": "答题骨架：shared identity、belief change is possible、clear injustice frame、normative support、emotion/solidarity、resources 与 consistent messaging。"
+    },
+    {
+      "id": 183,
+      "text": "What are the crucial elements of SIMCA?"
+    },
+    {
+      "id": 184,
+      "text": "答题骨架：Identity、injustice、efficacy；identity 直接影响 action，也影响 injustice 与 efficacy。"
+    },
+    {
+      "id": 185,
+      "text": "Role of behavioural consistency?"
+    },
+    {
+      "id": 186,
+      "text": "答题骨架：diachronic + synchronic consistency 打断 majority norm、吸引注意、显示 commitment，并促使 deeper consideration。"
+    },
+    {
+      "id": 187,
+      "text": "What drives moral expansion?"
+    },
+    {
+      "id": 188,
+      "text": "答题骨架：compassion/empathy、target sentience/mind、cognitive framing、context、trust/inequality；区分 standing 与 inclusion。"
+    },
+    {
+      "id": 189,
+      "text": "What happens when collective action fails?"
+    },
+    {
+      "id": 190,
+      "text": "答题骨架：burnout、status quo、trust erosion，并可能从 conventional/normative 转向 disruptive/non-normative tactics。"
+    },
+    {
+      "id": 191,
+      "text": "EXAM STRATEGY  MCQ 先抓区分：universal vs culturally specific；country mean vs individual；normative vs non-normative；empathy vs compassion；moral standing vs inclusion；identity/injustice/efficacy 在 SIMCA 中的路径。"
+    },
+    {
+      "id": 192,
+      "text": "COURSE INFORMATION  课件说明 final exam 占 40%，其中 Social Psychology 约 10%、Developmental 15%、Personality 15%；all MCQ，且为 hurdle requirement；教授会提供 practice quiz。"
+    },
+    {
+      "id": 193,
+      "text": "Key-term glossary：考前触发词"
+    },
+    {
+      "id": 194,
+      "text": "Term | 最短定义\n\nCulture | 群体共享并代际传递的 values、beliefs、norms 与 practices。\n\nCross-cultural psychology | 系统比较不同文化条件下的 psychological variables。\n\nWEIRD | Western, Educated, Industrialised, Rich, Democratic samples。\n\nCultural specificity | effect 的形式或强度依赖 particular cultural context。\n\nAnalytic reasoning | 强调独立对象、rules 与 non-contradiction。\n\nHolistic reasoning | 强调 relationships、background 与整体 pattern。\n\nIndependent self | 把 self 体验为 autonomous/distinct。\n\nInterdependent self | 把 self 体验为 connected to relationships/groups。\n\nEcological fallacy | 用 group/country average 推断某个 individual。\n\nMeasurement equivalence | 量表在不同文化中是否测量同一 construct。\n\nCollective action | 群体为共同 social/political goal 采取行动。\n\nPerceived injustice | 主观体验到自己/群体受到 unfair treatment。\n\nCollective efficacy | 相信 group action 能带来 change。\n\nSIMCA | 以 social identity 整合 injustice、efficacy 与 collective action。\n\nMoral standing | 承认 target 值得 moral consideration。\n\nMoral inclusion | 把 target 纳入公平、保护与实际行动。\n\nCompassion | recognise suffering 并有 motivation to reduce it。\n\nDiachronic consistency | minority across time 保持立场。\n\nSynchronic consistency | minority members 之间保持 core position。"
+    },
+    {
+      "id": 196,
+      "text": "Slide map：回课件定位"
+    },
+    {
+      "id": 197,
+      "text": "Slides | Topic\n\n2-8 | Opening examples, culture, cross-cultural psychology definitions\n\n9-13 | WEIRD problem, universals, social beliefs, norms\n\n14-27 | Honour, emotions, reasoning, self-construal, climate ideology\n\n28-39 | Individualism-collectivism, Hofstede, WVS/EVS, challenges, decolonisation\n\n40 | Cross-cultural revision questions\n\n41-48 | Collective action introduction and historical cases\n\n49-57 | Drivers, normative/non-normative action, SIMCA\n\n58-65 | Moral expansion and Moral Expansiveness Scale\n\n66-71 | Minority consistency, failure and escalation\n\n72, 81-82 | Lecture 4 revision questions"
+    },
+    {
+      "id": 199,
+      "text": "Accuracy notes"
+    },
+    {
+      "id": 200,
+      "text": "Transcript 无时间戳但首尾完整；录屏 2:16:59，音视频连续，无容器断档或长段重复。"
+    },
+    {
+      "id": 201,
+      "text": "ASR 已校正：Hazel Rose Markus、Leung & Bond、Triandis、Hofstede、van Zomeren、SIMCA、Moscovici、Kierkegaard。"
+    },
+    {
+      "id": 202,
+      "text": "Slide typos 已静默修正：Kitayama、van Zomeren、central driving force、Long-term/Short-term orientation。"
+    },
+    {
+      "id": 203,
+      "text": "Night of Terror 的 transcript 年份 1913 已修正为 1917；1967 referendum 未被误写成授予 citizenship/voting rights。"
+    },
+    {
+      "id": 204,
+      "text": "Hofstede 与 MES country data 都是 group-level descriptive patterns；国家图不能转化为个人刻板印象。"
+    },
+    {
+      "id": 205,
+      "text": "课堂设备调试、休息、Unessay 行政问答、实时 poll 零碎回答、课程宣传与重复回顾已压缩。"
+    },
+    {
+      "id": 206,
+      "text": "FINAL MEMORY  Culture shapes the defaults of mind; identity tells people whose injustice matters; efficacy tells them whether change is possible; compassion expands who is protected; consistency helps minorities keep social conflict visible until norms move."
+    }
+  ],
+  "sourceText": "# Lecture 4\n\n\n\n\n[B0001] PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT\n\n[B0002] Lecture 4\n\n[B0003] Cross-Cultural Psychology & Collective Action\n\n[B0004] 跨文化心理学、集体行动与道德扩张：双语复习笔记\n\n[B0005] Dr Charlie Crimston  |  84-page slide deck  |  2:16:59 class recording\n\n[B0006] CORE IDEA  Culture shapes which psychological patterns appear normal, universal or adaptive; collective action shows the reverse direction too - people can organise through identity, injustice and efficacy to change the social structures that shape them.\n\n[B0007 FIGURE] Lecture 4 conceptual map\n\n[B0008] Lecture map：两个主题由 culture, identity, norms 与 social change 串联。\n\n[B0009] 阅读方法：蓝色为核心理论；金色 EXAM/EXAMPLE 为答题重点与理解案例；红色 CRITIQUE/ACCURACY 为研究局限或资料修正；绿色 APPLICATION 为现实应用。\n\n[B0010] 资料处理：术语、图表与数字以 PDF 为准；教授 transcript/recording 用于补充解释、案例和批判。所有额外通俗案例均明确标为“自拟”，不冒充课堂研究。\n\n## [B0012] 一页速记 | Lecture at a glance\n\n[B0013] 对应课件总览：slides 6, 40, 47, 72, 81-82；适合考前先背主干。\n\n[B0014] MEMORY CHAIN  WEIRD sampling → test universality → compare cultural patterns → avoid national stereotypes → injustice + efficacy + identity → collective action → moral expansion → consistent minorities can shift norms.\n\n\n[B0015 TABLE]\n\n主干 | 必须会说的一句话\n\nCross-cultural psychology | 系统比较不同 cultural conditions 下的心理变量，判断规律是 universal 还是 culturally specific。\n\nWEIRD problem | 研究样本高度集中于 Western, Educated, Industrialised, Rich, Democratic populations，因此 generalisation 可能失真。\n\nCulture | 共享 values, beliefs, norms and practices 会改变心理过程的表达、意义与默认倾向。\n\nIndividualism / collectivism | 关注 independent self 与 personal goals，或 interdependent self、group goals 与 obligations；它是 continuum，不是给个人贴标签。\n\nCollective action | 群体为共同社会或政治目标而行动，主要受 injustice、efficacy、identity/norms 与 emotion 推动。\n\nSIMCA | Social identity 直接影响行动，也影响我们如何体验 group-based injustice 与 collective efficacy。\n\nMoral expansion | 社会运动常扩大谁被承认为有 moral standing，并推动 active moral inclusion。\n\nMinority influence | 少数群体跨时间和内部保持一致，会打断多数规范、显示 commitment，并促使多数重新思考。\n\n\n\n[B0017] EXAM  选择题最常见陷阱：cultural average 不等于 every individual；non-normative 不等于 violent；social identity 在 SIMCA 中不是附加变量，而是组织模型的中心。\n\n## [B0019] Cross-cultural psychology：文化不是脚注\n\n[B0020] Slides 2-13；教授开场用 Kohlberg、attribution 与 self-enhancement 说明“局部发现不等于普遍真理”。\n\n## [B0021] 定义与研究问题\n\n[B0022] Culture 是群体共享并代际传递的 values、beliefs、norms、behaviours 与 traditions。它影响我们如何解释世界、表达情绪、理解 self，并与他人互动。\n\n[B0023] Cultural psychology 把文化视为心理形成与表达的基础。Hazel Rose Markus 的核心观点是：mind 的产物与人所属的 social communities 密不可分。\n\n[B0024] Cross-cultural psychology 则明确、系统地比较不同文化条件下的 psychological variables，以识别 behaviour 的 antecedents 与 mediating processes (Eckensberger, 1972)。\n\n[B0025] CORE DISTINCTION  一个结果不能跨文化复制，并不代表它“没价值”；它可能精确揭示某一文化情境。真正错误是未经检验就把局部结果默认成 universal human nature。\n\n## [B0026] 三个开场例子：为什么要跨文化检验？\n\n\n[B0027 TABLE]\n\n原本被当作普遍规律 | 跨文化观察 | 正确结论\n\nKohlberg moral development | 后期阶段强调 abstract justice/individual rights；部分文化更重视 duty、community 与 relational obligations。 | 所谓“最高阶段”可能包含 Western value assumptions。\n\nFundamental attribution error | 西方样本更常把插队/加塞归因于人格；一些 East Asian contexts 更常考虑 situation。 | 文化会改变 personality vs context 的默认权重。\n\nSelf-enhancement bias | 部分文化更少把自己评为 above average，更重视 humility、modesty 与 harmony。 | self-criticism 不应自动被诊断为 low self-esteem。\n\n\n\n[B0029] 理解案例（自拟）  若一款 wellbeing app 用“我比多数人优秀”衡量健康自尊，它可能把重视谦逊的使用者误判为低自尊。翻译正确，也不代表构念在不同文化中意义相同。\n\n## [B0030] WEIRD generalisability problem\n\n[B0031 FIGURE] WEIRD sampling imbalance\n\n[B0032] WEIRD sample imbalance：样本占比与全球人口结构严重不对称。\n\n[B0033] WEIRD = Western, Educated, Industrialised, Rich, Democratic。\n\n[B0034] 课件给出：WEIRD participants 最多约占 published literature 的 80%，但相关人口约占全球 12%。\n\n[B0035] Hruschka (2018) 的地图显示，2017 年 Psychological Science 研究地点中约 93% 集中在少数 Western/Anglophone regions。\n\n[B0036] 即使在 WEIRD societies 内，majority groups 也更常被研究；minority groups 和 researchers' own standpoints 仍可能缺席。\n\n[B0037] CRITIQUE  样本偏差不只影响代表性，也可能改变理论本身：研究者选择什么问题、如何定义健康/正常、以及使用什么量表，都可能携带文化假设。\n\n## [B0038] Universality and diversity：共同能力，不同表达\n\n[B0039] Slides 11-13；basic emotion recognition、reciprocity、incest taboo、supernatural beliefs 与 social axioms。\n\n[B0040] 人类可能共享某些 broad/near-universal tendencies，例如基本情绪面孔的识别、reciprocity、对 incest 的禁忌，以及广泛存在的 religious/supernatural beliefs。但“共同存在”不等于表达规则、重要性或触发条件完全相同。\n\n\n[B0041 TABLE]\n\nLeung & Bond social belief | 课件示例 | 最短理解\n\nSocial cynicism | Powerful people tend to exploit others. | 对权力与人性的负面预期。\n\nSocial complexity | Deal with matters according to circumstances. | 多种路径可能有效，需看情境。\n\nReward for application | One succeeds if one really tries. | 努力、计划与回报相连。\n\nSpirituality | Religious faith supports mental health. | 宗教/灵性具有社会与心理意义。\n\nFate control | Fate determines success and failure. | 结果受到命运或外在力量影响。\n\n\n\n[B0043] EXAM  可以同时成立：basic emotion recognition 相对普遍，但文化 display rules 决定 anger 应在何时、对谁、以多强的程度表达。\n\n## [B0044] Cultural patterns：规范如何改变情绪、推理与 self\n\n[B0045] Slides 14-27；重点研究：Cohen et al. (1996)、Cohen & Gunz (2002)、Hornsey et al. (2018)。\n\n## [B0046] Culture of Honour\n\n[B0047] 在 honour culture 中，小型冲突可能被理解成 reputation/status challenge；若不回应，可能被视为软弱。课件指出这种规范在 Latin America、Mediterranean 与 Southern US 某些地区更常见。\n\n## [B0048] Cohen et al. (1996): hallway insult study\n\n[B0049] Method / 方法：173 White male undergraduates (111 Northerners, 62 Southerners)。男性 confederate 在走廊撞到参与者并辱骂；比较 insult 与 control 后的 testosterone response。\n\n[B0050] Finding / 结果：Control 下两组都约 4.7-4.8；insult 后 Southern group 约升至 12.5，Northern group 约 5.2。\n\n[B0051] Meaning / 意义：相同 insult 在不同 reputation norms 中可能具有不同社会意义；culture 能调节威胁反应。\n\n[B0052] Critique / 局限：全为 White male students；testosterone 不是 anger/aggression 的纯指标；baseline 与地区混淆因素存在，讲师也提醒 replication 并非始终稳定。\n\n[B0053] 理解案例（自拟）  同一句“你根本不会做”在普通讨论中可能只是无礼；在重视公开 reputation 的群体中，它可能被体验为必须回应的身份挑战。\n\n## [B0054] Emotion expression and perception\n\n[B0055] Matsumoto et al. (2008)：文化 display rules 影响何时、何地、如何表达情绪。Western openness 与 Eastern suppression 只是总体趋势，不是个人规则。\n\n[B0056] Markus & Kitayama (1991)：Japanese sample 在 close relationships 中表达 anger 较不常见；American sample 较常见，可能反映 harmony 与 authenticity 的不同权重。\n\n## [B0057] Cohen & Gunz (2002): ambiguous faces\n\n[B0058] Method / 方法：诱发 shame、anger 或 sadness，再让 Western/Eastern participants 判断 ambiguous emotional faces。\n\n[B0059] Finding / 结果：Westerners 较偏 egocentric projection (把自己的情绪投射给对方；约 2.84 vs 2.67)；Easterners 较偏 relational projection (推测对方会如何回应自己；约 2.89 vs 2.72)。\n\n[B0060] Meaning / 意义：文化可改变我们读脸时以 self 为中心，还是以 relationship/context 为中心。\n\n[B0061] Critique / 局限：图中均值差异较小；样本标签是 broad cultural categories，不能推出所有成员都如此。\n\n## [B0062] Mental-health norms and help seeking\n\n[B0063] Stigma、face、family/religious frameworks、service access 与 healthcare system 都会影响人是否公开谈论 distress、向谁求助。教授反复强调：Australia/Japan 等比较只能描述 patterns；任何文化内部都有倡导者、回避者与群体差异。\n\n## [B0064] Analytic vs holistic reasoning\n\n\n[B0065 TABLE]\n\nAnalytic reasoning | Holistic reasoning\n\n把对象拆成相对独立的部分，强调 rules 与 non-contradiction。 | 看整体 pattern、relationships、background 与 competing forces。\n\n像突出一棵 tree，较少依赖 forest context。 | 先看 forest，再理解每棵 tree 如何互相连接。\n\n可能更容易把迟交归因于“这个人不负责”。 | 会同时检查 illness、family pressure、task design 与 group coordination。\n\n\n\n[B0067] 理解案例（自拟）  同学迟交 group assignment：analytic default 先看个人努力；holistic default 先问是否有家庭事件、分工问题或制度性障碍。两种思路都可能有用，区别在默认关注点。\n\n## [B0068] Independent vs interdependent self-construal\n\n\n[B0069 TABLE]\n\nIndividualistic tendency | Collectivistic tendency\n\nSelf 更 autonomous/distinct；personal goals 与 rights 更突出。 | Self 更 interdependent/connected；group goals、duties 与 harmony 更突出。\n\nPersonal attitudes/needs 可能更能预测行为。 | In-group norms 与 obligations 可能更能预测行为。\n\n较可能离开不满意的 group/relationship。 | 即使关系不愉快，也可能为 communal obligations 留下。\n\n“The squeaky wheel gets the grease.” | “The nail that stands out gets pounded down.”\n\n\n\n[B0071] DO NOT STEREOTYPE  Individualism-collectivism 是 continuum；同一国家内会随地区、阶级、族群、情境和个人而变。country-level average 推断个人会犯 ecological fallacy。\n\n## [B0072] Political ideology and climate belief\n\n## [B0073] Hornsey et al. (2018): 25-country comparison\n\n[B0074] Method / 方法：跨 25 国比较 left-right ideology 与 climate attitudes 的 association。\n\n[B0075] Finding / 结果：总体效应约 .09 [.04, .15]；United States .44 [.30, .57]，Australia .30 [.15, .45]；多国接近零，India 为 -.20 [-.37, -.04]。\n\n[B0076] Meaning / 意义：“Conservatism predicts climate scepticism”并非固定 universal law；local political discourse、identity 与 information ecosystem 会改变强度甚至方向。\n\n[B0077] Critique / 局限：跨国相关不能证明 ideology 单独造成 scepticism；country samples、political labels 与测量等价性仍需检查。\n\n## [B0078] Cross-cultural approaches：如何比较文化\n\n[B0079] Slides 28-39；Triandis、Hofstede、World Values Survey / European Values Study、decolonisation。\n\n## [B0080] Hofstede's six cultural dimensions\n\n\n[B0081 TABLE]\n\nDimension | High / one pole | Contrast / other pole\n\nPower distance (PDI) | 接受 unequal power 与 top-down authority。 | 偏好 consultative、more equal relations。\n\nIndividualism (IDV) | personal achievement/rights 与 autonomous self。 | loyalty to cohesive groups 与 interdependence。\n\nMasculinity (MAS) | competition、ambition、power。 | relationships、care、quality of life。\n\nUncertainty avoidance (UAI) | 以 rules、planning、caution 降低 ambiguity。 | 更能接受 change、fewer rules 与 uncertainty。\n\nLong-term orientation (LTO) | future-focused、pragmatic、persistent。 | tradition、current obligations、short-term focus。\n\nIndulgence (IVR) | 允许 enjoyment/gratification。 | 通过 norms/taboos 约束欲望。\n\n\n\n[B0083 FIGURE] Hofstede Australia and China comparison\n\n[B0084] Slide 33：Australia-China 六维 country scores；用于比较社会平均，不用于诊断个人。\n\n[B0085] 理解案例（自拟）  老师给完全开放的 assignment：high uncertainty-avoidance context 可能更强烈要求 rubric、范例和明确边界；low uncertainty-avoidance context 可能更愿意自由探索。\n\n[B0086] CRITIQUE  Hofstede 基于 IBM employees；国家不是 homogeneous unit。还要警惕 Western framing、translation/measurement equivalence、文化随时间变化，以及 national score 被误用为 individual personality。\n\n## [B0087] Large cross-national surveys\n\n[B0088] World Values Survey (WVS)：1981 开始，覆盖 100 多国，可追踪 democracy、minority tolerance、gender equality、religion、environment、identity 与 wellbeing。\n\n[B0089] European Values Study (EVS)：同样始于 1981，覆盖近 50 个欧洲国家，关注 social/political institutions 背后的 moral and social values。\n\n[B0090] Repeated waves 可观察 generation 与 time change；culture 不是永远固定的 national essence。\n\n[B0091] MEASUREMENT EQUIVALENCE（自拟）  问卷句子“I stand out from others”在一个文化可能表示 confidence，在另一个文化可能表示不合群。字面翻译正确，不等于量表测到同一 construct。\n\n## [B0092] 为什么重要，又为什么困难？\n\n\n[B0093 TABLE]\n\nResearch value | Ongoing challenge\n\n区分 universality 与 cultural specificity。 | Cultural bias 与 researcher standpoint。\n\n更完整理解 behaviour and cognition。 | Sampling、translation、measurement equivalence。\n\n挑战 Western assumptions。 | Power、representation、costs 与 time。\n\n支持 culturally sensitive practice。 | 同文化内部差异及 national stereotypes。\n\n\n\n[B0095] DECOLONISATION  不只是“多收几个 non-Western samples”。还要审视谁定义问题、谁拥有知识、研究是否把 minority communities 描绘成问题并责怪其处境，以及 Indigenous ways of knowing/being/doing 是否建立在 lived social and historical realities 上。\n\n## [B0097] Collective action：群体如何改变社会结构\n\n[B0098] Slides 41-57；由 prejudice reduction 转向 material relations 与 structural change。\n\n[B0099] Micro-level prejudice reduction 有时不够。如果 low status、disadvantage 与 inequality 嵌入真实 institutions 和 intergroup relations，就需要 political action、government reform 或 social movements 改变制度与资源关系。\n\n[B0100] DEFINITION  Collective action = activities undertaken by a group of individuals aimed at achieving a common goal，通常与 social or political change 相连；包括 protest、boycott、strike 与 social movement。\n\n## [B0101] 历史案例：symbolic change 与 material change\n\n\n[B0102 TABLE]\n\nCase | What it illustrates | Accuracy / interpretation\n\nWomen's suffrage | 长期 protest、hunger strike、lobbying 与 civil disobedience 改变 voting norms。 | Night of Terror 发生于 1917；transcript 口头说 1913，笔记按历史年份修正。\n\nStonewall, 1969 | Police raid 后的 resistance 成为 LGBTQ+ identity 与 mobilisation 的重要转折点。 | 并非一夜改变法律；movement-building 与后续组织才关键。\n\n1967 Australian referendum | First Nations-led campaigns 获近 91% Yes，改变两项 discriminatory constitutional provisions。 | 并非授予 citizenship 或 voting rights；symbolic/legal change 不自动等于 material equality。\n\n\n\n## [B0104] 五类驱动力\n\n\n[B0105 TABLE]\n\nDriver | Question inside the group | Mechanism\n\nPerceived injustice | Is this unfair or morally wrong? | moral outrage、moral conviction 与 relative deprivation 提供行动理由。\n\nCollective efficacy | Can we make a difference together? | shared belief in change 增强 empowerment，并帮助 movement sustain。\n\nSocial identity | Is this happening to us? | 把个人遭遇变成 group-based grievance，并连接共同目标。\n\nGroup norms | Do people like us take action? | 行动若被体验为 our norm，更容易参与；行动本身也可形成新规范。\n\nEmotion | What do we feel together? | anger、pride、grief 等可 spark action，也维持 solidarity。\n\n\n\n[B0107] 理解案例（自拟）  两栋相同宿舍只有一栋突然涨租：比较产生 relative deprivation；若学生相信上次联署成功过，collective efficacy 上升；“我们住户”身份、同伴参与规范与愤怒共同推动行动。\n\n## [B0108] Normative vs non-normative action\n\n\n[B0109 TABLE]\n\nNormative action | Non-normative action\n\n符合当时法律/社会规范：petition、lawful march、legal strike。 | 偏离主流规则且更 disruptive：civil disobedience、occupation、blockade、riot。\n\n通常被视为 legitimate/acceptable。 | 可能 illegal 或 controversial，但不等于必然 violent。\n\n在 institutional channels 内施压。 | 常在 conventional methods 被视为无效时出现。\n\n\n\n[B0111] CONTEXT MATTERS  同一 tactic 在社会整体看来可能 non-normative，但在 union 或 climate movement 内部已成为 group norm。分类取决于参照规范与历史情境。\n\n## [B0112] SIMCA：Social Identity Model of Collective Action\n\n[B0113] Slides 54-56；van Zomeren, Postmes & Spears (2008)。\n\n[B0114 FIGURE] SIMCA path model\n\n[B0115] SIMCA：identity 直接推动行动，并组织 injustice 与 efficacy 两条路径。\n\n[B0116] Identity → Injustice (.26)：以“we”理解事件，增强 group-based injustice。\n\n[B0117] Identity → Efficacy (.19)：更相信 in-group 有共同能力。\n\n[B0118] Identity → Collective action (.21)：身份本身也直接预测行动。\n\n[B0119] Injustice / Efficacy → Action (.28 each)：不公提供 reason，效能提供 possibility。\n\n[B0120] EXAM  不要只背三个 predictor。高分答案要说 identity 是 organising centre：它决定“不公发生在谁身上”，也影响“我们能不能改变”。\n\n[B0121] 理解案例（自拟）  校园取消无障碍接驳车：学生认同“公平通行的校园共同体”(identity)，认为决定不公 (injustice)，又相信联名能改政策 (efficacy)，因此参与 collective action。\n\n[B0122] EVIDENCE CAUTION  模型系数来自综合证据，表示 variables co-vary 的平均路径；不要把每项纳入研究都说成实验，也不要把 association 自动写成单一因果。\n\n## [B0123] Moral expansion：社会改变是为了谁？\n\n[B0124] Slides 58-65；Crimston, Bain, Hornsey & Bastian (2016) Moral Expansiveness Scale。\n\n[B0125] Social movements 不只改变政策，也会改变 moral circle：哪些 people、groups、animals 或 parts of nature 被视为值得 rights、protection 与 compassion。历史上的 moral boundaries 并非固定；activism、empathy 与 shifting norms 可以把曾被排除的 targets 纳入。\n\n[B0126 FIGURE] Moral expansion concentric-circle concept\n\n[B0127] Moral circle：越靠中心代表越高 moral concern；图示为概念结构，不是固定道德等级。\n\n## [B0128] Moral standing vs active moral inclusion\n\n\n[B0129 TABLE]\n\nConcept | Meaning | 理解案例（自拟）\n\nMoral standing | 承认对象值得 moral consideration。 | 承认流浪动物会受苦，也值得被关心。\n\nMoral inclusion | 真正纳入公平对待、保护和为其受害而行动。 | 支持 rescue、desexing、adoption 或反虐待政策。\n\n\n\n## [B0131] Moral Expansiveness Scale (MES)\n\n[B0132] 参与者把多种 targets 放进 concentric circles：highest、moderate、minimal concern，或 moral boundary 之外。\n\n[B0133] Targets 包括 family/friends、in-group、revered/stigmatised groups、outgroups、animals、environment、plants 与 villains。\n\n[B0134] Slide 62 的 Western pattern 常把 family/friends 放中心；向外依次出现 groups、animals/environment/plants；villains 可能被排除。它只是 average pattern。\n\n## [B0135] 什么会扩大或收窄 moral boundaries？\n\n\n[B0136 TABLE]\n\nFactor | How it works\n\nIndividual differences | empathy 与 compassion 的个人差异。\n\nTarget attributes | 是否被认为有 mind、sentience、pain 与 moral relevance。\n\nCognitive framing | 任务要求 inclusion 还是 exclusion，会改变总体 concern。\n\nContextual factors | competition、conflict、resource scarcity 与 social trust。\n\n\n\n[B0138] COMPASSION ≠ EMPATHY  Empathy 是感受到/理解他人的情绪；compassion 还包含 recognising suffering + motivation to reduce it。正是“想减轻痛苦”的行动倾向，使 compassion 更强地关联 moral expansion。\n\n[B0139] 理解案例（自拟）  看到同学焦虑，自己也难受是 empathy；陪他联系 counselling、替他寻找支持资源，才体现 compassion 的 action motivation。\n\n[B0140] Fears of compassion 指担心关心陌生人会让自己被利用，因此可能收窄 moral community。跨约 40 个文化样本的课件图把 French Canadian sample 排在较高端、Japan 较低端；图缺少逐项来源与精确数值，不能把排名解释成固定 national character。\n\n[B0141] SOCIETAL PATTERN  教授强调的解释链是 inequality → lower social trust → narrower moral boundaries。该跨国关系应理解为 societal association / proposed mechanism，而不是对每个个人的确定因果。\n\n## [B0142] Minority influence：少数如何推动规范改变\n\n[B0143] Slides 66-68；Moscovici's genetic model 与 behavioural consistency。\n\n[B0144] Moscovici 认为 influence 不是 majority 单向施加给 minority。少数群体可以通过制造、强化或指出 unresolved conflict，迫使多数注意 alternative point of view。成功关键不是人数，而是 behavioural style。\n\n[B0145 FIGURE] Minority consistency mechanism\n\n[B0146] Consistent minority：diachronic + synchronic consistency 增强注意、commitment 与潜在 norm change。\n\n\n[B0147 TABLE]\n\nConsistency | Definition | Why it matters\n\nDiachronic | 同一 minority across time 保持清晰立场。 | 显示不是短暂情绪或机会性诉求。\n\nSynchronic | minority members 之间保持 core position 一致。 | 显示 shared commitment，并减少多数用“他们自己都不同意”来忽略议题。\n\n\n\n## [B0149] 一致 minority 的五个效果\n\n[B0150] disrupts the majority norm；\n\n[B0151] draws attention to the minority as an entity；\n\n[B0152] draws attention to an alternative point of view；\n\n[B0153] demonstrates certainty and commitment；\n\n[B0154] 使 adoption of the minority view 看起来成为解决 conflict 的路径。\n\n[B0155] 理解案例（自拟）  少数学生连续几个学期提出同一核心要求 - 所有教学楼必须提供无障碍入口 - 且成员对核心目标一致，比每周更换诉求更容易让校方认真处理。\n\n[B0156] NUANCE  Consistency 不等于成员永远不能讨论或修正细节；它指核心 position 清晰且稳定。过度 rigidity 也可能被视为 unreasonable，因此现实影响还取决于 flexibility 与 context。\n\n## [B0157] When collective action fails - or just takes time\n\n[B0158] Slides 69-71；failure consequences 与 normative/non-normative strategy shift。\n\n\n[B0159 TABLE]\n\nPotential consequence | Psychological/social meaning\n\nBurnout and demoralisation | activists 精疲力竭，未来参与意愿下降，边缘群体承担更高 emotional load。\n\nUpholding the status quo | 原有 inequality 与 power structures 延续，下一次挑战看起来更困难。\n\nErosion of trust | 对 institutions、allies 与 meaningful change 的信念下降，collective efficacy 难以重建。\n\nEscalation | 若 peaceful/institutional channels 被视为无效，部分成员可能转向 disruptive、non-normative tactics。\n\n\n\n[B0161] DO NOT OVERCLAIM  失败可能改变 tactics，但不会必然导致 violence。Civil disobedience、sit-in 与 blockade 可是 non-normative yet non-violent；运动也可能休整、重组或在更长时间尺度上成功。\n\n[B0162] 理解案例（自拟）  多次合法申诉被拒后，一部分成员 burnout 退出，另一部分改为 sit-in；同时对学校制度的 trust 下降。这个例子展示可能路径，不是自动因果链。\n\n## [B0163] Revision questions：原课件题目与答题骨架\n\n[B0164] Slides 40, 72, 81-82；答案为根据本讲材料整理的 MCQ/短答复习骨架。\n\n[B0165] What is cross-cultural psychology and why is it important?\n\n[B0166] 答题骨架：系统比较不同文化下的 psychological variables，检验 universality/cultural specificity，减少 WEIRD generalisation，并改进 culturally sensitive theory/practice。\n\n[B0167] Why test psychological theories cross-culturally?\n\n[B0168] 答题骨架：同一 finding 可能依赖当地 values、norms、language、institutions 与 sampling；未经测试不能声称 universal human nature。\n\n[B0169] Do universal beliefs and behaviours exist?\n\n[B0170] 答题骨架：存在 broad tendencies，如基本情绪识别与 reciprocity；但 expression、strength、meaning 与 triggers 可受文化影响。\n\n[B0171] Why do findings not always replicate across cultures?\n\n[B0172] 答题骨架：真实 cultural moderation，也可能来自 translation、measurement equivalence、sampling、procedure 与 researcher bias。\n\n[B0173] Individualistic vs collectivistic cultures?\n\n[B0174] 答题骨架：independent/personal goals/rights vs interdependent/group goals/obligations；是 continuum，不能套用到每个人。\n\n[B0175] Describe two Hofstede dimensions.\n\n[B0176] 答题骨架：先定义任意两维，再说 high/low pole；例如 PDI = 接受 unequal power，UAI = 依规则规划降低 ambiguity。\n\n[B0177] What is collective action?\n\n[B0178] 答题骨架：群体成员为共同 social/political goal 采取的行动，如 protest、boycott、strike 或 movement。\n\n[B0179] What drives collective action?\n\n[B0180] 答题骨架：perceived injustice、collective efficacy、social identity、group norms 与 emotions。\n\n[B0181] What helps a movement sustain support?\n\n[B0182] 答题骨架：shared identity、belief change is possible、clear injustice frame、normative support、emotion/solidarity、resources 与 consistent messaging。\n\n[B0183] What are the crucial elements of SIMCA?\n\n[B0184] 答题骨架：Identity、injustice、efficacy；identity 直接影响 action，也影响 injustice 与 efficacy。\n\n[B0185] Role of behavioural consistency?\n\n[B0186] 答题骨架：diachronic + synchronic consistency 打断 majority norm、吸引注意、显示 commitment，并促使 deeper consideration。\n\n[B0187] What drives moral expansion?\n\n[B0188] 答题骨架：compassion/empathy、target sentience/mind、cognitive framing、context、trust/inequality；区分 standing 与 inclusion。\n\n[B0189] What happens when collective action fails?\n\n[B0190] 答题骨架：burnout、status quo、trust erosion，并可能从 conventional/normative 转向 disruptive/non-normative tactics。\n\n[B0191] EXAM STRATEGY  MCQ 先抓区分：universal vs culturally specific；country mean vs individual；normative vs non-normative；empathy vs compassion；moral standing vs inclusion；identity/injustice/efficacy 在 SIMCA 中的路径。\n\n[B0192] COURSE INFORMATION  课件说明 final exam 占 40%，其中 Social Psychology 约 10%、Developmental 15%、Personality 15%；all MCQ，且为 hurdle requirement；教授会提供 practice quiz。\n\n## [B0193] Key-term glossary：考前触发词\n\n\n[B0194 TABLE]\n\nTerm | 最短定义\n\nCulture | 群体共享并代际传递的 values、beliefs、norms 与 practices。\n\nCross-cultural psychology | 系统比较不同文化条件下的 psychological variables。\n\nWEIRD | Western, Educated, Industrialised, Rich, Democratic samples。\n\nCultural specificity | effect 的形式或强度依赖 particular cultural context。\n\nAnalytic reasoning | 强调独立对象、rules 与 non-contradiction。\n\nHolistic reasoning | 强调 relationships、background 与整体 pattern。\n\nIndependent self | 把 self 体验为 autonomous/distinct。\n\nInterdependent self | 把 self 体验为 connected to relationships/groups。\n\nEcological fallacy | 用 group/country average 推断某个 individual。\n\nMeasurement equivalence | 量表在不同文化中是否测量同一 construct。\n\nCollective action | 群体为共同 social/political goal 采取行动。\n\nPerceived injustice | 主观体验到自己/群体受到 unfair treatment。\n\nCollective efficacy | 相信 group action 能带来 change。\n\nSIMCA | 以 social identity 整合 injustice、efficacy 与 collective action。\n\nMoral standing | 承认 target 值得 moral consideration。\n\nMoral inclusion | 把 target 纳入公平、保护与实际行动。\n\nCompassion | recognise suffering 并有 motivation to reduce it。\n\nDiachronic consistency | minority across time 保持立场。\n\nSynchronic consistency | minority members 之间保持 core position。\n\n\n\n## [B0196] Slide map：回课件定位\n\n\n[B0197 TABLE]\n\nSlides | Topic\n\n2-8 | Opening examples, culture, cross-cultural psychology definitions\n\n9-13 | WEIRD problem, universals, social beliefs, norms\n\n14-27 | Honour, emotions, reasoning, self-construal, climate ideology\n\n28-39 | Individualism-collectivism, Hofstede, WVS/EVS, challenges, decolonisation\n\n40 | Cross-cultural revision questions\n\n41-48 | Collective action introduction and historical cases\n\n49-57 | Drivers, normative/non-normative action, SIMCA\n\n58-65 | Moral expansion and Moral Expansiveness Scale\n\n66-71 | Minority consistency, failure and escalation\n\n72, 81-82 | Lecture 4 revision questions\n\n\n\n## [B0199] Accuracy notes\n\n[B0200] Transcript 无时间戳但首尾完整；录屏 2:16:59，音视频连续，无容器断档或长段重复。\n\n[B0201] ASR 已校正：Hazel Rose Markus、Leung & Bond、Triandis、Hofstede、van Zomeren、SIMCA、Moscovici、Kierkegaard。\n\n[B0202] Slide typos 已静默修正：Kitayama、van Zomeren、central driving force、Long-term/Short-term orientation。\n\n[B0203] Night of Terror 的 transcript 年份 1913 已修正为 1917；1967 referendum 未被误写成授予 citizenship/voting rights。\n\n[B0204] Hofstede 与 MES country data 都是 group-level descriptive patterns；国家图不能转化为个人刻板印象。\n\n[B0205] 课堂设备调试、休息、Unessay 行政问答、实时 poll 零碎回答、课程宣传与重复回顾已压缩。\n\n[B0206] FINAL MEMORY  Culture shapes the defaults of mind; identity tells people whose injustice matters; efficacy tells them whether change is possible; compassion expands who is protected; consistency helps minorities keep social conflict visible until norms move.",
+  "sourceHash": "34710c5c8617138fe091279923f1b38da4dff01766e2b3c3f49672e013212dd0"
+}

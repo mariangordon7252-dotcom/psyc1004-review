@@ -1,0 +1,1777 @@
+{
+  "id": 1,
+  "title": "社会心理学导论与社会影响",
+  "subtitle": "Introduction to Social Psychology & Social Influence",
+  "summary": "先看人在什么情境中行动，再区分规范形成、从众和服从，以及身份与领导的作用。记经典实验时，不只背结论和数字，还要记住研究了谁、做了什么、数字怎么算，以及方法和伦理上的问题。",
+  "concepts": [
+    {
+      "id": "L1-C01",
+      "title": "在情境中理解人",
+      "english": "Psychology in context",
+      "oneLine": "心理学研究心理过程与行为，并追问哪些人在什么情境中这样做。",
+      "analogy": "像比较同一款游戏在不同地图里的表现，不能只看玩家属性。",
+      "simpleExample": "自拟例：平时健谈的同学在陌生面试中变得安静。",
+      "explanation": "心理学用科学方法研究人如何思考、感受和行动。理解一个行为，既要看这个人的特点，也要看社会环境、发展经历、人格和历史文化背景。因此，社会、发展和人格心理学常常需要一起考虑。",
+      "example": "自拟例：平时健谈的同学在陌生面试中变得安静。",
+      "pitfall": "不要把特定群体在特定环境的反应直接写成全人类规律。",
+      "source": "L1 · Branch 1：Psychology in Context · [B0013–B0014]",
+      "front": "看到“人都会这样做”时，首先要补问什么？",
+      "back": "哪些人？在什么情境中？",
+      "cardBack": "哪些人？在什么情境中？"
+    },
+    {
+      "id": "L1-C02",
+      "title": "社会心理学与他人存在",
+      "english": "Social psychology; actual, imagined and implied presence",
+      "oneLine": "他人实际、想象或隐含的存在都可能影响思想、感受和行为。",
+      "analogy": "像观众不在现场，但你仍会根据想象中的评价调整演出。",
+      "simpleExample": "自拟例：独自在家写帖子时，想到同学可能看到，便改了措辞。",
+      "explanation": "社会心理学研究他人和社会情境怎样影响我们。按 Allport 的定义，别人不必真的站在旁边；只要想到别人可能怎样评价自己，就可能改变想法、感受或行为。",
+      "example": "自拟例：独自在家写帖子时，想到同学可能看到，便改了措辞。",
+      "pitfall": "房间里没有别人，不等于没有社会影响。",
+      "source": "L1 · Branch 2：What Is Social Psychology? · [B0016–B0017]",
+      "front": "没有人在场时，行为还能受社会影响吗？为什么？",
+      "back": "可以；想象或隐含的他人存在也能产生影响。",
+      "cardBack": "可以；想象或隐含的他人存在也能产生影响。"
+    },
+    {
+      "id": "L1-C03",
+      "title": "社会心理学的分析层级",
+      "english": "Levels of analysis",
+      "oneLine": "看社会心理问题时，可以看两个人、人与群体、群体之间，也可以看社会制度与个人。",
+      "analogy": "像看地图，可以放大到两个人，也可以缩小到制度与文化。",
+      "simpleExample": "自拟例：解释校园排斥，可以看两人的互动，也可以看社团规范和学校制度。",
+      "explanation": "分析层级就是：这次研究主要看哪一种关系？说服看人与人的互动，社会比较看自己与别人，归属感看个人与群体，偏见看群体之间，制度和不平等则看社会怎样影响个人。",
+      "example": "自拟例：解释校园排斥，可以看两人的互动，也可以看社团规范和学校制度。",
+      "pitfall": "不能把所有社会问题只归因于个人性格。",
+      "source": "L1 · Social Psychology at Different Levels · [B0018–B0018]",
+      "front": "研究制度如何影响个人机会，主要属于哪个分析层级？",
+      "back": "社会与个体；也可以与其他层级结合分析。",
+      "cardBack": "社会与个体；也可以与其他层级结合分析。"
+    },
+    {
+      "id": "L1-C04",
+      "title": "他人在场与社会促进",
+      "english": "Social facilitation; Triplett",
+      "oneLine": "他人在场可以改变任务表现，不保证所有任务表现都会提高。",
+      "analogy": "像有人在旁边跑步，可能让你跑得更快，却不代表所有任务都会做得更好。",
+      "simpleExample": "自拟例：和朋友一起练熟悉的绕绳动作时更快，但首次练复杂动作未必如此。",
+      "explanation": "Triplett 先观察骑车表现，再让儿童独自或两人同时卷动钓鱼线轴。两人同时做时，这个简单任务通常完成得更快。这说明他人在场能影响表现，但不能推出所有任务都会因此做得更好。",
+      "example": "自拟例：和朋友一起练熟悉的绕绳动作时更快，但首次练复杂动作未必如此。",
+      "pitfall": "不要把简单任务中的改善推广成“有人在场必然更好”。",
+      "source": "L1 · Triplett, 1898：First Social Psychology Experiment · [B0020–B0020]",
+      "front": "Triplett 研究最稳妥的结论是什么？",
+      "back": "他人在场能影响表现；在这项简单卷线任务中，两人同时做通常更快。不能推到所有任务。",
+      "cardBack": "他人在场能影响表现；在这项简单卷线任务中，两人同时做通常更快。不能推到所有任务。"
+    },
+    {
+      "id": "L1-C05",
+      "title": "群体身份随情境变化",
+      "english": "Context-dependent group identity",
+      "oneLine": "群体不只是站在一起的人，也涉及共同的“我们”。",
+      "analogy": "像同一个人切换学校、专业和游戏公会的身份标签。",
+      "simpleExample": "自拟例：跨校比赛时，两名不同专业的学生把彼此看作同校队友。",
+      "explanation": "同一批人在课堂里会觉得“我们是这门课的学生”，到了校际比赛又会觉得“我们属于同一所大学”。情境会让某个共同身份变得更重要。形成群体不仅是待在一起，还要有共同归属感。",
+      "example": "自拟例：跨校比赛时，两名不同专业的学生把彼此看作同校队友。",
+      "pitfall": "物理上靠近不等于心理上认同同一个群体。",
+      "source": "L1 · What is a group? 什么是群体？ · [B0020–B0020]",
+      "front": "为什么同一批人在不同场合会形成不同的“我们”？",
+      "back": "不同场合会让不同身份更重要。只要大家有共同归属感，就可能形成新的“我们”。",
+      "cardBack": "不同场合会让不同身份更重要。只要大家有共同归属感，就可能形成新的“我们”。"
+    },
+    {
+      "id": "L1-C06",
+      "title": "科学种族主义与测量偏差",
+      "english": "Scientific racism; experimenter bias",
+      "oneLine": "研究者、测验与社会制度可能把不平等误解释为群体的先天缺陷。",
+      "analogy": "像用只为一种语言设计的试卷比较能力，却忽略另一组不熟悉该语言。",
+      "simpleExample": "自拟例：用某城市的生活常识题比较不同地区学生，再把差异解释成天生能力。",
+      "explanation": "科学方法也可能被偏见误用。Galton 对相关和回归有贡献，却也推广了有害的优生学；Garrett 曾用种族 IQ 说法支持隔离。Bond 提醒：研究者的偏见和测验标准会影响结论，不能忽略教育与社会环境。",
+      "example": "自拟例：用某城市的生活常识题比较不同地区学生，再把差异解释成天生能力。",
+      "pitfall": "有科学术语或统计方法，不等于解释没有社会偏见。",
+      "source": "L1 · 心理学历史的批判性反思 · [B0022–B0026]",
+      "front": "Bond 对群体智力比较提出了哪些警告？",
+      "back": "实验者、测验设计和已有偏见都可能影响数据与解释。",
+      "cardBack": "实验者、测验设计和已有偏见都可能影响数据与解释。"
+    },
+    {
+      "id": "L1-C07",
+      "title": "可重复性危机与可疑做法",
+      "english": "Replication crisis; questionable research practices",
+      "oneLine": "只报告成功结果，或看完结果才提出假设，会让发现看起来比实际更可靠。",
+      "analogy": "像只展示游戏里五次尝试中的两次胜利，让胜率显得很高。",
+      "simpleExample": "自拟例：做了五个实验，只发表两个显著结果，隐藏三个未显著结果。",
+      "explanation": "有些经典效应在更大、更严格的重复研究中没有再次出现。如果研究者看完结果才提出假设，或只发表显著结果、隐藏未显著结果，读者就容易高估这些发现的可靠性。",
+      "example": "自拟例：做了五个实验，只发表两个显著结果，隐藏三个未显著结果。",
+      "pitfall": "没有重复出来不等于所有心理学都无效；也不能只看已发表的显著结果。",
+      "source": "L1 · Replication Crisis 可重复性危机 · [B0026–B0026]",
+      "front": "隐藏未显著结果会怎样扭曲证据？",
+      "back": "读者只看到支持效应的结果，看不到失败的尝试，因此容易以为这个发现很可靠。",
+      "cardBack": "读者只看到支持效应的结果，看不到失败的尝试，因此容易以为这个发现很可靠。"
+    },
+    {
+      "id": "L1-C08",
+      "title": "开放科学",
+      "english": "Open science; preregistration; registered reports; data sharing",
+      "oneLine": "开放科学通过提前说明计划和共享证据提高研究透明度。",
+      "analogy": "像比赛开始前公开规则，结束后保留可检查的比赛记录。",
+      "simpleExample": "自拟例：研究者在收集问卷前登记假设和分析计划，之后共享去标识数据。",
+      "explanation": "预注册和注册报告先公开研究计划，让别人知道研究原本打算怎么做。收集数据后再共享数据，方便别人检查和重复研究。这些做法让研究更透明，但不保证结论一定正确。",
+      "example": "自拟例：研究者在收集问卷前登记假设和分析计划，之后共享去标识数据。",
+      "pitfall": "开放科学不是“预注册之后结论必然正确”。",
+      "source": "L1 · Open Science 开放科学改革 · [B0026–B0026]",
+      "front": "开放科学的目标是什么，而不是什么？",
+      "back": "提高透明度、可检查性和可重复性；不是保证每项研究都正确。",
+      "cardBack": "提高透明度、可检查性和可重复性；不是保证每项研究都正确。"
+    },
+    {
+      "id": "L1-C09",
+      "title": "中立观察者迷思与双重人物模型",
+      "english": "Myth of the neutral observer; dual model of persons",
+      "oneLine": "研究者同样处于社会情境，不能假设只有参与者身份会影响研究。",
+      "analogy": "像裁判也会带着经验和视角，必须检查判罚而非假定天然无偏。",
+      "simpleExample": "自拟例：研究者认为某群体身份影响受试者认知，却把自己的背景当作无关因素。",
+      "explanation": "研究者也有自己的历史、地理、文化和群体背景，这些背景会影响问什么、怎么测、怎么解释。双重人物模型批评的是：只承认参与者受背景影响，却把研究者当成天然中立的人。",
+      "example": "自拟例：研究者认为某群体身份影响受试者认知，却把自己的背景当作无关因素。",
+      "pitfall": "反思研究者偏差不等于否定科学；好的科学应主动检查偏差。",
+      "source": "L1 · 心理学历史的批判性反思 · [B0022–B0027]",
+      "front": "“研究者天然中立”的问题在哪里？",
+      "back": "研究者的背景也可能影响研究设计与解释，应主动检查偏差。",
+      "cardBack": "研究者的背景也可能影响研究设计与解释，应主动检查偏差。"
+    },
+    {
+      "id": "L1-C10",
+      "title": "WEIRD 样本与推广",
+      "english": "WEIRD samples; generalisability",
+      "oneLine": "大样本若社会背景狭窄，仍不能自动代表全人类。",
+      "analogy": "像收集一万名同校学生意见，人数多却没有覆盖所有社区。",
+      "simpleExample": "自拟例：用富裕国家大学生的购物偏好推断所有人的选择。",
+      "explanation": "WEIRD 指 Western、Educated、Industrialised、Rich、Democratic。这类背景的人在心理学研究中占比过高。即使参与者很多，如果背景都差不多，也不能直接用他们代表其他人群。",
+      "example": "自拟例：用富裕国家大学生的购物偏好推断所有人的选择。",
+      "pitfall": "样本量与样本代表性是不同问题。",
+      "source": "L1 · WEIRD Samples WEIRD样本偏差 · [B0027–B0027]",
+      "front": "为什么大量 WEIRD 参与者仍可能限制推广？",
+      "back": "人数多不等于人群覆盖广。大量相似背景的参与者仍可能无法代表其他人群。",
+      "cardBack": "人数多不等于人群覆盖广。大量相似背景的参与者仍可能无法代表其他人群。"
+    },
+    {
+      "id": "L1-C11",
+      "title": "社会影响与社会规范",
+      "english": "Social influence; social norms",
+      "oneLine": "规范是群体成员相互影响后形成的共同标准。",
+      "analogy": "像社团成员逐渐约定会议怎么发言，而非每个人独立写下同一规则。",
+      "simpleExample": "自拟例：新同学观察大家排队并讨论秩序，逐渐接受排队为应当遵守的规则。",
+      "explanation": "群体成员会互相影响，一起讨论、接受或争论什么做法合适，规范也就在这个过程中形成和改变。规范既可以说“大家通常怎么做”，也可以说“大家应该怎么做”，并反映群体认可的价值。",
+      "example": "自拟例：新同学观察大家排队并讨论秩序，逐渐接受排队为应当遵守的规则。",
+      "pitfall": "规范不只是出现次数多的行为，还可能包含价值和义务。",
+      "source": "L1 · 社会影响与社会规范 · [B0029–B0029]",
+      "front": "社会规范为什么不只是“大家经常这样做”？",
+      "back": "规范不只描述常见行为，还可能表达群体认可什么、认为大家应该做什么。",
+      "cardBack": "规范不只描述常见行为，还可能表达群体认可什么、认为大家应该做什么。"
+    },
+    {
+      "id": "L1-C12",
+      "title": "Sherif：模糊判断与规范内化",
+      "english": "Sherif autokinetic studies; internalisation",
+      "oneLine": "答案不清楚时，人们可能形成共同判断；离开群体后，仍沿用这个标准。",
+      "analogy": "像没有标准答案时，大家讨论后建立一把共同的尺子。",
+      "simpleExample": "自拟例：新社团不知道合适的活动时长，讨论后定为一小时，成员独自计划时也沿用。",
+      "explanation": "黑暗中没有参照物，静止光点会看起来在移动。参与者先独自估计移动距离，再一起判断，最后又独自判断。他们的答案逐渐接近，而且独自作答时仍沿用共同标准，说明群体形成的规范可以被个人接受。",
+      "example": "自拟例：新社团不知道合适的活动时长，讨论后定为一小时，成员独自计划时也沿用。",
+      "pitfall": "光点没有真的移动；模糊任务的发现不直接回答清楚答案时的从众。",
+      "source": "L1 · Sherif自动运动效应研究 · [B0033–B0035]",
+      "front": "Sherif 的独自—群体—再独自流程说明什么？",
+      "back": "答案不清楚时，群体会形成共同标准；后来独自判断仍沿用它，说明规范可能被内化。",
+      "cardBack": "答案不清楚时，群体会形成共同标准；后来独自判断仍沿用它，说明规范可能被内化。"
+    },
+    {
+      "id": "L1-C13",
+      "title": "Asch：清楚答案与不同分母",
+      "english": "Asch line-judgement studies",
+      "oneLine": "75% 至少从众一次，不等于 75% 的回答都从众。",
+      "analogy": "像统计“有多少人至少迟到一次”与“全部上课中多少次迟到”不同。",
+      "simpleExample": "自拟例：一位学生十次判断只跟随群体错一次，仍属于至少从众一次的人。",
+      "explanation": "线段题的正确答案很明显，但同谋都故意答错。75% 的参与者至少有一次跟着答错；如果改为统计所有关键试次的回答，约 37% 从众，约 63% 没有从众。两个数字统计的不是同一件事。",
+      "example": "自拟例：一位学生十次判断只跟随群体错一次，仍属于至少从众一次的人。",
+      "pitfall": "参与者比例与回答比例不能混用；结果不支持“多数人在多数时候都从众”。",
+      "source": "L1 · Asch线段判断研究 · [B0037–B0037]",
+      "front": "Asch 的 75% 与 37% 分别统计什么？",
+      "back": "75% 是至少一次从众的参与者比例；37% 是关键试次从众回答比例。",
+      "cardBack": "75% 是至少一次从众的参与者比例；37% 是关键试次从众回答比例。"
+    },
+    {
+      "id": "L1-C14",
+      "title": "增加从众的条件",
+      "english": "Conditions increasing conformity",
+      "oneLine": "一致、公开和重视该群体等条件可增强从众压力。",
+      "analogy": "像当所有喜欢的队友公开坚持同一意见时，更难说出不同看法。",
+      "simpleExample": "自拟例：新成员想被社团接纳，在公开举手时更容易跟随一致意见。",
+      "explanation": "群体较大、成员意见一致，或你敬佩这个群体、很想加入时，都可能更容易从众。公开回答和支持群体规范的文化也可能增加压力。但这些因素只是增加可能性，不保证每个人都会从众。",
+      "example": "自拟例：新成员想被社团接纳，在公开举手时更容易跟随一致意见。",
+      "pitfall": "群体人数增加，不代表从众压力会一直按同样幅度增加；文化也不能决定每个人的反应。",
+      "source": "L1 · What Increases Conformity? · [B0088–B0088]",
+      "front": "公开回答为什么可能比私人回答更易从众？",
+      "back": "群体能看到回答，认可和排斥压力可能更强。",
+      "cardBack": "群体能看到回答，认可和排斥压力可能更强。"
+    },
+    {
+      "id": "L1-C15",
+      "title": "异议与私人回答",
+      "english": "Dissent; anonymity; private response",
+      "oneLine": "打破一致性或让答案不被群体看到，可以降低从众。",
+      "analogy": "像有人先说“我不一样”，让其他人也更容易表达自己的意见。",
+      "simpleExample": "自拟例：会议中一位同学提出不同方案后，另一位敢表达原本隐藏的担忧。",
+      "explanation": "只要有人不跟大家说同一个答案，从众就可能明显减少。这个人不一定要答对，因为“并非所有人都同意”本身就能减轻压力。匿名或私下回答，也能减少怕不被接纳的压力。",
+      "example": "自拟例：会议中一位同学提出不同方案后，另一位敢表达原本隐藏的担忧。",
+      "pitfall": "匿名降低某些压力，不意味着社会影响完全消失。",
+      "source": "L1 · Barriers to Conformity · [B0076–B0076]",
+      "front": "异议者必须给出正确答案才能降低从众吗？",
+      "back": "不一定；打破群体一致性本身也可能降低从众。",
+      "cardBack": "不一定；打破群体一致性本身也可能降低从众。"
+    },
+    {
+      "id": "L1-C16",
+      "title": "物理与社会现实检验",
+      "english": "Physical versus social reality testing",
+      "oneLine": "可直接检查时更依赖感官，不清楚时更可能参考他人。",
+      "analogy": "像看得到路牌就自己读，看不到路牌便问同行者。",
+      "simpleExample": "自拟例：记不清讲座地点时询问同学，看到正式通知后再核对。",
+      "explanation": "物理现实检验是自己看、听或检查直接证据；社会现实检验是参考别人的判断。答案不清楚时，人更可能依赖别人。但 Asch 的研究说明，即使答案很明显，人也可能受他人影响。",
+      "example": "自拟例：记不清讲座地点时询问同学，看到正式通知后再核对。",
+      "pitfall": "清楚情境并不使社会影响必然归零。",
+      "source": "L1 · 物理现实检验与社会现实检验 · [B0121–B0128]",
+      "front": "物理现实检验与社会现实检验有何区别？",
+      "back": "前者依赖直接感官证据，后者以他人的判断作为现实依据。",
+      "cardBack": "前者依赖直接感官证据，后者以他人的判断作为现实依据。"
+    },
+    {
+      "id": "L1-C17",
+      "title": "信息性影响",
+      "english": "Informational influence",
+      "oneLine": "因为想判断正确而把他人当作信息来源，可能连私下看法也改变。",
+      "analogy": "像不熟悉路线时相信熟悉本地朋友的建议。",
+      "simpleExample": "自拟例：你不懂实验器材，听完有经验同学的解释后真心改变使用方式。",
+      "explanation": "信息性影响的关键是“我想判断正确，而对方可能比我懂”。因为相信别人提供的信息可靠，人可能真正改变自己的看法，而不只是公开附和。这种私下也接受的变化叫内化。",
+      "example": "自拟例：你不懂实验器材，听完有经验同学的解释后真心改变使用方式。",
+      "pitfall": "不能把所有公开同意都认定为信息性影响，要看是否相信对方正确。",
+      "source": "L1 · 信息性影响 vs 规范性影响 · [B0162–B0162]",
+      "front": "信息性影响的核心动机和典型结果是什么？",
+      "back": "想正确；把他人视为信息来源，可能真正改变私人看法。",
+      "cardBack": "想正确；把他人视为信息来源，可能真正改变私人看法。"
+    },
+    {
+      "id": "L1-C18",
+      "title": "规范性影响与公开顺从",
+      "english": "Normative influence; public compliance",
+      "oneLine": "为得到认可或避免排斥而公开配合，私下不一定同意。",
+      "analogy": "像不喜欢一首歌，却在朋友面前跟着称赞以免尴尬。",
+      "simpleExample": "自拟例：你觉得活动安排不合理，但害怕被排斥，公开投了赞成票。",
+      "explanation": "规范性影响的关键是“我想被接纳，不想被排斥”。人可能明知群体不对，还是公开配合，但私下仍不同意。这是公开顺从，不等于信息性影响中真正接受群体看法的内化。",
+      "example": "自拟例：你觉得活动安排不合理，但害怕被排斥，公开投了赞成票。",
+      "pitfall": "看到一个人公开赞成，不能就认定他私下也同意。",
+      "source": "L1 · Normative Influence 规范性影响 · [B0180–B0200]",
+      "front": "如何区分公开顺从和内化？",
+      "back": "公开顺从可能仍私下不同意；内化是私人看法也改变。",
+      "cardBack": "公开顺从可能仍私下不同意；内化是私人看法也改变。"
+    },
+    {
+      "id": "L1-C19",
+      "title": "Deutsch 与 Gerard：区分影响机制",
+      "english": "Deutsch and Gerard study",
+      "oneLine": "匿名条件仍有从众，说明错误并不全由怕尴尬造成。",
+      "analogy": "像拿掉观众仍跟随别人的答案，表明不只是表演给观众看。",
+      "simpleExample": "自拟例：学生匿名提交答案，却因忘记原题而相信同学的判断。",
+      "explanation": "研究比较了公开回答、公开回答加群体目标、私下回答，也比较了线段仍在眼前或已被移走。线段移走时错误更多；有群体目标时影响更强；匿名时也仍有人答错。这说明社会影响不只是怕丢脸，还可能来自对他人信息的依赖。",
+      "example": "自拟例：学生匿名提交答案，却因忘记原题而相信同学的判断。",
+      "pitfall": "匿名条件下仍有错误，说明怕丢脸不能解释全部结果；但也不能认定每个错误都来自同一个原因。",
+      "source": "L1 · Deutsch与Gerard研究 · [B0212–B0215]",
+      "front": "刺激被移走与匿名回答分别帮助区分什么？",
+      "back": "线段移走后，人更难自己核对，可能更依赖别人。匿名减少公开压力，却不能消除所有社会影响。",
+      "cardBack": "线段移走后，人更难自己核对，可能更依赖别人。匿名减少公开压力，却不能消除所有社会影响。"
+    },
+    {
+      "id": "L1-C20",
+      "title": "Milgram：研究结构",
+      "english": "Milgram obedience study design",
+      "oneLine": "参与者以为自己给学习者电击，但学习者是演员、电击是假的。",
+      "analogy": "像真实参与者相信训练装置有后果，而研究安排中的演员并未真的受电击。",
+      "simpleExample": "自拟例：在讨论研究时，把真正参与者、权威实验者和扮演学习者的同谋画成三个角色。",
+      "explanation": "真正的参与者扮演教师，学习者是同谋演员，实验者负责发出权威指令。电击虽然是假的，参与者却以为学习者答错就会受到越来越强的电击，因此承受了真实的心理压力。",
+      "example": "自拟例：在讨论研究时，把真正参与者、权威实验者和扮演学习者的同谋画成三个角色。",
+      "pitfall": "不能把假电击写成参与者一开始就知道没有伤害。",
+      "source": "L1 · Milgram服从研究 · [B0233–B0233]",
+      "front": "Milgram 中教师、学习者和电击分别是什么？",
+      "back": "教师是真参与者，学习者是演员，电击为假；参与者以为电击真实。",
+      "cardBack": "教师是真参与者，学习者是演员，电击为假；参与者以为电击真实。"
+    },
+    {
+      "id": "L1-C21",
+      "title": "服从的情境机制",
+      "english": "Legitimate authority; responsibility transfer; gradual escalation",
+      "oneLine": "认可权威、认为责任由对方承担、相信科学目标，以及任务逐步升级，都可能让人继续服从。",
+      "analogy": "像每次只跨一小步，并被上级说“责任由我承担”，更难突然停下。",
+      "simpleExample": "自拟例：志愿者逐渐接受更不舒服的任务，并以“负责人说可以”为继续的理由。",
+      "explanation": "在经典实验条件中，65% 的参与者继续到最高 450 伏。可能的原因包括认可耶鲁和实验者的权威、相信研究有科学价值、认为责任由实验者承担，以及电击逐步升级。65% 只属于这些特定条件，不能当成普遍服从率。",
+      "example": "自拟例：志愿者逐渐接受更不舒服的任务，并以“负责人说可以”为继续的理由。",
+      "pitfall": "65% 来自特定研究条件，不是全人类的固定比例。",
+      "source": "L1 · Milgram服从研究 · [B0233–B0238]",
+      "front": "Milgram 为什么不能简化成“人天生邪恶”？",
+      "back": "服从与合法权威、责任、科学目标和逐步升级等情境条件有关。",
+      "cardBack": "服从与合法权威、责任、科学目标和逐步升级等情境条件有关。"
+    },
+    {
+      "id": "L1-C22",
+      "title": "降低服从的条件",
+      "english": "Dissent and proximity in obedience",
+      "oneLine": "受害者更近、同伴拒绝和权威异议都可能降低服从。",
+      "analogy": "像身边有人拒绝不当任务，或另一位负责人反对，会打开停止的空间。",
+      "simpleExample": "自拟例：一位志愿者拒绝继续不合适的流程后，其他人更敢表达反对。",
+      "explanation": "Milgram 改变实验条件后发现：离学习者更近、同伴拒绝继续，或另一位权威反对命令，都能降低服从。本讲尤其强调权威异议的作用。不过，换到别的情境，结果不一定完全相同。",
+      "example": "自拟例：一位志愿者拒绝继续不合适的流程后，其他人更敢表达反对。",
+      "pitfall": "有人反对可能让更多人停止服从，但不保证所有人都会停下。",
+      "source": "L1 · Milgram服从研究 · [B0233–B0238]",
+      "front": "哪些情境变化可能降低服从？",
+      "back": "受害者更近、拒绝继续的同伴及反对命令的权威。",
+      "cardBack": "受害者更近、拒绝继续的同伴及反对命令的权威。"
+    },
+    {
+      "id": "L1-C23",
+      "title": "Milgram 的解释与伦理边界",
+      "english": "Interpretation and ethics of Milgram",
+      "oneLine": "特定情境可能促使普通人违背道德判断，研究也造成严重心理压力。",
+      "analogy": "像一项研究既显示制度压力，也必须审查它如何对待参与者。",
+      "simpleExample": "自拟例：评价研究时同时写发现、条件限制和参与者心理负担，而非只背百分比。",
+      "explanation": "Milgram 说明，普通人在特定权威和制度压力下，也可能做出违背道德判断的事；它没有证明所有人本质邪恶。同时，参与者承受的严重压力带来了伦理问题，也推动了更严格的研究伦理要求。",
+      "example": "自拟例：评价研究时同时写发现、条件限制和参与者心理负担，而非只背百分比。",
+      "pitfall": "电击是假，不等于研究没有伤害风险或伦理问题。",
+      "source": "L1 · Milgram研究的真正结论 · [B0282–B0282]",
+      "front": "为什么“没有真实电击，所以没有伦理问题”不成立？",
+      "back": "参与者相信后果真实并承受严重心理压力，伦理风险不只在身体伤害。",
+      "cardBack": "参与者相信后果真实并承受严重心理压力，伦理风险不只在身体伤害。"
+    },
+    {
+      "id": "L1-C24",
+      "title": "斯坦福监狱实验的混淆",
+      "english": "Stanford Prison Experiment; leadership confound",
+      "oneLine": "警卫受到压迫性指导，无法把残酷行为单独归因于角色。",
+      "analogy": "像给演员剧本后，不能声称所有行为都是角色自然产生的。",
+      "simpleExample": "自拟例：组织者先要求队长制造无力感，随后观察队长的严厉行为，不能说只由队长头衔造成。",
+      "explanation": "不能只用“当了警卫，所以变残酷”解释结果。Zimbardo 担任监狱长，帮助建立并认可这套制度，还指导警卫制造恐惧、控制和无力感。角色、权威、规范和领导同时发挥作用，所以无法把残酷行为单独归因于角色。",
+      "example": "自拟例：组织者先要求队长制造无力感，随后观察队长的严厉行为，不能说只由队长头衔造成。",
+      "pitfall": "随机分配角色，不代表后来的行为指导和权威领导就没有影响。",
+      "source": "L1 · 斯坦福监狱实验 · [B0289–B0308]",
+      "front": "SPE 为什么不能证明“角色本身就会使人残酷”？",
+      "back": "警卫得到行为指导，Zimbardo 也是权威与规范的建立者。",
+      "cardBack": "警卫得到行为指导，Zimbardo 也是权威与规范的建立者。"
+    },
+    {
+      "id": "L1-C25",
+      "title": "BBC 监狱研究：身份与集体力量",
+      "english": "BBC Prison Study; social identification",
+      "oneLine": "一个头衔不能决定人怎么做；群体认同、团结、领导和对行为的认可也很重要。",
+      "analogy": "像同样的队长职位，在团结队伍与分裂队伍里产生不同力量。",
+      "simpleExample": "自拟例：低权力成员形成共同身份并合作反对规则，而名义上的管理组反而分裂。",
+      "explanation": "BBC 研究没有像 SPE 那样明确指导警卫制造无力感。囚犯逐渐团结并反抗，警卫却出现分裂；后来，群体界线和治理尝试也继续改变。这说明角色不会自动导致残酷，但并不是说情境没有影响。",
+      "example": "自拟例：低权力成员形成共同身份并合作反对规则，而名义上的管理组反而分裂。",
+      "pitfall": "BBC 不是把 SPE 原样再做一遍。“角色不能决定一切”也不等于“情境不重要”。",
+      "source": "L1 · BBC监狱研究 · [B0307–B0310]",
+      "front": "BBC 研究要求在角色之外考虑哪些因素？",
+      "back": "还要看成员认同哪个群体、是否团结、领导倡导什么规范，以及大家是否认为行为正当。",
+      "cardBack": "还要看成员认同哪个群体、是否团结、领导倡导什么规范，以及大家是否认为行为正当。"
+    },
+    {
+      "id": "L1-C26",
+      "title": "经典研究的比较",
+      "english": "Comparing classic social-influence studies",
+      "oneLine": "模糊判断、清楚答案、直接命令和角色认同是不同研究问题。",
+      "analogy": "像不同关卡测试不同能力，不能把所有失败叫同一种原因。",
+      "simpleExample": "自拟例：复习时先问是判断模糊、怕被排斥、权威命令，还是群体身份和规范。",
+      "explanation": "Sherif 问的是：答案不清楚时，群体怎样形成共同标准？Asch 问的是：答案很清楚时，人还会不会跟着答错？Milgram 看权威命令下的服从；SPE 与 BBC 则比较角色、指导、社会认同和领导的作用。这些研究不能都概括成“人只会盲从”。",
+      "example": "自拟例：复习时先问是判断模糊、怕被排斥、权威命令，还是群体身份和规范。",
+      "pitfall": "研究结果可关联，但设计与心理机制不是完全相同。",
+      "source": "L1 · 七个经典研究总对照 · [B0353–B0393]",
+      "front": "Sherif、Asch、Milgram 与监狱研究最主要的区分是什么？",
+      "back": "Sherif 看模糊任务中的共同标准；Asch 看答案明显时的从众；Milgram 看权威命令；监狱研究看角色、认同和领导。",
+      "cardBack": "Sherif 看模糊任务中的共同标准；Asch 看答案明显时的从众；Milgram 看权威命令；监狱研究看角色、认同和领导。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "L1-Q01",
+      "conceptId": "L1-C01",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "心理学研究某群体的行为后，最符合本讲的进一步问题是什么？",
+      "stemEn": "After studying a group's behaviour, which follow-up best reflects this lecture?",
+      "options": [
+        "哪些人，在什么情境中？",
+        "这证明所有人都一样吗？",
+        "哪个人格必然决定一切？",
+        "社会背景可以完全忽略吗？"
+      ],
+      "optionsEn": [
+        "Which people, in what context?",
+        "Does this prove everyone is the same?",
+        "Which trait inevitably determines everything?",
+        "Can the social background be ignored entirely?"
+      ],
+      "answer": 0,
+      "explanation": "先弄清研究的是哪些人、他们处在什么情境中。特定群体的行为，不能直接代表所有人。",
+      "optionExplanations": [
+        "正确：先问研究了谁、在什么情境中，才知道结论能用到哪里。",
+        "错误：一个群体的发现，不能直接说明所有人都一样。",
+        "错误：人格只是影响之一，社会环境等背景也要考虑。",
+        "错误：行为可能随社会情境改变，不能忽略社会背景。"
+      ],
+      "source": "L1 · Branch 1：Psychology in Context · [B0013–B0014]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q02",
+      "conceptId": "L1-C02",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "小林独自在房间写帖子，却担心同学评价而修改措辞。这最说明什么？",
+      "stemEn": "Lin edits a post while alone because of possible classmates' reactions. What does this illustrate?",
+      "options": [
+        "社会影响只存在于群体讨论中",
+        "想象中的他人也能产生社会影响",
+        "没有现场观众就不存在社会影响",
+        "行为只能由固定人格解释"
+      ],
+      "optionsEn": [
+        "Social influence occurs only in group discussions",
+        "Imagined others can exert social influence",
+        "No audience means no social influence",
+        "Only fixed personality explains behaviour"
+      ],
+      "answer": 1,
+      "explanation": "小林想到同学可能怎样评价自己，才修改措辞。别人没有在场，但想象中的评价已经影响了他的行为。",
+      "optionExplanations": [
+        "错误：社会影响不只发生在讨论中，独处时也可能发生。",
+        "正确：他是在想象同学的评价，因此受到影响。",
+        "错误：别人不必在现场；预想别人怎么看自己也会有影响。",
+        "错误：修改措辞的原因是担心评价，不能只用固定人格解释。"
+      ],
+      "source": "L1 · Branch 2：What Is Social Psychology? · [B0016–B0017]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q03",
+      "conceptId": "L1-C03",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "研究社会制度与不平等如何影响个人，主要属于哪个分析层级？",
+      "stemEn": "Which level mainly examines how institutions and inequality affect individuals?",
+      "options": [
+        "自我与他人",
+        "个体之间",
+        "社会与个体",
+        "只研究人格"
+      ],
+      "optionsEn": [
+        "Self and others",
+        "Between individuals",
+        "Society and the individual",
+        "Personality only"
+      ],
+      "answer": 2,
+      "explanation": "这题看的是社会制度怎样改变个人的处境，重点不是两个人之间的互动。因此属于“社会与个体”层级。",
+      "optionExplanations": [
+        "错误：这个层级更关注自己与他人的比较，不是制度对个人的影响。",
+        "错误：个体之间主要看人际互动，题目则看社会制度。",
+        "正确：研究的是社会结构怎样影响个人。",
+        "错误：题目在问分析层级，并没有只研究人格。"
+      ],
+      "source": "L1 · Social Psychology at Different Levels · [B0018–B0018]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q04",
+      "conceptId": "L1-C04",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Triplett 简单卷线任务的结果最支持哪个结论？",
+      "stemEn": "What is the most defensible conclusion from Triplett's simple reel-winding task?",
+      "options": [
+        "他人在场使任何任务都变好",
+        "所有儿童都喜欢竞争",
+        "社会因素不能影响表现",
+        "他人在场可以改变任务表现"
+      ],
+      "optionsEn": [
+        "Others improve performance on every task",
+        "Every child enjoys competition",
+        "Social factors cannot affect performance",
+        "Others' presence can alter task performance"
+      ],
+      "answer": 3,
+      "explanation": "儿童两人同时卷线时通常更快，说明他人在场会影响表现。实验只测了这个简单任务，不能说所有任务都会变好。",
+      "optionExplanations": [
+        "错误：实验没有检验所有任务，不能说任何任务都会改善。",
+        "错误：卷线速度不能告诉我们儿童是否喜欢竞争。",
+        "错误：两种情境下表现不同，正说明社会因素能影响表现。",
+        "正确：结果能支持“表现会改变”，但不能保证所有任务都会更好。"
+      ],
+      "source": "L1 · Triplett, 1898：First Social Psychology Experiment · [B0020–B0020]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q05",
+      "conceptId": "L1-C05",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "两名不同专业学生在校际比赛中把彼此看作同校队友。这说明什么？",
+      "stemEn": "Two students from different majors see each other as teammates at an inter-university event. What does this show?",
+      "options": [
+        "突出群体身份可随情境改变",
+        "群体只由空间距离决定",
+        "专业身份永远支配所有情境",
+        "社会认同等于固定人格"
+      ],
+      "optionsEn": [
+        "Salient group identity can change with context",
+        "Groups depend only on physical distance",
+        "Major identity dominates every context",
+        "Social identity equals fixed personality"
+      ],
+      "answer": 0,
+      "explanation": "校际比赛让“同一所学校”比“不同专业”更重要，所以两人把彼此看成队友。共同身份会随情境改变。",
+      "optionExplanations": [
+        "正确：在校际比赛中，学校身份成为共同的“我们”。",
+        "错误：形成群体还要有共同归属感，不只是站得近。",
+        "错误：这次比赛中，学校身份比专业身份更重要。",
+        "错误：这里说的是群体归属，不是个人固定的人格特点。"
+      ],
+      "source": "L1 · What is a group? 什么是群体？ · [B0020–B0020]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q06",
+      "conceptId": "L1-C06",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Bond 对种族智力比较的批评重点是什么？",
+      "stemEn": "What was central to Bond's critique of racial intelligence comparisons?",
+      "options": [
+        "任何差异必然由遗传决定",
+        "实验者、测验和已有偏见也可能影响结论",
+        "统计方法自动消除社会偏见",
+        "受试者身份是唯一有关背景"
+      ],
+      "optionsEn": [
+        "Every difference is necessarily genetic",
+        "Examiners, tests and prior biases can affect conclusions",
+        "Statistics automatically remove social bias",
+        "Participants' identity is the only relevant background"
+      ],
+      "answer": 1,
+      "explanation": "Bond 提醒我们：分数差异也可能受到研究者、测验标准和已有偏见影响。不能一看到群体差异，就认定它是先天能力差异。",
+      "optionExplanations": [
+        "错误：差异也可能来自教育、社会环境和测量方式。",
+        "正确：测验怎么设计、由谁解释，都会影响研究结论。",
+        "错误：用了统计方法，也仍可能带入社会偏见。",
+        "错误：研究者的背景和制度环境也可能影响结果。"
+      ],
+      "source": "L1 · 心理学历史的批判性反思 · [B0022–B0026]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q07",
+      "conceptId": "L1-C07",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "研究者只发表五个实验中两个显著的结果，会造成什么主要问题？",
+      "stemEn": "A researcher publishes only the two significant results out of five experiments. What is the main problem?",
+      "options": [
+        "自动提高代表性",
+        "证明效应在所有环境成立",
+        "让不稳定效应看起来更稳定",
+        "等同于提前预注册"
+      ],
+      "optionsEn": [
+        "Automatically improving representativeness",
+        "Proving the effect holds in every setting",
+        "Making an unstable effect appear more reliable",
+        "Being equivalent to preregistration"
+      ],
+      "answer": 2,
+      "explanation": "读者只看到两个显著结果，看不到另外三个未显著结果，就容易以为这个效应每次都能出现。这会夸大发现的可靠性。",
+      "optionExplanations": [
+        "错误：挑结果发表，不能让原本狭窄的样本更有代表性。",
+        "错误：另外三个结果没有被报告，不能据此说所有环境都有效。",
+        "正确：失败的尝试被藏起来，效应就显得比实际更可靠。",
+        "错误：预注册是先说明计划，不是做完研究再挑结果。"
+      ],
+      "source": "L1 · Replication Crisis 可重复性危机 · [B0026–B0026]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q08",
+      "conceptId": "L1-C08",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "开放科学最主要的目的是什么？",
+      "stemEn": "What is the main aim of open science?",
+      "options": [
+        "让任何假设都显著",
+        "保证所有研究永远正确",
+        "省去其他人的检验",
+        "提高研究透明度和可检查性"
+      ],
+      "optionsEn": [
+        "To make every hypothesis significant",
+        "To guarantee that all studies are correct",
+        "To remove the need for external checks",
+        "To improve transparency and checkability"
+      ],
+      "answer": 3,
+      "explanation": "开放科学让别人能看清研究原本怎么计划、实际怎么做、数据支持什么。它方便检查和重复研究，但不保证每项结论都正确。",
+      "optionExplanations": [
+        "错误：公开研究过程，不能保证假设获得显著结果。",
+        "错误：透明的研究也可能出错，只是更容易被检查。",
+        "错误：开放科学正是为了让别人更方便检验研究。",
+        "正确：公开计划和证据，使研究更容易核查。"
+      ],
+      "source": "L1 · Open Science 开放科学改革 · [B0026–B0026]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q09",
+      "conceptId": "L1-C09",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "“参与者种族会影响研究，但研究者种族与研究无关”体现什么问题？",
+      "stemEn": "What problem is illustrated by treating participants' race as relevant but researchers' race as irrelevant?",
+      "options": [
+        "双重人物模型中的不对称",
+        "样本完全有代表性",
+        "不存在研究者偏差",
+        "预注册保证中立"
+      ],
+      "optionsEn": [
+        "The asymmetry in the dual model of persons",
+        "A fully representative sample",
+        "The absence of researcher bias",
+        "Preregistration guarantees neutrality"
+      ],
+      "answer": 0,
+      "explanation": "这句话只承认参与者有社会背景，却把研究者当成不受背景影响的人。双重人物模型批评的正是这种区别对待。",
+      "optionExplanations": [
+        "正确：同样都有社会背景，却只认为参与者会受影响。",
+        "错误：这句话没有说明样本是否能代表其他人。",
+        "错误：研究者是否带入偏见需要检查，不能先假定没有。",
+        "错误：预注册公开计划，不会自动消除研究者的所有偏见。"
+      ],
+      "source": "L1 · 心理学历史的批判性反思 · [B0022–B0027]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q10",
+      "conceptId": "L1-C10",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "某研究有一万名同类富裕国家大学生。为什么仍需谨慎推广？",
+      "stemEn": "Why should a study of 10,000 similar university students in affluent countries still be generalised cautiously?",
+      "options": [
+        "样本数大就没有任何限制",
+        "人数多不能消除样本背景狭窄",
+        "只有小样本才存在文化差异",
+        "WEIRD 表示随机抽样"
+      ],
+      "optionsEn": [
+        "Large samples have no limitations",
+        "Size does not remove a narrow social background",
+        "Cultural differences exist only in small samples",
+        "WEIRD means random sampling"
+      ],
+      "answer": 1,
+      "explanation": "一万人虽然多，但如果都是相似背景的大学生，就仍没有覆盖很多其他人群。样本人数多，不等于能代表所有人。",
+      "optionExplanations": [
+        "错误：人数再多，也可能只来自很窄的一类人群。",
+        "正确：还要看研究有没有覆盖不同人群和文化背景。",
+        "错误：大样本里同样可能存在文化差异。",
+        "错误：WEIRD 描述社会背景，不是随机抽样方法。"
+      ],
+      "source": "L1 · WEIRD Samples WEIRD样本偏差 · [B0027–B0027]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q11",
+      "conceptId": "L1-C11",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "哪种说法最准确描述社会规范？",
+      "stemEn": "Which statement best describes social norms?",
+      "options": [
+        "每个人答案的机械平均",
+        "任何罕见行为",
+        "群体互动形成的共同标准，可带应当性",
+        "必须由法律明文规定"
+      ],
+      "optionsEn": [
+        "The mechanical average of individuals' answers",
+        "Any rare behaviour",
+        "Shared standards formed through interaction, potentially carrying oughtness",
+        "Rules that must be written in law"
+      ],
+      "answer": 2,
+      "explanation": "规范是群体成员互相影响后形成的共同标准。它不只说“大家常做什么”，还可能说“大家应该做什么”。",
+      "optionExplanations": [
+        "错误：把答案算平均，不等于群体已经形成认可的标准。",
+        "错误：一个行为少见，并不能说明它是群体规范。",
+        "正确：成员共同认可的标准，也可能表达应该怎么做。",
+        "错误：没有写进法律，群体也可以有非正式规范。"
+      ],
+      "source": "L1 · 社会影响与社会规范 · [B0029–B0029]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q12",
+      "conceptId": "L1-C12",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "Sherif 研究中，参与者最后独自判断仍保留群体标准，最说明什么？",
+      "stemEn": "In Sherif's study, participants retained the group standard when alone again. What does this mainly suggest?",
+      "options": [
+        "光点实际上移动了",
+        "群体规范只在有人观看时存在",
+        "正确答案一直十分明显",
+        "形成的规范可能被内化"
+      ],
+      "optionsEn": [
+        "The light really moved",
+        "Group norms exist only with an audience",
+        "The correct answer was always obvious",
+        "The formed norm may have been internalised"
+      ],
+      "answer": 3,
+      "explanation": "如果只是为了当众配合，独自判断时就不一定继续用群体标准。后来独自作答仍沿用它，说明个人可能已经接受了这个规范。",
+      "optionExplanations": [
+        "错误：光点实际上静止，移动感来自缺少参照物。",
+        "错误：参与者独自作答时仍沿用标准，说明影响没有随观众离开而消失。",
+        "错误：黑暗中没有清楚参照，答案并不明显。",
+        "正确：离开群体后仍接受共同标准，符合规范被内化的解释。"
+      ],
+      "source": "L1 · Sherif自动运动效应研究 · [B0033–B0035]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q13",
+      "conceptId": "L1-C13",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Asch 的“75%”在本讲笔记中指什么？",
+      "stemEn": "What does the 75% figure refer to in the notes on Asch?",
+      "options": [
+        "至少一次在关键试次从众的参与者比例",
+        "全部关键试次都从众的参与者比例",
+        "关键试次所有回答中的从众比例",
+        "从不从众的参与者比例"
+      ],
+      "optionsEn": [
+        "Participants who conformed on at least one critical trial",
+        "Participants who conformed on every critical trial",
+        "Conforming responses across all critical trials",
+        "Participants who never conformed"
+      ],
+      "answer": 0,
+      "explanation": "75% 统计的是“至少有一次跟着答错的人”，不是“每一次都答错的人”。如果统计关键试次中的所有回答，从众比例约为 37%。",
+      "optionExplanations": [
+        "正确：只要在关键试次中从众过一次，就算入这 75%。",
+        "错误：从众过一次的人，其他时候可能没有从众。",
+        "错误：按所有关键试次回答来算，从众比例约为 37%。",
+        "错误：约 25% 的参与者从未从众，不是 75%。"
+      ],
+      "source": "L1 · Asch线段判断研究 · [B0037–B0037]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q14",
+      "conceptId": "L1-C14",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "新成员很想加入一个人人公开持同一意见的社团。哪种因素组合可能增加从众？",
+      "stemEn": "A newcomer wants to join a club whose members publicly agree. Which combination may increase conformity?",
+      "options": [
+        "私人回答与群体分裂",
+        "敬佩群体、全体一致和公开回答",
+        "不在乎群体与匿名回答",
+        "独自作答且没有社会信息"
+      ],
+      "optionsEn": [
+        "Private answers and a divided group",
+        "Admiring the group, unanimity and public answers",
+        "Not valuing the group and answering anonymously",
+        "Answering alone without social information"
+      ],
+      "answer": 1,
+      "explanation": "他很想加入社团，又要公开面对所有人的一致意见，因此更可能担心不被接纳。这些条件都可能增加从众压力。",
+      "optionExplanations": [
+        "错误：私下回答和有人持不同意见，通常会减轻从众压力。",
+        "正确：想被群体接纳、大家一致、公开回答，都会增加配合的压力。",
+        "错误：不在乎群体、又匿名回答，通常会减少怕被排斥的压力。",
+        "错误：独自作答且没有社会信息，不符合题目里的群体压力。"
+      ],
+      "source": "L1 · What Increases Conformity? · [B0088–B0088]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q15",
+      "conceptId": "L1-C15",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Asch 相关发现中，异议者给出另一个错误答案也可能降低从众，原因是什么？",
+      "stemEn": "Why can a dissenter reduce conformity even when giving a different wrong answer?",
+      "options": [
+        "异议者必然证明正确答案",
+        "错误答案具有魔法效果",
+        "打破全体一致性可降低压力",
+        "其他人自动不再受任何影响"
+      ],
+      "optionsEn": [
+        "The dissenter necessarily proves the correct answer",
+        "Wrong answers have a special magical effect",
+        "Breaking unanimity can reduce pressure",
+        "Everyone becomes immune to all influence"
+      ],
+      "answer": 2,
+      "explanation": "关键不是异议者有没有答对，而是有人打破了“所有人都这么说”的局面。其他人因此更容易坚持自己的判断。",
+      "optionExplanations": [
+        "错误：异议者给出的仍可能是错误答案。",
+        "错误：起作用的是群体不再一致，不是错误答案本身。",
+        "正确：有人不同意后，坚持自己的答案可能不再那么有压力。",
+        "错误：从众可能减少，但社会影响不会因此全部消失。"
+      ],
+      "source": "L1 · Barriers to Conformity · [B0076–B0076]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q16",
+      "conceptId": "L1-C16",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "参考其他人的判断来决定什么是真实，属于什么？",
+      "stemEn": "Using other people's judgments to decide what is real is an example of what?",
+      "options": [
+        "仅有物理现实检验",
+        "完全没有现实检验",
+        "固定人格评估",
+        "社会现实检验"
+      ],
+      "optionsEn": [
+        "Physical reality testing only",
+        "No reality testing at all",
+        "Assessment of fixed personality",
+        "Social reality testing"
+      ],
+      "answer": 3,
+      "explanation": "这题的关键是信息来自别人，而不是自己直接看见或检查。把他人的判断当作依据，就是社会现实检验。",
+      "optionExplanations": [
+        "错误：物理现实检验依赖自己直接观察到的证据。",
+        "错误：参考别人也是判断现实的一种办法。",
+        "错误：题目问怎么判断现实，不是在测量人格。",
+        "正确：用他人的判断来确定什么是真实，正是社会现实检验。"
+      ],
+      "source": "L1 · 物理现实检验与社会现实检验 · [B0121–B0128]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q17",
+      "conceptId": "L1-C17",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "不熟悉仪器的小李相信经验丰富的同学懂操作，私下也改变做法。这更符合什么？",
+      "stemEn": "Li trusts an experienced classmate's advice about unfamiliar equipment and privately changes their approach. Which influence fits best?",
+      "options": [
+        "信息性影响",
+        "规范性影响中的纯公开配合",
+        "只因害怕被排斥的顺从",
+        "权威直接命令的服从"
+      ],
+      "optionsEn": [
+        "Informational influence",
+        "Purely public compliance through normative influence",
+        "Compliance solely to avoid rejection",
+        "Obedience to a direct authority command"
+      ],
+      "answer": 0,
+      "explanation": "小李不是为了讨好同学，而是相信对方懂操作。他私下也改变做法，说明他真正接受了建议，符合信息性影响。",
+      "optionExplanations": [
+        "正确：他想操作正确，所以接受了更有经验者的信息。",
+        "错误：他私下也改变了做法，不只是当众配合。",
+        "错误：题目没有说他害怕被排斥，而是说他相信同学懂操作。",
+        "错误：同学提供建议，没有权威直接下命令。"
+      ],
+      "source": "L1 · 信息性影响 vs 规范性影响 · [B0162–B0162]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q18",
+      "conceptId": "L1-C18",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "你私下不同意计划，却为了不被排斥而公开赞成。最符合哪种机制？",
+      "stemEn": "You privately disagree with a plan but publicly endorse it to avoid rejection. Which mechanism best fits?",
+      "options": [
+        "信息性影响",
+        "规范性影响与公开顺从",
+        "只靠物理现实检验",
+        "群体意见被完全内化"
+      ],
+      "optionsEn": [
+        "Informational influence",
+        "Normative influence and public compliance",
+        "Physical reality testing alone",
+        "Complete internalisation of the group view"
+      ],
+      "answer": 1,
+      "explanation": "你赞成不是因为觉得计划正确，而是怕被排斥。公开配合、私下不同意，正是规范性影响中的公开顺从。",
+      "optionExplanations": [
+        "错误：信息性影响强调相信对方正确，而你仍不同意计划。",
+        "正确：为了被接纳而公开配合，但私人意见没有改变。",
+        "错误：题目不是自己检查证据，而是担心群体排斥。",
+        "错误：内化意味着私下也接受；你私下仍不同意。"
+      ],
+      "source": "L1 · Normative Influence 规范性影响 · [B0180–B0200]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q19",
+      "conceptId": "L1-C19",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Deutsch 与 Gerard 的匿名条件仍出现错误，对解释有什么意义？",
+      "stemEn": "What is the significance of errors remaining in Deutsch and Gerard's anonymous condition?",
+      "options": [
+        "证明所有错误都来自怕尴尬",
+        "说明匿名无论何时都没用",
+        "社会影响不全是公开认可压力，也可能包含信息性影响",
+        "证明物理证据在所有条件都不存在"
+      ],
+      "optionsEn": [
+        "All errors come from embarrassment",
+        "Anonymity is always useless",
+        "Influence is not only public approval pressure; informational influence may remain",
+        "Physical evidence was absent in every condition"
+      ],
+      "answer": 2,
+      "explanation": "匿名减少了当众丢脸或被排斥的压力，但仍有人跟着答错。因此，怕不被认可不能解释全部结果；有人可能真把别人当作可靠信息。",
+      "optionExplanations": [
+        "错误：匿名时仍有错误，恰好说明怕尴尬不是唯一原因。",
+        "错误：匿名可以减轻公开压力，只是不保证消除所有影响。",
+        "正确：没人看到答案时，人仍可能相信别人提供的信息。",
+        "错误：是否匿名和线段是否还在眼前，是实验中分别改变的条件。"
+      ],
+      "source": "L1 · Deutsch与Gerard研究 · [B0212–B0215]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q20",
+      "conceptId": "L1-C20",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "基础",
+      "stem": "Milgram 原研究中，哪个描述准确？",
+      "stemEn": "Which description of Milgram's study is accurate?",
+      "options": [
+        "学习者是真正被电击的参与者",
+        "真正参与者都知道电击是假",
+        "教师与学习者都只是观察者",
+        "教师是真参与者，学习者是同谋演员，电击为假"
+      ],
+      "optionsEn": [
+        "The learner was a participant receiving real shocks",
+        "All real participants knew the shocks were fake",
+        "Teacher and learner were merely observers",
+        "The teacher was the real participant; the learner was an actor; shocks were fake"
+      ],
+      "answer": 3,
+      "explanation": "真正的参与者负责按要求给出“电击”，并以为它是真的。学习者由同谋扮演，实际没有受到电击。",
+      "optionExplanations": [
+        "错误：学习者是演员，没有真的受到电击。",
+        "错误：真正的参与者以为电击会产生真实后果。",
+        "错误：教师要执行实验者的要求，并不是只在旁观察。",
+        "正确：教师是真参与者；学习者是演员；电击是假的，但教师以为是真的。"
+      ],
+      "source": "L1 · Milgram服从研究 · [B0233–B0233]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q21",
+      "conceptId": "L1-C21",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "哪组因素最符合本讲对 Milgram 服从的解释？",
+      "stemEn": "Which set best fits this lecture's explanation of obedience in Milgram?",
+      "options": [
+        "合法权威、责任转移、科学目标和逐步升级",
+        "仅由先天邪恶解释",
+        "只因参与者知道是假电击",
+        "完全不涉及社会制度"
+      ],
+      "optionsEn": [
+        "Legitimate authority, responsibility transfer, scientific goals and gradual escalation",
+        "Innate evil alone",
+        "Only because participants knew the shocks were fake",
+        "No role for social institutions"
+      ],
+      "answer": 0,
+      "explanation": "参与者可能认可权威、相信科学目标、认为责任由实验者承担，再一步步接受更高电击。解释服从要看这些情境因素，不能只说他们天生邪恶。",
+      "optionExplanations": [
+        "正确：这些因素都能帮助理解参与者为何继续服从。",
+        "错误：把行为全归于先天邪恶，会忽略权威和制度压力。",
+        "错误：真正的参与者以为电击是真的。",
+        "错误：科学机构和实验者被认可为权威，正是重要背景。"
+      ],
+      "source": "L1 · Milgram服从研究 · [B0233–B0238]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q22",
+      "conceptId": "L1-C22",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "另一位被认可的权威公开反对继续电击。在本讲框架中，这可能怎样影响服从？",
+      "stemEn": "Another recognised authority openly opposes continuing the shocks. How may this affect obedience?",
+      "options": [
+        "必然让所有人更服从",
+        "降低服从，因为权威不再一致支持命令",
+        "毫无可能影响服从",
+        "证明原有角色不存在"
+      ],
+      "optionsEn": [
+        "Necessarily make everyone more obedient",
+        "Reduce obedience because authorities no longer uniformly support the command",
+        "Have no possible effect on obedience",
+        "Prove that the original roles did not exist"
+      ],
+      "answer": 1,
+      "explanation": "另一位权威反对时，命令就不再得到权威的一致支持。这可能让参与者更容易停止服从，但不保证所有人都停下。",
+      "optionExplanations": [
+        "错误：本讲的实验变式发现，权威异议会降低服从，而非必然增加。",
+        "正确：权威之间有分歧后，继续服从的支持可能减弱。",
+        "错误：权威是否一致、命令是否被认可，都可能影响服从。",
+        "错误：权威发生分歧，不代表教师等角色不存在。"
+      ],
+      "source": "L1 · Milgram服从研究 · [B0233–B0238]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q23",
+      "conceptId": "L1-C23",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "电击是假的，为什么 Milgram 仍存在伦理问题？",
+      "stemEn": "Why did Milgram's study raise ethical concerns despite using fake shocks?",
+      "options": [
+        "研究没有任何欺骗",
+        "参与者知道所有安排所以无压力",
+        "参与者相信后果真实并承受严重心理压力",
+        "只有真实身体伤害才算伦理问题"
+      ],
+      "optionsEn": [
+        "There was no deception",
+        "Participants knew all arrangements and felt no stress",
+        "Participants believed the consequences were real and experienced severe distress",
+        "Only real bodily injury counts ethically"
+      ],
+      "answer": 2,
+      "explanation": "电击虽是假，参与者却相信自己正在伤害别人，因而承受严重压力。伦理问题不仅看有没有身体伤害，还要看欺骗和心理伤害风险。",
+      "optionExplanations": [
+        "错误：参与者不知道学习者是演员，也不知道电击是假的。",
+        "错误：他们以为后果真实，因此会承受心理压力。",
+        "正确：即使没有真实电击，相信自己在伤害别人也会带来严重压力。",
+        "错误：欺骗和心理伤害风险同样属于伦理问题。"
+      ],
+      "source": "L1 · Milgram研究的真正结论 · [B0282–B0282]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q24",
+      "conceptId": "L1-C24",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "对“斯坦福监狱实验证明角色本身自动造成残酷”的最关键批评是什么？",
+      "stemEn": "What is the central critique of claiming that the Stanford Prison Experiment proved roles alone automatically cause brutality?",
+      "options": [
+        "没有分配任何角色",
+        "所有群体认同都无关",
+        "不存在权威人物",
+        "警卫接受过压迫性指导，Zimbardo 也参与领导系统"
+      ],
+      "optionsEn": [
+        "No roles were assigned",
+        "All group identification is irrelevant",
+        "No authority figure was present",
+        "Guards received oppressive guidance, and Zimbardo helped lead the system"
+      ],
+      "answer": 3,
+      "explanation": "警卫不只获得一个角色，还接受了怎样压迫囚犯的指导；Zimbardo 也参与领导这套制度。因此，不能认定残酷行为只由角色本身造成。",
+      "optionExplanations": [
+        "错误：研究明确分配了警卫和囚犯角色。",
+        "错误：群体认同和规范可能影响行为，不能直接排除。",
+        "错误：Zimbardo 担任监狱长，是制度中的权威人物。",
+        "正确：行为指导和领导也在起作用，结果不能只归给角色。"
+      ],
+      "source": "L1 · 斯坦福监狱实验 · [B0289–B0308]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q25",
+      "conceptId": "L1-C25",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "BBC 监狱研究的结果最支持什么？",
+      "stemEn": "What is best supported by the BBC Prison Study?",
+      "options": [
+        "角色不是机械决定行为，认同、团结和领导很重要",
+        "情境完全不影响行为",
+        "只要分配警卫角色就必然残酷",
+        "所有群体过程都会稳定产生民主"
+      ],
+      "optionsEn": [
+        "Roles do not mechanically determine behaviour; identification, unity and leadership matter",
+        "Context never affects behaviour",
+        "Assigning guard roles necessarily produces brutality",
+        "All group processes reliably produce democracy"
+      ],
+      "answer": 0,
+      "explanation": "囚犯逐渐团结反抗，警卫却出现分裂，说明有权力的头衔不保证能协调行动。角色之外，还要看成员认同、团结和领导。",
+      "optionExplanations": [
+        "正确：不同群体的团结和认同变化，影响了谁能组织行动。",
+        "错误：研究否定的是角色自动决定行为，不是情境的所有作用。",
+        "错误：BBC 结果没有显示警卫角色必然导致残酷。",
+        "错误：自治尝试曾失败，也出现权威化提议，群体过程并不保证民主。"
+      ],
+      "source": "L1 · BBC监狱研究 · [B0307–B0310]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q26",
+      "conceptId": "L1-C26",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "哪组经典研究问题的对应最准确？",
+      "stemEn": "Which mapping of classic studies to questions is most accurate?",
+      "options": [
+        "Sherif 研究权威电击，Milgram 研究光点错觉",
+        "Sherif 研究模糊规范，Asch 研究清楚答案下从众，Milgram 研究权威服从",
+        "Asch 与 BBC 都只研究视觉错觉",
+        "所有研究都能证明人完全没有自主性"
+      ],
+      "optionsEn": [
+        "Sherif studied authority-driven shocks; Milgram studied the light illusion",
+        "Sherif studied ambiguous norms; Asch studied conformity with clear answers; Milgram studied obedience",
+        "Asch and BBC studied only visual illusions",
+        "All studies prove people have no agency"
+      ],
+      "answer": 1,
+      "explanation": "Sherif 的答案不清楚，重点是共同标准怎样形成；Asch 的答案明显，重点是人会不会跟着答错；Milgram 则看人是否服从权威命令。三者问的不是同一个问题。",
+      "optionExplanations": [
+        "错误：光点错觉属于 Sherif，权威电击属于 Milgram，顺序颠倒了。",
+        "正确：三项分别对应模糊任务中的规范、明显答案下的从众、权威命令下的服从。",
+        "错误：BBC 研究群体角色、认同和领导，不是视觉错觉。",
+        "错误：研究说明某些情境会影响行为，没有证明人完全不能自主行动。"
+      ],
+      "source": "L1 · 七个经典研究总对照 · [B0353–B0393]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q27",
+      "conceptId": "L1-C13",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "“75% 至少从众一次”和“约 63% 关键试次回答未从众”为何可以同时成立？",
+      "stemEn": "Why can '75% conformed at least once' and 'about 63% of critical-trial responses did not conform' both be true?",
+      "options": [
+        "两个数字必然矛盾",
+        "未从众回答不算数据",
+        "一个统计参与者是否曾从众，另一个统计所有回答",
+        "两者都指每人每次必然从众"
+      ],
+      "optionsEn": [
+        "The figures necessarily contradict each other",
+        "Nonconforming responses do not count as data",
+        "One counts whether people ever conformed; the other counts responses",
+        "Both mean everyone conformed every time"
+      ],
+      "answer": 2,
+      "explanation": "一个人即使只有一次从众，也算进 75%；但他其他不从众的回答也会算进 63%。前者数人，后者数回答，所以并不矛盾。",
+      "optionExplanations": [
+        "错误：一个数参与者，一个数回答，不能直接把两者当作互补比例。",
+        "错误：不从众的回答同样是实验结果，当然要统计。",
+        "正确：至少从众过一次的人，仍可能贡献许多不从众的回答。",
+        "错误：至少一次不等于每一次；两个数字都不表示人人每次从众。"
+      ],
+      "source": "L1 · Asch线段判断研究 · [B0037–B0037]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q28",
+      "conceptId": "L1-C12",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Sherif 研究不能单独回答什么问题？",
+      "stemEn": "Which question cannot be answered by Sherif's study alone?",
+      "options": [
+        "群体互动会不会形成共同标准",
+        "离开群体后标准能否保留",
+        "模糊任务会不会参考他人",
+        "当正确答案明显时人们仍是否从众"
+      ],
+      "optionsEn": [
+        "Can interaction produce shared standards?",
+        "Can standards persist after leaving the group?",
+        "Can people use others in ambiguous tasks?",
+        "Do people conform when the correct answer is obvious?"
+      ],
+      "answer": 3,
+      "explanation": "Sherif 的光点任务没有清楚参照，参与者很难知道正确答案。因此，它不能单独回答“答案明显时还会不会从众”；Asch 才直接研究这种情况。",
+      "optionExplanations": [
+        "错误：参与者一起判断后答案趋近，正是在考察共同标准的形成。",
+        "错误：最后再次独自判断，正是检查群体标准能否保留。",
+        "错误：参与者在模糊任务中参考别人，是这项研究的核心。",
+        "正确：实验没有设置正确答案明显的情境，不能直接回答这一问题。"
+      ],
+      "source": "L1 · Sherif自动运动效应研究 · [B0033–B0035]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q29",
+      "conceptId": "L1-C17",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "两人都公开同意群体，但一人真信群体正确，另一人只是怕被排斥。最准确理解是什么？",
+      "stemEn": "Two people publicly agree, but one believes the group is correct and the other fears rejection. What is most accurate?",
+      "options": [
+        "相同行为可以对应不同心理机制",
+        "公开同意必定只有规范性影响",
+        "两人的私下态度必定相同",
+        "信息性影响不能导致公开同意"
+      ],
+      "optionsEn": [
+        "The same behaviour can reflect different mechanisms",
+        "Public agreement must be purely normative",
+        "Their private views must be identical",
+        "Informational influence cannot lead to public agreement"
+      ],
+      "answer": 0,
+      "explanation": "两人表面上都赞成，但一个想判断正确，另一个想避免排斥。区分信息性和规范性影响，要看为什么同意，以及私下是否真的接受。",
+      "optionExplanations": [
+        "正确：同样公开赞成，可能分别来自相信群体正确和害怕被排斥。",
+        "错误：真正相信群体正确的人，也可以公开表达赞同。",
+        "错误：题目已经说明一个人真相信，另一个只是公开配合。",
+        "错误：私下接受群体看法的人，也可能公开同意。"
+      ],
+      "source": "L1 · 信息性影响 vs 规范性影响 · [B0162–B0162]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q30",
+      "conceptId": "L1-C19",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Deutsch 与 Gerard 中，线段被移走后错误更多，最符合哪种解释？",
+      "stemEn": "More errors occurred when the lines were removed in Deutsch and Gerard. Which explanation best fits?",
+      "options": [
+        "视觉信息越少，直接判断必然更准确",
+        "直接物理证据不足，可能更依赖他人的信息",
+        "公开压力完全不存在且没人受影响",
+        "这证明所有人都在故意说谎"
+      ],
+      "optionsEn": [
+        "Less visual information necessarily improves direct judgment",
+        "With less direct physical evidence, people may rely more on others' information",
+        "Public pressure is absent and nobody is influenced",
+        "Everyone is deliberately lying"
+      ],
+      "answer": 1,
+      "explanation": "线段被移走后，参与者不能再直接看着核对，更容易不确定。这时可能更依赖别人的答案，符合信息性影响的解释。",
+      "optionExplanations": [
+        "错误：看不到线段会更难核对，不能说直接判断必然更准。",
+        "正确：自己掌握的证据变少，别人就可能成为更重要的信息来源。",
+        "错误：线段是否在场，与是否公开回答是分别改变的条件。",
+        "错误：答错可能来自不确定或相信别人，不能直接认定故意说谎。"
+      ],
+      "source": "L1 · Deutsch与Gerard研究 · [B0212–B0215]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q31",
+      "conceptId": "L1-C21",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "把 Milgram 的 65% 写成“任何文化、任何条件下都有 65% 人会服从”，错在哪里？",
+      "stemEn": "What is wrong with treating Milgram's 65% as the obedience rate in every culture and condition?",
+      "options": [
+        "没有任何结果值得记忆",
+        "百分比不能用于心理学",
+        "把特定条件的结果当成跨情境固定规律",
+        "只要说服从就等于从众"
+      ],
+      "optionsEn": [
+        "No findings are worth remembering",
+        "Percentages cannot be used in psychology",
+        "A result from specific conditions is treated as a fixed cross-context rule",
+        "Obedience and conformity are identical"
+      ],
+      "answer": 2,
+      "explanation": "65% 来自特定实验条件。换了权威关系、与学习者的距离，或是否有人反对，服从率也会改变，不能把它当成所有情境的固定比例。",
+      "optionExplanations": [
+        "错误：结果仍值得记，但必须同时记住实验条件。",
+        "错误：百分比可以使用，问题是把特定结果推广到了所有情境。",
+        "正确：实验变式说明服从率会随条件改变，65% 不是固定规律。",
+        "错误：服从是回应权威的直接命令，从众是跟随群体，两者不同。"
+      ],
+      "source": "L1 · Milgram服从研究 · [B0233–B0238]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q32",
+      "conceptId": "L1-C24",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "为什么 SPE 的随机分配不自动证明“角色单独造成残酷”？",
+      "stemEn": "Why does random assignment in the SPE not automatically prove that roles alone caused brutality?",
+      "options": [
+        "随机分配与研究无关",
+        "随机分配证明没有任何领导",
+        "所有行为都由遗传决定",
+        "角色之外仍存在行为指导、权威和压迫规范"
+      ],
+      "optionsEn": [
+        "Random assignment is irrelevant to research",
+        "Random assignment proves there was no leadership",
+        "All behaviour is genetic",
+        "Guidance, authority and oppressive norms were also present"
+      ],
+      "answer": 3,
+      "explanation": "随机分配决定了谁当警卫、谁当囚犯，却没有拿掉后来的行为指导、权威领导和压迫性规范。这些因素仍可能影响行为，所以不能只归因于角色。",
+      "optionExplanations": [
+        "错误：随机分配有助研究，但不能排除实验后续所有其他影响。",
+        "错误：分配方式不会让 Zimbardo 的领导和指导消失。",
+        "错误：研究不能支持所有行为都由遗传决定。",
+        "正确：角色之外的指导和权威仍然存在，不能把结果全归给角色。"
+      ],
+      "source": "L1 · 斯坦福监狱实验 · [B0289–B0308]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q33",
+      "conceptId": "L1-C25",
+      "domain": "social",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "BBC 研究中囚犯形成共同身份并反抗，而警卫分裂，说明什么？",
+      "stemEn": "Prisoners developed a shared identity and resisted while guards divided in the BBC study. What does this illustrate?",
+      "options": [
+        "名义权力之外，群体认同和团结影响集体力量",
+        "权力角色必定保证协调",
+        "囚犯角色必定导致被动",
+        "认同变化与情境控制无关"
+      ],
+      "optionsEn": [
+        "Identification and unity affect collective power beyond nominal status",
+        "Powerful roles necessarily guarantee coordination",
+        "Prisoner roles necessarily produce passivity",
+        "Identity changes are irrelevant to situational control"
+      ],
+      "answer": 0,
+      "explanation": "囚犯虽然名义上权力较小，却因共同身份而团结起来；警卫虽然有头衔，却没有保持团结。因此，集体力量还取决于认同和组织，不只看角色。",
+      "optionExplanations": [
+        "正确：共同认同和团结，能让名义权力较小的群体组织反抗。",
+        "错误：警卫出现分裂，说明有权力的头衔不保证能合作。",
+        "错误：囚犯曾团结反抗，并非只能被动接受。",
+        "错误：认同变化会影响谁能组织行动、掌握局面。"
+      ],
+      "source": "L1 · BBC监狱研究 · [B0307–B0310]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q34",
+      "conceptId": "L1-C11",
+      "domain": "social",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "某社团成员说“虽然没人写规定，但迟到很不合适，大家应准时”。这主要体现规范的什么？",
+      "stemEn": "A club member says, 'There is no written rule, but lateness is inappropriate; we ought to be punctual.' What does this illustrate?",
+      "options": [
+        "规范必须由法律规定",
+        "规范的应当性和价值判断",
+        "规范只描述过去次数",
+        "规范与群体认可无关"
+      ],
+      "optionsEn": [
+        "Norms must be legal rules",
+        "The oughtness and value content of norms",
+        "Norms only count past behaviour",
+        "Norms are unrelated to endorsement"
+      ],
+      "answer": 1,
+      "explanation": "这句话不是在统计迟到多少次，而是在评价迟到不合适、要求大家准时。这说明规范可以表达群体认可的做法和应尽的义务。",
+      "optionExplanations": [
+        "错误：没有法律或书面规定，也可能有大家认可的非正式规范。",
+        "正确：“不合适”和“应准时”都在说明群体认为应该怎么做。",
+        "错误：这里没有数迟到次数，而是在判断什么行为合适。",
+        "错误：大家共同认可准时，正是这条规范的重要部分。"
+      ],
+      "source": "L1 · 社会影响与社会规范 · [B0029–B0029]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q35",
+      "conceptId": "L1-C08",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "哪项最准确区分预注册与数据共享？",
+      "stemEn": "Which statement best distinguishes preregistration from data sharing?",
+      "options": [
+        "预注册只在发表后做，数据共享只在招募前做",
+        "两者都保证结果不会出错",
+        "预注册提前说明计划，数据共享便于事后检查",
+        "两者都要求隐藏未显著结果"
+      ],
+      "optionsEn": [
+        "Preregistration happens only after publication; sharing only before recruitment",
+        "Both guarantee error-free findings",
+        "Preregistration states plans in advance; sharing enables later checks",
+        "Both require hiding nonsignificant results"
+      ],
+      "answer": 2,
+      "explanation": "预注册是收集数据前先说明打算检验什么、怎么分析；数据共享是收集后让别人核查证据。一个侧重事前计划，一个侧重事后检查，都不保证结果永远正确。",
+      "optionExplanations": [
+        "错误：顺序反了：预注册先说明计划，数据共享便于收集后的核查。",
+        "错误：别人更容易检查研究，不等于研究不会出错。",
+        "正确：预注册先公开计划，数据共享让别人事后检查证据。",
+        "错误：隐藏未显著结果会扭曲证据，与开放科学的目标相反。"
+      ],
+      "source": "L1 · Open Science 开放科学改革 · [B0026–B0026]",
+      "origin": "notes"
+    },
+    {
+      "id": "L1-Q36",
+      "conceptId": "L1-C26",
+      "domain": "social",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "“BBC 结果不同，所以所有情境影响都不存在”属于什么错误？",
+      "stemEn": "What is wrong with saying, 'BBC differed, so situational influence does not exist'?",
+      "options": [
+        "正确说明角色总能决定行为",
+        "正确说明社会规范不重要",
+        "正确推断人格解释一切",
+        "把对自动角色论的批评过度扩成否定所有情境影响"
+      ],
+      "optionsEn": [
+        "It correctly shows roles always determine behaviour",
+        "It correctly shows norms are unimportant",
+        "It correctly proves personality explains everything",
+        "It overextends a critique of automatic roles into rejection of all contextual influence"
+      ],
+      "answer": 3,
+      "explanation": "BBC 的不同结果说明，角色本身不能自动决定行为；它没有证明情境完全无效。还需要看群体认同、规范、领导，以及人们是否认可这些行为。",
+      "optionExplanations": [
+        "错误：BBC 结果正是在挑战“角色自动决定行为”。",
+        "错误：规范会影响行为，不能因两项研究结果不同就排除它。",
+        "错误：研究强调群体过程，没有证明人格能解释一切。",
+        "正确：批评一个过度简单的角色解释，不等于否认所有情境影响。"
+      ],
+      "source": "L1 · 七个经典研究总对照 · [B0353–B0393]",
+      "origin": "notes"
+    }
+  ],
+  "file": "Lecture1.docx",
+  "sourceBlocks": [
+    {
+      "id": 1,
+      "text": "Introduction\nPSYC1004：Understanding People in Context\n在情境中理解人\n│\n├── 1. Psychology in Context 情境中的心理学\n│   ├── Psychology 心理学\n│   ├── Context 情境\n│   ├── Social Psychology 社会心理学\n│   ├── Developmental Psychology 发展心理学\n│   └── Personality Psychology 人格心理学\n│\n├── 2. Social Psychology 社会心理学\n│   ├── Actual / Imagined / Implied Presence of Others\n│   │   他人实际、想象或隐含的存在\n│   ├── Levels of Analysis 分析层级\n│   └── Triplett：Social Facilitation 社会促进\n│\n├── 3. Critical History of Psychology\n│   心理学历史的批判性反思\n│   ├── Scientific Racism 科学种族主义\n│   ├── Eugenics 优生学\n│   ├── Experimenter Bias 实验者偏差\n│   ├── Replication Crisis 可重复性危机\n│   ├── Open Science 开放科学\n│   ├── WEIRD Samples WEIRD样本\n│   └── Myth of the Neutral Observer\n│       “中立观察者”迷思\n│\n└── 4. Social Influence 社会影响\n│\n├── Social Norms 社会规范\n│   └── Sherif Autokinetic Studies\n│       Sherif自动运动效应研究\n│\n├── Conformity 从众\n│   └── Asch Line-Judgement Studies\n│       Asch线段判断研究\n│\n├── Two Forms of Influence 两种影响\n│   ├── Informational Influence 信息性影响\n│   └── Normative Influence 规范性影响\n│\n├── Obedience 服从\n│   └── Milgram Studies Milgram服从研究\n│\n└── Roles, Identity and Leadership\n角色、认同与领导\n├── Stanford Prison Experiment\n│   斯坦福监狱实验\n└── BBC Prison Study\nBBC监狱研究"
+    },
+    {
+      "id": 2,
+      "text": "to"
+    },
+    {
+      "id": 3,
+      "text": "Social"
+    },
+    {
+      "id": 4,
+      "text": "Psychology"
+    },
+    {
+      "id": 5,
+      "text": "&"
+    },
+    {
+      "id": 6,
+      "text": "Social"
+    },
+    {
+      "id": 7,
+      "text": "Influence"
+    },
+    {
+      "id": 8,
+      "text": "社会心理学导论"
+    },
+    {
+      "id": 9,
+      "text": "与"
+    },
+    {
+      "id": 10,
+      "text": "社会影响"
+    },
+    {
+      "id": 13,
+      "text": "Branch 1：Psychology in Context"
+    },
+    {
+      "id": 14,
+      "text": "情境中的心理学\nPsychology 心理学\nPsychology is the scientific investigation of mental processes and behaviour.心理学是对心理过程与行为的科学研究。\n这里的心理过程包括：\nThinking 思考\nRemembering 记忆\nFeeling 感受\n+\nBehaviour 行为\n但这一基础定义还不够，因为人是社会性动物，不能把心理过程和社会环境完全分开研究。PPT因此强调，看到“people do X”时必须继续追问：\nWhich people?\n哪些人？\nIn what context?\n在什么情境中？\n笼统地说“人类都怎样”或“世界上有两种人”，通常是在把复杂的人类行为强行压成二选一角色卡。\nUnderstanding People in Context在情境中理解人\nHuman Behaviour 人类行为\n│\n├── Individual Characteristics 个体特征\n├── Social Environment 社会环境\n├── Developmental History 发展经历\n├── Personality 人格\n└── Historical / Cultural Context 历史与文化情境\nPSYC1004由三个主要领域组成：\n领域\n核心问题\nSocial Psychology 社会心理学\n社会环境如何影响人们的思想、感受与行为？\nDevelopmental Psychology 发展心理学\n人在生命早期如何成长、改变和学习？\nPersonality Psychology 人格心理学\n人格特质是否能跨时间、跨情境稳定预测行为？\n这三块不是三个完全分开的副本。例如，同一种人格特质可能在不同群体规范下表现得不同；早期发展经历也可能影响之后如何回应社会压力。"
+    },
+    {
+      "id": 16,
+      "text": "Branch 2：What Is Social Psychology?"
+    },
+    {
+      "id": 17,
+      "text": "什么是社会心理学？\n核心定义\n不同研究者的定义可以压缩为：\nSocial psychology studies how people’s thoughts, feelings and behaviours are shaped by other people and by the wider social context.社会心理学研究他人与社会情境如何塑造个体的思想、感受和行为。\nAllport的定义尤其重要：\n他人可以是实际存在 actual、想象存在 imagined或隐含存在 implied。\n也就是说，即使房间里没有人，你想到“别人会怎么看我”，仍然属于社会影响。"
+    },
+    {
+      "id": 18,
+      "text": "Social Psychology at Different Levels\n社会心理学的不同层级\nSocial Psychology 社会心理学\n│\n├── Between Individuals 个体之间\n│   └── Persuasion, conformity\n│       说服、从众\n│\n├── Self and Others 自我与他人\n│   └── Self-concept, social comparison\n│       自我概念、社会比较\n│\n├── Individual and Group 个体与群体\n│   └── Group norms, belonging\n│       群体规范、归属\n│\n├── Between Groups 群体之间\n│   └── Prejudice, intergroup conflict\n│       偏见、群体冲突\n│\n└── Society and Individual 社会与个体\n└── Institutions, culture, inequality\n制度、文化、不平等"
+    },
+    {
+      "id": 20,
+      "text": "Triplett, 1898：First Social Psychology Experiment\nTriplett：早期社会心理学实验\n研究问题\n他人在场是否会改变个体表现？\nTriplett注意到，骑自行车的人和其他人一起骑时往往更快。他随后让儿童完成卷动钓鱼线轴的简单任务：\nAlone 独自完成\nvs\nIn Pairs 两人同时完成\n结果是，儿童在两人同时完成时通常更快。\n核心概念\nSocial Facilitation 社会促进他人在场可以改变个体的任务表现。\n本Lecture只需要记：\nPresence of others\n他人在场\n↓\nCan alter performance\n可以改变表现\n不要扩展成“他人在场一定让表现变好”。这项研究中的简单任务变快，但核心是表现会因社会环境而改变。\nWhat is a group? 什么是群体？\n群体不是固定类别，而取决于当前情境：\n同一批人\n↓\n在Lecture里：PSYC1004学生\n在校园里：ANU学生\n在国际情境中：澳洲居民\n在其他问题中：性别、种族、职业或游戏社群\n关键不是一群人是否物理上站在一起，而是他们是否把自己心理上理解为某个共同的“我们”。"
+    },
+    {
+      "id": 21,
+      "text": "Branch 3：The Critical History of Psychology"
+    },
+    {
+      "id": 22,
+      "text": "心理学历史的批判性反思\n教授不是单纯让你背“谁在什么年份做了什么”，而是要你理解：\n心理学知识不是从真空中掉下来的。研究者、样本、社会制度和历史偏见都会影响什么问题被研究，以及结果如何被解释。\nPsychological Knowledge 心理学知识\n│\n├── Research Question 研究问题\n├── Researcher 研究者\n├── Sample 样本\n├── Measurement 测量方式\n├── Historical Context 历史情境\n└── Interpretation 结果解释"
+    },
+    {
+      "id": 24,
+      "text": "Scientific Racism 科学种族主义\n早期心理学曾经：\n·  强化种族主义和压迫；\n·  把群体差异解释为群体本身的“缺陷”；\n·  忽略贫困、教育、歧视及社会制度；\n·  进行今天不会通过伦理审查的实验。\nFrancis Galton\nPositive Contribution 正面贡献\n├── Correlation 相关\n└── Regression 回归\nHarmful Contribution 有害贡献\n└── Eugenics 优生学\nGalton帮助发展了相关和回归，但同时创立并推广优生学，认为某些群体在遗传上更“优秀”，最终为强制绝育和种族暴力提供了所谓科学依据。\nHenry Garrett\nGarrett利用所谓种族IQ差异支持学校种族隔离，把社会与教育环境造成的差异包装成无法改变的先天差异。"
+    },
+    {
+      "id": 26,
+      "text": "Replication Crisis 可重复性危机\n大型重复研究发现，许多心理学经典效应在更大、更严格的研究中无法再次出现。教授提到的主要问题包括：\nQuestionable Research Practices\n可疑研究做法\n│\n├── Forming hypotheses after seeing results\n│   看到结果后才提出假设\n│\n├── Selective reporting\n│   只发表成功发现效应的研究\n│\n└── Hiding null findings\n把没有发现效应的研究放进抽屉\n例如，研究者进行五次实验，只有两次显著，却只发表那两次，就会让一个不稳定的效应看起来像稳定规律。\nOpen Science 开放科学改革\nBefore collecting data 收集数据前\n├── Preregistration 预注册\n└── Registered Reports 注册报告\nAfter collecting data 收集数据后\n└── Data sharing 数据共享\n目的不是保证每次研究都正确，而是让研究过程更透明，让其他人能够检查、重复和质疑。\nHorace Bond\nBond指出，所谓黑人儿童智力较低的结论可能来自：\nWhite examiner 白人实验者\n+\nTest designed for White children\n为白人儿童标准化的测验\n+\nPre-existing racist assumptions\n预先存在的种族偏见\n↓\nBiased conclusion 偏差结论\n这说明实验者、测验和社会情境都可能影响数据，并不是受试者的群体身份单方面“制造”结果。"
+    },
+    {
+      "id": 27,
+      "text": "Dual Model of Persons 双重人物模型\n研究中常出现一种不对称：\nParticipant's race\n受试者种族\n→ 被认为会影响认知\nResearcher's race\n研究者种族\n→ 被假装成与研究无关\n核心不是说科学没有价值，而是：\n好的科学需要主动检查偏差，而不是假设自己天然没有偏差。\nThe Myth of the Neutral Observer“完全中立观察者”的迷思\n传统经验主义常假设：\n科学家应当作为与世界分离的中立观察者。\n但Lecture强调，研究者也生活在某个：\nHistorical Time 历史时期\nGeographic Place 地理位置\nSocial Group 社会群体\nCultural System 文化系统\n因此，研究者的背景会影响：\n·  什么问题值得研究；\n·  哪些群体被视为“正常标准”；\n·  如何设计测量；\n·  如何解释结果。\nWEIRD Samples WEIRD样本偏差\nWEIRD代表：\nWestern 西方\nEducated 受教育\nIndustrialised 工业化\nRich 富裕\nDemocratic 民主\nLecture中的关键数字：\n约占全球人口：12%\n却占心理学已发表研究参与者：最高约80%\n这意味着\n“WEIRD大学生通常这样反应”不等于“全人类通常这样反应”。\n即使样本量很大，如果样本来自非常狭窄的社会群体，结论仍可能无法推广。"
+    },
+    {
+      "id": 28,
+      "text": "Branch 4：Social Influence and Social Norms"
+    },
+    {
+      "id": 29,
+      "text": "社会影响与社会规范\nSocial Influence 社会影响\n社会影响是人们协商、同意或争议“在某个情境下什么行为才合适”的过程。\n它也是社会规范：\nFormed 形成\nMaintained 维持\nChanged 改变\n的过程。\nSocial Norms 社会规范\nNorms are social uniformities produced through mutual influence between group members.规范是群体成员相互影响后形成的共同标准。\n规范通常具有五种特征：\n特征\n白话理解\nEndorsed 被认可\n群体认为这是“正确做法”。\nDescriptive 描述性\n告诉人们这里通常怎么做。\nPrescriptive 规定性\n告诉成员应该怎么做。\nOughtness 应当性\n带有义务、责任或“不这样会很怪”的感觉。\nExpress social values 表达价值\n反映该群体认为什么是好、正常、可接受的。\n例如，排队、Lecture中保持安静、餐厅中的用餐方式，都是特定社会和情境下形成的规范。"
+    },
+    {
+      "id": 32,
+      "text": "Sherif’s Autokinetic Studies"
+    },
+    {
+      "id": 33,
+      "text": "Sherif自动运动效应研究\n研究材料：Autokinetic Effect 自动运动效应\n在完全黑暗的房间里，一个静止的小光点会因为缺乏参照物而看起来像在移动。\n实际上：\nThe light does not move.\n光点没有移动。\n实验流程\nStage 1：Alone 独自判断\n不同参与者给出不同移动距离\n↓\nStage 2：Group 小组判断\n2–3人一起报告\n答案逐渐靠拢\n↓\nStage 3：Alone 再次独自判断\n参与者仍保留小组形成的判断标准\n结果\n·  独自判断时差异较大；\n·  进入群体后，答案逐渐趋同；\n·  离开群体后，形成的规范仍然存在；\n·  后续研究发现，规范影响可持续数月甚至约一年；\n·  只有约25%的人承认自己受到别人影响。\nPPT第52页的折线图显示，三名参与者原本差异很大，进入group trials后逐渐汇聚；回到alone阶段后，仍保持接近群体规范的判断。"
+    },
+    {
+      "id": 34,
+      "text": "Sherif研究的意义\nIndividual Judgements 个体判断\n+\nMutual Influence 相互影响\n↓\nGroup Norm 群体规范\n↓\nInternalisation 内化\n↓\nNorm persists after group leaves\n群体离开后规范仍存在\n因此，规范不是所有个体答案的简单平均，而是群体互动产生的group product 群体产物。"
+    },
+    {
+      "id": 35,
+      "text": "关键结论\n社会过程可以影响我们对物理世界的知觉。\n局限\n任务没有清楚、客观的正确答案。情境越模糊，人越可能参考其他人，因此Sherif研究无法回答：\n当正确答案非常明显时，人们还会不会从众？\n这直接引出了Asch研究。"
+    },
+    {
+      "id": 36,
+      "text": "Asch Line-Judgement Studies"
+    },
+    {
+      "id": 37,
+      "text": "Asch线段判断研究\n研究问题\n当正确答案就在眼前时，人们还会不会跟着群体说错话？\n实验结构\nOne real participant 一名真正参与者\n+\nSeveral confederates 多名实验同谋\n↓\nCompare line X with lines 1, 2, 3\n比较线段长度\n↓\nConfederates deliberately give\nthe same wrong answer\n同谋故意一致回答错误\n关键结果\n75%\n至少在一次trial中跟随群体答错\n25%\n从未从众\n37%\n所有关键trial中，从众答案的平均比例\n63%\n所有trial中，没有从众的答案比例\n因此，下面两句话都是真的：\n75%的人至少从众过一次。整体上，大多数回答仍然没有从众。\n选择强调哪一句，会制造完全不同的“人类天生像羊群”叙事。"
+    },
+    {
+      "id": 76,
+      "text": "Barriers to Conformity\n什么能降低从众？\nDissent 异议\n└── 只要有另一个人打破一致性，从众就大幅下降。\nAnonymity / Private Response\n匿名或私人回答\n└── 群体看不到自己的答案，规范压力下降。\n教授还强调，即使异议者给出的是另一个错误答案，只要他打破群体的全体一致，也可能降低从众。"
+    },
+    {
+      "id": 88,
+      "text": "What Increases Conformity?\n什么会增加从众？\nLarger Group 更大的群体\nUnanimity 群体意见完全一致\nAdmired / Attractive Group\n希望加入或敬佩该群体\nPublic Response 公开回答\nCulture Supporting Norms\n强调服从群体规范的文化"
+    },
+    {
+      "id": 101,
+      "text": "更合理的解释\nAsch参与者并非都在毫无思考地模仿群体。他们可能：\n·  认为自己看错了；\n·  真的开始把线看成群体所说的样子；\n·  明知群体错了，但为了避免尴尬而公开配合。\n这三种情况并不是同一种心理机制，因此需要区分：\nInformational Influence 信息性影响\nvs\nNormative Influence 规范性影响"
+    },
+    {
+      "id": 120,
+      "text": "Physical vs Social Reality Testing"
+    },
+    {
+      "id": 121,
+      "text": "物理现实检验与社会现实检验\nPhysical Reality Testing 物理现实检验\n使用自己的眼睛、耳朵和触觉判断现实。\n例如：\n直接看线段长度"
+    },
+    {
+      "id": 128,
+      "text": "Social Reality Testing 社会现实检验\n参考其他人的判断来决定什么是真的或正确的。\n例如：\n自己不确定时，看大家都选了什么\n一般来说：\nClear Situation 清楚情境\n→ More physical reality testing\n更多物理现实检验\nAmbiguous Situation 模糊情境\n→ More social reality testing\n更多社会现实检验\n但Asch证明，即使物理证据清楚，社会影响仍可能存在。"
+    },
+    {
+      "id": 161,
+      "text": "Informational vs Normative Influence"
+    },
+    {
+      "id": 162,
+      "text": "信息性影响 vs 规范性影响\nInformational Influence 信息性影响\nMain Goal 核心目标\n→ Be correct / accurate\n想要正确\nProcess 过程\n→ Use others as a source of factual information\n把别人当成事实信息来源\nOutcome 结果\n→ Private conformity / internalisation\n私下也真正改变看法\n简单例子\n你不知道明天会不会下雨，于是查看天气预报，并真的相信会下雨。\n核心句\nI agree because I believe they are right.我同意，是因为我认为他们是对的。"
+    },
+    {
+      "id": 180,
+      "text": "Normative Influence 规范性影响\nMain Goal 核心目标\n→ Gain approval / avoid rejection\n获得认可、避免排斥\nProcess 过程\n→ Follow the group despite private disagreement\n私下不同意，公开跟随群体\nOutcome 结果\n→ Public compliance\n公开顺从\n简单例子\n队伍里所有人都说某个Boss非常简单，你其实完全不会，但为了不显得菜，先跟着说“确实很简单”。\n核心句\nI agree because I do not want to stand out.我同意，是因为我不想显得格格不入。"
+    },
+    {
+      "id": 200,
+      "text": "必须分清\n信息性影响\n规范性影响\n想要正确\n想要被接纳\n相信别人知道答案\n害怕被群体拒绝\n私下看法也改变\n可能只有公开行为改变\nConformity 从众／内化\nCompliance 顺从／配合"
+    },
+    {
+      "id": 211,
+      "text": "Deutsch & Gerard Study"
+    },
+    {
+      "id": 212,
+      "text": "Deutsch与Gerard研究"
+    },
+    {
+      "id": 214,
+      "text": "他们重新设计了类似Asch的实验，操纵两个自变量。"
+    },
+    {
+      "id": 215,
+      "text": "IV1：Nature of Response 回答方式\nPublic 公开回答\nPublic + Group Goal\n公开回答＋要求群体共同准确\nPrivate / Anonymous\n私人／匿名回答\nIV2：Certainty of Physical Reality物理现实是否清楚\nStimulus Present\n线段一直可见\nStimulus Absent\n线段短暂出现后被移走\n图表的三个重要结论\nStimulus absent时错误更多\n看不到原始线段\n→ 物理现实检验变困难\n→ 更依赖其他人\n→ 信息性影响上升\nGroup goal条件下错误最高\n要求大家“作为一个群体共同准确”会增强群体身份和不要破坏一致性的压力，因此群体影响更强。\nAnonymous条件下错误仍不为零\n即使答案不会被群体看到，仍然有人跟随群体。\n这说明并非全部错误都是“怕尴尬”：\nAnonymous but still influenced\n匿名仍受影响\n↓\nSome participants genuinely believed\nthe group was correct\n部分人真的认为群体正确\n↓\nInformational influence\n信息性影响"
+    },
+    {
+      "id": 217,
+      "text": "Why the 1950s–1970s Focused on Conformity"
+    },
+    {
+      "id": 218,
+      "text": "为什么二战后特别研究从众与服从？"
+    },
+    {
+      "id": 219,
+      "text": "第二次世界大战和大屠杀之后，人们迫切想知道："
+    },
+    {
+      "id": 232,
+      "text": "Milgram Obedience Studies"
+    },
+    {
+      "id": 233,
+      "text": "Milgram服从研究\n实验结构\nExperimenter 实验者\n合法权威\n↓\nTeacher 教师\n真正参与者\n↓\nLearner 学习者\n实验同谋\n参与者以为自己正在进行记忆研究。学习者每答错一次，教师就要施加更强的电击。\n实际上：\nLearner = actor\n学习者是演员\nShocks = fake\n电击是假的\n但真正参与者并不知道。"
+    },
+    {
+      "id": 236,
+      "text": "Were atrocities caused by\na uniquely “bad” group?\n暴行是否来自某个特殊的“坏群体”？\nor\nCan ordinary people commit harm\nunder certain social conditions?\n普通人在特定社会条件下是否也会伤害他人？\n这推动了Milgram服从实验和后来对情境、权威与角色的研究。"
+    },
+    {
+      "id": 238,
+      "text": "核心结果\n65% of participants continued to the maximum 450 volts.65%的参与者一直服从到最高450伏。\n实验者只使用相对简短的提示：\nPlease continue.\n请继续。\nThe experiment requires you to go on.\n实验要求你继续。\nIt is absolutely essential that you continue.\n你继续下去至关重要。\nYou must go on.\n你必须继续。\n为什么服从？\nLegitimate Authority 合法权威\nYale + white coat + scientific study\n耶鲁、白大褂、科学研究\nTransfer of Responsibility 责任转移\n“实验者负责，不是我负责”\nCommitment to Scientific Goal\n相信自己在帮助科学\nGradual Escalation 逐步升级\n电压一点点增加，而不是一开始就450V\n教授尤其强调：参与者在权威人物承担责任时，更容易继续伤害行为。\n什么会降低服从？\nCloser Proximity to Learner\n离受害者更近\n→ 服从有所下降\nDissenting Peer\n另一名参与者拒绝继续\n→ 服从明显下降\nDissenting Authority\n另一位权威人物反对实验\n→ 服从下降最明显\n与Asch相同，异议 dissent再次成为抵抗社会压力的重要条件。"
+    },
+    {
+      "id": 282,
+      "text": "Milgram研究的真正结论\n不是：\n所有人本质邪恶。\n而是：\n普通人在合法权威、责任转移和特定制度规范下，可能做出与自己道德判断冲突的行为。\n研究也造成了严重的心理压力，推动了更严格的现代研究伦理。"
+    },
+    {
+      "id": 288,
+      "text": "Stanford Prison Experiment"
+    },
+    {
+      "id": 289,
+      "text": "斯坦福监狱实验\n原始设计\nYoung “normal” men\n年轻、心理健康男性\n↓\nRandom allocation 随机分配\nGuards 警卫\nvs\nPrisoners 囚犯\n↓\nSimulated prison\n模拟监狱\nZimbardo本人担任监狱长。\n原始结论\nZimbardo声称：\nPowerful Situation / Role\n强大的情境／社会角色\n↓\nOrdinary people blindly conform\n普通人盲目服从角色\n↓\nGuards become brutal\n警卫变得残酷\n主要批评\n后来发现，警卫并不是完全没有接受行为指导。\nZimbardo曾明确告诉警卫，他们可以：\n·  制造无聊和恐惧；\n·  剥夺隐私；\n·  控制囚犯行为；\n·  夺走囚犯的个体性；\n·  制造无力感。\n因此，这项研究并不是纯粹测试：\n“角色本身会不会让人变坏？”"
+    },
+    {
+      "id": 306,
+      "text": "BBC Prison Study"
+    },
+    {
+      "id": 307,
+      "text": "BBC监狱研究\nHaslam和Reicher在2002年进行了更受控的监狱研究。\n与Stanford研究的重要区别\nSame basic structure\n类似的警卫／囚犯结构\nBUT\nNo clear instructions telling guards\nto create powerlessness\n没有明确指导警卫制造无力感\n结果发展\nEarly Stage 初期\nGuards initially hold more power\n警卫起初权力较高\nDays 3–4\nPrisoners unite and resist\n囚犯形成共同身份并反抗\nGuards become divided\n警卫彼此不一致\nDay 5\n“Us vs Them” boundaries change\n“我们与他们”的界线发生变化\nGuards and prisoners partly unite\n共同对抗实验者\nLater\nCommune attempt fails\n自治公社尝试失败\nSome members propose authoritarian takeover\n部分成员试图建立军事式统治\nPPT第84页的图表还显示，随着群体认同变化，压力和抑郁也随之变化：更有共同认同和集体力量的一方，通常更能控制情境。"
+    },
+    {
+      "id": 308,
+      "text": "它同时测试了：\nPowerful Authority Figure 强势权威\n+\nOppressive Group Norms 压迫性群体规范\n+\nIdentity Leadership 身份领导\nZimbardo不仅观察了系统，他还参与建立并合法化了该系统。"
+    },
+    {
+      "id": 310,
+      "text": "BBC研究的核心结论\nSituation / Role alone\n仅有情境或角色\n≠\nAutomatic brutality\n不会自动制造残酷行为\n还需要考虑：\nSocial Identification 社会认同\nDo people psychologically identify with the group?\n人们是否真正认同这个群体？\nLeadership 领导\nWhat norms does the leader create?\n领导者建立了什么规范？\nGroup Unity 群体团结\nIs the group coordinated or divided?\n群体团结还是分裂？\nLegitimacy 合法性\nDoes behaviour appear authorised and acceptable?\n行为是否被权威合法化？\n因此：\n行为并非由角色机械决定；人们如何理解和认同角色，以及谁建立群体规范，同样关键。"
+    },
+    {
+      "id": 353,
+      "text": "七个经典研究总对照\n研究\n核心问题\n关键发现\nTriplett, 1898\n他人在场会改变表现吗？\n在简单卷线任务中，两人一起时更快。\nSherif\n模糊情境中规范如何形成？\n个体判断在群体中汇聚，规范离开群体后仍保留。\nAsch\n正确答案明显时还会从众吗？\n75%至少从众一次，但整体63%的回答没有从众。\nDeutsch & Gerard\n从众为什么发生？\n信息性影响改变私人看法；规范性影响产生公开顺从。\nMilgram\n人为何服从有害命令？\n合法权威与责任转移可使普通人持续服从。\nStanford Prison Experiment\n角色是否使人变得残酷？\n原研究声称角色和情境导致残酷，但方法受到严重质疑。\nBBC Prison Study\n没有Zimbardo式领导时会怎样？\n角色本身不够；社会认同、领导和群体规范才是关键。"
+    },
+    {
+      "id": 366,
+      "text": "最容易出MCQ的对比\nSherif vs Asch\nSherif\n├── Ambiguous task 模糊任务\n├── No obvious correct answer\n├── Group norm forms\n└── Mainly informational influence\nAsch\n├── Clear task 清楚任务\n├── Obvious correct answer\n├── Group deliberately wrong\n└── Informational + normative influence\nInformational vs Normative\nInformational\n“他们应该是对的”\n→ Private conformity\n→ Internalisation\nNormative\n“我不想被排斥”\n→ Public compliance\n→ Private disagreement may remain"
+    },
+    {
+      "id": 393,
+      "text": "Milgram vs Stanford vs BBC\nMilgram\nAuthority gives direct commands\n权威直接命令\nStanford\nZimbardo claimed roles caused brutality\n声称角色导致残酷\nbut authority and instructions were present\n但实际有权威和行为指导\nBBC\nNo equivalent oppressive guidance\n没有同等的压迫性指导\n→ Roles alone did not create the same outcome\n角色本身未产生同样结果"
+    },
+    {
+      "id": 405,
+      "text": "常见考试陷阱"
+    },
+    {
+      "id": 406,
+      "text": "陷阱\n正确理解\nSherif实验中的光真的移动了\n错。光点静止，运动是视觉错觉。\nNorm等于每个人答案的平均\n错。规范是互动形成的群体产物。\nAsch证明大多数人在大多数时候都会从众\n错。75%至少从众一次，但整体63%的回答没有从众。\n有一个异议者必须说正确答案才有帮助\n不一定。打破一致性本身就能降低压力。\nInformational influence只是公开装作同意\n错。那更接近normative influence和compliance。\nNormative influence意味着私下态度改变\n不一定，可能只是公开配合。\nMilgram说明人天生邪恶\n过度解释。研究强调权威、责任和情境。\nStanford Prison Experiment证明角色自动让人残酷\n错。警卫接受过指导，Zimbardo也是权威领导者。\nBBC研究说明情境完全不重要\n错。情境重要，但必须结合认同、规范和领导。\n大样本就一定可以推广至全人类\n错。大量WEIRD样本仍可能没有代表性。\n科学家使用实验方法就自动没有偏见\n错。研究者和研究制度本身也处于社会情境中。"
+    },
+    {
+      "id": 421,
+      "text": "及格优先级\nTier 1：必须先掌握\n·  Social Psychology 社会心理学定义\n·  Context 情境的重要性\n·  Social Influence 社会影响\n·  Social Norms 社会规范\n·  Sherif研究流程与结论\n·  Asch研究及75% / 37% / 63%\n·  增加与降低从众的因素\n·  Informational vs Normative Influence\n·  Conformity vs Compliance\n·  Milgram研究与65%\n·  Legitimate Authority 合法权威\n·  Stanford研究的原始结论与批评\n·  BBC研究的不同结果\n·  Social Identification 社会认同\n·  WEIRD样本与推广问题\nTier 2：第二轮掌握\n·  Triplett与social facilitation；\n·  physical vs social reality testing；\n·  Deutsch & Gerard实验图；\n·  Galton、Garrett与Bond；\n·  replication crisis；\n·  open science；\n·  neutral observer问题；\n·  prison study中的领导与群体规范。\nTier 3：只需认识\n·  每一位研究者的完整生平；\n·  Stanford/BBC实验逐日发生的每个细节；\n·  Milgram每一个电压档位的停止人数；\n·  长篇原始引文；\n·  视频中的完整对白。"
+    },
+    {
+      "id": 424,
+      "text": "PPT原始复习题对应答案骨架\nWhy are Sherif’s studies important?\nAmbiguous reality\n↓\nGroup interaction\n↓\nShared norm\n↓\nInternalisation\n↓\nNorm persists outside group\nWhy were Asch’s results surprising?\n因为即使正确答案明显，群体一致错误仍能让许多人至少一次放弃自己的判断。\nNormative vs Informational Influence?\nInformational = want to be right\n→ private conformity\nNormative = want approval / avoid rejection\n→ public compliance\nWhy did Milgram participants obey?\n合法权威、科学机构的正当性、逐步升级以及责任转移。\nMain criticism of Stanford Prison Experiment?\n警卫并非完全自主发展行为；Zimbardo提供了压迫性指导，同时担任权威领导者。\nHow was the BBC analysis different?\n它认为人不会自动服从角色；社会认同、领导、共同规范和群体团结决定谁拥有集体力量。"
+    }
+  ],
+  "sourceText": "# Lecture 1\n\n\n\n\n## [B0001] Introduction\n\n[B0001 FIGURE] 文本框 1\n\n[B0001 TEXTBOX]\nPSYC1004：Understanding People in Context\n在情境中理解人\n│\n├── 1. Psychology in Context 情境中的心理学\n│   ├── Psychology 心理学\n│   ├── Context 情境\n│   ├── Social Psychology 社会心理学\n│   ├── Developmental Psychology 发展心理学\n│   └── Personality Psychology 人格心理学\n│\n├── 2. Social Psychology 社会心理学\n│   ├── Actual / Imagined / Implied Presence of Others\n│   │   他人实际、想象或隐含的存在\n│   ├── Levels of Analysis 分析层级\n│   └── Triplett：Social Facilitation 社会促进\n│\n├── 3. Critical History of Psychology\n│   心理学历史的批判性反思\n│   ├── Scientific Racism 科学种族主义\n│   ├── Eugenics 优生学\n│   ├── Experimenter Bias 实验者偏差\n│   ├── Replication Crisis 可重复性危机\n│   ├── Open Science 开放科学\n│   ├── WEIRD Samples WEIRD样本\n│   └── Myth of the Neutral Observer\n│       “中立观察者”迷思\n│\n└── 4. Social Influence 社会影响\n│\n├── Social Norms 社会规范\n│   └── Sherif Autokinetic Studies\n│       Sherif自动运动效应研究\n│\n├── Conformity 从众\n│   └── Asch Line-Judgement Studies\n│       Asch线段判断研究\n│\n├── Two Forms of Influence 两种影响\n│   ├── Informational Influence 信息性影响\n│   └── Normative Influence 规范性影响\n│\n├── Obedience 服从\n│   └── Milgram Studies Milgram服从研究\n│\n└── Roles, Identity and Leadership\n角色、认同与领导\n├── Stanford Prison Experiment\n│   斯坦福监狱实验\n└── BBC Prison Study\nBBC监狱研究\n\n## [B0002] to\n\n## [B0003] Social\n\n## [B0004] Psychology\n\n## [B0005] &\n\n## [B0006] Social\n\n## [B0007] Influence\n\n## [B0008] 社会心理学导论\n\n## [B0009] 与\n\n## [B0010] 社会影响\n\n## [B0013] Branch 1：Psychology in Context\n\n## [B0014] 情境中的心理学\n\n[B0014 FIGURE] 文本框 2\n\n[B0014 TEXTBOX]\nPsychology 心理学\nPsychology is the scientific investigation of mental processes and behaviour.心理学是对心理过程与行为的科学研究。\n这里的心理过程包括：\nThinking 思考\nRemembering 记忆\nFeeling 感受\n+\nBehaviour 行为\n但这一基础定义还不够，因为人是社会性动物，不能把心理过程和社会环境完全分开研究。PPT因此强调，看到“people do X”时必须继续追问：\nWhich people?\n哪些人？\nIn what context?\n在什么情境中？\n笼统地说“人类都怎样”或“世界上有两种人”，通常是在把复杂的人类行为强行压成二选一角色卡。\nUnderstanding People in Context在情境中理解人\nHuman Behaviour 人类行为\n│\n├── Individual Characteristics 个体特征\n├── Social Environment 社会环境\n├── Developmental History 发展经历\n├── Personality 人格\n└── Historical / Cultural Context 历史与文化情境\nPSYC1004由三个主要领域组成：\n领域\n核心问题\nSocial Psychology 社会心理学\n社会环境如何影响人们的思想、感受与行为？\nDevelopmental Psychology 发展心理学\n人在生命早期如何成长、改变和学习？\nPersonality Psychology 人格心理学\n人格特质是否能跨时间、跨情境稳定预测行为？\n这三块不是三个完全分开的副本。例如，同一种人格特质可能在不同群体规范下表现得不同；早期发展经历也可能影响之后如何回应社会压力。\n\n## [B0016] Branch 2：What Is Social Psychology?\n\n## [B0017] 什么是社会心理学？\n\n[B0017 FIGURE] 文本框 3\n\n[B0017 TEXTBOX]\n核心定义\n不同研究者的定义可以压缩为：\nSocial psychology studies how people’s thoughts, feelings and behaviours are shaped by other people and by the wider social context.社会心理学研究他人与社会情境如何塑造个体的思想、感受和行为。\nAllport的定义尤其重要：\n他人可以是实际存在 actual、想象存在 imagined或隐含存在 implied。\n也就是说，即使房间里没有人，你想到“别人会怎么看我”，仍然属于社会影响。\n\n[B0018 FIGURE] 文本框 4\n\n[B0018 TEXTBOX]\nSocial Psychology at Different Levels\n社会心理学的不同层级\nSocial Psychology 社会心理学\n│\n├── Between Individuals 个体之间\n│   └── Persuasion, conformity\n│       说服、从众\n│\n├── Self and Others 自我与他人\n│   └── Self-concept, social comparison\n│       自我概念、社会比较\n│\n├── Individual and Group 个体与群体\n│   └── Group norms, belonging\n│       群体规范、归属\n│\n├── Between Groups 群体之间\n│   └── Prejudice, intergroup conflict\n│       偏见、群体冲突\n│\n└── Society and Individual 社会与个体\n└── Institutions, culture, inequality\n制度、文化、不平等\n\n[B0020 FIGURE] 文本框 6\n\n[B0020 FIGURE] 文本框 5\n\n[B0020 TEXTBOX]\nTriplett, 1898：First Social Psychology Experiment\nTriplett：早期社会心理学实验\n研究问题\n他人在场是否会改变个体表现？\nTriplett注意到，骑自行车的人和其他人一起骑时往往更快。他随后让儿童完成卷动钓鱼线轴的简单任务：\nAlone 独自完成\nvs\nIn Pairs 两人同时完成\n结果是，儿童在两人同时完成时通常更快。\n核心概念\nSocial Facilitation 社会促进他人在场可以改变个体的任务表现。\n本Lecture只需要记：\nPresence of others\n他人在场\n↓\nCan alter performance\n可以改变表现\n不要扩展成“他人在场一定让表现变好”。这项研究中的简单任务变快，但核心是表现会因社会环境而改变。\n\n[B0020 TEXTBOX]\nWhat is a group? 什么是群体？\n群体不是固定类别，而取决于当前情境：\n同一批人\n↓\n在Lecture里：PSYC1004学生\n在校园里：ANU学生\n在国际情境中：澳洲居民\n在其他问题中：性别、种族、职业或游戏社群\n关键不是一群人是否物理上站在一起，而是他们是否把自己心理上理解为某个共同的“我们”。\n\n## [B0021] Branch 3：The Critical History of Psychology\n\n## [B0022] 心理学历史的批判性反思\n\n[B0022 FIGURE] 文本框 9\n\n[B0022 TEXTBOX]\n教授不是单纯让你背“谁在什么年份做了什么”，而是要你理解：\n心理学知识不是从真空中掉下来的。研究者、样本、社会制度和历史偏见都会影响什么问题被研究，以及结果如何被解释。\nPsychological Knowledge 心理学知识\n│\n├── Research Question 研究问题\n├── Researcher 研究者\n├── Sample 样本\n├── Measurement 测量方式\n├── Historical Context 历史情境\n└── Interpretation 结果解释\n\n[B0024 FIGURE] 文本框 7\n\n[B0024 TEXTBOX]\nScientific Racism 科学种族主义\n早期心理学曾经：\n·  强化种族主义和压迫；\n·  把群体差异解释为群体本身的“缺陷”；\n·  忽略贫困、教育、歧视及社会制度；\n·  进行今天不会通过伦理审查的实验。\nFrancis Galton\nPositive Contribution 正面贡献\n├── Correlation 相关\n└── Regression 回归\nHarmful Contribution 有害贡献\n└── Eugenics 优生学\nGalton帮助发展了相关和回归，但同时创立并推广优生学，认为某些群体在遗传上更“优秀”，最终为强制绝育和种族暴力提供了所谓科学依据。\nHenry Garrett\nGarrett利用所谓种族IQ差异支持学校种族隔离，把社会与教育环境造成的差异包装成无法改变的先天差异。\n\n[B0026 FIGURE] 文本框 11\n\n[B0026 FIGURE] 文本框 10\n\n[B0026 TEXTBOX]\nReplication Crisis 可重复性危机\n大型重复研究发现，许多心理学经典效应在更大、更严格的研究中无法再次出现。教授提到的主要问题包括：\nQuestionable Research Practices\n可疑研究做法\n│\n├── Forming hypotheses after seeing results\n│   看到结果后才提出假设\n│\n├── Selective reporting\n│   只发表成功发现效应的研究\n│\n└── Hiding null findings\n把没有发现效应的研究放进抽屉\n例如，研究者进行五次实验，只有两次显著，却只发表那两次，就会让一个不稳定的效应看起来像稳定规律。\nOpen Science 开放科学改革\nBefore collecting data 收集数据前\n├── Preregistration 预注册\n└── Registered Reports 注册报告\nAfter collecting data 收集数据后\n└── Data sharing 数据共享\n目的不是保证每次研究都正确，而是让研究过程更透明，让其他人能够检查、重复和质疑。\n\n[B0026 TEXTBOX]\nHorace Bond\nBond指出，所谓黑人儿童智力较低的结论可能来自：\nWhite examiner 白人实验者\n+\nTest designed for White children\n为白人儿童标准化的测验\n+\nPre-existing racist assumptions\n预先存在的种族偏见\n↓\nBiased conclusion 偏差结论\n这说明实验者、测验和社会情境都可能影响数据，并不是受试者的群体身份单方面“制造”结果。\n\n[B0027 FIGURE] 文本框 14\n\n[B0027 FIGURE] 文本框 13\n\n[B0027 FIGURE] 文本框 12\n\n[B0027 TEXTBOX]\nDual Model of Persons 双重人物模型\n研究中常出现一种不对称：\nParticipant's race\n受试者种族\n→ 被认为会影响认知\nResearcher's race\n研究者种族\n→ 被假装成与研究无关\n核心不是说科学没有价值，而是：\n好的科学需要主动检查偏差，而不是假设自己天然没有偏差。\n\n[B0027 TEXTBOX]\nThe Myth of the Neutral Observer“完全中立观察者”的迷思\n传统经验主义常假设：\n科学家应当作为与世界分离的中立观察者。\n但Lecture强调，研究者也生活在某个：\nHistorical Time 历史时期\nGeographic Place 地理位置\nSocial Group 社会群体\nCultural System 文化系统\n因此，研究者的背景会影响：\n·  什么问题值得研究；\n·  哪些群体被视为“正常标准”；\n·  如何设计测量；\n·  如何解释结果。\n\n[B0027 TEXTBOX]\nWEIRD Samples WEIRD样本偏差\nWEIRD代表：\nWestern 西方\nEducated 受教育\nIndustrialised 工业化\nRich 富裕\nDemocratic 民主\nLecture中的关键数字：\n约占全球人口：12%\n却占心理学已发表研究参与者：最高约80%\n这意味着\n“WEIRD大学生通常这样反应”不等于“全人类通常这样反应”。\n即使样本量很大，如果样本来自非常狭窄的社会群体，结论仍可能无法推广。\n\n## [B0028] Branch 4：Social Influence and Social Norms\n\n## [B0029] 社会影响与社会规范\n\n[B0029 FIGURE] 文本框 15\n\n[B0029 TEXTBOX]\nSocial Influence 社会影响\n社会影响是人们协商、同意或争议“在某个情境下什么行为才合适”的过程。\n它也是社会规范：\nFormed 形成\nMaintained 维持\nChanged 改变\n的过程。\nSocial Norms 社会规范\nNorms are social uniformities produced through mutual influence between group members.规范是群体成员相互影响后形成的共同标准。\n规范通常具有五种特征：\n特征\n白话理解\nEndorsed 被认可\n群体认为这是“正确做法”。\nDescriptive 描述性\n告诉人们这里通常怎么做。\nPrescriptive 规定性\n告诉成员应该怎么做。\nOughtness 应当性\n带有义务、责任或“不这样会很怪”的感觉。\nExpress social values 表达价值\n反映该群体认为什么是好、正常、可接受的。\n例如，排队、Lecture中保持安静、餐厅中的用餐方式，都是特定社会和情境下形成的规范。\n\n## [B0032] Sherif’s Autokinetic Studies\n\n## [B0033] Sherif自动运动效应研究\n\n[B0033 FIGURE] 文本框 16\n\n[B0033 TEXTBOX]\n研究材料：Autokinetic Effect 自动运动效应\n在完全黑暗的房间里，一个静止的小光点会因为缺乏参照物而看起来像在移动。\n实际上：\nThe light does not move.\n光点没有移动。\n实验流程\nStage 1：Alone 独自判断\n不同参与者给出不同移动距离\n↓\nStage 2：Group 小组判断\n2–3人一起报告\n答案逐渐靠拢\n↓\nStage 3：Alone 再次独自判断\n参与者仍保留小组形成的判断标准\n结果\n·  独自判断时差异较大；\n·  进入群体后，答案逐渐趋同；\n·  离开群体后，形成的规范仍然存在；\n·  后续研究发现，规范影响可持续数月甚至约一年；\n·  只有约25%的人承认自己受到别人影响。\nPPT第52页的折线图显示，三名参与者原本差异很大，进入group trials后逐渐汇聚；回到alone阶段后，仍保持接近群体规范的判断。\n\n[B0034 FIGURE] 文本框 17\n\n[B0034 TEXTBOX]\nSherif研究的意义\nIndividual Judgements 个体判断\n+\nMutual Influence 相互影响\n↓\nGroup Norm 群体规范\n↓\nInternalisation 内化\n↓\nNorm persists after group leaves\n群体离开后规范仍存在\n因此，规范不是所有个体答案的简单平均，而是群体互动产生的group product 群体产物。\n\n[B0035 FIGURE] 文本框 18\n\n[B0035 TEXTBOX]\n关键结论\n社会过程可以影响我们对物理世界的知觉。\n局限\n任务没有清楚、客观的正确答案。情境越模糊，人越可能参考其他人，因此Sherif研究无法回答：\n当正确答案非常明显时，人们还会不会从众？\n这直接引出了Asch研究。\n\n## [B0036] Asch Line-Judgement Studies\n\n## [B0037] Asch线段判断研究\n\n[B0037 FIGURE] 文本框 20\n\n[B0037 TEXTBOX]\n研究问题\n当正确答案就在眼前时，人们还会不会跟着群体说错话？\n实验结构\nOne real participant 一名真正参与者\n+\nSeveral confederates 多名实验同谋\n↓\nCompare line X with lines 1, 2, 3\n比较线段长度\n↓\nConfederates deliberately give\nthe same wrong answer\n同谋故意一致回答错误\n关键结果\n75%\n至少在一次trial中跟随群体答错\n25%\n从未从众\n37%\n所有关键trial中，从众答案的平均比例\n63%\n所有trial中，没有从众的答案比例\n因此，下面两句话都是真的：\n75%的人至少从众过一次。整体上，大多数回答仍然没有从众。\n选择强调哪一句，会制造完全不同的“人类天生像羊群”叙事。\n\n[B0076 FIGURE] 文本框 22\n\n[B0076 TEXTBOX]\nBarriers to Conformity\n什么能降低从众？\nDissent 异议\n└── 只要有另一个人打破一致性，从众就大幅下降。\nAnonymity / Private Response\n匿名或私人回答\n└── 群体看不到自己的答案，规范压力下降。\n教授还强调，即使异议者给出的是另一个错误答案，只要他打破群体的全体一致，也可能降低从众。\n\n[B0088 FIGURE] 文本框 21\n\n[B0088 TEXTBOX]\nWhat Increases Conformity?\n什么会增加从众？\nLarger Group 更大的群体\nUnanimity 群体意见完全一致\nAdmired / Attractive Group\n希望加入或敬佩该群体\nPublic Response 公开回答\nCulture Supporting Norms\n强调服从群体规范的文化\n\n[B0101 FIGURE] 文本框 23\n\n[B0101 TEXTBOX]\n更合理的解释\nAsch参与者并非都在毫无思考地模仿群体。他们可能：\n·  认为自己看错了；\n·  真的开始把线看成群体所说的样子；\n·  明知群体错了，但为了避免尴尬而公开配合。\n这三种情况并不是同一种心理机制，因此需要区分：\nInformational Influence 信息性影响\nvs\nNormative Influence 规范性影响\n\n## [B0120] Physical vs Social Reality Testing\n\n## [B0121] 物理现实检验与社会现实检验\n\n[B0121 FIGURE] 文本框 25\n\n[B0121 TEXTBOX]\nPhysical Reality Testing 物理现实检验\n使用自己的眼睛、耳朵和触觉判断现实。\n例如：\n直接看线段长度\n\n[B0128 FIGURE] 文本框 26\n\n[B0128 TEXTBOX]\nSocial Reality Testing 社会现实检验\n参考其他人的判断来决定什么是真的或正确的。\n例如：\n自己不确定时，看大家都选了什么\n一般来说：\nClear Situation 清楚情境\n→ More physical reality testing\n更多物理现实检验\nAmbiguous Situation 模糊情境\n→ More social reality testing\n更多社会现实检验\n但Asch证明，即使物理证据清楚，社会影响仍可能存在。\n\n## [B0161] Informational vs Normative Influence\n\n## [B0162] 信息性影响 vs 规范性影响\n\n[B0162 FIGURE] 文本框 27\n\n[B0162 TEXTBOX]\nInformational Influence 信息性影响\nMain Goal 核心目标\n→ Be correct / accurate\n想要正确\nProcess 过程\n→ Use others as a source of factual information\n把别人当成事实信息来源\nOutcome 结果\n→ Private conformity / internalisation\n私下也真正改变看法\n简单例子\n你不知道明天会不会下雨，于是查看天气预报，并真的相信会下雨。\n核心句\nI agree because I believe they are right.我同意，是因为我认为他们是对的。\n\n[B0180 FIGURE] 文本框 28\n\n[B0180 TEXTBOX]\nNormative Influence 规范性影响\nMain Goal 核心目标\n→ Gain approval / avoid rejection\n获得认可、避免排斥\nProcess 过程\n→ Follow the group despite private disagreement\n私下不同意，公开跟随群体\nOutcome 结果\n→ Public compliance\n公开顺从\n简单例子\n队伍里所有人都说某个Boss非常简单，你其实完全不会，但为了不显得菜，先跟着说“确实很简单”。\n核心句\nI agree because I do not want to stand out.我同意，是因为我不想显得格格不入。\n\n[B0200 FIGURE] 文本框 29\n\n[B0200 TEXTBOX]\n必须分清\n信息性影响\n规范性影响\n想要正确\n想要被接纳\n相信别人知道答案\n害怕被群体拒绝\n私下看法也改变\n可能只有公开行为改变\nConformity 从众／内化\nCompliance 顺从／配合\n\n## [B0211] Deutsch & Gerard Study\n\n## [B0212] Deutsch与Gerard研究\n\n[B0214] 他们重新设计了类似Asch的实验，操纵两个自变量。\n\n[B0215 FIGURE] 文本框 30\n\n[B0215 TEXTBOX]\nIV1：Nature of Response 回答方式\nPublic 公开回答\nPublic + Group Goal\n公开回答＋要求群体共同准确\nPrivate / Anonymous\n私人／匿名回答\nIV2：Certainty of Physical Reality物理现实是否清楚\nStimulus Present\n线段一直可见\nStimulus Absent\n线段短暂出现后被移走\n图表的三个重要结论\nStimulus absent时错误更多\n看不到原始线段\n→ 物理现实检验变困难\n→ 更依赖其他人\n→ 信息性影响上升\nGroup goal条件下错误最高\n要求大家“作为一个群体共同准确”会增强群体身份和不要破坏一致性的压力，因此群体影响更强。\nAnonymous条件下错误仍不为零\n即使答案不会被群体看到，仍然有人跟随群体。\n这说明并非全部错误都是“怕尴尬”：\nAnonymous but still influenced\n匿名仍受影响\n↓\nSome participants genuinely believed\nthe group was correct\n部分人真的认为群体正确\n↓\nInformational influence\n信息性影响\n\n## [B0217] Why the 1950s–1970s Focused on Conformity\n\n## [B0218] 为什么二战后特别研究从众与服从？\n\n[B0219] 第二次世界大战和大屠杀之后，人们迫切想知道：\n\n## [B0232] Milgram Obedience Studies\n\n## [B0233] Milgram服从研究\n\n[B0233 FIGURE] 文本框 32\n\n[B0233 TEXTBOX]\n实验结构\nExperimenter 实验者\n合法权威\n↓\nTeacher 教师\n真正参与者\n↓\nLearner 学习者\n实验同谋\n参与者以为自己正在进行记忆研究。学习者每答错一次，教师就要施加更强的电击。\n实际上：\nLearner = actor\n学习者是演员\nShocks = fake\n电击是假的\n但真正参与者并不知道。\n\n[B0236 FIGURE] 文本框 31\n\n[B0236 TEXTBOX]\nWere atrocities caused by\na uniquely “bad” group?\n暴行是否来自某个特殊的“坏群体”？\nor\nCan ordinary people commit harm\nunder certain social conditions?\n普通人在特定社会条件下是否也会伤害他人？\n这推动了Milgram服从实验和后来对情境、权威与角色的研究。\n\n[B0238 FIGURE] 文本框 33\n\n[B0238 TEXTBOX]\n核心结果\n65% of participants continued to the maximum 450 volts.65%的参与者一直服从到最高450伏。\n实验者只使用相对简短的提示：\nPlease continue.\n请继续。\nThe experiment requires you to go on.\n实验要求你继续。\nIt is absolutely essential that you continue.\n你继续下去至关重要。\nYou must go on.\n你必须继续。\n为什么服从？\nLegitimate Authority 合法权威\nYale + white coat + scientific study\n耶鲁、白大褂、科学研究\nTransfer of Responsibility 责任转移\n“实验者负责，不是我负责”\nCommitment to Scientific Goal\n相信自己在帮助科学\nGradual Escalation 逐步升级\n电压一点点增加，而不是一开始就450V\n教授尤其强调：参与者在权威人物承担责任时，更容易继续伤害行为。\n什么会降低服从？\nCloser Proximity to Learner\n离受害者更近\n→ 服从有所下降\nDissenting Peer\n另一名参与者拒绝继续\n→ 服从明显下降\nDissenting Authority\n另一位权威人物反对实验\n→ 服从下降最明显\n与Asch相同，异议 dissent再次成为抵抗社会压力的重要条件。\n\n[B0282 FIGURE] 文本框 34\n\n[B0282 TEXTBOX]\nMilgram研究的真正结论\n不是：\n所有人本质邪恶。\n而是：\n普通人在合法权威、责任转移和特定制度规范下，可能做出与自己道德判断冲突的行为。\n研究也造成了严重的心理压力，推动了更严格的现代研究伦理。\n\n## [B0288] Stanford Prison Experiment\n\n## [B0289] 斯坦福监狱实验\n\n[B0289 FIGURE] 文本框 35\n\n[B0289 TEXTBOX]\n原始设计\nYoung “normal” men\n年轻、心理健康男性\n↓\nRandom allocation 随机分配\nGuards 警卫\nvs\nPrisoners 囚犯\n↓\nSimulated prison\n模拟监狱\nZimbardo本人担任监狱长。\n原始结论\nZimbardo声称：\nPowerful Situation / Role\n强大的情境／社会角色\n↓\nOrdinary people blindly conform\n普通人盲目服从角色\n↓\nGuards become brutal\n警卫变得残酷\n主要批评\n后来发现，警卫并不是完全没有接受行为指导。\nZimbardo曾明确告诉警卫，他们可以：\n·  制造无聊和恐惧；\n·  剥夺隐私；\n·  控制囚犯行为；\n·  夺走囚犯的个体性；\n·  制造无力感。\n因此，这项研究并不是纯粹测试：\n“角色本身会不会让人变坏？”\n\n## [B0306] BBC Prison Study\n\n## [B0307] BBC监狱研究\n\n[B0307 FIGURE] 文本框 37\n\n[B0307 TEXTBOX]\nHaslam和Reicher在2002年进行了更受控的监狱研究。\n与Stanford研究的重要区别\nSame basic structure\n类似的警卫／囚犯结构\nBUT\nNo clear instructions telling guards\nto create powerlessness\n没有明确指导警卫制造无力感\n结果发展\nEarly Stage 初期\nGuards initially hold more power\n警卫起初权力较高\nDays 3–4\nPrisoners unite and resist\n囚犯形成共同身份并反抗\nGuards become divided\n警卫彼此不一致\nDay 5\n“Us vs Them” boundaries change\n“我们与他们”的界线发生变化\nGuards and prisoners partly unite\n共同对抗实验者\nLater\nCommune attempt fails\n自治公社尝试失败\nSome members propose authoritarian takeover\n部分成员试图建立军事式统治\nPPT第84页的图表还显示，随着群体认同变化，压力和抑郁也随之变化：更有共同认同和集体力量的一方，通常更能控制情境。\n\n[B0308 FIGURE] 文本框 36\n\n[B0308 TEXTBOX]\n它同时测试了：\nPowerful Authority Figure 强势权威\n+\nOppressive Group Norms 压迫性群体规范\n+\nIdentity Leadership 身份领导\nZimbardo不仅观察了系统，他还参与建立并合法化了该系统。\n\n[B0310 FIGURE] 文本框 38\n\n[B0310 TEXTBOX]\nBBC研究的核心结论\nSituation / Role alone\n仅有情境或角色\n≠\nAutomatic brutality\n不会自动制造残酷行为\n还需要考虑：\nSocial Identification 社会认同\nDo people psychologically identify with the group?\n人们是否真正认同这个群体？\nLeadership 领导\nWhat norms does the leader create?\n领导者建立了什么规范？\nGroup Unity 群体团结\nIs the group coordinated or divided?\n群体团结还是分裂？\nLegitimacy 合法性\nDoes behaviour appear authorised and acceptable?\n行为是否被权威合法化？\n因此：\n行为并非由角色机械决定；人们如何理解和认同角色，以及谁建立群体规范，同样关键。\n\n## [B0353] 七个经典研究总对照\n\n[B0353 FIGURE] 文本框 39\n\n[B0353 TEXTBOX]\n研究\n核心问题\n关键发现\nTriplett, 1898\n他人在场会改变表现吗？\n在简单卷线任务中，两人一起时更快。\nSherif\n模糊情境中规范如何形成？\n个体判断在群体中汇聚，规范离开群体后仍保留。\nAsch\n正确答案明显时还会从众吗？\n75%至少从众一次，但整体63%的回答没有从众。\nDeutsch & Gerard\n从众为什么发生？\n信息性影响改变私人看法；规范性影响产生公开顺从。\nMilgram\n人为何服从有害命令？\n合法权威与责任转移可使普通人持续服从。\nStanford Prison Experiment\n角色是否使人变得残酷？\n原研究声称角色和情境导致残酷，但方法受到严重质疑。\nBBC Prison Study\n没有Zimbardo式领导时会怎样？\n角色本身不够；社会认同、领导和群体规范才是关键。\n\n## [B0366] 最容易出MCQ的对比\n\n[B0366 FIGURE] 文本框 40\n\n[B0366 TEXTBOX]\nSherif vs Asch\nSherif\n├── Ambiguous task 模糊任务\n├── No obvious correct answer\n├── Group norm forms\n└── Mainly informational influence\nAsch\n├── Clear task 清楚任务\n├── Obvious correct answer\n├── Group deliberately wrong\n└── Informational + normative influence\nInformational vs Normative\nInformational\n“他们应该是对的”\n→ Private conformity\n→ Internalisation\nNormative\n“我不想被排斥”\n→ Public compliance\n→ Private disagreement may remain\n\n[B0393 FIGURE] 文本框 41\n\n[B0393 TEXTBOX]\nMilgram vs Stanford vs BBC\nMilgram\nAuthority gives direct commands\n权威直接命令\nStanford\nZimbardo claimed roles caused brutality\n声称角色导致残酷\nbut authority and instructions were present\n但实际有权威和行为指导\nBBC\nNo equivalent oppressive guidance\n没有同等的压迫性指导\n→ Roles alone did not create the same outcome\n角色本身未产生同样结果\n\n[B0405] 常见考试陷阱\n\n[B0406 FIGURE] 文本框 42\n\n[B0406 TEXTBOX]\n陷阱\n正确理解\nSherif实验中的光真的移动了\n错。光点静止，运动是视觉错觉。\nNorm等于每个人答案的平均\n错。规范是互动形成的群体产物。\nAsch证明大多数人在大多数时候都会从众\n错。75%至少从众一次，但整体63%的回答没有从众。\n有一个异议者必须说正确答案才有帮助\n不一定。打破一致性本身就能降低压力。\nInformational influence只是公开装作同意\n错。那更接近normative influence和compliance。\nNormative influence意味着私下态度改变\n不一定，可能只是公开配合。\nMilgram说明人天生邪恶\n过度解释。研究强调权威、责任和情境。\nStanford Prison Experiment证明角色自动让人残酷\n错。警卫接受过指导，Zimbardo也是权威领导者。\nBBC研究说明情境完全不重要\n错。情境重要，但必须结合认同、规范和领导。\n大样本就一定可以推广至全人类\n错。大量WEIRD样本仍可能没有代表性。\n科学家使用实验方法就自动没有偏见\n错。研究者和研究制度本身也处于社会情境中。\n\n## [B0421] 及格优先级\n\n[B0421 FIGURE] 文本框 43\n\n[B0421 TEXTBOX]\nTier 1：必须先掌握\n·  Social Psychology 社会心理学定义\n·  Context 情境的重要性\n·  Social Influence 社会影响\n·  Social Norms 社会规范\n·  Sherif研究流程与结论\n·  Asch研究及75% / 37% / 63%\n·  增加与降低从众的因素\n·  Informational vs Normative Influence\n·  Conformity vs Compliance\n·  Milgram研究与65%\n·  Legitimate Authority 合法权威\n·  Stanford研究的原始结论与批评\n·  BBC研究的不同结果\n·  Social Identification 社会认同\n·  WEIRD样本与推广问题\nTier 2：第二轮掌握\n·  Triplett与social facilitation；\n·  physical vs social reality testing；\n·  Deutsch & Gerard实验图；\n·  Galton、Garrett与Bond；\n·  replication crisis；\n·  open science；\n·  neutral observer问题；\n·  prison study中的领导与群体规范。\nTier 3：只需认识\n·  每一位研究者的完整生平；\n·  Stanford/BBC实验逐日发生的每个细节；\n·  Milgram每一个电压档位的停止人数；\n·  长篇原始引文；\n·  视频中的完整对白。\n\n## [B0424] PPT原始复习题对应答案骨架\n\n[B0424 FIGURE] 文本框 44\n\n[B0424 TEXTBOX]\nWhy are Sherif’s studies important?\nAmbiguous reality\n↓\nGroup interaction\n↓\nShared norm\n↓\nInternalisation\n↓\nNorm persists outside group\nWhy were Asch’s results surprising?\n因为即使正确答案明显，群体一致错误仍能让许多人至少一次放弃自己的判断。\nNormative vs Informational Influence?\nInformational = want to be right\n→ private conformity\nNormative = want approval / avoid rejection\n→ public compliance\nWhy did Milgram participants obey?\n合法权威、科学机构的正当性、逐步升级以及责任转移。\nMain criticism of Stanford Prison Experiment?\n警卫并非完全自主发展行为；Zimbardo提供了压迫性指导，同时担任权威领导者。\nHow was the BBC analysis different?\n它认为人不会自动服从角色；社会认同、领导、共同规范和群体团结决定谁拥有集体力量。",
+  "sourceHash": "877b2854820194ebacc86111fd989ce5e5a2f7454b0aaefbea3ade86ed50bd58"
+}

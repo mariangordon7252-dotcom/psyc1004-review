@@ -1,0 +1,2495 @@
+{
+  "id": 8,
+  "title": "青春期至成年后期",
+  "subtitle": "Adolescence to Later Adulthood · 决策、身份、媒体与认知老化",
+  "summary": "本讲从想象伙伴讲到青春期的奖励、控制、同伴和身份探索，再看媒体研究、成年认知与时间目标。重点分清首发年龄统计的分母、彩票的期望值，以及中介和调节。文字稿在 slide 40 开头截断，后续按课件补足；视频未独立逐段核对。",
+  "concepts": [
+    {
+      "id": "L8-C01",
+      "title": "成年想象伙伴",
+      "english": "Adult imaginary companions; anthropomorphism",
+      "oneLine": "成人也会报告想象伙伴；问卷中的报告率不能当作患病率或因果证据。",
+      "analogy": "对旧电脑说‘今天闹脾气’是拟人化，不等于相信它真有人心。",
+      "simpleExample": "自拟例：创作者觉得角色仿佛自己在行动，但仍知道它是虚构的。",
+      "explanation": "Yamaguchi 的问卷样本中，约 10–15% 报告当前有 IC。结果与压力及拟人化倾向有关，未发现稳健的孤独关联。儿童 IC 可能提供讲故事和沟通机会，但未证明直接提升能力，也不能仅凭 IC 判断有幻觉。",
+      "example": "自拟例：创作者觉得角色仿佛自己在行动，但仍知道它是虚构的。",
+      "pitfall": "10–15% 是样本报告率，不是全球患病率；这项论文用问卷，不是课件所称的综述。",
+      "source": "L8 · 形式与解释 · [B0023–B0029]",
+      "front": "成人 IC 的 10–15% 能叫全球患病率吗？",
+      "back": "不能。它是该问卷样本中报告当前 IC 的比例，而有 IC 不自动表示精神障碍。",
+      "cardBack": "不能。它是该问卷样本中报告当前 IC 的比例，而有 IC 不自动表示精神障碍。"
+    },
+    {
+      "id": "L8-C02",
+      "title": "首发年龄统计的分母",
+      "english": "Age of onset; peak; median",
+      "oneLine": "首发年龄统计的是已经发生障碍的人，不是某年龄所有人的患病率。",
+      "analogy": "像统计中奖者几岁领奖，不能当成各年龄人群的中奖率。",
+      "simpleExample": "自拟例：“18 岁前 48.4%”不是说所有未满 18 岁的人中，48.4% 有障碍。",
+      "explanation": "Solmi 汇总中，14 岁前 34.6%、18 岁前 48.4%、25 岁前 62.5%，指发生障碍者的首次发病年龄分布。峰值约 14.5 岁，中位约 18 岁：前者是分布高点，后者把分布分成两半。不同诊断的分布也不同。",
+      "example": "自拟例：“18 岁前 48.4%”不是说所有未满 18 岁的人中，48.4% 有障碍。",
+      "pitfall": "别把首发年龄分布当患病率；峰值和中位数也不是同一个人的发病年龄。",
+      "source": "L8 · 为什么青春期是重要发展窗口 · [B0033–B0035]",
+      "front": "48.4% 在 18 岁前首发，分母是谁？",
+      "back": "分母是研究中发生障碍的人，不是全体未满 18 岁的人。",
+      "cardBack": "分母是研究中发生障碍的人，不是全体未满 18 岁的人。"
+    },
+    {
+      "id": "L8-C03",
+      "title": "元认知",
+      "english": "Metacognition; introspection",
+      "oneLine": "元认知是检查自己的思考是否可靠，再决定要不要调整方法。",
+      "analogy": "像检查导航是否走错路，而不是只是走得更久。",
+      "simpleExample": "自拟例：答案看着眼熟，却解释不出原因，于是回看定义，检查自己是否真懂。",
+      "explanation": "元认知包括发现自己不确定、检查推理是否可靠，以及据此调整选择或策略。青春期还在发展，但不是此前完全没有；成人之间也有差异。",
+      "example": "自拟例：答案看着眼熟，却解释不出原因，于是回看定义，检查自己是否真懂。",
+      "pitfall": "想得多、担心得久，不一定代表检查得准确或策略有效。",
+      "source": "L8 · Metacognition：监测与评估自己的思考 · [B0037–B0040]",
+      "front": "熟悉感与真正理解怎样用元认知区分？",
+      "back": "看自己能否讲清依据，而不只觉得眼熟；发现不确定后，再调整学习方法。",
+      "cardBack": "看自己能否讲清依据，而不只觉得眼熟；发现不确定后，再调整学习方法。"
+    },
+    {
+      "id": "L8-C04",
+      "title": "奖励、刺激与风险",
+      "english": "Reward sensitivity; sensation seeking; risk taking",
+      "oneLine": "对奖励敏感、喜欢新奇、选择有风险的行为，彼此可能相关，但不是同一回事。",
+      "analogy": "爱奖品、爱新玩法、选择赌局可相关，却不是同一件事。",
+      "simpleExample": "自拟例：尝试新口味是寻求新奇，参与有损失的抽奖涉及风险。",
+      "explanation": "奖励敏感看对奖励线索的反应，刺激寻求看对新奇体验的兴趣，风险行为看是否可能带来不良后果。课堂年龄曲线描述平均趋势；具体选择还会受情绪、任务和反馈影响。",
+      "example": "自拟例：尝试新口味是寻求新奇，参与有损失的抽奖涉及风险。",
+      "pitfall": "三个词不能互换；一次冒险也不能证明整个人都不理性。",
+      "source": "L8 · 03 | 风险选择：先看任务，再解释年龄差异 · [B0042–B0051]",
+      "front": "三个术语的最短区别？",
+      "back": "奖励敏感：对奖励线索反应如何。刺激寻求：是否喜欢新奇。风险行为：选择是否可能有不良后果。",
+      "cardBack": "奖励敏感：对奖励线索反应如何。刺激寻求：是否喜欢新奇。风险行为：选择是否可能有不良后果。"
+    },
+    {
+      "id": "L8-C05",
+      "title": "彩票任务与期望值",
+      "english": "Lottery task; expected value; affective context",
+      "oneLine": "彩票和确定选项的平均收益也不同，所以选择不能只归因于风险偏好。",
+      "analogy": "比较便宜单份与高价抽奖套餐，同时改变风险和平均收益。",
+      "simpleExample": "自拟例：必得 $5 对 50% 得 $50／0，风险彩票平均为 $25。",
+      "explanation": "收益彩票的期望值是 +$25，损失彩票是 −$25，都不同于确定的 ±$5。因此，选择可能同时受风险和价值大小影响。任务中青少年在正反馈后可能更冒险，但不能推出惩罚永远无效，或成人不受情绪影响。",
+      "example": "自拟例：必得 $5 对 50% 得 $50／0，风险彩票平均为 $25。",
+      "pitfall": "一次成功不会改变下一次客观概率；选项期望值不同，也限制了纯风险解释。",
+      "source": "L8 · 03 | 风险选择：先看任务，再解释年龄差异 · [B0045–B0051]",
+      "front": "为何该彩票任务不能单独测纯风险偏好？",
+      "back": "两组选项不只在风险上不同，平均收益或损失也不同，所以无法只测风险偏好。",
+      "cardBack": "两组选项不只在风险上不同，平均收益或损失也不同，所以无法只测风险偏好。"
+    },
+    {
+      "id": "L8-C06",
+      "title": "双系统模型",
+      "english": "Dual Systems Model",
+      "oneLine": "奖励与社会情绪系统、认知控制系统的发展节奏不同，共同影响当下选择。",
+      "analogy": "像加速动力与方向控制逐渐协调，知道目的地不保证当下不转弯。",
+      "simpleExample": "自拟例：承诺早睡的人遇到群聊限时挑战，奖励与同伴认可提高吸引力。",
+      "explanation": "奖励敏感通常发展较早，青春期常较高；认知控制更渐进地成熟。加上情绪、同伴和长期目标，便能解释为什么知道风险仍可能冒险。这是解释框架，不是每个人的精确成熟年龄表。",
+      "example": "自拟例：承诺早睡的人遇到群聊限时挑战，奖励与同伴认可提高吸引力。",
+      "pitfall": "示意曲线不是精确原始数据，也不表示所有青少年都会冒险。",
+      "source": "L8 · 04 | 双系统模型：奖励与控制的时间差 · [B0053–B0061]",
+      "front": "用双系统解释选择应写哪两点？",
+      "back": "两个系统的发展节奏不同；情绪和社会情境还会改变奖励吸引力及控制表现。",
+      "cardBack": "两个系统的发展节奏不同；情绪和社会情境还会改变奖励吸引力及控制表现。"
+    },
+    {
+      "id": "L8-C07",
+      "title": "激活可能性与强度",
+      "english": "Activation likelihood; signal intensity",
+      "oneLine": "某脑区在多项研究中更常被激活，不代表它每次的信号都更强。",
+      "analogy": "某餐厅更常上榜不代表每道菜分量都更大。",
+      "simpleExample": "自拟例：一个脑区在研究汇总中更常出现，不能说明每个人每次激活都更强。",
+      "explanation": "激活可能性描述某位置在研究汇总中出现得多一致，信号强度则是另一指标。青少年和成人可能使用相似的奖励网络。不能把出现频率、强度和一种行为直接当作同一件事。",
+      "example": "自拟例：一个脑区在研究汇总中更常出现，不能说明每个人每次激活都更强。",
+      "pitfall": "较高 likelihood 不表示人人每次都激活，也不表示单次信号更强。",
+      "source": "L8 · Activation likelihood 与强度不同 · [B0065–B0066]",
+      "front": "高 activation likelihood 能推出信号必强吗？",
+      "back": "不能。汇总中出现得更一致，与一次测量的信号强度是不同指标。",
+      "cardBack": "不能。汇总中出现得更一致，与一次测量的信号强度是不同指标。"
+    },
+    {
+      "id": "L8-C08",
+      "title": "执行功能与网络协同",
+      "english": "Executive function; segregation; integration",
+      "oneLine": "网络分化让分工更清楚，网络整合让协作更顺畅；两者并不冲突。",
+      "analogy": "小组成员分工更清楚，又更会交流，并不矛盾。",
+      "simpleExample": "自拟例：限时做题要记规则、忽略消息、协调答案与时间。",
+      "explanation": "执行功能帮助规划、维持目标、使用工作记忆、抑制干扰和灵活调整。课件中的任务约 18–20 岁达到成人水平并趋稳，只能说明该任务的表现，不能说全部脑结构和现实判断都完成发展。重点看网络分工与协作，具体脑区是扩展。",
+      "example": "自拟例：限时做题要记规则、忽略消息、协调答案与时间。",
+      "pitfall": "分化不是网络完全断开；18–20 岁也不是整颗脑统一成熟的日期。",
+      "source": "L8 · 05 | 神经网络与执行功能：掌握总体趋势 · [B0063–B0071]",
+      "front": "Segregation 与 integration 怎么区分？",
+      "back": "Segregation 是分工更明确，integration 是网络间协作更有效；两者可以一起发展。",
+      "cardBack": "Segregation 是分工更明确，integration 是网络间协作更有效；两者可以一起发展。"
+    },
+    {
+      "id": "L8-C09",
+      "title": "同伴观察与影响",
+      "english": "Social observation; social influence; peer pressure",
+      "oneLine": "被朋友看着，与看朋友怎么做，影响方向不同；同伴也可能促进安全行为。",
+      "analogy": "一场比赛既可能因观众改变表现，也可能因看榜样改变策略。",
+      "simpleExample": "自拟例：朋友旁观你跳水是被观察，先看朋友检查水深是观察榜样。",
+      "explanation": "同伴影响可能来自欣赏、信任和自愿模仿，也可能来自强迫压力。自己被看着做，与观察别人怎么做，是不同路径。因此，同伴影响不全是有害压力，也不只涉及冒险榜样。",
+      "example": "自拟例：朋友旁观你跳水是被观察，先看朋友检查水深是观察榜样。",
+      "pitfall": "Peer influence 不全是 peer pressure；同伴重要也不代表家庭没作用。",
+      "source": "L8 · 06 | 同伴关系怎样影响青春期选择 · [B0073–B0082]",
+      "front": "Social observation 与 influence 的方向？",
+      "back": "Social observation：我被同伴看着。Social influence：我观察同伴行为，并可能改变自己的做法。",
+      "cardBack": "Social observation：我被同伴看着。Social influence：我观察同伴行为，并可能改变自己的做法。"
+    },
+    {
+      "id": "L8-C10",
+      "title": "校园氛围、认同与韧性",
+      "english": "School climate; school identification; resilience",
+      "oneLine": "校园氛围是环境，学校认同是归属感，韧性是面对逆境时的适应。",
+      "analogy": "支持性的队伍、觉得自己属于队伍、输后重新调整，是三件相关事情。",
+      "simpleExample": "自拟例：考试失利后敢向老师求助、与同学调整复习计划，帮助自己恢复参与并感到归属。",
+      "explanation": "纵向模型提出：积极校园氛围可能通过学校认同和韧性，与更好的 wellbeing 相联系。但家庭资源、原有状态和选校因素仍可能同时影响结果。三者分别是环境、归属和适应，不能都理解成“更开心”。",
+      "example": "自拟例：考试失利后敢向老师求助、与同学调整复习计划，帮助自己恢复参与并感到归属。",
+      "pitfall": "纵向数据能提供时间顺序，但不能自动证明图中每条箭头都是因果。",
+      "source": "L8 · 关系模型 · [B0084–B0093]",
+      "front": "三者最短定义是什么？",
+      "back": "氛围：学校环境如何。认同：是否觉得自己属于学校。韧性：在逆境中如何适应。",
+      "cardBack": "氛围：学校环境如何。认同：是否觉得自己属于学校。韧性：在逆境中如何适应。"
+    },
+    {
+      "id": "L8-C11",
+      "title": "广度与深度探索",
+      "english": "Exploration in breadth; exploration in depth",
+      "oneLine": "广度探索比较多个可能方向；深度探索检查已选方向是否适合自己。",
+      "analogy": "先浏览多家店，再仔细检查已选商品是否适合。",
+      "simpleExample": "自拟例：比较心理学、管理学是广度；研究已选心理学的实际工作是深度。",
+      "explanation": "身份双循环中，广度探索和作出承诺帮助形成选择；深度探索和认同承诺帮助评价选择。发现不合适，可以重新探索。它们是可变化的维度，不是固定年龄必须通过的阶段。",
+      "example": "自拟例：比较心理学、管理学是广度；研究已选心理学的实际工作是深度。",
+      "pitfall": "深度不是选项更多；广度也不是原地反复担心。",
+      "source": "L8 · 08 | 身份双循环模型：五维怎么区分 · [B0095–B0102]",
+      "front": "选专业中的 breadth 与 depth 怎么判断？",
+      "back": "还在比较多个专业是广度；已选专业后检查实际学习和工作是否合适，是深度。",
+      "cardBack": "还在比较多个专业是广度；已选专业后检查实际学习和工作是否合适，是深度。"
+    },
+    {
+      "id": "L8-C12",
+      "title": "作出承诺与认同承诺",
+      "english": "Commitment making; identification with commitment",
+      "oneLine": "作出承诺是选定并投入；认同承诺是觉得这个选择适合自己、代表自己。",
+      "analogy": "签订计划与真心认为计划适合自己，未必同步。",
+      "simpleExample": "自拟例：选定心理学并排课是 making；觉得这个方向符合自己的价值是 identification。",
+      "explanation": "双循环把“做出选择”与“认同这个选择”分开。认同可能随着经验逐渐形成，但每个人的轨迹不同。已经决定，不表示永远不能重新选择。",
+      "example": "自拟例：选定心理学并排课是 making；觉得这个方向符合自己的价值是 identification。",
+      "pitfall": "做决定不等于完全认同；认同也不表示今后永久不变。",
+      "source": "L8 · 08 | 身份双循环模型：五维怎么区分 · [B0095–B0102]",
+      "front": "为何‘报名专业’不等于‘认同承诺’？",
+      "back": "报名体现做出了选择；认同还要觉得选择适合自己，并成为自我理解的一部分。",
+      "cardBack": "报名体现做出了选择；认同还要觉得选择适合自己，并成为自我理解的一部分。"
+    },
+    {
+      "id": "L8-C13",
+      "title": "反刍探索与五维",
+      "english": "Ruminative exploration; identity dual cycle",
+      "oneLine": "反刍探索是不断怀疑却难以前进，不是前四步之后必经的第五阶段。",
+      "analogy": "地图反复缩放却不收集路线信息，不等于有效旅行规划。",
+      "simpleExample": "自拟例：不停想万一选错，却不询问、查资料或推动决定。",
+      "explanation": "五维分别是广度、作出承诺、深度、认同承诺和反刍。反刍描述探索是否陷入反复担忧，可以独立变化。课堂研究未发现清楚的年龄趋势，但不代表所有年龄的人都一样。",
+      "example": "自拟例：不停想万一选错，却不询问、查资料或推动决定。",
+      "pitfall": "想得久不一定探索得好；五维不是人人依次完成的五阶段。",
+      "source": "L8 · 08 | 身份双循环模型：五维怎么区分 · [B0095–B0106]",
+      "front": "反刍为何不能称模型第五个必经阶段？",
+      "back": "它描述反复怀疑、难以前进的探索状态，并不是完成前四步后必须进入的阶段。",
+      "cardBack": "它描述反复怀疑、难以前进的探索状态，并不是完成前四步后必须进入的阶段。"
+    },
+    {
+      "id": "L8-C14",
+      "title": "连贯的自我与叙事",
+      "english": "Sense of self; life narratives; self-concept clarity",
+      "oneLine": "不同场合表现不同，也可以拥有连贯的自我。",
+      "analogy": "一本传记章节不同，仍能用同一条价值主线连接。",
+      "simpleExample": "自拟例：家里安静、朋友间外向，仍在不同场合重视诚实与支持。",
+      "explanation": "生活叙事把过去经历、现在的角色和未来期待连起来，让不同侧面有共同主线。平均来看承诺可能增加，但个人仍会探索和改变。研究样本中的比例不能当作全体青少年的固定分布。",
+      "example": "自拟例：家里安静、朋友间外向，仍在不同场合重视诚实与支持。",
+      "pitfall": "连贯不代表永不改变；情境下行为不同也不自动代表身份破碎。",
+      "source": "L8 · Sense of self：把过去、现在和未来连起来 · [B0104–B0112]",
+      "front": "在家与朋友面前行为不同必定身份不连贯吗？",
+      "back": "不一定。共同的价值和生活叙事，可以把不同场合的侧面连成连贯自我。",
+      "cardBack": "不一定。共同的价值和生活叙事，可以把不同场合的侧面连成连贯自我。"
+    },
+    {
+      "id": "L8-C15",
+      "title": "媒体身份参与与呈现",
+      "english": "Identity spaces; active / passive use; self-presentation",
+      "oneLine": "没有发帖、点赞，也可能在认真思考身份；平台操作不等于心理过程。",
+      "analogy": "安静听职业讲座也可能认真评估未来，发言次数不是全部思考。",
+      "simpleExample": "自拟例：只看科学职业访谈但不点赞，仍重新思考是否适合自己。",
+      "explanation": "在线社群可以提供尝试角色、表达和建立认同的空间。但观看时间、点击和发帖，只能记录平台行为，未必能测到内容、反馈及内心的思考。不同群组中表现不同侧面，也不一定是在欺骗。",
+      "example": "自拟例：只看科学职业访谈但不点赞，仍重新思考是否适合自己。",
+      "pitfall": "平台上看起来 passive，不等于心理上完全被动。",
+      "source": "L8 · 10 | 媒体与身份：参与不只看点击次数 · [B0114–B0123]",
+      "front": "没有点赞是否就没有主动身份探索？",
+      "back": "不是。观看内容时也可能评价自己想成为什么人，所以要另测心理过程。",
+      "cardBack": "不是。观看内容时也可能评价自己想成为什么人，所以要另测心理过程。"
+    },
+    {
+      "id": "L8-C16",
+      "title": "媒体与心理健康的混合结果",
+      "english": "Media use; mental health; confounding; reverse causation",
+      "oneLine": "媒体与心理健康的平均关联较小或结果不一致，不代表每个人都没影响。",
+      "analogy": "同样一小时聊天，有人获得支持，有人遭嘲笑，合计时长掩盖体验。",
+      "simpleExample": "自拟例：情绪差可能使人更多上网，上网中的压力也可能影响后续情绪。",
+      "explanation": "研究结果会受家庭、资源、原有心理状态、内容和活动类型影响。控制一些因素后，平均关联可能较小，但个别情境和人群仍可能有风险。不能只根据使用时长就认定媒体一定有益或有害。",
+      "example": "自拟例：情绪差可能使人更多上网，上网中的压力也可能影响后续情绪。",
+      "pitfall": "时间相关不能直接证明媒体导致抑郁；平均影响小也不是人人零影响。",
+      "source": "L8 · 心理健康结果为什么混合 · [B0127–B0129]",
+      "front": "为什么只用总时长难解释心理健康？",
+      "back": "相同分钟可能是在获得支持，也可能是在承受压力；内容、反馈、背景和反向影响都不同。",
+      "cardBack": "相同分钟可能是在获得支持，也可能是在承受压力；内容、反馈、背景和反向影响都不同。"
+    },
+    {
+      "id": "L8-C17",
+      "title": "此刻比较中介与惯常比较调节",
+      "english": "State / trait social comparison; mediator / moderator",
+      "oneLine": "此刻比较解释影响可能怎样发生；惯常比较倾向解释这种关系对谁更强。",
+      "analogy": "中介像路线中间站，调节像天气让同一路线走得快或慢。",
+      "simpleExample": "自拟例：精修照引发当下身材比较是 state；平时总爱比较是 trait。",
+      "explanation": "理想化图像可能引发此刻身材比较，再与身体不满联系起来，这是中介思路。惯常爱比较的人，这种关系可能更强，是调节思路。前者问过程，后者问条件；统计中介仍不能单独证明因果。",
+      "example": "自拟例：精修照引发当下身材比较是 state；平时总爱比较是 trait。",
+      "pitfall": "本课中 state 是中介，trait 是调节；一时反应和惯常倾向不能混成同一个变量。",
+      "source": "L8 · 理想化图像与身体不满 · [B0130–B0135]",
+      "front": "Mediator 与 moderator 各回答什么？",
+      "back": "中介问“经由什么过程”；调节问“在什么条件或哪些人身上，关系更强”。",
+      "cardBack": "中介问“经由什么过程”；调节问“在什么条件或哪些人身上，关系更强”。"
+    },
+    {
+      "id": "L8-C18",
+      "title": "媒体注意与语言边界",
+      "english": "Attention; achievement; pragmatics",
+      "oneLine": "一天分心不等于 ADHD；线上说话方式也不能代表全部语言能力。",
+      "analogy": "任务被打断像练琴暂停，不等于乐器永久损坏。",
+      "simpleExample": "自拟例：回消息频繁打断复习；长辈发“……”也不一定是在生气。",
+      "explanation": "媒体与短期注意、成绩的关联，还要考虑占用时间、奖励、原有表现和反向影响。标点、表情和俚语也依赖共同语境。非正式表达不能直接证明智力或正式写作能力下降。",
+      "example": "自拟例：回消息频繁打断复习；长辈发“……”也不一定是在生气。",
+      "pitfall": "不要把单日表现当长期诊断，也不要凭一个符号确定对方心理状态。",
+      "source": "L8 · 12 | 媒体与注意、学业和语言 · [B0137–B0145]",
+      "front": "一天分心为什么不能证明媒体造成 ADHD？",
+      "back": "一天表现与长期诊断不同，还需要时间证据，并考虑原有困难和其他原因。",
+      "cardBack": "一天表现与长期诊断不同，还需要时间证据，并考虑原有困难和其他原因。"
+    },
+    {
+      "id": "L8-C19",
+      "title": "信息环境与算法意识",
+      "english": "Echo chamber; filter bubble; algorithm awareness",
+      "oneLine": "回音室和过滤气泡描述信息环境，不是两套固定算法的名字。",
+      "analogy": "回音室像熟人反复说同观点，过滤气泡像菜单越来越贴近过去口味。",
+      "simpleExample": "自拟例：平台总推荐相似意见，自己也只关注同意者，两种选择会叠加。",
+      "explanation": "回音室强调相似观点在社交网络中反复强化；过滤气泡强调个性化筛选减少不同内容。两者可以叠加。Gran 用的是挪威总体网络样本，不是青少年专属或生成式 AI 研究；知道有算法也不等于理解推荐机制。",
+      "example": "自拟例：平台总推荐相似意见，自己也只关注同意者，两种选择会叠加。",
+      "pitfall": "不要把总体网络样本说成全体青少年，也不要把两个概念当固定代码名称。",
+      "source": "L8 · 13 | 算法环境与虚假信息判断 · [B0147–B0151]",
+      "front": "回音室与过滤气泡如何简分？",
+      "back": "回音室：相似观点反复强化。过滤气泡：个性化筛选使不同内容更少出现。",
+      "cardBack": "回音室：相似观点反复强化。过滤气泡：个性化筛选使不同内容更少出现。"
+    },
+    {
+      "id": "L8-C20",
+      "title": "假信息的准确率、信心与行为",
+      "english": "Misinformation accuracy; confidence; sharing; third-person effect",
+      "oneLine": "识别是否准确、有多自信、会不会核查或分享，都要分开测。",
+      "analogy": "觉得会游泳、实际游多远、是否下水三件事需分别测。",
+      "simpleExample": "自拟例：视频画质清晰让人自信，却未查原出处；相信也未必会转发。",
+      "explanation": "Kops 的范围综述讨论青年相关研究，部分发现信心高于实际表现，外部核查也有限。Third-person effect 是觉得别人更容易受影响，不能证明自己识别得更准。较少分享也不等于从不传播。",
+      "example": "自拟例：视频画质清晰让人自信，却未查原出处；相信也未必会转发。",
+      "pitfall": "自信不是能力，相信不是分享；部分样本的结果也不能代表所有青少年。",
+      "source": "L8 · 过度自信与行为要分别测 · [B0152–B0156]",
+      "front": "评估假消息能力应分别测哪三个层面？",
+      "back": "分别看准确率、信心和行为；行为中再区分核查与分享，也别把相信直接当作分享。",
+      "cardBack": "分别看准确率、信心和行为；行为中再区分核查与分享，也别把相信直接当作分享。"
+    },
+    {
+      "id": "L8-C21",
+      "title": "成年稳定与研究设计",
+      "english": "Relative stability; cohort effect; longitudinal change",
+      "oneLine": "成年相对稳定不等于停止发展；不同年龄组的差异也不等于一个人的未来。",
+      "analogy": "同一座城市短期变化不大，长期仍会改变；比较两座城市也不能代替一座城市的历史。",
+      "simpleExample": "自拟例：20 岁与 50 岁软件成绩差，也可能反映科技经验和教育背景。",
+      "explanation": "成年后的角色、健康和资源会变化，增长、损失与适应也可能同时存在。横断面比较会混入世代经验；纵向能观察同一个人的变化，却可能受练习和样本流失影响。结论要说明比较什么领域、多久。",
+      "example": "自拟例：20 岁与 50 岁软件成绩差，也可能反映科技经验和教育背景。",
+      "pitfall": "婚育和事业不是人人同一时间表；组平均值也不能直接预测某个个人。",
+      "source": "L8 · 14 | 成年发展：相对稳定仍有变化 · [B0158–B0166]",
+      "front": "Cross-sectional 年龄差异的一个具体局限？",
+      "back": "不同年龄组的教育和科技经历可能不同，成绩差不一定全是年龄造成的。",
+      "cardBack": "不同年龄组的教育和科技经历可能不同，成绩差不一定全是年龄造成的。"
+    },
+    {
+      "id": "L8-C22",
+      "title": "流体与晶体能力",
+      "english": "Fluid; crystallised abilities",
+      "oneLine": "流体能力偏重新问题的即时处理，晶体能力偏重累积知识；年龄变化未必一致。",
+      "analogy": "新地图上的快速找路，与熟悉城市的经验知识不同却可合用。",
+      "simpleExample": "自拟例：资深维修师学新界面较慢，却凭专业知识准确定位故障。",
+      "explanation": "流体能力涉及速度、工作记忆和陌生问题，晶体能力涉及词汇及专业知识。一项任务可能同时使用两者。不同能力的高峰和下降时间不同，不能说全部认知都在 30 岁达到顶峰。",
+      "example": "自拟例：资深维修师学新界面较慢，却凭专业知识准确定位故障。",
+      "pitfall": "晶体能力不是永远不下降；平均变化也不是人人必然，更不等于痴呆。",
+      "source": "L8 · 15 | 流体与晶体能力：认知老化不是一条线 · [B0168–B0177]",
+      "front": "两类能力能否在同一任务中共同使用？",
+      "back": "可以。理解新指令会用到即时处理，运用词汇或专业经验会用到累积知识。",
+      "cardBack": "可以。理解新指令会用到即时处理，运用词汇或专业经验会用到累积知识。"
+    },
+    {
+      "id": "L8-C23",
+      "title": "白质、参与与不使用",
+      "english": "White matter; engagement; disuse",
+      "oneLine": "认知表现与脑通路、参与经验等多因素有关；多活动不保证预防疾病。",
+      "analogy": "道路维护与驾驶练习都影响出行，不能说一条路决定全部本领。",
+      "simpleExample": "自拟例：退休后组织社团，继续练习安排与沟通；久不用某项技能，可能变得生疏。",
+      "explanation": "白质中的有髓轴突支持脑区通信，但不能用一个区域解释全部知识。持续参与可能帮助保持能力，不使用也可能让技能生疏。原有能力、健康和资源也会影响关联，所以多活动或多学位都不是预防痴呆的保证。",
+      "example": "自拟例：退休后组织社团，继续练习安排与沟通；久不用某项技能，可能变得生疏。",
+      "pitfall": "不是所有知识都存放在一个不会老化的脑区；活动关联也不是个人预防保证。",
+      "source": "L8 · 16 | 神经老化与生活经验的作用 · [B0179–B0188]",
+      "front": "Engagement 与 disuse 是否必须二选一？",
+      "back": "不用二选一。参与可能帮助保持能力，不使用可能造成生疏，是同一生活经验的两个角度。",
+      "cardBack": "不用二选一。参与可能帮助保持能力，不使用可能造成生疏，是同一生活经验的两个角度。"
+    },
+    {
+      "id": "L8-C24",
+      "title": "社会情绪选择理论",
+      "english": "Socioemotional Selectivity Theory; perceived future time",
+      "oneLine": "SST 看的是觉得未来还有多少时间，而不只看年龄；时间有限时更重情感意义。",
+      "analogy": "旅行快结束时更想与亲近者相处，而非不断拓展陌生景点。",
+      "simpleExample": "自拟例：毕业将至的年轻学生也更想与好友聚餐，珍惜共同时间。",
+      "explanation": "觉得未来还很开放时，往往更重视探索知识、拓展关系；觉得时间有限时，更重视亲近和意义。健康及情境会改变时间感。减少外围关系也可能是主动取舍，不一定是被迫孤立。",
+      "example": "自拟例：毕业将至的年轻学生也更想与好友聚餐，珍惜共同时间。",
+      "pitfall": "不能说老年人自然不爱交友；年龄与时间感有关，但不是唯一因素。",
+      "source": "L8 · 关键变量是感到还有多少未来时间 · [B0192–B0200]",
+      "front": "SST 最关键自变量是什么？",
+      "back": "关键是感知未来时间，不是年龄数字本身。",
+      "cardBack": "关键是感知未来时间，不是年龄数字本身。"
+    },
+    {
+      "id": "L8-C25",
+      "title": "亲密关系资源与中介图",
+      "english": "Bonding social capital; positive affect; wellbeing",
+      "oneLine": "亲近关系可能经积极情绪关联到 wellbeing，但图中不是所有直接路径都显著。",
+      "analogy": "可靠队友可能通过带来积极感受帮助你；但图中的每条关系仍要分别看证据。",
+      "simpleExample": "自拟例：朋友提供支持令人更有积极感受，再与生活状态相关。",
+      "explanation": "Slide 39 中，social capital 与 positive affect 正相关，积极情绪再关联到三类 wellbeing。社会和心理 wellbeing 的直接路径为正，情绪 wellbeing 的直接路径不显著。图展示关系结构，不能把所有箭头都当实验因果。",
+      "example": "自拟例：朋友提供支持令人更有积极感受，再与生活状态相关。",
+      "pitfall": "不显著不是证明永远没有关系；群体结果也不能说明所有老年人都更幸福。",
+      "source": "L8 · Slide 39 怎样读中介图 · [B0197–B0199]",
+      "front": "Slide 39 至情绪 wellbeing 的直接路径是什么？",
+      "back": "直接路径标为不显著；同时仍可有通过积极情绪的关联路径。",
+      "cardBack": "直接路径标为不显著；同时仍可有通过积极情绪的关联路径。"
+    },
+    {
+      "id": "L8-C26",
+      "title": "视角采择与情感亲近",
+      "english": "Self-perspective prioritisation; perspective taking",
+      "oneLine": "自我视角题答得更准，不代表整体共情更好，也不能用来评价自私。",
+      "analogy": "按自己地图导航与按朋友有限地图回答，是不同控制任务。",
+      "simpleExample": "自拟例：你见两本书，对方只见一本；答对方视角须抑制自己的信息。",
+      "explanation": "课件中的老年样本，在自我视角题上更准确，也较少受他人信息干扰。换成按他人视角回答，就有不同的处理要求；亲近度较高时，表现可能接近年轻人。文字稿在 slide 40 开头截断，这部分按课件补足。",
+      "example": "自拟例：你见两本书，对方只见一本；答对方视角须抑制自己的信息。",
+      "pitfall": "一项认知任务不能代表全部共情、道德或关系能力。",
+      "source": "L8 · 18 | 老年人视角采择与情感亲近 · [B0202–B0212]",
+      "front": "自我视角答得好为何不能推出整体共情更好？",
+      "back": "按他人视角回答有不同的抑制和信息处理要求；亲近程度也会影响表现，不能直接外推。",
+      "cardBack": "按他人视角回答有不同的抑制和信息处理要求；亲近程度也会影响表现，不能直接外推。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "L8-Q01",
+      "conceptId": "L8-C01",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "全世界精神障碍患病率",
+        "随机实验的治疗成功率",
+        "孤独必然引起 IC 的比例",
+        "问卷样本当前 IC 报告率"
+      ],
+      "optionsEn": [
+        "Worldwide psychiatric prevalence",
+        "Treatment success in a randomised experiment",
+        "The percentage proving loneliness necessarily causes ICs",
+        "Current IC reporting in questionnaire samples"
+      ],
+      "answer": 3,
+      "explanation": "10–15% 是该问卷样本中报告当前 IC 的比例。有 IC 不自动表示精神障碍，也不能把样本数字当全球患病率。",
+      "optionExplanations": [
+        "报告想象伙伴的比例，不是全球精神障碍患病率。",
+        "研究用问卷，不是随机治疗实验。",
+        "未见稳健的孤独关联，更不能推出孤独必然造成 IC。",
+        "数字只描述该样本的当前 IC 报告情况，不是诊断率。"
+      ],
+      "source": "L8 · 形式与解释 · [B0023–B0029]",
+      "origin": "notes",
+      "stem": "成人 IC 约 10–15% 这项数字应怎样解释？",
+      "stemEn": "How should the 10–15% adult IC figure be interpreted?"
+    },
+    {
+      "id": "L8-Q02",
+      "conceptId": "L8-C02",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "所有 18 岁学生",
+        "只在 18 岁发病的人",
+        "研究中发生障碍者",
+        "所有未满 18 岁人口"
+      ],
+      "optionsEn": [
+        "All 18-year-old students",
+        "Only people whose onset occurs at 18",
+        "People with disorders in the research",
+        "Everyone under 18"
+      ],
+      "answer": 2,
+      "explanation": "分母是研究中发生障碍的人，问题是他们何时首次发病。它不是说所有未满 18 岁的人中有 48.4% 患病。",
+      "optionExplanations": [
+        "研究没有用所有 18 岁学生作分母。",
+        "分母包括不同年龄首次发病的人，不只是在 18 岁发病的人。",
+        "统计的是已发生障碍者中，18 岁前首发所占的比例。",
+        "这把首发年龄分布误当成了全体未成年人的患病率。"
+      ],
+      "source": "L8 · 为什么青春期是重要发展窗口 · [B0033–B0035]",
+      "origin": "notes",
+      "stem": "‘48.4% 在 18 岁前首次发病’的分母是什么？",
+      "stemEn": "What is the denominator of '48.4% first onset before age 18'?"
+    },
+    {
+      "id": "L8-Q03",
+      "conceptId": "L8-C03",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "仅凭同伴答案作决定",
+        "元认知监测与策略调整",
+        "只有记忆容量增加",
+        "未评估依据的熟悉感反应"
+      ],
+      "optionsEn": [
+        "Choosing solely from a peer's answer",
+        "Metacognitive monitoring and strategy adjustment",
+        "Increased memory capacity only",
+        "Familiarity without evaluating evidence"
+      ],
+      "answer": 1,
+      "explanation": "先检查自己是不是真懂，再决定回看定义，就是在监测思考并调整策略。关键不是记忆变多，而是主动检查依据。",
+      "optionExplanations": [
+        "题目没有同伴提供答案，而是自己发现问题并检查。",
+        "发现解释不出后改用查定义的方法，体现监测与调整。",
+        "没有测量记忆容量，重点在学习方法的检查。",
+        "他没有停在“眼熟”，而是进一步验证理解。"
+      ],
+      "source": "L8 · Metacognition：监测与评估自己的思考 · [B0037–B0040]",
+      "origin": "notes",
+      "stem": "发现自己仅觉得答案熟悉却不能解释，决定查定义，属于什么？",
+      "stemEn": "Recognising familiarity without explanation and deciding to verify a definition exemplifies:"
+    },
+    {
+      "id": "L8-Q04",
+      "conceptId": "L8-C04",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "选择有潜在不良后果的行为",
+        "任何新奇兴趣",
+        "对奖励线索敏感的同义词",
+        "必定无法理解后果"
+      ],
+      "optionsEn": [
+        "Choosing behaviour with potential adverse consequences",
+        "Any interest in novelty",
+        "A synonym for reward sensitivity",
+        "Necessarily failing to understand consequences"
+      ],
+      "answer": 0,
+      "explanation": "风险行为的关键是选择可能带来不良后果。喜欢新奇或对奖励敏感可能有关，但本身不等于风险行为。",
+      "optionExplanations": [
+        "可能有不良后果，是风险行为的核心。",
+        "新奇体验也可能没有实质风险。",
+        "奖励敏感看对奖励线索的反应，不等于做了风险选择。",
+        "知道后果的人也可能冒险，不能据此说他完全不理解。"
+      ],
+      "source": "L8 · 03 | 风险选择：先看任务，再解释年龄差异 · [B0042–B0044]",
+      "origin": "notes",
+      "stem": "Risk taking 最直接指什么？",
+      "stemEn": "What does risk taking most directly refer to?"
+    },
+    {
+      "id": "L8-Q05",
+      "conceptId": "L8-C05",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "$5",
+        "$50",
+        "$0",
+        "$25"
+      ],
+      "optionsEn": [
+        "$5",
+        "$50",
+        "$0",
+        "$25"
+      ],
+      "answer": 3,
+      "explanation": "平均收益是 0.5×50+0.5×0=$25。它高于确定的 $5，所以两个选项不只在风险上不同。",
+      "optionExplanations": [
+        "$5 是另一个确定选项，不是这张彩票的平均值。",
+        "$50 是可能获得的最高金额，不是平均值。",
+        "$0 是可能结果之一，不是平均值。",
+        "两种结果各一半，把金额按概率加权得到 $25。"
+      ],
+      "source": "L8 · 03 | 风险选择：先看任务，再解释年龄差异 · [B0045–B0051]",
+      "origin": "notes",
+      "stem": "50% 得 $50、50% 得 $0 的平均收益是多少？",
+      "stemEn": "What is the expected gain from a 50% chance of $50 and a 50% chance of $0?"
+    },
+    {
+      "id": "L8-Q06",
+      "conceptId": "L8-C06",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "所有脑区在同一生日完成成熟",
+        "成人不受情绪与同伴影响",
+        "奖励／社会情绪与认知控制相对成熟时间不同",
+        "青春期人都不知道风险"
+      ],
+      "optionsEn": [
+        "All brain regions mature on one birthday",
+        "Adults are unaffected by emotions or peers",
+        "Different developmental timing of reward/socioemotional systems and cognitive control",
+        "Adolescents never know risks"
+      ],
+      "answer": 2,
+      "explanation": "奖励与控制系统的成熟节奏不同，加上情绪和同伴情境，可能使人即使知道后果仍选择冒险。模型不是说青少年完全不理性。",
+      "optionExplanations": [
+        "模型描述发展节奏，不提供全脑统一成熟的生日。",
+        "成人也可能受情绪和同伴影响。",
+        "两个系统的相对时间差，帮助解释知识与当下选择为何不同。",
+        "知道风险与能否在当下控制选择不是同一个问题。"
+      ],
+      "source": "L8 · 04 | 双系统模型：奖励与控制的时间差 · [B0053–B0061]",
+      "origin": "notes",
+      "stem": "双系统模型主要解释什么？",
+      "stemEn": "What is the central explanation of the Dual Systems Model?"
+    },
+    {
+      "id": "L8-Q07",
+      "conceptId": "L8-C07",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "该区只负责一种行为",
+        "汇总中该位置更常／更一致出现激活",
+        "单次信号必定更强",
+        "每个青少年每次必激活"
+      ],
+      "optionsEn": [
+        "Only one behaviour is served by that region",
+        "More frequent or consistent activation at that location across the synthesis",
+        "Necessarily stronger signal on each trial",
+        "Activation in every adolescent on every occasion"
+      ],
+      "answer": 1,
+      "explanation": "较高 likelihood 表示研究汇总中，这个位置的激活更常或更一致出现。它不能直接告诉你单次信号强度。",
+      "optionExplanations": [
+        "一个脑区可能参与多种网络过程，不能说只负责一种行为。",
+        "这里描述激活位置出现的一致性，不是强度。",
+        "强度要另测，不能由 likelihood 直接推出。",
+        "研究汇总的趋势，不保证每个人每次都一样。"
+      ],
+      "source": "L8 · Activation likelihood 与强度不同 · [B0065–B0066]",
+      "origin": "notes",
+      "stem": "脑区激活 likelihood 较高，能直接推出什么？",
+      "stemEn": "A higher activation likelihood directly supports which inference?"
+    },
+    {
+      "id": "L8-Q08",
+      "conceptId": "L8-C08",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "分化与整合可共同发展",
+        "分化等于所有网络断开",
+        "整合等于没有分工",
+        "执行功能不涉及目标维持"
+      ],
+      "optionsEn": [
+        "Segregation and integration developing together",
+        "Segregation means all networks disconnect",
+        "Integration means no specialisation",
+        "Executive function does not involve goal maintenance"
+      ],
+      "answer": 0,
+      "explanation": "分工更清楚是分化，协作更有效是整合。网络可以同时更专门化，也更会合作。",
+      "optionExplanations": [
+        "分化和整合可以一起发生，并不互相排斥。",
+        "分工明确不等于网络完全断开。",
+        "整合是加强协作，不是取消分工。",
+        "维持目标也是执行功能的一部分。"
+      ],
+      "source": "L8 · 05 | 神经网络与执行功能：掌握总体趋势 · [B0063–B0071]",
+      "origin": "notes",
+      "stem": "成员分工更清楚且协作更有效，对应什么网络概念？",
+      "stemEn": "Clearer specialisation with more effective cooperation corresponds to:"
+    },
+    {
+      "id": "L8-Q09",
+      "conceptId": "L8-C09",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "被朋友注视的 social observation",
+        "必定强迫的 peer pressure",
+        "完全没有可能的同伴影响",
+        "观察同伴行为的 social influence"
+      ],
+      "optionsEn": [
+        "Social observation through being watched",
+        "Necessarily coercive peer pressure",
+        "No possible peer influence",
+        "Social influence through observing a peer"
+      ],
+      "answer": 3,
+      "explanation": "你先看朋友怎么做，再改变自己的选择，这是观察同伴行为带来的影响。检查水深还说明同伴影响可以促进安全。",
+      "optionExplanations": [
+        "这里是你看朋友，不是朋友正在看你。",
+        "自愿向朋友学习，不等于被强迫。",
+        "榜样行为可能改变你的决定，因此存在同伴影响。",
+        "观察朋友的做法影响选择，方向符合 social influence。"
+      ],
+      "source": "L8 · 06 | 同伴关系怎样影响青春期选择 · [B0073–B0082]",
+      "origin": "notes",
+      "stem": "先看朋友检查水深再决定跳水，属于哪种方向？",
+      "stemEn": "Watching a friend check water depth before deciding to dive is which direction of peer influence?"
+    },
+    {
+      "id": "L8-Q10",
+      "conceptId": "L8-C10",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "前者是校园规则，后者是个人归属",
+        "两者是面对逆境恢复能力的同义词",
+        "我的联结归属，与共同体验的环境氛围",
+        "两者只测相同生活满意度"
+      ],
+      "optionsEn": [
+        "Identification is rules; climate is personal belonging",
+        "Both are synonyms for recovery from adversity",
+        "Personal connection/belonging versus the shared school environment",
+        "Both only measure identical life satisfaction"
+      ],
+      "answer": 2,
+      "explanation": "School identification 是个人与学校的联结、归属感；school climate 是校园环境氛围。归属可能把环境与适应联系起来，但两者不是同义词。",
+      "optionExplanations": [
+        "这里把个人归属与环境氛围的定义反过来了。",
+        "面对逆境的适应是 resilience，不是这两个概念的定义。",
+        "一个问“我是否属于这里”，另一个问“这里的环境怎样”。",
+        "Wellbeing 是结果，与校园环境和归属感要分开。"
+      ],
+      "source": "L8 · 关系模型 · [B0084–B0093]",
+      "origin": "notes",
+      "stem": "School identification 与 school climate 有何区别？",
+      "stemEn": "How does school identification differ from school climate?"
+    },
+    {
+      "id": "L8-Q11",
+      "conceptId": "L8-C11",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "单纯作出承诺而无评价",
+        "深度探索",
+        "广度探索多个未选方向",
+        "一定是无推进的反刍"
+      ],
+      "optionsEn": [
+        "Commitment making without evaluation",
+        "Exploration in depth",
+        "Breadth across unchosen alternatives",
+        "Necessarily unproductive rumination"
+      ],
+      "answer": 1,
+      "explanation": "已经选定心理学，现在检查课程和工作是否适合，是在评价现有承诺，属于深度探索。",
+      "optionExplanations": [
+        "他不只做了选择，还在进一步评价选择。",
+        "检查已选方向的实际适合程度，是深度探索的重点。",
+        "广度探索比较多个可能方向，而题目已选定心理学。",
+        "查资料、了解工作能推动评价，不是仅原地担忧。"
+      ],
+      "source": "L8 · 08 | 身份双循环模型：五维怎么区分 · [B0095–B0102]",
+      "origin": "notes",
+      "stem": "已选心理学后了解实际学习和工作是否适合，最符合什么？",
+      "stemEn": "After choosing psychology, examining whether its study and work fit one's values exemplifies:"
+    },
+    {
+      "id": "L8-Q12",
+      "conceptId": "L8-C12",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "作出承诺与认同承诺",
+        "深度探索与广度探索",
+        "反刍探索与作出承诺",
+        "认同承诺与作出承诺"
+      ],
+      "optionsEn": [
+        "Commitment making and identification with commitment",
+        "Exploration in depth and breadth",
+        "Ruminative exploration and commitment making",
+        "Identification with commitment and commitment making"
+      ],
+      "answer": 0,
+      "explanation": "选专业并安排课程，体现做出选择、采取行动；觉得选择适合自己，体现认同这个承诺。两者不能直接合并。",
+      "optionExplanations": [
+        "前者是作出承诺，后者是认同承诺，顺序与题目对应。",
+        "题目没有分别描述评价现有选择和比较多个方向。",
+        "安排课程是具体推进，不是反复怀疑却难行动。",
+        "顺序反了：报名排课是 making，觉得适合自己是 identification。"
+      ],
+      "source": "L8 · 08 | 身份双循环模型：五维怎么区分 · [B0095–B0102]",
+      "origin": "notes",
+      "stem": "选专业并排课，与认为这个选择适合自己，分别是什么？",
+      "stemEn": "Choosing a degree and arranging courses versus feeling it truly fits oneself represent:"
+    },
+    {
+      "id": "L8-Q13",
+      "conceptId": "L8-C13",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "options": [
+        "必定在前四阶段之后出现的第五阶段",
+        "有效探索的所有形式",
+        "人人年龄相同的固定任务",
+        "反复怀疑难推进的独立维度"
+      ],
+      "optionsEn": [
+        "A mandatory fifth stage after four earlier stages",
+        "Every form of productive exploration",
+        "A fixed task at the same age for everyone",
+        "An independent dimension of repetitive doubt without progress"
+      ],
+      "answer": 3,
+      "explanation": "反刍探索是反复怀疑却难以前进。它是独立变化的维度，不是人人依次走到的第五阶段。",
+      "optionExplanations": [
+        "五维不是固定顺序，反刍也不要求先完成前四项。",
+        "广度和深度探索可以有效推进，不能都叫反刍。",
+        "反刍没有人人同龄完成的固定时间表。",
+        "关键是探索陷入重复担忧、难推动选择，而不是想得久。"
+      ],
+      "source": "L8 · 08 | 身份双循环模型：五维怎么区分 · [B0095–B0102]",
+      "origin": "notes",
+      "stem": "反刍探索在身份模型中是什么？",
+      "stemEn": "What is ruminative exploration in the identity model?"
+    },
+    {
+      "id": "L8-Q14",
+      "conceptId": "L8-C14",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "身份必须永远不变",
+        "生活叙事只记录未来不联系过去",
+        "自我连贯可以包含情境行为变化",
+        "行为不同必定身份破碎"
+      ],
+      "optionsEn": [
+        "Identity must never change",
+        "Life narratives ignore the past",
+        "A coherent self can include contextual behavioural changes",
+        "Different behaviour necessarily means fragmented identity"
+      ],
+      "answer": 2,
+      "explanation": "自我连贯不要求每个场合行为一样。共同价值和生活叙事，可以把安静与活跃等不同侧面联系起来。",
+      "optionExplanations": [
+        "连贯和改变可以并存，不必永远不变。",
+        "生活叙事连接过去、现在和未来，不只记录未来。",
+        "行为随场景变化，仍可能有共同价值主线。",
+        "表现不同本身不足以判断身份破碎。"
+      ],
+      "source": "L8 · Sense of self：把过去、现在和未来连起来 · [B0104–B0112]",
+      "origin": "notes",
+      "stem": "家里安静、朋友间活跃，但价值仍连贯，说明什么？",
+      "stemEn": "Quiet at home and lively with friends, yet consistent in values, illustrates:"
+    },
+    {
+      "id": "L8-Q15",
+      "conceptId": "L8-C15",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "不同侧面自我呈现必定欺骗",
+        "区分平台被动操作与主动身份加工",
+        "没点赞就没有任何探索",
+        "所有观看等于全被动心理"
+      ],
+      "optionsEn": [
+        "Presenting different sides is necessarily deception",
+        "Separate passive platform behaviour from active identity processing",
+        "No likes means no exploration",
+        "Watching is wholly passive mentally"
+      ],
+      "answer": 1,
+      "explanation": "观看时不点击，也可能在认真评价未来。平台操作和内心身份思考是不同层面，要用不同指标测量。",
+      "optionExplanations": [
+        "表现不同侧面可能是在探索或适应场合，不一定是欺骗。",
+        "没有主动操作，不代表没有主动思考身份。",
+        "点赞只是平台行为，不能覆盖全部身份探索。",
+        "观看也可能包含比较、反思和评价，不是全被动。"
+      ],
+      "source": "L8 · 10 | 媒体与身份：参与不只看点击次数 · [B0114–B0123]",
+      "origin": "notes",
+      "stem": "只观看职业内容但认真思考未来，如何正确测量？",
+      "stemEn": "Someone only watches career content but actively reflects on their future. How should this be measured?"
+    },
+    {
+      "id": "L8-Q16",
+      "conceptId": "L8-C16",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "需限定平均与条件，不能保证人人无影响",
+        "每个人都完全不受影响",
+        "已证明所有媒体都改善心理健康",
+        "反向作用已经不可能"
+      ],
+      "optionsEn": [
+        "Interpret the average conditionally; it does not guarantee zero impact for everyone",
+        "No individual is affected at all",
+        "All media improve mental health",
+        "Reverse effects are impossible"
+      ],
+      "answer": 0,
+      "explanation": "平均关联小，不代表每个人都没有影响。还要看内容、活动和个人背景，也要考虑心理状态反过来影响媒体使用。",
+      "optionExplanations": [
+        "结论只适用于平均与研究条件，不能保证所有个体零影响。",
+        "平均小不能直接推出每个人完全不受影响。",
+        "没有据此证明所有媒体都会改善心理健康。",
+        "控制一些变量，不能保证排除全部反向影响。"
+      ],
+      "source": "L8 · 心理健康结果为什么混合 · [B0127–B0129]",
+      "origin": "notes",
+      "stem": "控制混淆后媒体与心理健康平均关联较小，意味着什么？",
+      "stemEn": "A small average media–mental health association after controls means what?"
+    },
+    {
+      "id": "L8-Q17",
+      "conceptId": "L8-C17",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "options": [
+        "此刻比较为调节，惯常倾向为唯一结果",
+        "两者都是同一操纵",
+        "两者都已直接证明因果",
+        "此刻比较为中介，惯常倾向为调节"
+      ],
+      "optionsEn": [
+        "State as moderator; trait as the sole outcome",
+        "Both are one identical manipulation",
+        "Both directly establish causality",
+        "State as mediator; trait as moderator"
+      ],
+      "answer": 3,
+      "explanation": "此刻比较可能连接图像暴露与身体不满，是中介；惯常比较倾向可能影响这段关系有多强，是调节。前者问过程，后者问条件，统计结果本身不能证明因果。",
+      "optionExplanations": [
+        "本课把此刻比较作为中介，不是这个选项中的调节。",
+        "当下反应与惯常倾向不是同一个变量。",
+        "统计上的中介、调节角色都不能单独证明因果。",
+        "State 说明可能经由什么过程，trait 说明对谁关系更强。"
+      ],
+      "source": "L8 · 理想化图像与身体不满 · [B0130–B0135]",
+      "origin": "notes",
+      "stem": "课件中 state 与 trait comparison 分别扮演哪种角色？",
+      "stemEn": "In the lecture model, which roles do state and trait comparison play?"
+    },
+    {
+      "id": "L8-Q18",
+      "conceptId": "L8-C18",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "能，先前困难完全不用考虑",
+        "不能，因为屏幕绝不可能影响短期任务",
+        "不能，短期表现、长期诊断与因果证据不同",
+        "能，一天分心就是诊断"
+      ],
+      "optionsEn": [
+        "Yes; prior difficulties need not be considered",
+        "No; screens can never affect short-term tasks",
+        "No; short-term performance, diagnosis, and causal evidence differ",
+        "Yes; one distracted day is a diagnosis"
+      ],
+      "answer": 2,
+      "explanation": "不能。一天的分心与长期诊断不同，相关也不能证明媒体是原因。原有注意困难、反向影响及其他因素都要考虑。",
+      "optionExplanations": [
+        "原有困难可能同时影响媒体使用和分心。",
+        "不能据此确诊，也不表示屏幕绝不影响短期任务。",
+        "要分开短期表现、长期诊断和因果判断，不能一步跳过去。",
+        "ADHD 诊断不能由一天分心或单日相关来确定。"
+      ],
+      "source": "L8 · 12 | 媒体与注意、学业和语言 · [B0137–B0145]",
+      "origin": "notes",
+      "stem": "当天消息频繁与分心相关，能认定媒体造成 ADHD 吗？",
+      "stemEn": "Frequent messaging relates to distraction that day. Does this establish that media caused ADHD?"
+    },
+    {
+      "id": "L8-Q19",
+      "conceptId": "L8-C19",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "只要知道算法存在便能免疫",
+        "信息环境概念，可涉及网络选择与个性化筛选",
+        "两个固定推荐算法名称",
+        "前者只指筛选，后者只指同伴重复观点"
+      ],
+      "optionsEn": [
+        "Knowing algorithms exist grants immunity",
+        "Information-environment concepts involving selection and personalisation",
+        "Names of two fixed recommendation algorithms",
+        "Echo chamber only means filtering; bubble only means repeated peer views"
+      ],
+      "answer": 1,
+      "explanation": "两者描述信息如何被强化或筛选。回音室偏向相似观点反复强化，过滤气泡偏向个性化筛选，不是两套固定代码。",
+      "optionExplanations": [
+        "知道有算法，不保证理解它，更不保证核查准确。",
+        "概念关注信息环境，可以涉及社交选择及推荐筛选。",
+        "它们不是只有两种固定推荐算法的名字。",
+        "这里把两者侧重点反过来了，而且说得过窄。"
+      ],
+      "source": "L8 · 13 | 算法环境与虚假信息判断 · [B0147–B0151]",
+      "origin": "notes",
+      "stem": "Echo chamber 与 filter bubble 最准确是什么？",
+      "stemEn": "What are echo chambers and filter bubbles?"
+    },
+    {
+      "id": "L8-Q20",
+      "conceptId": "L8-C20",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "自己实际识别能力更好",
+        "存在 third-person effect 式自评",
+        "自评与能力需要分测",
+        "外部核查可提供独立证据"
+      ],
+      "optionsEn": [
+        "Their actual detection ability is better",
+        "A third-person-effect style judgement exists",
+        "Self-evaluation and ability require separate measures",
+        "External checking can supply independent evidence"
+      ],
+      "answer": 0,
+      "explanation": "错误的是“自己实际识别能力更好”。觉得别人更容易被骗只是一种自评，必须另测准确率才能判断真实能力。",
+      "optionExplanations": [
+        "自评更有信心，不能直接当作识别更准确的证据。",
+        "觉得别人更易受影响，符合 third-person effect 的描述。",
+        "把自评与实测能力分开，是合理做法，不是错误推论。",
+        "外部核查能提供证据，题目并没有否定它。"
+      ],
+      "source": "L8 · 过度自信与行为要分别测 · [B0152–B0156]",
+      "origin": "notes",
+      "stem": "觉得‘别人更容易被骗’，但未测准确率，哪种说法错误地把这种自评当成了实际能力证据？",
+      "stemEn": "Someone says others are more easily misled, without accuracy testing. Which statement incorrectly treats this self-assessment as evidence of actual ability?"
+    },
+    {
+      "id": "L8-Q21",
+      "conceptId": "L8-C21",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "两组必定就是同人不同年龄",
+        "年龄已被随机分配",
+        "成年阶段完全没有变化",
+        "不同教育与科技经历的世代效应"
+      ],
+      "optionsEn": [
+        "Necessarily the same people at different ages",
+        "Randomly assigned age",
+        "No change during adulthood",
+        "Cohort differences in education and technology experience"
+      ],
+      "answer": 3,
+      "explanation": "两组来自不同世代，教育与科技经历可能不同。因此软件成绩差不一定全是年龄变化。",
+      "optionExplanations": [
+        "这是不同年龄组，不是跟踪同一批人长大。",
+        "年龄没有被随机分配，不能当随机实验。",
+        "成年仍可能变化和适应，相对稳定不是停止发展。",
+        "世代的教育和科技经验不同，是具体的替代解释。"
+      ],
+      "source": "L8 · 14 | 成年发展：相对稳定仍有变化 · [B0158–B0166]",
+      "origin": "notes",
+      "stem": "20 岁和 50 岁软件成绩不同，有何具体替代解释？",
+      "stemEn": "Different software performance in 20- and 50-year-old groups may also reflect:"
+    },
+    {
+      "id": "L8-Q22",
+      "conceptId": "L8-C22",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "专业知识永远不受任何变化",
+        "成绩差自动就是痴呆",
+        "流体与晶体相关能力可表现不同",
+        "所有认知都必定在 30 岁顶峰"
+      ],
+      "optionsEn": [
+        "Expertise is never affected by any change",
+        "A lower score automatically indicates dementia",
+        "Different performance in fluid- and crystallised-related abilities",
+        "All cognition necessarily peaks at 30"
+      ],
+      "answer": 2,
+      "explanation": "新界面需要即时处理陌生信息，故障判断能运用累积经验。两类能力的变化不一定同步，同一任务也可同时使用它们。",
+      "optionExplanations": [
+        "晶体能力可能相对保持，但不是永远不变。",
+        "一项任务表现不同，不能直接诊断痴呆。",
+        "即时处理与累积知识的轨迹不同，同一任务也可能同时用到两者。",
+        "不同能力的高峰和保持时间不同，不能统一定为 30 岁。"
+      ],
+      "source": "L8 · 15 | 流体与晶体能力：认知老化不是一条线 · [B0168–B0177]",
+      "origin": "notes",
+      "stem": "维修师新界面学习较慢但专业故障判断准，最说明什么？",
+      "stemEn": "A technician learns an unfamiliar interface slowly but diagnoses faults expertly. What is illustrated?"
+    },
+    {
+      "id": "L8-Q23",
+      "conceptId": "L8-C23",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "每种活动效果对人人完全相同",
+        "先前能力、健康和资源也可影响活动与表现",
+        "活动假说已经排除全部混淆",
+        "白质是唯一决定因素"
+      ],
+      "optionsEn": [
+        "Every activity has identical effects for everyone",
+        "Prior ability, health, and resources can affect both activity and performance",
+        "The engagement hypothesis excludes every confound",
+        "White matter is the sole determinant"
+      ],
+      "answer": 1,
+      "explanation": "认知较好的人也可能更能参与活动，健康和资源还可能同时影响两者。相关不能保证活动能预防某个人的痴呆。",
+      "optionExplanations": [
+        "不同活动和个体条件可能带来不同结果。",
+        "原有能力、健康和资源可能同时影响参与及认知表现。",
+        "提出假说不等于研究已经排除所有其他解释。",
+        "认知涉及多个因素和网络，不只由白质决定。"
+      ],
+      "source": "L8 · 16 | 神经老化与生活经验的作用 · [B0179–B0188]",
+      "origin": "notes",
+      "stem": "参与活动多的人认知较好，为什么不能保证活动预防痴呆？",
+      "stemEn": "Why does better cognition among active people not guarantee that activity prevents dementia?"
+    },
+    {
+      "id": "L8-Q24",
+      "conceptId": "L8-C24",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "共同未来时间感有限，提高情感意义优先级",
+        "SST 只允许老年人这样选择",
+        "说明年轻人完全不再想学习",
+        "交友减少必定是被迫孤立"
+      ],
+      "optionsEn": [
+        "Limited perceived shared future time increases emotional priorities",
+        "SST permits this only in older adults",
+        "Young people no longer want to learn at all",
+        "Fewer contacts necessarily mean forced isolation"
+      ],
+      "answer": 0,
+      "explanation": "毕业临近，让他觉得与好友共享的未来时间有限，于是更重视亲近和意义。SST 的核心是时间感，不只限于老年人。",
+      "optionExplanations": [
+        "时间感有限时，重要关系和情感意义可能优先。",
+        "年轻人的具体情境也能改变未来时间感。",
+        "优先考虑亲近关系，不代表完全放弃学习。",
+        "减少外围交往可能是主动选择，不一定是被迫孤立。"
+      ],
+      "source": "L8 · 关键变量是感到还有多少未来时间 · [B0192–B0200]",
+      "origin": "notes",
+      "stem": "年轻人临近毕业更想珍惜亲近朋友，SST 如何解释？",
+      "stemEn": "A young person nearing graduation prioritises close friends. How does SST explain this?"
+    },
+    {
+      "id": "L8-Q25",
+      "conceptId": "L8-C25",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "所有直接路径完全相同且显著",
+        "绝对证明关系永远为零",
+        "证明每个老年人都更幸福",
+        "不显著，但可有经积极情绪的路径"
+      ],
+      "optionsEn": [
+        "Every direct path is identical and significant",
+        "Proof that the relationship is always exactly zero",
+        "Proof that every older adult is happier",
+        "Nonsignificant, while an indirect positive-affect path may exist"
+      ],
+      "answer": 3,
+      "explanation": "图中这条直接路径不显著，但仍可能通过积极情绪与情绪 wellbeing 关联。直接和间接路径要分开看，图本身也不能保证因果。",
+      "optionExplanations": [
+        "社会和心理 wellbeing 的直接路径为正，情绪路径不显著，不能混为一谈。",
+        "不显著不是证明关系永远等于零。",
+        "群体研究不能判断每一个老年人的幸福程度。",
+        "直接路径不显著，与经积极情绪的关联路径可以同时存在。"
+      ],
+      "source": "L8 · Slide 39 怎样读中介图 · [B0197–B0199]",
+      "origin": "notes",
+      "stem": "Slide 39 中亲密关系社会资本至情绪 wellbeing 的直接路径标为什么？",
+      "stemEn": "How is the direct path from bonding social capital to emotional wellbeing labelled on slide 39?"
+    },
+    {
+      "id": "L8-Q26",
+      "conceptId": "L8-C26",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "老年人天生更自私",
+        "一题即可测量全部道德能力",
+        "此任务自我视角表现优势，不等于整体共情更好",
+        "所有他人视角任务都必定更好"
+      ],
+      "optionsEn": [
+        "Older adults are innately more selfish",
+        "One item measures all moral abilities",
+        "An advantage in this self-perspective task, not necessarily overall empathy",
+        "Guaranteed superiority on every other-perspective task"
+      ],
+      "answer": 2,
+      "explanation": "只能说明老年样本在这类自我视角题上表现较好。按他人视角回答有不同要求，亲近程度也会影响结果，不能推到整体共情。",
+      "optionExplanations": [
+        "任务表现不能变成“自私”的道德标签。",
+        "一个认知指标不能覆盖全部道德和共情能力。",
+        "结论应限于自我视角任务，不能直接说整体共情更好。",
+        "自我视角的优势，不能自动推广到所有他人视角任务。"
+      ],
+      "source": "L8 · 18 | 老年人视角采择与情感亲近 · [B0202–B0212]",
+      "origin": "notes",
+      "stem": "老年样本在自我视角 trials 更准，能推出什么？",
+      "stemEn": "Older adults perform better on self-perspective trials. What can be concluded?"
+    },
+    {
+      "id": "L8-Q27",
+      "conceptId": "L8-C02",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "options": [
+        "一个人的准确发病日期与基因",
+        "分布高点，与把分布分成两半的点",
+        "两个必定相同的数字",
+        "患病率与治疗率"
+      ],
+      "optionsEn": [
+        "One person's exact onset date versus genes",
+        "The distribution's high point versus the point dividing it in half",
+        "Two necessarily identical numbers",
+        "Prevalence versus treatment rate"
+      ],
+      "answer": 1,
+      "explanation": "Peak 是分布的高点，median 是把分布分成两半的点。因此首发年龄峰值约 14.5 岁，中位约 18 岁并不矛盾。",
+      "optionExplanations": [
+        "两者描述群体分布，不是个人的准确发病日期。",
+        "高点和中间分割点定义不同，数值可以不同。",
+        "分布不一定对称，所以两者不保证相同。",
+        "两者都描述年龄分布位置，不是患病率或治疗率。"
+      ],
+      "source": "L8 · 为什么青春期是重要发展窗口 · [B0033–B0035]",
+      "origin": "notes",
+      "stem": "Peak 与 median 的区别是什么？",
+      "stemEn": "What distinguishes peak from median age of onset?"
+    },
+    {
+      "id": "L8-Q28",
+      "conceptId": "L8-C05",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "选项同时改变期望值与不确定性",
+        "两者期望完全相等",
+        "选择已排除收益大小影响",
+        "一次赢钱改变下一次概率"
+      ],
+      "optionsEn": [
+        "Expected value and uncertainty change together",
+        "The expectations are identical",
+        "Choice rules out value magnitude",
+        "One win changes the next probability"
+      ],
+      "answer": 0,
+      "explanation": "两个选项既改变了不确定性，也改变了平均损失。因此，选择可能受损失大小影响，不能只解释成风险偏好。",
+      "optionExplanations": [
+        "期望值和风险同时不同，就不能只归给风险这一因素。",
+        "−$25 与 −$5 明显不相等。",
+        "平均损失大小仍可能影响选择，没有被排除。",
+        "反馈可能改变人的选择，但不会自动改变客观概率。"
+      ],
+      "source": "L8 · 03 | 风险选择：先看任务，再解释年龄差异 · [B0045–B0051]",
+      "origin": "notes",
+      "stem": "损失彩票期望 −$25、确定损失 −$5，为什么限制纯风险解释？",
+      "stemEn": "Why does a −$25 lottery expectation versus a −$5 certain loss limit a pure risk interpretation?"
+    },
+    {
+      "id": "L8-Q29",
+      "conceptId": "L8-C08",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "所有脑结构此时永久不变",
+        "每个人生日当天现实决策完全成熟",
+        "其他任务和经验都无关",
+        "该任务表现趋稳，非整脑或全部判断统一完成"
+      ],
+      "optionsEn": [
+        "All brain structures permanently stop changing",
+        "All real decisions mature on the same birthday",
+        "Other tasks and experience are irrelevant",
+        "Stabilisation of those task performances, not completion of the whole brain or all judgement"
+      ],
+      "answer": 3,
+      "explanation": "只能说所测任务的平均表现约在 18–20 岁趋稳。这个任务没有测到全部脑结构，也不能代表所有现实决策。",
+      "optionExplanations": [
+        "行为任务没有测所有脑结构，更不能证明永久不变。",
+        "群体年龄趋势，不是每个人生日当天突然成熟。",
+        "任务要求、经验和情境仍影响能否推广结果。",
+        "结论限于这项任务，不是整脑或全部判断统一完成。"
+      ],
+      "source": "L8 · 05 | 神经网络与执行功能：掌握总体趋势 · [B0063–B0071]",
+      "origin": "notes",
+      "stem": "所测执行任务约 18–20 岁达成人水平，能推断什么？",
+      "stemEn": "What can be inferred from measured executive tasks reaching adult-level performance around 18–20?"
+    },
+    {
+      "id": "L8-Q30",
+      "conceptId": "L8-C10",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "中介图就是随机实验",
+        "学校氛围等于一个人的全部人格",
+        "家庭资源、先前状态或选校仍可影响多个变量",
+        "纵向永远没有时间顺序信息"
+      ],
+      "optionsEn": [
+        "A mediation diagram is a randomised experiment",
+        "School climate equals a person's whole personality",
+        "Resources, prior states, or school selection may affect several variables",
+        "Longitudinal data never offer temporal information"
+      ],
+      "answer": 2,
+      "explanation": "纵向数据能更好地检查先后顺序，但家庭资源、原有状态和选校因素仍可能同时影响多个变量。中介图不能自动排除这些解释。",
+      "optionExplanations": [
+        "画出中介路径不代表进行了随机实验。",
+        "校园氛围是环境指标，不是个人的全部人格。",
+        "有时间顺序仍可能有共同原因和选择因素，所以不能直接断定因果。",
+        "纵向确实提供时间信息，只是不能独自保证因果。"
+      ],
+      "source": "L8 · 关系模型 · [B0084–B0093]",
+      "origin": "notes",
+      "stem": "纵向学校模型中的中介路径为何不自动为因果？",
+      "stemEn": "Why is a mediation path in a longitudinal school model not automatically causal?"
+    },
+    {
+      "id": "L8-Q31",
+      "conceptId": "L8-C17",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "哪一组被随机分配了年龄",
+        "影响可能经由什么路径",
+        "对谁关系更强的唯一调节问题",
+        "全体人的永久固定特质"
+      ],
+      "optionsEn": [
+        "Which group had randomised age",
+        "Through what pathway the effect may operate",
+        "Only for whom the association is stronger",
+        "Everyone's permanently fixed trait"
+      ],
+      "answer": 1,
+      "explanation": "此刻比较处在图像与不满之间，提出了影响可能经由什么过程。这是中介问题，不是“对谁更强”的调节问题。",
+      "optionExplanations": [
+        "图中没有随机分配年龄。",
+        "比较可能连接图像暴露与身体不满，回答过程问题。",
+        "关系对谁更强，才是惯常比较倾向等调节因素的问题。",
+        "State 是当下反应，不是永久固定特质。"
+      ],
+      "source": "L8 · 理想化图像与身体不满 · [B0130–B0135]",
+      "origin": "notes",
+      "stem": "理想化图像→此刻身材比较→不满，此刻比较回答哪种问题？",
+      "stemEn": "Idealised images → immediate comparison → dissatisfaction: what question does immediate comparison address?"
+    },
+    {
+      "id": "L8-Q32",
+      "conceptId": "L8-C19",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "不能，来源是挪威总体网络样本且非该专门主题",
+        "能，所有网络样本都等于青少年",
+        "能，任何算法都等于生成式 AI",
+        "能，国别和时间背景不影响推广"
+      ],
+      "optionsEn": [
+        "No; it used a general Norwegian internet sample and was not that specific topic",
+        "Yes; all internet samples are adolescent samples",
+        "Yes; every algorithm is generative AI",
+        "Yes; country and time never limit generalisation"
+      ],
+      "answer": 0,
+      "explanation": "不能。Gran 研究的是挪威总体网络样本中的算法意识，不是青少年专属的生成式 AI 研究。样本和研究主题都不能换。",
+      "optionExplanations": [
+        "研究样本及主题不同，所以不能这样直接改称。",
+        "总体网络样本不等于青少年样本。",
+        "推荐和筛选算法不能都当作生成式 AI。",
+        "国别及技术背景会影响结果能推广到哪里。"
+      ],
+      "source": "L8 · 13 | 算法环境与虚假信息判断 · [B0147–B0151]",
+      "origin": "notes",
+      "stem": "Gran 的算法意识研究可直接称青少年生成式 AI 研究吗？",
+      "stemEn": "Can Gran's algorithm-awareness study directly be called an adolescent generative-AI study?"
+    },
+    {
+      "id": "L8-Q33",
+      "conceptId": "L8-C22",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "options": [
+        "所有知识都在不老化单一脑区",
+        "从不依赖即时加工",
+        "每人词汇必定随龄一直上升",
+        "任务可共享其他过程，也不保证终生不变"
+      ],
+      "optionsEn": [
+        "All knowledge sits in one non-ageing region",
+        "It never depends on online processing",
+        "Every person's vocabulary rises forever",
+        "Tasks can share other processes and preservation is not guaranteed for life"
+      ],
+      "answer": 3,
+      "explanation": "词汇和经验相对保持是一种平均趋势，不保证人人终生增长。任务也可能同时依赖即时处理和其他网络过程。",
+      "optionExplanations": [
+        "特定词汇任务的网络解释，不能说所有知识都在一个不老化区域。",
+        "理解新指令时仍可能需要即时处理。",
+        "平均保持或增长，不保证每个人词汇一直上升。",
+        "累积知识也有个体和网络条件，不能说永久不变。"
+      ],
+      "source": "L8 · 15 | 流体与晶体能力：认知老化不是一条线 · [B0168–B0183]",
+      "origin": "notes",
+      "stem": "晶体能力相对保持，最准确的限定是什么？",
+      "stemEn": "Which qualification best applies to relative preservation of crystallised ability?"
+    },
+    {
+      "id": "L8-Q34",
+      "conceptId": "L8-C26",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "证明自我视角永远无需抑制",
+        "把老年所有认知变化完全取消",
+        "任务表现和他人信息处理的条件",
+        "让任务等于测全部共情"
+      ],
+      "optionsEn": [
+        "Proving self-information never needs inhibition",
+        "Eliminating all cognitive ageing",
+        "Conditions for performance and processing another's information",
+        "Making the task a measure of all empathy"
+      ],
+      "answer": 2,
+      "explanation": "课件发现，亲近程度较高时老年样本的表现可能接近年轻人。这说明关系情境会影响他人视角题，但不是全部共情的测量。",
+      "optionExplanations": [
+        "按他人视角回答，通常要暂时放下自己知道的信息。",
+        "一个条件改善了任务表现，不代表取消所有年龄变化。",
+        "亲近度改变了处理他人信息时的条件，因此可能影响表现。",
+        "它仍是一项认知任务，不能代替全部共情评价。"
+      ],
+      "source": "L8 · 18 | 老年人视角采择与情感亲近 · [B0202–B0212]",
+      "origin": "notes",
+      "stem": "按他人视角答题时情感亲近更高可能影响什么？",
+      "stemEn": "What may higher emotional closeness affect when answering from another person's perspective?"
+    }
+  ],
+  "file": "PSYC1004_Lecture_8_Adolescence_to_Later_Adulthood_Notes.docx",
+  "sourceBlocks": [
+    {
+      "id": 1,
+      "text": "PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT"
+    },
+    {
+      "id": 2,
+      "text": "Lecture 8"
+    },
+    {
+      "id": 3,
+      "text": "Adolescence to Later Adulthood"
+    },
+    {
+      "id": 4,
+      "text": "青春期至成年后期：决策、身份、媒体与认知老化"
+    },
+    {
+      "id": 5,
+      "text": "Maika Kumada  |  Developmental Lecture 4: 41 slides  |  Bilingual study notes"
+    },
+    {
+      "id": 6,
+      "text": "CORE IDEA  发展贯穿一生。青春期的奖励敏感性、同伴关系与身份探索共同影响选择；成年后不同能力和社会目标继续变化，增长、损失、稳定与适应可以同时存在。"
+    },
+    {
+      "id": 8,
+      "text": "主线：认知与社会环境相互作用，发展结果取决于人、任务和情境。"
+    },
+    {
+      "id": 9,
+      "text": "阅读方法：先看一页速记，再按 slide 编号回课件。蓝色为概念，金色为自拟案例与答题重点，红色为易误记点，绿色为应用。最后有自测题、术语表和四讲知识树。"
+    },
+    {
+      "id": 10,
+      "text": "STUDY PRIORITY  优先掌握：双系统、segregation / integration、peer influence 的两种情境、身份五维、state / trait comparison、fluid / crystallised abilities，以及 perceived future time。具体脑区名称为扩展，不是讲师要求硬背的重点。"
+    },
+    {
+      "id": 12,
+      "text": "一页速记 | Lecture at a glance"
+    },
+    {
+      "id": 13,
+      "text": "L8 slides 2–13、15–30、32–41；开头另补讲 L7 想象伙伴。"
+    },
+    {
+      "id": 14,
+      "text": "主题 | 一句话带走\n\nAdolescent cognition | 元认知继续发展；奖励敏感与尚在成熟的控制系统，在不同情绪情境下共同影响决策。\n\nPeer context | 影响可以来自被朋友注视、观察朋友的行为，也可以来自信任和欣赏；不只来自强迫。\n\nSchool environment | 积极校园氛围、归属感与韧性可共同关联较好的 wellbeing。\n\nIdentity dual cycle | 先比较与选择，再评价与内化；可以回头重选，反刍探索不是必经阶段。\n\nMedia | 内容、参与方式和个体差异都重要；同样的使用时长可能有很不同的体验。\n\nAdult cognition | 成年相对稳定不代表停止发展；流体能力与累积知识的年龄轨迹不同。\n\nLater-life goals | 未来时间被感到更有限时，情感上重要的关系和体验更受重视。"
+    },
+    {
+      "id": 16,
+      "text": "本讲最容易混淆的四组概念"
+    },
+    {
+      "id": 17,
+      "text": "风险行为与寻求刺激；广度与深度探索；中介与调节；即时加工效率与累积知识。答题时先说明比较的两端各指什么，再说明它们怎样相互作用。"
+    },
+    {
+      "id": 18,
+      "text": "理解案例（自拟）  小林白天决定今晚复习，晚上朋友开黑又能立刻获得胜利奖励。分析应同时考虑奖励、同伴和控制目标，不能仅由一次选择给他贴“青春期不理性”的标签。"
+    },
+    {
+      "id": 19,
+      "text": "EXAM  讲师明确强调脑科学的 broad trends：类似奖励网络、激活可能性、执行功能成熟及网络分工与协同。无需把所有脑区的拉丁式名称当作本讲主线。"
+    },
+    {
+      "id": 21,
+      "text": "01 | 课堂衔接：想象伙伴从儿童延伸到成人"
+    },
+    {
+      "id": 22,
+      "text": "课堂开头对应 L7 slides 51–54；本讲 slide 2 为 adult ICs。"
+    },
+    {
+      "id": 23,
+      "text": "形式与解释"
+    },
+    {
+      "id": 24,
+      "text": "Imaginary companions（ICs，想象伙伴）可包括没有实体的朋友、被人格化的玩具，以及扮演的身份。Shared ICs 是多个孩子共同维持的角色；paracosm 是围绕角色建立的想象世界。上周的课件补充在本周课堂得到进一步讲解。"
+    },
+    {
+      "id": 25,
+      "text": "观察或课堂内容 | 合理解释与边界\n\n压力、焦虑与 IC 相关 | 压力可能促使儿童利用 IC 应对，也可能有共同原因；不能仅凭相关确定 IC 造成焦虑。\n\n语言、故事、沟通与创造力表现 | 有 IC 儿童在部分任务中更会组织信息、扩展故事或想出多种用途；练习机会是可能解释。\n\n儿童感受与文化表达 | 许多孩子描述陪伴、乐趣；害怕或感到被控制时体验可不同。形式随文化和游戏环境变化。\n\nAdult ICs：Yamaguchi et al. (2023) | 问卷样本中约 10–15% 报告当前 IC；与压力及拟人化倾向关联，未发现稳健的孤独关联。[1]"
+    },
+    {
+      "id": 27,
+      "text": "成人数字是研究样本的报告率，不是全世界固定患病率。该论文是问卷研究，课件将其称为 review 不准确。Anthropomorphic tendencies 指给物品赋予人的情感或意图，例如“我的旧电脑今天在闹脾气”。"
+    },
+    {
+      "id": 28,
+      "text": "理解案例（自拟）  孩子觉得玩具熊不知道自己在学校发生的事，于是把人物、地点和先后讲清楚。这可说明 referential communication 的练习：听者未必拥有我已有的信息。"
+    },
+    {
+      "id": 29,
+      "text": "ACCURACY  作者感觉虚构角色“仿佛自行行动”的 illusion of independent agency，是一种创作体验的描述。不能直接写成相信人物在现实存在，也不能仅凭 IC 判断临床幻觉或精神障碍。"
+    },
+    {
+      "id": 31,
+      "text": "02 | 青春期与元认知"
+    },
+    {
+      "id": 32,
+      "text": "Slides 3–5；adolescence、first onset 与 metacognition。"
+    },
+    {
+      "id": 33,
+      "text": "为什么青春期是重要发展窗口"
+    },
+    {
+      "id": 34,
+      "text": "WHO 常用 adolescence 指 10–19 岁。身心、关系和角色都在变化，一些精神障碍的首次发病也集中在儿童、青春期与青年期。不过不同诊断有不同分布，不能把全体障碍合成一个固定的发病生日。"
+    },
+    {
+      "id": 35,
+      "text": "Solmi et al. 的汇总结果 [2] | 应怎样理解\n\n14 岁前 34.6%；18 岁前 48.4%；25 岁前 62.5% | 研究中的首次发病年龄分布；分母是发生障碍者，不是所有年轻人。\n\n整体高峰约 14.5 岁；中位数约 18 岁 | Peak 是分布高点；median 是将年龄分布分成两半的点。两者不可合称一个数字。\n\nSlide 4 的诊断类别图 | 神经发育、焦虑、进食、情绪等障碍的中位发病年龄不同；图上的误差范围也要考虑。"
+    },
+    {
+      "id": 37,
+      "text": "Metacognition：监测与评估自己的思考"
+    },
+    {
+      "id": 38,
+      "text": "元认知包括 introspection（反思自己在想什么）与评估推理是否可靠。青春期这一能力继续发展，有助于发现自己不知道什么、调整策略和作出选择。成人相对稳定不代表能力完全相同；这也不是青春期才首次出现的能力。"
+    },
+    {
+      "id": 39,
+      "text": "理解案例（自拟）  做选择题时，先觉得 C 很熟悉，后来发现自己说不出原因。你把“熟悉感”与“真正理解”区分开，并决定回看定义，这就是元认知监测与策略调整。"
+    },
+    {
+      "id": 40,
+      "text": "EXAM  首发分布 ≠ 某年龄人群的患病率。元认知 ≠ 单纯多想：要指出监测、评估及可能的调节作用。"
+    },
+    {
+      "id": 42,
+      "text": "03 | 风险选择：先看任务，再解释年龄差异"
+    },
+    {
+      "id": 43,
+      "text": "Slides 6–8；reward sensitivity、sensation seeking 与 lottery task。"
+    },
+    {
+      "id": 44,
+      "text": "Reward sensitivity 是对奖励线索的敏感程度；sensation seeking 是寻求新奇、刺激体验；risk taking 是选择有潜在不良后果的行为。它们可以相关，但不能互相替代。课堂所述风险与年龄常呈 quadratic / inverted-U 趋势，青春期中段较高。"
+    },
+    {
+      "id": 45,
+      "text": "课件 lottery 示例 | 确定选项 | 有风险选项\n\nGain condition 收益情境 | 必得 $5。 | 50% 得 $50，50% 得 $0。\n\nLoss condition 损失情境 | 必失 $5。 | 50% 失 $50，50% 失 $0。"
+    },
+    {
+      "id": 47,
+      "text": "测量通常是选择有风险选项的比例及其随反馈的变化。课件示例的收益彩票平均值为 +$25，损失彩票为 −$25，均与确定选项不同；因此单凭这些选项的选择，不能把奖励大小、期望值与纯粹风险偏好完全拆开。"
+    },
+    {
+      "id": 48,
+      "text": "情绪与反馈会改变选择"
+    },
+    {
+      "id": 49,
+      "text": "Affective context 指伴随较强情绪的情境。课堂讨论的任务中，青少年得到正向结果后，之后的风险选择可能增加；负向结果未显示同样调整，成人的变化较弱。相对中性的 non-affective context 中，年龄差异可能不同。"
+    },
+    {
+      "id": 50,
+      "text": "理解案例（自拟）  游戏里一次冒险抽卡恰好成功，兴奋让人更想马上再抽。要解释下一次行为，可考虑奖励反馈和情绪；一次成功并不改变下一抽的客观概率。"
+    },
+    {
+      "id": 51,
+      "text": "ACCURACY  这里是任务和样本中的趋势。不要写“青少年无法理解后果”“惩罚永远无效”或“成人从不受情绪影响”。真实决策还取决于信息、经验与社会情境。"
+    },
+    {
+      "id": 53,
+      "text": "04 | 双系统模型：奖励与控制的时间差"
+    },
+    {
+      "id": 54,
+      "text": "Slide 9；Dual Systems Model 是解释框架，而非个体预测表。"
+    },
+    {
+      "id": 56,
+      "text": "依据 slide 9 的趋势重绘；没有原始数据或精确年龄刻度。"
+    },
+    {
+      "id": 57,
+      "text": "课堂用“yes system”与“no system”作比喻：奖励推动尝试，控制帮助考虑目标与后果。两者的发展不同步，可解释为什么一个人知道某个后果，仍在兴奋或朋友在场时作出不同选择。这只是简化，两个系统也会相互作用。"
+    },
+    {
+      "id": 58,
+      "text": "用模型解释一次具体选择"
+    },
+    {
+      "id": 59,
+      "text": "依次问：奖励是什么？当时的情绪和同伴线索是什么？要维持哪个长期目标？任务需要多大控制？只有把这些因素放在一起，模型才比“青少年更冒险”提供更多解释。"
+    },
+    {
+      "id": 60,
+      "text": "理解案例（自拟）  学生答应早睡，但群聊发起限时挑战，成功能得到同伴认可。他更想参加，可能同时涉及新奇奖励、归属与当下控制负担；换成无人围观的普通作业，选择可能不同。"
+    },
+    {
+      "id": 61,
+      "text": "EXAM  写“相对成熟时间不同 + 情绪／社会情境调节”，并补一个限制：示意曲线不能定位某个人的脑成熟年龄或保证每个青少年都冒险。"
+    },
+    {
+      "id": 63,
+      "text": "05 | 神经网络与执行功能：掌握总体趋势"
+    },
+    {
+      "id": 64,
+      "text": "Slides 10–13；具体脑区为扩展，讲师强调 broad patterns。"
+    },
+    {
+      "id": 65,
+      "text": "Activation likelihood 与强度不同"
+    },
+    {
+      "id": 66,
+      "text": "青少年和成人使用许多相似的 reward-processing networks；研究汇总可显示某些位置更常出现激活。更高的激活可能性／一致性，不等于每次信号都更强，也不等于所有青少年的同一脑区必然激活。"
+    },
+    {
+      "id": 67,
+      "text": "要掌握的概念 | 课堂含义\n\nExecutive functioning 执行功能 | 支持工作记忆、规划、目标维持、抑制与灵活调节的过程。Cognitive control 侧重如何运用这些过程。\n\n行为任务发展：slide 12 | 随着青春期年龄增加，许多任务准确率上升、反应延迟降低；之后表现趋稳。\n\nSegregation 网络分化 | 网络之间更有分工，某些网络更专门参与某类任务。\n\nIntegration 网络整合 | 相关网络能够协同运作；分工不意味着彼此完全隔绝。\n\nIntermediate phase | 青春期组织方式在童年与成人之间；不是用一个脑区或生日界定成熟。"
+    },
+    {
+      "id": 69,
+      "text": "Tervo-Clemmens et al. (2023) 汇总的执行功能任务表现约在 18–20 岁达到成人水平并趋稳；这是所测任务的结果，不是全部脑结构或现实判断的统一完成年龄。[3] 课件图上 acc 与 lat 分别对应准确率与反应延迟。"
+    },
+    {
+      "id": 70,
+      "text": "理解案例（自拟）  做限时题需要维持规则、忽略群聊并迅速选答案。可把网络分工想成不同成员负责不同任务，整合则是能及时交换信息合作；这个比喻不是实际脑区地图。"
+    },
+    {
+      "id": 71,
+      "text": "EXTENSION  Slide 11 区分 anticipation（期待奖励）与 outcome（得到结果）。图示以青少年前岛叶的期待反应、壳核／杏仁核的结果反应，以及成人伏隔核／眶额皮层的结果反应为例；重点是网络模式，不能背成“一脑区只负责一种行为”。"
+    },
+    {
+      "id": 73,
+      "text": "06 | 同伴关系怎样影响青春期选择"
+    },
+    {
+      "id": 74,
+      "text": "Slides 15–16、18；友情变化、peer influence 与观察情境。"
+    },
+    {
+      "id": 75,
+      "text": "友情特点 | 青春期的表现\n\nIntimacy 亲密 | 分享个人想法、感受与共同经历。\n\nLoyalty 忠诚 | 期待信任、承诺和保密。\n\nReciprocity 互惠 | 重视双方都能获得支持与披露，而不只是交换玩具。"
+    },
+    {
+      "id": 77,
+      "text": "友情可更容许个体差异，但同伴地位也可能改变，使社交更复杂。与同伴相处更多、情感联系更深，可能加强其影响；家庭仍有作用。Peer influence 可以来自欣赏、信任、自愿模仿，也可能来自 peer pressure 的强迫。"
+    },
+    {
+      "id": 78,
+      "text": "同伴情境 | 谁在看谁？ | 可能怎样改变选择\n\nSocial observation | 我知道朋友正在看我。 | 被观察可改变表现、探索或风险选择；不一定是朋友直接发指令。\n\nSocial influence | 我观察朋友怎么做。 | 看到冒险或安全行为后，自己的选择可能向其靠近。"
+    },
+    {
+      "id": 80,
+      "text": "课堂指出二者都与风险选择有关，但机制和效果大小有混合解释：被注视是直接提高风险，还是提高尝试新行为的动机？安全榜样与冒险榜样的影响是否对称？这些不是一句“同伴压力”就能回答的问题。"
+    },
+    {
+      "id": 81,
+      "text": "理解案例（自拟）  朋友站在旁边看你跳水，是 observation；你先看朋友从高台跳下，是 influence。反过来，看见朋友先检查水深再决定，也能成为安全行为的榜样。"
+    },
+    {
+      "id": 82,
+      "text": "EXAM  讲清方向：被他人观察与观察他人行为。再说明影响可促进安全或支持，不是所有 peer influence 都有害。"
+    },
+    {
+      "id": 84,
+      "text": "07 | 校园氛围、归属与韧性"
+    },
+    {
+      "id": 85,
+      "text": "Slide 17；Sahib et al. (2023) 的纵向预测模型。"
+    },
+    {
+      "id": 86,
+      "text": "变量 | 定义 | 具体线索\n\nSchool climate | 学生共同体验的学校价值、学业强调及关系氛围。 | 感到安全、被重视，师生和同伴关系积极。\n\nSchool identification | 与学校的联结和归属感。 | “我属于这里”“我是这个学校的一员”。\n\nResilience 韧性 | 面对不利经历时调整并达到较好结果的能力／过程。 | 遇到挫折后仍能求助、改变策略、恢复参与。\n\nWellbeing | 社会情感和心理状态的结果指标。 | 生活满意度、积极情绪，以及较少焦虑／抑郁症状等。"
+    },
+    {
+      "id": 88,
+      "text": "关系模型"
+    },
+    {
+      "id": 89,
+      "text": "课件提出积极 school climate 可通过 school identification 与 resilience 预测 wellbeing。可理解为：支持性氛围可能帮助学生感到归属并更能应对困难，再与较好的状态相关。中介路径用于检验一种解释，不应自动等同于已证实的因果链。"
+    },
+    {
+      "id": 90,
+      "text": "理解案例（自拟）  一次考试失利后，学生敢向老师求助，同学愿意一起订复习计划。这些关系让他觉得自己属于学校，也更容易恢复学习。此例展示可能路径，不是凭故事证明研究结论。"
+    },
+    {
+      "id": 91,
+      "text": "从研究方法角度再问一步"
+    },
+    {
+      "id": 92,
+      "text": "纵向资料比同一次问卷更能检查时间顺序，但家庭资源、先前心理状态、选择学校的方式等仍可能影响多个变量。还要问 school climate 是学校层面共同指标，还是每个学生的个人感受。"
+    },
+    {
+      "id": 93,
+      "text": "EXAM  Climate 是环境氛围；identification 是我与学校的联结；resilience 是面对逆境的适应。三者不能只写成三个“开心程度”。"
+    },
+    {
+      "id": 95,
+      "text": "08 | 身份双循环模型：五维怎么区分"
+    },
+    {
+      "id": 96,
+      "text": "Slides 19–20；Luyckx et al. (2008)。"
+    },
+    {
+      "id": 98,
+      "text": "依据课件和课堂解释重绘；箭头表达可反复调整的过程，不是固定年龄阶段。"
+    },
+    {
+      "id": 99,
+      "text": "维度 | 用选专业理解（自拟）\n\nExploration in breadth 广度探索 | 比较心理学、管理学、哲学等多个方向。\n\nCommitment making 作出承诺 | 决定选择心理学，并据此安排课程和投入。\n\nExploration in depth 深度探索 | 进一步了解所选专业的实际学习与工作，评价是否符合自己的价值。\n\nIdentification with commitment 认同承诺 | 觉得选择适合我，并成为自己身份的一部分。\n\nRuminative exploration 反刍探索 | 反复想“万一选错怎么办”，持续担心却难以收集信息或推进决定。"
+    },
+    {
+      "id": 101,
+      "text": "前两维构成 formation（形成），后两维构成 maintenance / evaluation（维持与评价）。若深度探索发现不匹配，可以重新进行广度探索。第五维是额外的探索质量维度，不是完成前四步之后必然进入的阶段。"
+    },
+    {
+      "id": 102,
+      "text": "EXAM  Making 是作出选择并行动；identification 是内化并认同选择。Breadth 比较选项；depth 评价现有承诺。想得久不自动等于探索得好。"
+    },
+    {
+      "id": 104,
+      "text": "09 | 身份年龄趋势与连贯的自我"
+    },
+    {
+      "id": 105,
+      "text": "Slides 21–22；age trends、sense of self 与 life narratives。"
+    },
+    {
+      "id": 106,
+      "text": "课件趋势 | 解释与边界\n\nCommitment making / identification 随年龄上升 | 平均更明确并更认同选择；并非所有个体同速，也不代表以后不能改变。\n\nBreadth / depth 呈弯曲趋势 | 青春期至青年期探索较多，之后可能下降；示意图没有精确年龄和数值。\n\nRuminative exploration | 课堂所述研究没有清楚一致的年龄趋势；不是说每个年龄的每个人都完全相同。"
+    },
+    {
+      "id": 108,
+      "text": "Sense of self：把过去、现在和未来连起来"
+    },
+    {
+      "id": 109,
+      "text": "自我感是跨时间、跨生活情境仍能认出“这是我”。在家安静、与朋友外向，不必意味着身份破碎；行为不同仍可能共享相同价值。Life narratives 像心理传记，帮助把过去的经历、现在的角色与期望的未来连接起来。"
+    },
+    {
+      "id": 110,
+      "text": "课件所述研究中，有些青少年身份承诺和 self-concept clarity 较稳定，有些仍经历不连续和探索，概括约各一半。这个比例属于所述样本与测量，不是全体青少年的精确人口分布。Identity maturation 是逐步评价、整合不同领域的身份。"
+    },
+    {
+      "id": 111,
+      "text": "理解案例（自拟）  以前觉得自己只擅长背书，现在发现喜欢组织小组，未来希望做能沟通与解决问题的工作。你通过同一组价值理解这些改变，而不要求三个时期行为完全一样。"
+    },
+    {
+      "id": 112,
+      "text": "EXAM  “稳定”与“改变”可并存。答题说清什么稳定：价值、身份承诺还是自我清晰度；不要把 sense of self 定义为永远不变。"
+    },
+    {
+      "id": 114,
+      "text": "10 | 媒体与身份：参与不只看点击次数"
+    },
+    {
+      "id": 115,
+      "text": "Slide 23；identity spaces 与 self-presentation。"
+    },
+    {
+      "id": 116,
+      "text": "青少年媒体使用往往与同伴沟通相连。在线社群提供 identity spaces（身份空间），让人接触角色、尝试表达，并发现哪些群体和价值适合自己。奖励线索和同伴认可也可能影响这类参与。"
+    },
+    {
+      "id": 117,
+      "text": "层面 | 例子 | 要分清的事\n\n平台行为的 active / passive | 发帖评论／只观看。 | 这是可观察操作的区别。\n\n内部的 identity exploration | 观看科学内容，思考“我是否喜欢科学”。 | 外在观看可以同时有主动心理加工。\n\nSelf-presentation 自我呈现 | 调整简介、头像或不同群组里的表达。 | 呈现不同侧面可能是探索；不能直接判断真诚或欺骗。"
+    },
+    {
+      "id": 119,
+      "text": "课件列出 active participation 与更多身份探索的关联。课堂同时提醒，不能将“没有发帖”直接等同于完全被动：认同、评价和想象未来的过程也可能发生。研究必须分别定义平台行为与内部身份过程。"
+    },
+    {
+      "id": 120,
+      "text": "理解案例（自拟）  你在游戏群分享攻略，在课程群讨论题目，两者呈现不同侧面。看完一个职业访谈后，即使没点赞，你也可能重新评价自己想走的方向。"
+    },
+    {
+      "id": 121,
+      "text": "为何不能只按 screen time 下结论"
+    },
+    {
+      "id": 122,
+      "text": "时间不能完整表示内容、反馈、互动对象和目的。同样半小时，有人获得技能和支持，有人反复遭到排斥；把两类使用放在同一总时长里，会掩盖不同发展路径。"
+    },
+    {
+      "id": 123,
+      "text": "EXAM  先写活动的定义与测量，再写研究关联。平台“主动”与身份“主动”可以重叠，但不能混用成为一个指标。"
+    },
+    {
+      "id": 125,
+      "text": "11 | 媒体心理健康与身体形象"
+    },
+    {
+      "id": 126,
+      "text": "Slides 24–25；mixed evidence 与 social comparison。"
+    },
+    {
+      "id": 127,
+      "text": "心理健康结果为什么混合"
+    },
+    {
+      "id": 128,
+      "text": "部分研究将较高使用量与焦虑、抑郁或睡眠问题联系；另一些大型研究控制混淆变量后，平均关联较小。家庭压力、资源、先前情绪、反向影响和不同活动类型，都可能改变估计。平均小效应也不保证每个人体验相同。"
+    },
+    {
+      "id": 129,
+      "text": "理解案例（自拟）  同样刷一小时：一个学生收到朋友支持，另一个不断被嘲讽并熬夜。只比较时长，无法解释二人的差别；也要问原本情绪较差是否导致更多上网。"
+    },
+    {
+      "id": 130,
+      "text": "理想化图像与身体不满"
+    },
+    {
+      "id": 131,
+      "text": "Culturally idealised images 是符合某文化理想的筛选或修饰图像。它们可引发 social comparison，与 body dissatisfaction（身体不满）相连。文字稿偶尔说 satisfaction，但课件与完整解释均指 dissatisfaction。"
+    },
+    {
+      "id": 132,
+      "text": "比较类型 | 研究角色 | 怎样理解\n\nState comparison 此刻比较 | Mediator 中介 | 图像暴露 → 当下比较 → 身体不满；尝试解释经由什么路径。\n\nTrait comparison 惯常倾向 | Moderator 调节 | 本来更常比较的人，图像与不满的关系可能更强；解释何时／对谁更强。"
+    },
+    {
+      "id": 134,
+      "text": "理解案例（自拟）  刷到精修健身照后，你当下拿自己的身材比较，是 state；平时几乎每张照片都要比较的习惯，是 trait。前者可位于路径中，后者可改变路径强弱。"
+    },
+    {
+      "id": 135,
+      "text": "EXAM  中介解释 how / through what；调节解释 when / for whom。统计中介不能单独证明所有箭头都是因果。"
+    },
+    {
+      "id": 137,
+      "text": "12 | 媒体与注意、学业和语言"
+    },
+    {
+      "id": 138,
+      "text": "Slides 26–27；把短期表现与长期发展分开。"
+    },
+    {
+      "id": 139,
+      "text": "领域 | 课件与课堂趋势 | 解释边界\n\nAttention 注意 | 较多媒体／消息活动与当天分心、不注意相关；既有注意困难者的关系可能不同。 | 当天分心不是 ADHD 诊断；不能由相关断言媒体造成长期注意障碍。\n\nAcademic achievement 学业 | 更多媒体活动与较低学业表现的负相关较一致。 | 学习时间替代、分心、奖励偏好、先前成绩等都可能参与。\n\nLanguage 语言 | 交流机会可与信心、沟通练习和语言表现相连。 | 要区分活动、语言形式和结局；社交表达与正式写作不是同一能力。"
+    },
+    {
+      "id": 141,
+      "text": "同一种文字，语用理解可能不同"
+    },
+    {
+      "id": 142,
+      "text": "课堂用句末“……”说明：有人只是习惯性标点，有人会读成不满或暗示。表情、贴图、俚语与不同代际的使用规则也可造成误解。理解别人意图需要结合共同语境，不能只按符号本身判断。"
+    },
+    {
+      "id": 143,
+      "text": "理解案例（自拟）  复习时每隔两分钟回复消息，可能减少连续练习的时间。成绩下降未必是“手机永久损坏大脑”；要比较学习时长、分心和先前能力等具体路径。"
+    },
+    {
+      "id": 144,
+      "text": "理解案例（自拟）  长辈回复“知道了……”可能只当句尾，你却以为对方生气。可以先确认语气，这比把一串标点当成心理状态的直接证据可靠。"
+    },
+    {
+      "id": 145,
+      "text": "ACCURACY  不能把 informal language／emoji 一概写成降低智力或批判思维。判断应对应明确的语言任务、使用方式与研究设计。"
+    },
+    {
+      "id": 147,
+      "text": "13 | 算法环境与虚假信息判断"
+    },
+    {
+      "id": 148,
+      "text": "Slides 28–30；算法意识、信心、相信与分享。"
+    },
+    {
+      "id": 149,
+      "text": "概念 | 重点\n\nEcho chamber 回音室 | 相似观点在内容和社交网络中反复强化；也可涉及主动选择。\n\nFilter bubble 过滤气泡 | 个性化筛选使接触信息更贴近已有偏好，可能减少异质观点。\n\nAlgorithm awareness 算法意识 | 知道平台使用算法，与了解如何推荐和筛选内容，是不同程度的理解。"
+    },
+    {
+      "id": 151,
+      "text": "前两者是信息环境的概念，不是两个固定算法名称。Gran et al. 的研究为挪威总体网络样本，非青少年专属，也不是专门研究当代生成式 AI；应谨慎把它扩展为全体青少年的结论。[4]"
+    },
+    {
+      "id": 152,
+      "text": "过度自信与行为要分别测"
+    },
+    {
+      "id": 153,
+      "text": "课件引用的 Kops et al. (2025) 是涵盖青年相关研究的范围综述：部分研究显示识别信心高于实际表现，评价多依赖眼前材料，主动外部核查有限。[5] 课堂提到 third-person effect：认为别人比自己更容易受影响；这种自评不能证明识别能力更好。"
+    },
+    {
+      "id": 154,
+      "text": "Belief（相信）与 sharing（分享）是不同变量。部分青年研究发现较被动的反应或较少分享，但不能写成从不传播；也不能据此断言青少年必然比成人更易相信假信息。"
+    },
+    {
+      "id": 155,
+      "text": "理解案例（自拟）  一段视频画面清晰、帐号熟悉，让你自信“一看就是真的”。元认知上要问：我的信心来自画质，还是独立证据？可再查原始来源和别处的佐证。"
+    },
+    {
+      "id": 156,
+      "text": "EXAM  用三个指标回答：准确率、信心、行为（核查／分享）。对推荐内容喜欢、知道平台可能有假消息，都不等于能正确识别每一条。"
+    },
+    {
+      "id": 158,
+      "text": "14 | 成年发展：相对稳定仍有变化"
+    },
+    {
+      "id": 159,
+      "text": "Slides 32–33；midlife、individual differences 与 age-related change。"
+    },
+    {
+      "id": 160,
+      "text": "Midlife 在课件中大致指 30–50 多岁，但研究边界可不同。家庭、亲职、工作、伴侣和社会资源的组合更复杂，个体经历差异可能更明显。不能假设每个人都按结婚、育儿、事业顶峰的同一路线发展。"
+    },
+    {
+      "id": 161,
+      "text": "表述 | 准确含义\n\nRelative stability 相对稳定 | 在某一较短跨度内，某些过程变化较小；不是一切从此停止改变。\n\nAge-related differences | 较长跨度仍可发现人格、认知或行为的年龄关联。\n\nIndividual differences | 同龄人的角色、健康、学习与资源可能不同，平均年龄趋势不代表每一个人。\n\nGains / losses / adaptation | 获得经验、部分速度变化、策略调整，可在同一阶段同时出现。"
+    },
+    {
+      "id": 163,
+      "text": "年龄差异与同一个人的变化"
+    },
+    {
+      "id": 164,
+      "text": "比较不同年龄的人（cross-sectional）可受 cohort effect 影响，例如教育与科技经历不同；追踪同一个人（longitudinal）更直接观察变化，但有练习效应、流失等限制。研究方法决定我们能够说“年龄相关”还是更接近“随时间改变”。"
+    },
+    {
+      "id": 165,
+      "text": "理解案例（自拟）  20 岁和 50 岁的两组人在某软件上表现不同，既可能有年龄因素，也可能因软件使用经历不同。不能单凭两组均值预测某个学生 30 年后一定怎样。"
+    },
+    {
+      "id": 166,
+      "text": "EXAM  写出“相对稳定的尺度”：哪个领域、几年跨度、什么测量。成年期仍属于 lifespan development。"
+    },
+    {
+      "id": 168,
+      "text": "15 | 流体与晶体能力：认知老化不是一条线"
+    },
+    {
+      "id": 169,
+      "text": "Slides 34–35；fluid abilities 与 crystallised abilities。"
+    },
+    {
+      "id": 170,
+      "text": "能力 | 主要依赖 | 课堂范例与平均趋势\n\nFluid 流体能力 | 当下的信息加工效率、新问题处理。 | 处理速度、工作记忆等在成年与老年期常呈下降趋势。\n\nCrystallised 晶体能力 | 累积知识的提取和应用。 | 词汇和专业知识通常较能保持，部分时期可继续增长。"
+    },
+    {
+      "id": 172,
+      "text": "一项任务可以同时依赖两者：理解新指令需要即时加工，也需要词汇知识。它们共享部分基础过程，不能假设晶体能力与其他认知变化完全无关，更不能保证终生不变。"
+    },
+    {
+      "id": 173,
+      "text": "Decline 的起点与幅度"
+    },
+    {
+      "id": 174,
+      "text": "课件强调某些平均能力下降在较老年龄可更明显，但并非统一从 60／65 岁才开始。不同能力的高峰、保持期与变化速度不同；课堂“约 30 岁”的概括不能当作所有能力的统一顶点。[6]"
+    },
+    {
+      "id": 175,
+      "text": "理解案例（自拟）  一位资深维修师初次学习陌生手机界面可能较慢，却能凭经验迅速判断机器故障。即时新操作与专业知识的表现可以不同；同一维修任务也可能同时需要二者。"
+    },
+    {
+      "id": 176,
+      "text": "ACCURACY  群体平均下降不等于每个人必然如此，也不自动等于 dementia（痴呆）。年龄、健康、任务和经验差异都要纳入解释。"
+    },
+    {
+      "id": 177,
+      "text": "EXAM  定义两类能力并各给例子，然后补充“轨迹不同、共享过程、个体差异”。避免只写“年轻人聪明、老年人有经验”。"
+    },
+    {
+      "id": 179,
+      "text": "16 | 神经老化与生活经验的作用"
+    },
+    {
+      "id": 180,
+      "text": "Slides 36–37；white matter、engagement 与 disuse。"
+    },
+    {
+      "id": 181,
+      "text": "白质与任务网络"
+    },
+    {
+      "id": 182,
+      "text": "White matter（白质）包含许多支持脑区通信的有髓轴突。随年龄出现的结构变化可能影响加工效率，但白质不等于一个人的全部“连接能力”。课件将较分散的流体任务网络与较专门化的知识任务网络作比较。"
+    },
+    {
+      "id": 183,
+      "text": "词汇相关研究提出：相对局部化的激活可能较少依赖广泛通路，因而部分解释其相对保持。[7] 这是特定任务与研究的解释，不能写成所有晶体能力都储存在一个不老化区域；网络、结构和表现之间也不是一对一关系。"
+    },
+    {
+      "id": 184,
+      "text": "假说 | 核心解释 | 例子\n\nEngagement hypothesis | 持续认知与社会参与可能为能力提供缓冲，延迟损害。 | 继续学习、讨论、解决日常问题。\n\nDisuse hypothesis | 活动改变后较少运用某过程，可能产生技能损失。 | 不再使用某类技能后，熟练程度下降。"
+    },
+    {
+      "id": 186,
+      "text": "这两种假说可看作参与程度的不同角度，并非必须二选一。观察到活动多的人表现较好，还要考虑先前能力、健康和资源是否同时影响参与与结果。"
+    },
+    {
+      "id": 187,
+      "text": "理解案例（自拟）  退休后继续组织社团，需要安排、沟通和学习新信息；完全停止使用某项技能后，则可能变生疏。这说明可研究的参与路径，不保证任何单一活动能预防疾病。"
+    },
+    {
+      "id": 188,
+      "text": "EXAM  把“可能保护／延缓”与“保证预防”分开。教育、参与和认知保持的关联，不能直接证明多读一个学位就会改变个人疾病结局。"
+    },
+    {
+      "id": 190,
+      "text": "17 | 社会情绪选择理论与积极情绪"
+    },
+    {
+      "id": 191,
+      "text": "Slides 38–39；Socioemotional Selectivity Theory（SST）。"
+    },
+    {
+      "id": 192,
+      "text": "关键变量是感到还有多少未来时间"
+    },
+    {
+      "id": 193,
+      "text": "Perceived future time | 目标倾向 | 关系选择\n\n较长、开放 | 获取知识、尝试新经验。 | 扩展社交网络与探索机会。\n\n较有限 | 投入情感上有意义的体验。 | 珍惜重要关系、加深亲近。"
+    },
+    {
+      "id": 195,
+      "text": "年龄常与时间感有关，但理论核心不是年龄数字本身。对重要关系的投入可体现为减少外围联系、选择更有意义的互动，或更愿意放下冲突。个体健康和生活情境也会改变时间感与目标。"
+    },
+    {
+      "id": 196,
+      "text": "理解案例（自拟）  毕业前几周，你虽然年轻，也觉得与同学相处的共同时间有限，于是更想和亲近朋友聚餐。这个例子说明时间视野可在同一年龄发生变化。"
+    },
+    {
+      "id": 197,
+      "text": "Slide 39 怎样读中介图"
+    },
+    {
+      "id": 198,
+      "text": "Bonding social capital 指亲近关系所提供的支持与资源。图中它与 positive affect（积极情绪）正向相关，积极情绪再与社会、心理和情绪 wellbeing 相连。图中至社会／心理 wellbeing 的直接路径为正；至情绪 wellbeing 的直接路径标为不显著（ns）。"
+    },
+    {
+      "id": 199,
+      "text": "研究中某些老年群体有较好的积极情绪和社会互动满意度，不表示所有老年人更幸福或不存在孤独。中介图表达研究支持的关系结构，也不表示所有路径都已由实验建立因果。"
+    },
+    {
+      "id": 200,
+      "text": "EXAM  Future time → goal priorities 是理论核心。少交朋友可能是主动选择重要关系；要区分这一点与没有支持或被迫孤立。"
+    },
+    {
+      "id": 202,
+      "text": "18 | 老年人视角采择与情感亲近"
+    },
+    {
+      "id": 203,
+      "text": "Slide 40；文字稿仅覆盖开头结果，后续解释按课件补足。"
+    },
+    {
+      "id": 204,
+      "text": "Self-perspective prioritisation"
+    },
+    {
+      "id": 205,
+      "text": "在课件所述任务中，老年人回答自己的视角时准确率较高，也较少受不一致的他人视角干扰。这个结果描述具体 self-perspective trials，不能直接推广为整体视角采择更好。"
+    },
+    {
+      "id": 206,
+      "text": "任务要求 | 可能的认知要求 | 怎样解释结果\n\n按自己的视角回答 | 维持自己所见，忽略不相关他人视角。 | 他人干扰较少，可表现为自我任务优势。\n\n按他人的视角回答 | 处理别人所见，并抑制自己的知识。 | 执行控制与加工负担可能更大；是另一种要求。"
+    },
+    {
+      "id": 208,
+      "text": "课件给出的解释包括：自己的视角更难被抑制，以及他人视角处理更费力。还指出 perceived emotional closeness 较高时，视角采择表现可接近年轻人。关系情境可能改变能力如何表现。"
+    },
+    {
+      "id": 209,
+      "text": "理解案例（自拟）  你站在书架正面看见两本书，另一人站在侧面只看见一本。回答“我看见几本”与“对方看见几本”需要不同控制；若问的是对方，必须暂时放下自己的信息。"
+    },
+    {
+      "id": 210,
+      "text": "与 Lecture 7 的联系"
+    },
+    {
+      "id": 211,
+      "text": "儿童错误信念任务与成人视角采择都需要区分自己的知识和他人信息，但年龄、任务与测量不同。一个任务的错误，不足以概括一个人全部共情、道德或日常关系能力。"
+    },
+    {
+      "id": 212,
+      "text": "ACCURACY  这些是认知任务和关系条件下的结果，不能把老年人贴成“更自私”。自我任务优势、他人处理难度与情感动机可以同时存在。"
+    },
+    {
+      "id": 214,
+      "text": "19 | 发展心理学四讲知识树"
+    },
+    {
+      "id": 215,
+      "text": "Slide 41 为课件总结；对应课程 Lectures 5–8。"
+    },
+    {
+      "id": 216,
+      "text": "课程讲次 | 主线 | 连接到本讲\n\nL5 / Dev Lecture 1 / 发展基础 | Lifespan、nature × nurture、连续与阶段、文化、研究方法、Piaget、Vygotsky。 | 本讲看一生中的变化，评价年龄差异与研究方法。\n\nL6 / Dev Lecture 2 / 社会发展 | 依恋与照顾者、家庭同伴、媒体、社会类别与偏见。 | 青春期的同伴、学校氛围与媒体是继续发展的环境。\n\nL7 / Dev Lecture 3 / 生物与认知 | 行为遗传、产前发展、概念、心理理论与想象伙伴。 | 神经与环境互动；理解他人的任务延伸至成年后期。\n\nL8 / Dev Lecture 4 / 青春期至成年后期 | 风险与奖励、身份、媒体、成年稳定、认知老化和社会情绪目标。 | 整合增长、损失、稳定与适应，避免把发展限于儿童。"
+    },
+    {
+      "id": 218,
+      "text": "用同一套问题整合四讲"
+    },
+    {
+      "id": 219,
+      "text": "研究哪一群人？测量什么？怎样比较？平均结果是什么？哪些经验或情境可改变结果？这些问题能同时用于依恋、遗传率、假信念、风险选择和认知老化。"
+    },
+    {
+      "id": 220,
+      "text": "理解案例（自拟）  一个学生会在朋友旁观时冒险，在学习群中尝试新身份，也通过支持性师生关系恢复状态。这个故事同时涉及认知、社会与环境，而不是三套互不相关的章节。"
+    },
+    {
+      "id": 221,
+      "text": "EXAM  发展不是只增不减，也不是童年后结束。能够说明 gains、losses、stability、adaptation 怎样并存，才抓到四讲共同主线。"
+    },
+    {
+      "id": 223,
+      "text": "20 | 自测题 A：青春期与身份"
+    },
+    {
+      "id": 224,
+      "text": "先尝试口述，再看参考答案。以下题目为本笔记自编练习。"
+    },
+    {
+      "id": 225,
+      "text": "1. Metacognition 指什么？"
+    },
+    {
+      "id": 226,
+      "text": "参考答案：监测、反思与评估自己的思考和推理，并可据此调整策略；不是只把想法变多。"
+    },
+    {
+      "id": 227,
+      "text": "2. 奖励敏感、寻求刺激和风险行为怎样区分？"
+    },
+    {
+      "id": 228,
+      "text": "参考答案：对奖励线索敏感；寻求新奇体验；选择有潜在不良后果的行为。相关但不同。"
+    },
+    {
+      "id": 229,
+      "text": "3. 课件的彩票为什么不能单独测纯风险偏好？"
+    },
+    {
+      "id": 230,
+      "text": "参考答案：彩票与确定选项期望值不同，选择可同时受收益大小、损失及风险影响。"
+    },
+    {
+      "id": 231,
+      "text": "4. 双系统模型的主要解释是什么？"
+    },
+    {
+      "id": 232,
+      "text": "参考答案：奖励／社会情绪敏感性与认知控制的发展时间不同，在情绪和同伴情境中共同影响选择。"
+    },
+    {
+      "id": 233,
+      "text": "5. 激活可能性较高是否意味着信号必然更强？"
+    },
+    {
+      "id": 234,
+      "text": "参考答案：不意味着。研究中更常见／更一致的激活，与单次激活强度是不同指标。"
+    },
+    {
+      "id": 235,
+      "text": "6. Segregation 与 integration 是什么？"
+    },
+    {
+      "id": 236,
+      "text": "参考答案：网络分工更加明确；相关网络协同更有效。二者可共同发展。"
+    },
+    {
+      "id": 237,
+      "text": "7. Social observation 与 social influence 的方向？"
+    },
+    {
+      "id": 238,
+      "text": "参考答案：我被同伴观察；我观察同伴行为。后者也能影响安全行为。"
+    },
+    {
+      "id": 239,
+      "text": "8. 广度探索与深度探索怎么区分？"
+    },
+    {
+      "id": 240,
+      "text": "参考答案：广度是比较多个可能选项；深度是评价已选择身份是否适合自己。"
+    },
+    {
+      "id": 241,
+      "text": "9. Commitment making 与 identification 区别？"
+    },
+    {
+      "id": 242,
+      "text": "参考答案：前者选择并行动；后者认同、内化自己的承诺。反刍探索不是必经第五阶段。"
+    },
+    {
+      "id": 243,
+      "text": "CHECK  用学校例子解释 climate、identification、resilience，再提出一个未排除的共同原因。"
+    },
+    {
+      "id": 245,
+      "text": "21 | 自测题 B：媒体、成年与老化"
+    },
+    {
+      "id": 246,
+      "text": "重点练“定义—结果—解释—边界”。"
+    },
+    {
+      "id": 247,
+      "text": "10. State comparison 与 trait comparison 的角色？"
+    },
+    {
+      "id": 248,
+      "text": "参考答案：此刻比较可作中介；惯常比较倾向可作调节。前者解释路径，后者解释关系强弱。"
+    },
+    {
+      "id": 249,
+      "text": "11. 为什么一天分心不能推出媒体导致 ADHD？"
+    },
+    {
+      "id": 250,
+      "text": "参考答案：短期症状与长期诊断不同；相关资料还需排除先前困难、反向影响和其他变量。"
+    },
+    {
+      "id": 251,
+      "text": "12. 判断假信息应测哪三个东西？"
+    },
+    {
+      "id": 252,
+      "text": "参考答案：识别准确率、信心，以及核查／分享行为；相信与分享也不是同一变量。"
+    },
+    {
+      "id": 253,
+      "text": "13. 成人相对稳定意味着没有发展吗？"
+    },
+    {
+      "id": 254,
+      "text": "参考答案：不。部分过程短时间变化小，但长跨度仍可有年龄关联，角色和策略也会改变。"
+    },
+    {
+      "id": 255,
+      "text": "14. Fluid 与 crystallised 各举例。"
+    },
+    {
+      "id": 256,
+      "text": "参考答案：处理陌生任务和维持信息偏流体；词汇、专业知识提取偏晶体。同一任务可以两者兼用。"
+    },
+    {
+      "id": 257,
+      "text": "15. 所有认知能力都在 30 岁达到顶峰吗？"
+    },
+    {
+      "id": 258,
+      "text": "参考答案：不。不同任务和能力的高峰、平台期与变化速度不同。"
+    },
+    {
+      "id": 259,
+      "text": "16. Engagement 与 disuse 假说怎么连接？"
+    },
+    {
+      "id": 260,
+      "text": "参考答案：持续参与可能缓冲变化；减少使用可能损失技能。它们不构成个人疾病预防保证。"
+    },
+    {
+      "id": 261,
+      "text": "17. SST 的关键变量是什么？"
+    },
+    {
+      "id": 262,
+      "text": "参考答案：感知未来时间。开放视野常推动探索；有限视野常提高情感意义与亲近关系的优先级。"
+    },
+    {
+      "id": 263,
+      "text": "18. 自我视角任务更好能推出整体共情更好吗？"
+    },
+    {
+      "id": 264,
+      "text": "参考答案：不能。按他人视角回答需要不同加工和抑制；关系亲近度也可影响表现。"
+    },
+    {
+      "id": 265,
+      "text": "TRANSFER  选一个媒体研究和一个老化研究，各用四句回答：测了什么、发现什么、可能解释、还不能证明什么。"
+    },
+    {
+      "id": 267,
+      "text": "22 | 英中术语表"
+    },
+    {
+      "id": 268,
+      "text": "英文用于认题，中文用于理解；定义要对应研究任务。"
+    },
+    {
+      "id": 269,
+      "text": "English | 中文与最短解释\n\nImaginary companion / anthropomorphism | 想象伙伴／拟人化：虚构角色；给非人物体赋予人的特征。\n\nAdolescence / metacognition | 青春期／元认知：发展时期；监测评估自身思考。\n\nReward sensitivity / sensation seeking | 奖励敏感／寻求刺激：奖励线索反应；探索新奇体验。\n\nRisk taking / affective context | 风险行为／情绪情境：潜在不良后果的选择；伴随情绪的背景。\n\nExecutive functioning / cognitive control | 执行功能／认知控制：支持目标的过程；运用这些过程。\n\nSegregation / integration | 网络分化／整合：更明确分工；相关网络协同。\n\nIntimacy / loyalty / reciprocity | 亲密／忠诚／互惠：披露感受；信任承诺；相互支持。\n\nPeer influence / peer pressure | 同伴影响／同伴压力：广泛影响；含要求或强迫的形式。\n\nSocial observation / social influence | 社会观察／社会影响：被同伴看；观察同伴行为。\n\nSchool climate / school identification | 校园氛围／学校认同：环境特征；与学校的联结归属。\n\nResilience | 韧性：在逆境中调整并获得较好适应的过程。\n\nExploration in breadth / in depth | 广度／深度探索：比较可能选项；评价现有选择。\n\nCommitment making / identification | 作出／认同承诺：选择并行动；内化已选身份。\n\nRuminative exploration / self-concept clarity | 反刍探索／自我清晰度：反复怀疑难推进；对自我的清楚理解。\n\nIdentity spaces / self-presentation | 身份空间／自我呈现：角色探索环境；表达自己的形象。\n\nMediator / moderator | 中介／调节：经由什么路径；何时／对谁更强。\n\nState / trait social comparison | 此刻／惯常社会比较：当下反应；较稳定倾向。\n\nEcho chamber / filter bubble | 回音室／过滤气泡：同类观点强化；个性化过滤内容。\n\nFluid / crystallised abilities | 流体／晶体能力：即时加工；累积知识应用。\n\nWhite matter / engagement / disuse | 白质／参与／不使用：神经通路结构；运用或较少运用认知过程。\n\nPerceived future time / SST | 感知未来时间／社会情绪选择理论：时间视野影响目标。\n\nBonding social capital / positive affect | 亲密关系社会资本／积极情绪：近关系资源；正向感受。\n\nSelf-perspective / perspective taking | 自我视角／视角采择：自己所知所见；考虑他人信息。"
+    },
+    {
+      "id": 272,
+      "text": "23 | 回课件定位与易错辨析"
+    },
+    {
+      "id": 273,
+      "text": "页码为 Dev Lecture 4.pdf 的 slide 序号。"
+    },
+    {
+      "id": 274,
+      "text": "课件位置 | 笔记入口\n\nL7 slides 51–54；L8 slide 2 | 01 课堂想象伙伴补讲与成人 IC。\n\n3–5；6–9；10–13 | 02 青春期／元认知；03–04 风险与双系统；05 执行网络。\n\n15–18；19–22 | 06–07 同伴与学校；08–09 身份模型和自我感。\n\n23–25；26–27；28–30 | 10–11 媒体身份／心理健康；12 认知；13 算法与信息。\n\n32–33；34–37 | 14 成年稳定；15–16 两类认知、老化与经验。\n\n38–39；40；41 | 17 SST／积极情绪；18 视角采择；19 四讲整合。"
+    },
+    {
+      "id": 276,
+      "text": "六处特别容易误记"
+    },
+    {
+      "id": 277,
+      "text": "首次发病年龄百分比的分母不是全体年轻人；peak 与 median 不同。"
+    },
+    {
+      "id": 278,
+      "text": "Risk-taking、sensation seeking 与 reward sensitivity 不同；课堂彩票还含期望值差异。"
+    },
+    {
+      "id": 279,
+      "text": "身份五维不是五个必经年龄阶段；反刍没有清楚年龄趋势，不等于人人同样。"
+    },
+    {
+      "id": 280,
+      "text": "媒体关联不自动为因果；当天分心、临床注意障碍与正式写作是不同结果。"
+    },
+    {
+      "id": 281,
+      "text": "算法意识研究的样本不等于全体青少年；相信、识别与传播假信息需分别研究。"
+    },
+    {
+      "id": 282,
+      "text": "老化没有所有能力统一的开始年龄或顶峰；自我视角优势不等于总体共情优势。"
+    },
+    {
+      "id": 283,
+      "text": "SOURCE BOUNDARY  文字稿在 slide 40 的首条结果中途结束；18 节的后续解释与 19 节整合来自课件。Slides 14、31 是休息页。"
+    },
+    {
+      "id": 285,
+      "text": "24 | 资料与研究定位"
+    },
+    {
+      "id": 286,
+      "text": "课堂研究作者年份保留在各主题中；下列原始资料用于辨析统计与概念。"
+    },
+    {
+      "id": 287,
+      "text": "主要课程材料：Kumada, Developmental Psychology Lecture 4（Dev Lecture 4.pdf，41 页）；PSYC1004 Lecture 8 文字稿。想象伙伴课堂衔接另参照 Developmental Lecture 3 的相关课件。"
+    },
+    {
+      "id": 288,
+      "text": "[1] Yamaguchi et al. (2023) 成人想象伙伴问卷研究"
+    },
+    {
+      "id": 289,
+      "text": "10–15% 是研究样本报告率；压力、拟人化与孤独关联需按研究解释。"
+    },
+    {
+      "id": 290,
+      "text": "查看原始论文"
+    },
+    {
+      "id": 291,
+      "text": "[2] Solmi et al. (2021) 精神障碍首次发病年龄元分析"
+    },
+    {
+      "id": 292,
+      "text": "区分 34.6% / 48.4% / 62.5% 的分母，以及高峰和中位数。"
+    },
+    {
+      "id": 293,
+      "text": "查看原始论文"
+    },
+    {
+      "id": 294,
+      "text": "[3] Tervo-Clemmens et al. (2023) 执行功能成熟研究"
+    },
+    {
+      "id": 295,
+      "text": "所测执行任务的年龄轨迹，不能推为全部脑发育的统一终点。"
+    },
+    {
+      "id": 296,
+      "text": "查看原始论文"
+    },
+    {
+      "id": 297,
+      "text": "[4] Gran, Booth & Bucher (2021) 算法意识研究"
+    },
+    {
+      "id": 298,
+      "text": "挪威总体样本，自报算法意识；非仅青少年与生成式 AI。"
+    },
+    {
+      "id": 299,
+      "text": "查看原始论文"
+    },
+    {
+      "id": 300,
+      "text": "[5] Kops et al. (2025) 青年与虚假信息范围综述"
+    },
+    {
+      "id": 301,
+      "text": "151 项研究，涉及 5–25 岁；不是一个实验或单一普遍效果。"
+    },
+    {
+      "id": 302,
+      "text": "查看原始论文"
+    },
+    {
+      "id": 303,
+      "text": "[6] Hartshorne & Germine (2015) 不同认知能力的高峰"
+    },
+    {
+      "id": 304,
+      "text": "各能力轨迹异步；不能全部锁定为 30 岁高峰。"
+    },
+    {
+      "id": 305,
+      "text": "查看原始论文"
+    },
+    {
+      "id": 306,
+      "text": "[7] Gazes et al. (2020) 白质、词汇与流体能力"
+    },
+    {
+      "id": 307,
+      "text": "任务特定的网络解释；课件标为 2021，匹配论文为 2020。"
+    },
+    {
+      "id": 308,
+      "text": "查看原始论文"
+    },
+    {
+      "id": 309,
+      "text": "课件其余研究定位：Weil（元认知）；Shulman / Silverman / Fair（风险与网络）；Sahib（学校）；Luyckx / Becht / Crocetti（身份）；Avci / Orben / Fioravanti / Marciano（媒体）；Carstensen / Simons（社会情绪）；Mattan / Bradford / Zhang（视角采择）。具体作者年份及完整出处以课件标注为入口。"
+    }
+  ],
+  "sourceText": "# Lecture 8\n\n\n\n\n[B0001] PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT\n\n[B0002] Lecture 8\n\n[B0003] Adolescence to Later Adulthood\n\n[B0004] 青春期至成年后期：决策、身份、媒体与认知老化\n\n[B0005] Maika Kumada  |  Developmental Lecture 4: 41 slides  |  Bilingual study notes\n\n[B0006] CORE IDEA  发展贯穿一生。青春期的奖励敏感性、同伴关系与身份探索共同影响选择；成年后不同能力和社会目标继续变化，增长、损失、稳定与适应可以同时存在。\n\n[B0007 FIGURE] LECTURE MAP  从青春期连接到成年后期。01 决策：元认知与风险，奖励与认知控制，神经网络成熟，情绪和同伴情境；02 身份：亲密与相互支持，学校归属与韧性，双循环五个维度，跨情境的自我；03 媒体：身份空间与呈现，心理健康与比较，注意和语言，算法与信息判断；04 成年：相对稳定与变化，流体与晶体能力，未来时间与目标，情感亲近与视角\n\n[B0008] 主线：认知与社会环境相互作用，发展结果取决于人、任务和情境。\n\n[B0009] 阅读方法：先看一页速记，再按 slide 编号回课件。蓝色为概念，金色为自拟案例与答题重点，红色为易误记点，绿色为应用。最后有自测题、术语表和四讲知识树。\n\n[B0010] STUDY PRIORITY  优先掌握：双系统、segregation / integration、peer influence 的两种情境、身份五维、state / trait comparison、fluid / crystallised abilities，以及 perceived future time。具体脑区名称为扩展，不是讲师要求硬背的重点。\n\n## [B0012] 一页速记 | Lecture at a glance\n\n## [B0013] L8 slides 2–13、15–30、32–41；开头另补讲 L7 想象伙伴。\n\n\n[B0014 TABLE]\n\n主题 | 一句话带走\n\nAdolescent cognition | 元认知继续发展；奖励敏感与尚在成熟的控制系统，在不同情绪情境下共同影响决策。\n\nPeer context | 影响可以来自被朋友注视、观察朋友的行为，也可以来自信任和欣赏；不只来自强迫。\n\nSchool environment | 积极校园氛围、归属感与韧性可共同关联较好的 wellbeing。\n\nIdentity dual cycle | 先比较与选择，再评价与内化；可以回头重选，反刍探索不是必经阶段。\n\nMedia | 内容、参与方式和个体差异都重要；同样的使用时长可能有很不同的体验。\n\nAdult cognition | 成年相对稳定不代表停止发展；流体能力与累积知识的年龄轨迹不同。\n\nLater-life goals | 未来时间被感到更有限时，情感上重要的关系和体验更受重视。\n\n\n\n## [B0016] 本讲最容易混淆的四组概念\n\n[B0017] 风险行为与寻求刺激；广度与深度探索；中介与调节；即时加工效率与累积知识。答题时先说明比较的两端各指什么，再说明它们怎样相互作用。\n\n[B0018] 理解案例（自拟）  小林白天决定今晚复习，晚上朋友开黑又能立刻获得胜利奖励。分析应同时考虑奖励、同伴和控制目标，不能仅由一次选择给他贴“青春期不理性”的标签。\n\n[B0019] EXAM  讲师明确强调脑科学的 broad trends：类似奖励网络、激活可能性、执行功能成熟及网络分工与协同。无需把所有脑区的拉丁式名称当作本讲主线。\n\n## [B0021] 01 | 课堂衔接：想象伙伴从儿童延伸到成人\n\n## [B0022] 课堂开头对应 L7 slides 51–54；本讲 slide 2 为 adult ICs。\n\n## [B0023] 形式与解释\n\n[B0024] Imaginary companions（ICs，想象伙伴）可包括没有实体的朋友、被人格化的玩具，以及扮演的身份。Shared ICs 是多个孩子共同维持的角色；paracosm 是围绕角色建立的想象世界。上周的课件补充在本周课堂得到进一步讲解。\n\n\n[B0025 TABLE]\n\n观察或课堂内容 | 合理解释与边界\n\n压力、焦虑与 IC 相关 | 压力可能促使儿童利用 IC 应对，也可能有共同原因；不能仅凭相关确定 IC 造成焦虑。\n\n语言、故事、沟通与创造力表现 | 有 IC 儿童在部分任务中更会组织信息、扩展故事或想出多种用途；练习机会是可能解释。\n\n儿童感受与文化表达 | 许多孩子描述陪伴、乐趣；害怕或感到被控制时体验可不同。形式随文化和游戏环境变化。\n\nAdult ICs：Yamaguchi et al. (2023) | 问卷样本中约 10–15% 报告当前 IC；与压力及拟人化倾向关联，未发现稳健的孤独关联。[1]\n\n\n\n[B0027] 成人数字是研究样本的报告率，不是全世界固定患病率。该论文是问卷研究，课件将其称为 review 不准确。Anthropomorphic tendencies 指给物品赋予人的情感或意图，例如“我的旧电脑今天在闹脾气”。\n\n[B0028] 理解案例（自拟）  孩子觉得玩具熊不知道自己在学校发生的事，于是把人物、地点和先后讲清楚。这可说明 referential communication 的练习：听者未必拥有我已有的信息。\n\n[B0029] ACCURACY  作者感觉虚构角色“仿佛自行行动”的 illusion of independent agency，是一种创作体验的描述。不能直接写成相信人物在现实存在，也不能仅凭 IC 判断临床幻觉或精神障碍。\n\n## [B0031] 02 | 青春期与元认知\n\n## [B0032] Slides 3–5；adolescence、first onset 与 metacognition。\n\n## [B0033] 为什么青春期是重要发展窗口\n\n[B0034] WHO 常用 adolescence 指 10–19 岁。身心、关系和角色都在变化，一些精神障碍的首次发病也集中在儿童、青春期与青年期。不过不同诊断有不同分布，不能把全体障碍合成一个固定的发病生日。\n\n\n[B0035 TABLE]\n\nSolmi et al. 的汇总结果 [2] | 应怎样理解\n\n14 岁前 34.6%；18 岁前 48.4%；25 岁前 62.5% | 研究中的首次发病年龄分布；分母是发生障碍者，不是所有年轻人。\n\n整体高峰约 14.5 岁；中位数约 18 岁 | Peak 是分布高点；median 是将年龄分布分成两半的点。两者不可合称一个数字。\n\nSlide 4 的诊断类别图 | 神经发育、焦虑、进食、情绪等障碍的中位发病年龄不同；图上的误差范围也要考虑。\n\n\n\n## [B0037] Metacognition：监测与评估自己的思考\n\n[B0038] 元认知包括 introspection（反思自己在想什么）与评估推理是否可靠。青春期这一能力继续发展，有助于发现自己不知道什么、调整策略和作出选择。成人相对稳定不代表能力完全相同；这也不是青春期才首次出现的能力。\n\n[B0039] 理解案例（自拟）  做选择题时，先觉得 C 很熟悉，后来发现自己说不出原因。你把“熟悉感”与“真正理解”区分开，并决定回看定义，这就是元认知监测与策略调整。\n\n[B0040] EXAM  首发分布 ≠ 某年龄人群的患病率。元认知 ≠ 单纯多想：要指出监测、评估及可能的调节作用。\n\n## [B0042] 03 | 风险选择：先看任务，再解释年龄差异\n\n## [B0043] Slides 6–8；reward sensitivity、sensation seeking 与 lottery task。\n\n[B0044] Reward sensitivity 是对奖励线索的敏感程度；sensation seeking 是寻求新奇、刺激体验；risk taking 是选择有潜在不良后果的行为。它们可以相关，但不能互相替代。课堂所述风险与年龄常呈 quadratic / inverted-U 趋势，青春期中段较高。\n\n\n[B0045 TABLE]\n\n课件 lottery 示例 | 确定选项 | 有风险选项\n\nGain condition 收益情境 | 必得 $5。 | 50% 得 $50，50% 得 $0。\n\nLoss condition 损失情境 | 必失 $5。 | 50% 失 $50，50% 失 $0。\n\n\n\n[B0047] 测量通常是选择有风险选项的比例及其随反馈的变化。课件示例的收益彩票平均值为 +$25，损失彩票为 −$25，均与确定选项不同；因此单凭这些选项的选择，不能把奖励大小、期望值与纯粹风险偏好完全拆开。\n\n## [B0048] 情绪与反馈会改变选择\n\n[B0049] Affective context 指伴随较强情绪的情境。课堂讨论的任务中，青少年得到正向结果后，之后的风险选择可能增加；负向结果未显示同样调整，成人的变化较弱。相对中性的 non-affective context 中，年龄差异可能不同。\n\n[B0050] 理解案例（自拟）  游戏里一次冒险抽卡恰好成功，兴奋让人更想马上再抽。要解释下一次行为，可考虑奖励反馈和情绪；一次成功并不改变下一抽的客观概率。\n\n[B0051] ACCURACY  这里是任务和样本中的趋势。不要写“青少年无法理解后果”“惩罚永远无效”或“成人从不受情绪影响”。真实决策还取决于信息、经验与社会情境。\n\n## [B0053] 04 | 双系统模型：奖励与控制的时间差\n\n## [B0054] Slide 9；Dual Systems Model 是解释框架，而非个体预测表。\n\n[B0055 FIGURE] DUAL SYSTEMS  两条发展轨迹共同影响选择。奖励／社会情绪系统：对奖励、新奇较敏感，较早发展，青春期常见较高敏感性，之后趋势可能回落；认知控制系统：规划、抑制和自我调节，较渐进地发展，青春期仍继续成熟，需要按任务与情境判断\n\n[B0056] 依据 slide 9 的趋势重绘；没有原始数据或精确年龄刻度。\n\n[B0057] 课堂用“yes system”与“no system”作比喻：奖励推动尝试，控制帮助考虑目标与后果。两者的发展不同步，可解释为什么一个人知道某个后果，仍在兴奋或朋友在场时作出不同选择。这只是简化，两个系统也会相互作用。\n\n## [B0058] 用模型解释一次具体选择\n\n[B0059] 依次问：奖励是什么？当时的情绪和同伴线索是什么？要维持哪个长期目标？任务需要多大控制？只有把这些因素放在一起，模型才比“青少年更冒险”提供更多解释。\n\n[B0060] 理解案例（自拟）  学生答应早睡，但群聊发起限时挑战，成功能得到同伴认可。他更想参加，可能同时涉及新奇奖励、归属与当下控制负担；换成无人围观的普通作业，选择可能不同。\n\n[B0061] EXAM  写“相对成熟时间不同 + 情绪／社会情境调节”，并补一个限制：示意曲线不能定位某个人的脑成熟年龄或保证每个青少年都冒险。\n\n## [B0063] 05 | 神经网络与执行功能：掌握总体趋势\n\n## [B0064] Slides 10–13；具体脑区为扩展，讲师强调 broad patterns。\n\n## [B0065] Activation likelihood 与强度不同\n\n[B0066] 青少年和成人使用许多相似的 reward-processing networks；研究汇总可显示某些位置更常出现激活。更高的激活可能性／一致性，不等于每次信号都更强，也不等于所有青少年的同一脑区必然激活。\n\n\n[B0067 TABLE]\n\n要掌握的概念 | 课堂含义\n\nExecutive functioning 执行功能 | 支持工作记忆、规划、目标维持、抑制与灵活调节的过程。Cognitive control 侧重如何运用这些过程。\n\n行为任务发展：slide 12 | 随着青春期年龄增加，许多任务准确率上升、反应延迟降低；之后表现趋稳。\n\nSegregation 网络分化 | 网络之间更有分工，某些网络更专门参与某类任务。\n\nIntegration 网络整合 | 相关网络能够协同运作；分工不意味着彼此完全隔绝。\n\nIntermediate phase | 青春期组织方式在童年与成人之间；不是用一个脑区或生日界定成熟。\n\n\n\n[B0069] Tervo-Clemmens et al. (2023) 汇总的执行功能任务表现约在 18–20 岁达到成人水平并趋稳；这是所测任务的结果，不是全部脑结构或现实判断的统一完成年龄。[3] 课件图上 acc 与 lat 分别对应准确率与反应延迟。\n\n[B0070] 理解案例（自拟）  做限时题需要维持规则、忽略群聊并迅速选答案。可把网络分工想成不同成员负责不同任务，整合则是能及时交换信息合作；这个比喻不是实际脑区地图。\n\n[B0071] EXTENSION  Slide 11 区分 anticipation（期待奖励）与 outcome（得到结果）。图示以青少年前岛叶的期待反应、壳核／杏仁核的结果反应，以及成人伏隔核／眶额皮层的结果反应为例；重点是网络模式，不能背成“一脑区只负责一种行为”。\n\n## [B0073] 06 | 同伴关系怎样影响青春期选择\n\n## [B0074] Slides 15–16、18；友情变化、peer influence 与观察情境。\n\n\n[B0075 TABLE]\n\n友情特点 | 青春期的表现\n\nIntimacy 亲密 | 分享个人想法、感受与共同经历。\n\nLoyalty 忠诚 | 期待信任、承诺和保密。\n\nReciprocity 互惠 | 重视双方都能获得支持与披露，而不只是交换玩具。\n\n\n\n[B0077] 友情可更容许个体差异，但同伴地位也可能改变，使社交更复杂。与同伴相处更多、情感联系更深，可能加强其影响；家庭仍有作用。Peer influence 可以来自欣赏、信任、自愿模仿，也可能来自 peer pressure 的强迫。\n\n\n[B0078 TABLE]\n\n同伴情境 | 谁在看谁？ | 可能怎样改变选择\n\nSocial observation | 我知道朋友正在看我。 | 被观察可改变表现、探索或风险选择；不一定是朋友直接发指令。\n\nSocial influence | 我观察朋友怎么做。 | 看到冒险或安全行为后，自己的选择可能向其靠近。\n\n\n\n[B0080] 课堂指出二者都与风险选择有关，但机制和效果大小有混合解释：被注视是直接提高风险，还是提高尝试新行为的动机？安全榜样与冒险榜样的影响是否对称？这些不是一句“同伴压力”就能回答的问题。\n\n[B0081] 理解案例（自拟）  朋友站在旁边看你跳水，是 observation；你先看朋友从高台跳下，是 influence。反过来，看见朋友先检查水深再决定，也能成为安全行为的榜样。\n\n[B0082] EXAM  讲清方向：被他人观察与观察他人行为。再说明影响可促进安全或支持，不是所有 peer influence 都有害。\n\n## [B0084] 07 | 校园氛围、归属与韧性\n\n## [B0085] Slide 17；Sahib et al. (2023) 的纵向预测模型。\n\n\n[B0086 TABLE]\n\n变量 | 定义 | 具体线索\n\nSchool climate | 学生共同体验的学校价值、学业强调及关系氛围。 | 感到安全、被重视，师生和同伴关系积极。\n\nSchool identification | 与学校的联结和归属感。 | “我属于这里”“我是这个学校的一员”。\n\nResilience 韧性 | 面对不利经历时调整并达到较好结果的能力／过程。 | 遇到挫折后仍能求助、改变策略、恢复参与。\n\nWellbeing | 社会情感和心理状态的结果指标。 | 生活满意度、积极情绪，以及较少焦虑／抑郁症状等。\n\n\n\n## [B0088] 关系模型\n\n[B0089] 课件提出积极 school climate 可通过 school identification 与 resilience 预测 wellbeing。可理解为：支持性氛围可能帮助学生感到归属并更能应对困难，再与较好的状态相关。中介路径用于检验一种解释，不应自动等同于已证实的因果链。\n\n[B0090] 理解案例（自拟）  一次考试失利后，学生敢向老师求助，同学愿意一起订复习计划。这些关系让他觉得自己属于学校，也更容易恢复学习。此例展示可能路径，不是凭故事证明研究结论。\n\n## [B0091] 从研究方法角度再问一步\n\n[B0092] 纵向资料比同一次问卷更能检查时间顺序，但家庭资源、先前心理状态、选择学校的方式等仍可能影响多个变量。还要问 school climate 是学校层面共同指标，还是每个学生的个人感受。\n\n[B0093] EXAM  Climate 是环境氛围；identification 是我与学校的联结；resilience 是面对逆境的适应。三者不能只写成三个“开心程度”。\n\n## [B0095] 08 | 身份双循环模型：五维怎么区分\n\n## [B0096] Slides 19–20；Luyckx et al. (2008)。\n\n[B0097 FIGURE] 身份双循环：广度探索与作出承诺构成形成循环，深度探索与认同承诺构成评价循环；不匹配时可重新探索。反刍探索是独立维度，并非第五个必经阶段。\n\n[B0098] 依据课件和课堂解释重绘；箭头表达可反复调整的过程，不是固定年龄阶段。\n\n\n[B0099 TABLE]\n\n维度 | 用选专业理解（自拟）\n\nExploration in breadth 广度探索 | 比较心理学、管理学、哲学等多个方向。\n\nCommitment making 作出承诺 | 决定选择心理学，并据此安排课程和投入。\n\nExploration in depth 深度探索 | 进一步了解所选专业的实际学习与工作，评价是否符合自己的价值。\n\nIdentification with commitment 认同承诺 | 觉得选择适合我，并成为自己身份的一部分。\n\nRuminative exploration 反刍探索 | 反复想“万一选错怎么办”，持续担心却难以收集信息或推进决定。\n\n\n\n[B0101] 前两维构成 formation（形成），后两维构成 maintenance / evaluation（维持与评价）。若深度探索发现不匹配，可以重新进行广度探索。第五维是额外的探索质量维度，不是完成前四步之后必然进入的阶段。\n\n[B0102] EXAM  Making 是作出选择并行动；identification 是内化并认同选择。Breadth 比较选项；depth 评价现有承诺。想得久不自动等于探索得好。\n\n## [B0104] 09 | 身份年龄趋势与连贯的自我\n\n## [B0105] Slides 21–22；age trends、sense of self 与 life narratives。\n\n\n[B0106 TABLE]\n\n课件趋势 | 解释与边界\n\nCommitment making / identification 随年龄上升 | 平均更明确并更认同选择；并非所有个体同速，也不代表以后不能改变。\n\nBreadth / depth 呈弯曲趋势 | 青春期至青年期探索较多，之后可能下降；示意图没有精确年龄和数值。\n\nRuminative exploration | 课堂所述研究没有清楚一致的年龄趋势；不是说每个年龄的每个人都完全相同。\n\n\n\n## [B0108] Sense of self：把过去、现在和未来连起来\n\n[B0109] 自我感是跨时间、跨生活情境仍能认出“这是我”。在家安静、与朋友外向，不必意味着身份破碎；行为不同仍可能共享相同价值。Life narratives 像心理传记，帮助把过去的经历、现在的角色与期望的未来连接起来。\n\n[B0110] 课件所述研究中，有些青少年身份承诺和 self-concept clarity 较稳定，有些仍经历不连续和探索，概括约各一半。这个比例属于所述样本与测量，不是全体青少年的精确人口分布。Identity maturation 是逐步评价、整合不同领域的身份。\n\n[B0111] 理解案例（自拟）  以前觉得自己只擅长背书，现在发现喜欢组织小组，未来希望做能沟通与解决问题的工作。你通过同一组价值理解这些改变，而不要求三个时期行为完全一样。\n\n[B0112] EXAM  “稳定”与“改变”可并存。答题说清什么稳定：价值、身份承诺还是自我清晰度；不要把 sense of self 定义为永远不变。\n\n## [B0114] 10 | 媒体与身份：参与不只看点击次数\n\n## [B0115] Slide 23；identity spaces 与 self-presentation。\n\n[B0116] 青少年媒体使用往往与同伴沟通相连。在线社群提供 identity spaces（身份空间），让人接触角色、尝试表达，并发现哪些群体和价值适合自己。奖励线索和同伴认可也可能影响这类参与。\n\n\n[B0117 TABLE]\n\n层面 | 例子 | 要分清的事\n\n平台行为的 active / passive | 发帖评论／只观看。 | 这是可观察操作的区别。\n\n内部的 identity exploration | 观看科学内容，思考“我是否喜欢科学”。 | 外在观看可以同时有主动心理加工。\n\nSelf-presentation 自我呈现 | 调整简介、头像或不同群组里的表达。 | 呈现不同侧面可能是探索；不能直接判断真诚或欺骗。\n\n\n\n[B0119] 课件列出 active participation 与更多身份探索的关联。课堂同时提醒，不能将“没有发帖”直接等同于完全被动：认同、评价和想象未来的过程也可能发生。研究必须分别定义平台行为与内部身份过程。\n\n[B0120] 理解案例（自拟）  你在游戏群分享攻略，在课程群讨论题目，两者呈现不同侧面。看完一个职业访谈后，即使没点赞，你也可能重新评价自己想走的方向。\n\n## [B0121] 为何不能只按 screen time 下结论\n\n[B0122] 时间不能完整表示内容、反馈、互动对象和目的。同样半小时，有人获得技能和支持，有人反复遭到排斥；把两类使用放在同一总时长里，会掩盖不同发展路径。\n\n[B0123] EXAM  先写活动的定义与测量，再写研究关联。平台“主动”与身份“主动”可以重叠，但不能混用成为一个指标。\n\n## [B0125] 11 | 媒体心理健康与身体形象\n\n## [B0126] Slides 24–25；mixed evidence 与 social comparison。\n\n## [B0127] 心理健康结果为什么混合\n\n[B0128] 部分研究将较高使用量与焦虑、抑郁或睡眠问题联系；另一些大型研究控制混淆变量后，平均关联较小。家庭压力、资源、先前情绪、反向影响和不同活动类型，都可能改变估计。平均小效应也不保证每个人体验相同。\n\n[B0129] 理解案例（自拟）  同样刷一小时：一个学生收到朋友支持，另一个不断被嘲讽并熬夜。只比较时长，无法解释二人的差别；也要问原本情绪较差是否导致更多上网。\n\n## [B0130] 理想化图像与身体不满\n\n[B0131] Culturally idealised images 是符合某文化理想的筛选或修饰图像。它们可引发 social comparison，与 body dissatisfaction（身体不满）相连。文字稿偶尔说 satisfaction，但课件与完整解释均指 dissatisfaction。\n\n\n[B0132 TABLE]\n\n比较类型 | 研究角色 | 怎样理解\n\nState comparison 此刻比较 | Mediator 中介 | 图像暴露 → 当下比较 → 身体不满；尝试解释经由什么路径。\n\nTrait comparison 惯常倾向 | Moderator 调节 | 本来更常比较的人，图像与不满的关系可能更强；解释何时／对谁更强。\n\n\n\n[B0134] 理解案例（自拟）  刷到精修健身照后，你当下拿自己的身材比较，是 state；平时几乎每张照片都要比较的习惯，是 trait。前者可位于路径中，后者可改变路径强弱。\n\n[B0135] EXAM  中介解释 how / through what；调节解释 when / for whom。统计中介不能单独证明所有箭头都是因果。\n\n## [B0137] 12 | 媒体与注意、学业和语言\n\n## [B0138] Slides 26–27；把短期表现与长期发展分开。\n\n\n[B0139 TABLE]\n\n领域 | 课件与课堂趋势 | 解释边界\n\nAttention 注意 | 较多媒体／消息活动与当天分心、不注意相关；既有注意困难者的关系可能不同。 | 当天分心不是 ADHD 诊断；不能由相关断言媒体造成长期注意障碍。\n\nAcademic achievement 学业 | 更多媒体活动与较低学业表现的负相关较一致。 | 学习时间替代、分心、奖励偏好、先前成绩等都可能参与。\n\nLanguage 语言 | 交流机会可与信心、沟通练习和语言表现相连。 | 要区分活动、语言形式和结局；社交表达与正式写作不是同一能力。\n\n\n\n## [B0141] 同一种文字，语用理解可能不同\n\n[B0142] 课堂用句末“……”说明：有人只是习惯性标点，有人会读成不满或暗示。表情、贴图、俚语与不同代际的使用规则也可造成误解。理解别人意图需要结合共同语境，不能只按符号本身判断。\n\n[B0143] 理解案例（自拟）  复习时每隔两分钟回复消息，可能减少连续练习的时间。成绩下降未必是“手机永久损坏大脑”；要比较学习时长、分心和先前能力等具体路径。\n\n[B0144] 理解案例（自拟）  长辈回复“知道了……”可能只当句尾，你却以为对方生气。可以先确认语气，这比把一串标点当成心理状态的直接证据可靠。\n\n[B0145] ACCURACY  不能把 informal language／emoji 一概写成降低智力或批判思维。判断应对应明确的语言任务、使用方式与研究设计。\n\n## [B0147] 13 | 算法环境与虚假信息判断\n\n## [B0148] Slides 28–30；算法意识、信心、相信与分享。\n\n\n[B0149 TABLE]\n\n概念 | 重点\n\nEcho chamber 回音室 | 相似观点在内容和社交网络中反复强化；也可涉及主动选择。\n\nFilter bubble 过滤气泡 | 个性化筛选使接触信息更贴近已有偏好，可能减少异质观点。\n\nAlgorithm awareness 算法意识 | 知道平台使用算法，与了解如何推荐和筛选内容，是不同程度的理解。\n\n\n\n[B0151] 前两者是信息环境的概念，不是两个固定算法名称。Gran et al. 的研究为挪威总体网络样本，非青少年专属，也不是专门研究当代生成式 AI；应谨慎把它扩展为全体青少年的结论。[4]\n\n## [B0152] 过度自信与行为要分别测\n\n[B0153] 课件引用的 Kops et al. (2025) 是涵盖青年相关研究的范围综述：部分研究显示识别信心高于实际表现，评价多依赖眼前材料，主动外部核查有限。[5] 课堂提到 third-person effect：认为别人比自己更容易受影响；这种自评不能证明识别能力更好。\n\n[B0154] Belief（相信）与 sharing（分享）是不同变量。部分青年研究发现较被动的反应或较少分享，但不能写成从不传播；也不能据此断言青少年必然比成人更易相信假信息。\n\n[B0155] 理解案例（自拟）  一段视频画面清晰、帐号熟悉，让你自信“一看就是真的”。元认知上要问：我的信心来自画质，还是独立证据？可再查原始来源和别处的佐证。\n\n[B0156] EXAM  用三个指标回答：准确率、信心、行为（核查／分享）。对推荐内容喜欢、知道平台可能有假消息，都不等于能正确识别每一条。\n\n## [B0158] 14 | 成年发展：相对稳定仍有变化\n\n## [B0159] Slides 32–33；midlife、individual differences 与 age-related change。\n\n[B0160] Midlife 在课件中大致指 30–50 多岁，但研究边界可不同。家庭、亲职、工作、伴侣和社会资源的组合更复杂，个体经历差异可能更明显。不能假设每个人都按结婚、育儿、事业顶峰的同一路线发展。\n\n\n[B0161 TABLE]\n\n表述 | 准确含义\n\nRelative stability 相对稳定 | 在某一较短跨度内，某些过程变化较小；不是一切从此停止改变。\n\nAge-related differences | 较长跨度仍可发现人格、认知或行为的年龄关联。\n\nIndividual differences | 同龄人的角色、健康、学习与资源可能不同，平均年龄趋势不代表每一个人。\n\nGains / losses / adaptation | 获得经验、部分速度变化、策略调整，可在同一阶段同时出现。\n\n\n\n## [B0163] 年龄差异与同一个人的变化\n\n[B0164] 比较不同年龄的人（cross-sectional）可受 cohort effect 影响，例如教育与科技经历不同；追踪同一个人（longitudinal）更直接观察变化，但有练习效应、流失等限制。研究方法决定我们能够说“年龄相关”还是更接近“随时间改变”。\n\n[B0165] 理解案例（自拟）  20 岁和 50 岁的两组人在某软件上表现不同，既可能有年龄因素，也可能因软件使用经历不同。不能单凭两组均值预测某个学生 30 年后一定怎样。\n\n[B0166] EXAM  写出“相对稳定的尺度”：哪个领域、几年跨度、什么测量。成年期仍属于 lifespan development。\n\n## [B0168] 15 | 流体与晶体能力：认知老化不是一条线\n\n## [B0169] Slides 34–35；fluid abilities 与 crystallised abilities。\n\n\n[B0170 TABLE]\n\n能力 | 主要依赖 | 课堂范例与平均趋势\n\nFluid 流体能力 | 当下的信息加工效率、新问题处理。 | 处理速度、工作记忆等在成年与老年期常呈下降趋势。\n\nCrystallised 晶体能力 | 累积知识的提取和应用。 | 词汇和专业知识通常较能保持，部分时期可继续增长。\n\n\n\n[B0172] 一项任务可以同时依赖两者：理解新指令需要即时加工，也需要词汇知识。它们共享部分基础过程，不能假设晶体能力与其他认知变化完全无关，更不能保证终生不变。\n\n## [B0173] Decline 的起点与幅度\n\n[B0174] 课件强调某些平均能力下降在较老年龄可更明显，但并非统一从 60／65 岁才开始。不同能力的高峰、保持期与变化速度不同；课堂“约 30 岁”的概括不能当作所有能力的统一顶点。[6]\n\n[B0175] 理解案例（自拟）  一位资深维修师初次学习陌生手机界面可能较慢，却能凭经验迅速判断机器故障。即时新操作与专业知识的表现可以不同；同一维修任务也可能同时需要二者。\n\n[B0176] ACCURACY  群体平均下降不等于每个人必然如此，也不自动等于 dementia（痴呆）。年龄、健康、任务和经验差异都要纳入解释。\n\n[B0177] EXAM  定义两类能力并各给例子，然后补充“轨迹不同、共享过程、个体差异”。避免只写“年轻人聪明、老年人有经验”。\n\n## [B0179] 16 | 神经老化与生活经验的作用\n\n## [B0180] Slides 36–37；white matter、engagement 与 disuse。\n\n## [B0181] 白质与任务网络\n\n[B0182] White matter（白质）包含许多支持脑区通信的有髓轴突。随年龄出现的结构变化可能影响加工效率，但白质不等于一个人的全部“连接能力”。课件将较分散的流体任务网络与较专门化的知识任务网络作比较。\n\n[B0183] 词汇相关研究提出：相对局部化的激活可能较少依赖广泛通路，因而部分解释其相对保持。[7] 这是特定任务与研究的解释，不能写成所有晶体能力都储存在一个不老化区域；网络、结构和表现之间也不是一对一关系。\n\n\n[B0184 TABLE]\n\n假说 | 核心解释 | 例子\n\nEngagement hypothesis | 持续认知与社会参与可能为能力提供缓冲，延迟损害。 | 继续学习、讨论、解决日常问题。\n\nDisuse hypothesis | 活动改变后较少运用某过程，可能产生技能损失。 | 不再使用某类技能后，熟练程度下降。\n\n\n\n[B0186] 这两种假说可看作参与程度的不同角度，并非必须二选一。观察到活动多的人表现较好，还要考虑先前能力、健康和资源是否同时影响参与与结果。\n\n[B0187] 理解案例（自拟）  退休后继续组织社团，需要安排、沟通和学习新信息；完全停止使用某项技能后，则可能变生疏。这说明可研究的参与路径，不保证任何单一活动能预防疾病。\n\n[B0188] EXAM  把“可能保护／延缓”与“保证预防”分开。教育、参与和认知保持的关联，不能直接证明多读一个学位就会改变个人疾病结局。\n\n## [B0190] 17 | 社会情绪选择理论与积极情绪\n\n## [B0191] Slides 38–39；Socioemotional Selectivity Theory（SST）。\n\n## [B0192] 关键变量是感到还有多少未来时间\n\n\n[B0193 TABLE]\n\nPerceived future time | 目标倾向 | 关系选择\n\n较长、开放 | 获取知识、尝试新经验。 | 扩展社交网络与探索机会。\n\n较有限 | 投入情感上有意义的体验。 | 珍惜重要关系、加深亲近。\n\n\n\n[B0195] 年龄常与时间感有关，但理论核心不是年龄数字本身。对重要关系的投入可体现为减少外围联系、选择更有意义的互动，或更愿意放下冲突。个体健康和生活情境也会改变时间感与目标。\n\n[B0196] 理解案例（自拟）  毕业前几周，你虽然年轻，也觉得与同学相处的共同时间有限，于是更想和亲近朋友聚餐。这个例子说明时间视野可在同一年龄发生变化。\n\n## [B0197] Slide 39 怎样读中介图\n\n[B0198] Bonding social capital 指亲近关系所提供的支持与资源。图中它与 positive affect（积极情绪）正向相关，积极情绪再与社会、心理和情绪 wellbeing 相连。图中至社会／心理 wellbeing 的直接路径为正；至情绪 wellbeing 的直接路径标为不显著（ns）。\n\n[B0199] 研究中某些老年群体有较好的积极情绪和社会互动满意度，不表示所有老年人更幸福或不存在孤独。中介图表达研究支持的关系结构，也不表示所有路径都已由实验建立因果。\n\n[B0200] EXAM  Future time → goal priorities 是理论核心。少交朋友可能是主动选择重要关系；要区分这一点与没有支持或被迫孤立。\n\n## [B0202] 18 | 老年人视角采择与情感亲近\n\n## [B0203] Slide 40；文字稿仅覆盖开头结果，后续解释按课件补足。\n\n## [B0204] Self-perspective prioritisation\n\n[B0205] 在课件所述任务中，老年人回答自己的视角时准确率较高，也较少受不一致的他人视角干扰。这个结果描述具体 self-perspective trials，不能直接推广为整体视角采择更好。\n\n\n[B0206 TABLE]\n\n任务要求 | 可能的认知要求 | 怎样解释结果\n\n按自己的视角回答 | 维持自己所见，忽略不相关他人视角。 | 他人干扰较少，可表现为自我任务优势。\n\n按他人的视角回答 | 处理别人所见，并抑制自己的知识。 | 执行控制与加工负担可能更大；是另一种要求。\n\n\n\n[B0208] 课件给出的解释包括：自己的视角更难被抑制，以及他人视角处理更费力。还指出 perceived emotional closeness 较高时，视角采择表现可接近年轻人。关系情境可能改变能力如何表现。\n\n[B0209] 理解案例（自拟）  你站在书架正面看见两本书，另一人站在侧面只看见一本。回答“我看见几本”与“对方看见几本”需要不同控制；若问的是对方，必须暂时放下自己的信息。\n\n## [B0210] 与 Lecture 7 的联系\n\n[B0211] 儿童错误信念任务与成人视角采择都需要区分自己的知识和他人信息，但年龄、任务与测量不同。一个任务的错误，不足以概括一个人全部共情、道德或日常关系能力。\n\n[B0212] ACCURACY  这些是认知任务和关系条件下的结果，不能把老年人贴成“更自私”。自我任务优势、他人处理难度与情感动机可以同时存在。\n\n## [B0214] 19 | 发展心理学四讲知识树\n\n## [B0215] Slide 41 为课件总结；对应课程 Lectures 5–8。\n\n\n[B0216 TABLE]\n\n课程讲次 | 主线 | 连接到本讲\n\nL5 / Dev Lecture 1 / 发展基础 | Lifespan、nature × nurture、连续与阶段、文化、研究方法、Piaget、Vygotsky。 | 本讲看一生中的变化，评价年龄差异与研究方法。\n\nL6 / Dev Lecture 2 / 社会发展 | 依恋与照顾者、家庭同伴、媒体、社会类别与偏见。 | 青春期的同伴、学校氛围与媒体是继续发展的环境。\n\nL7 / Dev Lecture 3 / 生物与认知 | 行为遗传、产前发展、概念、心理理论与想象伙伴。 | 神经与环境互动；理解他人的任务延伸至成年后期。\n\nL8 / Dev Lecture 4 / 青春期至成年后期 | 风险与奖励、身份、媒体、成年稳定、认知老化和社会情绪目标。 | 整合增长、损失、稳定与适应，避免把发展限于儿童。\n\n\n\n## [B0218] 用同一套问题整合四讲\n\n[B0219] 研究哪一群人？测量什么？怎样比较？平均结果是什么？哪些经验或情境可改变结果？这些问题能同时用于依恋、遗传率、假信念、风险选择和认知老化。\n\n[B0220] 理解案例（自拟）  一个学生会在朋友旁观时冒险，在学习群中尝试新身份，也通过支持性师生关系恢复状态。这个故事同时涉及认知、社会与环境，而不是三套互不相关的章节。\n\n[B0221] EXAM  发展不是只增不减，也不是童年后结束。能够说明 gains、losses、stability、adaptation 怎样并存，才抓到四讲共同主线。\n\n## [B0223] 20 | 自测题 A：青春期与身份\n\n## [B0224] 先尝试口述，再看参考答案。以下题目为本笔记自编练习。\n\n## [B0225] 1. Metacognition 指什么？\n\n[B0226] 参考答案：监测、反思与评估自己的思考和推理，并可据此调整策略；不是只把想法变多。\n\n## [B0227] 2. 奖励敏感、寻求刺激和风险行为怎样区分？\n\n[B0228] 参考答案：对奖励线索敏感；寻求新奇体验；选择有潜在不良后果的行为。相关但不同。\n\n## [B0229] 3. 课件的彩票为什么不能单独测纯风险偏好？\n\n[B0230] 参考答案：彩票与确定选项期望值不同，选择可同时受收益大小、损失及风险影响。\n\n## [B0231] 4. 双系统模型的主要解释是什么？\n\n[B0232] 参考答案：奖励／社会情绪敏感性与认知控制的发展时间不同，在情绪和同伴情境中共同影响选择。\n\n## [B0233] 5. 激活可能性较高是否意味着信号必然更强？\n\n[B0234] 参考答案：不意味着。研究中更常见／更一致的激活，与单次激活强度是不同指标。\n\n## [B0235] 6. Segregation 与 integration 是什么？\n\n[B0236] 参考答案：网络分工更加明确；相关网络协同更有效。二者可共同发展。\n\n## [B0237] 7. Social observation 与 social influence 的方向？\n\n[B0238] 参考答案：我被同伴观察；我观察同伴行为。后者也能影响安全行为。\n\n## [B0239] 8. 广度探索与深度探索怎么区分？\n\n[B0240] 参考答案：广度是比较多个可能选项；深度是评价已选择身份是否适合自己。\n\n## [B0241] 9. Commitment making 与 identification 区别？\n\n[B0242] 参考答案：前者选择并行动；后者认同、内化自己的承诺。反刍探索不是必经第五阶段。\n\n[B0243] CHECK  用学校例子解释 climate、identification、resilience，再提出一个未排除的共同原因。\n\n## [B0245] 21 | 自测题 B：媒体、成年与老化\n\n## [B0246] 重点练“定义—结果—解释—边界”。\n\n## [B0247] 10. State comparison 与 trait comparison 的角色？\n\n[B0248] 参考答案：此刻比较可作中介；惯常比较倾向可作调节。前者解释路径，后者解释关系强弱。\n\n## [B0249] 11. 为什么一天分心不能推出媒体导致 ADHD？\n\n[B0250] 参考答案：短期症状与长期诊断不同；相关资料还需排除先前困难、反向影响和其他变量。\n\n## [B0251] 12. 判断假信息应测哪三个东西？\n\n[B0252] 参考答案：识别准确率、信心，以及核查／分享行为；相信与分享也不是同一变量。\n\n## [B0253] 13. 成人相对稳定意味着没有发展吗？\n\n[B0254] 参考答案：不。部分过程短时间变化小，但长跨度仍可有年龄关联，角色和策略也会改变。\n\n## [B0255] 14. Fluid 与 crystallised 各举例。\n\n[B0256] 参考答案：处理陌生任务和维持信息偏流体；词汇、专业知识提取偏晶体。同一任务可以两者兼用。\n\n## [B0257] 15. 所有认知能力都在 30 岁达到顶峰吗？\n\n[B0258] 参考答案：不。不同任务和能力的高峰、平台期与变化速度不同。\n\n## [B0259] 16. Engagement 与 disuse 假说怎么连接？\n\n[B0260] 参考答案：持续参与可能缓冲变化；减少使用可能损失技能。它们不构成个人疾病预防保证。\n\n## [B0261] 17. SST 的关键变量是什么？\n\n[B0262] 参考答案：感知未来时间。开放视野常推动探索；有限视野常提高情感意义与亲近关系的优先级。\n\n## [B0263] 18. 自我视角任务更好能推出整体共情更好吗？\n\n[B0264] 参考答案：不能。按他人视角回答需要不同加工和抑制；关系亲近度也可影响表现。\n\n[B0265] TRANSFER  选一个媒体研究和一个老化研究，各用四句回答：测了什么、发现什么、可能解释、还不能证明什么。\n\n## [B0267] 22 | 英中术语表\n\n## [B0268] 英文用于认题，中文用于理解；定义要对应研究任务。\n\n\n[B0269 TABLE]\n\nEnglish | 中文与最短解释\n\nImaginary companion / anthropomorphism | 想象伙伴／拟人化：虚构角色；给非人物体赋予人的特征。\n\nAdolescence / metacognition | 青春期／元认知：发展时期；监测评估自身思考。\n\nReward sensitivity / sensation seeking | 奖励敏感／寻求刺激：奖励线索反应；探索新奇体验。\n\nRisk taking / affective context | 风险行为／情绪情境：潜在不良后果的选择；伴随情绪的背景。\n\nExecutive functioning / cognitive control | 执行功能／认知控制：支持目标的过程；运用这些过程。\n\nSegregation / integration | 网络分化／整合：更明确分工；相关网络协同。\n\nIntimacy / loyalty / reciprocity | 亲密／忠诚／互惠：披露感受；信任承诺；相互支持。\n\nPeer influence / peer pressure | 同伴影响／同伴压力：广泛影响；含要求或强迫的形式。\n\nSocial observation / social influence | 社会观察／社会影响：被同伴看；观察同伴行为。\n\nSchool climate / school identification | 校园氛围／学校认同：环境特征；与学校的联结归属。\n\nResilience | 韧性：在逆境中调整并获得较好适应的过程。\n\nExploration in breadth / in depth | 广度／深度探索：比较可能选项；评价现有选择。\n\nCommitment making / identification | 作出／认同承诺：选择并行动；内化已选身份。\n\nRuminative exploration / self-concept clarity | 反刍探索／自我清晰度：反复怀疑难推进；对自我的清楚理解。\n\nIdentity spaces / self-presentation | 身份空间／自我呈现：角色探索环境；表达自己的形象。\n\nMediator / moderator | 中介／调节：经由什么路径；何时／对谁更强。\n\nState / trait social comparison | 此刻／惯常社会比较：当下反应；较稳定倾向。\n\nEcho chamber / filter bubble | 回音室／过滤气泡：同类观点强化；个性化过滤内容。\n\nFluid / crystallised abilities | 流体／晶体能力：即时加工；累积知识应用。\n\nWhite matter / engagement / disuse | 白质／参与／不使用：神经通路结构；运用或较少运用认知过程。\n\nPerceived future time / SST | 感知未来时间／社会情绪选择理论：时间视野影响目标。\n\nBonding social capital / positive affect | 亲密关系社会资本／积极情绪：近关系资源；正向感受。\n\nSelf-perspective / perspective taking | 自我视角／视角采择：自己所知所见；考虑他人信息。\n\n\n\n## [B0272] 23 | 回课件定位与易错辨析\n\n## [B0273] 页码为 Dev Lecture 4.pdf 的 slide 序号。\n\n\n[B0274 TABLE]\n\n课件位置 | 笔记入口\n\nL7 slides 51–54；L8 slide 2 | 01 课堂想象伙伴补讲与成人 IC。\n\n3–5；6–9；10–13 | 02 青春期／元认知；03–04 风险与双系统；05 执行网络。\n\n15–18；19–22 | 06–07 同伴与学校；08–09 身份模型和自我感。\n\n23–25；26–27；28–30 | 10–11 媒体身份／心理健康；12 认知；13 算法与信息。\n\n32–33；34–37 | 14 成年稳定；15–16 两类认知、老化与经验。\n\n38–39；40；41 | 17 SST／积极情绪；18 视角采择；19 四讲整合。\n\n\n\n## [B0276] 六处特别容易误记\n\n[B0277] 首次发病年龄百分比的分母不是全体年轻人；peak 与 median 不同。\n\n[B0278] Risk-taking、sensation seeking 与 reward sensitivity 不同；课堂彩票还含期望值差异。\n\n[B0279] 身份五维不是五个必经年龄阶段；反刍没有清楚年龄趋势，不等于人人同样。\n\n[B0280] 媒体关联不自动为因果；当天分心、临床注意障碍与正式写作是不同结果。\n\n[B0281] 算法意识研究的样本不等于全体青少年；相信、识别与传播假信息需分别研究。\n\n[B0282] 老化没有所有能力统一的开始年龄或顶峰；自我视角优势不等于总体共情优势。\n\n[B0283] SOURCE BOUNDARY  文字稿在 slide 40 的首条结果中途结束；18 节的后续解释与 19 节整合来自课件。Slides 14、31 是休息页。\n\n## [B0285] 24 | 资料与研究定位\n\n## [B0286] 课堂研究作者年份保留在各主题中；下列原始资料用于辨析统计与概念。\n\n[B0287] 主要课程材料：Kumada, Developmental Psychology Lecture 4（Dev Lecture 4.pdf，41 页）；PSYC1004 Lecture 8 文字稿。想象伙伴课堂衔接另参照 Developmental Lecture 3 的相关课件。\n\n## [B0288] [1] Yamaguchi et al. (2023) 成人想象伙伴问卷研究\n\n[B0289] 10–15% 是研究样本报告率；压力、拟人化与孤独关联需按研究解释。\n\n[B0290] 查看原始论文\n\n## [B0291] [2] Solmi et al. (2021) 精神障碍首次发病年龄元分析\n\n[B0292] 区分 34.6% / 48.4% / 62.5% 的分母，以及高峰和中位数。\n\n[B0293] 查看原始论文\n\n## [B0294] [3] Tervo-Clemmens et al. (2023) 执行功能成熟研究\n\n[B0295] 所测执行任务的年龄轨迹，不能推为全部脑发育的统一终点。\n\n[B0296] 查看原始论文\n\n## [B0297] [4] Gran, Booth & Bucher (2021) 算法意识研究\n\n[B0298] 挪威总体样本，自报算法意识；非仅青少年与生成式 AI。\n\n[B0299] 查看原始论文\n\n## [B0300] [5] Kops et al. (2025) 青年与虚假信息范围综述\n\n[B0301] 151 项研究，涉及 5–25 岁；不是一个实验或单一普遍效果。\n\n[B0302] 查看原始论文\n\n## [B0303] [6] Hartshorne & Germine (2015) 不同认知能力的高峰\n\n[B0304] 各能力轨迹异步；不能全部锁定为 30 岁高峰。\n\n[B0305] 查看原始论文\n\n## [B0306] [7] Gazes et al. (2020) 白质、词汇与流体能力\n\n[B0307] 任务特定的网络解释；课件标为 2021，匹配论文为 2020。\n\n[B0308] 查看原始论文\n\n[B0309] 课件其余研究定位：Weil（元认知）；Shulman / Silverman / Fair（风险与网络）；Sahib（学校）；Luyckx / Becht / Crocetti（身份）；Avci / Orben / Fioravanti / Marciano（媒体）；Carstensen / Simons（社会情绪）；Mattan / Bradford / Zhang（视角采择）。具体作者年份及完整出处以课件标注为入口。",
+  "sourceHash": "1ff3175d972f1def0dac726bcd893c3e2455e3b8466eb22d9c509a33780f951b"
+}

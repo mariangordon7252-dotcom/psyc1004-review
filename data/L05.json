@@ -1,0 +1,2182 @@
+{
+  "id": 5,
+  "title": "发展基础、Piaget 与 Vygotsky",
+  "subtitle": "Developmental Psychology: Foundations, Piaget & Vygotsky",
+  "summary": "先分清一生发展中的主要争论和研究设计，再理解 Piaget 的图式、阶段与任务限制；最后用文化工具、最近发展区、逐渐撤除的支架和私语理解 Vygotsky。",
+  "concepts": [
+    {
+      "id": "L5-C01",
+      "title": "终身发展与儿童观",
+      "english": "Lifespan development and childhood",
+      "oneLine": "发展心理学研究人的一生，不只研究儿童到了几岁会什么。",
+      "analogy": "像跟踪一部电影，不只看开场画面。",
+      "simpleExample": "自拟例：同一个人的语言、关系和身体能力在童年与成年都可能变化。",
+      "explanation": "发展心理学研究人在何时、怎样、为何发生变化，以及环境如何影响变化。范围包括认知、知觉、社会、情绪、身体和运动，也包括典型与非典型发展。儿童研究较多，不表示成年后就不再发展；社会对童年责任和教育的看法，也会随历史文化改变。",
+      "example": "自拟例：同一个人的语言、关系和身体能力在童年与成年都可能变化。",
+      "pitfall": "Lifespan development 不只是儿童“会不会”的年龄清单。",
+      "source": "L5 · 定义、范围与目标 · [B0020–B0031]",
+      "front": "为什么发展心理学不等于儿童心理学？",
+      "back": "它研究一生中的多领域变化，成年后仍有发展。连社会怎样理解童年，也会随历史文化改变。",
+      "cardBack": "它研究一生中的多领域变化，成年后仍有发展。连社会怎样理解童年，也会随历史文化改变。"
+    },
+    {
+      "id": "L5-C02",
+      "title": "早期理论的历史贡献",
+      "english": "Freud, Adler, Jung and Locke",
+      "oneLine": "早期理论影响了发展心理学，但历史贡献不等于现代证据已证实。",
+      "analogy": "像旧地图：留下有用路线，但不能把每个标记都当今天的道路。",
+      "simpleExample": "自拟例：童年经验可能影响成人，不代表所有成人行为都由 Freud 理论解释。",
+      "explanation": "Locke 的白板观强调经验塑造。Freud 重视童年和意识外过程，Adler 重视主观经验、关系、归属与能力，Jung 关注终身发展和后期自我反思。这些是历史贡献，不能因此认定原型、MBTI 或精神分析无意识已得到现代证据支持。",
+      "example": "自拟例：童年经验可能影响成人，不代表所有成人行为都由 Freud 理论解释。",
+      "pitfall": "现代隐性加工，不能直接当成 Freud 精神分析无意识的证明。",
+      "source": "L5 · Freud, Adler and Jung：记贡献，不背整套旧理论 · [B0030–B0035]",
+      "front": "Freud、Adler、Jung 的本讲贡献分别是什么？",
+      "back": "Freud 重视童年与意识外过程；Adler 重视主观经验和社会归属；Jung 重视终身发展与后期反思。这里讲的是历史影响。",
+      "cardBack": "Freud 重视童年与意识外过程；Adler 重视主观经验和社会归属；Jung 重视终身发展与后期反思。这里讲的是历史影响。"
+    },
+    {
+      "id": "L5-C03",
+      "title": "先天与后天的互动",
+      "english": "Nature–nurture interaction",
+      "oneLine": "生物和经验都会影响发展，重点是它们怎样共同作用。",
+      "analogy": "种子影响潜能，土壤和照料影响生长，不能只选其一。",
+      "simpleExample": "自拟例：易受惊气质的孩子在稳定照料下发展更好的情绪调节。",
+      "explanation": "Nature 包括遗传和成熟的影响，nurture 包括经验、环境与学习。现代观点重视两者随时间相互作用，不把发展写成固定脚本。恐惧条件作用不能证明环境解释了一切；Little Albert 的方法与伦理问题也限制结论。",
+      "example": "自拟例：易受惊气质的孩子在稳定照料下发展更好的情绪调节。",
+      "pitfall": "有遗传影响，不表示不能改变；有环境影响，也不表示生物不起作用。",
+      "source": "L5 · Nature vs nurture · [B0040–B0044]",
+      "front": "现代观点怎样理解先天与后天的关系？",
+      "back": "看生物与经验各有多大影响，在什么条件下互相作用，以及通过什么过程影响发展，而不是二选一。",
+      "cardBack": "看生物与经验各有多大影响，在什么条件下互相作用，以及通过什么过程影响发展，而不是二选一。"
+    },
+    {
+      "id": "L5-C04",
+      "title": "关键期与敏感期",
+      "english": "Critical versus sensitive periods",
+      "oneLine": "关键期要求严格的必要输入；敏感期更容易受输入影响，但后来仍能学习。",
+      "analogy": "一扇有严格截止的门与一个效率更高的推荐时段，不是同一限制。",
+      "simpleExample": "自拟例：儿童学第二语言口音较容易，但成人仍能学习，较符合敏感期。",
+      "explanation": "关键期内缺少必要输入，可能造成难以逆转的变化；敏感期内输入的影响较强，但之后仍保留学习和补偿的可能。Victor、Genie 和机构剥夺案例说明早期输入重要，却混有虐待、营养和其他经历。动物印记的时间窗口，也不能直接套到所有人类能力上。",
+      "example": "自拟例：儿童学第二语言口音较容易，但成人仍能学习，较符合敏感期。",
+      "pitfall": "不能只凭一个案例，就断言某年龄后绝对学不会语言。",
+      "source": "L5 · Critical vs sensitive periods · [B0045–B0050]",
+      "front": "Genie 为什么不能单独证明简单语言关键期？",
+      "back": "Genie 同时经历了创伤、营养和照料等问题，早期状态也不清楚。无法只把语言结果归因于开始获得输入的年龄。",
+      "cardBack": "Genie 同时经历了创伤、营养和照料等问题，早期状态也不清楚。无法只把语言结果归因于开始获得输入的年龄。"
+    },
+    {
+      "id": "L5-C05",
+      "title": "阶段式、连续式与 DCCS",
+      "english": "Stage-like and continuous development: DCCS",
+      "oneLine": "做错任务不一定是不懂，也可能是记忆或抑制要求太高。",
+      "analogy": "电脑运行卡顿可能缺少功能，也可能资源不足，外表结果相同。",
+      "simpleExample": "自拟例：三岁孩子说得出新规则，却继续按旧颜色分类，可能受抑制和记忆负荷影响。",
+      "explanation": "阶段式解释强调推理方式发生质变，连续式解释强调效率、协调和熟练度逐渐提高。DCCS 先按颜色、再按形状分类，约五岁较能切换，三岁常沿用旧规则。这可能反映新能力出现，也可能反映原有能力尚未协调好；一次表现不能直接代表全部理解。",
+      "example": "自拟例：三岁孩子说得出新规则，却继续按旧颜色分类，可能受抑制和记忆负荷影响。",
+      "pitfall": "一次分类错误，不能证明儿童完全不懂新规则。",
+      "source": "L5 · Dimensional Change Card Sort (DCCS) · [B0051–B0058]",
+      "front": "DCCS 如何支持不同发展解释？",
+      "back": "一种解释是新的灵活性出现；另一种是儿童已知道规则，但记忆、抑制和规则切换还不能很好协调。",
+      "cardBack": "一种解释是新的灵活性出现；另一种是儿童已知道规则，但记忆、抑制和规则切换还不能很好协调。"
+    },
+    {
+      "id": "L5-C06",
+      "title": "普遍过程与文化化内容",
+      "english": "Universal and culturally mediated development",
+      "oneLine": "各地儿童都可能玩游戏，但玩的内容会受文化影响。",
+      "analogy": "各地都做饭，但菜单和用餐习惯不同。",
+      "simpleExample": "自拟例：孩子都玩假装游戏，却可能更常玩魔法故事或照顾家庭。",
+      "explanation": "某个过程普遍存在，不表示每个地方的表现都相同。Haight 等旧研究中，两个样本在幻想游戏和现实家庭游戏的比例上有所不同，说明文化可能影响内容。不能用这一研究推断所有东西方儿童都怎样玩。",
+      "example": "自拟例：孩子都玩假装游戏，却可能更常玩魔法故事或照顾家庭。",
+      "pitfall": "普遍存在不等于表现相同；单项文化研究也不能变成国籍定律。",
+      "source": "L5 · Universal vs culturally mediated development · [B0059–B0062]",
+      "front": "“游戏普遍”与“游戏内容受文化影响”是否矛盾？",
+      "back": "不矛盾。共同的游戏过程，可以有不同内容、时间安排、伙伴和意义。",
+      "cardBack": "不矛盾。共同的游戏过程，可以有不同内容、时间安排、伙伴和意义。"
+    },
+    {
+      "id": "L5-C07",
+      "title": "横断设计与世代效应",
+      "english": "Cross-sectional design and cohort effects",
+      "oneLine": "横断设计比较不同年龄的人，但年龄差异可能混着世代差异。",
+      "analogy": "今天同时比较新旧款电脑，不能只把差异归因于使用年限。",
+      "simpleExample": "自拟例：比较二十岁和七十岁人群操作手机的速度，科技接触史可能解释一部分差异。",
+      "explanation": "横断设计在同一时间测不同年龄或出生群，较快、较便宜。它没有观察同一个人如何改变，因此年龄差异可能也来自成长年代不同。课堂虚构的偏见图只是方法示意，不能当成真实研究数据。",
+      "example": "自拟例：比较二十岁和七十岁人群操作手机的速度，科技接触史可能解释一部分差异。",
+      "pitfall": "年龄组有差异，不表示差异一定由老化造成。",
+      "source": "L5 · Research methods：年龄差异不自动等于发展原因 · [B0064–B0071]",
+      "front": "Cross-sectional 的优点和主要局限是什么？",
+      "back": "优点是较快、能同时比较多个年龄组。局限是可能混有世代差异，也不能直接看见个人变化或证明年龄造成变化。",
+      "cardBack": "优点是较快、能同时比较多个年龄组。局限是可能混有世代差异，也不能直接看见个人变化或证明年龄造成变化。"
+    },
+    {
+      "id": "L5-C08",
+      "title": "纵向设计及其边界",
+      "english": "Longitudinal design",
+      "oneLine": "纵向设计能跟踪同一批人的变化，但流失、练习和时代也会影响结果。",
+      "analogy": "连续拍同一人的照片看变化，比比较两个人更贴近轨迹。",
+      "simpleExample": "自拟例：每年测同一批儿童记忆，可观察个体提升，却需检查离开研究者是谁。",
+      "explanation": "纵向设计在不同时间反复测同一批参与者，因此能观察个人的变化。它较费钱费时，还可能受样本流失和重复测试练习效应影响；同一出生群也共享历史环境。知道变化先后，不等于已经证明原因。",
+      "example": "自拟例：每年测同一批儿童记忆，可观察个体提升，却需检查离开研究者是谁。",
+      "pitfall": "同一人的变化，也可能受练习、时代或未控制的环境影响。",
+      "source": "L5 · Research methods：年龄差异不自动等于发展原因 · [B0064–B0075]",
+      "front": "Longitudinal 为什么不自动证明发展原因？",
+      "back": "长期追踪仍可能受选择性退出、重复练习、共同历史和未控制因素影响，因此不能自动证明变化原因。",
+      "cardBack": "长期追踪仍可能受选择性退出、重复练习、共同历史和未控制因素影响，因此不能自动证明变化原因。"
+    },
+    {
+      "id": "L5-C09",
+      "title": "序列设计区分年龄与世代",
+      "english": "Sequential design",
+      "oneLine": "序列设计追踪多个出生群，更有助于分清年龄、世代和时代影响。",
+      "analogy": "让不同出生年份的几组人都反复接受测量，既能看各组变化，也能比较世代差异。",
+      "simpleExample": "自拟例：追踪不同出生年的儿童到相同年龄，有助检查世代差异。",
+      "explanation": "序列设计把多个出生群的比较，与各群的长期追踪结合起来。这样更有助于区分年龄、世代以及时代或历史的影响。但它更复杂、昂贵、耗时，也不能完美排除所有其他原因。",
+      "example": "自拟例：追踪不同出生年的儿童到相同年龄，有助检查世代差异。",
+      "pitfall": "序列设计不是同一批人只测一次，而是多个出生群各自反复测量。",
+      "source": "L5 · Research methods：年龄差异不自动等于发展原因 · [B0064–B0068]",
+      "front": "Sequential 与单一纵向设计区别是什么？",
+      "back": "序列设计同时追踪多个出生群；单一纵向设计只追踪一批人。",
+      "cardBack": "序列设计同时追踪多个出生群；单一纵向设计只追踪一批人。"
+    },
+    {
+      "id": "L5-C10",
+      "title": "研究设计不等于测量工具",
+      "english": "Developmental data-collection methods",
+      "oneLine": "测量工具决定怎么收集资料，研究设计决定测谁、何时测。",
+      "analogy": "镜头类型与电影拍摄时间安排不同：测量工具不等于研究设计。",
+      "simpleExample": "自拟例：眼动显示注意去了哪里，不能单独证明儿童理解了完整概念。",
+      "explanation": "结构观察按预定规则记录，非结构观察较开放；自然场景中也能做结构观察。问卷受语言和报告偏差影响，个案适合罕见现象但难排除其他原因，档案研究受现有资料限制。生理或间接指标不能自动证明隐性心理过程，方法还要适合儿童的能力。",
+      "example": "自拟例：眼动显示注意去了哪里，不能单独证明儿童理解了完整概念。",
+      "pitfall": "用了眼动仪，不表示研究就一定是实验。",
+      "source": "L5 · 常见 data-collection methods · [B0072–B0075]",
+      "front": "Design 与 measurement 如何区分？",
+      "back": "设计安排测谁、何时测；测量工具决定怎样取得资料。用了某个工具，不能替代对设计的判断。",
+      "cardBack": "设计安排测谁、何时测；测量工具决定怎样取得资料。用了某个工具，不能替代对设计的判断。"
+    },
+    {
+      "id": "L5-C11",
+      "title": "图式、同化、顺应和平衡",
+      "english": "Schema adaptation",
+      "oneLine": "同化用旧图式理解新经验；顺应改变图式；平衡化协调两者。",
+      "analogy": "文件夹能把新文件放进去，也可能需要重建分类。",
+      "simpleExample": "自拟例：把海豚叫鱼是同化；知道它哺乳后建立海洋哺乳类是顺应。",
+      "explanation": "图式是组织经验、帮助预测的知识结构。同化用原有图式吸收新经验，顺应则修改或新建图式。新经验与旧理解不合时会出现不平衡；平衡化通过同化与顺应协调它们，形成暂时较稳定的理解。儿童在这个过程中主动建构知识。",
+      "example": "自拟例：把海豚叫鱼是同化；知道它哺乳后建立海洋哺乳类是顺应。",
+      "pitfall": "同化没有强调改变图式；改变或新建图式是顺应的重点。",
+      "source": "L5 · Piaget：儿童主动建构知识 · [B0077–B0082]",
+      "front": "Assimilation 与 accommodation 差在哪里？",
+      "back": "同化用旧图式理解经验，顺应修改或新建图式。平衡化协调两者，使理解暂时恢复稳定。",
+      "cardBack": "同化用旧图式理解经验，顺应修改或新建图式。平衡化协调两者，使理解暂时恢复稳定。"
+    },
+    {
+      "id": "L5-C12",
+      "title": "Piaget 阶段理论的主张",
+      "english": "Piaget’s stage claims",
+      "oneLine": "Piaget 强调阶段顺序与推理质变，但年龄只是大致范围。",
+      "analogy": "楼层顺序与到每层的时间不同，不能只凭生日判定站在哪层。",
+      "simpleExample": "自拟例：两位同龄儿童可能因任务与经验不同表现出不同推理策略。",
+      "explanation": "Piaget 认为推理方式会发生质变，儿童的错误能显示其理解方式，阶段顺序不变且较广泛适用。四阶段为感知运动、前运算、具体运算、形式运算，约对应 0–2、2–7、7–11/12、11/12 岁以后。后续研究发现，领域、任务和文化会影响表现，所以年龄不是固定时间表。",
+      "example": "自拟例：两位同龄儿童可能因任务与经验不同表现出不同推理策略。",
+      "pitfall": "满十二岁，不表示已经稳定掌握所有抽象推理。",
+      "source": "L5 · Piaget stage theory 的四个主张 · [B0084–B0093]",
+      "front": "Piaget 的阶段理论强调什么？年龄该怎样理解？",
+      "back": "理论强调推理方式的质变和阶段顺序。年龄只能大致参考，具体表现还受任务、领域与文化影响。",
+      "cardBack": "理论强调推理方式的质变和阶段顺序。年龄只能大致参考，具体表现还受任务、领域与文化影响。"
+    },
+    {
+      "id": "L5-C13",
+      "title": "感知运动期的六个子阶段",
+      "english": "Sensorimotor substages",
+      "oneLine": "感知运动期逐渐从反射和重复，走向有目的的探索与心理表征。",
+      "analogy": "从按按钮偶然出声，到主动试各种按钮，最后先在心里想步骤。",
+      "simpleExample": "自拟例：婴儿先偶然拍响玩具再重复，后来改变拍法探索不同声响。",
+      "explanation": "约 0–2 岁，儿童主要通过感觉和行动理解世界。子阶段依次为反射、初级循环反应、次级循环反应、图式协调、三级循环反应和心理表征。初级重复自己的身体动作，次级重复影响外物的动作，三级主动改变方法试不同结果；年龄都只是大致范围。",
+      "example": "自拟例：婴儿先偶然拍响玩具再重复，后来改变拍法探索不同声响。",
+      "pitfall": "开始理解物体永久性，不表示记忆和动作控制已全部成熟。",
+      "source": "L5 · Sensorimotor stage (0-2 years)：六个 substages · [B0095–B0096]",
+      "front": "Primary、secondary、tertiary circular reactions 如何区分？",
+      "back": "初级：重复自己的身体动作。次级：重复对外物产生效果的动作。三级：改变方法，主动试不同结果。",
+      "cardBack": "初级：重复自己的身体动作。次级：重复对外物产生效果的动作。三级：改变方法，主动试不同结果。"
+    },
+    {
+      "id": "L5-C14",
+      "title": "A-not-B 错误不是单一物体知识",
+      "english": "A-not-B error",
+      "oneLine": "看见玩具藏到 B 仍去找 A，不一定是不知道玩具还存在。",
+      "analogy": "知道新地址，却还是习惯走向旧地址：知道在哪里，和成功执行动作，不一定同步。",
+      "simpleExample": "自拟例：玩具多次在左边找到，改藏右边后婴儿仍伸手左边。",
+      "explanation": "任务先让婴儿多次在 A 找到玩具，再让他看见玩具改藏 B；婴儿却仍可能去 A 找。这可能反映位置记忆和控制不够稳定，但不能只解释为没有物体永久性。工作记忆、注意、抑制旧动作和先前行动经历，也会影响结果。",
+      "example": "自拟例：玩具多次在左边找到，改藏右边后婴儿仍伸手左边。",
+      "pitfall": "A-not-B 错误不能直接证明儿童完全没有物体永久性。",
+      "source": "L5 · A-not-B error · [B0098–B0100]",
+      "front": "A-not-B 为什么不能只解释为缺乏物体永久性？",
+      "back": "婴儿可能知道玩具还在，却记不稳新位置，或难以抑制去旧位置的动作。注意和任务要求也会影响表现。",
+      "cardBack": "婴儿可能知道玩具还在，却记不稳新位置，或难以抑制去旧位置的动作。注意和任务要求也会影响表现。"
+    },
+    {
+      "id": "L5-C15",
+      "title": "前运算期与画画表征",
+      "english": "Preoperational thought and drawing",
+      "oneLine": "象征能力发展较快，不表示逻辑、绘画和视角能力同时成熟。",
+      "analogy": "能画地图不等于已会按每个方向准确读地图。",
+      "simpleExample": "自拟例：儿童画透明的房屋，把知道里面有的物品画出，未必按当前视角画。",
+      "explanation": "约 2–7 岁，语言、象征与假装游戏迅速发展，但不同能力不一定同步。绘画可从偶然相像、失败写实、知识写实发展到视觉写实，部分年龄跨到具体运算期。绘画是另一条表征发展序列，不能逐项套进 Piaget 四阶段。",
+      "example": "自拟例：儿童画透明的房屋，把知道里面有的物品画出，未必按当前视角画。",
+      "pitfall": "知识写实不是没有知识，而可能是把“知道有的”画出来。",
+      "source": "L5 · Preoperational stage (2-7 years) · [B0101–B0105]",
+      "front": "绘画发展为何不能逐项套到 Piaget 四阶段？",
+      "back": "绘画有自己的表征发展序列，部分年龄跨越认知阶段，各项能力也不一定同步，所以不能一一对应。",
+      "cardBack": "绘画有自己的表征发展序列，部分年龄跨越认知阶段，各项能力也不一定同步，所以不能一一对应。"
+    },
+    {
+      "id": "L5-C16",
+      "title": "自我中心不是自私",
+      "english": "Egocentrism",
+      "oneLine": "Egocentrism 指难以换到别人的视角，不是故意自私。",
+      "analogy": "用自己座位拍到的景物代表所有座位视角，会漏掉位置差异。",
+      "simpleExample": "自拟例：儿童认为坐对面的玩偶也看到自己眼前同样的山景。",
+      "explanation": "三山任务让儿童选出玩偶在另一位置看到的景象。这里的自我中心指难以转换感知或心理视角，不是道德上的自私。语言和记忆要求也会影响任务表现，不能据此说儿童故意不顾别人。",
+      "example": "自拟例：儿童认为坐对面的玩偶也看到自己眼前同样的山景。",
+      "pitfall": "Egocentrism 不等于 selfishness。",
+      "source": "L5 · Egocentrism, centration and conservation · [B0106–B0115]",
+      "front": "Three Mountains Task 主要考察哪类困难？",
+      "back": "主要考察能否采用另一个位置或另一个人的视角，不是考察是否自私。",
+      "cardBack": "主要考察能否采用另一个位置或另一个人的视角，不是考察是否自私。"
+    },
+    {
+      "id": "L5-C17",
+      "title": "中心化与守恒",
+      "english": "Centration and conservation",
+      "oneLine": "只注意杯子高度，可能把外观变化误当成水量变化。",
+      "analogy": "看书脊高度而忘了宽度，会误判哪本装得更多。",
+      "simpleExample": "自拟例：同样奶茶倒入高细杯后说更多，可能只关注高度。",
+      "explanation": "中心化是只注意一个显眼维度，忽略其他信息。守恒是理解形状、间距或外观改变，不一定使数量改变；同时考虑多个维度和可逆变化有助于理解。儿童即使看完整个倒水过程，也可能因只看高度而判断错误。",
+      "example": "自拟例：同样奶茶倒入高细杯后说更多，可能只关注高度。",
+      "pitfall": "问题不一定是没看见倒水，也不同于采用他人视角的困难。",
+      "source": "L5 · Egocentrism, centration and conservation · [B0106–B0111]",
+      "front": "只关注一个维度，为什么会让守恒判断失败？",
+      "back": "儿童只看高度或间距，忽略宽度及可以倒回去的变化，就容易误以为数量变了。",
+      "cardBack": "儿童只看高度或间距，忽略宽度及可以倒回去的变化，就容易误以为数量变了。"
+    },
+    {
+      "id": "L5-C18",
+      "title": "具体运算与形式运算",
+      "english": "Concrete versus formal operations",
+      "oneLine": "具体运算依靠具体支持推理；形式运算能用抽象假设和系统检验。",
+      "analogy": "摆积木解题与先设计变量表做实验，是不同推理支持方式。",
+      "simpleExample": "自拟例：摆分数圆片比较量属具体支持；钟摆实验一次只改变绳长体现系统控制。",
+      "explanation": "约 7–11/12 岁，具体运算逐渐发展守恒、同时考虑多个维度和可逆性。形式运算能处理抽象假设，并一次改变一个变量来检验解释。但成人在陌生或负担较重的任务中也可能失败，年龄不能保证始终使用同一策略。",
+      "example": "自拟例：摆分数圆片比较量属具体支持；钟摆实验一次只改变绳长体现系统控制。",
+      "pitfall": "形式运算不表示每个成人永远理性，也不表示从不试错。",
+      "source": "L5 · Concrete vs formal operational reasoning · [B0110–B0113]",
+      "front": "钟摆任务如何区分较具体与形式运算策略？",
+      "back": "区别在于是否系统检验：随意试错，或先列出变量，再一次只改一个并比较结果。",
+      "cardBack": "区别在于是否系统检验：随意试错，或先列出变量，再一次只改一个并比较结果。"
+    },
+    {
+      "id": "L5-C19",
+      "title": "Piaget 的贡献与局限",
+      "english": "Piaget’s legacy",
+      "oneLine": "Piaget 重视儿童主动学习，但经典任务可能低估他们懂多少。",
+      "analogy": "孩子测试世界像小科学家，但测验也可能把语言门槛误当能力门槛。",
+      "simpleExample": "自拟例：婴儿懂某些物体规律，却因伸手控制不足未通过动作任务。",
+      "explanation": "Piaget 强调儿童主动建构知识，错误能显示推理方式，象征表征也很重要。不过，早期能力可能被低估，不同能力未必按整齐阶段同步发展，教学和文化的作用也可能被低估。任务中的语言、记忆、抑制和动作要求，会影响儿童能否表现出理解。",
+      "example": "自拟例：婴儿懂某些物体规律，却因伸手控制不足未通过动作任务。",
+      "pitfall": "不能把每次失败都当成能力未出现，也不能因此说理论毫无价值。",
+      "source": "L5 · Piaget's legacy · [B0114–B0115]",
+      "front": "Piaget 有何贡献？经典任务为何可能低估能力？",
+      "back": "贡献是强调主动建构，以及从错误理解儿童的推理。局限是语言、记忆、抑制和动作要求可能让任务低估能力。",
+      "cardBack": "贡献是强调主动建构，以及从错误理解儿童的推理。局限是语言、记忆、抑制和动作要求可能让任务低估能力。"
+    },
+    {
+      "id": "L5-C20",
+      "title": "从人际到个体内部",
+      "english": "Intermental to intramental development",
+      "oneLine": "互动中的语言和文化工具，可以逐渐变成自己的思考与调节方式。",
+      "analogy": "先跟教练走路线，后来能在心里用同一路线指导自己。",
+      "simpleExample": "自拟例：家长先说做题步骤，孩子后来用这些步骤自主计划。",
+      "explanation": "Vygotsky 也认为儿童是主动学习者，但更重视人与人互动、语言和文化工具。Intermental 指人与人之间的过程，intramental 指内化到个人内部的过程。Intersubjectivity 是双方有足够共同理解，不要求所有想法完全相同。",
+      "example": "自拟例：家长先说做题步骤，孩子后来用这些步骤自主计划。",
+      "pitfall": "重视社会支持，不表示儿童只是被动接受，也不表示不能独立探索。",
+      "source": "L5 · Vygotsky：知识先存在于人与人之间 · [B0118–B0126]",
+      "front": "互动中的知识，怎样成为个人内部的能力？",
+      "back": "儿童在互动中使用语言和工具，再把它们内化为自己的知识与自我调节方式。",
+      "cardBack": "儿童在互动中使用语言和工具，再把它们内化为自己的知识与自我调节方式。"
+    },
+    {
+      "id": "L5-C21",
+      "title": "最近发展区的边界",
+      "english": "Zone of proximal development (ZPD)",
+      "oneLine": "ZPD 是独自做不到，但有适当帮助就能完成的范围。",
+      "analogy": "练琴中有人提示便能弹的曲子，不包括提示后仍远不能弹的曲子。",
+      "simpleExample": "自拟例：学生独自不会分数题，提示和圆片支持后能完成，题目在 ZPD 内。",
+      "explanation": "最近发展区位于独立能力和适当帮助下的能力之间。已能独立完成的任务属于当前掌握；得到适当帮助仍做不到的任务，目前超出范围。边界会随任务、帮助者和互动方式改变。",
+      "example": "自拟例：学生独自不会分数题，提示和圆片支持后能完成，题目在 ZPD 内。",
+      "pitfall": "ZPD 不包括所有不会的事，也不是由年龄固定的标签。",
+      "source": "L5 · Vygotsky：知识先存在于人与人之间 · [B0122–B0126]",
+      "front": "哪些任务不属于 ZPD？",
+      "back": "两类不属于：已经能独立完成的，以及有适当帮助仍完成不了的任务。",
+      "cardBack": "两类不属于：已经能独立完成的，以及有适当帮助仍完成不了的任务。"
+    },
+    {
+      "id": "L5-C22",
+      "title": "支架支持应逐渐撤除",
+      "english": "Scaffolding",
+      "oneLine": "支架按需要暂时帮助，能力提高后逐步撤掉，不是替学生做。",
+      "analogy": "修楼脚手架支持建造，楼能站稳后就拆除。",
+      "simpleExample": "自拟例：老师先提供分数圆片和提问，学生熟练后撤去提示与圆片。",
+      "explanation": "支架用提示、示范、拆分步骤和提问，帮助学生完成 ZPD 内的学习，再随能力增长逐步减少支持。这个术语后来由 Wood、Bruner、Ross 推广，与 Vygotsky 的思路一致。一直给过多帮助，或直接替学生完成，不符合按需、暂时支持的要求。",
+      "example": "自拟例：老师先提供分数圆片和提问，学生熟练后撤去提示与圆片。",
+      "pitfall": "支架不是 Vygotsky 本人最初提出的术语。",
+      "source": "L5 · Vygotsky：知识先存在于人与人之间 · [B0123–B0126]",
+      "front": "Scaffolding 的三个关键特征是什么？",
+      "back": "暂时提供、按需要调整、逐步撤除。目的是帮助学习者掌握，不是永久替他完成。",
+      "cardBack": "暂时提供、按需要调整、逐步撤除。目的是帮助学习者掌握，不是永久替他完成。"
+    },
+    {
+      "id": "L5-C23",
+      "title": "文化工具与类比解题",
+      "english": "Culture as cognitive tools: Chen et al.",
+      "oneLine": "熟悉的文化故事可能提供解题线索，不表示某个国籍更聪明。",
+      "analogy": "同一道题，有人想起熟悉故事中的办法，就更容易找到类比线索。",
+      "simpleExample": "自拟例：两个数学能力相近的人，听过相关民间故事者更快想到类比解法。",
+      "explanation": "Chen 等研究中，美国样本在 Hansel/Gretel 题的解决率较高，中国样本在称象故事题中较高；中性题总体没有显著模式差。优势随熟悉故事而改变，支持故事知识帮助调用类比图式的解释。课件没有提供 N，不能补写样本量。",
+      "example": "自拟例：两个数学能力相近的人，听过相关民间故事者更快想到类比解法。",
+      "pitfall": "文化故事上的优势，不能当成总体智力高低的比较。",
+      "source": "L5 · Culture provides cognitive tools · [B0127–B0132]",
+      "front": "Chen 等结果支持文化如何影响推理？",
+      "back": "熟悉故事让人更容易找到可用的类比图式。不同题上的优势方向相反，不支持一种国籍整体更聪明。",
+      "cardBack": "熟悉故事让人更容易找到可用的类比图式。不同题上的优势方向相反，不支持一种国籍整体更聪明。"
+    },
+    {
+      "id": "L5-C24",
+      "title": "私语与内部言语",
+      "english": "Private speech and inner speech",
+      "oneLine": "他人的口头指导，可逐步变成自己出声指导，再变成内部言语。",
+      "analogy": "先开着导航语音，再自己念路线，熟悉后在心里导航。",
+      "simpleExample": "自拟例：孩子先跟成人系鞋步骤，再边系边念，后来不说也能完成。",
+      "explanation": "语言能支持计划、注意与自我调节。发展路径是他人指导、出声自我指导，再到内部言语。课堂研究中，私语与规划成绩正相关；另有实验发现，抑制私语会降低部分任务表现。两者分别提供关联和干预证据，不能混为一谈。",
+      "example": "自拟例：孩子先跟成人系鞋步骤，再边系边念，后来不说也能完成。",
+      "pitfall": "正相关不表示任何私语都会提高所有成绩；私语也不一定是无意义的自言自语。",
+      "source": "L5 · Language and private speech · [B0133–B0139]",
+      "front": "Private speech 的发展路径与功能是什么？",
+      "back": "他人指导→出声自我指导→内部言语。它可帮助计划、注意、解决问题和自我调节。",
+      "cardBack": "他人指导→出声自我指导→内部言语。它可帮助计划、注意、解决问题和自我调节。"
+    },
+    {
+      "id": "L5-C25",
+      "title": "Vygotsky 的解释边界",
+      "english": "Vygotsky’s limitations",
+      "oneLine": "Vygotsky 解释了社会支持，但较少解释成熟和无指导时的独立发现。",
+      "analogy": "合作与工具能解释部分学习，但还需要解释身体成熟和自己探索时怎样学会。",
+      "simpleExample": "自拟例：同样指导下，两儿童因成熟与经验不同表现不同，仍需解释差异。",
+      "explanation": "ZPD 难以精确测量，也会随互动条件改变。理论对遗传成熟和无指导时的独立发现解释相对少，但不等于否认儿童能自学。更完整的解释还要同时考虑生物、经验及支持条件。",
+      "example": "自拟例：同样指导下，两儿童因成熟与经验不同表现不同，仍需解释差异。",
+      "pitfall": "不能把解释较少，改写成“没有老师就完全不能学习”。",
+      "source": "L5 · Vygotsky's limitations · [B0140–B0143]",
+      "front": "Vygotsky 的本讲三类局限是什么？",
+      "back": "ZPD 难精确测量；对生物成熟的解释较少；对无指导时的独立发现解释有限。",
+      "cardBack": "ZPD 难精确测量；对生物成熟的解释较少；对无指导时的独立发现解释有限。"
+    },
+    {
+      "id": "L5-C26",
+      "title": "探索与有支持的探索",
+      "english": "Piaget and Vygotsky in education",
+      "oneLine": "两者都认为儿童主动学习，但更重视的学习支持不同。",
+      "analogy": "自己拼积木与同伴提示下拼积木，都需要学习者主动操作。",
+      "simpleExample": "自拟例：用分数圆片自己探索，较符合 Piaget 思路；Jigsaw 中互教互学，较符合 Vygotsky 思路。",
+      "explanation": "Piaget 较重视图式重组、准备度和动手探索；Vygotsky 较重视有知识他人的帮助、对话、文化工具和 ZPD。Jigsaw 先研究分题、进专家组，再回原组互教，让每个人轮流提供知识。Montessori 不是 Piaget 创造的，这里只是与其理论相容的例子。",
+      "example": "自拟例：用分数圆片自己探索，较符合 Piaget 思路；Jigsaw 中互教互学，较符合 Vygotsky 思路。",
+      "pitfall": "区别不是主动与被动，也不能把相容的教育方法都说成由两位理论家发明。",
+      "source": "L5 · Educational applications：探索世界，或在支持下探索 · [B0144–B0153]",
+      "front": "教育中的关键比较是什么？",
+      "back": "Piaget 较强调准备度、探索和图式重组；Vygotsky 较强调 ZPD、对话和逐步撤除的支持。两者都重视主动学习。",
+      "cardBack": "Piaget 较强调准备度、探索和图式重组；Vygotsky 较强调 ZPD、对话和逐步撤除的支持。两者都重视主动学习。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "L5-Q01",
+      "conceptId": "L5-C01",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "发展心理学的范围最准确是什么？",
+      "stemEn": "What most accurately describes the scope of developmental psychology?",
+      "options": [
+        "只记录儿童身高",
+        "只有成年后人格变化",
+        "儿童阶段结束后不再发生发展",
+        "一生中多领域变化的形式、时间、机制和情境"
+      ],
+      "optionsEn": [
+        "Only recording children’s height",
+        "Only adult personality change",
+        "Development stops when childhood ends",
+        "The form, timing, mechanisms and contexts of multidomain change across the lifespan"
+      ],
+      "answer": 3,
+      "explanation": "发展心理学看的是一生中多个领域怎样变化，而不只记录儿童某一种能力。它也研究变化的时间、原因和环境。",
+      "optionExplanations": [
+        "身高只是身体发展的一部分，不是全部范围。",
+        "成人的人格变化属于范围，但还包括其他年龄和领域。",
+        "成年后仍会发生发展，不能把儿童期当终点。",
+        "发展心理学看的是一生中多个领域怎样变化，而不只记录儿童某一种能力。它也研究变化的时间、原因和环境。"
+      ],
+      "source": "L5 · 定义、范围与目标 · [B0020–B0024]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q02",
+      "conceptId": "L5-C02",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "如何最合理使用 Freud、Adler 和 Jung 的本讲内容？",
+      "stemEn": "How should the lecture’s material on Freud, Adler and Jung be used?",
+      "options": [
+        "把 implicit processing 完全等同 Freud 无意识",
+        "认定所有发展都只发生在童年",
+        "了解历史贡献，同时不把旧构念自动当现代强证据",
+        "认为 MBTI 因出现于历史回顾就已经证明"
+      ],
+      "optionsEn": [
+        "Equate implicit processing entirely with Freud’s unconscious",
+        "Assume all development occurs only in childhood",
+        "Recognise historical contributions without automatically treating old constructs as strongly established modern findings",
+        "Treat MBTI as proven because it appears in a historical overview"
+      ],
+      "answer": 2,
+      "explanation": "这些内容用来理解理论怎样影响了学科。历史上重要，不表示理论中的每个解释都已得到现代研究证实。",
+      "optionExplanations": [
+        "现代隐性加工不等于 Freud 的精神分析无意识，也不能直接证明它。",
+        "Jung 的回顾涉及终身发展，不只童年。",
+        "这些内容用来理解理论怎样影响了学科。历史上重要，不表示理论中的每个解释都已得到现代研究证实。",
+        "历史回顾提到 MBTI，不表示已证明其有效。"
+      ],
+      "source": "L5 · Freud, Adler and Jung：记贡献，不背整套旧理论 · [B0030–B0035]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q03",
+      "conceptId": "L5-C03",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "现代 nature–nurture 观点最强调什么？",
+      "stemEn": "What does the modern nature–nurture perspective emphasise?",
+      "options": [
+        "只需选择两端之一",
+        "生物与经验动态互动，需问条件和机制",
+        "基因决定一切且不能改变",
+        "环境决定一切且成熟无作用"
+      ],
+      "optionsEn": [
+        "One must simply choose one side",
+        "Dynamic interaction between biology and experience, with attention to conditions and mechanisms",
+        "Genes determine everything and cannot be influenced",
+        "Environment determines everything and maturation has no role"
+      ],
+      "answer": 1,
+      "explanation": "生物与经验不是互相排斥的答案。更重要的是看各有多大影响，以及在什么条件下共同塑造发展。",
+      "optionExplanations": [
+        "二选一会忽略生物与环境的互动。",
+        "生物与经验不是互相排斥的答案。更重要的是看各有多大影响，以及在什么条件下共同塑造发展。",
+        "基因有影响，不表示结果完全固定或无法改变。",
+        "经验重要，不表示遗传和成熟没有作用。"
+      ],
+      "source": "L5 · Nature vs nurture · [B0040–B0044]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q04",
+      "conceptId": "L5-C04",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "Sensitive period 的定义是哪项？",
+      "stemEn": "Which definition best describes a sensitive period?",
+      "options": [
+        "输入影响较强但之后仍可能学习或补偿的时期",
+        "错过后所有能力都永久不可能学会",
+        "只存在于成年人",
+        "与经验输入完全无关"
+      ],
+      "optionsEn": [
+        "A period of stronger input effects with later learning or compensation still possible",
+        "A window after which all abilities become permanently impossible to learn",
+        "A period that exists only in adults",
+        "A period entirely unrelated to experience"
+      ],
+      "answer": 0,
+      "explanation": "敏感期内较容易受输入影响，但错过后仍可能学习或补偿。它不同于要求严格必要输入的关键期。",
+      "optionExplanations": [
+        "敏感期内较容易受输入影响，但错过后仍可能学习或补偿。它不同于要求严格必要输入的关键期。",
+        "“所有能力永远学不会”过于绝对，也不是敏感期定义。",
+        "儿童也可能有敏感学习时期，并非只在成年存在。",
+        "敏感期正是讨论经验输入的影响如何随时期改变。"
+      ],
+      "source": "L5 · Critical vs sensitive periods · [B0045–B0050]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q05",
+      "conceptId": "L5-C05",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "DCCS 中三岁儿童按旧规则分类，哪种推论超出了任务表现所支持的范围？",
+      "stemEn": "In DCCS, three-year-olds persist with the old sorting rule. Which inference goes beyond what this task performance supports?",
+      "options": [
+        "旧规则抑制可能困难",
+        "工作记忆和执行负荷可能参与",
+        "任务表现有多种发展解释",
+        "儿童完全不懂新规则"
+      ],
+      "optionsEn": [
+        "Inhibiting the old rule may be difficult",
+        "Working-memory and execution demands may contribute",
+        "Task performance permits several developmental interpretations",
+        "That the children have no understanding of the new rule"
+      ],
+      "answer": 3,
+      "explanation": "儿童可能知道新规则，却难以记住、切换或抑制旧动作。因此，做错不能直接证明他完全不懂。",
+      "optionExplanations": [
+        "难以抑制旧规则是可能的解释。",
+        "记忆与执行要求确实可能影响表现。",
+        "同一结果可以有阶段式或连续式等不同解释。",
+        "儿童可能知道新规则，却难以记住、切换或抑制旧动作。因此，做错不能直接证明他完全不懂。"
+      ],
+      "source": "L5 · Dimensional Change Card Sort (DCCS) · [B0053–B0058]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q06",
+      "conceptId": "L5-C06",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "“游戏广泛存在，但幻想或家庭脚本比例不同”说明什么？",
+      "stemEn": "“Play is widespread, but fantasy and domestic scripts differ in frequency” illustrates what?",
+      "options": [
+        "每位东方儿童都只玩现实游戏",
+        "文化差异使所有游戏研究无意义",
+        "普遍过程与文化化表达可以共存",
+        "普遍过程要求所有内容相同"
+      ],
+      "optionsEn": [
+        "Every Eastern child plays only realistic games",
+        "Cultural variation makes all play research meaningless",
+        "Universal processes and culturally mediated expression can coexist",
+        "A universal process requires identical content"
+      ],
+      "answer": 2,
+      "explanation": "游戏可以普遍存在，同时有不同内容、伙伴与意义。文化影响具体玩法，不会自动否定共同过程。",
+      "optionExplanations": [
+        "单项旧研究的样本趋势不能代表每个东方儿童。",
+        "研究差异有助于理解文化影响，不是让研究失去意义。",
+        "游戏可以普遍存在，同时有不同内容、伙伴与意义。文化影响具体玩法，不会自动否定共同过程。",
+        "共同过程不要求所有地方的内容完全相同。"
+      ],
+      "source": "L5 · Universal vs culturally mediated development · [B0059–B0062]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q07",
+      "conceptId": "L5-C07",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "今天一次比较二十岁与七十岁人群操作手机的速度，最大解释风险是什么？",
+      "stemEn": "A one-time comparison of phone-use speed in twenty- and seventy-year-olds has which major interpretive risk?",
+      "options": [
+        "同一人跨五十年的变化已测得",
+        "年龄与成长年代及科技经验混淆",
+        "已直接看见每人的老化轨迹",
+        "自动随机分配出生年代"
+      ],
+      "optionsEn": [
+        "Within-person change over fifty years has already been measured",
+        "Age is confounded with cohort and technology experience",
+        "Each person’s ageing trajectory has been directly observed",
+        "Birth cohort has been randomly assigned"
+      ],
+      "answer": 1,
+      "explanation": "二十岁和七十岁的人不仅年龄不同，也成长在不同年代、接触不同科技。一次横断比较不能把这些影响分开。",
+      "optionExplanations": [
+        "研究没有追踪同一个人五十年。",
+        "二十岁和七十岁的人不仅年龄不同，也成长在不同年代、接触不同科技。一次横断比较不能把这些影响分开。",
+        "比较两组人，不是直接观察每个人怎样老化。",
+        "出生年代并没有被随机分配。"
+      ],
+      "source": "L5 · Research methods：年龄差异不自动等于发展原因 · [B0064–B0071]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q08",
+      "conceptId": "L5-C08",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "同一批儿童每年测量记忆十年，属于什么设计？",
+      "stemEn": "The same children are tested on memory each year for ten years. What design is this?",
+      "options": [
+        "纵向",
+        "单次横断",
+        "只有档案测量的定义",
+        "按题目难度分类"
+      ],
+      "optionsEn": [
+        "Longitudinal",
+        "A single cross-sectional design",
+        "The definition of archival measurement alone",
+        "Classification by question difficulty"
+      ],
+      "answer": 0,
+      "explanation": "关键是同一批儿童在不同时间反复测量，所以属于纵向设计；收集的是哪类资料，是另一个问题。",
+      "optionExplanations": [
+        "关键是同一批儿童在不同时间反复测量，所以属于纵向设计；收集的是哪类资料，是另一个问题。",
+        "横断设计是在同一时间比较不同群体，不是十年反复追踪。",
+        "档案说明资料来源，不等于这里的时间设计。",
+        "题目难度不能用来定义研究时间设计。"
+      ],
+      "source": "L5 · Research methods：年龄差异不自动等于发展原因 · [B0064–B0068]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q09",
+      "conceptId": "L5-C09",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "同时追踪多个出生群各自的变化，最符合什么？",
+      "stemEn": "Following multiple birth cohorts longitudinally best describes which design?",
+      "options": [
+        "单一横断设计",
+        "只一个 cohort 的定义",
+        "无任何时间测量",
+        "序列设计"
+      ],
+      "optionsEn": [
+        "A single cross-sectional design",
+        "A design defined by only one cohort",
+        "A design with no time measurement",
+        "Sequential design"
+      ],
+      "answer": 3,
+      "explanation": "研究既比较多个出生群，又长期追踪每个群体，这就是序列设计。它结合了跨群体比较与纵向追踪。",
+      "optionExplanations": [
+        "各群都有反复追踪，不是单次横断比较。",
+        "题中明确不只一个出生群。",
+        "追踪变化需要在多个时间点测量。",
+        "研究既比较多个出生群，又长期追踪每个群体，这就是序列设计。它结合了跨群体比较与纵向追踪。"
+      ],
+      "source": "L5 · Research methods：年龄差异不自动等于发展原因 · [B0064–B0068]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q10",
+      "conceptId": "L5-C10",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "一项研究用了眼动，哪项推论最应避免？",
+      "stemEn": "A study uses eye tracking. Which inference should be avoided?",
+      "options": [
+        "指标解释须结合任务要求",
+        "测量工具与研究设计不同",
+        "使用间接指标就自动证明完整隐性理解且必为实验",
+        "眼动可提供注意线索"
+      ],
+      "optionsEn": [
+        "Interpretation should consider task demands",
+        "Measurement tools and study designs differ",
+        "An indirect measure automatically proves complete implicit understanding and makes the study experimental",
+        "Eye tracking can provide clues about attention"
+      ],
+      "answer": 2,
+      "explanation": "眼动能提供注意线索，却不能单独证明儿童有完整理解。是否为实验，要看设计，而不是用了什么仪器。",
+      "optionExplanations": [
+        "任务的语言、记忆和动作要求确实要考虑。",
+        "测量工具不能代替对分组和时间安排的判断。",
+        "眼动能提供注意线索，却不能单独证明儿童有完整理解。是否为实验，要看设计，而不是用了什么仪器。",
+        "用眼动提供注意线索，是合理用途。"
+      ],
+      "source": "L5 · 常见 data-collection methods · [B0072–B0075]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q11",
+      "conceptId": "L5-C11",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "儿童第一次见海豚，按旧分类叫“鱼”，最直接是什么？",
+      "stemEn": "A child first sees a dolphin and calls it a fish using an existing category. What is most directly illustrated?",
+      "options": [
+        "最近发展区的完整定义",
+        "同化",
+        "顺应已完成",
+        "形式运算稳定掌握"
+      ],
+      "optionsEn": [
+        "The full definition of ZPD",
+        "Assimilation",
+        "Completed accommodation",
+        "Stable mastery of formal operations"
+      ],
+      "answer": 1,
+      "explanation": "儿童把新见的海豚放进原来的“鱼”类，还没修改分类，这是用旧图式理解新经验，也就是同化。",
+      "optionExplanations": [
+        "题中没有比较独立能力与帮助下的能力。",
+        "儿童把新见的海豚放进原来的“鱼”类，还没修改分类，这是用旧图式理解新经验，也就是同化。",
+        "顺应需要修改或建立图式；题中尚未改变分类。",
+        "用旧名称分类，不说明已经能做抽象假设检验。"
+      ],
+      "source": "L5 · Piaget：儿童主动建构知识 · [B0077–B0082]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q12",
+      "conceptId": "L5-C12",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "关于 Piaget 四阶段，哪项最准确？",
+      "stemEn": "Which statement about Piaget’s four stages is most accurate?",
+      "options": [
+        "理论重视质变和顺序，年龄近似且表现受任务影响",
+        "满十二岁就永远使用形式运算",
+        "阶段只表示知识数量多一点",
+        "所有能力同一天同步改变"
+      ],
+      "optionsEn": [
+        "The theory emphasises qualitative changes and sequence; ages are approximate and performance depends on tasks",
+        "Everyone always uses formal operations after turning twelve",
+        "Stages merely mean knowing a little more",
+        "All abilities change simultaneously on one day"
+      ],
+      "answer": 0,
+      "explanation": "Piaget 理论强调推理方式发生质变，也强调阶段顺序。但年龄只是大致范围，具体任务和领域会影响表现。",
+      "optionExplanations": [
+        "Piaget 理论强调推理方式发生质变，也强调阶段顺序。但年龄只是大致范围，具体任务和领域会影响表现。",
+        "年龄不保证在所有任务中稳定使用形式运算。",
+        "阶段理论不仅讲知识增加，还讲推理方式改变。",
+        "不同能力不一定在同一天同步变化。"
+      ],
+      "source": "L5 · Piaget stage theory 的四个主张 · [B0084–B0093]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q13",
+      "conceptId": "L5-C13",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "反复操作外物产生相同结果，最贴近哪种循环反应？",
+      "stemEn": "Repeatedly acting on an external object to reproduce a result most closely fits which circular reaction?",
+      "options": [
+        "初级循环反应的身体中心定义",
+        "三级反应的主动变换方法",
+        "内部言语",
+        "次级循环反应"
+      ],
+      "optionsEn": [
+        "The body-centred definition of primary circular reactions",
+        "Tertiary reactions involving deliberate variation",
+        "Inner speech",
+        "Secondary circular reactions"
+      ],
+      "answer": 3,
+      "explanation": "次级循环反应是重复影响外物的动作。这里没有改变方法试新结果，所以不是三级循环反应。",
+      "optionExplanations": [
+        "初级循环反应较围绕自己的身体动作。",
+        "三级会改变方法探索不同结果，不只是反复同样动作。",
+        "内部言语是语言内化，不是外物动作重复。",
+        "次级循环反应是重复影响外物的动作。这里没有改变方法试新结果，所以不是三级循环反应。"
+      ],
+      "source": "L5 · Sensorimotor stage (0-2 years)：六个 substages · [B0095–B0096]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q14",
+      "conceptId": "L5-C14",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "婴儿看见玩具改藏 B 却找 A，最合理解释范围是什么？",
+      "stemEn": "An infant sees a toy moved to B but searches A. Which interpretation is most reasonable?",
+      "options": [
+        "只能由视力坏解释",
+        "证明所有婴儿都在相同生日完成发展",
+        "需同时考虑物体表征、旧动作、抑制与工作记忆",
+        "一定完全不知道物体继续存在"
+      ],
+      "optionsEn": [
+        "Only poor eyesight can explain it",
+        "It proves all infants develop on an identical birthday",
+        "Consider object representation together with action history, inhibition and working memory",
+        "The infant definitely has no knowledge of continued object existence"
+      ],
+      "answer": 2,
+      "explanation": "婴儿去旧位置找，不一定是不知道玩具存在。记住新位置、抑制旧动作、保持注意等要求，也会影响结果。",
+      "optionExplanations": [
+        "不能只用视力解释，任务还涉及记忆与动作控制。",
+        "儿童的发展时间不完全相同，不能从这任务推出固定生日。",
+        "婴儿去旧位置找，不一定是不知道玩具存在。记住新位置、抑制旧动作、保持注意等要求，也会影响结果。",
+        "失败也可能来自记忆或控制困难，不能直接否认物体永久性。"
+      ],
+      "source": "L5 · A-not-B error · [B0098–B0100]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q15",
+      "conceptId": "L5-C15",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "绘画“知识写实”最准确指什么？",
+      "stemEn": "What most accurately describes intellectual realism in children’s drawings?",
+      "options": [
+        "与 Piaget 四阶段逐一同名对应",
+        "画知道对象有的内容，不一定画当前视角可见内容",
+        "只画当前角度所有可见线条",
+        "证明没有象征能力"
+      ],
+      "optionsEn": [
+        "A one-to-one naming match with Piaget’s four stages",
+        "Drawing what is known about an object, not necessarily what is visible from the current viewpoint",
+        "Drawing only every visible line from the current angle",
+        "Proof of no symbolic ability"
+      ],
+      "answer": 1,
+      "explanation": "知识写实会把“我知道它有的东西”画出来，即使当前角度看不见。它不等于按眼前所见的透视来画。",
+      "optionExplanations": [
+        "绘画有自己的发展序列，不能逐项对应 Piaget 四阶段。",
+        "知识写实会把“我知道它有的东西”画出来，即使当前角度看不见。它不等于按眼前所见的透视来画。",
+        "只按当前所见来画，更贴近视觉写实。",
+        "把知道的内容画出来，恰恰需要表征能力。"
+      ],
+      "source": "L5 · Preoperational stage (2-7 years) · [B0101–B0105]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q16",
+      "conceptId": "L5-C16",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "Three Mountains Task 中的 egocentrism 主要指什么？",
+      "stemEn": "What does egocentrism primarily mean in the Three Mountains Task?",
+      "options": [
+        "难采用另一个位置的视角",
+        "故意自私伤害他人",
+        "只看杯子高度",
+        "因奖励不足而改变任务评价"
+      ],
+      "optionsEn": [
+        "Difficulty adopting the perspective from another position",
+        "Deliberate selfishness that harms others",
+        "Focusing only on cup height",
+        "Changing task evaluation because reward is insufficient"
+      ],
+      "answer": 0,
+      "explanation": "儿童难以选出玩偶在另一位置看到的景象，显示的是视角转换困难，不是故意自私。",
+      "optionExplanations": [
+        "儿童难以选出玩偶在另一位置看到的景象，显示的是视角转换困难，不是故意自私。",
+        "任务不测故意伤害或道德上的自私。",
+        "只注意杯子高度是中心化，不是换到他人视角。",
+        "题中没有奖励和反态度行为，不能用认知失调解释。"
+      ],
+      "source": "L5 · Egocentrism, centration and conservation · [B0106–B0109]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q17",
+      "conceptId": "L5-C17",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "同一水量倒入高细杯后被说“更多”，主要体现什么？",
+      "stemEn": "The same amount of water is poured into a tall narrow glass and judged to be more. What is primarily illustrated?",
+      "options": [
+        "采用他人视角已成功",
+        "水量实际必定增加",
+        "不足外部理由",
+        "中心化造成守恒失败"
+      ],
+      "optionsEn": [
+        "Successful adoption of another perspective",
+        "A necessary real increase in water quantity",
+        "Insufficient external justification",
+        "Centration contributing to a conservation failure"
+      ],
+      "answer": 3,
+      "explanation": "儿童只抓住高度，忽略杯子宽度和倒水前后的关系，才把同样的水量判断为更多。这是中心化导致守恒失败。",
+      "optionExplanations": [
+        "题目比较数量，不是在判断另一个人的视角。",
+        "水量没有增加，只是容器改变了外观。",
+        "题中没有反态度行为或外部报酬。",
+        "儿童只抓住高度，忽略杯子宽度和倒水前后的关系，才把同样的水量判断为更多。这是中心化导致守恒失败。"
+      ],
+      "source": "L5 · Egocentrism, centration and conservation · [B0106–B0109]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q18",
+      "conceptId": "L5-C18",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "钟摆实验先列绳长、重量，再一次只改一个变量，最符合什么？",
+      "stemEn": "In a pendulum task, a learner lists string length and weight and varies one factor at a time. What best fits?",
+      "options": [
+        "前运算中心化的定义",
+        "单纯反射",
+        "形式运算的系统假设检验",
+        "仅无计划地同时试多变量"
+      ],
+      "optionsEn": [
+        "The definition of preoperational centration",
+        "A simple reflex",
+        "Systematic hypothesis testing characteristic of formal operations",
+        "Unplanned simultaneous changes to many factors"
+      ],
+      "answer": 2,
+      "explanation": "先列出可能原因，再一次只改一个变量，能系统检验哪种解释成立。这是形式运算的典型策略。",
+      "optionExplanations": [
+        "中心化是忽略其他维度，不是主动控制变量做检验。",
+        "列变量、规划比较不是单纯反射。",
+        "先列出可能原因，再一次只改一个变量，能系统检验哪种解释成立。这是形式运算的典型策略。",
+        "题中一次只改一个变量，不是无计划地同时改变多个变量。"
+      ],
+      "source": "L5 · Concrete vs formal operational reasoning · [B0110–B0113]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q19",
+      "conceptId": "L5-C19",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "哪项兼顾 Piaget 的贡献与局限？",
+      "stemEn": "Which statement balances Piaget’s contribution and limitations?",
+      "options": [
+        "说明社会教学绝不重要",
+        "强调主动建构，但语言与动作负荷可能使任务低估能力",
+        "只把儿童看成被动接受者",
+        "证明年龄决定所有任务表现"
+      ],
+      "optionsEn": [
+        "It shows social teaching is never important",
+        "It emphasises active construction, but language and motor demands may lead tasks to underestimate ability",
+        "It views children only as passive recipients",
+        "It proves age determines every task response"
+      ],
+      "answer": 1,
+      "explanation": "Piaget 的贡献是重视主动建构；但任务中的语言、记忆、动作要求和文化背景，会影响儿童能表现出多少理解。",
+      "optionExplanations": [
+        "理论可能低估社会教学，不表示社会教学完全不起作用。",
+        "Piaget 的贡献是重视主动建构；但任务中的语言、记忆、动作要求和文化背景，会影响儿童能表现出多少理解。",
+        "儿童主动学习，是理论的重要主张。",
+        "任务和领域也会影响表现，不是只由年龄决定。"
+      ],
+      "source": "L5 · Piaget's legacy · [B0114–B0115]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q20",
+      "conceptId": "L5-C20",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "Intermental→intramental 最直接描述什么？",
+      "stemEn": "What does intermental to intramental development most directly describe?",
+      "options": [
+        "互动中的知识和工具内化为个体自我调节",
+        "个体知识必定消失于群体",
+        "基因完全决定所有工具",
+        "只有被动抄答案才学习"
+      ],
+      "optionsEn": [
+        "Knowledge and tools from interaction become internalised for individual self-regulation",
+        "Individual knowledge necessarily disappears into the group",
+        "Genes completely determine every tool",
+        "Learning occurs only through passively copying answers"
+      ],
+      "answer": 0,
+      "explanation": "儿童先在互动中使用他人的语言和工具，再逐渐把它们变成自己的思考与自我调节方式。",
+      "optionExplanations": [
+        "儿童先在互动中使用他人的语言和工具，再逐渐把它们变成自己的思考与自我调节方式。",
+        "内化是形成自己的能力，不是让个体知识消失。",
+        "模型重视社会文化工具与互动，不能只归因基因。",
+        "儿童仍是主动学习者，不是只有抄答案才能学习。"
+      ],
+      "source": "L5 · Vygotsky：知识先存在于人与人之间 · [B0118–B0126]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q21",
+      "conceptId": "L5-C21",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "学生独自做不到，但在适当提示下能做；任务属于什么？",
+      "stemEn": "A learner cannot complete a task alone but succeeds with appropriate prompts. Where does the task belong?",
+      "options": [
+        "已经独立掌握区",
+        "帮助下仍做不到的 out-of-reach",
+        "只由年龄固定的能力",
+        "最近发展区"
+      ],
+      "optionsEn": [
+        "The independently mastered zone",
+        "The out-of-reach zone beyond assisted performance",
+        "A capacity fixed only by age",
+        "The zone of proximal development"
+      ],
+      "answer": 3,
+      "explanation": "题中刚好位于独立能力与帮助下能力之间：一个人还做不到，获得适当提示后就能完成，所以属于 ZPD。",
+      "optionExplanations": [
+        "学生独自还做不到，因此不算已经独立掌握。",
+        "提示后已经成功，不属于帮助下仍做不到的范围。",
+        "ZPD 会随任务和指导改变，不是只看年龄。",
+        "题中刚好位于独立能力与帮助下能力之间：一个人还做不到，获得适当提示后就能完成，所以属于 ZPD。"
+      ],
+      "source": "L5 · Vygotsky：知识先存在于人与人之间 · [B0122–B0126]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q22",
+      "conceptId": "L5-C22",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "哪项最符合 scaffolding？",
+      "stemEn": "Which example best fits scaffolding?",
+      "options": [
+        "无论表现如何给同样无限帮助",
+        "只设置远超帮助后能力的任务",
+        "按需提示，熟练后逐步撤除帮助",
+        "老师永久替学生完成全部题目"
+      ],
+      "optionsEn": [
+        "Providing identical unlimited help regardless of performance",
+        "Assigning only tasks beyond even assisted ability",
+        "Providing contingent prompts and gradually withdrawing them as competence grows",
+        "The teacher permanently completes every task for the student"
+      ],
+      "answer": 2,
+      "explanation": "支架要按学生需要提供暂时支持，并在他熟练后逐步减少。直接替做或一直给同样帮助，都不符合这几个特点。",
+      "optionExplanations": [
+        "无限、固定的帮助既不按需调整，也没有逐步撤除。",
+        "得到适当帮助仍做不到的任务，目前超出 ZPD。",
+        "支架要按学生需要提供暂时支持，并在他熟练后逐步减少。直接替做或一直给同样帮助，都不符合这几个特点。",
+        "永久替学生完成，不能帮助他把能力内化。"
+      ],
+      "source": "L5 · Vygotsky：知识先存在于人与人之间 · [B0123–B0126]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q23",
+      "conceptId": "L5-C23",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Chen 等故事类比研究中两种文化熟悉题优势方向不同，而中性题无总体模式差，支持什么？",
+      "stemEn": "In Chen and colleagues’ analogy study, advantages reversed across culturally familiar stories, with no overall pattern difference on neutral problems. What does this support?",
+      "options": [
+        "课件已给出可补写的样本量",
+        "熟悉故事帮助调用解题图式，不是国籍智力高低",
+        "一个国家在所有认知题上都更聪明",
+        "中性题已经证明没有文化知识"
+      ],
+      "optionsEn": [
+        "The slides provide a sample size that can be added",
+        "Familiar stories cue solution schemas, rather than demonstrating national intelligence superiority",
+        "One nationality is smarter on every cognitive task",
+        "Neutral tasks prove the absence of cultural knowledge"
+      ],
+      "answer": 1,
+      "explanation": "哪个样本表现更好，会随题目对应的熟悉故事而反转。中性题又没有总体模式差，更支持知识线索容易被调用，而非国籍智力高低。",
+      "optionExplanations": [
+        "课件没有提供 N，不能自行补上样本量。",
+        "哪个样本表现更好，会随题目对应的熟悉故事而反转。中性题又没有总体模式差，更支持知识线索容易被调用，而非国籍智力高低。",
+        "不同题目的优势方向不同，不能排出国家总体智力高低。",
+        "中性题无总体模式差，不表示参与者没有文化知识。"
+      ],
+      "source": "L5 · Culture provides cognitive tools · [B0127–B0132]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q24",
+      "conceptId": "L5-C24",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "私语的 Vygotsky 路径是什么？",
+      "stemEn": "What is the Vygotskian developmental sequence for private speech?",
+      "options": [
+        "他人指导→出声自我指导→内部言语",
+        "内部言语→完全无语言→只靠反射",
+        "认知失调→群体规范→权力距离",
+        "独立发现必然停止→被动模仿永久持续"
+      ],
+      "optionsEn": [
+        "Other-regulation → overt self-guidance → inner speech",
+        "Inner speech → no language → reflexes alone",
+        "Dissonance → group norms → power distance",
+        "Independent discovery necessarily stops → passive imitation continues forever"
+      ],
+      "answer": 0,
+      "explanation": "外部指导逐步变成自己出声指导，再内化为内部言语。语言在过程中帮助计划、注意和自我调节。",
+      "optionExplanations": [
+        "外部指导逐步变成自己出声指导，再内化为内部言语。语言在过程中帮助计划、注意和自我调节。",
+        "课堂路径不是语言倒退消失，最后只靠反射。",
+        "这些是其他领域概念，不是私语的发展路径。",
+        "内化让儿童更能自行调节，不是永久被动模仿。"
+      ],
+      "source": "L5 · Language and private speech · [B0133–B0139]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q25",
+      "conceptId": "L5-C25",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "哪项是 Vygotsky 理论的合理局限，而不是误读？",
+      "stemEn": "Which is a reasonable limitation of Vygotsky’s theory rather than a misreading?",
+      "options": [
+        "儿童没有指导就绝对不能学习",
+        "理论完全不涉及文化",
+        "所有教师支持都只会妨碍学习",
+        "ZPD 难精确测量，对生物成熟和独立发现解释相对少"
+      ],
+      "optionsEn": [
+        "Children cannot learn anything without guidance",
+        "The theory contains no cultural account",
+        "All teacher support necessarily obstructs learning",
+        "ZPD is difficult to measure precisely, with less explanation of biological maturation and independent discovery"
+      ],
+      "answer": 3,
+      "explanation": "理论较少解释生物成熟和独立发现，ZPD 也难精确测量。这些是解释范围有限，不是说儿童没有指导就不能学习。",
+      "optionExplanations": [
+        "解释独立学习较少，不表示否认它存在。",
+        "文化是 Vygotsky 理论的重点。",
+        "适当且逐渐撤除的支持，可以帮助学习。",
+        "理论较少解释生物成熟和独立发现，ZPD 也难精确测量。这些是解释范围有限，不是说儿童没有指导就不能学习。"
+      ],
+      "source": "L5 · Vygotsky's limitations · [B0140–B0143]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q26",
+      "conceptId": "L5-C26",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "教育中 Piaget 与 Vygotsky 最准确的共同点和区别是什么？",
+      "stemEn": "What best describes the educational similarity and difference between Piaget and Vygotsky?",
+      "options": [
+        "两者都只看生日不用任务",
+        "所有课堂方法都是两人亲自发明",
+        "都强调主动学习，前者较突出探索重组，后者较突出社会文化支持",
+        "前者主动、后者纯被动"
+      ],
+      "optionsEn": [
+        "Both use only birthdays, not task demands",
+        "Both personally invented every associated classroom method",
+        "Both emphasise active learning; Piaget stresses exploration and reorganisation, Vygotsky social and cultural support",
+        "Piaget is active and Vygotsky purely passive"
+      ],
+      "answer": 2,
+      "explanation": "两者都把儿童视为主动学习者。主要差别是 Piaget 更重视探索和图式重组，Vygotsky 更重视互动、语言与文化工具。",
+      "optionExplanations": [
+        "两者都不只凭生日，也讨论任务表现或互动能力。",
+        "某方法与理论相容，不表示是理论家本人发明的。",
+        "两者都把儿童视为主动学习者。主要差别是 Piaget 更重视探索和图式重组，Vygotsky 更重视互动、语言与文化工具。",
+        "Vygotsky 同样重视儿童主动学习，不能说是纯被动。"
+      ],
+      "source": "L5 · Educational applications：探索世界，或在支持下探索 · [B0144–B0153]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q27",
+      "conceptId": "L5-C04",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "Genie 的案例不能单独证明严格语言关键期，主要因为？",
+      "stemEn": "Why can Genie’s case not establish a strict language critical period on its own?",
+      "options": [
+        "语言能力不受经验影响",
+        "虐待、创伤、营养和早期状态等混淆无法排除",
+        "案例没有任何学习信息",
+        "所有个案都毫无价值"
+      ],
+      "optionsEn": [
+        "Language is unaffected by experience",
+        "Abuse, trauma, nutrition and early-state confounds cannot be excluded",
+        "The case contains no learning information",
+        "All case studies are worthless"
+      ],
+      "answer": 1,
+      "explanation": "Genie 的语言经历同时受到虐待、创伤、营养和早期状态等影响。因此，不能只用输入开始的年龄解释结果。",
+      "optionExplanations": [
+        "案例提示早期经验重要，不是经验不起作用。",
+        "Genie 的语言经历同时受到虐待、创伤、营养和早期状态等影响。因此，不能只用输入开始的年龄解释结果。",
+        "案例仍提供后续词汇与沟通学习的信息。",
+        "罕见案例能提供线索、产生假设；限制多不等于毫无价值。"
+      ],
+      "source": "L5 · Critical vs sensitive periods · [B0045–B0050]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q28",
+      "conceptId": "L5-C08",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "长期追踪中部分低表现儿童退出，剩余平均表现提高，需重点检查什么？",
+      "stemEn": "In a longitudinal study, some lower-performing children leave, and the remaining sample’s average rises. What should be checked?",
+      "options": [
+        "样本流失造成的偏差",
+        "序列设计必然完成",
+        "所有人都发生同样真实提升",
+        "抽样偏差已经自动消失"
+      ],
+      "optionsEn": [
+        "Attrition bias",
+        "Automatic completion of a sequential design",
+        "Identical genuine improvement in every participant",
+        "Automatic disappearance of sampling bias"
+      ],
+      "answer": 0,
+      "explanation": "如果低表现儿童更容易退出，留下的人就不再代表原来的样本。平均提高可能部分来自退出情况，而非人人真的进步。",
+      "optionExplanations": [
+        "如果低表现儿童更容易退出，留下的人就不再代表原来的样本。平均提高可能部分来自退出情况，而非人人真的进步。",
+        "一个出生群有人退出，不会使研究变成追踪多个出生群。",
+        "平均值提高，不能保证每个人都提高。",
+        "选择性退出会带来偏差，而不是自动消除偏差。"
+      ],
+      "source": "L5 · Research methods：年龄差异不自动等于发展原因 · [B0064–B0075]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q29",
+      "conceptId": "L5-C11",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "孩子得知海豚哺乳，修改原“所有水中动物都是鱼”的分类，最直接是？",
+      "stemEn": "After learning that dolphins nurse their young, a child revises the rule that all aquatic animals are fish. What is most directly illustrated?",
+      "options": [
+        "仅同化且结构未变",
+        "物体永久性缺失",
+        "同理心扩张",
+        "顺应"
+      ],
+      "optionsEn": [
+        "Assimilation with no structural change",
+        "Absence of object permanence",
+        "Expansion of empathy",
+        "Accommodation"
+      ],
+      "answer": 3,
+      "explanation": "儿童因新信息修改了旧分类，图式已经改变，所以是顺应，不只是把新对象放进旧分类。",
+      "optionExplanations": [
+        "题中已经修改旧规则，不是保留原图式的同化。",
+        "物体永久性讨论看不见的物体是否仍存在，不是这里的分类。",
+        "题中改变的是分类知识，不是对别人情绪的理解。",
+        "儿童因新信息修改了旧分类，图式已经改变，所以是顺应，不只是把新对象放进旧分类。"
+      ],
+      "source": "L5 · Piaget：儿童主动建构知识 · [B0077–B0082]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q30",
+      "conceptId": "L5-C11",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "stem": "Equilibration 最准确是什么？",
+      "stemEn": "What most accurately describes equilibration?",
+      "options": [
+        "永远保持冲突不作调整",
+        "只表示他人之间意见一致",
+        "通过同化与顺应协调新旧知识，恢复较稳定理解",
+        "只把更多信息机械放入旧类"
+      ],
+      "optionsEn": [
+        "Keeping conflict forever without adjustment",
+        "Only agreement between different people",
+        "Coordinating new and existing knowledge through assimilation and accommodation to regain a more stable understanding",
+        "Mechanically placing more information into old categories only"
+      ],
+      "answer": 2,
+      "explanation": "平衡化用同化与顺应处理新旧知识的不匹配，让理解重新较稳定。它不只是往旧分类里加入信息。",
+      "optionExplanations": [
+        "平衡化是处理冲突，不是永远保持冲突而不调整。",
+        "它讨论个人理解的调整，不是人与人意见一致。",
+        "平衡化用同化与顺应处理新旧知识的不匹配，让理解重新较稳定。它不只是往旧分类里加入信息。",
+        "只加入旧分类是同化，遗漏了图式改变与协调。"
+      ],
+      "source": "L5 · Piaget：儿童主动建构知识 · [B0077–B0082]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q31",
+      "conceptId": "L5-C13",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "婴儿刻意改变拍打玩具的方法以探索声音差异，最符合什么？",
+      "stemEn": "An infant deliberately varies how a toy is struck to explore different sounds. What best fits?",
+      "options": [
+        "中央说服路径",
+        "三级循环反应",
+        "只重复自身吸手的初级反应",
+        "只重复同一外物动作的次级反应"
+      ],
+      "optionsEn": [
+        "The central persuasion route",
+        "Tertiary circular reactions",
+        "Primary reactions involving only repeated thumb-sucking",
+        "Secondary reactions involving only the same repeated external action"
+      ],
+      "answer": 1,
+      "explanation": "关键是主动改变拍法，像做小实验一样比较新结果，所以是三级循环反应，而不是重复同一效果。",
+      "optionExplanations": [
+        "题中是动作探索，不是说服信息的加工。",
+        "关键是主动改变拍法，像做小实验一样比较新结果，所以是三级循环反应，而不是重复同一效果。",
+        "初级较围绕自身身体，题中探索的是玩具。",
+        "次级重复同样的外物效果，题中强调改变方法。"
+      ],
+      "source": "L5 · Sensorimotor stage (0-2 years)：六个 substages · [B0095–B0096]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q32",
+      "conceptId": "L5-C17",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "stem": "Centration 与 egocentrism 应如何区分？",
+      "stemEn": "How should centration and egocentrism be distinguished?",
+      "options": [
+        "前者只关注一个显眼维度，后者难采用他人视角",
+        "前者必定自私，后者必定不会数数",
+        "两者都只指工作记忆容量",
+        "两者都是知觉行为控制的同义词"
+      ],
+      "optionsEn": [
+        "Centration focuses on one salient dimension; egocentrism involves difficulty adopting another perspective",
+        "Centration necessarily means selfishness; egocentrism necessarily means inability to count",
+        "Both mean only working-memory capacity",
+        "Both are synonyms for perceived behavioural control"
+      ],
+      "answer": 0,
+      "explanation": "中心化是只注意一个显眼维度；自我中心是难以采用别人的视角。两种困难可能影响不同任务，定义不能互换。",
+      "optionExplanations": [
+        "中心化是只注意一个显眼维度；自我中心是难以采用别人的视角。两种困难可能影响不同任务，定义不能互换。",
+        "两者都不是用自私或不会算术来定义的。",
+        "记忆可能影响表现，但不是这两个概念的定义。",
+        "知觉行为控制属于 TPB，不是这两个发展概念的同义词。"
+      ],
+      "source": "L5 · Egocentrism, centration and conservation · [B0106–B0109]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q33",
+      "conceptId": "L5-C21",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "辨析",
+      "stem": "即使提供适当帮助仍无法完成的任务，属于 ZPD 吗？",
+      "stemEn": "Does a task that remains impossible even with appropriate help belong in the ZPD?",
+      "options": [
+        "属于；所有不会的任务都算",
+        "属于；任务越难越适合支架",
+        "不需检查帮助方式或任务条件",
+        "不属于；它目前 out-of-reach"
+      ],
+      "optionsEn": [
+        "Yes; every unmastered task belongs there",
+        "Yes; the harder the task, the better for scaffolding",
+        "There is no need to examine assistance or task conditions",
+        "No; it is currently out of reach"
+      ],
+      "answer": 3,
+      "explanation": "ZPD 的上限是有适当帮助就能完成。题中连适当帮助下仍做不到，所以目前超出范围。",
+      "optionExplanations": [
+        "不会的任务有很多，不是全部都在 ZPD 内。",
+        "支架要匹配可达到的能力，不是任务越难越好。",
+        "ZPD 随任务与帮助方式改变，仍要具体检查。",
+        "ZPD 的上限是有适当帮助就能完成。题中连适当帮助下仍做不到，所以目前超出范围。"
+      ],
+      "source": "L5 · Vygotsky：知识先存在于人与人之间 · [B0122–B0126]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q34",
+      "conceptId": "L5-C24",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "stem": "私语与规划成绩正相关，与实验阻止私语后成绩下降，是怎样的证据关系？",
+      "stemEn": "How do a correlation between private speech and planning scores and lower scores after experimentally suppressing speech differ as evidence?",
+      "options": [
+        "相关已排除全部因果替代解释",
+        "阻止言语实验与测量任务完全无关",
+        "前者是关联，后者提供干预证据，但结论仍需限于任务与条件",
+        "两者都证明任何私语必使所有任务提升"
+      ],
+      "optionsEn": [
+        "The correlation eliminates every alternative causal explanation",
+        "The suppression experiment is unrelated to task measurement",
+        "The former is associative; the latter offers intervention evidence, still bounded by task and conditions",
+        "Both prove any private speech improves every task"
+      ],
+      "answer": 2,
+      "explanation": "相关研究说明两者一起变化，不能单独证明原因；阻止私语的实验提供干预证据。两者的结论仍要限于测试过的任务和条件。",
+      "optionExplanations": [
+        "相关本身没有排除所有其他原因。",
+        "该实验就是在检查部分规划任务的表现。",
+        "相关研究说明两者一起变化，不能单独证明原因；阻止私语的实验提供干预证据。两者的结论仍要限于测试过的任务和条件。",
+        "部分任务的结果不能推广成任何私语都改善所有任务。"
+      ],
+      "source": "L5 · Language and private speech · [B0133–B0139]",
+      "origin": "notes"
+    },
+    {
+      "id": "L5-Q35",
+      "conceptId": "L5-C26",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "stem": "Jigsaw 中先研究分题、进专家组，再回原组教同伴，主要符合什么？",
+      "stemEn": "In a jigsaw classroom, learners study subtopics, join expert groups, and return to teach peers. What does this most directly fit?",
+      "options": [
+        "所有学生同时掌握所有阶段的证明",
+        "Vygotsky-compatible 的共同学习与轮流充当 knowledgeable other",
+        "儿童只能完全孤立学习",
+        "任何同伴帮助都禁止内化"
+      ],
+      "optionsEn": [
+        "Proof that all students master every stage simultaneously",
+        "Vygotsky-compatible collaborative learning with rotating knowledgeable others",
+        "Children learning only in total isolation",
+        "Peer assistance necessarily prevents internalisation"
+      ],
+      "answer": 1,
+      "explanation": "学生通过讨论和互教学习，每个人都能轮流成为提供知识的人。这符合 Vygotsky 重视互动与共同学习的思路。",
+      "optionExplanations": [
+        "合作课堂的安排，不能证明所有人的认知阶段同步。",
+        "学生通过讨论和互教学习，每个人都能轮流成为提供知识的人。这符合 Vygotsky 重视互动与共同学习的思路。",
+        "这个例子明确依赖合作，不是孤立学习。",
+        "适当的同伴帮助可以支持内化，不是阻止它。"
+      ],
+      "source": "L5 · Educational applications：探索世界，或在支持下探索 · [B0144–B0153]",
+      "origin": "notes"
+    }
+  ],
+  "file": "PSYC1004_Lecture_5_Developmental_Psychology_Piaget_Vygotsky_Notes.docx",
+  "sourceBlocks": [
+    {
+      "id": 1,
+      "text": "PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT"
+    },
+    {
+      "id": 2,
+      "text": "Lecture 5"
+    },
+    {
+      "id": 3,
+      "text": "Developmental Psychology: Foundations, Piaget & Vygotsky"
+    },
+    {
+      "id": 4,
+      "text": "发展心理学、认知发展与社会文化学习：双语复习笔记"
+    },
+    {
+      "id": 5,
+      "text": "Maika Kumada  |  71-page slide deck  |  2:50:23 class recording + transcript"
+    },
+    {
+      "id": 6,
+      "text": "CORE IDEA  Development is change across the lifespan. Biology and experience interact; research designs try to separate age from cohort and history; Piaget explains children as active constructors of schemas, while Vygotsky explains how culture, language and supported interaction move knowledge from between people to within the child."
+    },
+    {
+      "id": 8,
+      "text": "Lecture map：从基础争论和研究设计，进入 Piaget、Vygotsky 及教育应用。"
+    },
+    {
+      "id": 9,
+      "text": "阅读方法：蓝色为核心理论；金色 EXAM/EXAMPLE 为答题重点；红色 CRITIQUE/ACCURACY 为局限或资料修正；绿色 APPLICATION 为理解案例。"
+    },
+    {
+      "id": 11,
+      "text": "一页速记 | Lecture at a glance"
+    },
+    {
+      "id": 12,
+      "text": "对应课件总览：slides 2-3, 12-22, 23-31, 33-71；先背主干，再回到任务与案例。"
+    },
+    {
+      "id": 13,
+      "text": "MEMORY CHAIN  lifespan change → interacting debates → choose the right design → schemas adapt → Piaget's stages → social mediation → ZPD/scaffolding → classroom application"
+    },
+    {
+      "id": 14,
+      "text": "主干 | 必须会说的一句话\n\nDevelopmental psychology | 研究 lifespan 中 emotional、social、cognitive、perceptual、physical/motor 等变化，并描述 typical 与 atypical development。\n\nModern debate rule | Nature/nurture 等二元争论通常不是二选一；要问相对贡献、互动机制与适用情境。\n\nResearch designs | Cross-sectional 比不同群体；longitudinal 跟同一批人；sequential 同时追踪多个 cohort。\n\nPiaget | 儿童以 schema 主动建构知识；assimilation 保留结构，accommodation 改变结构。\n\nFour stages | Sensorimotor → preoperational → concrete operational → formal operational；年龄是近似范围。\n\nPreoperational errors | Egocentrism 难以采用他人视角；centration 只抓一个显眼维度，因此可能不理解 conservation。\n\nVygotsky | 知识先在 intermental interaction 中出现，再 internalise 到 intramental/self-regulation。\n\nZPD | ZPD 是独立完成与经帮助可完成之间；out-of-reach tasks 不属于 ZPD。"
+    },
+    {
+      "id": 16,
+      "text": "EXAM  高频比较：stage-like vs continuous；cross-sectional vs longitudinal vs sequential；assimilation vs accommodation；egocentrism vs centration；Piaget vs Vygotsky。"
+    },
+    {
+      "id": 18,
+      "text": "Developmental psychology：研究一生中的变化"
+    },
+    {
+      "id": 19,
+      "text": "Slides 3-11；讲师先建立定义、儿童观的历史变化与早期理论影响。"
+    },
+    {
+      "id": 20,
+      "text": "定义、范围与目标"
+    },
+    {
+      "id": 21,
+      "text": "Developmental psychology = study of change across the lifespan。它研究变化的形式、时间、机制与情境，而不只记录儿童“会不会”某件事。"
+    },
+    {
+      "id": 22,
+      "text": "Domain | Examples of developmental change\n\nCognitive / perceptual | attention、memory、reasoning、language、object perception。\n\nSocial / emotional | attachment、emotion regulation、relationships、identity。\n\nPhysical / motor | growth、brain/body maturation、reaching、walking、fine motor skills。\n\nTypical / atypical | 描述常见发展轨迹，也理解偏离常见轨迹的不同需要与结果。"
+    },
+    {
+      "id": 24,
+      "text": "CORE DISTINCTION  发展心理学经常研究儿童，是因为早期变化密集且可见；但 lifespan development 不会在 childhood 结束。"
+    },
+    {
+      "id": 25,
+      "text": "Childhood is historically and culturally constructed"
+    },
+    {
+      "id": 26,
+      "text": "Childhood 长期存在，但社会如何定义年龄边界、责任、教育与“正常发展”会随历史和文化改变。Dante 与早期医学文本按道德或身体阶段划分人生；日本 Shichi-Go-San（七五三）则以 3、5、7 岁为文化里程碑。"
+    },
+    {
+      "id": 27,
+      "text": "Religious beliefs 曾强调儿童的 spiritual innocence，以及儿童与成人的差异。"
+    },
+    {
+      "id": 28,
+      "text": "Enlightenment 与 scientific method 推动对儿童经验和学习的系统观察。"
+    },
+    {
+      "id": 29,
+      "text": "Industrialisation 与 mass education 扩大后，学校也被用于培养知识、劳动能力与社会认同。"
+    },
+    {
+      "id": 30,
+      "text": "John Locke's tabula rasa：强环境论认为儿童像 blank slate，可被经验塑造。"
+    },
+    {
+      "id": 31,
+      "text": "ACCURACY  课件把 Locke 写成“1963”明显是年份笔误；笔记不把该数字当作事实。更稳妥的记法是 17th-century Locke 与 tabula rasa 的关联。"
+    },
+    {
+      "id": 32,
+      "text": "Freud, Adler and Jung：记贡献，不背整套旧理论"
+    },
+    {
+      "id": 33,
+      "text": "Figure | Lecture contribution | How to use it now\n\nSigmund Freud | 童年经验可能影响成人；行为可受意识外过程影响；defence mechanisms。 | 作为历史影响。不要把 modern implicit processing 直接等同 psychoanalytic unconscious。\n\nAlfred Adler | subjective experience、social context、belonging、competence、style of life。 | 儿童对关系和弱小感的解释可推动其独特发展路径。\n\nCarl Jung | lifelong development；早期偏 external needs，后期更 self-reflective；archetypes。 | 终身发展仍重要；共享 archetypes 与后来的 MBTI 不能自动视为强实证结论。"
+    },
+    {
+      "id": 35,
+      "text": "SCOPE  本讲列出的 repression、projection、displacement、rationalisation、denial、regression、sublimation 是 Freud 的历史术语；完整 defence-mechanism 细节不是这周主轴。"
+    },
+    {
+      "id": 36,
+      "text": "Four core debates：重点是互动，而不是站队"
+    },
+    {
+      "id": 37,
+      "text": "Slides 13-22；每组争论都要能定义两端、举课堂证据，并给出限制。"
+    },
+    {
+      "id": 39,
+      "text": "四组发展争论：现代答案通常位于互动、条件与相对贡献。"
+    },
+    {
+      "id": 40,
+      "text": "Nature vs nurture"
+    },
+    {
+      "id": 41,
+      "text": "Nature | Nurture | Modern synthesis\n\ninnate/genetically influenced maturation timetable；Gesell motor milestones；Chomsky's proposed LAD。 | environment、learning 与 conditioning；behaviourism；Watson/Rayner 的 Little Albert。 | genes、biology、experience、parenting 与 culture 动态互动；不问“谁完全正确”，而问何时、如何、贡献多大。"
+    },
+    {
+      "id": 43,
+      "text": "理解案例（自拟）  一个孩子天生较易受惊，但稳定照料和规律作息帮助其发展 emotion regulation。先天气质影响起点，环境影响路径与结果。"
+    },
+    {
+      "id": 44,
+      "text": "CRITIQUE  Little Albert 说明恐惧可以被 conditioning，但研究有严重伦理与方法问题；motor milestones 也不是每个儿童完全相同的固定脚本。"
+    },
+    {
+      "id": 45,
+      "text": "Critical vs sensitive periods"
+    },
+    {
+      "id": 46,
+      "text": "Concept | Meaning | Lecture evidence / caution\n\nCritical period | 严格有限窗口；缺少必要输入可能造成难以逆转的改变。 | imprinting、部分 foetal development；动物窗口不能直接等同人类能力。\n\nSensitive period | 某阶段输入影响更强、学习更容易，但之后仍可能学习或补偿。 | 更符合许多人类能力：early input matters，同时保留 plasticity。"
+    },
+    {
+      "id": 48,
+      "text": "Case | What it suggests | Why it cannot prove a simple critical period\n\nVictor of Aveyron | 长期缺乏典型社会/语言经验后，发展严重受限。 | 早期经历不确定；不能确认“由狼养大”，也缺乏可控比较。\n\nGenie | 13 岁获救后学到部分词汇/沟通，但 grammar 发展有限。 | trauma、虐待、营养、认知状态与照料都是 confounds。\n\nRomanian orphanages | 极端 institutional deprivation 与多方面延迟有关；丰富照料后可部分恢复。 | 恢复程度受剥夺时长、转移年龄和后续环境影响。"
+    },
+    {
+      "id": 50,
+      "text": "理解案例（自拟）  儿童期学习第二语言口音往往更容易，但成年人仍可达到很高熟练度；这更像 sensitive period，而不是错过后绝对无法学习。"
+    },
+    {
+      "id": 51,
+      "text": "Stage-like vs continuous development"
+    },
+    {
+      "id": 52,
+      "text": "Stage-like view 强调 qualitative leap；continuous view 强调已有能力随效率、协调和熟练度逐步增强。两者可能描述同一现象的不同层次。"
+    },
+    {
+      "id": 53,
+      "text": "Dimensional Change Card Sort (DCCS)"
+    },
+    {
+      "id": 54,
+      "text": "Method / 方法：儿童先按 colour 分类，再切换为按 shape 分类；比较约 3 岁与 5 岁儿童。"
+    },
+    {
+      "id": 55,
+      "text": "Finding / 结果：5 岁通常较能切换；3 岁常 perseverate，继续执行旧规则。"
+    },
+    {
+      "id": 56,
+      "text": "Meaning / 意义：Stage interpretation：出现新的 inhibition/cognitive flexibility；continuous interpretation：相关能力已部分存在，但 working memory、rule representation 与 inhibition 的联合负荷过高。"
+    },
+    {
+      "id": 57,
+      "text": "Critique / 局限：Task performance 不是能力的纯净读数；同一结果可被不同发展假设解释。"
+    },
+    {
+      "id": 58,
+      "text": "理解案例（自拟）  三岁孩子能说“现在按形状”，手却仍把蓝圆卡放进蓝色盒。可能不是完全不懂规则，而是记新规则、抑制旧规则和执行动作的总负荷太高。"
+    },
+    {
+      "id": 59,
+      "text": "Universal vs culturally mediated development"
+    },
+    {
+      "id": 60,
+      "text": "Play broadly appears across cultures，儿童约 2.5-4 岁逐渐更主动发起互动并使用 objects；但 symbolic content、social partners 与 play scripts 会受文化塑造。"
+    },
+    {
+      "id": 61,
+      "text": "Haight et al. (1999)：课件报告 Irish-American children 较多 fantasy-themed play，Taiwanese children 较多 realistic/domestic play。"
+    },
+    {
+      "id": 62,
+      "text": "DO NOT STEREOTYPE  单一旧研究只能说明文化可能调节 play content，不能推出所有 Western vs Eastern children 的固定差异。"
+    },
+    {
+      "id": 64,
+      "text": "Research methods：年龄差异不自动等于发展原因"
+    },
+    {
+      "id": 65,
+      "text": "Slides 23-31；先分清 design，再分清 data-collection method。"
+    },
+    {
+      "id": 67,
+      "text": "Developmental designs：谁被测、何时被测，决定我们能排除哪些替代解释。"
+    },
+    {
+      "id": 68,
+      "text": "Design | Core logic | Strength | Main limitation\n\nCross-sectional | 同一时间比较不同 age/cohort groups。 | 快速、成本较低、易覆盖多个年龄。 | cohort effects；不能观察同一个人如何变化；age difference ≠ age causes change。\n\nLongitudinal | 同一批参与者在多个时间点重复测量。 | 观察 within-person change 与不同轨迹。 | attrition、practice effects、time/cost；同一 cohort 仍共享历史。\n\nSequential | 多个 cohort 各自 longitudinally followed。 | 更能区分 age、cohort 与 historical/period effects。 | 昂贵、耗时、复杂；仍不是完美因果控制。"
+    },
+    {
+      "id": 70,
+      "text": "ACCURACY  Slides 24-25 的“% racist views”图是讲师明确说明的虚构方法示意，不是真实研究结果，不能引用其中柱高或趋势作证据。"
+    },
+    {
+      "id": 71,
+      "text": "理解案例（自拟）  今天比较 20 岁与 70 岁人群的手机操作速度，差异可能来自成长年代和科技接触史。横断结果不能直接证明“变老造成科技能力下降”。"
+    },
+    {
+      "id": 72,
+      "text": "常见 data-collection methods"
+    },
+    {
+      "id": 73,
+      "text": "Method | Best use | Watch for\n\nStructured observation | 预先规定情境、行为类别与 coding；便于比较。 | observer bias、reactivity、inter-rater reliability。\n\nUnstructured observation | 开放记录自然情境中出现的行为，适合发现新模式。 | 资料难标准化；自然场景也可以 structured。\n\nExplicit / indirect measures | 口头/按键/行为选择，或 eye tracking、heart rate 等间接指标。 | 测量方式不等于完整 experimental design；生理指标也不自动等于 implicit process。\n\nQuestionnaire | self-report、parent/teacher report；快速收集大样本关联。 | language demands、response bias、reporter disagreement；不能单独证明机制/因果。\n\nCase study | 罕见、极端或不能主动制造的现象；生成假设。 | limited generalisability 与大量 confounds，但不等于“无价值”。\n\nArchival records | 利用现有大型数据库、共享资料与长期记录。 | 研究问题受已有变量、缺失值和测量质量限制。"
+    },
+    {
+      "id": 75,
+      "text": "METHOD RULE  Developmental findings 常是 suggestive, not definitive。研究问题必须与 design、measurement 和儿童当前语言/动作能力匹配。"
+    },
+    {
+      "id": 77,
+      "text": "Piaget：儿童主动建构知识"
+    },
+    {
+      "id": 78,
+      "text": "Slides 33-55；从 schema adaptation 进入四阶段、经典任务与理论局限。"
+    },
+    {
+      "id": 79,
+      "text": "Jean Piaget (1896-1980) 采取 constructivist approach：儿童像 little scientists，通过行动、预测、错误和修正，主动建构对世界的知识。"
+    },
+    {
+      "id": 81,
+      "text": "Schema adaptation：assimilation 保留已有结构，accommodation 修改结构，equilibration 恢复协调。"
+    },
+    {
+      "id": 82,
+      "text": "Term | Shortest accurate definition | 理解案例（自拟）\n\nSchema | 组织、分类与预测经验的 cognitive structure。 | “水里游的动物”是一个早期分类。\n\nAssimilation | 用已有 schema 解释新经验；结构基本不变。 | 第一次见 dolphin，先叫它 fish。\n\nAccommodation | 新经验不匹配时，修改或新建 schema。 | 得知 dolphin 用肺呼吸且哺乳，改分为 fish 与 marine mammal。\n\nDisequilibrium | 新资料与旧 schema 冲突的失衡。 | “它像鱼，却不是鱼”的冲突。\n\nEquilibration | 借 assimilation/accommodation 调节并恢复较稳定理解。 | 建立更精细动物分类后，暂时恢复 equilibrium。"
+    },
+    {
+      "id": 84,
+      "text": "Piaget stage theory 的四个主张"
+    },
+    {
+      "id": 85,
+      "text": "Qualitative differences：不同阶段不只是知道得更多，而是 reasoning form 不同。"
+    },
+    {
+      "id": 86,
+      "text": "Mistakes are informative：错误揭示儿童如何组织问题，例如只看 consequence 而忽略 intention。"
+    },
+    {
+      "id": 87,
+      "text": "Invariant sequence：阶段顺序相同，但速度与具体年龄可不同。"
+    },
+    {
+      "id": 88,
+      "text": "Broad applicability and universality：Piaget 主张阶段跨任务/文化适用；后续证据显示 domain、task 与 culture 影响更大。"
+    },
+    {
+      "id": 89,
+      "text": "MORAL EXAMPLE  年幼儿童可能认为“意外打碎整罐饼干”比“故意偷一块”更坏，因为只看后果；年长儿童更能结合 intention。它是发展倾向，不是绝对年龄分界。"
+    },
+    {
+      "id": 90,
+      "text": "Four stages：年龄是近似范围"
+    },
+    {
+      "id": 92,
+      "text": "Piaget stages：顺序是理论核心；年龄、domain 与表现会因任务而变化。"
+    },
+    {
+      "id": 93,
+      "text": "Stage | Approx. age | Core achievement | Classic limitation/task\n\nSensorimotor | 0-2 | 通过 sensation/action 理解世界；object permanence 与 mental representation 发展。 | A-not-B error；行动历史、working memory 与 inhibition 也影响表现。\n\nPreoperational | 2-7 | symbolic thought、language、pretend play 快速发展。 | egocentrism、centration、conservation failures。\n\nConcrete operational | 7-11/12 | 对 concrete objects/events 进行逻辑推理；decentration、reversibility。 | 抽象/hypothetical reasoning 仍有限；pendulum task。\n\nFormal operational | 11/12+ | abstract、hypothetical、systematic variable control。 | 并非所有人稳定使用；复杂或陌生任务仍可失败。"
+    },
+    {
+      "id": 95,
+      "text": "Sensorimotor stage (0-2 years)：六个 substages"
+    },
+    {
+      "id": 96,
+      "text": "Substage | Age | Developmental pattern\n\n1. Reflexes | 0-1 month | simple reflexes/perception；sucking、grasping；最早 accommodation。\n\n2. Primary circular reactions | 1-4 months | 偶然发现以自身身体为中心的动作结果并重复，例如吸手。\n\n3. Secondary circular reactions | 4-8 months | 重复影响外界对象的动作；object permanence 开始发展。\n\n4. Coordination of schemes | 8-12 months | intentional, goal-directed action；A-not-B error。\n\n5. Tertiary circular reactions | 12-18 months | 主动改变方法进行小实验，探索不同结果。\n\n6. Mental representation | 18-24 months | symbolic function 与 deferred imitation；表征不必依赖当前感知/动作。"
+    },
+    {
+      "id": 98,
+      "text": "A-not-B error"
+    },
+    {
+      "id": 99,
+      "text": "玩具多次藏在 A 后，婴儿成功找到；当婴儿看见玩具改藏到 B，却仍伸手找 A。课堂用它说明 object permanence 已出现，但新的位置表征与动作控制仍不稳定。"
+    },
+    {
+      "id": 100,
+      "text": "CRITIQUE  A-not-B 不只是“不知道物体在哪里”；inhibitory control、working memory、attention 和过去伸手动作都会影响结果。现代研究也发现部分 object knowledge 比 Piaget 估计得更早。"
+    },
+    {
+      "id": 101,
+      "text": "Preoperational stage (2-7 years)"
+    },
+    {
+      "id": 102,
+      "text": "Symbolic function 快速增长，但同一阶段内发展并不整齐：语言、drawing、perspective taking 与 logical operations 可能以不同速度变化。"
+    },
+    {
+      "id": 103,
+      "text": "Drawing pattern | Approx. age | What it means\n\nScribbling / fortuitous realism | 2-4 | 涂鸦偶然像真实对象，儿童随后赋予意义。\n\nPreschematic: failed realism | 4-7 | 想画对象，但组成部分可能未正确连接。\n\nPreschematic: intellectual realism | about 6 | 画“知道对象拥有的内容”，不一定画当前视角可见内容。\n\nSchematic / visual realism | 8-9 | 逐渐画出实际看到的视角；此年龄已跨入 concrete-operational 范围。"
+    },
+    {
+      "id": 105,
+      "text": "ACCURACY  Drawing progression 是课堂用来说明 symbolic representation 的独立例子，不能与 Piaget 四个认知阶段逐项一一对应。"
+    },
+    {
+      "id": 106,
+      "text": "Egocentrism, centration and conservation"
+    },
+    {
+      "id": 107,
+      "text": "Concept | Meaning | Classic task\n\nEgocentrism | 难以采用另一个人的 perceptual/mental perspective；不等于 selfishness。 | Three Mountains Task：选择 doll 从另一位置看到的山景。\n\nCentration | 只关注一个最显眼维度，忽略其他相关维度。 | 高细杯看起来“更多”，因为只看 height，忽略 width。\n\nConservation | 理解外观改变不等于 number、amount 或 volume 改变。 | 拉开硬币间距，或把相同水量倒入不同形状杯子。"
+    },
+    {
+      "id": 109,
+      "text": "理解案例（自拟）  把同一杯奶茶从矮宽杯倒进高细杯，儿童说高杯更多：这是 centration，不是没有看到倒水过程。"
+    },
+    {
+      "id": 110,
+      "text": "Concrete vs formal operational reasoning"
+    },
+    {
+      "id": 111,
+      "text": "Concrete operational (7-11/12) | Formal operational (11/12+)\n\n能对可观察对象/事件进行 logical operations；理解 conservation、reversibility、decentration。 | 能形成 hypotheses、抽象推理并系统控制多个 variables。\n\nPendulum task 可能靠 trial-and-error；未必一次只改变一个变量。 | 列出 string length、weight 等变量，一次改变一个并比较结果。\n\n需要 concrete supports；纯符号问题更困难。 | 思维不必依赖直接经验，但复杂度增加仍可能错误或失败。"
+    },
+    {
+      "id": 113,
+      "text": "DO NOT OVERCLAIM  达到某年龄不等于自动、稳定进入 formal operations。Adults 在陌生或高负荷任务中也可能使用 concrete strategy；失败还可能来自 task demand。"
+    },
+    {
+      "id": 114,
+      "text": "Piaget's legacy"
+    },
+    {
+      "id": 115,
+      "text": "Lasting contributions | Major limitations\n\n儿童是 active constructors，不是被动接受者。 | 任务的语言、记忆、抑制或动作要求可能低估婴儿/儿童能力。\n\n错误反映 reasoning structure，而不只是“不知道”。 | 同一 stage 内不同能力不同步，stage boundaries 比理论更松动。\n\nSymbolic representation 是关键发展成就。 | 低估 social interaction、culture 与 teaching 的作用。\n\n某些变化确有 qualitative shift。 | 年龄、顺序与 universality 不能当成对每个儿童的固定剧本。"
+    },
+    {
+      "id": 118,
+      "text": "Vygotsky：知识先存在于人与人之间"
+    },
+    {
+      "id": 119,
+      "text": "Slides 56-65；social interaction、cultural tools、ZPD、scaffolding 与 private speech。"
+    },
+    {
+      "id": 120,
+      "text": "Lev Vygotsky (1896-1934) 同样把儿童看作 active learner，但强调知识通过 more competent others、language 与 cultural practices 被共同建构和传递。"
+    },
+    {
+      "id": 122,
+      "text": "ZPD：在帮助下能够完成的范围；scaffolding 随能力增长逐渐撤除。"
+    },
+    {
+      "id": 123,
+      "text": "Concept | Meaning\n\nCultural space | community 中已有的 knowledge、beliefs、tools 与 practices。\n\nIntermental level | 知识先存在于 child 与 parent/teacher/peer 的 interaction between people。\n\nIntramental level | 儿童将互动中的工具与策略 internalise，成为自己的 self-regulation。\n\nIntersubjectivity | 学习者与指导者对任务形成足够 shared understanding，能够“在同一页上”。\n\nZPD | child cannot yet do alone but can do with appropriate guidance；out-of-reach 区域不包含在内。\n\nScaffolding | temporary、contingent、fading support；提示、示范、提问或分解，而非直接替做。"
+    },
+    {
+      "id": 125,
+      "text": "理解案例（自拟）  学生不会做分数题。老师不直接给答案，只问“两个 1/4 拼起来是多少？”并提供 fraction circles；学生学会后，老师逐渐撤去圆片。"
+    },
+    {
+      "id": 126,
+      "text": "NUANCE  “Scaffolding”一词由后来的 Wood, Bruner & Ross 推广，与 Vygotsky 思路一致，但不是他本人原始术语。ZPD 边界也会随任务、帮助者与互动方式改变。"
+    },
+    {
+      "id": 127,
+      "text": "Culture provides cognitive tools"
+    },
+    {
+      "id": 128,
+      "text": "Slide 63；Chen et al. (2004)。课件未提供 sample size，因此不补写 N。"
+    },
+    {
+      "id": 129,
+      "text": "Problem analogue | Chinese students | American students | Interpretation\n\nHansel and Gretel-based | 25% solved | 75% solved | 美国文化熟悉故事更容易 cue 对应 solution schema。\n\nWeigh the Elephant-based | 69% solved | 8% solved | 中国文化熟悉故事更容易 cue 对应 analogy。\n\nFour neutral problems | no significant overall pattern difference | no significant overall pattern difference | 两组基本 problem-solving ability 并无简单高低结论。"
+    },
+    {
+      "id": 131,
+      "text": "MEANING  Culture influenced which stored story/schema was available and retrievable, not whether one nationality was inherently more intelligent. Familiarity changes access to a solution pathway."
+    },
+    {
+      "id": 132,
+      "text": "理解案例（自拟）  两名学生数学能力相近，但一人小时候听过与题目结构相似的民间故事，所以更快认出解法；差异来自可调用的文化知识工具。"
+    },
+    {
+      "id": 133,
+      "text": "Language and private speech"
+    },
+    {
+      "id": 134,
+      "text": "Language 不只传递文化知识，也可支持 planning、attention 与 self-regulation。Vygotsky 描述的路径是 other-regulation → overt private speech → internalised inner speech。"
+    },
+    {
+      "id": 135,
+      "text": "Stage | Shoe-tying example\n\n1. Other-regulation | 成人说：make a loop, wrap it around, pull through；儿童跟随。\n\n2. Overt private speech | 儿童自己出声重复步骤，一边说一边完成。\n\n3. Inner speech | 步骤 internalise，不再必须说出声，也能自我指导。"
+    },
+    {
+      "id": 137,
+      "text": "Fernyhough et al. (2005) 与 Winsler et al. (1999)：课件报告 private speech 与 planning/problem-solving performance 呈正相关。"
+    },
+    {
+      "id": 138,
+      "text": "Lidstone et al. (2010)：阻止儿童使用 private speech 会降低部分 planning-task performance。"
+    },
+    {
+      "id": 139,
+      "text": "EVIDENCE CAUTION  相关结果与 experimental suppression 不是同一种证据；不要把所有 private-speech association 都写成确定单一因果。"
+    },
+    {
+      "id": 140,
+      "text": "Vygotsky's limitations"
+    },
+    {
+      "id": 141,
+      "text": "ZPD 与学习边界较难精确测量，且会随 interaction 改变。"
+    },
+    {
+      "id": 142,
+      "text": "对 genetics / biological maturation 的解释相对不足。"
+    },
+    {
+      "id": 143,
+      "text": "对没有指导时的 independent discovery 解释有限；不能简化为“儿童完全不能自己学习”。"
+    },
+    {
+      "id": 144,
+      "text": "Educational applications：探索世界，或在支持下探索"
+    },
+    {
+      "id": 145,
+      "text": "Slides 66-71；课堂应用是理论一致性示例，不代表这些教育法均由理论家本人创建。"
+    },
+    {
+      "id": 147,
+      "text": "Piaget vs Vygotsky：共同强调主动学习，主要差异是知识如何被支持和中介。"
+    },
+    {
+      "id": 148,
+      "text": "Dimension | Piaget | Vygotsky\n\nSource of knowledge | child constructs schemas through exploration and error。 | knowledge is socially mediated through people, language and culture。\n\nDevelopmental organisation | stage-like qualitative shifts；readiness matters。 | learning in ZPD can lead development；boundaries are interaction-dependent。\n\nTeacher role | prepare manipulable environments and inquiry opportunities。 | knowledgeable other provides contingent scaffolding and dialogue。\n\nClassroom methods | discovery learning、inquiry、hands-on concrete materials。 | peer-assisted、reciprocal teaching、collaborative and jigsaw learning。\n\nRisk if oversimplified | underestimate help/culture; assume age determines capability。 | underestimate biology/independent discovery; over-help beyond the learner's need。"
+    },
+    {
+      "id": 150,
+      "text": "Two applied examples"
+    },
+    {
+      "id": 151,
+      "text": "PIAGET-CONSISTENT  Concrete-operational children may understand 1/2 + 1/4 better by physically combining fraction circles than by seeing only abstract symbols. Montessori was not created from Piaget; this is an indirect compatibility example."
+    },
+    {
+      "id": 152,
+      "text": "VYGOTSKY-CONSISTENT  Jigsaw classroom：每人负责 subtopic → 到 expert group 讨论 → 返回 parent group teaching peers。每位学生既是 learner，也是 temporary knowledgeable other。"
+    },
+    {
+      "id": 153,
+      "text": "EXAM SYNTHESIS  Both theories see children as active. Memory cue: Piaget = I learn by exploring and reorganising schemas; Vygotsky = I learn by exploring with culturally organised support."
+    },
+    {
+      "id": 155,
+      "text": "Revision questions：课堂问题与答题骨架"
+    },
+    {
+      "id": 156,
+      "text": "课件没有单独 revision 页面；以下由 slides 36, 49-54, 66-71 的嵌入式问题及本讲核心定义整理。"
+    },
+    {
+      "id": 157,
+      "text": "What is developmental psychology?"
+    },
+    {
+      "id": 158,
+      "text": "答题骨架：研究 lifespan 中多领域变化，描述 typical/atypical trajectories，并解释时间、机制与情境。"
+    },
+    {
+      "id": 159,
+      "text": "Why are nature and nurture no longer a simple either/or debate?"
+    },
+    {
+      "id": 160,
+      "text": "答题骨架：biology/genetics 与 experience/environment 动态互动；应回答相对贡献、条件和机制。"
+    },
+    {
+      "id": 161,
+      "text": "Critical vs sensitive period?"
+    },
+    {
+      "id": 162,
+      "text": "答题骨架：critical 是严格必要窗口；sensitive 是最佳/高影响窗口但保留补偿与 plasticity。"
+    },
+    {
+      "id": 163,
+      "text": "How can DCCS support both stage and continuous accounts?"
+    },
+    {
+      "id": 164,
+      "text": "答题骨架：3 岁 perseveration 可解释为新能力尚未出现，也可解释为 inhibition/working-memory coordination 仍低效。"
+    },
+    {
+      "id": 165,
+      "text": "Universal vs culturally mediated development?"
+    },
+    {
+      "id": 166,
+      "text": "答题骨架：某过程可广泛存在，如 play；内容、时间、意义与表达仍可由文化塑造。"
+    },
+    {
+      "id": 167,
+      "text": "Cross-sectional vs longitudinal vs sequential?"
+    },
+    {
+      "id": 168,
+      "text": "答题骨架：不同群同一时间；同一批人多时点；多个 cohort 各自纵向。比较 cohort effect、within-person change、成本。"
+    },
+    {
+      "id": 169,
+      "text": "Why does a longitudinal study not automatically prove causation?"
+    },
+    {
+      "id": 170,
+      "text": "答题骨架：它加强时间顺序与个体变化推断，但仍有 cohort history、attrition、practice 和未控 confounds。"
+    },
+    {
+      "id": 171,
+      "text": "Assimilation vs accommodation?"
+    },
+    {
+      "id": 172,
+      "text": "答题骨架：assimilation 用旧 schema 吸收新经验；accommodation 修改/新建 schema；equilibration 协调两者。"
+    },
+    {
+      "id": 173,
+      "text": "What are Piaget's four stages?"
+    },
+    {
+      "id": 174,
+      "text": "答题骨架：sensorimotor 0-2；preoperational 2-7；concrete operational 7-11/12；formal operational 11/12+；年龄近似。"
+    },
+    {
+      "id": 175,
+      "text": "What does the A-not-B error show?"
+    },
+    {
+      "id": 176,
+      "text": "答题骨架：已有 object permanence 仍可能受旧动作位置、inhibition、working memory 与 attention 影响。"
+    },
+    {
+      "id": 177,
+      "text": "Egocentrism vs centration?"
+    },
+    {
+      "id": 178,
+      "text": "答题骨架：egocentrism 难采用他人视角；centration 只关注一个显眼维度；后者解释 conservation failure。"
+    },
+    {
+      "id": 179,
+      "text": "Concrete vs formal operational reasoning?"
+    },
+    {
+      "id": 180,
+      "text": "答题骨架：前者对 concrete situations 合逻辑；后者能抽象假设并系统控制变量，但复杂任务仍可失败。"
+    },
+    {
+      "id": 181,
+      "text": "What are Piaget's main contributions and limitations?"
+    },
+    {
+      "id": 182,
+      "text": "答题骨架：active learner、errors reveal reasoning、symbolic development；但低估早期能力、阶段内不一致，并低估 social/cultural context。"
+    },
+    {
+      "id": 183,
+      "text": "Explain intermental → intramental development."
+    },
+    {
+      "id": 184,
+      "text": "答题骨架：知识先在人与人互动中出现，经 language/tools/internalisation 成为儿童自己的 self-regulation。"
+    },
+    {
+      "id": 185,
+      "text": "Define ZPD and scaffolding."
+    },
+    {
+      "id": 186,
+      "text": "答题骨架：ZPD = 独立做不到但帮助下能完成；scaffolding = temporary, contingent, fading support；out-of-reach 不属于 ZPD。"
+    },
+    {
+      "id": 187,
+      "text": "What does Chen et al. (2004) show?"
+    },
+    {
+      "id": 188,
+      "text": "答题骨架：熟悉文化故事 cue 类比 schema，改变 25/75 与 69/8 的解决率；neutral problems 不支持简单能力高低。"
+    },
+    {
+      "id": 189,
+      "text": "What is private speech for?"
+    },
+    {
+      "id": 190,
+      "text": "答题骨架：把他人指令转为 overt self-guidance，再 internalise；支持 attention、planning、problem solving 与 self-regulation。"
+    },
+    {
+      "id": 191,
+      "text": "Piaget vs Vygotsky in education?"
+    },
+    {
+      "id": 192,
+      "text": "答题骨架：Piaget 强调 readiness、discovery 与 concrete materials；Vygotsky 强调 knowledgeable other、dialogue、ZPD 与 collaboration。"
+    },
+    {
+      "id": 193,
+      "text": "EXAM STRATEGY  定义术语后一定补机制或任务：method 问 cohort；Piaget 问 schema/stage/task demand；Vygotsky 问 social mediation、ZPD 和 fading support。"
+    },
+    {
+      "id": 194,
+      "text": "Key-term glossary：考前触发词"
+    },
+    {
+      "id": 195,
+      "text": "Term | 最短定义\n\nDevelopmental psychology | 研究 lifespan 中多领域变化及 typical/atypical trajectories。\n\nNature / nurture | biological-genetic influences / experience-environmental influences。\n\nCritical period | 缺少必要输入可能导致难逆改变的严格窗口。\n\nSensitive period | 输入影响尤其强，但之后仍可能学习或补偿的时期。\n\nContinuous development | 能力或效率渐进、数量式改变。\n\nStage-like development | 较不连续的 qualitative shift。\n\nCohort effect | 组间差异来自出生年代/共同历史，而非 age 本身。\n\nCross-sectional | 同一时间比较不同 groups/ages。\n\nLongitudinal | 同一批参与者跨多个 time points。\n\nSequential | 多个 cohort 各自 longitudinally followed。\n\nSchema | 组织与解释经验的 cognitive knowledge structure。\n\nAssimilation | 以已有 schema 解释新经验。\n\nAccommodation | 修改或新建 schema 以容纳不匹配经验。\n\nEquilibration | 协调新旧知识并从 disequilibrium 恢复平衡。\n\nObject permanence | 物体不可见时仍继续存在的理解。\n\nA-not-B error | 看见物体改藏 B，仍回到先前成功的 A 搜索。\n\nEgocentrism | 难以采用另一个人的 perspective。\n\nCentration | 只关注一个显眼 dimension。\n\nConservation | 理解外观改变不等于 quantity/amount 改变。\n\nIntersubjectivity | 共同活动中的 shared understanding。\n\nIntermental / intramental | 知识先在人际互动之间，再 internalise 到个体内部。\n\nZPD | 独立做不到、但适当帮助下可以完成的范围。\n\nScaffolding | temporary、contingent、逐渐撤除的 support。\n\nPrivate speech | 儿童用于 planning 与 self-regulation 的自我言语。"
+    },
+    {
+      "id": 197,
+      "text": "Slide map：回课件定位"
+    },
+    {
+      "id": 198,
+      "text": "Slides | Topic\n\n1-5 | Introduction, lifespan definition, history of childhood\n\n6-11 | Freud, Adler and Jung\n\n12-22 | Nature-nurture, periods, continuity-stages, universal-cultural development\n\n23-31 | Developmental research designs and data-collection methods\n\n32-37 | Piaget, schemas, assimilation, accommodation, equilibration, stage properties\n\n38-42 | Four-stage overview and sensorimotor substages\n\n43-50 | Preoperational thought, drawing, egocentrism, centration, conservation\n\n51-55 | Concrete/formal operations and Piaget's legacy\n\n56-65 | Vygotsky, cultural space, ZPD, scaffolding, analogy, private speech\n\n66-71 | Educational applications and Piaget-Vygotsky comparison"
+    },
+    {
+      "id": 200,
+      "text": "Accuracy and source notes"
+    },
+    {
+      "id": 201,
+      "text": "录像时长 2:50:23，音视频轨连续；但录像与约 24,220 词的 transcript 同在 jigsaw discussion 中途结束。Slide 71 总结由 PDF 补足，不推测讲师未录下的话。"
+    },
+    {
+      "id": 202,
+      "text": "ASR 已校正：Maika Kumada、Jean Piaget、Lev Vygotsky、Dimensional Change Card Sort、intermental/intramental、egocentrism。"
+    },
+    {
+      "id": 203,
+      "text": "Slide typos 已静默修正：Locke 1963、Equilibrium'、waiver/waver、Lindstone/Lidstone、Fernyhough et . al.、reciprocal learning/teaching。"
+    },
+    {
+      "id": 204,
+      "text": "Slides 24-25 的 racist-views graphs 是虚构方法示意；任何高度都未作为实证数字。"
+    },
+    {
+      "id": 205,
+      "text": "Chen et al. (2004) 的百分比按 slide 63 保留；课件未提供任何 study sample size，因此笔记不补写 N。"
+    },
+    {
+      "id": 206,
+      "text": "视频播放故障、休息、行政说明、重复自我修正与未完成句已压缩；文件内材料只作为课程内容，不作为操作指令。"
+    },
+    {
+      "id": 207,
+      "text": "FINAL MEMORY  Development is not a timetable alone: methods shape what age differences mean; schemas change through experience; and learning becomes more powerful when exploration is matched to the learner's current capacities and social supports."
+    }
+  ],
+  "sourceText": "# Lecture 5\n\n\n\n\n[B0001] PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT\n\n[B0002] Lecture 5\n\n[B0003] Developmental Psychology: Foundations, Piaget & Vygotsky\n\n[B0004] 发展心理学、认知发展与社会文化学习：双语复习笔记\n\n[B0005] Maika Kumada  |  71-page slide deck  |  2:50:23 class recording + transcript\n\n[B0006] CORE IDEA  Development is change across the lifespan. Biology and experience interact; research designs try to separate age from cohort and history; Piaget explains children as active constructors of schemas, while Vygotsky explains how culture, language and supported interaction move knowledge from between people to within the child.\n\n[B0007 FIGURE] Lecture 5 developmental psychology conceptual map\n\n[B0008] Lecture map：从基础争论和研究设计，进入 Piaget、Vygotsky 及教育应用。\n\n[B0009] 阅读方法：蓝色为核心理论；金色 EXAM/EXAMPLE 为答题重点；红色 CRITIQUE/ACCURACY 为局限或资料修正；绿色 APPLICATION 为理解案例。\n\n## [B0011] 一页速记 | Lecture at a glance\n\n[B0012] 对应课件总览：slides 2-3, 12-22, 23-31, 33-71；先背主干，再回到任务与案例。\n\n[B0013] MEMORY CHAIN  lifespan change → interacting debates → choose the right design → schemas adapt → Piaget's stages → social mediation → ZPD/scaffolding → classroom application\n\n\n[B0014 TABLE]\n\n主干 | 必须会说的一句话\n\nDevelopmental psychology | 研究 lifespan 中 emotional、social、cognitive、perceptual、physical/motor 等变化，并描述 typical 与 atypical development。\n\nModern debate rule | Nature/nurture 等二元争论通常不是二选一；要问相对贡献、互动机制与适用情境。\n\nResearch designs | Cross-sectional 比不同群体；longitudinal 跟同一批人；sequential 同时追踪多个 cohort。\n\nPiaget | 儿童以 schema 主动建构知识；assimilation 保留结构，accommodation 改变结构。\n\nFour stages | Sensorimotor → preoperational → concrete operational → formal operational；年龄是近似范围。\n\nPreoperational errors | Egocentrism 难以采用他人视角；centration 只抓一个显眼维度，因此可能不理解 conservation。\n\nVygotsky | 知识先在 intermental interaction 中出现，再 internalise 到 intramental/self-regulation。\n\nZPD | ZPD 是独立完成与经帮助可完成之间；out-of-reach tasks 不属于 ZPD。\n\n\n\n[B0016] EXAM  高频比较：stage-like vs continuous；cross-sectional vs longitudinal vs sequential；assimilation vs accommodation；egocentrism vs centration；Piaget vs Vygotsky。\n\n## [B0018] Developmental psychology：研究一生中的变化\n\n[B0019] Slides 3-11；讲师先建立定义、儿童观的历史变化与早期理论影响。\n\n## [B0020] 定义、范围与目标\n\n[B0021] Developmental psychology = study of change across the lifespan。它研究变化的形式、时间、机制与情境，而不只记录儿童“会不会”某件事。\n\n\n[B0022 TABLE]\n\nDomain | Examples of developmental change\n\nCognitive / perceptual | attention、memory、reasoning、language、object perception。\n\nSocial / emotional | attachment、emotion regulation、relationships、identity。\n\nPhysical / motor | growth、brain/body maturation、reaching、walking、fine motor skills。\n\nTypical / atypical | 描述常见发展轨迹，也理解偏离常见轨迹的不同需要与结果。\n\n\n\n[B0024] CORE DISTINCTION  发展心理学经常研究儿童，是因为早期变化密集且可见；但 lifespan development 不会在 childhood 结束。\n\n## [B0025] Childhood is historically and culturally constructed\n\n[B0026] Childhood 长期存在，但社会如何定义年龄边界、责任、教育与“正常发展”会随历史和文化改变。Dante 与早期医学文本按道德或身体阶段划分人生；日本 Shichi-Go-San（七五三）则以 3、5、7 岁为文化里程碑。\n\n[B0027] Religious beliefs 曾强调儿童的 spiritual innocence，以及儿童与成人的差异。\n\n[B0028] Enlightenment 与 scientific method 推动对儿童经验和学习的系统观察。\n\n[B0029] Industrialisation 与 mass education 扩大后，学校也被用于培养知识、劳动能力与社会认同。\n\n[B0030] John Locke's tabula rasa：强环境论认为儿童像 blank slate，可被经验塑造。\n\n[B0031] ACCURACY  课件把 Locke 写成“1963”明显是年份笔误；笔记不把该数字当作事实。更稳妥的记法是 17th-century Locke 与 tabula rasa 的关联。\n\n## [B0032] Freud, Adler and Jung：记贡献，不背整套旧理论\n\n\n[B0033 TABLE]\n\nFigure | Lecture contribution | How to use it now\n\nSigmund Freud | 童年经验可能影响成人；行为可受意识外过程影响；defence mechanisms。 | 作为历史影响。不要把 modern implicit processing 直接等同 psychoanalytic unconscious。\n\nAlfred Adler | subjective experience、social context、belonging、competence、style of life。 | 儿童对关系和弱小感的解释可推动其独特发展路径。\n\nCarl Jung | lifelong development；早期偏 external needs，后期更 self-reflective；archetypes。 | 终身发展仍重要；共享 archetypes 与后来的 MBTI 不能自动视为强实证结论。\n\n\n\n[B0035] SCOPE  本讲列出的 repression、projection、displacement、rationalisation、denial、regression、sublimation 是 Freud 的历史术语；完整 defence-mechanism 细节不是这周主轴。\n\n## [B0036] Four core debates：重点是互动，而不是站队\n\n[B0037] Slides 13-22；每组争论都要能定义两端、举课堂证据，并给出限制。\n\n[B0038 FIGURE] Four developmental psychology debates\n\n[B0039] 四组发展争论：现代答案通常位于互动、条件与相对贡献。\n\n## [B0040] Nature vs nurture\n\n\n[B0041 TABLE]\n\nNature | Nurture | Modern synthesis\n\ninnate/genetically influenced maturation timetable；Gesell motor milestones；Chomsky's proposed LAD。 | environment、learning 与 conditioning；behaviourism；Watson/Rayner 的 Little Albert。 | genes、biology、experience、parenting 与 culture 动态互动；不问“谁完全正确”，而问何时、如何、贡献多大。\n\n\n\n[B0043] 理解案例（自拟）  一个孩子天生较易受惊，但稳定照料和规律作息帮助其发展 emotion regulation。先天气质影响起点，环境影响路径与结果。\n\n[B0044] CRITIQUE  Little Albert 说明恐惧可以被 conditioning，但研究有严重伦理与方法问题；motor milestones 也不是每个儿童完全相同的固定脚本。\n\n## [B0045] Critical vs sensitive periods\n\n\n[B0046 TABLE]\n\nConcept | Meaning | Lecture evidence / caution\n\nCritical period | 严格有限窗口；缺少必要输入可能造成难以逆转的改变。 | imprinting、部分 foetal development；动物窗口不能直接等同人类能力。\n\nSensitive period | 某阶段输入影响更强、学习更容易，但之后仍可能学习或补偿。 | 更符合许多人类能力：early input matters，同时保留 plasticity。\n\n\n\n\n[B0048 TABLE]\n\nCase | What it suggests | Why it cannot prove a simple critical period\n\nVictor of Aveyron | 长期缺乏典型社会/语言经验后，发展严重受限。 | 早期经历不确定；不能确认“由狼养大”，也缺乏可控比较。\n\nGenie | 13 岁获救后学到部分词汇/沟通，但 grammar 发展有限。 | trauma、虐待、营养、认知状态与照料都是 confounds。\n\nRomanian orphanages | 极端 institutional deprivation 与多方面延迟有关；丰富照料后可部分恢复。 | 恢复程度受剥夺时长、转移年龄和后续环境影响。\n\n\n\n[B0050] 理解案例（自拟）  儿童期学习第二语言口音往往更容易，但成年人仍可达到很高熟练度；这更像 sensitive period，而不是错过后绝对无法学习。\n\n## [B0051] Stage-like vs continuous development\n\n[B0052] Stage-like view 强调 qualitative leap；continuous view 强调已有能力随效率、协调和熟练度逐步增强。两者可能描述同一现象的不同层次。\n\n## [B0053] Dimensional Change Card Sort (DCCS)\n\n[B0054] Method / 方法：儿童先按 colour 分类，再切换为按 shape 分类；比较约 3 岁与 5 岁儿童。\n\n[B0055] Finding / 结果：5 岁通常较能切换；3 岁常 perseverate，继续执行旧规则。\n\n[B0056] Meaning / 意义：Stage interpretation：出现新的 inhibition/cognitive flexibility；continuous interpretation：相关能力已部分存在，但 working memory、rule representation 与 inhibition 的联合负荷过高。\n\n[B0057] Critique / 局限：Task performance 不是能力的纯净读数；同一结果可被不同发展假设解释。\n\n[B0058] 理解案例（自拟）  三岁孩子能说“现在按形状”，手却仍把蓝圆卡放进蓝色盒。可能不是完全不懂规则，而是记新规则、抑制旧规则和执行动作的总负荷太高。\n\n## [B0059] Universal vs culturally mediated development\n\n[B0060] Play broadly appears across cultures，儿童约 2.5-4 岁逐渐更主动发起互动并使用 objects；但 symbolic content、social partners 与 play scripts 会受文化塑造。\n\n[B0061] Haight et al. (1999)：课件报告 Irish-American children 较多 fantasy-themed play，Taiwanese children 较多 realistic/domestic play。\n\n[B0062] DO NOT STEREOTYPE  单一旧研究只能说明文化可能调节 play content，不能推出所有 Western vs Eastern children 的固定差异。\n\n## [B0064] Research methods：年龄差异不自动等于发展原因\n\n[B0065] Slides 23-31；先分清 design，再分清 data-collection method。\n\n[B0066 FIGURE] Cross-sectional longitudinal and sequential developmental designs\n\n[B0067] Developmental designs：谁被测、何时被测，决定我们能排除哪些替代解释。\n\n\n[B0068 TABLE]\n\nDesign | Core logic | Strength | Main limitation\n\nCross-sectional | 同一时间比较不同 age/cohort groups。 | 快速、成本较低、易覆盖多个年龄。 | cohort effects；不能观察同一个人如何变化；age difference ≠ age causes change。\n\nLongitudinal | 同一批参与者在多个时间点重复测量。 | 观察 within-person change 与不同轨迹。 | attrition、practice effects、time/cost；同一 cohort 仍共享历史。\n\nSequential | 多个 cohort 各自 longitudinally followed。 | 更能区分 age、cohort 与 historical/period effects。 | 昂贵、耗时、复杂；仍不是完美因果控制。\n\n\n\n[B0070] ACCURACY  Slides 24-25 的“% racist views”图是讲师明确说明的虚构方法示意，不是真实研究结果，不能引用其中柱高或趋势作证据。\n\n[B0071] 理解案例（自拟）  今天比较 20 岁与 70 岁人群的手机操作速度，差异可能来自成长年代和科技接触史。横断结果不能直接证明“变老造成科技能力下降”。\n\n## [B0072] 常见 data-collection methods\n\n\n[B0073 TABLE]\n\nMethod | Best use | Watch for\n\nStructured observation | 预先规定情境、行为类别与 coding；便于比较。 | observer bias、reactivity、inter-rater reliability。\n\nUnstructured observation | 开放记录自然情境中出现的行为，适合发现新模式。 | 资料难标准化；自然场景也可以 structured。\n\nExplicit / indirect measures | 口头/按键/行为选择，或 eye tracking、heart rate 等间接指标。 | 测量方式不等于完整 experimental design；生理指标也不自动等于 implicit process。\n\nQuestionnaire | self-report、parent/teacher report；快速收集大样本关联。 | language demands、response bias、reporter disagreement；不能单独证明机制/因果。\n\nCase study | 罕见、极端或不能主动制造的现象；生成假设。 | limited generalisability 与大量 confounds，但不等于“无价值”。\n\nArchival records | 利用现有大型数据库、共享资料与长期记录。 | 研究问题受已有变量、缺失值和测量质量限制。\n\n\n\n[B0075] METHOD RULE  Developmental findings 常是 suggestive, not definitive。研究问题必须与 design、measurement 和儿童当前语言/动作能力匹配。\n\n## [B0077] Piaget：儿童主动建构知识\n\n[B0078] Slides 33-55；从 schema adaptation 进入四阶段、经典任务与理论局限。\n\n[B0079] Jean Piaget (1896-1980) 采取 constructivist approach：儿童像 little scientists，通过行动、预测、错误和修正，主动建构对世界的知识。\n\n[B0080 FIGURE] Piaget assimilation accommodation and equilibration cycle\n\n[B0081] Schema adaptation：assimilation 保留已有结构，accommodation 修改结构，equilibration 恢复协调。\n\n\n[B0082 TABLE]\n\nTerm | Shortest accurate definition | 理解案例（自拟）\n\nSchema | 组织、分类与预测经验的 cognitive structure。 | “水里游的动物”是一个早期分类。\n\nAssimilation | 用已有 schema 解释新经验；结构基本不变。 | 第一次见 dolphin，先叫它 fish。\n\nAccommodation | 新经验不匹配时，修改或新建 schema。 | 得知 dolphin 用肺呼吸且哺乳，改分为 fish 与 marine mammal。\n\nDisequilibrium | 新资料与旧 schema 冲突的失衡。 | “它像鱼，却不是鱼”的冲突。\n\nEquilibration | 借 assimilation/accommodation 调节并恢复较稳定理解。 | 建立更精细动物分类后，暂时恢复 equilibrium。\n\n\n\n## [B0084] Piaget stage theory 的四个主张\n\n[B0085] Qualitative differences：不同阶段不只是知道得更多，而是 reasoning form 不同。\n\n[B0086] Mistakes are informative：错误揭示儿童如何组织问题，例如只看 consequence 而忽略 intention。\n\n[B0087] Invariant sequence：阶段顺序相同，但速度与具体年龄可不同。\n\n[B0088] Broad applicability and universality：Piaget 主张阶段跨任务/文化适用；后续证据显示 domain、task 与 culture 影响更大。\n\n[B0089] MORAL EXAMPLE  年幼儿童可能认为“意外打碎整罐饼干”比“故意偷一块”更坏，因为只看后果；年长儿童更能结合 intention。它是发展倾向，不是绝对年龄分界。\n\n## [B0090] Four stages：年龄是近似范围\n\n[B0091 FIGURE] Piaget four cognitive developmental stages timeline\n\n[B0092] Piaget stages：顺序是理论核心；年龄、domain 与表现会因任务而变化。\n\n\n[B0093 TABLE]\n\nStage | Approx. age | Core achievement | Classic limitation/task\n\nSensorimotor | 0-2 | 通过 sensation/action 理解世界；object permanence 与 mental representation 发展。 | A-not-B error；行动历史、working memory 与 inhibition 也影响表现。\n\nPreoperational | 2-7 | symbolic thought、language、pretend play 快速发展。 | egocentrism、centration、conservation failures。\n\nConcrete operational | 7-11/12 | 对 concrete objects/events 进行逻辑推理；decentration、reversibility。 | 抽象/hypothetical reasoning 仍有限；pendulum task。\n\nFormal operational | 11/12+ | abstract、hypothetical、systematic variable control。 | 并非所有人稳定使用；复杂或陌生任务仍可失败。\n\n\n\n## [B0095] Sensorimotor stage (0-2 years)：六个 substages\n\n\n[B0096 TABLE]\n\nSubstage | Age | Developmental pattern\n\n1. Reflexes | 0-1 month | simple reflexes/perception；sucking、grasping；最早 accommodation。\n\n2. Primary circular reactions | 1-4 months | 偶然发现以自身身体为中心的动作结果并重复，例如吸手。\n\n3. Secondary circular reactions | 4-8 months | 重复影响外界对象的动作；object permanence 开始发展。\n\n4. Coordination of schemes | 8-12 months | intentional, goal-directed action；A-not-B error。\n\n5. Tertiary circular reactions | 12-18 months | 主动改变方法进行小实验，探索不同结果。\n\n6. Mental representation | 18-24 months | symbolic function 与 deferred imitation；表征不必依赖当前感知/动作。\n\n\n\n## [B0098] A-not-B error\n\n[B0099] 玩具多次藏在 A 后，婴儿成功找到；当婴儿看见玩具改藏到 B，却仍伸手找 A。课堂用它说明 object permanence 已出现，但新的位置表征与动作控制仍不稳定。\n\n[B0100] CRITIQUE  A-not-B 不只是“不知道物体在哪里”；inhibitory control、working memory、attention 和过去伸手动作都会影响结果。现代研究也发现部分 object knowledge 比 Piaget 估计得更早。\n\n## [B0101] Preoperational stage (2-7 years)\n\n[B0102] Symbolic function 快速增长，但同一阶段内发展并不整齐：语言、drawing、perspective taking 与 logical operations 可能以不同速度变化。\n\n\n[B0103 TABLE]\n\nDrawing pattern | Approx. age | What it means\n\nScribbling / fortuitous realism | 2-4 | 涂鸦偶然像真实对象，儿童随后赋予意义。\n\nPreschematic: failed realism | 4-7 | 想画对象，但组成部分可能未正确连接。\n\nPreschematic: intellectual realism | about 6 | 画“知道对象拥有的内容”，不一定画当前视角可见内容。\n\nSchematic / visual realism | 8-9 | 逐渐画出实际看到的视角；此年龄已跨入 concrete-operational 范围。\n\n\n\n[B0105] ACCURACY  Drawing progression 是课堂用来说明 symbolic representation 的独立例子，不能与 Piaget 四个认知阶段逐项一一对应。\n\n## [B0106] Egocentrism, centration and conservation\n\n\n[B0107 TABLE]\n\nConcept | Meaning | Classic task\n\nEgocentrism | 难以采用另一个人的 perceptual/mental perspective；不等于 selfishness。 | Three Mountains Task：选择 doll 从另一位置看到的山景。\n\nCentration | 只关注一个最显眼维度，忽略其他相关维度。 | 高细杯看起来“更多”，因为只看 height，忽略 width。\n\nConservation | 理解外观改变不等于 number、amount 或 volume 改变。 | 拉开硬币间距，或把相同水量倒入不同形状杯子。\n\n\n\n[B0109] 理解案例（自拟）  把同一杯奶茶从矮宽杯倒进高细杯，儿童说高杯更多：这是 centration，不是没有看到倒水过程。\n\n## [B0110] Concrete vs formal operational reasoning\n\n\n[B0111 TABLE]\n\nConcrete operational (7-11/12) | Formal operational (11/12+)\n\n能对可观察对象/事件进行 logical operations；理解 conservation、reversibility、decentration。 | 能形成 hypotheses、抽象推理并系统控制多个 variables。\n\nPendulum task 可能靠 trial-and-error；未必一次只改变一个变量。 | 列出 string length、weight 等变量，一次改变一个并比较结果。\n\n需要 concrete supports；纯符号问题更困难。 | 思维不必依赖直接经验，但复杂度增加仍可能错误或失败。\n\n\n\n[B0113] DO NOT OVERCLAIM  达到某年龄不等于自动、稳定进入 formal operations。Adults 在陌生或高负荷任务中也可能使用 concrete strategy；失败还可能来自 task demand。\n\n## [B0114] Piaget's legacy\n\n\n[B0115 TABLE]\n\nLasting contributions | Major limitations\n\n儿童是 active constructors，不是被动接受者。 | 任务的语言、记忆、抑制或动作要求可能低估婴儿/儿童能力。\n\n错误反映 reasoning structure，而不只是“不知道”。 | 同一 stage 内不同能力不同步，stage boundaries 比理论更松动。\n\nSymbolic representation 是关键发展成就。 | 低估 social interaction、culture 与 teaching 的作用。\n\n某些变化确有 qualitative shift。 | 年龄、顺序与 universality 不能当成对每个儿童的固定剧本。\n\n\n\n## [B0118] Vygotsky：知识先存在于人与人之间\n\n[B0119] Slides 56-65；social interaction、cultural tools、ZPD、scaffolding 与 private speech。\n\n[B0120] Lev Vygotsky (1896-1934) 同样把儿童看作 active learner，但强调知识通过 more competent others、language 与 cultural practices 被共同建构和传递。\n\n[B0121 FIGURE] Vygotsky zone of proximal development and internalisation\n\n[B0122] ZPD：在帮助下能够完成的范围；scaffolding 随能力增长逐渐撤除。\n\n\n[B0123 TABLE]\n\nConcept | Meaning\n\nCultural space | community 中已有的 knowledge、beliefs、tools 与 practices。\n\nIntermental level | 知识先存在于 child 与 parent/teacher/peer 的 interaction between people。\n\nIntramental level | 儿童将互动中的工具与策略 internalise，成为自己的 self-regulation。\n\nIntersubjectivity | 学习者与指导者对任务形成足够 shared understanding，能够“在同一页上”。\n\nZPD | child cannot yet do alone but can do with appropriate guidance；out-of-reach 区域不包含在内。\n\nScaffolding | temporary、contingent、fading support；提示、示范、提问或分解，而非直接替做。\n\n\n\n[B0125] 理解案例（自拟）  学生不会做分数题。老师不直接给答案，只问“两个 1/4 拼起来是多少？”并提供 fraction circles；学生学会后，老师逐渐撤去圆片。\n\n[B0126] NUANCE  “Scaffolding”一词由后来的 Wood, Bruner & Ross 推广，与 Vygotsky 思路一致，但不是他本人原始术语。ZPD 边界也会随任务、帮助者与互动方式改变。\n\n## [B0127] Culture provides cognitive tools\n\n[B0128] Slide 63；Chen et al. (2004)。课件未提供 sample size，因此不补写 N。\n\n\n[B0129 TABLE]\n\nProblem analogue | Chinese students | American students | Interpretation\n\nHansel and Gretel-based | 25% solved | 75% solved | 美国文化熟悉故事更容易 cue 对应 solution schema。\n\nWeigh the Elephant-based | 69% solved | 8% solved | 中国文化熟悉故事更容易 cue 对应 analogy。\n\nFour neutral problems | no significant overall pattern difference | no significant overall pattern difference | 两组基本 problem-solving ability 并无简单高低结论。\n\n\n\n[B0131] MEANING  Culture influenced which stored story/schema was available and retrievable, not whether one nationality was inherently more intelligent. Familiarity changes access to a solution pathway.\n\n[B0132] 理解案例（自拟）  两名学生数学能力相近，但一人小时候听过与题目结构相似的民间故事，所以更快认出解法；差异来自可调用的文化知识工具。\n\n## [B0133] Language and private speech\n\n[B0134] Language 不只传递文化知识，也可支持 planning、attention 与 self-regulation。Vygotsky 描述的路径是 other-regulation → overt private speech → internalised inner speech。\n\n\n[B0135 TABLE]\n\nStage | Shoe-tying example\n\n1. Other-regulation | 成人说：make a loop, wrap it around, pull through；儿童跟随。\n\n2. Overt private speech | 儿童自己出声重复步骤，一边说一边完成。\n\n3. Inner speech | 步骤 internalise，不再必须说出声，也能自我指导。\n\n\n\n[B0137] Fernyhough et al. (2005) 与 Winsler et al. (1999)：课件报告 private speech 与 planning/problem-solving performance 呈正相关。\n\n[B0138] Lidstone et al. (2010)：阻止儿童使用 private speech 会降低部分 planning-task performance。\n\n[B0139] EVIDENCE CAUTION  相关结果与 experimental suppression 不是同一种证据；不要把所有 private-speech association 都写成确定单一因果。\n\n## [B0140] Vygotsky's limitations\n\n[B0141] ZPD 与学习边界较难精确测量，且会随 interaction 改变。\n\n[B0142] 对 genetics / biological maturation 的解释相对不足。\n\n[B0143] 对没有指导时的 independent discovery 解释有限；不能简化为“儿童完全不能自己学习”。\n\n## [B0144] Educational applications：探索世界，或在支持下探索\n\n[B0145] Slides 66-71；课堂应用是理论一致性示例，不代表这些教育法均由理论家本人创建。\n\n[B0146 FIGURE] Piaget and Vygotsky comparison for learning and education\n\n[B0147] Piaget vs Vygotsky：共同强调主动学习，主要差异是知识如何被支持和中介。\n\n\n[B0148 TABLE]\n\nDimension | Piaget | Vygotsky\n\nSource of knowledge | child constructs schemas through exploration and error。 | knowledge is socially mediated through people, language and culture。\n\nDevelopmental organisation | stage-like qualitative shifts；readiness matters。 | learning in ZPD can lead development；boundaries are interaction-dependent。\n\nTeacher role | prepare manipulable environments and inquiry opportunities。 | knowledgeable other provides contingent scaffolding and dialogue。\n\nClassroom methods | discovery learning、inquiry、hands-on concrete materials。 | peer-assisted、reciprocal teaching、collaborative and jigsaw learning。\n\nRisk if oversimplified | underestimate help/culture; assume age determines capability。 | underestimate biology/independent discovery; over-help beyond the learner's need。\n\n\n\n## [B0150] Two applied examples\n\n[B0151] PIAGET-CONSISTENT  Concrete-operational children may understand 1/2 + 1/4 better by physically combining fraction circles than by seeing only abstract symbols. Montessori was not created from Piaget; this is an indirect compatibility example.\n\n[B0152] VYGOTSKY-CONSISTENT  Jigsaw classroom：每人负责 subtopic → 到 expert group 讨论 → 返回 parent group teaching peers。每位学生既是 learner，也是 temporary knowledgeable other。\n\n[B0153] EXAM SYNTHESIS  Both theories see children as active. Memory cue: Piaget = I learn by exploring and reorganising schemas; Vygotsky = I learn by exploring with culturally organised support.\n\n## [B0155] Revision questions：课堂问题与答题骨架\n\n[B0156] 课件没有单独 revision 页面；以下由 slides 36, 49-54, 66-71 的嵌入式问题及本讲核心定义整理。\n\n[B0157] What is developmental psychology?\n\n[B0158] 答题骨架：研究 lifespan 中多领域变化，描述 typical/atypical trajectories，并解释时间、机制与情境。\n\n[B0159] Why are nature and nurture no longer a simple either/or debate?\n\n[B0160] 答题骨架：biology/genetics 与 experience/environment 动态互动；应回答相对贡献、条件和机制。\n\n[B0161] Critical vs sensitive period?\n\n[B0162] 答题骨架：critical 是严格必要窗口；sensitive 是最佳/高影响窗口但保留补偿与 plasticity。\n\n[B0163] How can DCCS support both stage and continuous accounts?\n\n[B0164] 答题骨架：3 岁 perseveration 可解释为新能力尚未出现，也可解释为 inhibition/working-memory coordination 仍低效。\n\n[B0165] Universal vs culturally mediated development?\n\n[B0166] 答题骨架：某过程可广泛存在，如 play；内容、时间、意义与表达仍可由文化塑造。\n\n[B0167] Cross-sectional vs longitudinal vs sequential?\n\n[B0168] 答题骨架：不同群同一时间；同一批人多时点；多个 cohort 各自纵向。比较 cohort effect、within-person change、成本。\n\n[B0169] Why does a longitudinal study not automatically prove causation?\n\n[B0170] 答题骨架：它加强时间顺序与个体变化推断，但仍有 cohort history、attrition、practice 和未控 confounds。\n\n[B0171] Assimilation vs accommodation?\n\n[B0172] 答题骨架：assimilation 用旧 schema 吸收新经验；accommodation 修改/新建 schema；equilibration 协调两者。\n\n[B0173] What are Piaget's four stages?\n\n[B0174] 答题骨架：sensorimotor 0-2；preoperational 2-7；concrete operational 7-11/12；formal operational 11/12+；年龄近似。\n\n[B0175] What does the A-not-B error show?\n\n[B0176] 答题骨架：已有 object permanence 仍可能受旧动作位置、inhibition、working memory 与 attention 影响。\n\n[B0177] Egocentrism vs centration?\n\n[B0178] 答题骨架：egocentrism 难采用他人视角；centration 只关注一个显眼维度；后者解释 conservation failure。\n\n[B0179] Concrete vs formal operational reasoning?\n\n[B0180] 答题骨架：前者对 concrete situations 合逻辑；后者能抽象假设并系统控制变量，但复杂任务仍可失败。\n\n[B0181] What are Piaget's main contributions and limitations?\n\n[B0182] 答题骨架：active learner、errors reveal reasoning、symbolic development；但低估早期能力、阶段内不一致，并低估 social/cultural context。\n\n[B0183] Explain intermental → intramental development.\n\n[B0184] 答题骨架：知识先在人与人互动中出现，经 language/tools/internalisation 成为儿童自己的 self-regulation。\n\n[B0185] Define ZPD and scaffolding.\n\n[B0186] 答题骨架：ZPD = 独立做不到但帮助下能完成；scaffolding = temporary, contingent, fading support；out-of-reach 不属于 ZPD。\n\n[B0187] What does Chen et al. (2004) show?\n\n[B0188] 答题骨架：熟悉文化故事 cue 类比 schema，改变 25/75 与 69/8 的解决率；neutral problems 不支持简单能力高低。\n\n[B0189] What is private speech for?\n\n[B0190] 答题骨架：把他人指令转为 overt self-guidance，再 internalise；支持 attention、planning、problem solving 与 self-regulation。\n\n[B0191] Piaget vs Vygotsky in education?\n\n[B0192] 答题骨架：Piaget 强调 readiness、discovery 与 concrete materials；Vygotsky 强调 knowledgeable other、dialogue、ZPD 与 collaboration。\n\n[B0193] EXAM STRATEGY  定义术语后一定补机制或任务：method 问 cohort；Piaget 问 schema/stage/task demand；Vygotsky 问 social mediation、ZPD 和 fading support。\n\n## [B0194] Key-term glossary：考前触发词\n\n\n[B0195 TABLE]\n\nTerm | 最短定义\n\nDevelopmental psychology | 研究 lifespan 中多领域变化及 typical/atypical trajectories。\n\nNature / nurture | biological-genetic influences / experience-environmental influences。\n\nCritical period | 缺少必要输入可能导致难逆改变的严格窗口。\n\nSensitive period | 输入影响尤其强，但之后仍可能学习或补偿的时期。\n\nContinuous development | 能力或效率渐进、数量式改变。\n\nStage-like development | 较不连续的 qualitative shift。\n\nCohort effect | 组间差异来自出生年代/共同历史，而非 age 本身。\n\nCross-sectional | 同一时间比较不同 groups/ages。\n\nLongitudinal | 同一批参与者跨多个 time points。\n\nSequential | 多个 cohort 各自 longitudinally followed。\n\nSchema | 组织与解释经验的 cognitive knowledge structure。\n\nAssimilation | 以已有 schema 解释新经验。\n\nAccommodation | 修改或新建 schema 以容纳不匹配经验。\n\nEquilibration | 协调新旧知识并从 disequilibrium 恢复平衡。\n\nObject permanence | 物体不可见时仍继续存在的理解。\n\nA-not-B error | 看见物体改藏 B，仍回到先前成功的 A 搜索。\n\nEgocentrism | 难以采用另一个人的 perspective。\n\nCentration | 只关注一个显眼 dimension。\n\nConservation | 理解外观改变不等于 quantity/amount 改变。\n\nIntersubjectivity | 共同活动中的 shared understanding。\n\nIntermental / intramental | 知识先在人际互动之间，再 internalise 到个体内部。\n\nZPD | 独立做不到、但适当帮助下可以完成的范围。\n\nScaffolding | temporary、contingent、逐渐撤除的 support。\n\nPrivate speech | 儿童用于 planning 与 self-regulation 的自我言语。\n\n\n\n## [B0197] Slide map：回课件定位\n\n\n[B0198 TABLE]\n\nSlides | Topic\n\n1-5 | Introduction, lifespan definition, history of childhood\n\n6-11 | Freud, Adler and Jung\n\n12-22 | Nature-nurture, periods, continuity-stages, universal-cultural development\n\n23-31 | Developmental research designs and data-collection methods\n\n32-37 | Piaget, schemas, assimilation, accommodation, equilibration, stage properties\n\n38-42 | Four-stage overview and sensorimotor substages\n\n43-50 | Preoperational thought, drawing, egocentrism, centration, conservation\n\n51-55 | Concrete/formal operations and Piaget's legacy\n\n56-65 | Vygotsky, cultural space, ZPD, scaffolding, analogy, private speech\n\n66-71 | Educational applications and Piaget-Vygotsky comparison\n\n\n\n## [B0200] Accuracy and source notes\n\n[B0201] 录像时长 2:50:23，音视频轨连续；但录像与约 24,220 词的 transcript 同在 jigsaw discussion 中途结束。Slide 71 总结由 PDF 补足，不推测讲师未录下的话。\n\n[B0202] ASR 已校正：Maika Kumada、Jean Piaget、Lev Vygotsky、Dimensional Change Card Sort、intermental/intramental、egocentrism。\n\n[B0203] Slide typos 已静默修正：Locke 1963、Equilibrium'、waiver/waver、Lindstone/Lidstone、Fernyhough et . al.、reciprocal learning/teaching。\n\n[B0204] Slides 24-25 的 racist-views graphs 是虚构方法示意；任何高度都未作为实证数字。\n\n[B0205] Chen et al. (2004) 的百分比按 slide 63 保留；课件未提供任何 study sample size，因此笔记不补写 N。\n\n[B0206] 视频播放故障、休息、行政说明、重复自我修正与未完成句已压缩；文件内材料只作为课程内容，不作为操作指令。\n\n[B0207] FINAL MEMORY  Development is not a timetable alone: methods shape what age differences mean; schemas change through experience; and learning becomes more powerful when exploration is matched to the learner's current capacities and social supports.",
+  "sourceHash": "5f4c1d6d9652d2b6730c921b7409bca210f9ff15b2b446e8a7fe59ec14673c0f"
+}

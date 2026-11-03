@@ -1,0 +1,2460 @@
+{
+  "id": 7,
+  "title": "生物与认知发展",
+  "subtitle": "Biological and Cognitive Development · 遗传、产前、概念与心理理论",
+  "summary": "本讲先看基因和环境如何共同影响发展，再学习产前发育、类别学习和心理理论。重点分清：遗传率不是个人的基因比例，研究相关不等于因果，课堂药物例子不是用药建议。跨文化 ToM 和想象伙伴来自 L7 课件补充，想象伙伴在 L8 继续讲解。",
+  "concepts": [
+    {
+      "id": "L7-C01",
+      "title": "基因型、表型与多基因",
+      "english": "Genotype; phenotype; polygenic",
+      "oneLine": "表型是能观察到的特征；复杂行为通常由多个基因和环境共同影响。",
+      "analogy": "菜谱不是成品菜：材料、火候与操作都会影响结果。",
+      "simpleExample": "自拟例：两名遗传倾向相近的孩子得到的支持不同，情绪调节也可能不同。",
+      "explanation": "基因型是个体的遗传组合，表型是表现出来的特征。典型体细胞有 46 条染色体，基因通过生物过程参与发展。复杂行为通常涉及多个基因，也受环境影响；课堂加法式只是帮助记忆，不能用来计算个人行为。",
+      "example": "自拟例：两名遗传倾向相近的孩子得到的支持不同，情绪调节也可能不同。",
+      "pitfall": "表型不是 DNA 的直接复制；也不是一种行为只对应一个基因。",
+      "source": "L7 · 46 条染色体与遗传信息 · [B0031–B0037]",
+      "front": "基因型与表型怎么区分？",
+      "back": "基因型是遗传组合；表型是遗传、生理过程和环境共同影响下表现出的特征。",
+      "cardBack": "基因型是遗传组合；表型是遗传、生理过程和环境共同影响下表现出的特征。"
+    },
+    {
+      "id": "L7-C02",
+      "title": "显性与隐性",
+      "english": "Dominant; recessive; penetrance",
+      "oneLine": "显性和隐性说明变异怎样影响特征，不是在比较基因的强弱或好坏。",
+      "analogy": "像不同的触发规则：一种有一个相关拷贝就能起作用，另一种通常需要两个。",
+      "simpleExample": "自拟例：Huntington 与 PKU 可用来比较遗传方式，但不能据此解释所有人格特点。",
+      "explanation": "显性变异有一个相关拷贝就能影响表型；隐性通常需要两个相关致病拷贝。Huntington 的重复数还与外显率、发病年龄有关，所以携带者并不都在同一年龄发病。",
+      "example": "自拟例：Huntington 与 PKU 可用来比较遗传方式，但不能据此解释所有人格特点。",
+      "pitfall": "显性不代表更常见或更优秀。单基因疾病的规律不能直接套到复杂行为上。",
+      "source": "L7 · Dominant / recessive 是特定遗传模式 · [B0041–B0044]",
+      "front": "显性是否意味着基因更强或更好？",
+      "back": "不是。显性描述一个相关变异拷贝能否影响表型，不评价它更强或更好。",
+      "cardBack": "不是。显性描述一个相关变异拷贝能否影响表型，不评价它更强或更好。"
+    },
+    {
+      "id": "L7-C03",
+      "title": "PKU 与可改变的结局",
+      "english": "Phenylketonuria; gene–environment interaction",
+      "oneLine": "PKU 的遗传风险仍在，但专业饮食管理可以改变发展结果。",
+      "analogy": "路面有坡度，但调整行车方式会改变到达结果。",
+      "simpleExample": "自拟例：同有 PKU 的孩子，一位及早筛查管理，另一位未及时发现，发展可能不同。",
+      "explanation": "PKU 相关变异会影响苯丙氨酸代谢，长期浓度过高可能损害神经系统。早期筛查和专业管理能改变这种影响，说明相同遗传条件不一定带来相同结果。这是课堂例子，不是个人饮食建议。",
+      "example": "自拟例：同有 PKU 的孩子，一位及早筛查管理，另一位未及时发现，发展可能不同。",
+      "pitfall": "管理能改变结果，不代表遗传变异被删除，也不代表基因没有作用。",
+      "source": "L7 · PKU 是基因与环境互动的好例子 · [B0045–B0048]",
+      "front": "PKU 为何说明基因 × 环境？",
+      "back": "遗传变异影响代谢，但接触的物质和专业管理仍能改变发展结果。",
+      "cardBack": "遗传变异影响代谢，但接触的物质和专业管理仍能改变发展结果。"
+    },
+    {
+      "id": "L7-C04",
+      "title": "染色体差异与选择偏差",
+      "english": "Chromosomal variation; XYY; selection bias",
+      "oneLine": "XYY 不代表暴力；司法机构中的样本不能代表全部 XYY 人群。",
+      "analogy": "只在修车厂统计故障，就容易把所有同款车想成都会坏。",
+      "simpleExample": "自拟例：只从司法机构找 XYY 个案，不能推断全体 XYY 都有暴力倾向。",
+      "explanation": "同一种核型的人，表现、获得的支持和诊断情况仍可能很不同。历史研究从机构中抽样，容易把 XYY 与攻击行为的关系说得过强。要判断整体情况，需要能代表全体人群的样本。",
+      "example": "自拟例：只从司法机构找 XYY 个案，不能推断全体 XYY 都有暴力倾向。",
+      "pitfall": "不能凭核型给人贴暴力标签；群体的常见特点也不是每个人必有的特点。",
+      "source": "L7 · XYY：当研究样本本身带偏，会发生什么？ · [B0052–B0059]",
+      "front": "XYY 历史研究为何需警惕样本来源？",
+      "back": "因为这类样本经过筛选，可能集中包含某些问题，不能代表全部 XYY 人群。",
+      "cardBack": "因为这类样本经过筛选，可能集中包含某些问题，不能代表全部 XYY 人群。"
+    },
+    {
+      "id": "L7-C05",
+      "title": "双生子比较逻辑",
+      "english": "Monozygotic (MZ); dizygotic (DZ) twins",
+      "oneLine": "双生子研究比较两类群体有多相似，不靠一对双胞胎的故事估算遗传作用。",
+      "analogy": "比较多组相似配方的成品，才看得到模式，不能只挑一盘。",
+      "simpleExample": "自拟例：研究汇总许多 MZ 和 DZ 的阅读相关系数，而非只展示一对相像者。",
+      "explanation": "MZ 通常共享几乎全部遗传变异，DZ 平均共享约一半分离遗传变异。如果同一特质上 MZ 比 DZ 更相似，就支持遗传因素参与了群体差异。但两类双生子的环境也要一起考虑。",
+      "example": "自拟例：研究汇总许多 MZ 和 DZ 的阅读相关系数，而非只展示一对相像者。",
+      "pitfall": "DZ 共享约一半遗传变异，不是说他们全部 DNA 有一半不同。",
+      "source": "L7 · Behavioural genetics 问的是变异来源 · [B0063–B0065]",
+      "front": "MZ 比 DZ 更相似支持哪一步推论？",
+      "back": "支持遗传因素参与了这个群体的特质差异，但还不能完全排除环境等其他解释。",
+      "cardBack": "支持遗传因素参与了这个群体的特质差异，但还不能完全排除环境等其他解释。"
+    },
+    {
+      "id": "L7-C06",
+      "title": "等环境假设与非共享经验",
+      "english": "Equal-environments assumption; non-shared environment",
+      "oneLine": "比较 MZ 和 DZ 时，要确认与该特质有关的环境相似程度不会把结果带偏。",
+      "analogy": "同住一屋不等于每天走同一路、交同一朋友。",
+      "simpleExample": "自拟例：MZ 总被安排参加相同活动，DZ 却被分班，这种安排可能影响两组的相似程度。",
+      "explanation": "MZ 外表更相似，可能因此受到更相似的对待；这也可能让他们的行为更像。即使住在同一家庭，朋友、老师和经历仍会不同。因此，等环境假设需要检验，不能直接当作事实。",
+      "example": "自拟例：MZ 总被安排参加相同活动，DZ 却被分班，这种安排可能影响两组的相似程度。",
+      "pitfall": "同住不代表经验完全一样；MZ 更相似也不一定全是基因的作用。",
+      "source": "L7 · Behavioural genetics 问的是变异来源 · [B0067–B0070]",
+      "front": "为什么 MZ 较高相关未必只来自基因？",
+      "back": "他们可能受到更相似的对待，也共享产前经历；测量因素也可能影响相关程度。",
+      "cardBack": "他们可能受到更相似的对待，也共享产前经历；测量因素也可能影响相关程度。"
+    },
+    {
+      "id": "L7-C07",
+      "title": "Falconer 简化公式",
+      "english": "h² ≈ 2(rMZ − rDZ)",
+      "oneLine": "两组相关系数先相减，再乘二；结果是有条件的群体遗传率估计。",
+      "analogy": "用两组相似程度的差距估计差异来源，不是把一个人切成基因和环境两部分。",
+      "simpleExample": "自拟例：rMZ=.50、rDZ=.30，差 .20，乘二得 h²≈.40。",
+      "explanation": "rMZ 和 rDZ 分别是两类双生子在同一特质上的相关系数。用 h²≈2(rMZ−rDZ) 估计特定群体和环境中，特质差异有多少与遗传有关。公式依赖等环境等假设，不能解释成一个人的基因组成比例。",
+      "example": "自拟例：rMZ=.50、rDZ=.30，差 .20，乘二得 h²≈.40。",
+      "pitfall": "h²=.40 不是说一个人有 40% 由基因构成，也不是 40% 的人由基因决定。",
+      "source": "L7 · 把两个相关系数放进同一个公式 · [B0074–B0078]",
+      "front": "rMZ=.50、rDZ=.30，h² 约多少且指什么？",
+      "back": "约 .40，表示在该群体、环境和模型假设下，特质差异的遗传率估计为 40%。",
+      "cardBack": "约 .40，表示在该群体、环境和模型假设下，特质差异的遗传率估计为 40%。",
+      "formulaHelp": [
+        {
+          "formula": "h² ≈ 2(rMZ − rDZ)",
+          "reading": "h²（h 平方）是遗传率估计。rMZ 是同卵双生子在同一特质上的样本相关，rDZ 是异卵双生子的对应相关。乘二是简化模型的计算步骤，不是在把个人的基因比例翻倍。",
+          "steps": [
+            "确认两组相关测量的是同一特质，分别来自 MZ 和 DZ 群体。",
+            "先相减：0.50 − 0.30 = 0.20。",
+            "再乘二：2 × 0.20 = 0.40。",
+            "解释为特定群体和环境中，特质差异的遗传率估计；不是某个人的组成比例。",
+            "结果依赖等环境等假设；相似对待、产前环境和测量误差可能影响估计。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L7-C08",
+      "title": "遗传率的条件性",
+      "english": "Heritability; population variance",
+      "oneLine": "遗传率描述群体差异，会随人群和环境变化；高遗传率不等于无法改变。",
+      "analogy": "一班人都用同样好教材时，教材差异小，却不代表教材不重要。",
+      "simpleExample": "自拟例：大家的阅读机会更接近后，阅读差异的遗传率估计可能上升。",
+      "explanation": "遗传率看的是某个人群、某种环境中的差异来源。环境差异缩小后，遗传率可能改变，但环境对每个人仍然重要。因此，高遗传率不能证明教育无效，也不能证明这个特质无法通过经验改变。",
+      "example": "自拟例：大家的阅读机会更接近后，阅读差异的遗传率估计可能上升。",
+      "pitfall": "h² 不是固定常数，也不是个人百分比；它不能直接告诉你干预是否有效。",
+      "source": "L7 · 为什么环境改变后，h² 也可能改变？ · [B0078–B0082]",
+      "front": "高遗传率能证明教育或环境没作用吗？",
+      "back": "不能。遗传率描述群体差异的来源，不是在测环境对个人有多重要或教育是否有效。",
+      "cardBack": "不能。遗传率描述群体差异的来源，不是在测环境对个人有多重要或教育是否有效。"
+    },
+    {
+      "id": "L7-C09",
+      "title": "收养与分离双生子设计",
+      "english": "Adoption study; separated twins",
+      "oneLine": "收养和分离双生子研究能提供线索，但不是随机实验。",
+      "analogy": "换了住处不等于过去的共同经历消失；分开生活仍可能保留相似背景。",
+      "simpleExample": "自拟例：分开长大 MZ 仍共享产前经历，收养安置也可能匹配类似家庭。",
+      "explanation": "研究比较亲缘和抚养关系的不同组合，帮助区分相似性可能来自哪里。但收养家庭样本不一定代表全部家庭，安置也可能经过选择性匹配；共同产前环境和后来的互动仍可能影响结果。分离儿童研究还必须考虑知情同意和儿童福祉。",
+      "example": "自拟例：分开长大 MZ 仍共享产前经历，收养安置也可能匹配类似家庭。",
+      "pitfall": "分开养不代表排除了全部共同环境；有价值的数据也不能免除伦理责任。",
+      "source": "L7 · 收养设计的三个比较方向 · [B0086–B0093]",
+      "front": "分开抚养是否把所有共享环境都排除了？",
+      "back": "没有。共同产前经历、相似的安置条件和后来的互动仍可能存在。",
+      "cardBack": "没有。共同产前经历、相似的安置条件和后来的互动仍可能存在。"
+    },
+    {
+      "id": "L7-C10",
+      "title": "互动与相关：两种环境联系",
+      "english": "Gene–environment interaction; correlation",
+      "oneLine": "互动看环境如何改变遗传倾向的表现；相关看个人特点如何连到接触的环境。",
+      "analogy": "同一种子在不同土壤长得不同，是互动；种子的特点与被放进哪种土壤有关，是相关。",
+      "simpleExample": "自拟例：爱阅读的孩子主动借书；支持环境又影响能力如何表现。",
+      "explanation": "与遗传有关的特点，可能影响一个人得到、引发或主动选择的经验，这叫基因—环境相关。环境又可能改变遗传倾向的表现，这叫互动。两者可以同时发生，不能简化成个人的加法或乘法。",
+      "example": "自拟例：爱阅读的孩子主动借书；支持环境又影响能力如何表现。",
+      "pitfall": "相关和互动不是同义词；genes × environment 也不是计算个人行为的乘法式。",
+      "source": "L7 · 基因与环境不一定可简单相加 · [B0098–B0103]",
+      "front": "基因—环境互动与相关的最短区别？",
+      "back": "互动：环境改变遗传倾向怎样表现。相关：与遗传有关的特点连到个人接触的环境。",
+      "cardBack": "互动：环境改变遗传倾向怎样表现。相关：与遗传有关的特点连到个人接触的环境。"
+    },
+    {
+      "id": "L7-C11",
+      "title": "产前三个近似阶段",
+      "english": "Zygotic; embryonic; foetal stages",
+      "oneLine": "合子期主要分裂和着床，胚胎期形成器官，胎儿期继续增长并完善功能。",
+      "analogy": "像搭建建筑：先建立基础，再形成结构，之后完善功能。",
+      "simpleExample": "自拟例：比较两次产前暴露，要先确认发生在器官形成期还是后续成熟期。",
+      "explanation": "课件大致分为：0–2 周合子期、2–8 周胚胎期、9 周至出生胎儿期。这是教学中的近似划分，不是每个胎儿的精确时钟。脑仍会继续发育，影响也取决于计时方式、个体差异和具体器官。",
+      "example": "自拟例：比较两次产前暴露，要先确认发生在器官形成期还是后续成熟期。",
+      "pitfall": "过了第八周不代表风险消失；后续脑和功能发育仍可能受影响。",
+      "source": "L7 · 08 | 产前三阶段：时间为什么重要？ · [B0105–B0109]",
+      "front": "胚胎期与胎儿期主要重点怎么区分？",
+      "back": "胚胎期主要形成器官结构；胎儿期继续增长、完善功能，神经系统也仍在发展。",
+      "cardBack": "胚胎期主要形成器官结构；胎儿期继续增长、完善功能，神经系统也仍在发展。"
+    },
+    {
+      "id": "L7-C12",
+      "title": "致畸因素与暴露窗口",
+      "english": "Teratogen; timing; dose",
+      "oneLine": "判断产前风险，要一起看物质、剂量、发生时间和持续多久。",
+      "analogy": "同一雨量落在幼苗与成熟植物上，影响可能不同。",
+      "simpleExample": "自拟例：同一种暴露在不同孕期、不同剂量，不应预测完全相同结果。",
+      "explanation": "致畸因素可能干扰发育，但结果不只取决于物质名称。胚胎期的器官形成比较敏感，胎儿期的脑和功能成熟也可能受影响。还要结合剂量、时间、持续性及个体医疗情况判断。",
+      "example": "自拟例：同一种暴露在不同孕期、不同剂量，不应预测完全相同结果。",
+      "pitfall": "同一种物质在不同条件下，可能产生不同影响，不能一概而论。",
+      "source": "L7 · Teratogen：不是“所有接触都给出同一种结果” · [B0110–B0113]",
+      "front": "分析产前暴露最少应问哪四项？",
+      "back": "接触了什么、剂量多少、何时发生、持续多久。",
+      "cardBack": "接触了什么、剂量多少、何时发生、持续多久。"
+    },
+    {
+      "id": "L7-C13",
+      "title": "孕期药物范例的限定",
+      "english": "Medication risk; dose; indication",
+      "oneLine": "课堂中的药物风险表不能直接用来决定个人该不该用药。",
+      "analogy": "药品说明不能省去剂量栏，就像配方不能省材料份量。",
+      "simpleExample": "自拟例：课件列出阿司匹林风险，不代表医生指导的低剂量方案也一律禁用。",
+      "explanation": "Thalidomide 用来说明暴露时间的重要性。Quinine 和 aspirin 的风险还要结合剂量及为什么用药。低剂量 aspirin 有特定临床用途，疾病本身也有风险，需要专业评估；课堂例子不是个人用药建议。",
+      "example": "自拟例：课件列出阿司匹林风险，不代表医生指导的低剂量方案也一律禁用。",
+      "pitfall": "不要根据课堂表格自行停药，也不要把一个例子变成全部孕期用药规则。",
+      "source": "L7 · 三个药物例子不能写成同一条禁用规则 · [B0117–B0120]",
+      "front": "为什么不能照抄‘aspirin 一定致伤害’？",
+      "back": "表格没有完整交代剂量、用药目的和个体情况；某些低剂量方案需由专业人员评估。",
+      "cardBack": "表格没有完整交代剂量、用药目的和个体情况；某些低剂量方案需由专业人员评估。"
+    },
+    {
+      "id": "L7-C14",
+      "title": "酒精与谱系障碍",
+      "english": "Foetal alcohol spectrum disorders (FASD); FAS",
+      "oneLine": "FASD 包含多种酒精相关影响，不能只凭面部特征判断。",
+      "analogy": "同一种风险可能带来不同组合的影响，不是每个人都有同一套表现。",
+      "simpleExample": "自拟例：研究语言和注意结果需记录暴露，而不能看外貌精确倒推时间。",
+      "explanation": "酒精能跨过胎盘，胎儿代谢能力有限，因此可能影响身体、认知和行为。FAS 是 FASD 谱系中的一个诊断类别。没有已知安全饮酒量或时段，但也不能凭一次暴露信息就确定某个个体的结果。",
+      "example": "自拟例：研究语言和注意结果需记录暴露，而不能看外貌精确倒推时间。",
+      "pitfall": "并非所有受影响者都有相同面部特征；外貌也不能确定个人的全部影响。",
+      "source": "L7 · 酒精与胎儿酒精谱系障碍 · [B0121–B0124]",
+      "front": "FAS 与 FASD 的关系是什么？",
+      "back": "FAS 是 FASD 中的一个诊断类别，不包括所有酒精相关影响。",
+      "cardBack": "FAS 是 FASD 中的一个诊断类别，不包括所有酒精相关影响。"
+    },
+    {
+      "id": "L7-C15",
+      "title": "类别、概念与外表身份",
+      "english": "Category; concept; appearance–identity",
+      "oneLine": "类别是一组归在一起的对象；概念是我们对这组对象的理解。",
+      "analogy": "文件夹是一组文件，脑中的索引说明则是对文件内容的理解。",
+      "simpleExample": "自拟例：猫戴狗面具仍是猫；塑料香蕉外形像水果但不能吃。",
+      "explanation": "概念包含特征、关系、用途和预期，不只看外形。猫戴面具的任务，考察外表改变后是否仍认得它原来的类别。不同年龄的表现可能不同，但这不表示年幼儿童完全不会分类。",
+      "example": "自拟例：猫戴狗面具仍是猫；塑料香蕉外形像水果但不能吃。",
+      "pitfall": "外形变化不一定改变它属于哪一类；类别和对类别的知识也要分开。",
+      "source": "L7 · 把相似事物放在一起，是认识世界的起点 · [B0128–B0134]",
+      "front": "猫戴狗面具的任务主要测什么？",
+      "back": "测儿童能否知道外表变了，但它仍属于原来的类别，而不只是照外观命名。",
+      "cardBack": "测儿童能否知道外表变了，但它仍属于原来的类别，而不只是照外观命名。"
+    },
+    {
+      "id": "L7-C16",
+      "title": "习惯化与去习惯化",
+      "english": "Habituation; dishabituation",
+      "oneLine": "重复刺激后看得更少，新刺激后又看得更久，说明婴儿可能辨别出了差异。",
+      "analogy": "熟悉的提示音不再吸引注意，换个声音又让人转头；这反映注意变化。",
+      "simpleExample": "自拟例：看多张猫图后注视减少，狗图使注视回升。",
+      "explanation": "先反复呈现同类刺激，再呈现新类别并设置对照。注视恢复可以支持婴儿辨别出了差异，但颜色、大小和新奇感也可能影响注视。不能因此说婴儿已经掌握成人的完整定义。",
+      "example": "自拟例：看多张猫图后注视减少，狗图使注视回升。",
+      "pitfall": "看得更久不等于知道“哺乳动物”的完整概念。",
+      "source": "L7 · Habituation → dishabituation 的实验逻辑 · [B0138–B0145]",
+      "front": "习惯化研究三步逻辑？",
+      "back": "重复呈现后注视下降，换新类别后注视恢复；还要排除颜色、大小等视觉差异的影响。",
+      "cardBack": "重复呈现后注视下降，换新类别后注视恢复；还要排除颜色、大小等视觉差异的影响。"
+    },
+    {
+      "id": "L7-C17",
+      "title": "类别层级",
+      "english": "Superordinate; basic; subordinate",
+      "oneLine": "动物是上位，狗是基础，巴哥犬是下位；范围依次缩小。",
+      "analogy": "像大文件夹、常用文件夹和更细子文件夹，包含范围逐步缩小。",
+      "simpleExample": "自拟例：同一只巴哥犬可同时叫动物、狗、巴哥犬。",
+      "explanation": "基础层级通常既提供足够信息，又容易识别，所以常较早用于日常命名。不过经验和语言会影响熟悉程度，熟悉某领域的人也可能很早学会下位名称。这不是绝对的学习顺序。",
+      "example": "自拟例：同一只巴哥犬可同时叫动物、狗、巴哥犬。",
+      "pitfall": "同一个对象可以有不同层级的正确名称，不是只能选一个。",
+      "source": "L7 · 为什么“猫”常比“暹罗猫”先好用？ · [B0149–B0155]",
+      "front": "动物、狗、巴哥犬各是什么层级？",
+      "back": "动物是上位，狗是基础，巴哥犬是下位：从宽泛到具体。",
+      "cardBack": "动物是上位，狗是基础，巴哥犬是下位：从宽泛到具体。"
+    },
+    {
+      "id": "L7-C18",
+      "title": "因果功能与概念学习",
+      "english": "Theory-based concepts; causal explanation",
+      "oneLine": "理解一个特征有什么作用，比只背外表更有助于记忆和判断新例子。",
+      "analogy": "记按钮位置不如懂按钮功能，更容易适应新机器。",
+      "simpleExample": "自拟例：理解保护色帮助隐藏，比只背某动物颜色更容易联系新例。",
+      "explanation": "Wugs 和 Gillies 是虚构类别。研究比较“只说明特征”和“同时解释特征的因果功能”。课件报告后一组更会分类新图，次日记忆也更好；但还要检查讲解长度、趣味性和记忆负担等差异。",
+      "example": "自拟例：理解保护色帮助隐藏，比只背某动物颜色更容易联系新例。",
+      "pitfall": "结果不表示外表线索没用；Wugs 和 Gillies 也不是真实物种。",
+      "source": "L7 · Theory-based concepts 超越外形相似 · [B0159–B0165]",
+      "front": "因果解释为什么可能比只背特征有效？",
+      "back": "因果解释把特征和功能连起来，让信息更有条理，也便于预测新例子。",
+      "cardBack": "因果解释把特征和功能连起来，让信息更有条理，也便于预测新例子。"
+    },
+    {
+      "id": "L7-C19",
+      "title": "愿望、信念与行动",
+      "english": "Desire; belief; action; naïve psychology",
+      "oneLine": "愿望说明想达到什么，信念说明认为该怎么做；两者共同影响行动。",
+      "analogy": "同想去车站，认为不同路更快便会走不同路。",
+      "simpleExample": "自拟例：两人都想喝水，一人认为在厨房，另一人以为在书包，行动不同。",
+      "explanation": "朴素心理学是日常用愿望、信念等心理状态解释行为的方式。两个人目标相同，但相信的事实不同，就可能采取不同行动。因此，不能只看动作不同就认定他们想要的东西不同。",
+      "example": "自拟例：两人都想喝水，一人认为在厨房，另一人以为在书包，行动不同。",
+      "pitfall": "Naïve 指日常解释方式，不是愚蠢；信念也不一定符合现实。",
+      "source": "L7 · 为什么同一个人会做这件事？ · [B0169–B0175]",
+      "front": "同一愿望为什么会有不同行动？",
+      "back": "因为他们相信的事实、位置或可行方法不同，即使目标一样也可能做出不同选择。",
+      "cardBack": "因为他们相信的事实、位置或可行方法不同，即使目标一样也可能做出不同选择。"
+    },
+    {
+      "id": "L7-C20",
+      "title": "模仿与证据争议",
+      "english": "Imitation; neonatal imitation",
+      "oneLine": "模仿是复制观察到的动作；新生儿是否有这种能力，后续研究并不一致。",
+      "analogy": "跟着示范做一道动作，不等于已经理解示范者所有目的。",
+      "simpleExample": "自拟例：孩子看成人拍手后尝试拍手，但不应由此断言完整读心。",
+      "explanation": "模仿能帮助学习。课件介绍了 Meltzoff 与 Moore 的新生儿动作研究，但后来的大型纵向研究没有稳定重现极早期模仿的结论。这不否定较大婴儿和儿童的模仿学习。",
+      "example": "自拟例：孩子看成人拍手后尝试拍手，但不应由此断言完整读心。",
+      "pitfall": "动作相似不等于完整理解对方的心理；经典研究也不代表结论没有争议。",
+      "source": "L7 · Imitation：观察后复制他人的动作 · [B0179–B0180]",
+      "front": "如何记新生儿模仿的证据状态？",
+      "back": "经典研究提出重要可能性，但后续重现不一致，所以应保留争议。",
+      "cardBack": "经典研究提出重要可能性，但后续重现不一致，所以应保留争议。"
+    },
+    {
+      "id": "L7-C21",
+      "title": "共同注意",
+      "english": "Joint attention",
+      "oneLine": "共同注意是两人与彼此协调，关注同一对象；这能帮助理解词语指什么。",
+      "analogy": "像两人把光标放同一处，说明‘这里’指什么。",
+      "simpleExample": "自拟例：孩子顺着照料者手指看鸟，听到‘鸟在树上’。",
+      "explanation": "视线、指点和声音可以让两人把注意放在同一目标上，帮助孩子把词语与物体联系起来。课件常在约 12 个月讨论这种能力，但发展是渐进的。会跟随指点不等于已经理解复杂错误信念。",
+      "example": "自拟例：孩子顺着照料者手指看鸟，听到‘鸟在树上’。",
+      "pitfall": "偶然看同一物不等于协调注意，更不能直接证明完整心理理解。",
+      "source": "L7 · Joint attention：两个人知道自己正看同一件事 · [B0181–B0186]",
+      "front": "共同注意为何有助词语学习？",
+      "back": "双方关注同一对象后，词语指什么更清楚，也更容易结合解释和互动学习。",
+      "cardBack": "双方关注同一对象后，词语指什么更清楚，也更容易结合解释和互动学习。"
+    },
+    {
+      "id": "L7-C22",
+      "title": "心理理论的含义",
+      "english": "Theory of Mind (ToM)",
+      "oneLine": "ToM 是理解别人的想法、愿望和感受可能与自己不同，不是直接读心。",
+      "analogy": "像给每个角色保留各自知道的信息，而不是让所有角色都知道你知道的事。",
+      "simpleExample": "自拟例：自己喜欢卡车，仍预测爱毛绒玩具的朋友会选毛绒。",
+      "explanation": "心理理论涉及理解别人的愿望、信念、知识和情绪可能不同于自己。婴儿注视小猫的任务提供早期目标预期线索，但不等于能明确回答错误信念题。年龄差异也可能受语言要求影响。",
+      "example": "自拟例：自己喜欢卡车，仍预测爱毛绒玩具的朋友会选毛绒。",
+      "pitfall": "一次注视不能证明完整 ToM；答错任务也不代表没有感情。",
+      "source": "L7 · 定义与发展路径 · [B0190–B0196]",
+      "front": "ToM 与神秘读心有何区别？",
+      "back": "根据语言、行为和情境推测他人的心理状态，并知道这些状态可能不同于自己。",
+      "cardBack": "根据语言、行为和情境推测他人的心理状态，并知道这些状态可能不同于自己。"
+    },
+    {
+      "id": "L7-C23",
+      "title": "错误信念与控制问题",
+      "english": "False-belief task; actual / believed location",
+      "oneLine": "预测主人公的行动，要按她知道的信息，而不是你知道的真实位置。",
+      "analogy": "读侦探故事时每个角色知道不同线索，预测要按其线索。",
+      "simpleExample": "自拟例：朋友没看见钥匙由桌上移入抽屉，他先会找桌上。",
+      "explanation": "女孩把玩具放进玩具屋后离开，别人再把玩具移到衣柜。她没看见，所以回来会先找玩具屋。问实际位置和原来位置，可检查答题者是否理解、记住故事；预测题还要求暂时放下自己知道的真相。",
+      "example": "自拟例：朋友没看见钥匙由桌上移入抽屉，他先会找桌上。",
+      "pitfall": "错误信念不是故意说谎；答错一题也不能判断共情或道德。",
+      "source": "L7 · 四步剧情：关键是主人公没看见物品被搬走 · [B0200–B0207]",
+      "front": "‘女孩先去哪里找’与‘实际在哪里’答案为何不同？",
+      "back": "她先找玩具屋，但玩具实际在衣柜。因为她没看见移动，仍相信玩具在原处。",
+      "cardBack": "她先找玩具屋，但玩具实际在衣柜。因为她没看见移动，仍相信玩具在原处。"
+    },
+    {
+      "id": "L7-C24",
+      "title": "ToM 的文化与任务要求",
+      "english": "Cognitive / affective ToM; task demands",
+      "oneLine": "ToM 不只靠一道题衡量；语言、文化、记忆和抑制能力都会影响答题。",
+      "analogy": "同一数学能力换难懂问句也可能答错，测量要适配。",
+      "simpleExample": "自拟例：学生理解别人不知答案，但复杂长问句让他漏掉故事信息。",
+      "explanation": "认知 ToM 关注别人知道或相信什么，情感 ToM 关注别人感受如何。文化和双语研究的结果，要看比较组和题目是否适合被试，不能把分数当成全部能力。这部分来自 L7 课件补充，文字稿未覆盖。",
+      "example": "自拟例：学生理解别人不知答案，但复杂长问句让他漏掉故事信息。",
+      "pitfall": "单题不能用于临床诊断；双语也不保证每个人更早通过任务。",
+      "source": "L7 · 文化与语言影响任务表现 · [B0209–B0218]",
+      "front": "ToM 任务失败为什么不是全部社会能力失败？",
+      "back": "题目还要求理解语言、记住故事、放下自己的信息；答错不一定全是心理理解问题。",
+      "cardBack": "题目还要求理解语言、记住故事、放下自己的信息；答错不一定全是心理理解问题。"
+    },
+    {
+      "id": "L7-C25",
+      "title": "想象伙伴的多种形式",
+      "english": "Imaginary companion; paracosm; shared IC",
+      "oneLine": "想象伙伴可以是看不见的朋友、有个性的玩具、扮演身份或共享角色。",
+      "analogy": "共同编剧能让玩具和角色参与故事，不需要相信它现实存在。",
+      "simpleExample": "自拟例：两名孩子约定玩具熊有固定性格并一起维持故事。",
+      "explanation": "课件介绍无形伙伴、拟人化玩具、扮演身份、幻想世界和共享角色。这类儿童游戏并不少见，判断时要看使用方式、是否困扰及整体适应，不能仅凭它存在就下结论。本节来自 L7 课件补充，L8 继续讲解。",
+      "example": "自拟例：两名孩子约定玩具熊有固定性格并一起维持故事。",
+      "pitfall": "有想象伙伴不等于精神障碍，也不保证发展更快。",
+      "source": "L7 · Imaginary companion 可以有哪些形式？ · [B0220–B0225]",
+      "front": "Shared companion 与 paracosm 分别指什么？",
+      "back": "Shared companion 是多人共同维持的虚构角色；paracosm 是细致的想象世界。",
+      "cardBack": "Shared companion 是多人共同维持的虚构角色；paracosm 是细致的想象世界。"
+    },
+    {
+      "id": "L7-C26",
+      "title": "想象伙伴的相关与因果",
+      "english": "IC associations; referential communication",
+      "oneLine": "想象伙伴与语言、创造力有关，不代表创造一个角色就能提升能力。",
+      "analogy": "爱阅读的人常有更多书，但不能据此认定只买书就能提高阅读能力。",
+      "simpleExample": "自拟例：孩子向玩具熊讲清学校人物和顺序，是潜在沟通练习。",
+      "explanation": "角色游戏可能带来讲故事、谈心理状态的机会。但语言能力较好的孩子也可能更爱这样玩，游戏兴趣、文化和报告方式也可能影响结果。因此，关联不能证明直接训练效果。L7 为课件补充，L8 继续讨论。",
+      "example": "自拟例：孩子向玩具熊讲清学校人物和顺序，是潜在沟通练习。",
+      "pitfall": "可能有练习机会，不等于已经证明想象伙伴能直接提升能力。",
+      "source": "L7 · 研究相关与因果的界线 · [B0226–B0229]",
+      "front": "IC 与更好语言表现的相关还能有哪些解释？",
+      "back": "可能是游戏带来练习，也可能是原有能力、游戏兴趣、共同条件或报告方式造成关联。",
+      "cardBack": "可能是游戏带来练习，也可能是原有能力、游戏兴趣、共同条件或报告方式造成关联。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "L7-Q01",
+      "conceptId": "L7-C01",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "个体全部 DNA 的同义词",
+        "一种复杂行为对应一种基因",
+        "不受生理过程影响的纯环境结果",
+        "可观察特征，由遗传相关过程与环境互动形成"
+      ],
+      "optionsEn": [
+        "A synonym for all of an individual's DNA",
+        "One complex behaviour mapped to one gene",
+        "A purely environmental outcome without biological processes",
+        "Observable traits arising through genetic processes and environment"
+      ],
+      "answer": 3,
+      "explanation": "表型是实际表现出来的特征，不是 DNA 本身。遗传、生理过程和环境都会影响它。",
+      "optionExplanations": [
+        "DNA 的遗传组合是基因型，不是表型。",
+        "复杂行为通常受多个基因和环境影响，不是一种行为对应一个基因。",
+        "表型也受遗传和生理过程影响，不能只归给环境。",
+        "表型看的是能观察到的表现；形成过程要同时考虑遗传、生理和环境。"
+      ],
+      "source": "L7 · 46 条染色体与遗传信息 · [B0031–B0037]",
+      "origin": "notes",
+      "stem": "哪项最准确描述表型？",
+      "stemEn": "Which best describes phenotype?"
+    },
+    {
+      "id": "L7-Q02",
+      "conceptId": "L7-C02",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "options": [
+        "该变异必定在人群中更常见",
+        "所有携带者固定同日发病",
+        "一个相关变异拷贝即可影响表型",
+        "该基因更优秀"
+      ],
+      "optionsEn": [
+        "The variant is necessarily more common",
+        "All carriers develop disease on the same fixed day",
+        "One relevant variant copy can affect the phenotype",
+        "The gene is superior"
+      ],
+      "answer": 2,
+      "explanation": "显性说的是：有一个相关变异拷贝，就能影响表型。它不说明这个变异有多常见或好不好。",
+      "optionExplanations": [
+        "是否常见是频率问题，与显性不是一回事。",
+        "携带者的外显率和发病年龄可能不同，不会都在同一天发病。",
+        "关键是一个相关拷贝就能影响表型，而不是比较基因强弱。",
+        "显性和隐性不评价基因是否优秀。"
+      ],
+      "source": "L7 · Dominant / recessive 是特定遗传模式 · [B0041–B0044]",
+      "origin": "notes",
+      "stem": "显性遗传中的‘显性’指什么？",
+      "stemEn": "What does 'dominant' mean in a genetic inheritance pattern?"
+    },
+    {
+      "id": "L7-Q03",
+      "conceptId": "L7-C03",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "同基因型一定同结果",
+        "基因与环境共同影响发展",
+        "遗传变异已被饮食删除",
+        "基因完全不重要"
+      ],
+      "optionsEn": [
+        "The same genotype guarantees identical outcomes",
+        "Genes and environment jointly shape development",
+        "Diet has deleted the variants",
+        "Genes are entirely irrelevant"
+      ],
+      "answer": 1,
+      "explanation": "管理改变了苯丙氨酸暴露及其后果，而没有改变遗传变异。这说明遗传风险和环境条件会共同影响结果。",
+      "optionExplanations": [
+        "同有遗传风险，管理不同仍可能带来不同结果。",
+        "遗传影响代谢，环境管理影响后果，两者都在起作用。",
+        "饮食管理不会把 DNA 变异删除。",
+        "PKU 的代谢问题仍有遗传基础，不能说基因没用。"
+      ],
+      "source": "L7 · PKU 是基因与环境互动的好例子 · [B0045–B0048]",
+      "origin": "notes",
+      "stem": "PKU 基因未改变，但专业饮食管理改善结局，说明什么？",
+      "stemEn": "PKU variants remain, but professional dietary management improves outcomes. What does this show?"
+    },
+    {
+      "id": "L7-Q04",
+      "conceptId": "L7-C04",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "选择偏差限制对全部 XYY 人群的推广",
+        "核型已证明暴力原因",
+        "机构样本自动代表所有人",
+        "基因无需环境或个体差异"
+      ],
+      "optionsEn": [
+        "Selection bias limits generalisation to all XYY people",
+        "The karyotype proves a cause of violence",
+        "Institutional samples automatically represent everyone",
+        "Genes require no environmental or individual context"
+      ],
+      "answer": 0,
+      "explanation": "司法机构中的人本来就经过筛选，可能集中包含某些问题。不能把这类样本的发现推到所有 XYY 人身上。",
+      "optionExplanations": [
+        "样本不是从全部 XYY 人群中代表性抽取的，所以推广受到限制。",
+        "这样的观察不能证明 XYY 核型导致暴力。",
+        "来自司法机构不代表能反映全部人群。",
+        "同一核型的人仍会受环境、支持和个体差异影响。"
+      ],
+      "source": "L7 · XYY：当研究样本本身带偏，会发生什么？ · [B0052–B0059]",
+      "origin": "notes",
+      "stem": "只从司法机构抽样 XYY，最大推论问题是什么？",
+      "stemEn": "What is a major inference problem when XYY samples come only from justice institutions?"
+    },
+    {
+      "id": "L7-Q05",
+      "conceptId": "L7-C05",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "一对双胞胎巧合的数量",
+        "每个人基因占人格的百分比",
+        "所有 DNA 是否有一半完全不同",
+        "两类群体在同一特质上的相关程度"
+      ],
+      "optionsEn": [
+        "Coincidences in one twin pair",
+        "Genes' percentage of each person's personality",
+        "Whether half of all DNA is completely different",
+        "Correlations for the same trait across the two twin groups"
+      ],
+      "answer": 3,
+      "explanation": "研究比较 MZ 和 DZ 在同一特质上有多相似，再结合两类群体的遗传相似程度解释。不是计算某个人有几成由基因构成。",
+      "optionExplanations": [
+        "一对双胞胎的巧合，不能代替群体的相关数据。",
+        "遗传率描述群体差异，不是个人的人格配方。",
+        "DZ 共享约一半遗传变异，不是全部 DNA 有一半不同。",
+        "两组测相同特质，比较相关程度，才是这种研究的基本做法。"
+      ],
+      "source": "L7 · Behavioural genetics 问的是变异来源 · [B0063–B0065]",
+      "origin": "notes",
+      "stem": "MZ 与 DZ 比较研究通常比较什么？",
+      "stemEn": "What do MZ–DZ studies typically compare?"
+    },
+    {
+      "id": "L7-Q06",
+      "conceptId": "L7-C06",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "因为同住便自动拥有完全相同经验",
+        "MZ 和 DZ 遗传相似度完全一样",
+        "等环境假设",
+        "遗传率一定切分个人"
+      ],
+      "optionsEn": [
+        "Identical experience automatically follows from co-residence",
+        "MZ and DZ have identical genetic similarity",
+        "The equal-environments assumption",
+        "Heritability necessarily splits an individual"
+      ],
+      "answer": 2,
+      "explanation": "两组接受的活动安排不同，环境也可能让 MZ 更相似。这会挑战等环境假设，不能把额外相似全归给基因。",
+      "optionExplanations": [
+        "同住不等于做相同活动；题目正展示了经验差异。",
+        "MZ 和 DZ 的遗传相似程度本来就不同。",
+        "如果与特质有关的环境更相似，MZ 的高相关就可能不全来自遗传。",
+        "遗传率看的是群体差异，不是一个人的组成。"
+      ],
+      "source": "L7 · Behavioural genetics 问的是变异来源 · [B0067–B0070]",
+      "origin": "notes",
+      "stem": "MZ 因外表相像被安排相同活动，而 DZ 被分班，最挑战什么？",
+      "stemEn": "MZ twins receive similar activities while DZ twins are split into classes. What assumption is challenged?"
+    },
+    {
+      "id": "L7-Q07",
+      "conceptId": "L7-C07",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        ".60",
+        ".40",
+        ".20",
+        ".80"
+      ],
+      "optionsEn": [
+        ".60",
+        ".40",
+        ".20",
+        ".80"
+      ],
+      "answer": 1,
+      "explanation": "先算 .50−.30=.20，再乘二，得到 h²≈.40。它仍是依赖模型假设的群体估计。",
+      "optionExplanations": [
+        "按题目公式算出的结果是 .40，不是 .60。",
+        "两组相关先相减再乘二：2×(.50−.30)=.40。",
+        "这是两组相关的差，还需要乘二。",
+        "这是把两组相关相加；公式要求相减后乘二。"
+      ],
+      "source": "L7 · 把两个相关系数放进同一个公式 · [B0074–B0078]",
+      "origin": "notes",
+      "stem": "rMZ=.50、rDZ=.30，按简式 h² 约多少？",
+      "stemEn": "With rMZ=.50 and rDZ=.30, what is h² under the simplified formula?"
+    },
+    {
+      "id": "L7-Q08",
+      "conceptId": "L7-C08",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "options": [
+        "特定人群环境中，特质差异的遗传贡献估计",
+        "某个人 40% 的人格由基因构成",
+        "40% 的人完全由基因决定",
+        "剩下 60% 可由父母逐项控制"
+      ],
+      "optionsEn": [
+        "An estimate of genetic contribution to trait variance in a specific population and environment",
+        "Genes make up 40% of one person's personality",
+        "40% of people are completely genetically determined",
+        "Parents can individually control the remaining 60%"
+      ],
+      "answer": 0,
+      "explanation": "h²=.40 估计的是特定人群、环境和模型下，特质差异的遗传贡献。不是一个人的 40% 由基因构成。",
+      "optionExplanations": [
+        "这里的比例针对群体中的特质差异，且依赖研究条件。",
+        "不能把一个人的人格切成 40% 基因和 60% 环境。",
+        "40% 不是人数比例，更不是一部分人完全由基因决定。",
+        "非遗传因素不等于父母能逐项控制的因素。"
+      ],
+      "source": "L7 · 为什么环境改变后，h² 也可能改变？ · [B0078–B0082]",
+      "origin": "notes",
+      "stem": "h²=.40 应怎样解释？",
+      "stemEn": "How should h²=.40 be interpreted?"
+    },
+    {
+      "id": "L7-Q09",
+      "conceptId": "L7-C09",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "所有日常朋友与老师必定相同",
+        "完全没有任何环境联系",
+        "随机化已排除所有混淆",
+        "产前经历和选择性安置形成的相似条件"
+      ],
+      "optionsEn": [
+        "Necessarily all daily friends and teachers",
+        "No environmental connections at all",
+        "Randomisation has removed every confound",
+        "Prenatal experiences and similar conditions created by selective placement"
+      ],
+      "answer": 3,
+      "explanation": "分开抚养不代表所有共同环境都消失。双生子仍可能共享产前经历，收养安置也可能把他们放进相似家庭。",
+      "optionExplanations": [
+        "不同家庭里的朋友和老师不一定相同。",
+        "共同产前因素等环境联系仍可能存在。",
+        "这不是严格随机实验，不能保证排除全部其他解释。",
+        "分开养后，共同产前经历和相似的安置条件仍可能影响结果。"
+      ],
+      "source": "L7 · 收养设计的三个比较方向 · [B0086–B0093]",
+      "origin": "notes",
+      "stem": "分离同卵双生子仍可能共享什么？",
+      "stemEn": "What may separated MZ twins still share?"
+    },
+    {
+      "id": "L7-Q10",
+      "conceptId": "L7-C10",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "必须只有随机暴露",
+        "个人行为的精确乘法公式",
+        "特点与所选择环境的相关路径",
+        "所有环境已独立于个体特点"
+      ],
+      "optionsEn": [
+        "Only random exposure is possible",
+        "An exact multiplication formula for personal behaviour",
+        "A correlation between dispositions and selected environments",
+        "All environments are independent of personal characteristics"
+      ],
+      "answer": 2,
+      "explanation": "孩子的阅读兴趣影响了他主动选择的环境。这是个人特点与接触环境相联系的例子，不是环境随机分配。",
+      "optionExplanations": [
+        "孩子主动借书，说明接触的环境不一定随机。",
+        "乘号帮助表达互动，不是计算个人行为的公式。",
+        "个人特点可能影响主动选择、引发或得到哪些经验。",
+        "题目恰好说明个人特点与环境可能相联系。"
+      ],
+      "source": "L7 · 基因与环境不一定可简单相加 · [B0098–B0103]",
+      "origin": "notes",
+      "stem": "爱阅读的儿童主动借更多书，说明哪种基因—环境路径？",
+      "stemEn": "A child with a reading-related disposition actively borrows more books. Which pathway is illustrated?"
+    },
+    {
+      "id": "L7-Q11",
+      "conceptId": "L7-C11",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "胚胎期结束：脑发展不再受暴露影响",
+        "胚胎期：主要器官结构形成",
+        "合子期：主要器官结构已全部形成",
+        "胎儿期：只增加体重而无功能变化"
+      ],
+      "optionsEn": [
+        "End of embryonic stage: brain development unaffected by exposure",
+        "Embryonic: major organ structures form",
+        "Zygotic: all major organ structures already formed",
+        "Foetal: only weight gain without functional change"
+      ],
+      "answer": 1,
+      "explanation": "胚胎期约为 2–8 周，主要形成器官和肢体结构。胎儿期仍有增长和功能成熟，脑也继续发育。",
+      "optionExplanations": [
+        "胚胎期结束后脑仍在发育，暴露仍可能有影响。",
+        "胚胎期约在 2–8 周，重点是形成器官和肢体。",
+        "合子期主要是分裂、早期组织形成和着床，不是器官全部完成。",
+        "胎儿期不只长体重，器官功能和神经系统也在成熟。"
+      ],
+      "source": "L7 · 08 | 产前三阶段：时间为什么重要？ · [B0105–B0109]",
+      "origin": "notes",
+      "stem": "哪组产前阶段—任务配对最合适？",
+      "stemEn": "Which prenatal stage–process pairing is most appropriate?"
+    },
+    {
+      "id": "L7-Q12",
+      "conceptId": "L7-C12",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "物质、剂量、发生时期与持续时间",
+        "只知道药物名称",
+        "只知道父母职业",
+        "一律假设每个胎儿结果相同"
+      ],
+      "optionsEn": [
+        "Agent, dose, timing, and duration",
+        "Only the drug name",
+        "Only parental occupation",
+        "Assuming identical outcomes for every foetus"
+      ],
+      "answer": 0,
+      "explanation": "同一种暴露的影响，可能随剂量、发育时期和持续时间不同而变化。只知道名称还不够判断风险。",
+      "optionExplanations": [
+        "这些信息能说明暴露发生在什么发育阶段、程度多大。",
+        "同一种药物在不同剂量和时间下，影响可能不同。",
+        "职业不能代替具体的暴露记录。",
+        "同样暴露下也可能有个体差异，不能预设结果一样。"
+      ],
+      "source": "L7 · Teratogen：不是“所有接触都给出同一种结果” · [B0110–B0113]",
+      "origin": "notes",
+      "stem": "判断一种产前暴露风险时，哪项信息最必要？",
+      "stemEn": "Which information is essential when evaluating a prenatal exposure?"
+    },
+    {
+      "id": "L7-Q13",
+      "conceptId": "L7-C13",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "所有孕期药物都没有风险",
+        "课件能替代全部临床指导",
+        "低剂量等于自行选择任何药",
+        "缺少剂量、适应症和个体风险，需专业评估"
+      ],
+      "optionsEn": [
+        "No medication carries pregnancy risks",
+        "Slides replace all clinical guidance",
+        "Low dose means self-selecting any medicine",
+        "Dose, indication, and individual risks require professional assessment"
+      ],
+      "answer": 3,
+      "explanation": "课堂表格没有完整交代剂量、用药目的和个体情况。某些低剂量方案有特定临床用途，因此不能据此自行停药。",
+      "optionExplanations": [
+        "需要具体评估风险，不是说所有药物都没有风险。",
+        "教学简表不能代替针对个人的临床评估。",
+        "医生指导的特定方案，不等于可以自行选择任何药物。",
+        "必须结合剂量、适应症和个人风险，请专业人员评估。"
+      ],
+      "source": "L7 · 三个药物例子不能写成同一条禁用规则 · [B0117–B0120]",
+      "origin": "notes",
+      "stem": "为什么课堂 aspirin 风险表不能直接变成个人停药建议？",
+      "stemEn": "Why should the lecture's aspirin risk table not directly become advice to stop medication?"
+    },
+    {
+      "id": "L7-Q14",
+      "conceptId": "L7-C14",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "options": [
+        "所有暴露都会形成同一诊断",
+        "外貌能精确重建饮酒日期",
+        "FAS 是 FASD 谱系中的一个诊断类别",
+        "两者都只指相同面部特征"
+      ],
+      "optionsEn": [
+        "Every exposure yields the same diagnosis",
+        "Appearance precisely reconstructs exposure dates",
+        "FAS is one diagnostic category within FASD",
+        "Both refer only to identical facial features"
+      ],
+      "answer": 2,
+      "explanation": "FAS 是 FASD 中的一个诊断类别。FASD 还包括不同的身体、认知和行为影响，不只看面部特征。",
+      "optionExplanations": [
+        "暴露有风险，不代表每个人都会出现同一诊断。",
+        "外貌不能精确倒推饮酒日期。",
+        "FASD 的范围更广，FAS 是其中一类。",
+        "并非所有受影响者都有同样的面部表现。"
+      ],
+      "source": "L7 · 酒精与胎儿酒精谱系障碍 · [B0121–B0124]",
+      "origin": "notes",
+      "stem": "FAS 与 FASD 的关系是什么？",
+      "stemEn": "How are FAS and FASD related?"
+    },
+    {
+      "id": "L7-Q15",
+      "conceptId": "L7-C15",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "两个词完全同义，不需区分",
+        "对象集合与关于该集合的心理知识",
+        "类别只由颜色决定，概念只由词语决定",
+        "类别是心理知识，概念是外部集合"
+      ],
+      "optionsEn": [
+        "Complete synonyms without distinction",
+        "A set of objects versus mental knowledge about it",
+        "Category only by colour; concept only by words",
+        "Category is mental knowledge; concept is the external set"
+      ],
+      "answer": 1,
+      "explanation": "Category 是被归为一组的对象，concept 是对这组对象的知识。概念可包含特征、关系、用途和预期。",
+      "optionExplanations": [
+        "一个指对象集合，一个指对集合的理解，定义不同。",
+        "对象怎么归组是类别；脑中怎么理解这组对象是概念。",
+        "分类和理解不只靠颜色或词语，还涉及学习等信息。",
+        "这里把类别与概念的定义反过来了。"
+      ],
+      "source": "L7 · 把相似事物放在一起，是认识世界的起点 · [B0128–B0134]",
+      "origin": "notes",
+      "stem": "Category 与 concept 的区别是什么？",
+      "stemEn": "What distinguishes category from concept?"
+    },
+    {
+      "id": "L7-Q16",
+      "conceptId": "L7-C16",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "在该任务中辨别了差异，仍需控制视觉新奇",
+        "已知道成人生物学定义",
+        "已能准确说出猫与狗词语",
+        "完全排除了颜色大小差异"
+      ],
+      "optionsEn": [
+        "Discrimination in this task, with visual novelty still requiring control",
+        "Knowledge of adult biological definitions",
+        "Accurate spoken naming of cats and dogs",
+        "Automatic exclusion of colour and size effects"
+      ],
+      "answer": 0,
+      "explanation": "注视恢复说明婴儿在任务中可能分辨出了差异。还要排除颜色、大小和新奇感，不能直接说他们懂成人的完整定义。",
+      "optionExplanations": [
+        "注视是间接线索，可以支持辨别，但要控制其他视觉差异。",
+        "注意恢复不能测出是否懂完整生物学定义。",
+        "任务没有要求婴儿说话，不能推出会命名。",
+        "视觉差异必须通过设计控制，不能自动视为已排除。"
+      ],
+      "source": "L7 · Habituation → dishabituation 的实验逻辑 · [B0138–B0145]",
+      "origin": "notes",
+      "stem": "婴儿看猫图注视下降、狗图注视恢复，最稳妥说明什么？",
+      "stemEn": "Looking declines for cat images and recovers for a dog image. What is the safest conclusion?"
+    },
+    {
+      "id": "L7-Q17",
+      "conceptId": "L7-C17",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "基础",
+      "options": [
+        "基础—下位—上位",
+        "下位—基础—上位",
+        "三个同样宽泛的层级",
+        "上位—基础—下位"
+      ],
+      "optionsEn": [
+        "Basic–subordinate–superordinate",
+        "Subordinate–basic–superordinate",
+        "Three equally broad levels",
+        "Superordinate–basic–subordinate"
+      ],
+      "answer": 3,
+      "explanation": "范围从动物到狗再到巴哥犬，越来越具体。因此依次是上位、基础、下位。",
+      "optionExplanations": [
+        "动物的范围最广，不是基础层级；巴哥犬也不是上位。",
+        "动物应是上位，巴哥犬应是下位，顺序反了。",
+        "三者的范围不同，并不是同样宽泛。",
+        "动物包含狗等类别，狗又包含巴哥犬等细类。"
+      ],
+      "source": "L7 · 为什么“猫”常比“暹罗猫”先好用？ · [B0149–B0155]",
+      "origin": "notes",
+      "stem": "‘动物—狗—巴哥犬’对应哪组层级？",
+      "stemEn": "Which levels correspond to 'animal–dog–pug'?"
+    },
+    {
+      "id": "L7-Q18",
+      "conceptId": "L7-C18",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "同卵与异卵双胞胎",
+        "安全依恋与成人工作类型",
+        "特征说明与特征加因果功能说明",
+        "真实物种与完全无刺激"
+      ],
+      "optionsEn": [
+        "MZ versus DZ twins",
+        "Secure attachment versus adult employment",
+        "Feature descriptions versus features plus causal functions",
+        "Real species versus no stimuli"
+      ],
+      "answer": 2,
+      "explanation": "研究比较的是：只讲特征，还是同时讲这些特征有什么因果功能。后一种解释可帮助组织信息和判断新例子。",
+      "optionExplanations": [
+        "双生子比较研究遗传，不是这里的类别学习设计。",
+        "依恋与工作类型不是此研究的比较组。",
+        "关键差别是有没有解释特征的因果功能。",
+        "两者都是虚构类别，研究不是比较真实物种与无刺激。"
+      ],
+      "source": "L7 · Theory-based concepts 超越外形相似 · [B0159–B0165]",
+      "origin": "notes",
+      "stem": "Wugs/Gillies 研究的关键比较是什么？",
+      "stemEn": "What was the key comparison in the Wugs/Gillies learning study?"
+    },
+    {
+      "id": "L7-Q19",
+      "conceptId": "L7-C19",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "愿望本身决定唯一路线",
+        "相同愿望可导致不同行动",
+        "不同动作必定代表愿望不同",
+        "信念就是实际真相"
+      ],
+      "optionsEn": [
+        "Desire alone determines a single route",
+        "The same desire can lead to different actions",
+        "Different actions necessarily mean different desires",
+        "Belief equals objective truth"
+      ],
+      "answer": 1,
+      "explanation": "想喝水的愿望相同，但相信水在不同地方，就会去不同地方找。行动不只由愿望决定，也受信念影响。",
+      "optionExplanations": [
+        "想达到什么，不会单独决定采取哪条路线。",
+        "相同目标配上不同信念，可以产生不同行动。",
+        "动作不同还可能是因为相信的事实不同，不一定是愿望不同。",
+        "信念可能不符合现实，不等于真相。"
+      ],
+      "source": "L7 · 为什么同一个人会做这件事？ · [B0169–B0175]",
+      "origin": "notes",
+      "stem": "两人都想喝水但对水的位置看法不同，会怎样？",
+      "stemEn": "Two people both want water but believe it is in different places. What follows?"
+    },
+    {
+      "id": "L7-Q20",
+      "conceptId": "L7-C20",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "经典结果重要，但后续大型研究未稳定重现",
+        "所有新生儿模仿已无争议证实",
+        "不一致结果证明所有年龄都不会模仿",
+        "一次动作匹配证明成熟读心"
+      ],
+      "optionsEn": [
+        "Classic findings matter, but later large studies did not consistently replicate them",
+        "Imitation in all neonates is conclusively established",
+        "Mixed results show no imitation at any age",
+        "One matched movement proves mature mind reading"
+      ],
+      "answer": 0,
+      "explanation": "新生儿经典研究提出了极早期模仿的可能性，但后续大型研究未稳定重现。应保留争议，同时不否定较大婴儿的模仿。",
+      "optionExplanations": [
+        "后续证据不一致，所以不能把极早期模仿当作定论。",
+        "经典研究有影响力，但不代表后续争议消失。",
+        "新生儿结果不一致，不等于所有年龄都不能模仿。",
+        "动作匹配与理解复杂心理状态是不同能力。"
+      ],
+      "source": "L7 · Imitation：观察后复制他人的动作 · [B0179–B0180]",
+      "origin": "notes",
+      "stem": "如何表述新生儿模仿研究最合适？",
+      "stemEn": "What is the best statement about neonatal imitation evidence?"
+    },
+    {
+      "id": "L7-Q21",
+      "conceptId": "L7-C21",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "只要看同物就证明完整错误信念",
+        "复制成人动作的模仿",
+        "按自己的偏好推测他人愿望",
+        "共同注意"
+      ],
+      "optionsEn": [
+        "Looking together proves full false-belief understanding",
+        "Imitation of the adult's movement",
+        "Projecting one's own preference onto another",
+        "Joint attention"
+      ],
+      "answer": 3,
+      "explanation": "孩子跟随成人的指点，两人关注同一只鸟，这是共同注意。共享目标有助于孩子理解成人在说什么。",
+      "optionExplanations": [
+        "共同注意有助于学习，但不直接证明完整错误信念理解。",
+        "孩子是在跟随指向的目标，不是在复制成人手指的动作。",
+        "题目没有让孩子猜对方的偏好。",
+        "双方协调关注同一目标，符合共同注意。"
+      ],
+      "source": "L7 · Joint attention：两个人知道自己正看同一件事 · [B0181–B0186]",
+      "origin": "notes",
+      "stem": "孩子顺着成人手指看鸟，两人协调同一目标。最符合什么？",
+      "stemEn": "A child follows an adult's point toward a bird and coordinates attention. What fits best?"
+    },
+    {
+      "id": "L7-Q22",
+      "conceptId": "L7-C22",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "只懂自己的偏好",
+        "通过一题便诊断全部社会能力",
+        "理解他人心理状态可与自己不同",
+        "直接无误读取任何人的脑中内容"
+      ],
+      "optionsEn": [
+        "Knowing only one's own preferences",
+        "Diagnosing all social abilities with one item",
+        "Understanding that others' mental states may differ from one's own",
+        "Infallibly reading anyone's mental contents"
+      ],
+      "answer": 2,
+      "explanation": "ToM 的关键是知道别人想要、相信、知道或感受到的东西可能与自己不同。它是理解和推测，不是无误读心。",
+      "optionExplanations": [
+        "只知道自己的偏好，还没有体现理解他人的心理差异。",
+        "一题还受语言、记忆等要求影响，不能诊断全部社会能力。",
+        "能区分自己与他人的愿望、信念、知识和情绪，是核心。",
+        "ToM 根据线索推测心理状态，不是直接读取脑中内容。"
+      ],
+      "source": "L7 · 定义与发展路径 · [B0190–B0196]",
+      "origin": "notes",
+      "stem": "ToM 最准确的定义是什么？",
+      "stemEn": "What is the most accurate definition of Theory of Mind?"
+    },
+    {
+      "id": "L7-Q23",
+      "conceptId": "L7-C23",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "无法区分她知道与我们知道的信息",
+        "玩具屋",
+        "衣柜",
+        "两处必定同时"
+      ],
+      "optionsEn": [
+        "Her knowledge cannot differ from ours",
+        "The playhouse",
+        "The wardrobe",
+        "Both simultaneously, necessarily"
+      ],
+      "answer": 1,
+      "explanation": "她会先去玩具屋，因为她只知道原来的位置，没有看见移动。回答要按女孩相信的位置，而不是玩具的真实位置。",
+      "optionExplanations": [
+        "我们知道玩具搬走了，但女孩不知道，两人的信息可以不同。",
+        "她仍相信玩具在玩具屋，所以会先去那里。",
+        "衣柜是真实位置，但女孩不知道这次移动。",
+        "故事没有提供她会同时找两处的依据。"
+      ],
+      "source": "L7 · 四步剧情：关键是主人公没看见物品被搬走 · [B0200–B0207]",
+      "origin": "notes",
+      "stem": "女孩没看见玩具由玩具屋移到衣柜，她回来先找哪里？",
+      "stemEn": "A girl did not see a toy moved from a playhouse to a wardrobe. Where will she first search?"
+    },
+    {
+      "id": "L7-Q24",
+      "conceptId": "L7-C24",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "特定任务表现受心理理解和语言、记忆、抑制要求共同影响",
+        "完全没有同理心",
+        "一定有临床障碍",
+        "所有文化和语言任务都完全相同"
+      ],
+      "optionsEn": [
+        "Performance reflects mental understanding plus language, memory, and inhibition demands",
+        "No empathy whatsoever",
+        "A definite clinical disorder",
+        "Identical tasks across all cultures and languages"
+      ],
+      "answer": 0,
+      "explanation": "长问句可能让儿童难以理解或记住故事，也需要抑制自己知道的真相。因此，答错不能直接说明全部社会能力有问题。",
+      "optionExplanations": [
+        "表现既受心理理解影响，也受语言、记忆和抑制要求影响。",
+        "共情和错误信念答题不是同一个指标。",
+        "一道题不能用于临床诊断。",
+        "不同语言和文化中的题目要求可能不同。"
+      ],
+      "source": "L7 · 文化与语言影响任务表现 · [B0209–B0218]",
+      "origin": "notes",
+      "stem": "三岁儿童答错长问句的错误信念题，最稳妥解释是什么？",
+      "stemEn": "A three-year-old fails a false-belief item with a complex question. What is the safest interpretation?"
+    },
+    {
+      "id": "L7-Q25",
+      "conceptId": "L7-C25",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "独自给玩具取名但从不与他人共享",
+        "两个孩子恰好都认识同一真实同学",
+        "拥有完整想象世界就必定为多人共同维持",
+        "两个孩子共同维持虚构角色的性格和规则"
+      ],
+      "optionsEn": [
+        "Privately naming a toy without sharing it",
+        "Two children knowing the same real classmate",
+        "An elaborate imaginary world necessarily being shared",
+        "Two children jointly maintain a fictional character and rules"
+      ],
+      "answer": 3,
+      "explanation": "Shared 强调两人或多人共同维持虚构角色。关键不是世界多丰富，而是游戏中的角色由大家共享。",
+      "optionExplanations": [
+        "独自给玩具人格化可以是想象伙伴，但没有体现共享。",
+        "真实同学不是虚构伙伴。",
+        "Paracosm 指丰富的想象世界，不要求多人共享。",
+        "共同约定并维持虚构角色的性格和规则，体现了 shared。"
+      ],
+      "source": "L7 · Imaginary companion 可以有哪些形式？ · [B0220–B0225]",
+      "origin": "notes",
+      "stem": "哪种情况属于 shared imaginary companion？",
+      "stemEn": "Which example is a shared imaginary companion?"
+    },
+    {
+      "id": "L7-Q26",
+      "conceptId": "L7-C26",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "因为 IC 必然是病理",
+        "因为所有报告都绝对真实一致",
+        "原有能力、游戏兴趣和共同条件可能参与关联",
+        "因为任何相关都毫无意义"
+      ],
+      "optionsEn": [
+        "Because ICs are necessarily pathological",
+        "Because all reports are perfectly true and identical",
+        "Prior ability, play interests, and common conditions may contribute",
+        "Because all correlations are meaningless"
+      ],
+      "answer": 2,
+      "explanation": "也可能是语言能力较好的孩子更爱角色游戏，或共同条件同时影响两者。相关有价值，但不能单独证明 IC 造成了提升。",
+      "optionExplanations": [
+        "儿童有想象伙伴不自动表示病理。",
+        "文化和报告方式可能影响结果，不能预设报告完全一致。",
+        "要考虑原有能力、游戏兴趣、共同条件，以及反过来的影响。",
+        "相关能提供线索，只是不能单独确定因果。"
+      ],
+      "source": "L7 · 研究相关与因果的界线 · [B0226–B0229]",
+      "origin": "notes",
+      "stem": "有 IC 儿童语言表现较好，为什么不能认定 IC 直接造成提升？",
+      "stemEn": "Why does better language performance among children with ICs not establish a direct benefit of ICs?"
+    },
+    {
+      "id": "L7-Q27",
+      "conceptId": "L7-C07",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "options": [
+        "每个人的一半全部 DNA",
+        "DZ 双生子样本在同一特质上的相关",
+        "某儿童环境占比",
+        "异卵双生子人数"
+      ],
+      "optionsEn": [
+        "Half of each person's entire DNA",
+        "The DZ sample correlation for the same trait",
+        "One child's environmental percentage",
+        "The number of DZ twins"
+      ],
+      "answer": 1,
+      "explanation": "rDZ 是异卵双生子在同一特质上的样本相关系数。它要与 rMZ 测量相同特质，才能放进公式比较。",
+      "optionExplanations": [
+        "公式用的是特质相关，不是 DNA 占比。",
+        "它衡量 DZ 在该特质上有多相似，不是人数。",
+        "相关系数不是某个孩子的环境组成比例。",
+        "r 在这里表示相关系数，不表示样本人数。"
+      ],
+      "source": "L7 · 把两个相关系数放进同一个公式 · [B0074–B0078]",
+      "origin": "notes",
+      "stem": "公式中的 rDZ 是什么？",
+      "stemEn": "What does rDZ mean in the heritability formula?"
+    },
+    {
+      "id": "L7-Q28",
+      "conceptId": "L7-C08",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "不能，环境差异变小可改变方差比例",
+        "能，高遗传率意味着环境零作用",
+        "能，所有人发展完全相同",
+        "能，遗传率永远不受环境影响"
+      ],
+      "optionsEn": [
+        "No; reduced environmental variation can change the variance proportion",
+        "Yes; high heritability means zero environmental influence",
+        "Yes; everyone's development is identical",
+        "Yes; heritability never depends on environment"
+      ],
+      "answer": 0,
+      "explanation": "不能。大家的书籍机会更接近后，环境造成的差异可能变小，遗传率比例便可能上升。书籍对每个人仍然可以很重要。",
+      "optionExplanations": [
+        "遗传率看差异来源；环境差异变小，不等于环境作用消失。",
+        "高遗传率不表示环境没有作用，也不能直接判断干预效果。",
+        "遗传及其他个体差异仍可能使发展不同。",
+        "遗传率依赖人群和环境，不是永远固定的值。"
+      ],
+      "source": "L7 · 为什么环境改变后，h² 也可能改变？ · [B0078–B0082]",
+      "origin": "notes",
+      "stem": "当书籍机会差异缩小，阅读遗传率升高，能说明书籍不重要吗？",
+      "stemEn": "If reading heritability increases when book access becomes more equal, are books unimportant?"
+    },
+    {
+      "id": "L7-Q29",
+      "conceptId": "L7-C09",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "每个巧合必定完全由 DNA 造成",
+        "分离已经证明环境相同",
+        "只要故事生动就等于随机实验",
+        "逸闻偏向展示相同点，缺少群体相关和对照"
+      ],
+      "optionsEn": [
+        "Every coincidence is fully caused by DNA",
+        "Separation proves identical environments",
+        "A vivid story is a randomised experiment",
+        "Anecdotes highlight similarities and lack population correlations and controls"
+      ],
+      "answer": 3,
+      "explanation": "巧合故事常只挑出相同点，没有群体相关和对照数据。常见名字或品牌也容易巧合，所以不能拿故事估遗传率。",
+      "optionExplanations": [
+        "巧合也可能来自环境和选择性报告，不能都归给 DNA。",
+        "分开家庭仍可能共享产前因素，也可能有相似安置条件。",
+        "故事生动不代表它具有随机实验的设计。",
+        "要估遗传率，需要群体特质差异和比较数据，而非几个相同喜好。"
+      ],
+      "source": "L7 · 收养设计的三个比较方向 · [B0086–B0093]",
+      "origin": "notes",
+      "stem": "为什么分离双胞胎喜好巧合不能估遗传率？",
+      "stemEn": "Why cannot coincidental preferences in separated twins estimate heritability?"
+    },
+    {
+      "id": "L7-Q30",
+      "conceptId": "L7-C15",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "孩子从未拥有类别",
+        "只能根据颜色分类",
+        "外表变化不必改变类别身份",
+        "面具一定改变生物种类"
+      ],
+      "optionsEn": [
+        "The child has no categories",
+        "Classification only by colour",
+        "Surface change need not alter category identity",
+        "A mask necessarily changes biological kind"
+      ],
+      "answer": 2,
+      "explanation": "孩子知道面具只改变外观，没有把猫变成狗。这体现了能把表面样子与原来的类别身份分开。",
+      "optionExplanations": [
+        "回答“猫”本身就是在使用类别知识。",
+        "判断不只靠颜色，还能考虑它原本是什么。",
+        "外表变了，仍可以认出它原来所属的类别。",
+        "戴面具不是改变生物种类。"
+      ],
+      "source": "L7 · 把相似事物放在一起，是认识世界的起点 · [B0128–B0134]",
+      "origin": "notes",
+      "stem": "猫戴狗面具后仍回答‘猫’，体现什么判断？",
+      "stemEn": "Calling a cat a cat after it wears a dog mask demonstrates what?"
+    },
+    {
+      "id": "L7-Q31",
+      "conceptId": "L7-C18",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "所有儿童一定终生记住",
+        "讲解长度、趣味性或记忆负荷同时变化",
+        "虚构类别都必定不可能学习",
+        "结果已证明全部知觉线索无用"
+      ],
+      "optionsEn": [
+        "Every child necessarily remembers forever",
+        "Concurrent changes in explanation length, interest, or memory load",
+        "Fictional categories can never be learned",
+        "The finding proves all perceptual cues useless"
+      ],
+      "answer": 1,
+      "explanation": "两组不只可能在因果内容上不同，讲解长度、趣味性和记忆负担也可能不同。这些因素同样可能影响学习结果。",
+      "optionExplanations": [
+        "次日记得更好，不能推出每个儿童终生记得。",
+        "要检查有没有其他教学条件随内容一起改变。",
+        "研究正是在观察儿童如何学会虚构类别。",
+        "功能解释可以补充外表线索，不说明外表完全没用。"
+      ],
+      "source": "L7 · Theory-based concepts 超越外形相似 · [B0159–B0165]",
+      "origin": "notes",
+      "stem": "因果功能讲解组学得较好，仍需检查哪个替代因素？",
+      "stemEn": "If causal explanations improve learning, which alternative factor still needs checking?"
+    },
+    {
+      "id": "L7-Q32",
+      "conceptId": "L7-C22",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "不能，它与早期目标预期一致但指标间接",
+        "能，注视等于完整语言问答",
+        "能，任何长注视都证明 ToM",
+        "不能，因为婴儿不会有任何社会预期"
+      ],
+      "optionsEn": [
+        "No; it is consistent with early goal expectations but is indirect",
+        "Yes; looking equals full verbal responses",
+        "Yes; any longer look proves ToM",
+        "No; infants cannot have any social expectations"
+      ],
+      "answer": 0,
+      "explanation": "不能。看得更久只能间接支持婴儿对目标或愿望有预期，不等于能按他人的错误信念预测行动。",
+      "optionExplanations": [
+        "早期目标预期与完整错误信念理解是不同要求。",
+        "注视与语言问答的测量方式和任务要求不同。",
+        "新奇感等视觉因素也会让婴儿看得更久。",
+        "证据仍支持某些早期预期，不能把它们全部否定。"
+      ],
+      "source": "L7 · 定义与发展路径 · [B0190–B0196]",
+      "origin": "notes",
+      "stem": "小猫目标不匹配时婴儿看更久，能证明完整错误信念理解吗？",
+      "stemEn": "Does longer infant looking at a mismatched kitten goal prove full false-belief understanding?"
+    },
+    {
+      "id": "L7-Q33",
+      "conceptId": "L7-C23",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "直接替代女孩信念预测题",
+        "测量儿童是否喜欢女孩",
+        "证明错误信念就是故意说谎",
+        "检查回答者是否理解现实位置"
+      ],
+      "optionsEn": [
+        "Directly replacing the belief-prediction question",
+        "Measuring whether the child likes the girl",
+        "Proving false belief is deliberate lying",
+        "Checking the child's knowledge of the actual location"
+      ],
+      "answer": 3,
+      "explanation": "这是控制问题，用来确认答题者知道玩具真正在哪里。知道现实位置，与预测女孩按什么信念寻找，要分开检查。",
+      "optionExplanations": [
+        "知道真实位置，不等于知道女孩相信的位置。",
+        "题目没有测量儿童喜不喜欢女孩。",
+        "错误信念是相信了不真实的信息，不一定是故意欺骗。",
+        "先确认现实位置，才能把故事理解与女孩信念预测分开。"
+      ],
+      "source": "L7 · 四步剧情：关键是主人公没看见物品被搬走 · [B0200–B0207]",
+      "origin": "notes",
+      "stem": "在错误信念故事中问‘玩具实际在哪里’有什么作用？",
+      "stemEn": "What is the purpose of asking where the toy actually is in a false-belief story?"
+    },
+    {
+      "id": "L7-Q34",
+      "conceptId": "L7-C24",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "options": [
+        "记忆所有事实与否定情绪",
+        "一个正确答案就证明全部能力",
+        "理解别人知道／相信什么，与理解别人感到什么",
+        "儿童能力与成人能力完全互斥"
+      ],
+      "optionsEn": [
+        "Remembering all facts versus denying emotions",
+        "One correct answer proving every ability",
+        "Understanding knowledge/beliefs versus understanding feelings",
+        "Mutually exclusive child versus adult capacities"
+      ],
+      "answer": 2,
+      "explanation": "认知 ToM 看别人知道或相信什么，情感 ToM 看别人感受如何。两者侧重点不同，但可以相互联系。",
+      "optionExplanations": [
+        "区分的是心理状态类型，不是记忆总量或否认情绪。",
+        "一题有多种要求，答对不能证明所有 ToM 能力。",
+        "知识与信念属于认知侧重，情绪属于情感侧重。",
+        "两者都可以随年龄发展，不是分别只属于儿童和成人。"
+      ],
+      "source": "L7 · 文化与语言影响任务表现 · [B0209–B0218]",
+      "origin": "notes",
+      "stem": "认知 ToM 与情感 ToM 最短区别是什么？",
+      "stemEn": "What briefly distinguishes cognitive from affective ToM?"
+    }
+  ],
+  "file": "PSYC1004_Lecture_7_Biological_and_Cognitive_Development_Notes.docx",
+  "sourceBlocks": [
+    {
+      "id": 1,
+      "text": "PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT"
+    },
+    {
+      "id": 2,
+      "text": "Lecture 7"
+    },
+    {
+      "id": 3,
+      "text": "Biological and Cognitive Development"
+    },
+    {
+      "id": 4,
+      "text": "生物与认知发展：遗传、产前环境、概念与心理理论"
+    },
+    {
+      "id": 5,
+      "text": "Maika Kumada  |  Developmental Lecture 3: 55 slides  |  Bilingual study notes"
+    },
+    {
+      "id": 6,
+      "text": "CORE IDEA  基因提供发展可能性，环境改变其表现；儿童同时通过知觉、语言和社会互动建构类别，逐渐理解别人也有自己的想法。"
+    },
+    {
+      "id": 8,
+      "text": "Lecture map：课堂开头先讲完 Lecture 6 的群体偏见部分，再进入本讲四条主线。"
+    },
+    {
+      "id": 9,
+      "text": "阅读方法：先看一页速记；每页对照 slide 编号。蓝色为理论和方法，金色为自拟理解案例与答题重点，红色为容易误记的内容，绿色为应用。末尾有自测题与英中术语表。"
+    },
+    {
+      "id": 10,
+      "text": "STUDY PRIORITY  优先练会：h² = 2(rMZ − rDZ) 的解释、遗传×环境、产前暴露的时间性、habituation/dishabituation、类别层级、desire vs belief，以及 false-belief task。"
+    },
+    {
+      "id": 12,
+      "text": "一页速记 | Lecture at a glance"
+    },
+    {
+      "id": 13,
+      "text": "课件 slides 3–25、27–49、51–55；课堂开头另衔接 Lecture 6 slides 57–62。"
+    },
+    {
+      "id": 14,
+      "text": "主题 | 一句话带走\n\nGenes × environment | Genotype 与经验共同形成 phenotype；多基因行为不等于“一种基因一种行为”。\n\nTwin/adoption designs | 比较共享基因与共享环境的不同组合；相关性与 h² 都是群体层面的估计。\n\nHeritability | 课件例子 rMZ=.5、rDZ=.3，得 h²≈.4；它不是某个人“40% 由基因制造”。\n\nPrenatal development | 合子、胚胎、胎儿期任务不同；暴露剂量、时间和持续期会改变风险。\n\nCategories & concepts | 注视时间揭示早期区分；类别层级和“为什么”的解释让知识更灵活。\n\nTheory of Mind | 别人可能喜欢、知道、相信不同的事情；错误信念任务检验能否按对方所知预测行为。\n\nSlide supplement | 课件后段讨论文化／语言与 ToM，以及 imaginary companions；提供的文字稿没有讲到。"
+    },
+    {
+      "id": 16,
+      "text": "四步答题法"
+    },
+    {
+      "id": 17,
+      "text": "① 先界定术语。② 说清比较了什么、测了什么。③ 解释结果支持哪一步推论。④ 补上一个具体限制。读到“完全由基因决定”“每个孩子都会”时，先检查原研究是否只报告群体平均或任务表现。"
+    },
+    {
+      "id": 18,
+      "text": "理解案例（自拟）  题目说“同卵双胞胎在一项任务上更像”。可回答“与遗传贡献一致”，但要补充他们是否也被更相似地对待，及相关不等于某个人的固定命运。"
+    },
+    {
+      "id": 20,
+      "text": "课堂衔接：Lecture 6 的最后一段"
+    },
+    {
+      "id": 21,
+      "text": "本次录音开头实际补讲上次课 slides 57–62；这里为连贯复习。"
+    },
+    {
+      "id": 22,
+      "text": "群体差异怎样变得有社会意义"
+    },
+    {
+      "id": 23,
+      "text": "讲师回顾 DIT：儿童注意到性别、族群等突出线索，进行分类，随后学习社会赋予群体的评价。对熟悉群体的偏好与对外群体的负面态度不是同一概念；测量还要区分明确说出的 explicit attitudes 与任务中的 implicit associations。"
+    },
+    {
+      "id": 24,
+      "text": "课堂补讲内容 | 最稳妥的记法\n\n性别与同伴偏好 | 群体典型性感受、接触机会与社会规范可能影响同伴选择；关联不等于先天固定。\n\n歧视的心理影响 | 反复被排斥可与焦虑、低自尊等相关。内化刻板印象与担心证实刻板印象是不同路径。\n\n生理压力 | 长期歧视压力可能与应激系统及健康风险相关；并非一次经历便注定患病。\n\n环境强化 | 父母和青少年可能双向影响彼此态度，教师支持多元文化与公平对待也会提供线索。"
+    },
+    {
+      "id": 26,
+      "text": "理解案例（自拟）  老师总按性别分组，孩子便频繁听到“男孩一组、女孩一组”。即使老师没有说谁更好，分组习惯仍可能让性别类别更显眼。"
+    },
+    {
+      "id": 27,
+      "text": "REVIEW LINK  Lecture 6 笔记已详细讲这些内容。本讲重点从“社会环境怎样塑造发展”转到“生物差异怎样与环境互动”。"
+    },
+    {
+      "id": 29,
+      "text": "01 | 遗传基础：从基因到行为"
+    },
+    {
+      "id": 30,
+      "text": "Slides 3–5, 9；课堂强调概念，而非背诵所有染色体细节。"
+    },
+    {
+      "id": 31,
+      "text": "46 条染色体与遗传信息"
+    },
+    {
+      "id": 32,
+      "text": "典型人体体细胞有 46 条染色体：22 对常染色体，以及一对性染色体。DNA 的片段构成 genes（基因）；基因参与蛋白质和生物过程，但通常不是单独决定一种心理行为的开关。群体中的自然遗传差异是研究行为差异的一个来源。"
+    },
+    {
+      "id": 33,
+      "text": "术语 | 该怎么理解 | 容易误记成\n\nGenotype 基因型 | 个体携带的遗传变异或组合。 | 等同一个人可观察到的全部特点。\n\nPhenotype 表型 | 可观察的特征与行为，是基因、生理过程和环境相互作用的结果。 | 基因型的直接照片。\n\nMonogenic 单基因 | 某些特征／疾病主要与某一基因位点的变异有关。 | 一种基因决定每一个复杂行为。\n\nPolygenic 多基因 | 许多基因变异各贡献一点，常与经验及条件共同作用。 | 只要有“风险基因”就必然出现行为。"
+    },
+    {
+      "id": 35,
+      "text": "“Genotype + environment = phenotype”是课堂的助记式，不是可按数字相加的公式。更精确的想法是 gene–environment interaction：相同遗传倾向在不同环境下可能有不同表现；儿童行为也可能改变自己接触的环境。"
+    },
+    {
+      "id": 36,
+      "text": "理解案例（自拟）  一个孩子对威胁很敏感，在冲突频繁的家里可能更常反击，在稳定回应的环境中可能较会调节情绪。例子说明环境改变表现，不是在给孩子寻找“攻击基因”。"
+    },
+    {
+      "id": 37,
+      "text": "EXAM  解释复杂心理特质时，优先写多基因 + 环境与其互动。单基因病的遗传方式可以用来练原理，却不能套成“一基因对应一行为”。"
+    },
+    {
+      "id": 39,
+      "text": "02 | 单基因范例：显性、隐性与可改变的结果"
+    },
+    {
+      "id": 40,
+      "text": "Slide 6；Huntington disease 与 phenylketonuria (PKU)。"
+    },
+    {
+      "id": 41,
+      "text": "Dominant / recessive 是特定遗传模式"
+    },
+    {
+      "id": 42,
+      "text": "课堂范例 | 遗传要点 | 发展上的重要辨析\n\nHuntington disease / 亨廷顿病 | 与 HTT 基因中特定重复序列扩增有关，常按常染色体显性方式传递。 | “有一个相关变异就一定在三四十岁发病”过度简单；重复次数与外显率、发病年龄有关。\n\nPKU / 苯丙酮尿症 | 通常由 PAH 相关的两份致病变异造成，苯丙氨酸代谢受影响。 | 早筛和受专业指导的饮食管理可显著改变结果；基因并未因此消失。"
+    },
+    {
+      "id": 44,
+      "text": "Dominant 指一个相关变异拷贝就可影响表型；recessive 通常需两个相关变异拷贝才表现疾病。这里谈的是特定基因与特定状况，不能把“显性”理解为更常见、更强或更有价值。"
+    },
+    {
+      "id": 45,
+      "text": "PKU 是基因与环境互动的好例子"
+    },
+    {
+      "id": 46,
+      "text": "如果体内苯丙氨酸不能充分代谢，长期高浓度会伤害神经系统。对有 PKU 的婴儿及早检测、持续管理饮食，就能显著改善发展。饮食调整改变的是暴露与代谢后果，不是把遗传变异从 DNA 中删除。"
+    },
+    {
+      "id": 47,
+      "text": "理解案例（自拟）  两个孩子都带有造成 PKU 的基因变异。一位早期发现并接受专业饮食管理，另一位长期未被发现，后续发展可能明显不同。相同基因型不保证相同结局。"
+    },
+    {
+      "id": 48,
+      "text": "ACCURACY  课件称 Huntington 的“所有携带者都发病”。更准确的是：某些 HTT 重复范围存在 reduced penetrance；较高重复数通常更容易发病。不要把课堂简写当成毫无例外的诊断句。"
+    },
+    {
+      "id": 50,
+      "text": "03 | 染色体差异与 XYY 误解"
+    },
+    {
+      "id": 51,
+      "text": "Slides 7–8；重点是变异和社会偏见，不必背全部发生率。"
+    },
+    {
+      "id": 52,
+      "text": "染色体数目变化是类别，表型不是固定清单"
+    },
+    {
+      "id": 53,
+      "text": "课件举例 | 染色体层面 | 学习时记住\n\nDown syndrome | 通常为 21 三体（trisomy 21）。 | 可能影响发育，但个体能力与支持需求不同。\n\nTurner syndrome | 常见表述为单一 X（45,X），还存在其他染色体形式。 | 表型、学习和生育情况不能只凭核型一口断定。\n\nTriple X | 常见表述为 47,XXX。 | 有些人终生未被诊断；能力分布范围广。\n\nKlinefelter syndrome | 常见表述为 47,XXY。 | 表现和诊断时间可变，不应写成单一“男性类型”。\n\n47,XYY | 多一条 Y 染色体。 | 有些人症状很轻；XYY 不等于暴力。"
+    },
+    {
+      "id": 55,
+      "text": "课件表格列了若干“典型特点”和历史发生率；这些概括不应拿来判断具体儿童，也不应把“生物性别”写成只有一组固定表型。实际还存在嵌合型、环境与支持差异。"
+    },
+    {
+      "id": 56,
+      "text": "XYY：当研究样本本身带偏，会发生什么？"
+    },
+    {
+      "id": 57,
+      "text": "课堂提到过去从机构或司法相关样本中研究 XYY，形成“extreme male = aggression”的刻板说法，并曾进入法律论证。这样的样本并不代表所有 XYY 人群；筛选来源与社会偏见会放大错误结论。"
+    },
+    {
+      "id": 58,
+      "text": "理解案例（自拟）  只到少管机构抽样，然后发现样本里有学习困难或冲突行为，就推断同核型的所有孩子都危险，等于把“在哪里找人”误当成“基因造成什么”。"
+    },
+    {
+      "id": 59,
+      "text": "EXAM  能写出研究错误：selection bias（选择偏差）+ 个体差异 + 不能由核型推断犯罪倾向；发生率无需当成跨地区、跨年代不变的绝对数。"
+    },
+    {
+      "id": 61,
+      "text": "04 | 双生子研究：比较“相似程度”"
+    },
+    {
+      "id": 62,
+      "text": "Slides 10–12；MZ 与 DZ 的比较逻辑。"
+    },
+    {
+      "id": 63,
+      "text": "Behavioural genetics 问的是变异来源"
+    },
+    {
+      "id": 64,
+      "text": "同卵双生子（MZ）源自同一受精卵，通常共享几乎全部遗传变异；异卵双生子（DZ）来自两枚受精卵，平均共享约一半的分离遗传变异。研究者比较他们在某一特质上的相关程度，而非拿一对双胞胎讲故事。"
+    },
+    {
+      "id": 65,
+      "text": "比较 | 大致共享遗传变异 | 能回答的起点\n\nMZ 同卵 | 几乎全部。 | 若 MZ 的某项特质相似性高于 DZ，遗传差异可能参与该群体的特质差异。\n\nDZ 异卵 | 平均约一半。 | 作为参照，有助于估计遗传相关性带来的额外相似。"
+    },
+    {
+      "id": 67,
+      "text": "课件用“相同环境”作简化。现实中即便一起长大，每个孩子也有独特经历（non-shared environment）；MZ 也可能因为外表更像而受到更相似的对待。因此设计所依赖的 equal-environments assumption 需要检验。"
+    },
+    {
+      "id": 68,
+      "text": "理解案例（自拟）  若老师因为一对同卵双胞胎看起来很像，常让两人参加同一活动，却让异卵双胞胎分班，那么 MZ 更相似可能同时含有环境效应。"
+    },
+    {
+      "id": 69,
+      "text": "CRITIQUE  “MZ 相关更高”与遗传贡献相符，但不是一个能把基因与环境完美分离的天然实验；共同产前环境、亲子互动、测量误差也值得考虑。"
+    },
+    {
+      "id": 70,
+      "text": "EXAM  Twin logic：先讲 MZ 与 DZ 的遗传相似度，再讲被比较的是同一特质的相关系数，最后说 equal-environments 这一关键假设。"
+    },
+    {
+      "id": 72,
+      "text": "05 | 遗传率 h²：会算，更要会解释"
+    },
+    {
+      "id": 73,
+      "text": "Slide 13；课件给出的 Falconer 简化公式与示例。"
+    },
+    {
+      "id": 74,
+      "text": "把两个相关系数放进同一个公式"
+    },
+    {
+      "id": 75,
+      "text": "量 | 含义\n\nrMZ | 样本中 MZ 双生子对该特质的相关程度。\n\nrDZ | 样本中 DZ 双生子对同一特质的相关程度。\n\nh² ≈ 2(rMZ − rDZ) | 简化双生子模型在特定假设下对群体遗传率的估计。"
+    },
+    {
+      "id": 77,
+      "text": "CALCULATION  课件示例：rMZ = 0.50，rDZ = 0.30；h² ≈ 2 × (0.50 − 0.30) = 0.40。"
+    },
+    {
+      "id": 78,
+      "text": "正确翻译是：在所研究人群与环境中，某特质的个体间差异有一部分统计上与遗传差异相关。h² = .40 不是“这名学生人格的 40% 由基因产生，剩下 60% 是养育”，也不是“有 40% 的人由基因决定”。"
+    },
+    {
+      "id": 79,
+      "text": "为什么环境改变后，h² 也可能改变？"
+    },
+    {
+      "id": 80,
+      "text": "遗传率是方差比例，分子与分母都依赖人群和环境。若生活条件更一致，环境差异变小，即使基因和环境对个人发展都重要，估计的 h² 也可能上升。它既不是永恒常数，也不告诉我们特质是否容易改变。"
+    },
+    {
+      "id": 81,
+      "text": "理解案例（自拟）  一个班级每个人都有同样丰富的书籍，阅读能力差异的遗传率估计可能较高；换到书籍机会差异很大的地区，估计可能不同。这个变化不表示书籍突然不重要。"
+    },
+    {
+      "id": 82,
+      "text": "ACCURACY  课件把 heritability 简写为“行为有多少由基因而非环境造成”，易误导。正式定义是特定人群中特质变异由遗传变异解释的比例；简化公式还依赖双生子研究假设。"
+    },
+    {
+      "id": 84,
+      "text": "06 | 收养研究与分离双生子：能比较什么？"
+    },
+    {
+      "id": 85,
+      "text": "Slides 14–20；adoption design 与 separated twins。"
+    },
+    {
+      "id": 86,
+      "text": "收养设计的三个比较方向"
+    },
+    {
+      "id": 87,
+      "text": "比较关系 | 共享的东西 | 问题\n\n亲生并共同生活 | 部分基因 + 家庭环境。 | 整体相似，但两种来源难拆开。\n\n养父母／非亲缘手足 | 主要共享养育家庭。 | 共同生活能解释多少相似？\n\n生物亲属但不同家庭 | 共享部分基因，日常养育分开。 | 在不同家庭里仍有多少相似？"
+    },
+    {
+      "id": 89,
+      "text": "分离同卵双生子为“相似基因、不同家庭”提供罕见比较，但仍有共同产前经历、选择性安置、相似的社会条件，以及后来知道自己是双生子造成的互动变化。收养家庭也并非随机抽取自全部家庭。"
+    },
+    {
+      "id": 90,
+      "text": "Neubauer 分离双生子／三胞胎事件"
+    },
+    {
+      "id": 91,
+      "text": "课堂把 1960–70 年代分开安置儿童、随后研究观察的历史案例当作研究伦理与当时儿童观的警示。认为“分开能避免依赖、给每人更多资源”是当时的一种假设，不能当成已证实的儿童利益。这样的研究不能因为数据看似珍贵，就忽略家属知情与儿童福祉。"
+    },
+    {
+      "id": 92,
+      "text": "理解案例（自拟）  听说一对分开长大的双胞胎都喜欢同款车、伴侣都叫 Linda，故事很醒目；但常见名字与品牌本就容易巧合，人们又倾向分享相同点、忽略不同点。逸闻不能估遗传率。"
+    },
+    {
+      "id": 93,
+      "text": "EXAM  评价研究时写出 adoption placement、prenatal environment、shared/non-shared experiences 和伦理问题，比“收养研究完全排除了环境”准确。"
+    },
+    {
+      "id": 95,
+      "text": "07 | 从相关到因果：双生子研究的边界"
+    },
+    {
+      "id": 96,
+      "text": "Slides 14, 18–20；把前两页的设计限制串起来。"
+    },
+    {
+      "id": 97,
+      "text": "同一种相似性，可以有多条路径"
+    },
+    {
+      "id": 98,
+      "text": "可能路径 | 具体例子 | 会怎样影响解释？\n\n共同基因 | MZ 比 DZ 共享更多遗传变异。 | MZ 更像符合遗传贡献，但只是其中一条路径。\n\n共同家庭 | 一起长大的手足共享住房、资源与部分教养。 | 所有一起长大的相似都不能归于 DNA。\n\n非共享经验 | 同一家庭内的朋友、老师、疾病、个人遭遇不同。 | 同胞也会不同；“同一屋檐”不是相同环境。\n\n被区别对待 | MZ 因外表更像被穿同样衣服、安排同样活动。 | 环境相似性可能随双生子类型而变化。\n\n选择与产前 | 收养安置可能匹配家庭；分开后仍共享产前因素。 | “分开养”仍不等于严格随机化。"
+    },
+    {
+      "id": 100,
+      "text": "基因与环境不一定可简单相加"
+    },
+    {
+      "id": 101,
+      "text": "Gene–environment interaction 意味着环境可改变遗传倾向的表达；gene–environment correlation 意味着遗传相关特点还可能影响人寻找、得到或引发的环境。课堂的“genes × environment”是提醒两者共同运作，并非一个直接用于计算每个人行为的乘法式。"
+    },
+    {
+      "id": 102,
+      "text": "理解案例（自拟）  喜欢阅读的孩子可能主动借更多书，家长也更愿意给他买书。后来表现好，既可能有个人差异，又受后来不断累积的阅读机会影响。"
+    },
+    {
+      "id": 103,
+      "text": "EXAM  给定“分离双胞胎结果类似”的材料，至少提出一个共享但未测量的因素与一个选择偏差，才能说明为何不能直接做因果断言。"
+    },
+    {
+      "id": 105,
+      "text": "08 | 产前三阶段：时间为什么重要？"
+    },
+    {
+      "id": 106,
+      "text": "Slides 21–22；prenatal stages 是近似时间窗。"
+    },
+    {
+      "id": 107,
+      "text": "时期 | 课件时间 | 主要变化\n\nZygotic 合子期 | 受精后约 0–2 周。 | 细胞分裂、早期组织与着床。\n\nEmbryonic 胚胎期 | 约第 2–8 周。 | 主要器官系统和肢体结构逐渐形成。\n\nFoetal 胎儿期 | 约第 9 周至出生。 | 成长、器官功能完善，尤其神经系统持续发展。"
+    },
+    {
+      "id": 109,
+      "text": "阶段边界是教学用的近似值；孕周计数方法也可能影响数字。不同器官在不同时间最敏感，风险还取决于暴露剂量、持续时间、物质种类、个体差异与是否得到医疗照护。"
+    },
+    {
+      "id": 110,
+      "text": "Teratogen：不是“所有接触都给出同一种结果”"
+    },
+    {
+      "id": 111,
+      "text": "Teratogen 指可能干扰产前发育的环境因素，例如某些药物、酒精和感染。胚胎期的器官形成常被强调，但胎儿期的脑发育和功能成熟也会受到影响；不能把阶段表理解为“过了第八周就安全”。"
+    },
+    {
+      "id": 112,
+      "text": "理解案例（自拟）  两次同一种暴露发生在不同孕期、剂量也不同，不能只按物质名称预测同一种结果；研究要明确暴露发生的具体时间和程度。"
+    },
+    {
+      "id": 113,
+      "text": "EXAM  回答时间敏感性时按“物质／剂量 → 暴露时期与持续性 → 受影响的发育过程 → 可能结果”写，不要只背器官名称。"
+    },
+    {
+      "id": 115,
+      "text": "09 | 致畸因素与孕期用药：看剂量和情境"
+    },
+    {
+      "id": 116,
+      "text": "Slides 23–25；课程案例用于理解机制，不作为个人用药建议。"
+    },
+    {
+      "id": 117,
+      "text": "三个药物例子不能写成同一条禁用规则"
+    },
+    {
+      "id": 118,
+      "text": "课堂例子 | 可靠的学习点 | 需要的限定\n\nThalidomide 沙利度胺 | 历史上孕期暴露与严重肢体畸形相关，体现关键发育窗口。 | 不是所有出生缺陷都可由某种药的单次暴露解释。\n\nQuinine 奎宁 | 课堂提到听力风险，提醒药物效果取决于药理和剂量。 | 不能由此断言治疗疟疾的规范剂量在孕期一概禁用；疾病本身也有风险。\n\nAspirin 阿司匹林 | 课件列出了不良妊娠结局。 | 该说法缺少剂量与临床适应症；医生对某些高风险孕妇会开低剂量方案。"
+    },
+    {
+      "id": 120,
+      "text": "ACCURACY  课件把 quinine、aspirin 直接列为致畸案例过于笼统。WHO 曾将规范剂量的 quinine 用于孕期疟疾治疗；ACOG 指出在适当人群中低剂量 aspirin 通常安全且可预防先兆子痫。是否使用药物要按现行临床评估，不能由课堂表格自行决定。"
+    },
+    {
+      "id": 121,
+      "text": "酒精与胎儿酒精谱系障碍"
+    },
+    {
+      "id": 122,
+      "text": "酒精能跨胎盘，胎儿的代谢能力有限。Foetal alcohol spectrum disorders（FASD）覆盖一系列身体、认知和行为影响；FAS（胎儿酒精综合征）是其中一个诊断类别，不是所有受影响儿童都具有相同面部特征。"
+    },
+    {
+      "id": 123,
+      "text": "暴露时间影响可能出现的损害类型，脑发育整个孕期都持续。没有已知安全的孕期饮酒量或安全时段；同时，不能仅凭外貌倒推某次饮酒的时间，也不能从单个暴露预测某个人的必然结果。"
+    },
+    {
+      "id": 124,
+      "text": "理解案例（自拟）  研究比较孕期不同时间的酒精暴露与后续语言和注意表现，要记录暴露剂量及其他影响因素。即使两组均值不同，也无法根据一个孩子的外貌精确重建母亲当时何时饮酒。"
+    },
+    {
+      "id": 126,
+      "text": "10 | 类别与概念：外表不等于身份"
+    },
+    {
+      "id": 127,
+      "text": "Slides 27–28；category、concept 与 De Vries (1969) 的猫面具任务。"
+    },
+    {
+      "id": 128,
+      "text": "把相似事物放在一起，是认识世界的起点"
+    },
+    {
+      "id": 129,
+      "text": "Category（类别）是一组被归到一起的对象或事件；concept（概念）是我们对这组事物的心理表征，包含特征、关系、用途与预期。类别边界部分来自知觉，部分通过语言、文化与学习建立；不是每一种分类都同样自然或不可改变。"
+    },
+    {
+      "id": 130,
+      "text": "层次 | 例子 | 孩子要学到什么\n\n知觉线索 | 有毛、四条腿、会叫。 | 这些外观特征有助识别，但会有例外。\n\n类别身份 | Maynard 戴了狗面具，仍是猫。 | 表面伪装不一定改变事物种类。\n\n概念知识 | 猫是一种动物，通常具有某些行为与生物特点。 | 能在新场景下理解和预测，而不只背一张照片。"
+    },
+    {
+      "id": 132,
+      "text": "De Vries 的例子用“Maynard 猫戴上狗面具后还是猫吗？”测试儿童能否超越眼前外表。课件图显示 3–6 岁相关判断能力随年龄提高，但它并不意味着 3 岁前完全没有类别，也不表示任何面具都能测到同一种能力。"
+    },
+    {
+      "id": 133,
+      "text": "理解案例（自拟）  孩子把塑料香蕉当成“水果”玩具，却知道它不能吃。她能把外形、用途和真实身份分开，这比只说“黄色弯弯的是香蕉”更进一步。"
+    },
+    {
+      "id": 134,
+      "text": "EXAM  一行对比：category 是归在一起的一组东西；concept 是脑中关于这一组东西的知识。看似相同与真正属于同类，要分开判断。"
+    },
+    {
+      "id": 136,
+      "text": "11 | 习惯化：用注视时间研究婴儿分类"
+    },
+    {
+      "id": 137,
+      "text": "Slides 29–30；Quinn & Eimas (1996)、Bel-Chadha (1996)。"
+    },
+    {
+      "id": 138,
+      "text": "Habituation → dishabituation 的实验逻辑"
+    },
+    {
+      "id": 139,
+      "text": "步骤 | 研究者做什么 | 可以怎样解释\n\nHabituation 习惯化 | 反复呈现同类刺激，例如不同的猫照片；观察注视时长是否下降。 | 婴儿对重复刺激逐渐熟悉，注意力降低。\n\nTest 测试 | 呈现新的类别刺激，例如狗，和合适的对照图。 | 比较对新图的注视是否重新增加。\n\nDishabituation 去习惯化 | 若新类别引起更长注视，出现恢复注意。 | 说明婴儿在这一任务中辨别了某种差异。"
+    },
+    {
+      "id": 141,
+      "text": "课件的第二组图片将几种哺乳动物作习惯化刺激，再展示鱼、鸟等不同动物；约 6 个月的婴儿在某些任务中已能作类别区分。图中“婴儿表情照片”是示意，真正指标是注视时长及合适的控制比较。"
+    },
+    {
+      "id": 142,
+      "text": "推论可以走多远？"
+    },
+    {
+      "id": 143,
+      "text": "更长注视支持婴儿注意到新旧刺激差异，也可为早期类别表征提供证据；但它不直接证明婴儿知道成人所知道的“猫”“哺乳动物”定义。新图的颜色、大小、方向或整体新奇感都可能影响结果，因此刺激设计与对照条件重要。"
+    },
+    {
+      "id": 144,
+      "text": "理解案例（自拟）  反复给婴儿看三只不同的猫，之后一张狗图令其看得更久。较稳妥的说法是“任务里表现出区分猫样刺激与狗样刺激”，而不是“已经能说出猫的生物学定义”。"
+    },
+    {
+      "id": 145,
+      "text": "EXAM  答题三步：重复呈现 → 注视下降 → 新类别使注视恢复。再写一句局限：注视偏好是间接指标，可能受低层视觉差异影响。"
+    },
+    {
+      "id": 147,
+      "text": "12 | 从知觉相似到类别层级"
+    },
+    {
+      "id": 148,
+      "text": "Slides 31–33；superordinate、basic 与 subordinate levels。"
+    },
+    {
+      "id": 149,
+      "text": "为什么“猫”常比“暹罗猫”先好用？"
+    },
+    {
+      "id": 150,
+      "text": "幼儿最初可形成较宽泛的知觉区分，如人、动物与无生命物。随着经验与语言增加，会在层级中放置更具体的类别。Basic level（基础层级）往往兼顾信息量与容易识别的共同外观，因此常成为早期常用的命名层级。"
+    },
+    {
+      "id": 151,
+      "text": "层级 | 课件示例 | 与其他层级的关系\n\nSuperordinate 上位 | Animal 动物。 | 覆盖猫、狗等多个基础类别。\n\nBasic 基础 | Cat 猫；Dog 狗。 | 平时容易辨认与命名，兼有共同形态和功能。\n\nSubordinate 下位 | Siamese 暹罗猫；Pug 巴哥犬。 | 在基础类别之内再细分。"
+    },
+    {
+      "id": 153,
+      "text": "层级依赖儿童接触机会和社交学习；熟悉某领域的孩子可能很早会使用下位名称。不能把“基础层级常较早获得”理解为绝对先后顺序，也不能只靠照片相似度解释全部分类。"
+    },
+    {
+      "id": 154,
+      "text": "理解案例（自拟）  见到邻居的巴哥犬，孩子先说“狗”，学了品种后说“巴哥犬”，再学会“狗也是动物”。三句话可同时正确，只是抽象程度不同。"
+    },
+    {
+      "id": 155,
+      "text": "EXAM  能画出“动物 → 狗 → 巴哥犬”和“动物 → 猫 → 暹罗猫”，再说明上位类别更广，下位类别更具体。"
+    },
+    {
+      "id": 157,
+      "text": "13 | 因果概念：知道“为什么”有何用？"
+    },
+    {
+      "id": 158,
+      "text": "Slides 34–35；Krascum & Andrews (1998) 的 Wugs 与 Gillies。"
+    },
+    {
+      "id": 159,
+      "text": "Theory-based concepts 超越外形相似"
+    },
+    {
+      "id": 160,
+      "text": "当儿童知道某个特征有什么功能、为何有用，就能把特征与环境、行为和后果连起来。这有助于组织知识、预测未见情境，以及迁移到新例子；并不意味着知觉类别会被完全取代。"
+    },
+    {
+      "id": 161,
+      "text": "实验中的两类讲法 | 给孩子的信息 | 可能的学习结果\n\n仅讲特征 | “Wug 有这些外形；Gilly 有那些外形。” | 能记线索，但面对新个体时可能只靠表面。\n\n特征 + 因果功能 | 说明某些特征为什么帮助防御、听见危险或逃跑。 | 课件报告儿童分类新图片更好，次日记忆也更佳。"
+    },
+    {
+      "id": 163,
+      "text": "这个比较的关键是信息内容，而非两个物种真实存在：Wug 与 Gilly 是给儿童学习的虚构类别。即使结果支持因果解释有帮助，也要考虑讲解长度、趣味性、记忆负荷等可能同时变化。"
+    },
+    {
+      "id": 164,
+      "text": "理解案例（自拟）  只背“变色龙会变色”，遇到新动物可能不知道如何判断；理解“颜色变化能帮助隐藏”后，看到保护色衣服也能想到类似功能。迁移是功能知识帮助新情境理解的例子。"
+    },
+    {
+      "id": 165,
+      "text": "EXAM  常见问法：为什么 causal explanation 能改善学习？回答“把特征与功能连接，提供预测与迁移依据”，再点出研究是特征组对照特征加原因组。"
+    },
+    {
+      "id": 167,
+      "text": "14 | 朴素心理学：愿望、信念和行动"
+    },
+    {
+      "id": 168,
+      "text": "Slides 36–38；naïve psychology 是日常理解他人的框架。"
+    },
+    {
+      "id": 169,
+      "text": "为什么同一个人会做这件事？"
+    },
+    {
+      "id": 170,
+      "text": "我们通常用 desires（愿望）、beliefs（信念／对事实的看法）和 actions（行动）解释行为。愿望提供目标；信念告诉人采取什么行动可能达成目标。一个人即使有与我们相同的目标，只要相信的事实不同，行动也可能不同。"
+    },
+    {
+      "id": 171,
+      "text": "成分 | 校园例子 | 分析时要问\n\nDesire 愿望 | 想获得心理学学位。 | 这个人想达成什么？\n\nBelief 信念 | 认为选修某门课有助于未来方向。 | 这个人相信世界怎样、什么办法有效？\n\nAction 行动 | 报名课程并参加课堂。 | 行为如何由愿望与信念共同指向？"
+    },
+    {
+      "id": 173,
+      "text": "幼儿通过观察行动与后果、与他人谈论“想要”“以为”“知道”，逐渐建立对心理状态的朴素理解。Naïve 不表示愚蠢，而是指未经正式科学理论训练的日常解释。"
+    },
+    {
+      "id": 174,
+      "text": "理解案例（自拟）  你和朋友都想喝水。你相信厨房有水，朋友以为水在书包里，于是你去厨房、朋友翻书包。行为不同，不能只凭行动断定谁更想喝。"
+    },
+    {
+      "id": 175,
+      "text": "EXAM  三要素要分清：desire 决定目标，belief 影响可行路径，action 是可观察结果。研究者常从行动反推儿童是否理解前两者，但这种推论需设计对照。"
+    },
+    {
+      "id": 177,
+      "text": "15 | 模仿与共同注意：理解他人的基础线索"
+    },
+    {
+      "id": 178,
+      "text": "Slide 39；Meltzoff & Moore (1977) 与约 12 个月的 joint attention。"
+    },
+    {
+      "id": 179,
+      "text": "Imitation：观察后复制他人的动作"
+    },
+    {
+      "id": 180,
+      "text": "模仿能帮助学习新动作和社会习惯。课件引用经典“新生儿模仿面部动作”的研究；这项极早期能力的证据后来有争论，大样本纵向研究没有稳定重现，因此笔记把它作为历史上重要的研究假设，而不是无争议的出生即有能力。较大婴儿的模仿与学习不因此被否定。"
+    },
+    {
+      "id": 181,
+      "text": "Joint attention：两个人知道自己正看同一件事"
+    },
+    {
+      "id": 182,
+      "text": "共同注意指婴儿与照料者协调注意同一对象或事件，可通过视线、指向、声音等线索建立。它常在约 12 个月被讨论，但也是渐进发展的能力。共同注意让成人能给物体命名、解释用途，婴儿也能把词语和共同情境连接。"
+    },
+    {
+      "id": 183,
+      "text": "行为 | 与心理理解的关系 | 不能过度推断\n\n跟随指点 | 婴儿转向被指的玩具，和照料者共享关注目标。 | 这一步本身不证明已理解复杂错误信念。\n\n模仿动作 | 婴儿试着复制成人拍手或使用物体的方式。 | 复制相似动作未必等于完全理解意图。\n\n说“看，这里” | 更大的孩子主动引导对方注意新事物。 | 每次指向的目的还需结合情境判断。"
+    },
+    {
+      "id": 185,
+      "text": "理解案例（自拟）  孩子跟随妈妈手指看窗外的小鸟，妈妈说“鸟在树上”。共享视线让“鸟”指向更明确，也创造继续谈“它会飞”的机会。"
+    },
+    {
+      "id": 186,
+      "text": "ACCURACY  Meltzoff 与 Moore 的经典结果应与后来的不一致证据一起记；新生儿的一次动作匹配和成熟的“读心”能力不是同一件事。"
+    },
+    {
+      "id": 188,
+      "text": "16 | Theory of Mind：理解别人有自己的想法"
+    },
+    {
+      "id": 189,
+      "text": "Slides 40–42；从愿望线索到对信念的理解。"
+    },
+    {
+      "id": 190,
+      "text": "定义与发展路径"
+    },
+    {
+      "id": 191,
+      "text": "Theory of Mind（ToM，心理理论）是理解他人也有愿望、信念、知识与情绪，而且这些状态可能与自己不同的能力。它不是一种神秘“读心术”，而是用行为、语言、情境线索推测他人的心理状态。"
+    },
+    {
+      "id": 192,
+      "text": "课堂研究线索 | 孩子表现 | 谨慎解释\n\n约 12 个月：小猫任务 | 成人表现出对一只小猫的兴趣，却拿起另一只时，婴儿可能看得更久。 | 与“动作应对应目标／愿望”的预期一致；注视时间仍是间接指标。\n\n约 2–3 岁：主观愿望 | 孩子开始理解另一个人可能喜欢与自己不同的东西。 | 不能因为某任务失败就说这个年龄完全不懂任何信念。\n\n约 4–5 岁：明确错误信念 | 很多孩子逐渐能回答另一个人会依其错误所知去哪里寻找。 | 年龄是大致趋势，语言、任务和文化经验影响表现。"
+    },
+    {
+      "id": 194,
+      "text": "课件把年轻儿童“知道愿望”与“不懂信念影响行动”做教学对比，但这不等于 2–3 岁儿童从不按别人的愿望预测选择；标准错误信念测验考的是更具体的困难。"
+    },
+    {
+      "id": 195,
+      "text": "理解案例（自拟）  你喜欢卡车，朋友喜欢毛绒玩具。当朋友要选礼物时，若你能说“他会选毛绒玩具”，说明你把自己的偏好和他的愿望分开。"
+    },
+    {
+      "id": 196,
+      "text": "EXAM  比较小猫注视任务和错误信念问答时写清：前者研究早期“目标／愿望预期”，后者测试在自己知道真相时，能否用别人错误的信念回答。"
+    },
+    {
+      "id": 198,
+      "text": "17 | 错误信念任务：按谁所知来回答？"
+    },
+    {
+      "id": 199,
+      "text": "Slides 43–47；unexpected-location task 的课堂故事。"
+    },
+    {
+      "id": 200,
+      "text": "四步剧情：关键是主人公没看见物品被搬走"
+    },
+    {
+      "id": 202,
+      "text": "剧情图为本笔记重画的理解图；课件 slides 43–47 用连续插图呈现。"
+    },
+    {
+      "id": 203,
+      "text": "提问 | 正确回答反映什么\n\n玩具现在实际在哪里？ | 衣柜：回答者理解现实位置。\n\n女孩最后一次见玩具在哪里？ | 玩具屋：回答者记住女孩获得的信息。\n\n女孩回来会先去哪里找？ | 玩具屋：回答者把行动预测建立在女孩的错误信念上。"
+    },
+    {
+      "id": 205,
+      "text": "课件与讲师说年龄较小的儿童常回答现实位置，约 4–5 岁更多能回答主人公所相信的旧位置。具体年龄受语言措辞、记忆、抑制现实答案的能力、文化和任务结构影响；任务失败不等于“没有同理心”或“完全不理解他人”。"
+    },
+    {
+      "id": 206,
+      "text": "理解案例（自拟）  你亲眼看到朋友的钥匙从桌上被移到抽屉，但朋友没有看到。若问“朋友会先去哪儿找？”应按朋友最后知道的桌面位置回答，而不是按你知道的抽屉位置。"
+    },
+    {
+      "id": 207,
+      "text": "EXAM  区别 actual location（衣柜）与 believed location（玩具屋）。问题若问的是“她认为在哪里／会先找哪里”，按她接触过的信息答。"
+    },
+    {
+      "id": 209,
+      "text": "18 | 课件补充：心理理论不只有一道题"
+    },
+    {
+      "id": 210,
+      "text": "Slides 48–49｜课件补充；文字稿未覆盖。"
+    },
+    {
+      "id": 211,
+      "text": "文化与语言影响任务表现"
+    },
+    {
+      "id": 212,
+      "text": "课件概括不同文化的儿童都逐渐发展对他人心理状态的理解，但各类 ToM 任务的通过顺序、语言要求与熟悉情境可能不同。部分研究报告双语儿童在某些任务上的优势；不能由此断言“双语必然让每个孩子更早理解他人”，也要看家庭经验与比较组。"
+    },
+    {
+      "id": 213,
+      "text": "维度 | 最简区别\n\nCognitive ToM | 理解别人知道什么、相信什么、怎样看待事实。\n\nAffective ToM | 理解别人可能感到什么、情绪为何与自己不同。\n\nTask demands | 问句理解、记忆剧情、抑制自身知识、熟悉社会情境，都会影响分数。"
+    },
+    {
+      "id": 215,
+      "text": "为什么重要？"
+    },
+    {
+      "id": 216,
+      "text": "理解心理状态能帮助解释玩笑、反讽、欺骗和教学沟通，也让我们知道别人需要的是新信息还是安慰。不过，单一实验任务不能作为临床诊断；某些发展状况中的 ToM 任务差异也不等于相关个体缺乏感情或无法建立关系。"
+    },
+    {
+      "id": 217,
+      "text": "理解案例（自拟）  老师知道答案，学生还不知道。好老师会从学生已知的信息讲起；这需要暂时放下自己的知识，估计对方目前理解到哪一步。"
+    },
+    {
+      "id": 218,
+      "text": "CRITIQUE  跨文化差异有时反映任务与语言的适配程度。比较发展顺序时，应先确定问题在不同语言和文化中测量的是相近能力。"
+    },
+    {
+      "id": 220,
+      "text": "19 | 课件补充：想象朋友不是自动的警讯"
+    },
+    {
+      "id": 221,
+      "text": "Slides 51–55｜课件补充；讲师明确表示本节跳过 imaginary companions。"
+    },
+    {
+      "id": 222,
+      "text": "Imaginary companion 可以有哪些形式？"
+    },
+    {
+      "id": 223,
+      "text": "形式 | 例子\n\nInvisible companion | 孩子会描述和一个别人看不见的角色一起玩。\n\nPersonified object | 毛绒玩具或物件被赋予稳定的名字、性格和关系。\n\nPretend identity / paracosm | 孩子扮演另一个身份，或建立细致的想象世界。\n\nShared companion | 两个或更多孩子共同维持一个虚构角色，形成共享游戏规则。"
+    },
+    {
+      "id": 225,
+      "text": "早期心理学有把想象朋友视为病理迹象的倾向；课件强调这在儿童游戏中并不罕见，可被用作练习语言、关系与想象的情境。也应看儿童如何使用它、是否带来困扰，以及整体生活适应。"
+    },
+    {
+      "id": 226,
+      "text": "研究相关与因果的界线"
+    },
+    {
+      "id": 227,
+      "text": "课件列出有想象朋友的儿童在指称沟通、语言与创造性游戏方面的一些关联。不能据此保证“创造一个朋友就能提高 ToM／语言”；更喜欢假装游戏或本来语言较流利，也可能更常报告想象朋友。不同文化的角色形式和报告方式也会不同。"
+    },
+    {
+      "id": 228,
+      "text": "理解案例（自拟）  孩子给玩具熊安排“害怕打雷”的故事，并练习安慰它。这样的角色扮演可能提供讨论情绪的机会；并不能单凭玩具熊的存在判断孩子发展一定领先或落后。"
+    },
+    {
+      "id": 229,
+      "text": "EXAM  课件最后把 IC 与语言、创造力和 ToM 连在一起。答题可写“相关研究提示可能的练习机会”，不要写成已证实的直接因果。"
+    },
+    {
+      "id": 231,
+      "text": "20 | 自测题 A：遗传、方法与产前发展"
+    },
+    {
+      "id": 232,
+      "text": "先尝试口述，再看参考答案。以下为本笔记自编练习。"
+    },
+    {
+      "id": 233,
+      "text": "1. 什么是 phenotype？"
+    },
+    {
+      "id": 234,
+      "text": "参考答案：可观察特征与行为；由基因相关过程和环境互动形成，不等于 DNA 的直接照片。"
+    },
+    {
+      "id": 235,
+      "text": "2. 为什么不能把复杂行为写成“一基因一行为”？"
+    },
+    {
+      "id": 236,
+      "text": "参考答案：许多行为是多基因、环境与经验共同作用的结果；单基因疾病范例不能直接推广。"
+    },
+    {
+      "id": 237,
+      "text": "3. PKU 为什么适合说明基因 × 环境？"
+    },
+    {
+      "id": 238,
+      "text": "参考答案：致病变异影响代谢，但早筛与专业饮食管理可显著改变神经发育结果。"
+    },
+    {
+      "id": 239,
+      "text": "4. 同卵双生子更相似，直接证明基因造成差异吗？"
+    },
+    {
+      "id": 240,
+      "text": "参考答案：提供遗传贡献线索；仍需考虑相似对待、共同产前环境与其他研究假设。"
+    },
+    {
+      "id": 241,
+      "text": "5. rMZ=.50、rDZ=.30，课件公式得到多少？"
+    },
+    {
+      "id": 242,
+      "text": "参考答案：h²≈2(.50−.30)=.40；是该人群、环境与模型中的群体变异估计。"
+    },
+    {
+      "id": 243,
+      "text": "6. h²=.40 能否说“我 40% 的人格由基因决定”？"
+    },
+    {
+      "id": 244,
+      "text": "参考答案：不能。遗传率描述群体中个体间差异，不将一个人的性格切成百分比。"
+    },
+    {
+      "id": 245,
+      "text": "7. 分开抚养的双胞胎仍有哪些共同因素？"
+    },
+    {
+      "id": 246,
+      "text": "参考答案：共享几乎全部遗传变异，也有共同产前环境；安置选择还可能造成相似后天环境。"
+    },
+    {
+      "id": 247,
+      "text": "8. 胚胎期和胎儿期的主要发展重点？"
+    },
+    {
+      "id": 248,
+      "text": "参考答案：约 2–8 周器官系统和肢体形成；约 9 周至出生继续增长与功能完善。"
+    },
+    {
+      "id": 249,
+      "text": "9. 为什么“aspirin 造成胎儿损伤”不能照单全收？"
+    },
+    {
+      "id": 250,
+      "text": "参考答案：课件未分剂量、适应症、风险人群和孕期；医生指导的低剂量方案有特定用途。"
+    },
+    {
+      "id": 251,
+      "text": "CHECK  练习时多补一句“比较的是谁、处在什么环境”。这是遗传与产前研究最常被省略的条件。"
+    },
+    {
+      "id": 253,
+      "text": "21 | 自测题 B：概念与理解他人"
+    },
+    {
+      "id": 254,
+      "text": "重点练“实验步骤 → 结果 → 允许的推论”。"
+    },
+    {
+      "id": 255,
+      "text": "10. Category 与 concept 怎么区分？"
+    },
+    {
+      "id": 256,
+      "text": "参考答案：类别是归在一起的一组对象；概念是关于该组对象特征、关系与用途的心理知识。"
+    },
+    {
+      "id": 257,
+      "text": "11. 猫戴狗面具的任务测什么？"
+    },
+    {
+      "id": 258,
+      "text": "参考答案：外表变化后是否仍判断其类别身份为猫；不等于年幼儿童没有早期类别。"
+    },
+    {
+      "id": 259,
+      "text": "12. Habituation/dishabituation 的关键测量？"
+    },
+    {
+      "id": 260,
+      "text": "参考答案：重复刺激后注视下降，新刺激出现后注视是否恢复；需要控制低层视觉差异。"
+    },
+    {
+      "id": 261,
+      "text": "13. “动物—狗—巴哥犬”属于哪三个层级？"
+    },
+    {
+      "id": 262,
+      "text": "参考答案：上位—基础—下位。"
+    },
+    {
+      "id": 263,
+      "text": "14. Wugs/Gillies 为什么要讲特征的作用？"
+    },
+    {
+      "id": 264,
+      "text": "参考答案：因果／功能解释让线索有组织意义，可能帮助分类新例和之后回忆。"
+    },
+    {
+      "id": 265,
+      "text": "15. Joint attention 是什么？"
+    },
+    {
+      "id": 266,
+      "text": "参考答案：婴儿与他人协调注意同一对象或事件，常通过视线、指点、声音等线索完成。"
+    },
+    {
+      "id": 267,
+      "text": "16. 小猫任务的更长注视能直接证明完整 ToM 吗？"
+    },
+    {
+      "id": 268,
+      "text": "参考答案：不能。与目标／愿望预期相符，但注视是间接指标，复杂信念理解仍需其他任务。"
+    },
+    {
+      "id": 269,
+      "text": "17. 错误信念故事里，女孩会先去哪里找玩具？"
+    },
+    {
+      "id": 270,
+      "text": "参考答案：玩具屋。她没有看见玩具被移到衣柜；预测要基于她的旧信念。"
+    },
+    {
+      "id": 271,
+      "text": "18. 为什么三岁儿童答错标准任务不等于“不会关心人”？"
+    },
+    {
+      "id": 272,
+      "text": "参考答案：任务涉及语言、记忆、抑制自己所知等要求；社会情感能力与该任务分数不同。"
+    },
+    {
+      "id": 273,
+      "text": "19. 想象朋友与较好的语言／创造性表现，证明什么？"
+    },
+    {
+      "id": 274,
+      "text": "参考答案：是某些样本中的关联，可能提供练习机会；未证明想象朋友本身直接造成提高。"
+    },
+    {
+      "id": 275,
+      "text": "TRANSFER  用四句话比较“被收养的双胞胎研究”与“错误信念任务”：各自比较什么、测量什么、支持什么、还缺什么。"
+    },
+    {
+      "id": 277,
+      "text": "22 | 英中术语表"
+    },
+    {
+      "id": 278,
+      "text": "英文用于认题，中文用于理解；同一概念在不同研究中要看操作化。"
+    },
+    {
+      "id": 279,
+      "text": "English | 中文与最短解释\n\nGene / chromosome / DNA | 基因／染色体／DNA：遗传信息及其结构层次。\n\nGenotype / phenotype | 基因型／表型：遗传组合／可观察表现。\n\nMonogenic / polygenic | 单基因／多基因：主要一个位点／许多位点共同参与。\n\nDominant / recessive | 显性／隐性：特定变异一个／通常两个拷贝可表现疾病。\n\nPenetrance | 外显率：携带相关基因型的人中实际表现某表型的比例。\n\nMonozygotic / dizygotic twins | 同卵／异卵双生子：近乎全部／平均一半分离遗传变异。\n\nHeritability (h²) | 遗传率：特定群体环境中，群体特质差异与遗传差异相关的比例。\n\nEqual-environments assumption | 等环境假设：MZ 和 DZ 的相关环境相似程度足以支持比较。\n\nShared / non-shared environment | 共同／非共同环境：使家人相似／使家人不同的经历。\n\nAdoption study / selection bias | 收养研究／选择偏差：比较亲缘与抚养／安置及抽样不随机。\n\nZygotic / embryonic / foetal | 合子／胚胎／胎儿期：产前三个近似阶段。\n\nTeratogen / FASD | 致畸因素／胎儿酒精谱系障碍：产前干扰因素／酒精相关影响范围。\n\nCategory / concept | 类别／概念：一类事物／对这一类事物的心理知识。\n\nHabituation / dishabituation | 习惯化／去习惯化：重复后注视减少／新刺激使注意恢复。\n\nSuperordinate / basic / subordinate | 上位／基础／下位：动物／狗／巴哥犬。\n\nCausal explanation | 因果解释：说明特征为何存在或起作用。\n\nNaïve psychology | 朴素心理学：用愿望、信念等解释人的日常行为。\n\nJoint attention / imitation | 共同注意／模仿：共享注意对象／复制观察到的动作。\n\nTheory of Mind (ToM) | 心理理论：理解他人心理状态可能与自己不同。\n\nFalse belief / actual location | 错误信念／实际位置：别人误以为的地点／物品真实地点。\n\nImaginary companion / paracosm | 想象朋友／幻想世界：虚构社会角色／完整虚构世界。"
+    },
+    {
+      "id": 282,
+      "text": "23 | 回课件定位、辨析与核对来源"
+    },
+    {
+      "id": 283,
+      "text": "页码为 Developmental Lecture 3.pdf 的 slide 序号。"
+    },
+    {
+      "id": 284,
+      "text": "课件位置 | 本笔记入口\n\n课堂先衔接 L6 slides 57–62 | “课堂衔接”页；完整主题另见 Lecture 6 笔记。\n\n3–9；10–20 | 01–03 遗传基础、疾病与核型；04–07 双生子／收养与遗传率。\n\n21–25 | 08–09 产前三阶段与致畸因素。\n\n27–30；31–35 | 10–11 类别与习惯化；12–13 层级与因果概念。\n\n36–42；43–47 | 14–16 朴素心理学、共同注意、ToM；17 错误信念。\n\n48–49；51–55 | 18–19 课件补充：跨文化 ToM 与想象朋友。"
+    },
+    {
+      "id": 286,
+      "text": "四个高风险误记"
+    },
+    {
+      "id": 287,
+      "text": "遗传率不是个人基因占比；课件 0.40 是依赖假设的群体变异估计。"
+    },
+    {
+      "id": 288,
+      "text": "“Huntington 所有携带者固定年龄发病”过度；重复数影响外显率与时间。"
+    },
+    {
+      "id": 289,
+      "text": "课件孕期 aspirin／quinine 表述缺少剂量与适应症；不能推导用药建议。"
+    },
+    {
+      "id": 290,
+      "text": "新生儿模仿、早期注视与想象朋友的研究都不应被写成单个任务证明成熟 ToM 或直接造成能力提升。"
+    },
+    {
+      "id": 291,
+      "text": "主要材料及用于核对措辞的资料"
+    },
+    {
+      "id": 292,
+      "text": "Kumada, Developmental Lecture 3，55 页课件；PSYC1004 Lecture 7 提供的文字稿。"
+    },
+    {
+      "id": 293,
+      "text": "MedlinePlus Genetics, “What is heritability?”：https://medlineplus.gov/genetics/understanding/inheritance/heritability/"
+    },
+    {
+      "id": 294,
+      "text": "MedlinePlus Genetics, “Huntington disease” 与 “Phenylketonuria”：https://medlineplus.gov/genetics/condition/huntingtons-disease/ ；https://medlineplus.gov/genetics/condition/phenylketonuria/"
+    },
+    {
+      "id": 295,
+      "text": "ACOG, Low-Dose Aspirin Use During Pregnancy；WHO, Safety of artemisinin and non-artemisinin antimalarials in the first trimester：https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/07/low-dose-aspirin-use-during-pregnancy ；https://www.who.int/southeastasia/publications/i/item/9789240069404"
+    },
+    {
+      "id": 296,
+      "text": "CDC, About Alcohol Use During Pregnancy：https://www.cdc.gov/alcohol-pregnancy/about/index.html"
+    },
+    {
+      "id": 297,
+      "text": "Oostenbroek et al. (2016), Comprehensive Longitudinal Study Challenges the Existence of Neonatal Imitation：https://pubmed.ncbi.nlm.nih.gov/27161497/"
+    }
+  ],
+  "sourceText": "# Lecture 7\n\n\n\n\n[B0001] PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT\n\n[B0002] Lecture 7\n\n[B0003] Biological and Cognitive Development\n\n[B0004] 生物与认知发展：遗传、产前环境、概念与心理理论\n\n[B0005] Maika Kumada  |  Developmental Lecture 3: 55 slides  |  Bilingual study notes\n\n[B0006] CORE IDEA  基因提供发展可能性，环境改变其表现；儿童同时通过知觉、语言和社会互动建构类别，逐渐理解别人也有自己的想法。\n\n[B0007 FIGURE] LECTURE MAP  四条相连的主线。01 遗传：染色体与基因，单基因／多基因，双生子与收养，遗传率的含义；02 产前：三个发展时期，暴露的时间与剂量，药物和酒精，结果的个体差异；03 概念：注视与习惯化，外表和本质，类别层级，因果解释；04 他人想法：愿望与信念，共同注意，错误信念任务，文化与语言\n\n[B0008] Lecture map：课堂开头先讲完 Lecture 6 的群体偏见部分，再进入本讲四条主线。\n\n[B0009] 阅读方法：先看一页速记；每页对照 slide 编号。蓝色为理论和方法，金色为自拟理解案例与答题重点，红色为容易误记的内容，绿色为应用。末尾有自测题与英中术语表。\n\n[B0010] STUDY PRIORITY  优先练会：h² = 2(rMZ − rDZ) 的解释、遗传×环境、产前暴露的时间性、habituation/dishabituation、类别层级、desire vs belief，以及 false-belief task。\n\n## [B0012] 一页速记 | Lecture at a glance\n\n## [B0013] 课件 slides 3–25、27–49、51–55；课堂开头另衔接 Lecture 6 slides 57–62。\n\n\n[B0014 TABLE]\n\n主题 | 一句话带走\n\nGenes × environment | Genotype 与经验共同形成 phenotype；多基因行为不等于“一种基因一种行为”。\n\nTwin/adoption designs | 比较共享基因与共享环境的不同组合；相关性与 h² 都是群体层面的估计。\n\nHeritability | 课件例子 rMZ=.5、rDZ=.3，得 h²≈.4；它不是某个人“40% 由基因制造”。\n\nPrenatal development | 合子、胚胎、胎儿期任务不同；暴露剂量、时间和持续期会改变风险。\n\nCategories & concepts | 注视时间揭示早期区分；类别层级和“为什么”的解释让知识更灵活。\n\nTheory of Mind | 别人可能喜欢、知道、相信不同的事情；错误信念任务检验能否按对方所知预测行为。\n\nSlide supplement | 课件后段讨论文化／语言与 ToM，以及 imaginary companions；提供的文字稿没有讲到。\n\n\n\n## [B0016] 四步答题法\n\n[B0017] ① 先界定术语。② 说清比较了什么、测了什么。③ 解释结果支持哪一步推论。④ 补上一个具体限制。读到“完全由基因决定”“每个孩子都会”时，先检查原研究是否只报告群体平均或任务表现。\n\n[B0018] 理解案例（自拟）  题目说“同卵双胞胎在一项任务上更像”。可回答“与遗传贡献一致”，但要补充他们是否也被更相似地对待，及相关不等于某个人的固定命运。\n\n## [B0020] 课堂衔接：Lecture 6 的最后一段\n\n## [B0021] 本次录音开头实际补讲上次课 slides 57–62；这里为连贯复习。\n\n## [B0022] 群体差异怎样变得有社会意义\n\n[B0023] 讲师回顾 DIT：儿童注意到性别、族群等突出线索，进行分类，随后学习社会赋予群体的评价。对熟悉群体的偏好与对外群体的负面态度不是同一概念；测量还要区分明确说出的 explicit attitudes 与任务中的 implicit associations。\n\n\n[B0024 TABLE]\n\n课堂补讲内容 | 最稳妥的记法\n\n性别与同伴偏好 | 群体典型性感受、接触机会与社会规范可能影响同伴选择；关联不等于先天固定。\n\n歧视的心理影响 | 反复被排斥可与焦虑、低自尊等相关。内化刻板印象与担心证实刻板印象是不同路径。\n\n生理压力 | 长期歧视压力可能与应激系统及健康风险相关；并非一次经历便注定患病。\n\n环境强化 | 父母和青少年可能双向影响彼此态度，教师支持多元文化与公平对待也会提供线索。\n\n\n\n[B0026] 理解案例（自拟）  老师总按性别分组，孩子便频繁听到“男孩一组、女孩一组”。即使老师没有说谁更好，分组习惯仍可能让性别类别更显眼。\n\n[B0027] REVIEW LINK  Lecture 6 笔记已详细讲这些内容。本讲重点从“社会环境怎样塑造发展”转到“生物差异怎样与环境互动”。\n\n## [B0029] 01 | 遗传基础：从基因到行为\n\n## [B0030] Slides 3–5, 9；课堂强调概念，而非背诵所有染色体细节。\n\n## [B0031] 46 条染色体与遗传信息\n\n[B0032] 典型人体体细胞有 46 条染色体：22 对常染色体，以及一对性染色体。DNA 的片段构成 genes（基因）；基因参与蛋白质和生物过程，但通常不是单独决定一种心理行为的开关。群体中的自然遗传差异是研究行为差异的一个来源。\n\n\n[B0033 TABLE]\n\n术语 | 该怎么理解 | 容易误记成\n\nGenotype 基因型 | 个体携带的遗传变异或组合。 | 等同一个人可观察到的全部特点。\n\nPhenotype 表型 | 可观察的特征与行为，是基因、生理过程和环境相互作用的结果。 | 基因型的直接照片。\n\nMonogenic 单基因 | 某些特征／疾病主要与某一基因位点的变异有关。 | 一种基因决定每一个复杂行为。\n\nPolygenic 多基因 | 许多基因变异各贡献一点，常与经验及条件共同作用。 | 只要有“风险基因”就必然出现行为。\n\n\n\n[B0035] “Genotype + environment = phenotype”是课堂的助记式，不是可按数字相加的公式。更精确的想法是 gene–environment interaction：相同遗传倾向在不同环境下可能有不同表现；儿童行为也可能改变自己接触的环境。\n\n[B0036] 理解案例（自拟）  一个孩子对威胁很敏感，在冲突频繁的家里可能更常反击，在稳定回应的环境中可能较会调节情绪。例子说明环境改变表现，不是在给孩子寻找“攻击基因”。\n\n[B0037] EXAM  解释复杂心理特质时，优先写多基因 + 环境与其互动。单基因病的遗传方式可以用来练原理，却不能套成“一基因对应一行为”。\n\n## [B0039] 02 | 单基因范例：显性、隐性与可改变的结果\n\n## [B0040] Slide 6；Huntington disease 与 phenylketonuria (PKU)。\n\n## [B0041] Dominant / recessive 是特定遗传模式\n\n\n[B0042 TABLE]\n\n课堂范例 | 遗传要点 | 发展上的重要辨析\n\nHuntington disease / 亨廷顿病 | 与 HTT 基因中特定重复序列扩增有关，常按常染色体显性方式传递。 | “有一个相关变异就一定在三四十岁发病”过度简单；重复次数与外显率、发病年龄有关。\n\nPKU / 苯丙酮尿症 | 通常由 PAH 相关的两份致病变异造成，苯丙氨酸代谢受影响。 | 早筛和受专业指导的饮食管理可显著改变结果；基因并未因此消失。\n\n\n\n[B0044] Dominant 指一个相关变异拷贝就可影响表型；recessive 通常需两个相关变异拷贝才表现疾病。这里谈的是特定基因与特定状况，不能把“显性”理解为更常见、更强或更有价值。\n\n## [B0045] PKU 是基因与环境互动的好例子\n\n[B0046] 如果体内苯丙氨酸不能充分代谢，长期高浓度会伤害神经系统。对有 PKU 的婴儿及早检测、持续管理饮食，就能显著改善发展。饮食调整改变的是暴露与代谢后果，不是把遗传变异从 DNA 中删除。\n\n[B0047] 理解案例（自拟）  两个孩子都带有造成 PKU 的基因变异。一位早期发现并接受专业饮食管理，另一位长期未被发现，后续发展可能明显不同。相同基因型不保证相同结局。\n\n[B0048] ACCURACY  课件称 Huntington 的“所有携带者都发病”。更准确的是：某些 HTT 重复范围存在 reduced penetrance；较高重复数通常更容易发病。不要把课堂简写当成毫无例外的诊断句。\n\n## [B0050] 03 | 染色体差异与 XYY 误解\n\n## [B0051] Slides 7–8；重点是变异和社会偏见，不必背全部发生率。\n\n## [B0052] 染色体数目变化是类别，表型不是固定清单\n\n\n[B0053 TABLE]\n\n课件举例 | 染色体层面 | 学习时记住\n\nDown syndrome | 通常为 21 三体（trisomy 21）。 | 可能影响发育，但个体能力与支持需求不同。\n\nTurner syndrome | 常见表述为单一 X（45,X），还存在其他染色体形式。 | 表型、学习和生育情况不能只凭核型一口断定。\n\nTriple X | 常见表述为 47,XXX。 | 有些人终生未被诊断；能力分布范围广。\n\nKlinefelter syndrome | 常见表述为 47,XXY。 | 表现和诊断时间可变，不应写成单一“男性类型”。\n\n47,XYY | 多一条 Y 染色体。 | 有些人症状很轻；XYY 不等于暴力。\n\n\n\n[B0055] 课件表格列了若干“典型特点”和历史发生率；这些概括不应拿来判断具体儿童，也不应把“生物性别”写成只有一组固定表型。实际还存在嵌合型、环境与支持差异。\n\n## [B0056] XYY：当研究样本本身带偏，会发生什么？\n\n[B0057] 课堂提到过去从机构或司法相关样本中研究 XYY，形成“extreme male = aggression”的刻板说法，并曾进入法律论证。这样的样本并不代表所有 XYY 人群；筛选来源与社会偏见会放大错误结论。\n\n[B0058] 理解案例（自拟）  只到少管机构抽样，然后发现样本里有学习困难或冲突行为，就推断同核型的所有孩子都危险，等于把“在哪里找人”误当成“基因造成什么”。\n\n[B0059] EXAM  能写出研究错误：selection bias（选择偏差）+ 个体差异 + 不能由核型推断犯罪倾向；发生率无需当成跨地区、跨年代不变的绝对数。\n\n## [B0061] 04 | 双生子研究：比较“相似程度”\n\n## [B0062] Slides 10–12；MZ 与 DZ 的比较逻辑。\n\n## [B0063] Behavioural genetics 问的是变异来源\n\n[B0064] 同卵双生子（MZ）源自同一受精卵，通常共享几乎全部遗传变异；异卵双生子（DZ）来自两枚受精卵，平均共享约一半的分离遗传变异。研究者比较他们在某一特质上的相关程度，而非拿一对双胞胎讲故事。\n\n\n[B0065 TABLE]\n\n比较 | 大致共享遗传变异 | 能回答的起点\n\nMZ 同卵 | 几乎全部。 | 若 MZ 的某项特质相似性高于 DZ，遗传差异可能参与该群体的特质差异。\n\nDZ 异卵 | 平均约一半。 | 作为参照，有助于估计遗传相关性带来的额外相似。\n\n\n\n[B0067] 课件用“相同环境”作简化。现实中即便一起长大，每个孩子也有独特经历（non-shared environment）；MZ 也可能因为外表更像而受到更相似的对待。因此设计所依赖的 equal-environments assumption 需要检验。\n\n[B0068] 理解案例（自拟）  若老师因为一对同卵双胞胎看起来很像，常让两人参加同一活动，却让异卵双胞胎分班，那么 MZ 更相似可能同时含有环境效应。\n\n[B0069] CRITIQUE  “MZ 相关更高”与遗传贡献相符，但不是一个能把基因与环境完美分离的天然实验；共同产前环境、亲子互动、测量误差也值得考虑。\n\n[B0070] EXAM  Twin logic：先讲 MZ 与 DZ 的遗传相似度，再讲被比较的是同一特质的相关系数，最后说 equal-environments 这一关键假设。\n\n## [B0072] 05 | 遗传率 h²：会算，更要会解释\n\n## [B0073] Slide 13；课件给出的 Falconer 简化公式与示例。\n\n## [B0074] 把两个相关系数放进同一个公式\n\n\n[B0075 TABLE]\n\n量 | 含义\n\nrMZ | 样本中 MZ 双生子对该特质的相关程度。\n\nrDZ | 样本中 DZ 双生子对同一特质的相关程度。\n\nh² ≈ 2(rMZ − rDZ) | 简化双生子模型在特定假设下对群体遗传率的估计。\n\n\n\n[B0077] CALCULATION  课件示例：rMZ = 0.50，rDZ = 0.30；h² ≈ 2 × (0.50 − 0.30) = 0.40。\n\n[B0078] 正确翻译是：在所研究人群与环境中，某特质的个体间差异有一部分统计上与遗传差异相关。h² = .40 不是“这名学生人格的 40% 由基因产生，剩下 60% 是养育”，也不是“有 40% 的人由基因决定”。\n\n## [B0079] 为什么环境改变后，h² 也可能改变？\n\n[B0080] 遗传率是方差比例，分子与分母都依赖人群和环境。若生活条件更一致，环境差异变小，即使基因和环境对个人发展都重要，估计的 h² 也可能上升。它既不是永恒常数，也不告诉我们特质是否容易改变。\n\n[B0081] 理解案例（自拟）  一个班级每个人都有同样丰富的书籍，阅读能力差异的遗传率估计可能较高；换到书籍机会差异很大的地区，估计可能不同。这个变化不表示书籍突然不重要。\n\n[B0082] ACCURACY  课件把 heritability 简写为“行为有多少由基因而非环境造成”，易误导。正式定义是特定人群中特质变异由遗传变异解释的比例；简化公式还依赖双生子研究假设。\n\n## [B0084] 06 | 收养研究与分离双生子：能比较什么？\n\n## [B0085] Slides 14–20；adoption design 与 separated twins。\n\n## [B0086] 收养设计的三个比较方向\n\n\n[B0087 TABLE]\n\n比较关系 | 共享的东西 | 问题\n\n亲生并共同生活 | 部分基因 + 家庭环境。 | 整体相似，但两种来源难拆开。\n\n养父母／非亲缘手足 | 主要共享养育家庭。 | 共同生活能解释多少相似？\n\n生物亲属但不同家庭 | 共享部分基因，日常养育分开。 | 在不同家庭里仍有多少相似？\n\n\n\n[B0089] 分离同卵双生子为“相似基因、不同家庭”提供罕见比较，但仍有共同产前经历、选择性安置、相似的社会条件，以及后来知道自己是双生子造成的互动变化。收养家庭也并非随机抽取自全部家庭。\n\n## [B0090] Neubauer 分离双生子／三胞胎事件\n\n[B0091] 课堂把 1960–70 年代分开安置儿童、随后研究观察的历史案例当作研究伦理与当时儿童观的警示。认为“分开能避免依赖、给每人更多资源”是当时的一种假设，不能当成已证实的儿童利益。这样的研究不能因为数据看似珍贵，就忽略家属知情与儿童福祉。\n\n[B0092] 理解案例（自拟）  听说一对分开长大的双胞胎都喜欢同款车、伴侣都叫 Linda，故事很醒目；但常见名字与品牌本就容易巧合，人们又倾向分享相同点、忽略不同点。逸闻不能估遗传率。\n\n[B0093] EXAM  评价研究时写出 adoption placement、prenatal environment、shared/non-shared experiences 和伦理问题，比“收养研究完全排除了环境”准确。\n\n## [B0095] 07 | 从相关到因果：双生子研究的边界\n\n## [B0096] Slides 14, 18–20；把前两页的设计限制串起来。\n\n## [B0097] 同一种相似性，可以有多条路径\n\n\n[B0098 TABLE]\n\n可能路径 | 具体例子 | 会怎样影响解释？\n\n共同基因 | MZ 比 DZ 共享更多遗传变异。 | MZ 更像符合遗传贡献，但只是其中一条路径。\n\n共同家庭 | 一起长大的手足共享住房、资源与部分教养。 | 所有一起长大的相似都不能归于 DNA。\n\n非共享经验 | 同一家庭内的朋友、老师、疾病、个人遭遇不同。 | 同胞也会不同；“同一屋檐”不是相同环境。\n\n被区别对待 | MZ 因外表更像被穿同样衣服、安排同样活动。 | 环境相似性可能随双生子类型而变化。\n\n选择与产前 | 收养安置可能匹配家庭；分开后仍共享产前因素。 | “分开养”仍不等于严格随机化。\n\n\n\n## [B0100] 基因与环境不一定可简单相加\n\n[B0101] Gene–environment interaction 意味着环境可改变遗传倾向的表达；gene–environment correlation 意味着遗传相关特点还可能影响人寻找、得到或引发的环境。课堂的“genes × environment”是提醒两者共同运作，并非一个直接用于计算每个人行为的乘法式。\n\n[B0102] 理解案例（自拟）  喜欢阅读的孩子可能主动借更多书，家长也更愿意给他买书。后来表现好，既可能有个人差异，又受后来不断累积的阅读机会影响。\n\n[B0103] EXAM  给定“分离双胞胎结果类似”的材料，至少提出一个共享但未测量的因素与一个选择偏差，才能说明为何不能直接做因果断言。\n\n## [B0105] 08 | 产前三阶段：时间为什么重要？\n\n## [B0106] Slides 21–22；prenatal stages 是近似时间窗。\n\n\n[B0107 TABLE]\n\n时期 | 课件时间 | 主要变化\n\nZygotic 合子期 | 受精后约 0–2 周。 | 细胞分裂、早期组织与着床。\n\nEmbryonic 胚胎期 | 约第 2–8 周。 | 主要器官系统和肢体结构逐渐形成。\n\nFoetal 胎儿期 | 约第 9 周至出生。 | 成长、器官功能完善，尤其神经系统持续发展。\n\n\n\n[B0109] 阶段边界是教学用的近似值；孕周计数方法也可能影响数字。不同器官在不同时间最敏感，风险还取决于暴露剂量、持续时间、物质种类、个体差异与是否得到医疗照护。\n\n## [B0110] Teratogen：不是“所有接触都给出同一种结果”\n\n[B0111] Teratogen 指可能干扰产前发育的环境因素，例如某些药物、酒精和感染。胚胎期的器官形成常被强调，但胎儿期的脑发育和功能成熟也会受到影响；不能把阶段表理解为“过了第八周就安全”。\n\n[B0112] 理解案例（自拟）  两次同一种暴露发生在不同孕期、剂量也不同，不能只按物质名称预测同一种结果；研究要明确暴露发生的具体时间和程度。\n\n[B0113] EXAM  回答时间敏感性时按“物质／剂量 → 暴露时期与持续性 → 受影响的发育过程 → 可能结果”写，不要只背器官名称。\n\n## [B0115] 09 | 致畸因素与孕期用药：看剂量和情境\n\n## [B0116] Slides 23–25；课程案例用于理解机制，不作为个人用药建议。\n\n## [B0117] 三个药物例子不能写成同一条禁用规则\n\n\n[B0118 TABLE]\n\n课堂例子 | 可靠的学习点 | 需要的限定\n\nThalidomide 沙利度胺 | 历史上孕期暴露与严重肢体畸形相关，体现关键发育窗口。 | 不是所有出生缺陷都可由某种药的单次暴露解释。\n\nQuinine 奎宁 | 课堂提到听力风险，提醒药物效果取决于药理和剂量。 | 不能由此断言治疗疟疾的规范剂量在孕期一概禁用；疾病本身也有风险。\n\nAspirin 阿司匹林 | 课件列出了不良妊娠结局。 | 该说法缺少剂量与临床适应症；医生对某些高风险孕妇会开低剂量方案。\n\n\n\n[B0120] ACCURACY  课件把 quinine、aspirin 直接列为致畸案例过于笼统。WHO 曾将规范剂量的 quinine 用于孕期疟疾治疗；ACOG 指出在适当人群中低剂量 aspirin 通常安全且可预防先兆子痫。是否使用药物要按现行临床评估，不能由课堂表格自行决定。\n\n## [B0121] 酒精与胎儿酒精谱系障碍\n\n[B0122] 酒精能跨胎盘，胎儿的代谢能力有限。Foetal alcohol spectrum disorders（FASD）覆盖一系列身体、认知和行为影响；FAS（胎儿酒精综合征）是其中一个诊断类别，不是所有受影响儿童都具有相同面部特征。\n\n[B0123] 暴露时间影响可能出现的损害类型，脑发育整个孕期都持续。没有已知安全的孕期饮酒量或安全时段；同时，不能仅凭外貌倒推某次饮酒的时间，也不能从单个暴露预测某个人的必然结果。\n\n[B0124] 理解案例（自拟）  研究比较孕期不同时间的酒精暴露与后续语言和注意表现，要记录暴露剂量及其他影响因素。即使两组均值不同，也无法根据一个孩子的外貌精确重建母亲当时何时饮酒。\n\n## [B0126] 10 | 类别与概念：外表不等于身份\n\n## [B0127] Slides 27–28；category、concept 与 De Vries (1969) 的猫面具任务。\n\n## [B0128] 把相似事物放在一起，是认识世界的起点\n\n[B0129] Category（类别）是一组被归到一起的对象或事件；concept（概念）是我们对这组事物的心理表征，包含特征、关系、用途与预期。类别边界部分来自知觉，部分通过语言、文化与学习建立；不是每一种分类都同样自然或不可改变。\n\n\n[B0130 TABLE]\n\n层次 | 例子 | 孩子要学到什么\n\n知觉线索 | 有毛、四条腿、会叫。 | 这些外观特征有助识别，但会有例外。\n\n类别身份 | Maynard 戴了狗面具，仍是猫。 | 表面伪装不一定改变事物种类。\n\n概念知识 | 猫是一种动物，通常具有某些行为与生物特点。 | 能在新场景下理解和预测，而不只背一张照片。\n\n\n\n[B0132] De Vries 的例子用“Maynard 猫戴上狗面具后还是猫吗？”测试儿童能否超越眼前外表。课件图显示 3–6 岁相关判断能力随年龄提高，但它并不意味着 3 岁前完全没有类别，也不表示任何面具都能测到同一种能力。\n\n[B0133] 理解案例（自拟）  孩子把塑料香蕉当成“水果”玩具，却知道它不能吃。她能把外形、用途和真实身份分开，这比只说“黄色弯弯的是香蕉”更进一步。\n\n[B0134] EXAM  一行对比：category 是归在一起的一组东西；concept 是脑中关于这一组东西的知识。看似相同与真正属于同类，要分开判断。\n\n## [B0136] 11 | 习惯化：用注视时间研究婴儿分类\n\n## [B0137] Slides 29–30；Quinn & Eimas (1996)、Bel-Chadha (1996)。\n\n## [B0138] Habituation → dishabituation 的实验逻辑\n\n\n[B0139 TABLE]\n\n步骤 | 研究者做什么 | 可以怎样解释\n\nHabituation 习惯化 | 反复呈现同类刺激，例如不同的猫照片；观察注视时长是否下降。 | 婴儿对重复刺激逐渐熟悉，注意力降低。\n\nTest 测试 | 呈现新的类别刺激，例如狗，和合适的对照图。 | 比较对新图的注视是否重新增加。\n\nDishabituation 去习惯化 | 若新类别引起更长注视，出现恢复注意。 | 说明婴儿在这一任务中辨别了某种差异。\n\n\n\n[B0141] 课件的第二组图片将几种哺乳动物作习惯化刺激，再展示鱼、鸟等不同动物；约 6 个月的婴儿在某些任务中已能作类别区分。图中“婴儿表情照片”是示意，真正指标是注视时长及合适的控制比较。\n\n## [B0142] 推论可以走多远？\n\n[B0143] 更长注视支持婴儿注意到新旧刺激差异，也可为早期类别表征提供证据；但它不直接证明婴儿知道成人所知道的“猫”“哺乳动物”定义。新图的颜色、大小、方向或整体新奇感都可能影响结果，因此刺激设计与对照条件重要。\n\n[B0144] 理解案例（自拟）  反复给婴儿看三只不同的猫，之后一张狗图令其看得更久。较稳妥的说法是“任务里表现出区分猫样刺激与狗样刺激”，而不是“已经能说出猫的生物学定义”。\n\n[B0145] EXAM  答题三步：重复呈现 → 注视下降 → 新类别使注视恢复。再写一句局限：注视偏好是间接指标，可能受低层视觉差异影响。\n\n## [B0147] 12 | 从知觉相似到类别层级\n\n## [B0148] Slides 31–33；superordinate、basic 与 subordinate levels。\n\n## [B0149] 为什么“猫”常比“暹罗猫”先好用？\n\n[B0150] 幼儿最初可形成较宽泛的知觉区分，如人、动物与无生命物。随着经验与语言增加，会在层级中放置更具体的类别。Basic level（基础层级）往往兼顾信息量与容易识别的共同外观，因此常成为早期常用的命名层级。\n\n\n[B0151 TABLE]\n\n层级 | 课件示例 | 与其他层级的关系\n\nSuperordinate 上位 | Animal 动物。 | 覆盖猫、狗等多个基础类别。\n\nBasic 基础 | Cat 猫；Dog 狗。 | 平时容易辨认与命名，兼有共同形态和功能。\n\nSubordinate 下位 | Siamese 暹罗猫；Pug 巴哥犬。 | 在基础类别之内再细分。\n\n\n\n[B0153] 层级依赖儿童接触机会和社交学习；熟悉某领域的孩子可能很早会使用下位名称。不能把“基础层级常较早获得”理解为绝对先后顺序，也不能只靠照片相似度解释全部分类。\n\n[B0154] 理解案例（自拟）  见到邻居的巴哥犬，孩子先说“狗”，学了品种后说“巴哥犬”，再学会“狗也是动物”。三句话可同时正确，只是抽象程度不同。\n\n[B0155] EXAM  能画出“动物 → 狗 → 巴哥犬”和“动物 → 猫 → 暹罗猫”，再说明上位类别更广，下位类别更具体。\n\n## [B0157] 13 | 因果概念：知道“为什么”有何用？\n\n## [B0158] Slides 34–35；Krascum & Andrews (1998) 的 Wugs 与 Gillies。\n\n## [B0159] Theory-based concepts 超越外形相似\n\n[B0160] 当儿童知道某个特征有什么功能、为何有用，就能把特征与环境、行为和后果连起来。这有助于组织知识、预测未见情境，以及迁移到新例子；并不意味着知觉类别会被完全取代。\n\n\n[B0161 TABLE]\n\n实验中的两类讲法 | 给孩子的信息 | 可能的学习结果\n\n仅讲特征 | “Wug 有这些外形；Gilly 有那些外形。” | 能记线索，但面对新个体时可能只靠表面。\n\n特征 + 因果功能 | 说明某些特征为什么帮助防御、听见危险或逃跑。 | 课件报告儿童分类新图片更好，次日记忆也更佳。\n\n\n\n[B0163] 这个比较的关键是信息内容，而非两个物种真实存在：Wug 与 Gilly 是给儿童学习的虚构类别。即使结果支持因果解释有帮助，也要考虑讲解长度、趣味性、记忆负荷等可能同时变化。\n\n[B0164] 理解案例（自拟）  只背“变色龙会变色”，遇到新动物可能不知道如何判断；理解“颜色变化能帮助隐藏”后，看到保护色衣服也能想到类似功能。迁移是功能知识帮助新情境理解的例子。\n\n[B0165] EXAM  常见问法：为什么 causal explanation 能改善学习？回答“把特征与功能连接，提供预测与迁移依据”，再点出研究是特征组对照特征加原因组。\n\n## [B0167] 14 | 朴素心理学：愿望、信念和行动\n\n## [B0168] Slides 36–38；naïve psychology 是日常理解他人的框架。\n\n## [B0169] 为什么同一个人会做这件事？\n\n[B0170] 我们通常用 desires（愿望）、beliefs（信念／对事实的看法）和 actions（行动）解释行为。愿望提供目标；信念告诉人采取什么行动可能达成目标。一个人即使有与我们相同的目标，只要相信的事实不同，行动也可能不同。\n\n\n[B0171 TABLE]\n\n成分 | 校园例子 | 分析时要问\n\nDesire 愿望 | 想获得心理学学位。 | 这个人想达成什么？\n\nBelief 信念 | 认为选修某门课有助于未来方向。 | 这个人相信世界怎样、什么办法有效？\n\nAction 行动 | 报名课程并参加课堂。 | 行为如何由愿望与信念共同指向？\n\n\n\n[B0173] 幼儿通过观察行动与后果、与他人谈论“想要”“以为”“知道”，逐渐建立对心理状态的朴素理解。Naïve 不表示愚蠢，而是指未经正式科学理论训练的日常解释。\n\n[B0174] 理解案例（自拟）  你和朋友都想喝水。你相信厨房有水，朋友以为水在书包里，于是你去厨房、朋友翻书包。行为不同，不能只凭行动断定谁更想喝。\n\n[B0175] EXAM  三要素要分清：desire 决定目标，belief 影响可行路径，action 是可观察结果。研究者常从行动反推儿童是否理解前两者，但这种推论需设计对照。\n\n## [B0177] 15 | 模仿与共同注意：理解他人的基础线索\n\n## [B0178] Slide 39；Meltzoff & Moore (1977) 与约 12 个月的 joint attention。\n\n## [B0179] Imitation：观察后复制他人的动作\n\n[B0180] 模仿能帮助学习新动作和社会习惯。课件引用经典“新生儿模仿面部动作”的研究；这项极早期能力的证据后来有争论，大样本纵向研究没有稳定重现，因此笔记把它作为历史上重要的研究假设，而不是无争议的出生即有能力。较大婴儿的模仿与学习不因此被否定。\n\n## [B0181] Joint attention：两个人知道自己正看同一件事\n\n[B0182] 共同注意指婴儿与照料者协调注意同一对象或事件，可通过视线、指向、声音等线索建立。它常在约 12 个月被讨论，但也是渐进发展的能力。共同注意让成人能给物体命名、解释用途，婴儿也能把词语和共同情境连接。\n\n\n[B0183 TABLE]\n\n行为 | 与心理理解的关系 | 不能过度推断\n\n跟随指点 | 婴儿转向被指的玩具，和照料者共享关注目标。 | 这一步本身不证明已理解复杂错误信念。\n\n模仿动作 | 婴儿试着复制成人拍手或使用物体的方式。 | 复制相似动作未必等于完全理解意图。\n\n说“看，这里” | 更大的孩子主动引导对方注意新事物。 | 每次指向的目的还需结合情境判断。\n\n\n\n[B0185] 理解案例（自拟）  孩子跟随妈妈手指看窗外的小鸟，妈妈说“鸟在树上”。共享视线让“鸟”指向更明确，也创造继续谈“它会飞”的机会。\n\n[B0186] ACCURACY  Meltzoff 与 Moore 的经典结果应与后来的不一致证据一起记；新生儿的一次动作匹配和成熟的“读心”能力不是同一件事。\n\n## [B0188] 16 | Theory of Mind：理解别人有自己的想法\n\n## [B0189] Slides 40–42；从愿望线索到对信念的理解。\n\n## [B0190] 定义与发展路径\n\n[B0191] Theory of Mind（ToM，心理理论）是理解他人也有愿望、信念、知识与情绪，而且这些状态可能与自己不同的能力。它不是一种神秘“读心术”，而是用行为、语言、情境线索推测他人的心理状态。\n\n\n[B0192 TABLE]\n\n课堂研究线索 | 孩子表现 | 谨慎解释\n\n约 12 个月：小猫任务 | 成人表现出对一只小猫的兴趣，却拿起另一只时，婴儿可能看得更久。 | 与“动作应对应目标／愿望”的预期一致；注视时间仍是间接指标。\n\n约 2–3 岁：主观愿望 | 孩子开始理解另一个人可能喜欢与自己不同的东西。 | 不能因为某任务失败就说这个年龄完全不懂任何信念。\n\n约 4–5 岁：明确错误信念 | 很多孩子逐渐能回答另一个人会依其错误所知去哪里寻找。 | 年龄是大致趋势，语言、任务和文化经验影响表现。\n\n\n\n[B0194] 课件把年轻儿童“知道愿望”与“不懂信念影响行动”做教学对比，但这不等于 2–3 岁儿童从不按别人的愿望预测选择；标准错误信念测验考的是更具体的困难。\n\n[B0195] 理解案例（自拟）  你喜欢卡车，朋友喜欢毛绒玩具。当朋友要选礼物时，若你能说“他会选毛绒玩具”，说明你把自己的偏好和他的愿望分开。\n\n[B0196] EXAM  比较小猫注视任务和错误信念问答时写清：前者研究早期“目标／愿望预期”，后者测试在自己知道真相时，能否用别人错误的信念回答。\n\n## [B0198] 17 | 错误信念任务：按谁所知来回答？\n\n## [B0199] Slides 43–47；unexpected-location task 的课堂故事。\n\n## [B0200] 四步剧情：关键是主人公没看见物品被搬走\n\n[B0201 FIGURE] FALSE-BELIEF TASK  玩具在哪里？。1 放入：女孩把玩具，放进玩具屋；2 离开：女孩暂时，看不到房间；3 移走：另一个人把玩具，移到衣柜；4 提问：女孩回来后，会去哪里找？\n\n[B0202] 剧情图为本笔记重画的理解图；课件 slides 43–47 用连续插图呈现。\n\n\n[B0203 TABLE]\n\n提问 | 正确回答反映什么\n\n玩具现在实际在哪里？ | 衣柜：回答者理解现实位置。\n\n女孩最后一次见玩具在哪里？ | 玩具屋：回答者记住女孩获得的信息。\n\n女孩回来会先去哪里找？ | 玩具屋：回答者把行动预测建立在女孩的错误信念上。\n\n\n\n[B0205] 课件与讲师说年龄较小的儿童常回答现实位置，约 4–5 岁更多能回答主人公所相信的旧位置。具体年龄受语言措辞、记忆、抑制现实答案的能力、文化和任务结构影响；任务失败不等于“没有同理心”或“完全不理解他人”。\n\n[B0206] 理解案例（自拟）  你亲眼看到朋友的钥匙从桌上被移到抽屉，但朋友没有看到。若问“朋友会先去哪儿找？”应按朋友最后知道的桌面位置回答，而不是按你知道的抽屉位置。\n\n[B0207] EXAM  区别 actual location（衣柜）与 believed location（玩具屋）。问题若问的是“她认为在哪里／会先找哪里”，按她接触过的信息答。\n\n## [B0209] 18 | 课件补充：心理理论不只有一道题\n\n## [B0210] Slides 48–49｜课件补充；文字稿未覆盖。\n\n## [B0211] 文化与语言影响任务表现\n\n[B0212] 课件概括不同文化的儿童都逐渐发展对他人心理状态的理解，但各类 ToM 任务的通过顺序、语言要求与熟悉情境可能不同。部分研究报告双语儿童在某些任务上的优势；不能由此断言“双语必然让每个孩子更早理解他人”，也要看家庭经验与比较组。\n\n\n[B0213 TABLE]\n\n维度 | 最简区别\n\nCognitive ToM | 理解别人知道什么、相信什么、怎样看待事实。\n\nAffective ToM | 理解别人可能感到什么、情绪为何与自己不同。\n\nTask demands | 问句理解、记忆剧情、抑制自身知识、熟悉社会情境，都会影响分数。\n\n\n\n## [B0215] 为什么重要？\n\n[B0216] 理解心理状态能帮助解释玩笑、反讽、欺骗和教学沟通，也让我们知道别人需要的是新信息还是安慰。不过，单一实验任务不能作为临床诊断；某些发展状况中的 ToM 任务差异也不等于相关个体缺乏感情或无法建立关系。\n\n[B0217] 理解案例（自拟）  老师知道答案，学生还不知道。好老师会从学生已知的信息讲起；这需要暂时放下自己的知识，估计对方目前理解到哪一步。\n\n[B0218] CRITIQUE  跨文化差异有时反映任务与语言的适配程度。比较发展顺序时，应先确定问题在不同语言和文化中测量的是相近能力。\n\n## [B0220] 19 | 课件补充：想象朋友不是自动的警讯\n\n## [B0221] Slides 51–55｜课件补充；讲师明确表示本节跳过 imaginary companions。\n\n## [B0222] Imaginary companion 可以有哪些形式？\n\n\n[B0223 TABLE]\n\n形式 | 例子\n\nInvisible companion | 孩子会描述和一个别人看不见的角色一起玩。\n\nPersonified object | 毛绒玩具或物件被赋予稳定的名字、性格和关系。\n\nPretend identity / paracosm | 孩子扮演另一个身份，或建立细致的想象世界。\n\nShared companion | 两个或更多孩子共同维持一个虚构角色，形成共享游戏规则。\n\n\n\n[B0225] 早期心理学有把想象朋友视为病理迹象的倾向；课件强调这在儿童游戏中并不罕见，可被用作练习语言、关系与想象的情境。也应看儿童如何使用它、是否带来困扰，以及整体生活适应。\n\n## [B0226] 研究相关与因果的界线\n\n[B0227] 课件列出有想象朋友的儿童在指称沟通、语言与创造性游戏方面的一些关联。不能据此保证“创造一个朋友就能提高 ToM／语言”；更喜欢假装游戏或本来语言较流利，也可能更常报告想象朋友。不同文化的角色形式和报告方式也会不同。\n\n[B0228] 理解案例（自拟）  孩子给玩具熊安排“害怕打雷”的故事，并练习安慰它。这样的角色扮演可能提供讨论情绪的机会；并不能单凭玩具熊的存在判断孩子发展一定领先或落后。\n\n[B0229] EXAM  课件最后把 IC 与语言、创造力和 ToM 连在一起。答题可写“相关研究提示可能的练习机会”，不要写成已证实的直接因果。\n\n## [B0231] 20 | 自测题 A：遗传、方法与产前发展\n\n## [B0232] 先尝试口述，再看参考答案。以下为本笔记自编练习。\n\n## [B0233] 1. 什么是 phenotype？\n\n[B0234] 参考答案：可观察特征与行为；由基因相关过程和环境互动形成，不等于 DNA 的直接照片。\n\n## [B0235] 2. 为什么不能把复杂行为写成“一基因一行为”？\n\n[B0236] 参考答案：许多行为是多基因、环境与经验共同作用的结果；单基因疾病范例不能直接推广。\n\n## [B0237] 3. PKU 为什么适合说明基因 × 环境？\n\n[B0238] 参考答案：致病变异影响代谢，但早筛与专业饮食管理可显著改变神经发育结果。\n\n## [B0239] 4. 同卵双生子更相似，直接证明基因造成差异吗？\n\n[B0240] 参考答案：提供遗传贡献线索；仍需考虑相似对待、共同产前环境与其他研究假设。\n\n## [B0241] 5. rMZ=.50、rDZ=.30，课件公式得到多少？\n\n[B0242] 参考答案：h²≈2(.50−.30)=.40；是该人群、环境与模型中的群体变异估计。\n\n## [B0243] 6. h²=.40 能否说“我 40% 的人格由基因决定”？\n\n[B0244] 参考答案：不能。遗传率描述群体中个体间差异，不将一个人的性格切成百分比。\n\n## [B0245] 7. 分开抚养的双胞胎仍有哪些共同因素？\n\n[B0246] 参考答案：共享几乎全部遗传变异，也有共同产前环境；安置选择还可能造成相似后天环境。\n\n## [B0247] 8. 胚胎期和胎儿期的主要发展重点？\n\n[B0248] 参考答案：约 2–8 周器官系统和肢体形成；约 9 周至出生继续增长与功能完善。\n\n## [B0249] 9. 为什么“aspirin 造成胎儿损伤”不能照单全收？\n\n[B0250] 参考答案：课件未分剂量、适应症、风险人群和孕期；医生指导的低剂量方案有特定用途。\n\n[B0251] CHECK  练习时多补一句“比较的是谁、处在什么环境”。这是遗传与产前研究最常被省略的条件。\n\n## [B0253] 21 | 自测题 B：概念与理解他人\n\n## [B0254] 重点练“实验步骤 → 结果 → 允许的推论”。\n\n## [B0255] 10. Category 与 concept 怎么区分？\n\n[B0256] 参考答案：类别是归在一起的一组对象；概念是关于该组对象特征、关系与用途的心理知识。\n\n## [B0257] 11. 猫戴狗面具的任务测什么？\n\n[B0258] 参考答案：外表变化后是否仍判断其类别身份为猫；不等于年幼儿童没有早期类别。\n\n## [B0259] 12. Habituation/dishabituation 的关键测量？\n\n[B0260] 参考答案：重复刺激后注视下降，新刺激出现后注视是否恢复；需要控制低层视觉差异。\n\n## [B0261] 13. “动物—狗—巴哥犬”属于哪三个层级？\n\n[B0262] 参考答案：上位—基础—下位。\n\n## [B0263] 14. Wugs/Gillies 为什么要讲特征的作用？\n\n[B0264] 参考答案：因果／功能解释让线索有组织意义，可能帮助分类新例和之后回忆。\n\n## [B0265] 15. Joint attention 是什么？\n\n[B0266] 参考答案：婴儿与他人协调注意同一对象或事件，常通过视线、指点、声音等线索完成。\n\n## [B0267] 16. 小猫任务的更长注视能直接证明完整 ToM 吗？\n\n[B0268] 参考答案：不能。与目标／愿望预期相符，但注视是间接指标，复杂信念理解仍需其他任务。\n\n## [B0269] 17. 错误信念故事里，女孩会先去哪里找玩具？\n\n[B0270] 参考答案：玩具屋。她没有看见玩具被移到衣柜；预测要基于她的旧信念。\n\n## [B0271] 18. 为什么三岁儿童答错标准任务不等于“不会关心人”？\n\n[B0272] 参考答案：任务涉及语言、记忆、抑制自己所知等要求；社会情感能力与该任务分数不同。\n\n## [B0273] 19. 想象朋友与较好的语言／创造性表现，证明什么？\n\n[B0274] 参考答案：是某些样本中的关联，可能提供练习机会；未证明想象朋友本身直接造成提高。\n\n[B0275] TRANSFER  用四句话比较“被收养的双胞胎研究”与“错误信念任务”：各自比较什么、测量什么、支持什么、还缺什么。\n\n## [B0277] 22 | 英中术语表\n\n## [B0278] 英文用于认题，中文用于理解；同一概念在不同研究中要看操作化。\n\n\n[B0279 TABLE]\n\nEnglish | 中文与最短解释\n\nGene / chromosome / DNA | 基因／染色体／DNA：遗传信息及其结构层次。\n\nGenotype / phenotype | 基因型／表型：遗传组合／可观察表现。\n\nMonogenic / polygenic | 单基因／多基因：主要一个位点／许多位点共同参与。\n\nDominant / recessive | 显性／隐性：特定变异一个／通常两个拷贝可表现疾病。\n\nPenetrance | 外显率：携带相关基因型的人中实际表现某表型的比例。\n\nMonozygotic / dizygotic twins | 同卵／异卵双生子：近乎全部／平均一半分离遗传变异。\n\nHeritability (h²) | 遗传率：特定群体环境中，群体特质差异与遗传差异相关的比例。\n\nEqual-environments assumption | 等环境假设：MZ 和 DZ 的相关环境相似程度足以支持比较。\n\nShared / non-shared environment | 共同／非共同环境：使家人相似／使家人不同的经历。\n\nAdoption study / selection bias | 收养研究／选择偏差：比较亲缘与抚养／安置及抽样不随机。\n\nZygotic / embryonic / foetal | 合子／胚胎／胎儿期：产前三个近似阶段。\n\nTeratogen / FASD | 致畸因素／胎儿酒精谱系障碍：产前干扰因素／酒精相关影响范围。\n\nCategory / concept | 类别／概念：一类事物／对这一类事物的心理知识。\n\nHabituation / dishabituation | 习惯化／去习惯化：重复后注视减少／新刺激使注意恢复。\n\nSuperordinate / basic / subordinate | 上位／基础／下位：动物／狗／巴哥犬。\n\nCausal explanation | 因果解释：说明特征为何存在或起作用。\n\nNaïve psychology | 朴素心理学：用愿望、信念等解释人的日常行为。\n\nJoint attention / imitation | 共同注意／模仿：共享注意对象／复制观察到的动作。\n\nTheory of Mind (ToM) | 心理理论：理解他人心理状态可能与自己不同。\n\nFalse belief / actual location | 错误信念／实际位置：别人误以为的地点／物品真实地点。\n\nImaginary companion / paracosm | 想象朋友／幻想世界：虚构社会角色／完整虚构世界。\n\n\n\n## [B0282] 23 | 回课件定位、辨析与核对来源\n\n## [B0283] 页码为 Developmental Lecture 3.pdf 的 slide 序号。\n\n\n[B0284 TABLE]\n\n课件位置 | 本笔记入口\n\n课堂先衔接 L6 slides 57–62 | “课堂衔接”页；完整主题另见 Lecture 6 笔记。\n\n3–9；10–20 | 01–03 遗传基础、疾病与核型；04–07 双生子／收养与遗传率。\n\n21–25 | 08–09 产前三阶段与致畸因素。\n\n27–30；31–35 | 10–11 类别与习惯化；12–13 层级与因果概念。\n\n36–42；43–47 | 14–16 朴素心理学、共同注意、ToM；17 错误信念。\n\n48–49；51–55 | 18–19 课件补充：跨文化 ToM 与想象朋友。\n\n\n\n## [B0286] 四个高风险误记\n\n[B0287] 遗传率不是个人基因占比；课件 0.40 是依赖假设的群体变异估计。\n\n[B0288] “Huntington 所有携带者固定年龄发病”过度；重复数影响外显率与时间。\n\n[B0289] 课件孕期 aspirin／quinine 表述缺少剂量与适应症；不能推导用药建议。\n\n[B0290] 新生儿模仿、早期注视与想象朋友的研究都不应被写成单个任务证明成熟 ToM 或直接造成能力提升。\n\n## [B0291] 主要材料及用于核对措辞的资料\n\n[B0292] Kumada, Developmental Lecture 3，55 页课件；PSYC1004 Lecture 7 提供的文字稿。\n\n[B0293] MedlinePlus Genetics, “What is heritability?”：https://medlineplus.gov/genetics/understanding/inheritance/heritability/\n\n[B0294] MedlinePlus Genetics, “Huntington disease” 与 “Phenylketonuria”：https://medlineplus.gov/genetics/condition/huntingtons-disease/ ；https://medlineplus.gov/genetics/condition/phenylketonuria/\n\n[B0295] ACOG, Low-Dose Aspirin Use During Pregnancy；WHO, Safety of artemisinin and non-artemisinin antimalarials in the first trimester：https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/07/low-dose-aspirin-use-during-pregnancy ；https://www.who.int/southeastasia/publications/i/item/9789240069404\n\n[B0296] CDC, About Alcohol Use During Pregnancy：https://www.cdc.gov/alcohol-pregnancy/about/index.html\n\n[B0297] Oostenbroek et al. (2016), Comprehensive Longitudinal Study Challenges the Existence of Neonatal Imitation：https://pubmed.ncbi.nlm.nih.gov/27161497/",
+  "sourceHash": "49e278d9eb94dc42d1d52d6827e45c8ff962d3f531de15a64e9c44265c566a83"
+}

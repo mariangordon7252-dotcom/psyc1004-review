@@ -1,0 +1,8 @@
+Thumbs.db
+.DS_Store
+desktop.ini
+*.bak
+*.tmp
+.vscode/
+.idea/
+node_modules/

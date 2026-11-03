@@ -1,0 +1,2443 @@
+{
+  "id": 6,
+  "title": "社会发展",
+  "subtitle": "Social Development · 依恋、关系、媒体与群体偏见",
+  "summary": "从照料者、同伴到家庭和社会类别，重点分清依恋四模式、被拒绝与被忽视，以及刻板印象、偏见和歧视。媒体与家庭研究要结合设计判断；课件末段在 L6 标为补充，并在 L7 开头补讲。",
+  "concepts": [
+    {
+      "id": "L6-C01",
+      "title": "依恋与主要照料者",
+      "english": "Attachment; primary caregiver",
+      "oneLine": "依恋可以指向不同照料者，不一定只有母亲一个人。",
+      "analogy": "像有一位可信的队友：困难时会靠近，放心后才敢尝试。",
+      "simpleExample": "自拟例：孩子紧张时找平日照顾他的爷爷，也会依恋爸爸。",
+      "explanation": "主要照料者是平日主要照顾儿童的人，不一定是母亲。儿童可以与不止一个人形成依恋，关系建立在持续互动之上。",
+      "example": "自拟例：孩子紧张时找平日照顾他的爷爷，也会依恋爸爸。",
+      "pitfall": "别把主要照料者限定为生物母亲，也别认为儿童只能依恋一个人。",
+      "source": "L6 · Attachment：需要安全与接近的关系 · [B0023–B0024]",
+      "front": "依恋的对象一定是母亲吗？",
+      "back": "不一定。主要照料者可以是父亲、祖辈等，儿童也能形成多个依恋关系。",
+      "cardBack": "不一定。主要照料者可以是父亲、祖辈等，儿童也能形成多个依恋关系。"
+    },
+    {
+      "id": "L6-C02",
+      "title": "接触安慰",
+      "english": "Contact comfort; Harlow",
+      "oneLine": "Harlow 的幼猴更偏好柔软接触，说明依恋不只是为了食物。",
+      "analogy": "温暖抱枕与自动零食机提供不同体验：有食物不等于有安慰。",
+      "simpleExample": "自拟例：孩子吃饱后受惊，仍想被熟悉的人抱住。",
+      "explanation": "即使铁丝代理负责喂奶，幼猴仍较偏好绒布代理，并在受惊时靠近它。把食物和柔软接触分开后仍有这种偏好，说明接触安慰本身重要。但代理和隔离环境不同于人类关系，推广有限，研究也有伦理问题。",
+      "example": "自拟例：孩子吃饱后受惊，仍想被熟悉的人抱住。",
+      "pitfall": "这不是说食物不重要，也不是对人类依恋的完整证明。",
+      "source": "L6 · Harlow：食物不是全部解释 · [B0025–B0026]",
+      "front": "Harlow 的比较反驳了哪种简单解释？",
+      "back": "它反驳“依恋完全是喂食强化的结果”。幼猴的选择说明，柔软接触本身也能提供安慰。",
+      "cardBack": "它反驳“依恋完全是喂食强化的结果”。幼猴的选择说明，柔软接触本身也能提供安慰。"
+    },
+    {
+      "id": "L6-C03",
+      "title": "安全基地与避风港",
+      "english": "Secure base; safe haven",
+      "oneLine": "安全基地让儿童放心探索，避风港让儿童遇险时回来求安慰。",
+      "analogy": "像探险者的营地：可从营地出发，也可遇险返回。",
+      "simpleExample": "自拟例：孩子确认爸爸在旁边后去滑梯，摔倒后回来求安慰。",
+      "explanation": "Bowlby 认为，依恋让婴儿靠近能提供保护的人，有助于生存。照料者在场时，儿童较能放心探索；遇到威胁时，又能回来寻求安慰、缓解压力。这不表示儿童永远不能独立。",
+      "example": "自拟例：孩子确认爸爸在旁边后去滑梯，摔倒后回来求安慰。",
+      "pitfall": "有进化作用，不表示依恋类型由基因固定，也不表示人类依恋就是动物印刻。",
+      "source": "L6 · Bowlby：依恋的进化功能 · [B0028–B0031]",
+      "front": "安全基地与避风港各指什么？",
+      "back": "安全基地支持出发探索；避风港是在害怕或受威胁时，回来寻求安慰。",
+      "cardBack": "安全基地支持出发探索；避风港是在害怕或受威胁时，回来寻求安慰。"
+    },
+    {
+      "id": "L6-C04",
+      "title": "陌生情境程序",
+      "english": "Strange Situation",
+      "oneLine": "陌生情境尤其看重聚后怎样求安慰，不能只看分离时哭不哭。",
+      "analogy": "像观察电脑断线后能否恢复连接，不能只看断线警报响不响。",
+      "simpleExample": "自拟例：两个婴儿分离都哭，一个重聚后平静玩耍，另一个仍抗拒。",
+      "explanation": "这个标准化程序通常用于约 12–18 个月婴儿，观察探索、陌生人出现、分离与重聚。重聚时，能看见儿童怎样靠照料者缓解压力。日常一次送别，不能代替整套程序来可靠分类。",
+      "example": "自拟例：两个婴儿分离都哭，一个重聚后平静玩耍，另一个仍抗拒。",
+      "pitfall": "不哭不一定安全，哭得多也不表示依恋不好。",
+      "source": "L6 · Strange Situation：陌生情境程序 · [B0039–B0044]",
+      "front": "为什么不能只用哭不哭判断依恋？",
+      "back": "不同类型都可能哭或不哭。更关键的是重聚后是否接近、回避或抵抗，以及能否平静并继续探索。",
+      "cardBack": "不同类型都可能哭或不哭。更关键的是重聚后是否接近、回避或抵抗，以及能否平静并继续探索。"
+    },
+    {
+      "id": "L6-C05",
+      "title": "安全型依恋",
+      "english": "Secure attachment",
+      "oneLine": "安全型儿童能从照料者得到安慰，然后继续探索。",
+      "analogy": "像求助后重新回到任务，而不是永远不遇到困难。",
+      "simpleExample": "自拟例：妈妈回来后孩子抱一下、平静下来，再去玩积木。",
+      "explanation": "安全型在分离时也可以难过；重聚后较会主动靠近、接受安慰，再回去探索。安全指的是关系中怎样应对压力，不是从不依赖别人或从不哭。",
+      "example": "自拟例：妈妈回来后孩子抱一下、平静下来，再去玩积木。",
+      "pitfall": "安全型仍会有压力，不是单纯“哭得最少”。",
+      "source": "L6 · 03 | 四种依恋模式：重点看重聚 · [B0046–B0056]",
+      "front": "安全型重聚的关键行为？",
+      "back": "主动靠近照料者，能被安抚，随后恢复探索。",
+      "cardBack": "主动靠近照料者，能被安抚，随后恢复探索。"
+    },
+    {
+      "id": "L6-C06",
+      "title": "回避型依恋",
+      "english": "Avoidant attachment",
+      "oneLine": "回避型较少明显求接近，不表示内心没有压力或关系需要。",
+      "analogy": "像关闭消息提示：没有显示警报不等于系统没有负担。",
+      "simpleExample": "自拟例：照料者回来时孩子转开、继续玩，不明显寻求抱抱。",
+      "explanation": "回避型观察上较少表现痛苦，重聚时可能忽略或回避照料者。这描述的是外显应对方式，不能直接告诉我们儿童的全部内在压力和情感需要。",
+      "example": "自拟例：照料者回来时孩子转开、继续玩，不明显寻求抱抱。",
+      "pitfall": "别把少接近解释成完全不需要关系，或完全没有情绪。",
+      "source": "L6 · 03 | 四种依恋模式：重点看重聚 · [B0046–B0056]",
+      "front": "少寻求接近能推出没有依恋需要吗？",
+      "back": "不能。少接近是可见行为，不能据此断定没有内在压力或关系需要。",
+      "cardBack": "不能。少接近是可见行为，不能据此断定没有内在压力或关系需要。"
+    },
+    {
+      "id": "L6-C07",
+      "title": "矛盾／抗拒型依恋",
+      "english": "Ambivalent / resistant attachment",
+      "oneLine": "抗拒型既想靠近又抵抗，重聚后也较难平静。",
+      "analogy": "像想接通电话又生气挂断：需要与抵抗同时出现。",
+      "simpleExample": "自拟例：孩子抓住妈妈却又推她，抱住后仍持续不安。",
+      "explanation": "抗拒型分离时常明显不安，重聚时一边接近，一边生气或抵抗。判断要看整个行为模式，不能简化成更爱父母，或故意闹脾气。",
+      "example": "自拟例：孩子抓住妈妈却又推她，抱住后仍持续不安。",
+      "pitfall": "接近又抵抗的模式，不等于失序型缺乏连贯应对策略。",
+      "source": "L6 · 03 | 四种依恋模式：重点看重聚 · [B0046–B0056]",
+      "front": "抗拒型与安全型重聚有何关键差异？",
+      "back": "抗拒型接近又抵抗，较难安抚；安全型则较能接受安慰，再继续探索。",
+      "cardBack": "抗拒型接近又抵抗，较难安抚；安全型则较能接受安慰，再继续探索。"
+    },
+    {
+      "id": "L6-C08",
+      "title": "失序型与分类边界",
+      "english": "Disorganised attachment",
+      "oneLine": "失序型可能出现矛盾或冻结动作，但一个动作不能用来诊断。",
+      "analogy": "像面对同一问题出现互相冲突、无法协调的应对路线。",
+      "simpleExample": "自拟例：研究片段中儿童靠近照料者又突然冻结，需由标准编码判断。",
+      "explanation": "Main 与 Solomon 后来补充了失序分类，Ainsworth 的经典分类主要是前三种。课件中的 65%、21%、14% 是三分类示例，已合计 100%，不能再在同一分布中额外加上失序型比例。",
+      "example": "自拟例：研究片段中儿童靠近照料者又突然冻结，需由标准编码判断。",
+      "pitfall": "失序型不是第四种人格，也不是随手能下的临床诊断；比例更不是全球常数。",
+      "source": "L6 · 03 | 四种依恋模式：重点看重聚 · [B0046–B0056]",
+      "front": "经典三分类百分比能直接再加失序型比例吗？",
+      "back": "不能。三种比例已合计 100%，失序型属于后来补充的分类体系，不能直接往原分布再加一项。",
+      "cardBack": "不能。三种比例已合计 100%，失序型属于后来补充的分类体系，不能直接往原分布再加一项。"
+    },
+    {
+      "id": "L6-C09",
+      "title": "内部工作模型与可变性",
+      "english": "Internal working model; continuity",
+      "oneLine": "早期经验会影响关系期待，但后来的关系仍能改变这些期待。",
+      "analogy": "像可更新的地图：过去路线影响预期，新路况仍能修改。",
+      "simpleExample": "自拟例：原本不敢求助的学生在稳定友谊中逐渐愿意信任他人。",
+      "explanation": "内部工作模型包括：别人是否可靠，自己是否值得被照顾。早期依恋可能与后来适应有关，但生活事件、支持和伴侣互动仍会改变发展。成人问卷和婴儿陌生情境也是不同测量，不能直接当成一对一对应。",
+      "example": "自拟例：原本不敢求助的学生在稳定友谊中逐渐愿意信任他人。",
+      "pitfall": "不能用成人分手时的反应，倒推出婴儿依恋类型或父母当年的行为。",
+      "source": "L6 · Continuity ≠ destiny：连续性不等于命运 · [B0060–B0070]",
+      "front": "早期依恋连续性为何不等于命运？",
+      "back": "关系期待可以被后续支持和经历更新。不同测量与共同风险因素，也使早期依恋不能直接决定一生。",
+      "cardBack": "关系期待可以被后续支持和经历更新。不同测量与共同风险因素，也使早期依恋不能直接决定一生。"
+    },
+    {
+      "id": "L6-C10",
+      "title": "友谊的发展重点",
+      "english": "Friendship; intimacy; self-disclosure",
+      "oneLine": "友谊的重点逐渐从一起活动，走向信任、亲密与分享心事。",
+      "analogy": "像从一起打游戏，到能分享输赢以外的烦恼。",
+      "simpleExample": "自拟例：幼时好友是借玩具的人，青春期好友是能谈担心的人。",
+      "explanation": "年幼儿童的友谊较突出共同活动；学龄期较重视陪伴和承诺；青春期更重视亲密和分享内心的不安。这是平均趋势，不是到了某个生日就统一换阶段，也不表示年幼儿童不会关心朋友。",
+      "example": "自拟例：幼时好友是借玩具的人，青春期好友是能谈担心的人。",
+      "pitfall": "年龄趋势不是人人一致、彼此互斥的固定阶段表。",
+      "source": "L6 · Friendship：从一起玩到彼此理解 · [B0074–B0077]",
+      "front": "青春期友谊相较早期活动友谊，什么更突出？",
+      "back": "信任、亲密、自我表露和互相支持更突出，但共同活动仍然重要。",
+      "cardBack": "信任、亲密、自我表露和互相支持更突出，但共同活动仍然重要。"
+    },
+    {
+      "id": "L6-C11",
+      "title": "朋友选择与接触机会",
+      "english": "Selection; opportunity; gendered peer groups",
+      "oneLine": "同性别朋友较多，可能既与偏好有关，也与接触机会和社会安排有关。",
+      "analogy": "同桌和活动分组会改变谁经常见到谁；交朋友既有个人选择，也受这些机会影响。",
+      "simpleExample": "自拟例：按性别分活动后，孩子更常认识同性别同伴。",
+      "explanation": "看到朋友群体相似，不能只解释为先天兴趣。成人怎样贴标签、分组、安排玩具与活动，以及同伴规范，都影响儿童能遇到谁。双生子研究中的遗传贡献，也不表示文化角色永远固定。",
+      "example": "自拟例：按性别分活动后，孩子更常认识同性别同伴。",
+      "pitfall": "不同性别友谊不专指 transgender；群体平均也不能直接预测个人。",
+      "source": "L6 · 为什么常见同性别朋友？ · [B0078–B0083]",
+      "front": "为什么同性别朋友多不独自证明先天偏好？",
+      "back": "分组、活动和规范会改变谁能认识谁。这些机会与个人选择共同影响友谊，不能只归因先天偏好。",
+      "cardBack": "分组、活动和规范会改变谁能认识谁。这些机会与个人选择共同影响友谊，不能只归因先天偏好。"
+    },
+    {
+      "id": "L6-C12",
+      "title": "支配与受欢迎",
+      "english": "Dominance; sociometric popularity",
+      "oneLine": "能控制资源，不表示一定被大家喜欢。",
+      "analogy": "班长能分任务不等于大家都愿意与他做朋友。",
+      "simpleExample": "自拟例：某学生总能指挥游戏，但同学更喜欢温和的另一人。",
+      "explanation": "Dominance 看权力和控制，sociometric popularity 看被喜欢与接纳的程度。两者可能相关，但问的是不同问题，也要把声望与被喜欢分开测量。",
+      "example": "自拟例：某学生总能指挥游戏，但同学更喜欢温和的另一人。",
+      "pitfall": "最强势或最有名，不等于最被喜欢。",
+      "source": "L6 · Popular 不只是“有权力” · [B0087–B0095]",
+      "front": "Dominance 与 sociometric popularity 的区别？",
+      "back": "Dominance 是权力与控制；sociometric popularity 是被喜欢和接纳。",
+      "cardBack": "Dominance 是权力与控制；sociometric popularity 是被喜欢和接纳。"
+    },
+    {
+      "id": "L6-C13",
+      "title": "被拒绝与被忽视",
+      "english": "Rejected; neglected",
+      "oneLine": "被拒绝是别人主动不喜欢；被忽视是很少被注意到。",
+      "analogy": "被拒绝像申请被明确驳回，被忽视像消息没被注意到。",
+      "simpleExample": "自拟例：甲独自画画没人赶他；乙加入游戏总被明确排斥。",
+      "explanation": "同样看起来互动少，儿童可能处在不同同伴关系中。被拒绝儿童平均风险常较高，但个人差异很大。儿童已有的行为可能引来拒绝，拒绝也可能加重困难，因此不能只写成单向因果。",
+      "example": "自拟例：甲独自画画没人赶他；乙加入游戏总被明确排斥。",
+      "pitfall": "别把两者都叫没朋友，也别只凭标签判断是否孤独或有心理问题。",
+      "source": "L6 · Popular 不只是“有权力” · [B0087–B0095]",
+      "front": "Rejected 与 neglected 的最简区别？",
+      "back": "被拒绝：别人主动不喜欢或排斥。被忽视：较少被注意或提名，不一定被主动讨厌。",
+      "cardBack": "被拒绝：别人主动不喜欢或排斥。被忽视：较少被注意或提名，不一定被主动讨厌。"
+    },
+    {
+      "id": "L6-C14",
+      "title": "手足与出生顺序",
+      "english": "Sibling interaction; birth order; resource dilution",
+      "oneLine": "手足会改变资源与学习机会，但出生顺序不能决定人格。",
+      "analogy": "分蛋糕会稀释资源，共同做蛋糕却也带来学习机会。",
+      "simpleExample": "自拟例：老二可向姐姐学题，也会与她竞争父母的时间。",
+      "explanation": "手足可能分散家庭资源，也提供互动和学习机会。大型研究没有支持出生顺序会稳定、明显地影响广泛人格；小的平均智力差异也不能判断个人。家庭大小、资源和其他因素可能同时影响结果。",
+      "example": "自拟例：老二可向姐姐学题，也会与她竞争父母的时间。",
+      "pitfall": "全同胞共享约一半遗传变异，不是说只有一半全部 DNA 相同。",
+      "source": "L6 · 研究结论为什么不能只靠刻板印象？ · [B0099–B0109]",
+      "front": "为何“老大负责、老二反叛”不是可靠因果结论？",
+      "back": "这些人格标签缺少稳健支持。家庭规模、资源和教养相互交织，而且个体差异很大，不能只用出生顺序解释。",
+      "cardBack": "这些人格标签缺少稳健支持。家庭规模、资源和教养相互交织，而且个体差异很大，不能只用出生顺序解释。"
+    },
+    {
+      "id": "L6-C15",
+      "title": "父母工作与家庭过程",
+      "english": "Parental employment; family context",
+      "oneLine": "解释父母就业的影响，要看工作条件、支持和实际照料，不只看上不上班。",
+      "analogy": "同样上班八小时，弹性排班与不可预测夜班影响生活节奏不同。",
+      "simpleExample": "自拟例：父母工作但家人稳定支持，仍可保持回应和交流。",
+      "explanation": "就业的历史趋势不能直接告诉我们儿童结果。工作安排不是随机决定的，家庭资源、压力和健康也会影响选择及儿童体验。即使观察到部分积极关联，也不能说就业一定有益。",
+      "example": "自拟例：父母工作但家人稳定支持，仍可保持回应和交流。",
+      "pitfall": "工作不表示父母不关心孩子，兼职也不是适合所有家庭的唯一方案。",
+      "source": "L6 · “工作父母比较不关心孩子”有证据吗？ · [B0113–B0117]",
+      "front": "判断父母就业对儿童的影响，还要看什么？",
+      "back": "要看工作条件、家庭资源与支持、实际照料质量，以及哪些因素影响了工作选择。",
+      "cardBack": "要看工作条件、家庭资源与支持、实际照料质量，以及哪些因素影响了工作选择。"
+    },
+    {
+      "id": "L6-C16",
+      "title": "托育质量与稳定性",
+      "english": "Childcare quality; stability",
+      "oneLine": "托育时间和机构名称，不能代替照料质量的比较。",
+      "analogy": "餐厅开门久不等于菜更好：服务过程和人员也重要。",
+      "simpleExample": "自拟例：托育时间长但老师稳定回应，比短时频繁换人可能更可靠。",
+      "explanation": "要看照料者能否敏感回应、人员是否稳定、环境是否安全，以及活动是否适龄。机构形式只说明服务类型，家庭背景也影响选择。优质托育可能有帮助，但不是托育越久越好。",
+      "example": "自拟例：托育时间长但老师稳定回应，比短时频繁换人可能更可靠。",
+      "pitfall": "只看 centre-based 或 preschool 的标签，不能判断质量高低。",
+      "source": "L6 · 怎样读托育类别图？ · [B0118–B0121]",
+      "front": "为什么不能只比较托育时长？",
+      "back": "还要看回应质量、照料连续性、活动安排和家庭背景，不能只按小时数排名。",
+      "cardBack": "还要看回应质量、照料连续性、活动安排和家庭背景，不能只按小时数排名。"
+    },
+    {
+      "id": "L6-C17",
+      "title": "媒体情境与替代效应",
+      "english": "Media context; co-viewing; displacement",
+      "oneLine": "媒体的影响，要看内容、互动，以及它挤掉了什么活动。",
+      "analogy": "一小时像预算：花在哪里、放弃什么都重要。",
+      "simpleExample": "自拟例：亲子讨论故事与睡前独自刷视频，同样半小时却不同。",
+      "explanation": "有帮助的共看包括解释、提问和联系生活，不是成人只坐在同一房间。替代效应指屏幕占用了原本可用于睡眠、运动或学习的时间。时长与困难相关时，还要考虑先前困难和家庭作息，不能只看分钟数。",
+      "example": "自拟例：亲子讨论故事与睡前独自刷视频，同样半小时却不同。",
+      "pitfall": "屏幕分钟数不是自动伤害剂量，节目品牌也不能保证有效。",
+      "source": "L6 · Media context：同一小时可以很不同 · [B0127–B0134]",
+      "front": "Displacement 与共看的关键含义？",
+      "back": "替代效应是挤占其他活动；共看的帮助来自实际讨论和解释，不只是坐在一起。",
+      "cardBack": "替代效应是挤占其他活动；共看的帮助来自实际讨论和解释，不只是坐在一起。"
+    },
+    {
+      "id": "L6-C18",
+      "title": "暴力媒体三机制",
+      "english": "Priming; desensitisation; social learning",
+      "oneLine": "启动让想法更容易出现；脱敏让反应变弱；社会学习让人学到行为脚本。",
+      "analogy": "刚听到关键词更容易想到，是启动；反复接触不再敏感，是脱敏。",
+      "simpleExample": "自拟例：看角色靠攻击获奖励后，儿童可能模仿其解决冲突脚本。",
+      "explanation": "启动使攻击想法暂时更容易被想起；脱敏可能让重复接触后的情绪反应减弱；社会学习则关注观察行为和后果。这些可能机制不能直接证明长期犯罪。攻击词任务、日常攻击和严重暴力测的是不同结果。",
+      "example": "自拟例：看角色靠攻击获奖励后，儿童可能模仿其解决冲突脚本。",
+      "pitfall": "不能说游戏必然导致犯罪，也不能说已证明任何影响都不存在。",
+      "source": "L6 · 暴力媒体的三种解释机制 · [B0138–B0142]",
+      "front": "短期攻击词任务为什么不能证明长期犯罪？",
+      "back": "攻击词任务只测到短期联结或表现。它与现实犯罪的结果和时间跨度都不同，不能直接推广。",
+      "cardBack": "攻击词任务只测到短期联结或表现。它与现实犯罪的结果和时间跨度都不同，不能直接推广。"
+    },
+    {
+      "id": "L6-C19",
+      "title": "节奏与幻想的混淆",
+      "english": "Pace; fantasy; operationalisation",
+      "oneLine": "快剪辑与幻想内容是两件事，要分开检验它们的影响。",
+      "analogy": "同时换灯光和音乐，不能只把气氛变化归因灯光。",
+      "simpleExample": "自拟例：快速魔法片与慢速生活片差异，可能来自节奏也可能来自幻想。",
+      "explanation": "节目间可能同时在剪辑、幻想、情绪和难度上不同，所以成绩差异不一定单独来自节奏。短时执行功能结果也不能直接解释为永久损伤。说明结论时，要交代测了什么，以及持续多久。",
+      "example": "自拟例：快速魔法片与慢速生活片差异，可能来自节奏也可能来自幻想。",
+      "pitfall": "快节奏不等于幻想，短时任务差异也不等于长期脑损伤。",
+      "source": "L6 · Pace 与 fantasy 必须拆开 · [B0143–B0147]",
+      "front": "快速魔法片对慢速现实片的比较有什么设计问题？",
+      "back": "两片同时在节奏和幻想等内容上不同，因此不能单独把成绩差异归因于节奏。",
+      "cardBack": "两片同时在节奏和幻想等内容上不同，因此不能单独把成绩差异归因于节奏。"
+    },
+    {
+      "id": "L6-C20",
+      "title": "家庭多样性与研究设计",
+      "english": "Same-sex parent families; stigma",
+      "oneLine": "儿童结果要看家庭过程与污名，不能直接归因父母性取向。",
+      "analogy": "同一种家庭结构置于支持与嘲笑环境，体验可以不同。",
+      "simpleExample": "自拟例：两位妈妈的家庭在接纳学校与排斥学校可能遭遇不同压力。",
+      "explanation": "Crouch 研究是横断面自愿问卷，由 315 位父母报告 500 名儿童的情况，再与常模比较。多数指标相近、部分较高，但这不能证明性取向造成优势。参与者选择、自我报告和家庭环境，都限制因果判断。",
+      "example": "自拟例：两位妈妈的家庭在接纳学校与排斥学校可能遭遇不同压力。",
+      "pitfall": "315 是父母人数，不是夫妻对数；家庭也没有随机分配，不能据身份判断儿童优劣。",
+      "source": "L6 · 研究重点是家庭过程，而不是先给家庭贴优劣标签 · [B0151–B0159]",
+      "front": "Crouch 研究为何不能证明家庭身份的因果效果？",
+      "back": "它是横断面父母报告，与常模比较。谁愿意参与、如何报告及家庭差异，都可能影响结果，因此不能单独证明性取向的效果。",
+      "cardBack": "它是横断面父母报告，与常模比较。谁愿意参与、如何报告及家庭差异，都可能影响结果，因此不能单独证明性取向的效果。"
+    },
+    {
+      "id": "L6-C21",
+      "title": "发展性群际理论",
+      "english": "Developmental Intergroup Theory; category salience",
+      "oneLine": "环境反复用某个标签分组，会让儿童觉得这个类别特别重要。",
+      "analogy": "每天都按同一个标签整理东西，久而久之就容易把它当成最重要的分类。",
+      "simpleExample": "自拟例：老师总按性别排队，儿童学到性别是组织生活的重要线索。",
+      "explanation": "儿童会注意差异，再学习社会赋予不同群体的意义。成人反复命名、隔离和按类别安排制度，会提高类别的显著性。这是在解释类别怎样变得重要，不是三个固定年龄阶段，也不表示必然形成偏见。",
+      "example": "自拟例：老师总按性别排队，儿童学到性别是组织生活的重要线索。",
+      "pitfall": "注意到差异，不等于天生敌意；所有可见差异也不会同样重要。",
+      "source": "L6 · DIT：差异如何变得“重要”？ · [B0163–B0166]",
+      "front": "DIT 如何解释成人分组对儿童的影响？",
+      "back": "反复贴标签和分组，使儿童更注意这个类别，并学到它在社会生活中有意义。",
+      "cardBack": "反复贴标签和分组，使儿童更注意这个类别，并学到它在社会生活中有意义。"
+    },
+    {
+      "id": "L6-C22",
+      "title": "社会知觉与分类边界",
+      "english": "Social perception; categorisation; gender constancy",
+      "oneLine": "多看某种面孔，只说明注意偏好，不能直接判断成熟知识或偏见。",
+      "analogy": "认出两种包装不等于知道品牌全部价值，更不等于讨厌其中一种。",
+      "simpleExample": "自拟例：婴儿看熟悉面孔更久，可能只是熟悉经验所致。",
+      "explanation": "婴儿对面孔的偏好和区分会受接触经验影响，年龄结果也与具体任务有关。性别恒常性任务看儿童是否理解衣服、发型改变不会自动改变性别，不能据此证明每个人的身份终生固定。",
+      "example": "自拟例：婴儿看熟悉面孔更久，可能只是熟悉经验所致。",
+      "pitfall": "看得久不能证明种族敌意，某个年龄也不是所有儿童的统一截止线。",
+      "source": "L6 · 婴儿注意与辨认的早期证据 · [B0167–B0176]",
+      "front": "熟悉族群面孔偏好为何不直接等于偏见？",
+      "back": "较长注视可能来自熟悉和知觉经验。任务没有直接测负面评价或敌意，所以不能把偏好直接当偏见。",
+      "cardBack": "较长注视可能来自熟悉和知觉经验。任务没有直接测负面评价或敌意，所以不能把偏好直接当偏见。"
+    },
+    {
+      "id": "L6-C23",
+      "title": "刻板印象、偏见与歧视",
+      "english": "Stereotype; prejudice; discrimination",
+      "oneLine": "刻板印象是概括，偏见是负面态度，歧视是差别对待的行动。",
+      "analogy": "想法、好恶和实际行动像草稿、评分和执行，不能互相替代。",
+      "simpleExample": "自拟例：说某群体都擅长数学是概括；不喜欢他们是偏见；拒绝入队是歧视。",
+      "explanation": "刻板印象可以正面或负面，但不一定适用于具体成员。偏见是因为群体身份而负面评价对方；歧视则是基于身份的不平等对待。现实中三者可能相互影响，但不能用同一个定义代替。",
+      "example": "自拟例：说某群体都擅长数学是概括；不喜欢他们是偏见；拒绝入队是歧视。",
+      "pitfall": "不是所有群体分类都叫偏见；正面概括也可能是刻板印象。",
+      "source": "L6 · 分类、刻板印象、偏见：三个层次 · [B0172–B0183]",
+      "front": "三者各用哪一个关键词区分？",
+      "back": "刻板印象：群体概括。偏见：负面评价。歧视：实际差别对待。",
+      "cardBack": "刻板印象：群体概括。偏见：负面评价。歧视：实际差别对待。"
+    },
+    {
+      "id": "L6-C24",
+      "title": "文化知识与个人认可",
+      "english": "Stereotype knowledge; endorsement; Devine",
+      "oneLine": "知道一种刻板说法，不表示自己相信或赞同它。",
+      "analogy": "知道谣言内容不等于相信谣言是真的。",
+      "simpleExample": "自拟例：学生能复述性别刻板说法，同时明确反对。",
+      "explanation": "文化中流传什么、自动出现什么联结，以及个人相信什么，要分别测量。某种自动联结可能先出现，再被有意识地纠正。因此，不能说所有刻板印象都无意识，也不能说所有偏见都有意识。",
+      "example": "自拟例：学生能复述性别刻板说法，同时明确反对。",
+      "pitfall": "能复述刻板说法，不是个人认可它的证据。",
+      "source": "L6 · 知道一种刻板印象 ≠ 赞同它 · [B0179–B0183]",
+      "front": "问‘知道什么刻板说法’与‘是否相信’测到相同吗？",
+      "back": "不同。问“知道什么”测文化知识，问“是否相信”才测个人认可。",
+      "cardBack": "不同。问“知道什么”测文化知识，问“是否相信”才测个人认可。"
+    },
+    {
+      "id": "L6-C25",
+      "title": "隐显测量与年龄研究",
+      "english": "Child IAT; implicit / explicit measures",
+      "oneLine": "IAT 看任务中的自动联结，显性报告看表达；年龄组比较不等于一生追踪。",
+      "analogy": "口头回答与快捷键反应像两扇不同窗口，都不是整间房子。",
+      "simpleExample": "自拟例：儿童说人人能做朋友，分类任务仍对某种配对更快。",
+      "explanation": "IAT 比较不同分类配对的反应速度和错误，显性回答则会受社会规范与表达方式影响。Baron 与 Banaji 的特定美国白人样本中，显性偏好随年龄减弱，隐性结果相近。这不是追踪每个人一生，不能推广为所有人的隐性偏好永远不变。",
+      "example": "自拟例：儿童说人人能做朋友，分类任务仍对某种配对更快。",
+      "pitfall": "隐性结果不是道德判决，显隐结果不同也不自动表示说谎。",
+      "source": "L6 · Child IAT：用反应时观察联结 · [B0187–B0194]",
+      "front": "IAT 能直接读出一个人的完整信念吗？",
+      "back": "不能。IAT 用特定任务中的反应估计相对自动联结，还要考虑情境和可靠性，不是完整读心。",
+      "cardBack": "不能。IAT 用特定任务中的反应估计相对自动联结，还要考虑情境和可靠性，不是完整读心。"
+    },
+    {
+      "id": "L6-C26",
+      "title": "偏见的影响与环境强化",
+      "english": "Internalisation; stereotype threat; systemic reinforcement",
+      "oneLine": "相信负面说法，和害怕别人把失败当成它的证明，是两回事。",
+      "analogy": "相信“我这类人就是不行”，与害怕一次失败让别人这么想，不是同一种压力。",
+      "simpleExample": "自拟例：学生不认同刻板说法，但怕答错让人评价整个群体。",
+      "explanation": "内化是把负面刻板说法当成对自己的真实描述；刻板威胁则是担心表现会让别人认为该说法成立。反复歧视也可能与慢性压力有关，家庭、媒体、教师和制度反馈会强化类别。L6 这段标为课件补充，并在 L7 开头补讲。",
+      "example": "自拟例：学生不认同刻板说法，但怕答错让人评价整个群体。",
+      "pitfall": "刻板威胁不要求先相信刻板说法；一次不愉快也不必然导致疾病。",
+      "source": "L6 · 三个容易混淆的影响路径 · [B0202–B0217]",
+      "front": "不相信刻板印象的人会受刻板威胁吗？",
+      "back": "可能。不认同说法的人，仍可能担心表现让别人认为群体刻板印象成立。这与接受说法的内化不同。",
+      "cardBack": "可能。不认同说法的人，仍可能担心表现让别人认为群体刻板印象成立。这与接受说法的内化不同。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "L6-Q01",
+      "conceptId": "L6-C01",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "必定是生物母亲",
+        "儿童唯一能依恋的人",
+        "只在喂食时出现的人",
+        "主要承担日常照顾的人"
+      ],
+      "optionsEn": [
+        "Necessarily the biological mother",
+        "The only person a child can attach to",
+        "A person present only for feeding",
+        "The person providing most day-to-day care"
+      ],
+      "answer": 3,
+      "explanation": "主要照料者看的是谁平日主要负责照顾，而不是生物关系。儿童也可以和多个人形成依恋。",
+      "optionExplanations": [
+        "父亲、祖辈或其他人也可能主要承担照料。",
+        "儿童不只可以依恋一个人。",
+        "日常照料和依恋互动不局限于喂食。",
+        "主要照料者看的是谁平日主要负责照顾，而不是生物关系。儿童也可以和多个人形成依恋。"
+      ],
+      "source": "L6 · Attachment：需要安全与接近的关系 · [B0023–B0024]",
+      "origin": "notes",
+      "stem": "主要照料者最准确的定义是什么？",
+      "stemEn": "What is the most accurate definition of a primary caregiver?"
+    },
+    {
+      "id": "L6-Q02",
+      "conceptId": "L6-C02",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "基础",
+      "options": [
+        "成年人的问卷完全预测婴儿依恋",
+        "所有动物接触需求完全相同",
+        "喂奶来自铁丝代理时仍偏好绒布代理",
+        "幼猴只靠近喂奶的铁丝代理"
+      ],
+      "optionsEn": [
+        "Adult questionnaires perfectly predict infant attachment",
+        "Identical contact needs in all animals",
+        "Preference for cloth even when wire provided milk",
+        "Approaching only the milk-providing wire surrogate"
+      ],
+      "answer": 2,
+      "explanation": "铁丝代理给奶，幼猴却仍偏好绒布代理，说明偏好不只来自食物。把两者分开后，仍能看到接触安慰的作用。",
+      "optionExplanations": [
+        "Harlow 没有用成人问卷预测婴儿依恋。",
+        "一个幼猴研究不能代表所有动物。",
+        "铁丝代理给奶，幼猴却仍偏好绒布代理，说明偏好不只来自食物。把两者分开后，仍能看到接触安慰的作用。",
+        "关键结果是幼猴更偏好绒布代理，不是只靠近供奶的铁丝代理。"
+      ],
+      "source": "L6 · Harlow：食物不是全部解释 · [B0025–B0026]",
+      "origin": "notes",
+      "stem": "Harlow 的哪个结果支持接触安慰的重要性？",
+      "stemEn": "Which Harlow finding supports contact comfort?"
+    },
+    {
+      "id": "L6-Q03",
+      "conceptId": "L6-C03",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "探索意味着已经没有依恋",
+        "安全基地与避风港",
+        "只是不安全依恋，因为曾经受惊",
+        "喂食强化是唯一解释"
+      ],
+      "optionsEn": [
+        "Exploration means attachment has ended",
+        "Secure base and safe haven",
+        "Insecurity simply because the child was frightened",
+        "Feeding reinforcement as the sole explanation"
+      ],
+      "answer": 1,
+      "explanation": "放心出发探索时，照料者是安全基地；受惊后回来求安慰时，是避风港。两种功能可以在同一关系中出现。",
+      "optionExplanations": [
+        "依恋的安全感可以促进探索，探索不表示依恋消失。",
+        "放心出发探索时，照料者是安全基地；受惊后回来求安慰时，是避风港。两种功能可以在同一关系中出现。",
+        "安全型也可能受惊，要看重聚后怎样得到安慰和恢复。",
+        "题中表现的是关系中的探索与求助，不是喂食提供了全部解释。"
+      ],
+      "source": "L6 · Bowlby：依恋的进化功能 · [B0028–B0031]",
+      "origin": "notes",
+      "stem": "孩子放心去玩，受惊又回到照料者身边。最适合哪组概念？",
+      "stemEn": "A child explores confidently and returns to a caregiver after a fright. Which concepts fit?"
+    },
+    {
+      "id": "L6-Q04",
+      "conceptId": "L6-C04",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "显示寻求、接受安慰及恢复探索的模式",
+        "能保证预测成年伴侣选择",
+        "所有类型分离时一定不哭",
+        "只需观察照料者返回前一秒"
+      ],
+      "optionsEn": [
+        "It reveals seeking comfort, accepting it, and resuming exploration",
+        "It guarantees prediction of adult partners",
+        "All types remain calm during separation",
+        "Only the second before return matters"
+      ],
+      "answer": 0,
+      "explanation": "重聚能看见儿童怎样靠照料者缓解压力，以及之后能否继续探索。这比单看分离时哭不哭更能区分模式。",
+      "optionExplanations": [
+        "重聚能看见儿童怎样靠照料者缓解压力，以及之后能否继续探索。这比单看分离时哭不哭更能区分模式。",
+        "后续经历和测量都不同，不能保证预测成年伴侣选择。",
+        "不同类型都可能在分离时难过。",
+        "分类要结合标准片段与重聚行为，不能只看一秒。"
+      ],
+      "source": "L6 · Strange Situation：陌生情境程序 · [B0039–B0044]",
+      "origin": "notes",
+      "stem": "陌生情境中为什么重聚特别重要？",
+      "stemEn": "Why is reunion especially informative in the Strange Situation?"
+    },
+    {
+      "id": "L6-Q05",
+      "conceptId": "L6-C05",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "回避型",
+        "矛盾／抗拒型",
+        "失序型",
+        "安全型"
+      ],
+      "optionsEn": [
+        "Avoidant attachment",
+        "Ambivalent / resistant attachment",
+        "Disorganised attachment",
+        "Secure attachment"
+      ],
+      "answer": 3,
+      "explanation": "关键是能靠近、接受安慰，并较快恢复探索。这是安全型的典型模式，不是因为孩子从不难过。",
+      "optionExplanations": [
+        "回避型通常较少外显接近，与主动抱和接受安慰不同。",
+        "抗拒型会一边接近一边抵抗，较难平静。",
+        "失序型可能有难协调的矛盾或冻结表现，题中没有这些线索。",
+        "关键是能靠近、接受安慰，并较快恢复探索。这是安全型的典型模式，不是因为孩子从不难过。"
+      ],
+      "source": "L6 · 03 | 四种依恋模式：重点看重聚 · [B0046–B0056]",
+      "origin": "notes",
+      "stem": "重聚后主动抱照料者，很快平静继续玩，最符合什么？",
+      "stemEn": "Seeking a hug, calming down, and resuming play at reunion most closely fits:"
+    },
+    {
+      "id": "L6-Q06",
+      "conceptId": "L6-C06",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "辨析",
+      "options": [
+        "不需要任何亲密关系",
+        "成年必定不会寻求帮助",
+        "较少外显接近，不证明没有内在需要",
+        "完全没有压力"
+      ],
+      "optionsEn": [
+        "No need for any close relationship",
+        "Guaranteed never to seek adult support",
+        "Reduced overt proximity seeking does not prove no internal need",
+        "No internal stress whatsoever"
+      ],
+      "answer": 2,
+      "explanation": "回避描述较少外显接近，不能直接读取内心。孩子可能仍有压力和关系需要，后续发展也不是固定的。",
+      "optionExplanations": [
+        "少接近不能证明完全不需要亲密关系。",
+        "后续关系和环境仍可能改变求助方式。",
+        "回避描述较少外显接近，不能直接读取内心。孩子可能仍有压力和关系需要，后续发展也不是固定的。",
+        "外表较少表现痛苦，不表示内心完全没压力。"
+      ],
+      "source": "L6 · 03 | 四种依恋模式：重点看重聚 · [B0046–B0056]",
+      "origin": "notes",
+      "stem": "对回避型最稳妥的解释是哪项？",
+      "stemEn": "Which interpretation of avoidant attachment is most defensible?"
+    },
+    {
+      "id": "L6-Q07",
+      "conceptId": "L6-C07",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "必定无依恋",
+        "矛盾／抗拒型",
+        "安全型",
+        "单凭不哭确定的安全型"
+      ],
+      "optionsEn": [
+        "Necessarily no attachment",
+        "Ambivalent / resistant",
+        "Secure",
+        "Secure because of not crying alone"
+      ],
+      "answer": 1,
+      "explanation": "孩子既要靠近又推开，并且难以被安抚，符合抗拒型的组合。判断看的是整个模式，不是某一个动作。",
+      "optionExplanations": [
+        "仍有寻求接近，只是同时抵抗，不能说没有依恋。",
+        "孩子既要靠近又推开，并且难以被安抚，符合抗拒型的组合。判断看的是整个模式，不是某一个动作。",
+        "安全型较能接受安慰并恢复探索，与持续抗拒不同。",
+        "题中没有不哭信息，而且哭不哭本来就不足以分类。"
+      ],
+      "source": "L6 · 03 | 四种依恋模式：重点看重聚 · [B0046–B0056]",
+      "origin": "notes",
+      "stem": "孩子重聚时抓住又推开照料者，难以平静。最符合哪种模式？",
+      "stemEn": "A child clings to and pushes away the caregiver and remains distressed. Which pattern fits best?"
+    },
+    {
+      "id": "L6-Q08",
+      "conceptId": "L6-C08",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "视为经典三分类示例，不能再额外加失序比例",
+        "视为全球永恒常数",
+        "视为 Ainsworth 最初四分类的完整比例",
+        "用它判断单次送别中的儿童类型"
+      ],
+      "optionsEn": [
+        "As an illustrative three-category distribution, without adding disorganised cases",
+        "As fixed global constants",
+        "As Ainsworth's original four-category distribution",
+        "To classify a child from a single goodbye"
+      ],
+      "answer": 0,
+      "explanation": "这三个百分比已合计 100%，描述的是经典三分类示例。失序型后来补充，不能再直接加进同一分布。",
+      "optionExplanations": [
+        "这三个百分比已合计 100%，描述的是经典三分类示例。失序型后来补充，不能再直接加进同一分布。",
+        "比例会随样本、文化和年代变化，不是全球常数。",
+        "Ainsworth 的经典分类主要是前三种，不是这份四分类比例。",
+        "一次日常送别不能代替标准化程序来判断类型。"
+      ],
+      "source": "L6 · 03 | 四种依恋模式：重点看重聚 · [B0046–B0056]",
+      "origin": "notes",
+      "stem": "如何正确使用 65%、21%、14% 的依恋分布？",
+      "stemEn": "How should the 65%, 21%, and 14% attachment distribution be used?"
+    },
+    {
+      "id": "L6-Q09",
+      "conceptId": "L6-C09",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "一个固定的成人职业计划",
+        "婴儿准确记忆所有照顾事件",
+        "只由基因决定的关系类型",
+        "对他人可靠性及自己是否值得被照顾的期待"
+      ],
+      "optionsEn": [
+        "A fixed adult career plan",
+        "Exact memory of every caregiving episode",
+        "A relationship type determined only by genes",
+        "Expectations about others' reliability and one's worthiness of care"
+      ],
+      "answer": 3,
+      "explanation": "内部工作模型是对关系的期待：别人会不会可靠地回应，自己是否值得被照顾。这些期待仍能被后续经历更新。",
+      "optionExplanations": [
+        "这里的“工作模型”指关系理解，不是工作或职业计划。",
+        "模型不要求准确记住每一次照顾事件。",
+        "关系也受环境和持续互动影响，不只由基因决定。",
+        "内部工作模型是对关系的期待：别人会不会可靠地回应，自己是否值得被照顾。这些期待仍能被后续经历更新。"
+      ],
+      "source": "L6 · Continuity ≠ destiny：连续性不等于命运 · [B0060–B0070]",
+      "origin": "notes",
+      "stem": "内部工作模型主要指什么？",
+      "stemEn": "What is an internal working model?"
+    },
+    {
+      "id": "L6-Q10",
+      "conceptId": "L6-C10",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "完全不再有共同活动",
+        "所有人按生日进入相同阶段",
+        "亲密、信任与自我表露",
+        "只有玩具交换"
+      ],
+      "optionsEn": [
+        "No shared activities anymore",
+        "Identical transitions on birthdays",
+        "Intimacy, trust, and self-disclosure",
+        "Only toy exchange"
+      ],
+      "answer": 2,
+      "explanation": "青春期平均更重视亲密、信任和分享心事，但仍会一起活动。年龄趋势不是人人按生日转换的固定阶段。",
+      "optionExplanations": [
+        "共同活动仍可以是维持友谊的一部分。",
+        "年龄趋势不表示所有人都在同一天进入同一阶段。",
+        "青春期平均更重视亲密、信任和分享心事，但仍会一起活动。年龄趋势不是人人按生日转换的固定阶段。",
+        "玩具交换较接近早期活动友谊，不能概括青春期重点。"
+      ],
+      "source": "L6 · Friendship：从一起玩到彼此理解 · [B0074–B0077]",
+      "origin": "notes",
+      "stem": "青春期友谊的平均发展重点是什么？",
+      "stemEn": "What becomes more prominent in adolescent friendship?"
+    },
+    {
+      "id": "L6-Q11",
+      "conceptId": "L6-C11",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "每个男孩女孩兴趣都相同",
+        "分组改变了接触机会",
+        "结果已独立证明先天偏好",
+        "文化规范已被排除"
+      ],
+      "optionsEn": [
+        "Every boy and girl has identical interests",
+        "Grouping changed opportunities for contact",
+        "The result independently proves innate preference",
+        "Cultural norms have been ruled out"
+      ],
+      "answer": 1,
+      "explanation": "分组让儿童更常遇见同性别同伴，因此友谊增加也可能来自接触机会。不能只用先天偏好解释。",
+      "optionExplanations": [
+        "同一性别内部仍有个体差异，兴趣不会人人相同。",
+        "分组让儿童更常遇见同性别同伴，因此友谊增加也可能来自接触机会。不能只用先天偏好解释。",
+        "接触机会已经是另一种解释，不能说结果独立证明先天偏好。",
+        "按性别分组本身就是社会安排，不能说已排除文化。"
+      ],
+      "source": "L6 · 为什么常见同性别朋友？ · [B0078–B0083]",
+      "origin": "notes",
+      "stem": "按性别分活动后同性别友谊增加，最需考虑什么？",
+      "stemEn": "Same-gender friendships increase after activities are separated by gender. What must be considered?"
+    },
+    {
+      "id": "L6-Q12",
+      "conceptId": "L6-C12",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "支配地位与社会计量受欢迎度不同",
+        "控制资源便定义为最被喜欢",
+        "低被喜欢必定就是被忽视",
+        "只需测声望便能代表同伴接纳"
+      ],
+      "optionsEn": [
+        "Dominance differs from sociometric popularity",
+        "Resource control defines being the most liked",
+        "Being disliked necessarily means being neglected",
+        "Reputation alone measures peer acceptance"
+      ],
+      "answer": 0,
+      "explanation": "控制资源看权力，被喜欢看同伴接纳。一个人可以权力较高但不太被喜欢，所以这两种地位要分开。",
+      "optionExplanations": [
+        "控制资源看权力，被喜欢看同伴接纳。一个人可以权力较高但不太被喜欢，所以这两种地位要分开。",
+        "能控制资源，不能保证同学愿意接纳他。",
+        "被忽视是较少被注意，不等于别人主动不喜欢。",
+        "有声望与被喜欢不是同一件事，不能只测一个代替另一个。"
+      ],
+      "source": "L6 · Popular 不只是“有权力” · [B0087–B0095]",
+      "origin": "notes",
+      "stem": "某人能控制游戏资源但不被多数同学喜欢，说明什么？",
+      "stemEn": "A child controls game resources but is disliked by many peers. What does this illustrate?"
+    },
+    {
+      "id": "L6-Q13",
+      "conceptId": "L6-C13",
+      "domain": "developmental",
+      "type": "concept",
+      "difficulty": "基础",
+      "options": [
+        "哭泣多与哭泣少",
+        "智力高与智力低",
+        "有手足与独生",
+        "主动不喜欢与较少被注意"
+      ],
+      "optionsEn": [
+        "More versus less crying",
+        "Higher versus lower intelligence",
+        "Having siblings versus being an only child",
+        "Active dislike versus low visibility"
+      ],
+      "answer": 3,
+      "explanation": "被拒绝有主动的负面评价或排斥；被忽视则较少被注意、提名或互动。表面都互动少，但同伴态度不同。",
+      "optionExplanations": [
+        "哭泣多少不是同伴地位的定义。",
+        "这些标签不是按智力高低划分。",
+        "是否有手足不是这两个同伴类别的定义。",
+        "被拒绝有主动的负面评价或排斥；被忽视则较少被注意、提名或互动。表面都互动少，但同伴态度不同。"
+      ],
+      "source": "L6 · Popular 不只是“有权力” · [B0087–B0095]",
+      "origin": "notes",
+      "stem": "被拒绝与被忽视的关键区别是什么？",
+      "stemEn": "What distinguishes rejected from neglected peer status?"
+    },
+    {
+      "id": "L6-Q14",
+      "conceptId": "L6-C14",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "老二必定最有创造力",
+        "出生顺序比较完全排除了家庭资源",
+        "广泛人格标签缺少稳健支持，小均值差异不能判断个人",
+        "老大必定最负责"
+      ],
+      "optionsEn": [
+        "Later-borns are always the most creative",
+        "Birth-order comparisons completely remove family resources",
+        "Broad personality labels lack robust support; small mean differences do not determine individuals",
+        "First-borns are always the most responsible"
+      ],
+      "answer": 2,
+      "explanation": "出生顺序与广泛人格的关系缺少稳健支持。即使有小的平均差异，也不能判断个人，还要考虑家庭规模和资源等因素。",
+      "optionExplanations": [
+        "“老二必定有创造力”是缺少稳健支持的绝对标签。",
+        "家庭规模、资源和投入可能一起影响结果，没有被自动排除。",
+        "出生顺序与广泛人格的关系缺少稳健支持。即使有小的平均差异，也不能判断个人，还要考虑家庭规模和资源等因素。",
+        "“老大必定负责”同样不能由出生顺序可靠推出。"
+      ],
+      "source": "L6 · 研究结论为什么不能只靠刻板印象？ · [B0099–B0109]",
+      "origin": "notes",
+      "stem": "出生顺序研究最稳妥的结论是什么？",
+      "stemEn": "Which conclusion about birth order is most defensible?"
+    },
+    {
+      "id": "L6-Q15",
+      "conceptId": "L6-C15",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "相关已证明兼职的普遍因果效益",
+        "工作选择非随机且家庭资源、健康和偏好可能混淆",
+        "敏感教养与工作不可能相关",
+        "所有工作条件都一样"
+      ],
+      "optionsEn": [
+        "The association proves a universal causal benefit",
+        "Work choices are nonrandom and resources, health, and preferences may confound them",
+        "Parenting sensitivity cannot relate to work",
+        "All work conditions are identical"
+      ],
+      "answer": 1,
+      "explanation": "选择兼职的人，可能本来就在资源、健康或偏好上不同。观察到关联不能证明兼职本身有普遍好处，更不能直接推荐给所有家庭。",
+      "optionExplanations": [
+        "相关不能单独证明兼职造成普遍好处。",
+        "选择兼职的人，可能本来就在资源、健康或偏好上不同。观察到关联不能证明兼职本身有普遍好处，更不能直接推荐给所有家庭。",
+        "已经观察到关联，不能简单说两者不可能相关。",
+        "不同工作的排班、压力和弹性并不一样。"
+      ],
+      "source": "L6 · “工作父母比较不关心孩子”有证据吗？ · [B0113–B0117]",
+      "origin": "notes",
+      "stem": "研究发现兼职父母较敏感，为什么不能推荐所有家庭都兼职？",
+      "stemEn": "Why does an association between part-time work and sensitive parenting not justify part-time work for every family?"
+    },
+    {
+      "id": "L6-Q16",
+      "conceptId": "L6-C16",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "同时比较质量、稳定性与家庭背景",
+        "仅按时间短者更好",
+        "仅按机构名称排名",
+        "时间长必定更好"
+      ],
+      "optionsEn": [
+        "Compare quality, stability, and family background together",
+        "The shorter service must be better",
+        "Rank solely by institution names",
+        "Longer hours must be better"
+      ],
+      "answer": 0,
+      "explanation": "儿童体验也取决于老师是否回应、人员是否稳定，以及家庭背景。只比较小时数，会漏掉这些重要差异。",
+      "optionExplanations": [
+        "儿童体验也取决于老师是否回应、人员是否稳定，以及家庭背景。只比较小时数，会漏掉这些重要差异。",
+        "时间短也可能照料质量较低、人员不稳定。",
+        "机构名称不能告诉我们实际质量。",
+        "时间更长不能保证照料更好。"
+      ],
+      "source": "L6 · 怎样读托育类别图？ · [B0118–B0121]",
+      "origin": "notes",
+      "stem": "甲托育久但老师稳定回应，乙托育短但频繁换人。哪项最好？",
+      "stemEn": "Long childcare with stable responsive carers versus short childcare with frequent turnover: which evaluation is best?"
+    },
+    {
+      "id": "L6-Q17",
+      "conceptId": "L6-C17",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "只由暴力内容启动造成",
+        "共看解释活动增加",
+        "单凭分钟便证明永久损伤",
+        "替代效应"
+      ],
+      "optionsEn": [
+        "Caused only by violent-content priming",
+        "Increased explanatory co-viewing",
+        "Duration alone proving permanent damage",
+        "Displacement"
+      ],
+      "answer": 3,
+      "explanation": "题中重点是屏幕用了有限时间，挤掉睡眠和交谈，所以是替代效应。它不等于已经证明永久损伤。",
+      "optionExplanations": [
+        "题中没有暴力线索，明确指出的是其他活动被挤占。",
+        "亲子交谈在减少，不是共看解释增加。",
+        "失去其他活动机会，不等于已证明永久损伤。",
+        "题中重点是屏幕用了有限时间，挤掉睡眠和交谈，所以是替代效应。它不等于已经证明永久损伤。"
+      ],
+      "source": "L6 · Media context：同一小时可以很不同 · [B0127–B0134]",
+      "origin": "notes",
+      "stem": "屏幕使用挤占睡眠和亲子交谈，最直接对应什么？",
+      "stemEn": "Screen use replaces sleep and parent-child conversation. Which mechanism fits directly?"
+    },
+    {
+      "id": "L6-Q18",
+      "conceptId": "L6-C18",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "观察行为后果的社会学习",
+        "屏幕替代睡眠",
+        "启动",
+        "脱敏"
+      ],
+      "optionsEn": [
+        "Social learning from observed consequences",
+        "Displacement of sleep",
+        "Priming",
+        "Desensitisation"
+      ],
+      "answer": 2,
+      "explanation": "观看后攻击词暂时更容易被想起，符合启动。它测的是想法容易出现，不是情绪减弱或行为模仿。",
+      "optionExplanations": [
+        "题中没有观察奖惩后学到行为脚本的证据。",
+        "题中没有睡眠被屏幕挤占的信息。",
+        "观看后攻击词暂时更容易被想起，符合启动。它测的是想法容易出现，不是情绪减弱或行为模仿。",
+        "脱敏看重复接触后情绪反应变弱，不是攻击词更容易想起。"
+      ],
+      "source": "L6 · 暴力媒体的三种解释机制 · [B0138–B0142]",
+      "origin": "notes",
+      "stem": "刚看攻击片后更容易想到攻击词，最对应哪种机制？",
+      "stemEn": "Aggressive words become easier to retrieve just after violent content. Which mechanism fits?"
+    },
+    {
+      "id": "L6-Q19",
+      "conceptId": "L6-C19",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "不能，因为任务永远不能测执行功能",
+        "不能，幻想、唤起和难度也可能同时变化",
+        "能，所有内容变量都自动恒定",
+        "能，短期结果等于永久脑损伤"
+      ],
+      "optionsEn": [
+        "No; tasks can never assess executive function",
+        "No; fantasy, arousal, and difficulty may also change",
+        "Yes; all content factors automatically stay constant",
+        "Yes; short-term effects equal permanent brain damage"
+      ],
+      "answer": 1,
+      "explanation": "两片不只节奏不同，幻想、唤起和难度也可能不同。要判断节奏的独立作用，需要把这些因素分开操纵。",
+      "optionExplanations": [
+        "任务可以测执行功能；这里的问题是多个因素同时变化。",
+        "两片不只节奏不同，幻想、唤起和难度也可能不同。要判断节奏的独立作用，需要把这些因素分开操纵。",
+        "两片内容本来就不同，其他变量不会自动保持不变。",
+        "短期任务成绩不同，不能直接证明永久脑损伤。"
+      ],
+      "source": "L6 · Pace 与 fantasy 必须拆开 · [B0143–B0147]",
+      "origin": "notes",
+      "stem": "快剪辑魔法片与慢节奏现实片引发不同任务成绩，能独立归因节奏吗？",
+      "stemEn": "Can task differences after fast fantasy versus slow realistic videos be attributed to pace alone?"
+    },
+    {
+      "id": "L6-Q20",
+      "conceptId": "L6-C20",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "横断面父母报告，与常模比较",
+        "把儿童随机分配给不同性取向父母",
+        "315 对夫妻全部追踪到成年",
+        "只由儿童独立客观测验"
+      ],
+      "optionsEn": [
+        "Cross-sectional parent reports compared with norms",
+        "Random assignment of children to parents by sexual orientation",
+        "Following 315 couples through adulthood",
+        "Only independent objective child tests"
+      ],
+      "answer": 0,
+      "explanation": "研究由 315 位父母报告 500 名儿童的情况，再与常模比较。它是横断面自愿问卷，因此要考虑谁参与、如何报告等限制。",
+      "optionExplanations": [
+        "研究由 315 位父母报告 500 名儿童的情况，再与常模比较。它是横断面自愿问卷，因此要考虑谁参与、如何报告等限制。",
+        "研究没有随机分配家庭。",
+        "315 是父母人数，不是夫妻对数，也不是题中这种成年追踪。",
+        "主要资料来自父母报告，不是只用儿童独立测验。"
+      ],
+      "source": "L6 · 研究重点是家庭过程，而不是先给家庭贴优劣标签 · [B0151–B0159]",
+      "origin": "notes",
+      "stem": "Crouch 等研究的设计是什么？",
+      "stemEn": "What was the design of Crouch and colleagues' study?"
+    },
+    {
+      "id": "L6-Q21",
+      "conceptId": "L6-C21",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "基因型自动改变",
+        "所有儿童必定产生敌意",
+        "完全消除分类",
+        "类别显著性"
+      ],
+      "optionsEn": [
+        "Automatic genotype change",
+        "Guaranteed hostility in every child",
+        "Complete removal of categorisation",
+        "Category salience"
+      ],
+      "answer": 3,
+      "explanation": "反复用标签分组，会让儿童更注意这个类别，并认为它有社会意义。即使没直接说哪个群体更好，也可能提高类别显著性。",
+      "optionExplanations": [
+        "社会分组不会自动改变基因型。",
+        "类别变重要不表示每个儿童都会产生敌意。",
+        "反复使用标签，不是在消除这个分类。",
+        "反复用标签分组，会让儿童更注意这个类别，并认为它有社会意义。即使没直接说哪个群体更好，也可能提高类别显著性。"
+      ],
+      "source": "L6 · DIT：差异如何变得“重要”？ · [B0163–B0166]",
+      "origin": "notes",
+      "stem": "老师天天按群体标签分组，即使不说谁更好，DIT 预测什么可能增加？",
+      "stemEn": "A teacher repeatedly groups children by a category without explicitly praising it. What may increase under DIT?"
+    },
+    {
+      "id": "L6-Q22",
+      "conceptId": "L6-C22",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "已明确讨厌其他族群",
+        "已证实天生种族歧视",
+        "任务中的注意偏好可能与熟悉经验有关",
+        "已拥有成人完整族群理论"
+      ],
+      "optionsEn": [
+        "Explicit dislike of other groups",
+        "Proof of innate racial discrimination",
+        "An attentional preference that may reflect familiarity",
+        "A complete adult theory of ethnic groups"
+      ],
+      "answer": 2,
+      "explanation": "注视较久可能反映熟悉与接触经验。任务没有直接测负面评价、敌意或完整群体知识，所以不能跳到这些结论。",
+      "optionExplanations": [
+        "研究没有直接测婴儿是否讨厌其他族群。",
+        "注意偏好可能与经验有关，不能直接证明天生歧视。",
+        "注视较久可能反映熟悉与接触经验。任务没有直接测负面评价、敌意或完整群体知识，所以不能跳到这些结论。",
+        "看得更久，不能证明已有成人式完整群体知识。"
+      ],
+      "source": "L6 · 婴儿注意与辨认的早期证据 · [B0167–B0176]",
+      "origin": "notes",
+      "stem": "婴儿对熟悉面孔看得更久，最稳妥的推论是什么？",
+      "stemEn": "An infant looks longer at familiar-group faces. What is the most cautious inference?"
+    },
+    {
+      "id": "L6-Q23",
+      "conceptId": "L6-C23",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "没有评价的类别知觉",
+        "偏见",
+        "只有刻板印象文化知识",
+        "已经实施的歧视行为"
+      ],
+      "optionsEn": [
+        "Categorical perception without evaluation",
+        "Prejudice",
+        "Cultural stereotype knowledge only",
+        "Enacted discrimination"
+      ],
+      "answer": 1,
+      "explanation": "关键是因为群体身份而产生负面评价，所以是偏见。题中还没有实际差别对待，不能直接判为歧视行为。",
+      "optionExplanations": [
+        "句中已经有“不喜欢”的负面评价，不是单纯分类。",
+        "关键是因为群体身份而产生负面评价，所以是偏见。题中还没有实际差别对待，不能直接判为歧视行为。",
+        "知道某种说法与自己不喜欢对方，不是同一件事。",
+        "负面态度不表示已经采取不平等行动。"
+      ],
+      "source": "L6 · 分类、刻板印象、偏见：三个层次 · [B0172–B0183]",
+      "origin": "notes",
+      "stem": "“因为属于某群体，我不喜欢他”最直接属于什么？",
+      "stemEn": "'I dislike him because he belongs to that group' most directly reflects:"
+    },
+    {
+      "id": "L6-Q24",
+      "conceptId": "L6-C24",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "刻板印象知识与个人认可可分离",
+        "知道即赞同",
+        "所有刻板印象都无意识",
+        "明确反对便不可能有任何自动联结"
+      ],
+      "optionsEn": [
+        "Stereotype knowledge can differ from personal endorsement",
+        "Knowing necessarily means endorsing",
+        "All stereotypes are unconscious",
+        "Explicit rejection rules out any automatic association"
+      ],
+      "answer": 0,
+      "explanation": "Devine 区分文化知识、个人信念和自动联结。学生可以知道社会流传什么，同时不相信它；有意识反对也不能直接证明没有自动联结。",
+      "optionExplanations": [
+        "Devine 区分文化知识、个人信念和自动联结。学生可以知道社会流传什么，同时不相信它；有意识反对也不能直接证明没有自动联结。",
+        "能复述内容，不表示个人赞同它。",
+        "人也可以有意识地知道刻板说法，并非全部无意识。",
+        "有意识反对与任务中的自动联结要分开测量。"
+      ],
+      "source": "L6 · 知道一种刻板印象 ≠ 赞同它 · [B0179–B0183]",
+      "origin": "notes",
+      "stem": "学生知道社会上的刻板说法但反对它，说明什么？",
+      "stemEn": "A student knows a cultural stereotype but rejects it. What does this show?"
+    },
+    {
+      "id": "L6-Q25",
+      "conceptId": "L6-C25",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "完整道德人格",
+        "每个人将来的歧视行为",
+        "真实态度的绝对无误读取",
+        "任务中不同配对的相对自动联结"
+      ],
+      "optionsEn": [
+        "Complete moral character",
+        "Every future discriminatory act",
+        "An infallible direct reading of true attitudes",
+        "Relative automatic associations in the task"
+      ],
+      "answer": 3,
+      "explanation": "IAT 从不同配对的反应速度和错误，估计任务中的相对自动联结。它是间接测量，仍需考虑情境和可靠性，不是读心。",
+      "optionExplanations": [
+        "一个分类任务不能判定完整道德人格。",
+        "特定任务不能保证预测个人未来的歧视行为。",
+        "间接测量可能受任务和情境影响，不是绝对无误。",
+        "IAT 从不同配对的反应速度和错误，估计任务中的相对自动联结。它是间接测量，仍需考虑情境和可靠性，不是读心。"
+      ],
+      "source": "L6 · Child IAT：用反应时观察联结 · [B0187–B0190]",
+      "origin": "notes",
+      "stem": "儿童 IAT 的相对反应速度主要用于估计什么？",
+      "stemEn": "What do relative response times in a Child IAT estimate?"
+    },
+    {
+      "id": "L6-Q26",
+      "conceptId": "L6-C26",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "只是文化知识而无评价担忧",
+        "只需关注任务难度，与情境无关",
+        "刻板印象威胁",
+        "内化负面刻板印象"
+      ],
+      "optionsEn": [
+        "Cultural knowledge without evaluative concern",
+        "Only task difficulty, unrelated to context",
+        "Stereotype threat",
+        "Internalisation of a negative stereotype"
+      ],
+      "answer": 2,
+      "explanation": "学生担心别人把答错看作群体刻板印象的证明，所以是刻板威胁。这种担忧不要求他自己先相信该说法。",
+      "optionExplanations": [
+        "题中不只是知道说法，还有怕表现证实它的担忧。",
+        "被评价的情境也可能影响注意，不能只看任务难度。",
+        "学生担心别人把答错看作群体刻板印象的证明，所以是刻板威胁。这种担忧不要求他自己先相信该说法。",
+        "内化是接受负面说法，题中却明确不认同它。"
+      ],
+      "source": "L6 · 三个容易混淆的影响路径 · [B0202–B0208]",
+      "origin": "notes",
+      "stem": "学生不认同刻板说法，却担心答错会证实它。最对应什么？",
+      "stemEn": "A student rejects a stereotype but fears a poor answer will confirm it. What fits?"
+    },
+    {
+      "id": "L6-Q27",
+      "conceptId": "L6-C04",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "辨析",
+      "options": [
+        "能，熟悉老师排除其他解释",
+        "不能，需要标准化多片段尤其重聚模式",
+        "能，不哭就是安全型定义",
+        "能，所有回避型一定大哭"
+      ],
+      "optionsEn": [
+        "Yes; familiar teachers eliminate alternatives",
+        "No; multiple standardised episodes and reunion patterns are needed",
+        "Yes; no crying defines security",
+        "Yes; all avoidant children cry intensely"
+      ],
+      "answer": 1,
+      "explanation": "熟悉环境、当时情绪和分离时长，都可能影响哭不哭。可靠分类要结合标准化片段，尤其看重聚后怎样求安慰与恢复。",
+      "optionExplanations": [
+        "熟悉老师本身就可能解释不哭，不能排除其他可能。",
+        "熟悉环境、当时情绪和分离时长，都可能影响哭不哭。可靠分类要结合标准化片段，尤其看重聚后怎样求安慰与恢复。",
+        "安全型在分离时也可以哭，不哭不是定义。",
+        "回避型通常较少外显痛苦，不是一定大哭。"
+      ],
+      "source": "L6 · Strange Situation：陌生情境程序 · [B0039–B0044]",
+      "origin": "notes",
+      "stem": "幼儿园门口没哭，能直接判为安全型吗？",
+      "stemEn": "Can a calm nursery goodbye alone establish secure attachment?"
+    },
+    {
+      "id": "L6-Q28",
+      "conceptId": "L6-C09",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "有相似关系逻辑，但不是同一测量或一对一预测",
+        "完全同一测验",
+        "成人反应能唯一反推婴儿类型",
+        "后续经验均无作用"
+      ],
+      "optionsEn": [
+        "Similar relational logic, but different measures and no one-to-one prediction",
+        "Exactly the same test",
+        "Adult responses uniquely reveal infant type",
+        "Later experience has no effect"
+      ],
+      "answer": 0,
+      "explanation": "两种测量都有关系期待的思路，但一个是成人问卷，一个是婴儿观察。期待还会随经历改变，也要检查共同因素，不能一对一倒推。",
+      "optionExplanations": [
+        "两种测量都有关系期待的思路，但一个是成人问卷，一个是婴儿观察。期待还会随经历改变，也要检查共同因素，不能一对一倒推。",
+        "成人问卷和婴儿陌生情境的程序不同。",
+        "成人反应不能唯一还原婴儿类型或早期经历。",
+        "后续关系与支持仍会影响发展。"
+      ],
+      "source": "L6 · Continuity ≠ destiny：连续性不等于命运 · [B0060–B0070]",
+      "origin": "notes",
+      "stem": "成人问卷和婴儿陌生情境名称相似，可以怎样解释？",
+      "stemEn": "How should similar labels in adult questionnaires and infant Strange Situation classifications be interpreted?"
+    },
+    {
+      "id": "L6-Q29",
+      "conceptId": "L6-C13",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "相关总是毫无信息",
+        "被忽视和被拒绝定义完全相同",
+        "所有被拒绝儿童结果完全一样",
+        "已有行为也可引发拒绝，共同因素也可影响两者"
+      ],
+      "optionsEn": [
+        "Correlations contain no information",
+        "Neglect and rejection have identical definitions",
+        "All rejected children have identical outcomes",
+        "Existing behaviour can elicit rejection, and common factors may affect both"
+      ],
+      "answer": 3,
+      "explanation": "已有行为可能引来拒绝，拒绝也可能加重困难，其他因素还可能同时影响两者。因此不能把关联写成唯一单向原因。",
+      "optionExplanations": [
+        "关联能提供研究线索，只是不能单独证明因果。",
+        "被拒绝有主动负面评价；被忽视是较少被注意，两者不同。",
+        "平均风险不代表所有被拒绝儿童结果都一样。",
+        "已有行为可能引来拒绝，拒绝也可能加重困难，其他因素还可能同时影响两者。因此不能把关联写成唯一单向原因。"
+      ],
+      "source": "L6 · Popular 不只是“有权力” · [B0087–B0095]",
+      "origin": "notes",
+      "stem": "同伴拒绝与行为困难相关，为什么不能只说拒绝造成所有困难？",
+      "stemEn": "Why does rejection's association with behavioural problems not show rejection caused every problem?"
+    },
+    {
+      "id": "L6-Q30",
+      "conceptId": "L6-C17",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "只选择品牌便保证学习",
+        "延长观看到挤掉睡眠",
+        "讨论人物选择并联系现实练习",
+        "成人坐同房间但从不互动"
+      ],
+      "optionsEn": [
+        "A brand alone guaranteeing learning",
+        "Extending viewing until it replaces sleep",
+        "Discussing choices and linking them to real-life practice",
+        "An adult sitting nearby without interaction"
+      ],
+      "answer": 2,
+      "explanation": "讨论、解释并联系生活，才提供真正的互动和理解机会。坐在同一房间或只看节目品牌，不能代替这些过程，也不能保证效果。",
+      "optionExplanations": [
+        "节目品牌不能保证有效，也不能代替内容和设计证据。",
+        "挤占睡眠不是共看的帮助方式。",
+        "讨论、解释并联系生活，才提供真正的互动和理解机会。坐在同一房间或只看节目品牌，不能代替这些过程，也不能保证效果。",
+        "成人虽在场但不互动，缺少这里所说的解释与讨论。"
+      ],
+      "source": "L6 · Media context：同一小时可以很不同 · [B0127–B0134]",
+      "origin": "notes",
+      "stem": "哪一种共看更符合笔记中的帮助机制？",
+      "stemEn": "Which co-viewing practice best matches the proposed helpful mechanism?"
+    },
+    {
+      "id": "L6-Q31",
+      "conceptId": "L6-C18",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "对实际暴力犯罪的直接证明",
+        "脱敏",
+        "攻击想法即时提取的启动",
+        "观察奖励后模仿行动的社会学习"
+      ],
+      "optionsEn": [
+        "Direct proof of actual violent crime",
+        "Desensitisation",
+        "Priming of readily retrieved aggressive thoughts",
+        "Social learning by copying rewarded actions"
+      ],
+      "answer": 1,
+      "explanation": "重复接触后情绪反应减弱，是脱敏的重点。它不同于攻击想法更容易出现，也不能直接证明实际犯罪。",
+      "optionExplanations": [
+        "情绪反应变弱，不是观察到现实暴力犯罪。",
+        "重复接触后情绪反应减弱，是脱敏的重点。它不同于攻击想法更容易出现，也不能直接证明实际犯罪。",
+        "启动看相关想法暂时更容易想起，不是情绪逐渐减弱。",
+        "题中没有观察奖励后模仿行为的线索。"
+      ],
+      "source": "L6 · 暴力媒体的三种解释机制 · [B0138–B0142]",
+      "origin": "notes",
+      "stem": "重复暴力内容后情绪反应变弱，与什么机制最相符？",
+      "stemEn": "Reduced emotional response after repeated violent content is most consistent with:"
+    },
+    {
+      "id": "L6-Q32",
+      "conceptId": "L6-C23",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "歧视",
+        "只是在脑中概括群体特征",
+        "仅表示不喜欢但未采取行动",
+        "单纯分类且不影响机会"
+      ],
+      "optionsEn": [
+        "Discrimination",
+        "Only mentally generalising group traits",
+        "Dislike without action",
+        "Categorisation without affecting opportunities"
+      ],
+      "answer": 0,
+      "explanation": "拒绝入队已经是实际行动，而且只按群体身份作不平等决定，所以属于歧视，不只是想法或态度。",
+      "optionExplanations": [
+        "拒绝入队已经是实际行动，而且只按群体身份作不平等决定，所以属于歧视，不只是想法或态度。",
+        "题中不只是概括，而是已经改变入队机会。",
+        "已经采取排除行动，不是仅在心里不喜欢。",
+        "分类已经影响了对方的机会，不是无影响的单纯分类。"
+      ],
+      "source": "L6 · 分类、刻板印象、偏见：三个层次 · [B0172–B0183]",
+      "origin": "notes",
+      "stem": "同等成绩下只因群体身份拒绝某人入队，属于什么？",
+      "stemEn": "Excluding an equally qualified person from a team solely by group membership is:"
+    },
+    {
+      "id": "L6-Q33",
+      "conceptId": "L6-C25",
+      "domain": "developmental",
+      "type": "research",
+      "difficulty": "辨析",
+      "options": [
+        "能，年龄组等于同一个人一生",
+        "能，特定样本就是全人类",
+        "能，IAT 没有情境或测量限制",
+        "不能，横断面年龄比较不是个体终身追踪"
+      ],
+      "optionsEn": [
+        "Yes; age groups equal one person's life",
+        "Yes; a specific sample represents all humans",
+        "Yes; IATs have no contextual or measurement limits",
+        "No; cross-sectional groups are not lifelong individual tracking"
+      ],
+      "answer": 3,
+      "explanation": "研究比较的是不同年龄的人，不是追踪同一个人的一生。结果又来自特定样本和任务，所以不能说每个人终身不变。",
+      "optionExplanations": [
+        "不同年龄组的不同人，不能代替同一个人的变化轨迹。",
+        "特定美国白人样本不能直接代表全人类。",
+        "IAT 仍要考虑任务理解、情境与可靠性。",
+        "研究比较的是不同年龄的人，不是追踪同一个人的一生。结果又来自特定样本和任务，所以不能说每个人终身不变。"
+      ],
+      "source": "L6 · 经典年龄比较发现什么？ · [B0192–B0196]",
+      "origin": "notes",
+      "stem": "特定年龄组中隐性幅度相近，能证明每个人一生不变吗？",
+      "stemEn": "Do similar implicit associations across particular age groups prove lifelong stability for every person?"
+    },
+    {
+      "id": "L6-Q34",
+      "conceptId": "L6-C26",
+      "domain": "developmental",
+      "type": "application",
+      "difficulty": "应用",
+      "options": [
+        "儿童只能被动接收且不会主动分类",
+        "一次反馈必然造成终身疾病",
+        "差别反馈可强化类别期待和社会角色",
+        "群体人格差异已由基因证明"
+      ],
+      "optionsEn": [
+        "Children receive passively and never categorise actively",
+        "One comment inevitably causes lifelong disease",
+        "Differential feedback can reinforce category expectations and roles",
+        "Genetic proof of group personality differences"
+      ],
+      "answer": 2,
+      "explanation": "相同行为得到不同评价，会传递“哪种角色适合哪个群体”的线索。持续的这类反馈可能强化类别期待，但不是一次反馈决定一生。",
+      "optionExplanations": [
+        "儿童也会主动分类和组织经验，不是纯粹被动接收。",
+        "一次反馈不能必然造成终身疾病。",
+        "相同行为得到不同评价，会传递“哪种角色适合哪个群体”的线索。持续的这类反馈可能强化类别期待，但不是一次反馈决定一生。",
+        "例子没有遗传研究设计，差别反馈本身是环境因素。"
+      ],
+      "source": "L6 · 不只存在于个人脑中 · [B0212–B0220]",
+      "origin": "notes",
+      "stem": "同样指挥游戏，男孩被夸领导、女孩被说强势，体现什么？",
+      "stemEn": "The same directing behaviour is praised as leadership in a boy but criticised as bossiness in a girl. What does this illustrate?"
+    }
+  ],
+  "file": "PSYC1004_Lecture_6_Social_Development_Notes.docx",
+  "sourceBlocks": [
+    {
+      "id": 1,
+      "text": "PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT"
+    },
+    {
+      "id": 2,
+      "text": "Lecture 6"
+    },
+    {
+      "id": 3,
+      "text": "Social Development"
+    },
+    {
+      "id": 4,
+      "text": "社会发展：依恋、关系、媒体与群体偏见"
+    },
+    {
+      "id": 5,
+      "text": "Maika Kumada  |  Dev Lecture 2: 62 slides  |  Bilingual study notes"
+    },
+    {
+      "id": 6,
+      "text": "CORE IDEA  Social development is relational and contextual. 儿童在与照料者、同伴和社会制度的互动中发展；早期经验很重要，但发展并非一条无法改变的命运线。"
+    },
+    {
+      "id": 8,
+      "text": "Lecture map：三条主线相互影响，而不是彼此独立的阶段。"
+    },
+    {
+      "id": 9,
+      "text": "阅读方法：先看下一页速记，再按模块学习。蓝色是核心概念；金色是答题重点和自拟案例；红色是证据局限或易错辨析；绿色是应用。英文术语用于认题，中文用于理解。"
+    },
+    {
+      "id": 10,
+      "text": "STUDY PRIORITY  优先掌握：Strange Situation 四类表现；rejected vs neglected；家庭与媒体研究的混淆变量；stereotype / prejudice / discrimination；implicit vs explicit。"
+    },
+    {
+      "id": 12,
+      "text": "一页速记 | Lecture at a glance"
+    },
+    {
+      "id": 13,
+      "text": "课件总览：slides 2–13, 15–37, 39–62。"
+    },
+    {
+      "id": 14,
+      "text": "主线 | 最需要记住的答案\n\nAttachment 依恋 | Harlow：contact comfort 不等于 feeding。Bowlby：接近照料者具有生存意义。Ainsworth：看分离、尤其重聚后的调节表现。\n\n发展不是定局 | 依恋具有一定连续性，也会随关系与环境改变；婴儿类型不是成年关系的确定预言。\n\nPeers & siblings | 友谊从共同活动逐渐走向支持与亲密；被拒绝不等于被忽视；出生顺序不能可靠决定一个人的人格。\n\nWork & childcare | 不能只问父母工作没有、托育多久；还要看照料质量、稳定性、家庭资源与工作条件。\n\nMedia | 内容、共看互动、儿童特点、使用情境与替代了什么，比只数屏幕分钟更有解释力。\n\nFamily diversity | 父母性取向本身不能直接解释儿童劣势；污名、压力、支持和样本选择更值得检验。\n\nIntergroup development | 注意差异 → 社会分类 → 赋予群体意义 → 刻板印象／偏见；成人语言和制度可加强或减弱边界。\n\nMeasurement | Implicit association 是任务中的自动联结；explicit report 是明确表达。两者不能互相替代。"
+    },
+    {
+      "id": 16,
+      "text": "MEMORY CHAIN  Attachment → peers & family → media → intergroup attitudes。每段都问：研究测了什么？还有什么解释？"
+    },
+    {
+      "id": 17,
+      "text": "考试答题的四步模板"
+    },
+    {
+      "id": 18,
+      "text": "① Define：用一句话界定概念。② Evidence：说明任务、比较条件和主要结果。③ Explain：解释结果如何支持理论。④ Qualify：给一个具体局限，避免“所有儿童”“必然导致”等绝对词。"
+    },
+    {
+      "id": 19,
+      "text": "理解案例（自拟）  题目说“玩暴力游戏的儿童更有攻击性”。合格答案不仅写观察到关联，还会追问原有攻击倾向、同伴环境、研究是否随机分配，以及测量的是实验任务还是现实伤害。"
+    },
+    {
+      "id": 21,
+      "text": "01 | 为什么会形成依恋？"
+    },
+    {
+      "id": 22,
+      "text": "Slides 2–5；Harlow (1958)、Bowlby (1969)。"
+    },
+    {
+      "id": 23,
+      "text": "Attachment：需要安全与接近的关系"
+    },
+    {
+      "id": 24,
+      "text": "依恋是儿童与特定照料者之间形成的情感关系。儿童倾向靠近这个人，在其在场时获得安全感，在分离时可能不安。Primary caregiver 指主要承担日常照顾的人，不必限定为母亲，也不意味着儿童只能依恋一个人。"
+    },
+    {
+      "id": 25,
+      "text": "Harlow：食物不是全部解释"
+    },
+    {
+      "id": 26,
+      "text": "研究元素 | 怎么理解\n\n操纵／比较 | 幼猴接触 wire surrogate（铁丝代理母亲）与 terrycloth surrogate（绒布代理母亲）；把喂食与柔软接触分开比较。\n\n主要发现 | 即使铁丝代理提供奶，幼猴仍明显偏好绒布代理的接触；受惊时也会寻求绒布代理。\n\n理论意义 | Contact comfort（接触安慰）本身重要，不能把依恋完全还原为“谁给食物就爱谁”。\n\n限制 | 代理母亲与隔离环境并非普通家庭；存在严重动物福利问题。猴的结果为人类理论提供线索，不是对人类关系的完整证明。"
+    },
+    {
+      "id": 28,
+      "text": "Bowlby：依恋的进化功能"
+    },
+    {
+      "id": 29,
+      "text": "依恋系统使脆弱的婴儿在危险、疲倦或陌生情境中寻求保护，因此可能具有 evolutionary survival value。照料者可以成为 secure base（探索的安全基地）与 safe haven（受威胁时返回的避风港）。"
+    },
+    {
+      "id": 30,
+      "text": "理解案例（自拟）  孩子在陌生游乐场先抓紧爸爸，确认爸爸在旁边后去玩，摔倒时再回来求安慰。不是“不独立”，而是安全感支持探索，受威胁时依恋系统重新被激活。"
+    },
+    {
+      "id": 31,
+      "text": "ACCURACY  动物 imprinting（印刻）启发了 Bowlby，但人类依恋不是简单复制动物印刻。早期敏感性也不等于“错过某一天便永远无法建立关系”；进化基础更不等于依恋类型由基因固定。"
+    },
+    {
+      "id": 33,
+      "text": "02 | 依恋怎样发展、怎样观察？"
+    },
+    {
+      "id": 34,
+      "text": "Slides 6–8；出生后两年、separation anxiety 与 Strange Situation。"
+    },
+    {
+      "id": 35,
+      "text": "大致时间线：不是每个儿童的精确时钟"
+    },
+    {
+      "id": 36,
+      "text": "时期／现象 | 核心含义\n\n新生儿早期社会偏好 | 婴儿会注意人脸等社会信息；社会注意为互动提供基础，但“看脸”本身不是成熟依恋的证明。\n\n约 3 个月 | 课件提到逐渐能视觉辨认主要照料者。辨认、亲近与持续互动共同参与关系发展。\n\n约 7–9 个月起 | Separation anxiety：与熟悉照料者分离时不安。发生时间有个体与文化差异，不能拿单一月份判定正常／异常。\n\n前两年持续发展 | 照料者回应儿童，儿童的气质和行为也影响照料者；关系具有 reciprocal / dynamic 特点。"
+    },
+    {
+      "id": 38,
+      "text": "讲师用不同文化与视障儿童也可出现分离焦虑，说明这种变化并不只依赖一种特定视觉经验。但“存在成熟因素”不能推导为“某种依恋类型完全由遗传决定”。"
+    },
+    {
+      "id": 39,
+      "text": "Strange Situation：陌生情境程序"
+    },
+    {
+      "id": 40,
+      "text": "常用于约 12–18 个月婴儿。研究者在标准化的陌生环境中观察探索、陌生人出现、短暂分离，以及照料者返回后的反应。任务有多个片段；笔记中的流程是理解性简化。"
+    },
+    {
+      "id": 41,
+      "text": "观察环节 | 研究者关心什么\n\n照料者在场 | 能否利用其作为安全基地去探索？\n\n分离与陌生人 | 儿童怎样表达压力、寻求帮助？\n\nReunion 重聚 | 是否主动接近？安慰是否有效？是否回避、抵抗或出现矛盾／失序行为？"
+    },
+    {
+      "id": 43,
+      "text": "EXAM  重聚后的行为特别关键。“哭得多＝依恋差”“不哭＝安全”都不成立；要看接近、接受安慰与情绪恢复的整个模式。"
+    },
+    {
+      "id": 44,
+      "text": "理解案例（自拟）  两个孩子分离时都哭。甲在妈妈回来后抱一会儿就继续玩；乙一边抓住妈妈一边推开她，很难平静。相同的哭泣，不代表相同的依恋模式。"
+    },
+    {
+      "id": 46,
+      "text": "03 | 四种依恋模式：重点看重聚"
+    },
+    {
+      "id": 47,
+      "text": "Slide 9；原始三分类与后来补充的 disorganised attachment。"
+    },
+    {
+      "id": 48,
+      "text": "模式 | 分离／重聚的典型表现 | 不要误记成\n\nSecure / 安全型 | 分离时可能难过；重聚时主动接近并有效获得安慰，随后恢复探索。 | 从来不哭、从来不依赖别人。\n\nAvoidant / 回避型 | 外显痛苦较少；重聚时回避、忽略或较少寻求接近。 | 完全没有情感需要或内在压力。\n\nAmbivalent / resistant / 矛盾／抗拒型 | 分离时明显不安；重聚时既寻求接近又生气或抵抗，难以安抚。 | 只是“比较爱父母”，或故意闹脾气。\n\nDisorganised / 失序型 | 可能出现矛盾、冻结、迷惘或难以整合的接近／回避行为；缺少连贯应对策略。 | 第四种人格、单次奇怪动作，或一个可随意下的临床诊断。"
+    },
+    {
+      "id": 50,
+      "text": "比例怎么背才不会错？"
+    },
+    {
+      "id": 51,
+      "text": "课件列出 secure 约 65%、avoidant 约 21%、ambivalent/resistant 约 14%。这是经典三分类的示例分布，三者已合计 100%；不能再把失序型当作同一组样本中的额外百分比，也不能视为所有文化、所有年代的全球固定比例。"
+    },
+    {
+      "id": 52,
+      "text": "ACCURACY  Ainsworth 的经典分类主要是前三种；Main 与 Solomon 后来提出失序型分类。考试可按课件掌握四种表现，但不要把四种都写成 Ainsworth 最初同时发现的。"
+    },
+    {
+      "id": 53,
+      "text": "分类的是关系中的行为模式"
+    },
+    {
+      "id": 54,
+      "text": "观察结果受到儿童、照料者、情境与既往互动共同影响。不能仅凭一次托班送别、一次陌生场合不哭，给儿童贴上终身标签；日常观察也不等于按研究程序完成了可靠编码。"
+    },
+    {
+      "id": 55,
+      "text": "理解案例（自拟）  小朋友在幼儿园门口没哭，却不代表一定是 avoidant。他可能熟悉老师、今天心情平稳，或分离时间很短。研究分类需要比较多个标准化片段，尤其重聚后的行为。"
+    },
+    {
+      "id": 56,
+      "text": "MEMORY  安全：接近且能安抚；回避：较少外显寻求；抗拒：要靠近又抵抗；失序：难以形成连贯策略。"
+    },
+    {
+      "id": 58,
+      "text": "04 | 依恋会改变吗？成年关系呢？"
+    },
+    {
+      "id": 59,
+      "text": "Slides 10–13；Groh et al. (2012)、Cyr et al. (2010)、Hazan & Shaver (1987)。"
+    },
+    {
+      "id": 60,
+      "text": "Continuity ≠ destiny：连续性不等于命运"
+    },
+    {
+      "id": 61,
+      "text": "早期关系可影响对他人是否可靠、自己是否值得被照顾的期待，即 internal working models（内部工作模型）。这些期待能影响后续互动，但中童期经验、生活事件、关系变化与支持性环境也能改变发展路径。"
+    },
+    {
+      "id": 62,
+      "text": "研究中不安全依恋与部分情绪、行为困难存在关联；这不是每个不安全依恋儿童都会出问题。高风险环境中也有安全依恋儿童，说明保护因素与个体差异不能忽略。"
+    },
+    {
+      "id": 63,
+      "text": "成年浪漫关系：有相似逻辑，但不是同一测验"
+    },
+    {
+      "id": 64,
+      "text": "课堂中的成人类比 | 常见关系倾向\n\nSecure | 较能信任、互相依靠，也容许彼此独立；有困难时能寻求支持。\n\nAnxious / ambivalent | 较担心被抛弃，容易反复确认关系、嫉妒或对关系威胁高度敏感。\n\nAvoidant | 较强调自我依赖、压低依赖需要，可能不愿寻求或接受亲密支持。"
+    },
+    {
+      "id": 66,
+      "text": "CRITIQUE  成人问卷／关系叙述与婴儿 Strange Situation 不是同一测量方法；相似名称不构成一对一预测。也不能根据一个人的分手反应，倒推出婴儿期类型或父母行为。"
+    },
+    {
+      "id": 67,
+      "text": "为什么不能只画“婴儿类型 → 成人结局”？"
+    },
+    {
+      "id": 68,
+      "text": "家庭冲突、照料质量、创伤、压力、父母与儿童特点等可能同时影响早期依恋和后续适应；后来的伴侣行为还会反馈改变关系体验。研究需要拆开这些路径，而非把所有关联都归因于最初的标签。"
+    },
+    {
+      "id": 69,
+      "text": "理解案例（自拟）  一个早年很难信任别人的学生，在长期稳定的友谊中逐渐愿意求助。新经验不代表早期经验“不重要”，而是说明工作模型会被后续互动更新。"
+    },
+    {
+      "id": 70,
+      "text": "EXAM  稳妥表述：early attachment may shape later expectations, but outcomes depend on continuing relationships and contexts。"
+    },
+    {
+      "id": 72,
+      "text": "05 | 友谊怎样随年龄变化？"
+    },
+    {
+      "id": 73,
+      "text": "Slides 15–17；friendship、同伴性别偏好及因果辨析。"
+    },
+    {
+      "id": 74,
+      "text": "Friendship：从一起玩到彼此理解"
+    },
+    {
+      "id": 75,
+      "text": "大致发展重点 | 友谊意味着什么 | 日常表现\n\n约 6 岁及以前 | 共享活动与即时互惠较突出。 | “他肯借我玩具，我们一起玩。”\n\n约 7–12 岁 | 陪伴、承诺、互相支持逐渐重要。 | “她会帮我，也会在我困难时站在我这边。”\n\n青少年 | 亲密、自我表露、信任与脆弱感更加突出。 | “我可以告诉他我的担心，不怕被取笑。”"
+    },
+    {
+      "id": 77,
+      "text": "这是发展重点的变化，不是所有儿童按生日突然跳级。年幼儿童也能关心朋友；青少年仍然会因为共同活动结交。文化、经历与具体关系影响各要素出现的时间和程度。"
+    },
+    {
+      "id": 78,
+      "text": "为什么常见同性别朋友？"
+    },
+    {
+      "id": 79,
+      "text": "可能有共同活动与兴趣，也可能受到成人分组、玩具标签、同伴规范和接触机会影响。偏好并不能独自证明某种活动“天生属于男孩／女孩”；观察到群体平均差异，也不能预测每个人。"
+    },
+    {
+      "id": 80,
+      "text": "课件引用双生子研究讨论 sex-typed behaviour：同卵双生子比异卵双生子更相似，支持被研究行为存在一定遗传贡献。但遗传贡献是特定人群和环境中的统计概念，并不等于文化角色固定，或经验无法改变行为。"
+    },
+    {
+      "id": 81,
+      "text": "ACCURACY  课堂关于跨性别友谊比例提到了不同时期的数字，来源与样本不完全对应。复习以“常见同性别聚集及多重解释”为重点，不把某个比例当作当前普遍事实。这里的跨性别友谊指不同性别之间的友谊，不是专指 transgender 身份。"
+    },
+    {
+      "id": 82,
+      "text": "理解案例（自拟）  班级把男孩都分到足球区、女孩都分到手工区，一段时间后发现大家更常结交同性别朋友。不能只说这是先天偏好，因为活动安排已改变谁有机会互相认识。"
+    },
+    {
+      "id": 83,
+      "text": "APPLICATION  分析关系先问：儿童主动选择了谁？环境又让他能接触到谁？Selection 与 opportunity 往往同时存在。"
+    },
+    {
+      "id": 85,
+      "text": "06 | 同伴地位：受欢迎、被拒绝与被忽视"
+    },
+    {
+      "id": 86,
+      "text": "Slides 18–19；peer status、dominance hierarchy。"
+    },
+    {
+      "id": 87,
+      "text": "Popular 不只是“有权力”"
+    },
+    {
+      "id": 88,
+      "text": "群体中存在地位差异；学龄前儿童已能利用说话方式、身体姿态、资源控制等线索识别支配关系。Dominance 指相对的权力或控制地位；sociometric popularity 指被喜欢或接纳。两者可能相关，但不能直接画等号。"
+    },
+    {
+      "id": 89,
+      "text": "类型 | 关键区别 | 课堂中的结果倾向\n\nPopular / 受欢迎 | 获得较多接纳／喜欢；不等于每次都最强势。 | 通常有较好的同伴融入；仍须看具体测量的是喜欢还是声望。\n\nRejected / 被拒绝 | 被主动不喜欢或排斥；可能被欺负，也可能自己有攻击行为。 | 平均而言更多行为、学业或心理适应风险；群体内部差异很大。\n\nNeglected / 被忽视 | 较少被提名、注意或互动；不等于被主动讨厌。 | 一些儿童较独立、守规或学业表现良好，但不能据此认定他们都不孤独。"
+    },
+    {
+      "id": 91,
+      "text": "为什么要把 rejected 与 neglected 分开？"
+    },
+    {
+      "id": 92,
+      "text": "前者包含明显的负向同伴评价，后者主要是低可见度。若把两者都叫“没朋友”，会掩盖不同的处境与支持需要。评价风险时还要看儿童自身感受、实际关系、学校环境和行为，而不只看标签。"
+    },
+    {
+      "id": 93,
+      "text": "理解案例（自拟）  小林下课常独自画画，别人没有排斥他，他也有一位好友；小周想加入游戏，却经常被明确赶走。两人都可能很少出现在大群体里，但前者更接近被忽视，后者更接近被拒绝。"
+    },
+    {
+      "id": 94,
+      "text": "CRITIQUE  同伴拒绝可能增加问题风险，已有的攻击或退缩行为也可能引发拒绝。双向关系与共同因素意味着“被拒绝造成所有困难”并不是研究结果本身。"
+    },
+    {
+      "id": 95,
+      "text": "EXAM  对比题抓住一个轴：主动不喜欢（rejected）vs 很少被注意（neglected）；再补一句两者都不能单凭标签判断个人心理状况。"
+    },
+    {
+      "id": 97,
+      "text": "07 | 手足关系与出生顺序"
+    },
+    {
+      "id": 98,
+      "text": "Slides 20–23；resource competition、birth-order theories 与 mixed evidence。"
+    },
+    {
+      "id": 99,
+      "text": "新成员到来：资源与关系一起变"
+    },
+    {
+      "id": 100,
+      "text": "手足既可能竞争时间、注意与物质资源，也能提供陪伴、示范、照顾和冲突协商的经验。一般的亲生全同胞平均共享约 50% 的遗传变异；这不是说两个人“只有一半全部 DNA 相同”，也不能套用于所有手足关系。"
+    },
+    {
+      "id": 101,
+      "text": "弟妹出生后，年长儿童可能短暂更依赖照料者、焦虑、表现敌意或出现退行，例如原本已控制的尿床再次发生。这是可能反应，不是所有家庭必经的固定阶段。"
+    },
+    {
+      "id": 102,
+      "text": "出生顺序理论提出了什么？"
+    },
+    {
+      "id": 103,
+      "text": "假设 | 合理的机制问题 | 不能直接当成事实的标签\n\nFirst-born | 早期有独享注意的时期；父母经验相对少。 | 老大必然负责、尽责、最聪明。\n\nLater-born | 注意被分配；可向兄姐学习，也可能寻找不同角色。 | 老二／老三必然反叛、有创造力。\n\nOnly child | 没有同住手足，但仍可有丰富同伴与成人互动。 | 独生子女必然自私或被宠坏。"
+    },
+    {
+      "id": 105,
+      "text": "研究结论为什么不能只靠刻板印象？"
+    },
+    {
+      "id": 106,
+      "text": "家庭大小、社会经济条件、父母投入与年龄间隔可能与出生顺序交织。大型研究并未支持出生顺序对广泛人格特质有稳定、明显的影响；部分研究保留了很小的平均智力差异，但小的群体均值差异不足以判断个人。"
+    },
+    {
+      "id": 107,
+      "text": "ACCURACY  课堂关于 IQ 的口头表述不宜照抄：现代常见 IQ 测验有标准化常模，通常把平均值设为 100，不是 90。测量有局限，不等于测验没有标准化。"
+    },
+    {
+      "id": 108,
+      "text": "理解案例（自拟）  你家老大做事认真、老二爱冒险，这能描述这两个人，不能证明出生顺序是原因。也许父母对两人的要求不同、同伴环境不同，或只是个体差异。"
+    },
+    {
+      "id": 109,
+      "text": "EXAM  Resource dilution：人均资源可能减少；sibling interaction：手足也增加学习机会。写机制时两边都考虑，比“老大／老二人格表”更有解释力。"
+    },
+    {
+      "id": 111,
+      "text": "08 | 父母工作与托育：关键不只是时长"
+    },
+    {
+      "id": 112,
+      "text": "Slides 24–31；parental employment、childcare quality and stability。"
+    },
+    {
+      "id": 113,
+      "text": "“工作父母比较不关心孩子”有证据吗？"
+    },
+    {
+      "id": 114,
+      "text": "课件的历史图显示母亲就业随年代与最小子女年龄而变化，但趋势图本身不告诉我们儿童结果。课堂综述并不支持“母亲工作必然降低照料质量／导致孩子违法”的简单担忧；一些研究还发现较平等的性别观念、女孩更高的职业抱负等关联。"
+    },
+    {
+      "id": 115,
+      "text": "要分开的因素 | 为什么重要\n\n工作条件 | 夜班、晚班、不可预测排班、工作压力与弹性，会以不同方式影响家庭节奏。\n\n家庭资源与支持 | 收入、另一照料者参与、亲友支持可能缓冲压力，也影响谁能选择某种工作安排。\n\n实际照料质量 | 是否敏感回应、稳定互动、有时间交流，比“就业／未就业”二分法更接近机制。\n\n托育质量与稳定性 | 人员稳定、安全、回应性互动与适合儿童的活动重要；不稳定或低质量照料可能伴随不利结果。"
+    },
+    {
+      "id": 117,
+      "text": "部分研究发现兼职与更敏感的教养、较少抑郁症状相关，但不能推出兼职是每个家庭的最佳方案。工作选择并非随机分配，资源、偏好与原有健康状况都可能影响结果。Latchkey children 指放学后暂时无人看护的儿童，不是“问题儿童”的同义词。"
+    },
+    {
+      "id": 118,
+      "text": "怎样读托育类别图？"
+    },
+    {
+      "id": 119,
+      "text": "课件区分独立 preschool、设在 centre-based day care（CBDC）中的学前项目，以及多个提供者。它描述服务形式，不是质量排名；不能因为属于某种机构就认定课程更好、更差或没有结构。"
+    },
+    {
+      "id": 120,
+      "text": "理解案例（自拟）  甲每天托育较久，但老师稳定且经常回应和交谈；乙时间短，却频繁换照料者。仅比较小时数，可能漏掉真正影响儿童体验的质量与连续性。"
+    },
+    {
+      "id": 121,
+      "text": "EXAM  论点：effects depend on quality, stability and family context。优质托育可能尤其有利于资源较少的儿童，但这不是“时间越长越好”。"
+    },
+    {
+      "id": 123,
+      "text": "09 | 屏幕使用：先问在看什么、怎么用"
+    },
+    {
+      "id": 124,
+      "text": "Slides 32–33, 37；media context 与 displacement。"
+    },
+    {
+      "id": 125,
+      "text": "描述性统计不等于因果解释"
+    },
+    {
+      "id": 126,
+      "text": "课件 ABS 图描述 2023 年澳大利亚 2–5 岁儿童的日均静态屏幕时间，排除已上学的 5 岁儿童。图中 1–1.5 小时区间占比最高；这一分布不能单独说明屏幕造成了什么，也不能直接当成个体健康建议。"
+    },
+    {
+      "id": 127,
+      "text": "Media context：同一小时可以很不同"
+    },
+    {
+      "id": 128,
+      "text": "维度 | 分析时可以问什么\n\nContent 内容 | 教育性、暴力性、幻想程度、语言与情节是否适龄？\n\nEngagement 参与 | 儿童只是连续被动观看，还是回答、预测、讨论并联系生活？\n\nCo-viewing 共看 | 照料者是否真正解释和互动，而不仅是坐在同一个房间？\n\nChild & setting | 年龄、已有能力、情绪、独自还是陪伴使用，是否影响理解？\n\nDisplacement 替代 | 占用了睡眠、运动、学习、自由游戏，还是亲子交谈的时间？"
+    },
+    {
+      "id": 130,
+      "text": "讲师对互动式与较被动节目的比较，是为了说明参与方式。不能把某个节目品牌当成普遍有效的学习干预。共看如果包含提问、解释与对现实的连接，可能帮助理解；效果仍取决于内容、儿童与研究设计。"
+    },
+    {
+      "id": 131,
+      "text": "理解案例（自拟）  看完“分享玩具”的片段后，家长问“如果你是他，会怎么做？”再用玩具演一遍。可能有帮助的机制是交流与练习，而不是屏幕自动把“分享能力”下载给孩子。"
+    },
+    {
+      "id": 132,
+      "text": "Displacement：有限时间里的机会成本"
+    },
+    {
+      "id": 133,
+      "text": "屏幕不一定要直接损害某种能力，也可能通过挤占其他有益活动产生影响。比较屏幕时长与成绩时，还要考虑原有学习困难、家庭作息和监督方式；不能只看到相关就宣称屏幕导致成绩下降。"
+    },
+    {
+      "id": 134,
+      "text": "EXAM  解释混合结果时，具体写出一个调节条件和一个替代活动，比笼统写“每个人不同”更有分量。"
+    },
+    {
+      "id": 136,
+      "text": "10 | 暴力、节奏与幻想：别混成一种效应"
+    },
+    {
+      "id": 137,
+      "text": "Slides 34–37；Anderson (2022)、Drummond et al. (2020) 及节奏研究。"
+    },
+    {
+      "id": 138,
+      "text": "暴力媒体的三种解释机制"
+    },
+    {
+      "id": 139,
+      "text": "机制 | 通俗理解\n\nPriming 启动 | 刚看过的攻击性线索，使攻击相关想法暂时更容易被想到。\n\nDesensitisation 脱敏 | 重复接触后，对暴力的情绪反应可能变弱。\n\nSocial learning 社会学习 | 观察角色的行为及其后果，学习可能的行动脚本；可联系 Bandura 的模仿研究。"
+    },
+    {
+      "id": 141,
+      "text": "机制说明“为什么可能发生”，不等于已经证明长期现实暴力。课堂区分短期攻击相关任务结果与长期关联：前者可发现效应，后者证据更不一致、可能较小。攻击词补全、实验室任务、日常攻击和严重暴力犯罪不是同一结果变量。"
+    },
+    {
+      "id": 142,
+      "text": "CRITIQUE  原有攻击倾向可能影响媒体选择，家庭与同伴环境也可能同时影响两者。避免两个极端：“暴力游戏必然导致犯罪”与“任何影响都已被证明不存在”。"
+    },
+    {
+      "id": 143,
+      "text": "Pace 与 fantasy 必须拆开"
+    },
+    {
+      "id": 144,
+      "text": "快节奏通常涉及更多镜头切换、声效或事件变化；幻想程度涉及违反现实规则的内容。二者常一起变化，因此不同节目的比较未必能单独识别节奏效应。相同剪辑频率也未必产生相同的主观节奏体验。"
+    },
+    {
+      "id": 145,
+      "text": "课堂提到有关节奏的综述与新研究结果混合；有些研究发现幻想内容观看后的短期 executive function 差异。不能把短时任务表现推广成长期脑损伤，也不能用“快节奏有害”解释所有内容差异。"
+    },
+    {
+      "id": 146,
+      "text": "理解案例（自拟）  研究让一组看快速剪辑的魔法冒险，另一组看慢节奏真实生活片，随后比较抑制控制。即使两组不同，也难判断原因是剪辑、幻想、情绪唤起还是情节难度；更好的设计应尽量分别操纵这些因素。"
+    },
+    {
+      "id": 147,
+      "text": "EXAM  写出 operationalisation（操作化）：暴力／快节奏如何定义？攻击／执行功能怎样测？效应持续多久？这三问可避免过度结论。"
+    },
+    {
+      "id": 149,
+      "text": "11 | 家庭多样性：把研究设计说清楚"
+    },
+    {
+      "id": 150,
+      "text": "Slides 39–43；same-sex parent families、Crouch et al. (2014)。"
+    },
+    {
+      "id": 151,
+      "text": "研究重点是家庭过程，而不是先给家庭贴优劣标签"
+    },
+    {
+      "id": 152,
+      "text": "儿童的发展与照料、支持、资源、关系和社会环境有关。课堂资料没有提供“父母 LGBTQIA+ 身份本身必然直接损害儿童”的证据。纪录片能帮助理解生活经验，但个案与历史处境不能代替代表性研究。"
+    },
+    {
+      "id": 153,
+      "text": "Crouch et al. (2014) | 考试可用信息\n\n设计 | 澳大利亚横断面问卷；由父母报告儿童健康、适应与家庭情况，并与总体常模比较。\n\n样本 | 315 位同性吸引的父母，报告涉及 500 名 0–17 岁儿童。不是 315 对夫妻，也不是随机分配的家庭。\n\n结果概括 | 多数指标相近，一些健康／家庭指标更高；不支持把这类家庭一概视为儿童发展劣势。\n\n关键限制 | 自愿参与与样本选择、父母自报、横断面和常模比较限制因果推断；同家庭儿童也不完全独立。"
+    },
+    {
+      "id": 155,
+      "text": "Stigma：环境中的压力，而非身份本身"
+    },
+    {
+      "id": 156,
+      "text": "课堂讨论歧视、污名与较差的心理健康、身体活动或家庭凝聚力之间的关联。孩子可能直接受到排斥，也可能通过父母压力和家庭互动受到影响；支持性学校、同伴和社会资源可能提供缓冲。"
+    },
+    {
+      "id": 157,
+      "text": "ACCURACY  相关研究中的内化症状风险应联系遭遇的恐同／歧视经验理解，而不是写成“同性父母的孩子都更内化”。反过来，某些平均指标较好也不证明父母性取向自动造成优势。"
+    },
+    {
+      "id": 158,
+      "text": "理解案例（自拟）  两名儿童都由两位妈妈照顾，一所学校接纳多样家庭，另一所经常出现嘲笑。如果结果不同，学校氛围与污名经历就是需要检验的解释，而非只盯着父母身份。"
+    },
+    {
+      "id": 159,
+      "text": "家庭形成方式还可能包括收养、辅助生育、代孕或此前关系中的子女；不能把这些不同经历压成一个完全同质的类别。纪录片中的旧法律与社会背景，应按历史材料理解。"
+    },
+    {
+      "id": 161,
+      "text": "12 | 群体偏见如何开始？"
+    },
+    {
+      "id": 162,
+      "text": "Slides 44–47；Developmental Intergroup Theory，Bigler & Liben (2007)。"
+    },
+    {
+      "id": 163,
+      "text": "DIT：差异如何变得“重要”？"
+    },
+    {
+      "id": 164,
+      "text": "儿童会注意可见差异，但社会环境决定哪些差异常被命名、分组和赋予价值。成人反复使用群体标签、按群体隔离活动，或区别对待成员，都可能增加 category salience（类别显著性），促使儿童把差异理解为有社会意义的边界。"
+    },
+    {
+      "id": 166,
+      "text": "机制图：不是所有儿童都必然走向偏见，也不是三个互不重叠的固定年龄阶段。"
+    },
+    {
+      "id": 167,
+      "text": "婴儿注意与辨认的早期证据"
+    },
+    {
+      "id": 168,
+      "text": "约 3 个月时，可出现对熟悉／本族群面孔的偏好；约 3–4 个月能在某些任务中区分男性与女性面孔。照料者及日常接触经验重要。“看得更久”不是已经理解成人意义上的种族、性别身份或产生敌意。"
+    },
+    {
+      "id": 169,
+      "text": "Johnson 等研究中，9–12 个月婴儿未能像成人一样把声音与点光生物运动中的性别线索匹配。说明一种视觉区分能力不能直接等同于跨感觉通道、抽象而完整的分类知识。"
+    },
+    {
+      "id": 170,
+      "text": "理解案例（自拟）  老师总说“男孩排这里，女孩排那里”，却从不按鞋子颜色分组。儿童可能学到性别是组织生活的重要线索；不是所有可见差异都会自然获得同样的重要性。"
+    },
+    {
+      "id": 172,
+      "text": "13 | 分类、刻板印象、偏见：三个层次"
+    },
+    {
+      "id": 173,
+      "text": "Slides 48–54；categorisation、gender constancy、Devine (1989)。"
+    },
+    {
+      "id": 174,
+      "text": "Categorisation：能区分，不等于已经讨厌"
+    },
+    {
+      "id": 175,
+      "text": "课件介绍婴儿约 9 个月的面孔族群分类，以及约 3 岁的性别自我标签、约 6 岁经典任务中的 gender constancy。年龄反映特定任务表现，不能当成任何儿童都一致的期限。"
+    },
+    {
+      "id": 176,
+      "text": "ACCURACY  性别恒常性任务强调“衣服、发型等表面改变不会自动改变一个人的性别”。它不证明所有人的性别身份一生固定，也不代表儿童 6 岁前不会出现任何性别偏好或偏见。"
+    },
+    {
+      "id": 177,
+      "text": "概念 | 定义 | 理解案例（自拟）\n\nStereotype / 刻板印象 | 对群体特征的简化概括，可正面也可负面；不一定适用于某成员。 | “这个群体的人都很会数学。”\n\nPrejudice / 偏见 | 基于群体成员身份的负面评价或态度。 | “因为他属于那个群体，我就不喜欢他。”\n\nDiscrimination / 歧视（辨析补充） | 基于群体身份作出不平等对待的行为。 | “即使成绩相同，也不让那个群体的人入队。”"
+    },
+    {
+      "id": 179,
+      "text": "知道一种刻板印象 ≠ 赞同它"
+    },
+    {
+      "id": 180,
+      "text": "Devine 的关键区分是文化知识与个人信念。一个人可以知道社会上流传什么看法，却明确反对它；某些自动联结也可能在有意识纠正前被激活。反之，不能把所有刻板印象都说成无意识、所有偏见都说成有意识。"
+    },
+    {
+      "id": 181,
+      "text": "熟悉面孔偏好还可能来自接触频率与知觉经验。由“更愿意看熟悉的脸”跳到“天生歧视陌生族群”，跨越了测量与理论之间好几步。"
+    },
+    {
+      "id": 182,
+      "text": "理解案例（自拟）  学生能说出“社会上有人认为女生不擅长理科”，同时完全不认同。若考题只问他是否知道这句话，测到的是刻板印象知识，不是赞同程度。"
+    },
+    {
+      "id": 183,
+      "text": "EXAM  把 cognitive belief（认知概括）、evaluation（评价）与 behaviour（行为）分开写；现实中它们会相互影响，但不是同一个概念。"
+    },
+    {
+      "id": 185,
+      "text": "14 | 隐性与显性：为什么答案可能不同？"
+    },
+    {
+      "id": 186,
+      "text": "Slides 55–56；Child IAT、Baron & Banaji (2006)、Kinzler & Spelke (2010)。"
+    },
+    {
+      "id": 187,
+      "text": "Child IAT：用反应时观察联结"
+    },
+    {
+      "id": 188,
+      "text": "儿童版 Implicit Association Test 用分类任务测量不同配对的相对容易程度。例如一轮把白人面孔与“好”分到同一反应键，黑人面孔与“坏”分到另一键；另一轮交换配对。儿童版可采用音频词汇降低阅读要求。"
+    },
+    {
+      "id": 189,
+      "text": "比较两种配对的反应速度与错误模式，可以估计任务中的相对自动联结。它不是直接读取内心，也不是给某个人盖上“种族主义者”印章；任务理解、情境和测量可靠性都需要考虑。"
+    },
+    {
+      "id": 190,
+      "text": "Explicit measures | Implicit measures\n\n明确说出喜欢谁、愿意和谁交朋友，或报告自己的信念。 | 从反应时等表现估计相对自动联结，不直接询问是否赞同。\n\n受到真实态度、规范意识、自我呈现和回答控制能力等影响。 | 可能反映学习到的文化联结；不必与刻意认同完全一致。"
+    },
+    {
+      "id": 192,
+      "text": "经典年龄比较发现什么？"
+    },
+    {
+      "id": 193,
+      "text": "Baron 与 Banaji 比较美国白人 6 岁、10 岁儿童及成人：该研究中，显性种族偏好随年龄减弱，而隐性联结幅度较相近。Kinzler 与 Spelke 的相关研究也在特定样本与任务中观察到白人幼儿的同族群朋友偏好。"
+    },
+    {
+      "id": 194,
+      "text": "CRITIQUE  这是特定社会、样本与测量中的结果。年龄组比较不是追踪同一批人一生，不能写成“所有人的隐性偏见终生不会改变”。显性下降也不自动等于内心完全改变，或每个人都只是在说谎。"
+    },
+    {
+      "id": 195,
+      "text": "理解案例（自拟）  某儿童说“任何人都能成为我的朋友”，但分类任务中仍对某种配对反应更快。可解释为明确价值与已学习的自动联结尚未一致；不能只凭这一点推断他一定会排斥具体同学。"
+    },
+    {
+      "id": 196,
+      "text": "SOURCE NOTE  提供的文字稿在本部分、讲师准备结束时中断；接下来两页为 slides 57–62 的课件补充。"
+    },
+    {
+      "id": 198,
+      "text": "15 | 课件补充：偏见会造成什么影响？"
+    },
+    {
+      "id": 199,
+      "text": "Slides 57–59｜课件补充；不作为文字稿中已完整讲授的内容。"
+    },
+    {
+      "id": 200,
+      "text": "同群体偏好与性别规范"
+    },
+    {
+      "id": 201,
+      "text": "课件介绍同一性别伙伴互动中的积极情绪，以及“觉得自己符合本性别典型特征”与对另一性别同伴／活动负面评价之间的关联。应把它理解为群体认同、经验与规范压力相关的研究结果，而不是每个人都该符合某种性别标准。"
+    },
+    {
+      "id": 202,
+      "text": "三个容易混淆的影响路径"
+    },
+    {
+      "id": 203,
+      "text": "概念 | 核心机制 | 区别\n\nInternalisation / 内化刻板印象 | 把群体负面说法变成对自己的看法。 | “别人说我们不行，也许我真的不行。”\n\nStereotype threat / 刻板印象威胁 | 担心自己在某情境中的表现会证实负面群体刻板印象。 | 即使不相信该刻板印象，也可能担心被那样评价。\n\nChronic stress / 慢性压力 | 反复遭遇排斥与不安全感，可能长期消耗心理与生理调节资源。 | 不是一次不愉快就必然导致某种疾病。"
+    },
+    {
+      "id": 205,
+      "text": "心理影响可以包括更差的心理健康与归属感；生理讨论涉及 HPA axis（下丘脑—垂体—肾上腺轴）、皮质醇调节和炎症相关路径。课件呈现的是复杂的风险机制，不能简化成“被歧视 → 皮质醇永远升高 → 必然患病”。"
+    },
+    {
+      "id": 206,
+      "text": "理解案例（自拟）  考前有人强调“你这个群体通常不擅长这种题”。学生不赞同，却开始担心答错会代表整个群体，注意力被担忧占用。这说明 threat 不要求先相信负面刻板印象。"
+    },
+    {
+      "id": 207,
+      "text": "ACCURACY  Internalisation 与 stereotype threat 不能互相替代。前者是接受负面信念，后者是情境中的评价威胁；两者可能同时出现，但机制不同。"
+    },
+    {
+      "id": 208,
+      "text": "EXAM  回答“偏见为何重要”时，可分心理、表现与生理风险三层；每层写具体路径，并保留“可能”“关联”“受情境影响”。"
+    },
+    {
+      "id": 210,
+      "text": "16 | 课件补充：偏见如何被环境强化？"
+    },
+    {
+      "id": 211,
+      "text": "Slides 60–62｜课件补充；systemic reinforcement、家庭、教师与性别社会化。"
+    },
+    {
+      "id": 212,
+      "text": "不只存在于个人脑中"
+    },
+    {
+      "id": 213,
+      "text": "儿童接触的媒体、学校规则、家庭语言与同伴规范，持续提供“谁属于哪里、谁应该做什么”的线索。群体边界可通过日常安排得到重复，即使成人没有明确说“某群体不好”。"
+    },
+    {
+      "id": 214,
+      "text": "来源 | 强化机制 | 可以怎样识别\n\nMedia & selection | 选择性接触熟悉或符合原有看法的内容，减少反例。 | 总看到某群体扮演同一种角色。\n\nParents ↔ adolescents | 父母和青少年的态度可能双向影响。 | 孩子也会把学校、同伴的看法带回家庭。\n\nTeachers & institutions | 期待、评价、分组和资源分配可能反复标记群体差异。 | 对相同行为作不同解释，或默认某群体更适合某任务。\n\nGender socialisation | 成人语言、对外貌与游戏的反馈，以及同伴压力，传递什么被认为“合适”。 | 对男孩女孩不同的夸奖、玩具推荐与惩罚。"
+    },
+    {
+      "id": 216,
+      "text": "课件引用 Bem 的 gender schema 思路与社会学习观点：儿童既观察奖惩，也主动用类别组织经验。持续的兴趣或身份表达可以存在，但群体层面的相对连续性不等于每个人都固定不变。"
+    },
+    {
+      "id": 217,
+      "text": "理解案例（自拟）  同样主动指挥游戏，男孩被夸“有领导力”，女孩被说“太强势”。重复反馈可能改变儿童愿意尝试的角色，也影响旁观同伴对性别的期待。"
+    },
+    {
+      "id": 218,
+      "text": "把全讲连起来"
+    },
+    {
+      "id": 219,
+      "text": "依恋显示儿童在关系中获得安全；同伴与家庭提供支持与社会位置；媒体与制度提供类别和价值线索。发展由这些持续互动构成，而不是单一的父母身份、出生顺序、屏幕分钟或婴儿标签决定。"
+    },
+    {
+      "id": 220,
+      "text": "APPLICATION  分析干预时优先指向可改变的情境：稳定回应、支持性关系、平等接触机会、减少无必要的群体分隔、检视差别反馈。这里是基于课堂机制的应用思路，不是效果已获保证的干预方案。"
+    },
+    {
+      "id": 222,
+      "text": "17 | 自测题 A：关系与家庭"
+    },
+    {
+      "id": 223,
+      "text": "先盖住答案尝试口述。题目为复习练习，不是讲师公布的考试题。"
+    },
+    {
+      "id": 224,
+      "text": "1. Harlow 的结果反驳了哪一种过度简单的解释？"
+    },
+    {
+      "id": 225,
+      "text": "参考答案：依恋完全由喂食强化决定。幼猴偏好绒布代理说明 contact comfort 本身重要；不能进一步说食物不重要。"
+    },
+    {
+      "id": 226,
+      "text": "2. 为什么 Strange Situation 不能只看分离时哭不哭？"
+    },
+    {
+      "id": 227,
+      "text": "参考答案：不同模式都可能哭或不哭；关键还包括重聚时的接近、回避、抵抗及安抚后的恢复。"
+    },
+    {
+      "id": 228,
+      "text": "3. 重聚时主动抱住照料者，很快平静并继续探索，最符合什么？"
+    },
+    {
+      "id": 229,
+      "text": "参考答案：Secure attachment。依据是有效利用照料者调节压力、恢复探索，而不是是否出现过哭泣。"
+    },
+    {
+      "id": 230,
+      "text": "4. “回避型没有依恋需要”错在哪里？"
+    },
+    {
+      "id": 231,
+      "text": "参考答案：把少量外显寻求误当作没有内在需求或压力。分类描述观察到的行为策略，不直接读取所有内在体验。"
+    },
+    {
+      "id": 232,
+      "text": "5. 婴儿依恋与成人关系有相似模式，为什么仍不能一对一预测？"
+    },
+    {
+      "id": 233,
+      "text": "参考答案：测量不同；后续经验可改变工作模型；家庭风险等共同因素也影响两端。关联不等于终身确定性。"
+    },
+    {
+      "id": 234,
+      "text": "6. Rejected 与 neglected 的最简区别？"
+    },
+    {
+      "id": 235,
+      "text": "参考答案：Rejected 是主动被不喜欢／排斥；neglected 是较少被注意。低互动不一定等于被讨厌。"
+    },
+    {
+      "id": 236,
+      "text": "7. 老大更负责、老二更反叛，能当作研究结论吗？"
+    },
+    {
+      "id": 237,
+      "text": "参考答案：不能。出生顺序的人格刻板印象缺乏稳健普遍支持；家庭大小、资源与教养等存在混淆。"
+    },
+    {
+      "id": 238,
+      "text": "8. 什么证据可反驳“父母工作必然伤害孩子”？"
+    },
+    {
+      "id": 239,
+      "text": "参考答案：研究并未一致支持这种直接劣势；结果取决于工作条件、照料质量与家庭资源。有些关联甚至积极，但也不证明工作必然有益。"
+    },
+    {
+      "id": 240,
+      "text": "9. 两所托育中心服务时长不同，为什么不能据此排优劣？"
+    },
+    {
+      "id": 241,
+      "text": "参考答案：还需比较人员与照料稳定性、回应性、活动质量和家庭背景；机构类型与小时数都不是质量本身。"
+    },
+    {
+      "id": 242,
+      "text": "CHECK  答题不能只报术语：至少给一个行为依据，或指出一个具体的替代解释。"
+    },
+    {
+      "id": 244,
+      "text": "18 | 自测题 B：媒体与群体态度"
+    },
+    {
+      "id": 245,
+      "text": "练习从“结果”回到“测量、机制、限制”。"
+    },
+    {
+      "id": 246,
+      "text": "10. 玩暴力游戏与攻击相关词反应更快，证明了什么？"
+    },
+    {
+      "id": 247,
+      "text": "参考答案：支持短期攻击相关联结／启动的可能，不直接证明长期现实暴力或犯罪增加。"
+    },
+    {
+      "id": 248,
+      "text": "11. 快剪辑魔法片与慢节奏真实片比较，有什么设计问题？"
+    },
+    {
+      "id": 249,
+      "text": "参考答案：节奏与幻想等内容特征混在一起；组间差异未必由节奏独立造成。"
+    },
+    {
+      "id": 250,
+      "text": "12. 什么是 screen displacement？"
+    },
+    {
+      "id": 251,
+      "text": "参考答案：屏幕使用挤占其他活动的时间，例如运动、学习或亲子交流；关注被替代的具体活动，而非只数分钟。"
+    },
+    {
+      "id": 252,
+      "text": "13. Crouch 等研究支持“同性父母造成更好儿童发展”吗？"
+    },
+    {
+      "id": 253,
+      "text": "参考答案：不支持因果结论。它是横断面父母报告与常模比较；选择偏差、报告来源、家庭差异都要考虑。"
+    },
+    {
+      "id": 254,
+      "text": "14. 婴儿偏好熟悉族群的面孔，能直接叫种族偏见吗？"
+    },
+    {
+      "id": 255,
+      "text": "参考答案：不能。注视偏好可能反映熟悉与知觉经验；不等于负面态度、敌意或成熟的群体概念。"
+    },
+    {
+      "id": 256,
+      "text": "15. 知道社会上的刻板印象，等于认同吗？"
+    },
+    {
+      "id": 257,
+      "text": "参考答案：不等于。文化知识、自动联结和个人认可需要分别测量。"
+    },
+    {
+      "id": 258,
+      "text": "16. “我不喜欢那个群体”和“我不让他们参加”分别是什么？"
+    },
+    {
+      "id": 259,
+      "text": "参考答案：前者是 prejudice 的负面评价；后者是 discrimination 的差别对待行为。"
+    },
+    {
+      "id": 260,
+      "text": "17. 显性偏见随年龄下降、隐性联结类似，能推出终身不变吗？"
+    },
+    {
+      "id": 261,
+      "text": "参考答案：不能。年龄组横断面差异不是同一人的终身轨迹，样本和任务也有限。"
+    },
+    {
+      "id": 262,
+      "text": "18. 不相信负面刻板印象，也可能有 stereotype threat 吗？"
+    },
+    {
+      "id": 263,
+      "text": "参考答案：可以。担心被评价或被看作证实群体刻板印象即可，与自己是否接受该信念不同。"
+    },
+    {
+      "id": 264,
+      "text": "TRANSFER  用四句练习回答：社会环境为什么能改变儿童对群体的态度？提示：类别显著性、分组／反馈、接触机会、反例与支持。"
+    },
+    {
+      "id": 266,
+      "text": "19 | 英中术语表：看到英文就能认题"
+    },
+    {
+      "id": 267,
+      "text": "按主题检索；中文是理解性翻译，不替代英文关键词。"
+    },
+    {
+      "id": 268,
+      "text": "English term | 中文与最短解释\n\nSocial development | 社会发展：在人际互动与关系中的发展。\n\nPrimary caregiver | 主要照料者：主要负责日常照料的人。\n\nAttachment / contact comfort | 依恋／接触安慰：关系安全与柔软接触带来的安慰。\n\nSecure base / safe haven | 安全基地／避风港：支持探索／受威胁时返回求安慰。\n\nSeparation anxiety / reunion | 分离焦虑／重聚：离开照料者的不安／照料者返回。\n\nStrange Situation | 陌生情境程序：观察分离与重聚的标准化研究任务。\n\nSecure / avoidant | 安全型／回避型：有效寻求安慰／较少外显接近。\n\nAmbivalent / resistant | 矛盾／抗拒型：寻求接近同时抵抗、难以安抚。\n\nDisorganised attachment | 失序型依恋：缺乏连贯应对策略的矛盾或失序表现。\n\nInternal working model | 内部工作模型：关于自己与他人可否依靠的关系期待。\n\nSelf-disclosure / intimacy | 自我表露／亲密：分享内在经验与建立深层信任。\n\nDominance / peer status | 支配地位／同伴地位：权力控制／群体中的社会位置。\n\nRejected / neglected | 被拒绝／被忽视：主动不喜欢／较少被注意。\n\nBirth order / resource dilution | 出生顺序／资源稀释：手足次序／人均资源被分配。\n\nCo-viewing / displacement | 共同观看／替代效应：互动观看／挤占其他活动。\n\nPriming / desensitisation | 启动／脱敏：联结暂时更易提取／重复接触后反应减弱。\n\nCategory salience | 类别显著性：某种分类在环境中有多突出、有多重要。\n\nStereotype / prejudice | 刻板印象／偏见：群体概括／负面群体评价。\n\nDiscrimination / stigma | 歧视／污名：差别对待行为／群体被社会贬低的处境。\n\nImplicit / explicit measures | 隐性／显性测量：从任务推估联结／直接表达报告。\n\nInternalisation / stereotype threat | 内化／刻板印象威胁：接受负面信念／担心证实刻板印象。\n\nConfound / bidirectionality | 混淆变量／双向作用：第三因素影响比较／两端互相影响。"
+    },
+    {
+      "id": 271,
+      "text": "20 | 回课件定位与易错清单"
+    },
+    {
+      "id": 272,
+      "text": "页码均指 Dev Lecture 2.pdf 的 PDF 页／slide 序号。"
+    },
+    {
+      "id": 273,
+      "text": "课件位置 | 对应本笔记章节\n\n2–5；6–9；10–13 | 01 依恋理论；02–03 发展、程序与类型；04 稳定性与成年关系。\n\n15–17；18–19；20–23 | 05 友谊；06 同伴地位；07 手足与出生顺序。\n\n24–31；32–37 | 08 工作与托育；09–10 媒体内容、暴力、节奏与替代。\n\n39–43；44–47 | 11 家庭多样性；12 DIT 与早期社会知觉。\n\n48–54；55–56 | 13 分类和概念辨析；14 隐性／显性与儿童 IAT。\n\n57–62 | 15–16 课件补充：群体偏好、偏见影响及环境强化。"
+    },
+    {
+      "id": 275,
+      "text": "最后再检查这六个句子"
+    },
+    {
+      "id": 276,
+      "text": "“不哭就是安全依恋。”——错：看重聚与安抚模式。"
+    },
+    {
+      "id": 277,
+      "text": "“出生顺序决定人格。”——错：宏大人格标签缺少稳健支持，小平均差异不能预测个人。"
+    },
+    {
+      "id": 278,
+      "text": "“屏幕越多，长期伤害必然越大。”——过度：须拆开内容、情境、替代活动和研究设计。"
+    },
+    {
+      "id": 279,
+      "text": "“同性父母的孩子出现困难，是父母身份造成的。”——不能这样推论：污名、支持、资源等路径必须检验。"
+    },
+    {
+      "id": 280,
+      "text": "“能分辨群体就等于有偏见。”——错：知觉／分类不等于负面评价。"
+    },
+    {
+      "id": 281,
+      "text": "“隐性任务结果等于一个人的完整道德品质。”——错：它是特定测量下的相对联结，不是人格判决。"
+    },
+    {
+      "id": 282,
+      "text": "关键核对文献与进一步查阅"
+    },
+    {
+      "id": 283,
+      "text": "主要学习材料：Kumada，Dev Lecture 2，62 页课件；配套 Lecture 6 文字稿。课堂列举的研究用于理解课程论点，非穷尽性文献综述。"
+    },
+    {
+      "id": 284,
+      "text": "Crouch et al. (2014). Parent-reported measures of child health and wellbeing in same-sex parent families. 核对设计及 315 位父母／500 名儿童：https://pmc.ncbi.nlm.nih.gov/articles/PMC4082299/"
+    },
+    {
+      "id": 285,
+      "text": "Rohrer et al. (2015). Examining the effects of birth order on personality. 核对人格与智力结论：https://doi.org/10.1073/pnas.1506451112"
+    },
+    {
+      "id": 286,
+      "text": "Baron & Banaji (2006). The development of implicit attitudes. 核对年龄组、样本与隐显性比较：https://pubmed.ncbi.nlm.nih.gov/16371144/"
+    },
+    {
+      "id": 287,
+      "text": "Infant disorganized attachment: Clarifying levels of analysis (2017). 核对分类历史与解释边界：https://pmc.ncbi.nlm.nih.gov/articles/PMC5641982/"
+    },
+    {
+      "id": 288,
+      "text": "Steele & Aronson (1995). Stereotype threat and the intellectual test performance of African Americans. 概念核对：评价威胁不要求赞同刻板印象。DOI: 10.1037/0022-3514.69.5.797"
+    }
+  ],
+  "sourceText": "# Lecture 6\n\n\n\n\n[B0001] PSYC1004 • PSYCHOLOGY 2: UNDERSTANDING PEOPLE IN CONTEXT\n\n[B0002] Lecture 6\n\n[B0003] Social Development\n\n[B0004] 社会发展：依恋、关系、媒体与群体偏见\n\n[B0005] Maika Kumada  |  Dev Lecture 2: 62 slides  |  Bilingual study notes\n\n[B0006] CORE IDEA  Social development is relational and contextual. 儿童在与照料者、同伴和社会制度的互动中发展；早期经验很重要，但发展并非一条无法改变的命运线。\n\n[B0007 FIGURE] LECTURE MAP  从亲密关系走向社会群体。01 依恋：接触安慰，安全基地，分离与重聚，稳定与变化；02 日常关系：朋友与同伴地位，手足与出生顺序，父母工作，托育质量；03 社会环境：媒体内容与情境，家庭多样性，群体分类，刻板印象与偏见\n\n[B0008] Lecture map：三条主线相互影响，而不是彼此独立的阶段。\n\n[B0009] 阅读方法：先看下一页速记，再按模块学习。蓝色是核心概念；金色是答题重点和自拟案例；红色是证据局限或易错辨析；绿色是应用。英文术语用于认题，中文用于理解。\n\n[B0010] STUDY PRIORITY  优先掌握：Strange Situation 四类表现；rejected vs neglected；家庭与媒体研究的混淆变量；stereotype / prejudice / discrimination；implicit vs explicit。\n\n## [B0012] 一页速记 | Lecture at a glance\n\n[B0013] 课件总览：slides 2–13, 15–37, 39–62。\n\n\n[B0014 TABLE]\n\n主线 | 最需要记住的答案\n\nAttachment 依恋 | Harlow：contact comfort 不等于 feeding。Bowlby：接近照料者具有生存意义。Ainsworth：看分离、尤其重聚后的调节表现。\n\n发展不是定局 | 依恋具有一定连续性，也会随关系与环境改变；婴儿类型不是成年关系的确定预言。\n\nPeers & siblings | 友谊从共同活动逐渐走向支持与亲密；被拒绝不等于被忽视；出生顺序不能可靠决定一个人的人格。\n\nWork & childcare | 不能只问父母工作没有、托育多久；还要看照料质量、稳定性、家庭资源与工作条件。\n\nMedia | 内容、共看互动、儿童特点、使用情境与替代了什么，比只数屏幕分钟更有解释力。\n\nFamily diversity | 父母性取向本身不能直接解释儿童劣势；污名、压力、支持和样本选择更值得检验。\n\nIntergroup development | 注意差异 → 社会分类 → 赋予群体意义 → 刻板印象／偏见；成人语言和制度可加强或减弱边界。\n\nMeasurement | Implicit association 是任务中的自动联结；explicit report 是明确表达。两者不能互相替代。\n\n\n\n[B0016] MEMORY CHAIN  Attachment → peers & family → media → intergroup attitudes。每段都问：研究测了什么？还有什么解释？\n\n## [B0017] 考试答题的四步模板\n\n[B0018] ① Define：用一句话界定概念。② Evidence：说明任务、比较条件和主要结果。③ Explain：解释结果如何支持理论。④ Qualify：给一个具体局限，避免“所有儿童”“必然导致”等绝对词。\n\n[B0019] 理解案例（自拟）  题目说“玩暴力游戏的儿童更有攻击性”。合格答案不仅写观察到关联，还会追问原有攻击倾向、同伴环境、研究是否随机分配，以及测量的是实验任务还是现实伤害。\n\n## [B0021] 01 | 为什么会形成依恋？\n\n[B0022] Slides 2–5；Harlow (1958)、Bowlby (1969)。\n\n## [B0023] Attachment：需要安全与接近的关系\n\n[B0024] 依恋是儿童与特定照料者之间形成的情感关系。儿童倾向靠近这个人，在其在场时获得安全感，在分离时可能不安。Primary caregiver 指主要承担日常照顾的人，不必限定为母亲，也不意味着儿童只能依恋一个人。\n\n## [B0025] Harlow：食物不是全部解释\n\n\n[B0026 TABLE]\n\n研究元素 | 怎么理解\n\n操纵／比较 | 幼猴接触 wire surrogate（铁丝代理母亲）与 terrycloth surrogate（绒布代理母亲）；把喂食与柔软接触分开比较。\n\n主要发现 | 即使铁丝代理提供奶，幼猴仍明显偏好绒布代理的接触；受惊时也会寻求绒布代理。\n\n理论意义 | Contact comfort（接触安慰）本身重要，不能把依恋完全还原为“谁给食物就爱谁”。\n\n限制 | 代理母亲与隔离环境并非普通家庭；存在严重动物福利问题。猴的结果为人类理论提供线索，不是对人类关系的完整证明。\n\n\n\n## [B0028] Bowlby：依恋的进化功能\n\n[B0029] 依恋系统使脆弱的婴儿在危险、疲倦或陌生情境中寻求保护，因此可能具有 evolutionary survival value。照料者可以成为 secure base（探索的安全基地）与 safe haven（受威胁时返回的避风港）。\n\n[B0030] 理解案例（自拟）  孩子在陌生游乐场先抓紧爸爸，确认爸爸在旁边后去玩，摔倒时再回来求安慰。不是“不独立”，而是安全感支持探索，受威胁时依恋系统重新被激活。\n\n[B0031] ACCURACY  动物 imprinting（印刻）启发了 Bowlby，但人类依恋不是简单复制动物印刻。早期敏感性也不等于“错过某一天便永远无法建立关系”；进化基础更不等于依恋类型由基因固定。\n\n## [B0033] 02 | 依恋怎样发展、怎样观察？\n\n[B0034] Slides 6–8；出生后两年、separation anxiety 与 Strange Situation。\n\n## [B0035] 大致时间线：不是每个儿童的精确时钟\n\n\n[B0036 TABLE]\n\n时期／现象 | 核心含义\n\n新生儿早期社会偏好 | 婴儿会注意人脸等社会信息；社会注意为互动提供基础，但“看脸”本身不是成熟依恋的证明。\n\n约 3 个月 | 课件提到逐渐能视觉辨认主要照料者。辨认、亲近与持续互动共同参与关系发展。\n\n约 7–9 个月起 | Separation anxiety：与熟悉照料者分离时不安。发生时间有个体与文化差异，不能拿单一月份判定正常／异常。\n\n前两年持续发展 | 照料者回应儿童，儿童的气质和行为也影响照料者；关系具有 reciprocal / dynamic 特点。\n\n\n\n[B0038] 讲师用不同文化与视障儿童也可出现分离焦虑，说明这种变化并不只依赖一种特定视觉经验。但“存在成熟因素”不能推导为“某种依恋类型完全由遗传决定”。\n\n## [B0039] Strange Situation：陌生情境程序\n\n[B0040] 常用于约 12–18 个月婴儿。研究者在标准化的陌生环境中观察探索、陌生人出现、短暂分离，以及照料者返回后的反应。任务有多个片段；笔记中的流程是理解性简化。\n\n\n[B0041 TABLE]\n\n观察环节 | 研究者关心什么\n\n照料者在场 | 能否利用其作为安全基地去探索？\n\n分离与陌生人 | 儿童怎样表达压力、寻求帮助？\n\nReunion 重聚 | 是否主动接近？安慰是否有效？是否回避、抵抗或出现矛盾／失序行为？\n\n\n\n[B0043] EXAM  重聚后的行为特别关键。“哭得多＝依恋差”“不哭＝安全”都不成立；要看接近、接受安慰与情绪恢复的整个模式。\n\n[B0044] 理解案例（自拟）  两个孩子分离时都哭。甲在妈妈回来后抱一会儿就继续玩；乙一边抓住妈妈一边推开她，很难平静。相同的哭泣，不代表相同的依恋模式。\n\n## [B0046] 03 | 四种依恋模式：重点看重聚\n\n[B0047] Slide 9；原始三分类与后来补充的 disorganised attachment。\n\n\n[B0048 TABLE]\n\n模式 | 分离／重聚的典型表现 | 不要误记成\n\nSecure / 安全型 | 分离时可能难过；重聚时主动接近并有效获得安慰，随后恢复探索。 | 从来不哭、从来不依赖别人。\n\nAvoidant / 回避型 | 外显痛苦较少；重聚时回避、忽略或较少寻求接近。 | 完全没有情感需要或内在压力。\n\nAmbivalent / resistant / 矛盾／抗拒型 | 分离时明显不安；重聚时既寻求接近又生气或抵抗，难以安抚。 | 只是“比较爱父母”，或故意闹脾气。\n\nDisorganised / 失序型 | 可能出现矛盾、冻结、迷惘或难以整合的接近／回避行为；缺少连贯应对策略。 | 第四种人格、单次奇怪动作，或一个可随意下的临床诊断。\n\n\n\n## [B0050] 比例怎么背才不会错？\n\n[B0051] 课件列出 secure 约 65%、avoidant 约 21%、ambivalent/resistant 约 14%。这是经典三分类的示例分布，三者已合计 100%；不能再把失序型当作同一组样本中的额外百分比，也不能视为所有文化、所有年代的全球固定比例。\n\n[B0052] ACCURACY  Ainsworth 的经典分类主要是前三种；Main 与 Solomon 后来提出失序型分类。考试可按课件掌握四种表现，但不要把四种都写成 Ainsworth 最初同时发现的。\n\n## [B0053] 分类的是关系中的行为模式\n\n[B0054] 观察结果受到儿童、照料者、情境与既往互动共同影响。不能仅凭一次托班送别、一次陌生场合不哭，给儿童贴上终身标签；日常观察也不等于按研究程序完成了可靠编码。\n\n[B0055] 理解案例（自拟）  小朋友在幼儿园门口没哭，却不代表一定是 avoidant。他可能熟悉老师、今天心情平稳，或分离时间很短。研究分类需要比较多个标准化片段，尤其重聚后的行为。\n\n[B0056] MEMORY  安全：接近且能安抚；回避：较少外显寻求；抗拒：要靠近又抵抗；失序：难以形成连贯策略。\n\n## [B0058] 04 | 依恋会改变吗？成年关系呢？\n\n[B0059] Slides 10–13；Groh et al. (2012)、Cyr et al. (2010)、Hazan & Shaver (1987)。\n\n## [B0060] Continuity ≠ destiny：连续性不等于命运\n\n[B0061] 早期关系可影响对他人是否可靠、自己是否值得被照顾的期待，即 internal working models（内部工作模型）。这些期待能影响后续互动，但中童期经验、生活事件、关系变化与支持性环境也能改变发展路径。\n\n[B0062] 研究中不安全依恋与部分情绪、行为困难存在关联；这不是每个不安全依恋儿童都会出问题。高风险环境中也有安全依恋儿童，说明保护因素与个体差异不能忽略。\n\n## [B0063] 成年浪漫关系：有相似逻辑，但不是同一测验\n\n\n[B0064 TABLE]\n\n课堂中的成人类比 | 常见关系倾向\n\nSecure | 较能信任、互相依靠，也容许彼此独立；有困难时能寻求支持。\n\nAnxious / ambivalent | 较担心被抛弃，容易反复确认关系、嫉妒或对关系威胁高度敏感。\n\nAvoidant | 较强调自我依赖、压低依赖需要，可能不愿寻求或接受亲密支持。\n\n\n\n[B0066] CRITIQUE  成人问卷／关系叙述与婴儿 Strange Situation 不是同一测量方法；相似名称不构成一对一预测。也不能根据一个人的分手反应，倒推出婴儿期类型或父母行为。\n\n## [B0067] 为什么不能只画“婴儿类型 → 成人结局”？\n\n[B0068] 家庭冲突、照料质量、创伤、压力、父母与儿童特点等可能同时影响早期依恋和后续适应；后来的伴侣行为还会反馈改变关系体验。研究需要拆开这些路径，而非把所有关联都归因于最初的标签。\n\n[B0069] 理解案例（自拟）  一个早年很难信任别人的学生，在长期稳定的友谊中逐渐愿意求助。新经验不代表早期经验“不重要”，而是说明工作模型会被后续互动更新。\n\n[B0070] EXAM  稳妥表述：early attachment may shape later expectations, but outcomes depend on continuing relationships and contexts。\n\n## [B0072] 05 | 友谊怎样随年龄变化？\n\n[B0073] Slides 15–17；friendship、同伴性别偏好及因果辨析。\n\n## [B0074] Friendship：从一起玩到彼此理解\n\n\n[B0075 TABLE]\n\n大致发展重点 | 友谊意味着什么 | 日常表现\n\n约 6 岁及以前 | 共享活动与即时互惠较突出。 | “他肯借我玩具，我们一起玩。”\n\n约 7–12 岁 | 陪伴、承诺、互相支持逐渐重要。 | “她会帮我，也会在我困难时站在我这边。”\n\n青少年 | 亲密、自我表露、信任与脆弱感更加突出。 | “我可以告诉他我的担心，不怕被取笑。”\n\n\n\n[B0077] 这是发展重点的变化，不是所有儿童按生日突然跳级。年幼儿童也能关心朋友；青少年仍然会因为共同活动结交。文化、经历与具体关系影响各要素出现的时间和程度。\n\n## [B0078] 为什么常见同性别朋友？\n\n[B0079] 可能有共同活动与兴趣，也可能受到成人分组、玩具标签、同伴规范和接触机会影响。偏好并不能独自证明某种活动“天生属于男孩／女孩”；观察到群体平均差异，也不能预测每个人。\n\n[B0080] 课件引用双生子研究讨论 sex-typed behaviour：同卵双生子比异卵双生子更相似，支持被研究行为存在一定遗传贡献。但遗传贡献是特定人群和环境中的统计概念，并不等于文化角色固定，或经验无法改变行为。\n\n[B0081] ACCURACY  课堂关于跨性别友谊比例提到了不同时期的数字，来源与样本不完全对应。复习以“常见同性别聚集及多重解释”为重点，不把某个比例当作当前普遍事实。这里的跨性别友谊指不同性别之间的友谊，不是专指 transgender 身份。\n\n[B0082] 理解案例（自拟）  班级把男孩都分到足球区、女孩都分到手工区，一段时间后发现大家更常结交同性别朋友。不能只说这是先天偏好，因为活动安排已改变谁有机会互相认识。\n\n[B0083] APPLICATION  分析关系先问：儿童主动选择了谁？环境又让他能接触到谁？Selection 与 opportunity 往往同时存在。\n\n## [B0085] 06 | 同伴地位：受欢迎、被拒绝与被忽视\n\n[B0086] Slides 18–19；peer status、dominance hierarchy。\n\n## [B0087] Popular 不只是“有权力”\n\n[B0088] 群体中存在地位差异；学龄前儿童已能利用说话方式、身体姿态、资源控制等线索识别支配关系。Dominance 指相对的权力或控制地位；sociometric popularity 指被喜欢或接纳。两者可能相关，但不能直接画等号。\n\n\n[B0089 TABLE]\n\n类型 | 关键区别 | 课堂中的结果倾向\n\nPopular / 受欢迎 | 获得较多接纳／喜欢；不等于每次都最强势。 | 通常有较好的同伴融入；仍须看具体测量的是喜欢还是声望。\n\nRejected / 被拒绝 | 被主动不喜欢或排斥；可能被欺负，也可能自己有攻击行为。 | 平均而言更多行为、学业或心理适应风险；群体内部差异很大。\n\nNeglected / 被忽视 | 较少被提名、注意或互动；不等于被主动讨厌。 | 一些儿童较独立、守规或学业表现良好，但不能据此认定他们都不孤独。\n\n\n\n## [B0091] 为什么要把 rejected 与 neglected 分开？\n\n[B0092] 前者包含明显的负向同伴评价，后者主要是低可见度。若把两者都叫“没朋友”，会掩盖不同的处境与支持需要。评价风险时还要看儿童自身感受、实际关系、学校环境和行为，而不只看标签。\n\n[B0093] 理解案例（自拟）  小林下课常独自画画，别人没有排斥他，他也有一位好友；小周想加入游戏，却经常被明确赶走。两人都可能很少出现在大群体里，但前者更接近被忽视，后者更接近被拒绝。\n\n[B0094] CRITIQUE  同伴拒绝可能增加问题风险，已有的攻击或退缩行为也可能引发拒绝。双向关系与共同因素意味着“被拒绝造成所有困难”并不是研究结果本身。\n\n[B0095] EXAM  对比题抓住一个轴：主动不喜欢（rejected）vs 很少被注意（neglected）；再补一句两者都不能单凭标签判断个人心理状况。\n\n## [B0097] 07 | 手足关系与出生顺序\n\n[B0098] Slides 20–23；resource competition、birth-order theories 与 mixed evidence。\n\n## [B0099] 新成员到来：资源与关系一起变\n\n[B0100] 手足既可能竞争时间、注意与物质资源，也能提供陪伴、示范、照顾和冲突协商的经验。一般的亲生全同胞平均共享约 50% 的遗传变异；这不是说两个人“只有一半全部 DNA 相同”，也不能套用于所有手足关系。\n\n[B0101] 弟妹出生后，年长儿童可能短暂更依赖照料者、焦虑、表现敌意或出现退行，例如原本已控制的尿床再次发生。这是可能反应，不是所有家庭必经的固定阶段。\n\n## [B0102] 出生顺序理论提出了什么？\n\n\n[B0103 TABLE]\n\n假设 | 合理的机制问题 | 不能直接当成事实的标签\n\nFirst-born | 早期有独享注意的时期；父母经验相对少。 | 老大必然负责、尽责、最聪明。\n\nLater-born | 注意被分配；可向兄姐学习，也可能寻找不同角色。 | 老二／老三必然反叛、有创造力。\n\nOnly child | 没有同住手足，但仍可有丰富同伴与成人互动。 | 独生子女必然自私或被宠坏。\n\n\n\n## [B0105] 研究结论为什么不能只靠刻板印象？\n\n[B0106] 家庭大小、社会经济条件、父母投入与年龄间隔可能与出生顺序交织。大型研究并未支持出生顺序对广泛人格特质有稳定、明显的影响；部分研究保留了很小的平均智力差异，但小的群体均值差异不足以判断个人。\n\n[B0107] ACCURACY  课堂关于 IQ 的口头表述不宜照抄：现代常见 IQ 测验有标准化常模，通常把平均值设为 100，不是 90。测量有局限，不等于测验没有标准化。\n\n[B0108] 理解案例（自拟）  你家老大做事认真、老二爱冒险，这能描述这两个人，不能证明出生顺序是原因。也许父母对两人的要求不同、同伴环境不同，或只是个体差异。\n\n[B0109] EXAM  Resource dilution：人均资源可能减少；sibling interaction：手足也增加学习机会。写机制时两边都考虑，比“老大／老二人格表”更有解释力。\n\n## [B0111] 08 | 父母工作与托育：关键不只是时长\n\n[B0112] Slides 24–31；parental employment、childcare quality and stability。\n\n## [B0113] “工作父母比较不关心孩子”有证据吗？\n\n[B0114] 课件的历史图显示母亲就业随年代与最小子女年龄而变化，但趋势图本身不告诉我们儿童结果。课堂综述并不支持“母亲工作必然降低照料质量／导致孩子违法”的简单担忧；一些研究还发现较平等的性别观念、女孩更高的职业抱负等关联。\n\n\n[B0115 TABLE]\n\n要分开的因素 | 为什么重要\n\n工作条件 | 夜班、晚班、不可预测排班、工作压力与弹性，会以不同方式影响家庭节奏。\n\n家庭资源与支持 | 收入、另一照料者参与、亲友支持可能缓冲压力，也影响谁能选择某种工作安排。\n\n实际照料质量 | 是否敏感回应、稳定互动、有时间交流，比“就业／未就业”二分法更接近机制。\n\n托育质量与稳定性 | 人员稳定、安全、回应性互动与适合儿童的活动重要；不稳定或低质量照料可能伴随不利结果。\n\n\n\n[B0117] 部分研究发现兼职与更敏感的教养、较少抑郁症状相关，但不能推出兼职是每个家庭的最佳方案。工作选择并非随机分配，资源、偏好与原有健康状况都可能影响结果。Latchkey children 指放学后暂时无人看护的儿童，不是“问题儿童”的同义词。\n\n## [B0118] 怎样读托育类别图？\n\n[B0119] 课件区分独立 preschool、设在 centre-based day care（CBDC）中的学前项目，以及多个提供者。它描述服务形式，不是质量排名；不能因为属于某种机构就认定课程更好、更差或没有结构。\n\n[B0120] 理解案例（自拟）  甲每天托育较久，但老师稳定且经常回应和交谈；乙时间短，却频繁换照料者。仅比较小时数，可能漏掉真正影响儿童体验的质量与连续性。\n\n[B0121] EXAM  论点：effects depend on quality, stability and family context。优质托育可能尤其有利于资源较少的儿童，但这不是“时间越长越好”。\n\n## [B0123] 09 | 屏幕使用：先问在看什么、怎么用\n\n[B0124] Slides 32–33, 37；media context 与 displacement。\n\n## [B0125] 描述性统计不等于因果解释\n\n[B0126] 课件 ABS 图描述 2023 年澳大利亚 2–5 岁儿童的日均静态屏幕时间，排除已上学的 5 岁儿童。图中 1–1.5 小时区间占比最高；这一分布不能单独说明屏幕造成了什么，也不能直接当成个体健康建议。\n\n## [B0127] Media context：同一小时可以很不同\n\n\n[B0128 TABLE]\n\n维度 | 分析时可以问什么\n\nContent 内容 | 教育性、暴力性、幻想程度、语言与情节是否适龄？\n\nEngagement 参与 | 儿童只是连续被动观看，还是回答、预测、讨论并联系生活？\n\nCo-viewing 共看 | 照料者是否真正解释和互动，而不仅是坐在同一个房间？\n\nChild & setting | 年龄、已有能力、情绪、独自还是陪伴使用，是否影响理解？\n\nDisplacement 替代 | 占用了睡眠、运动、学习、自由游戏，还是亲子交谈的时间？\n\n\n\n[B0130] 讲师对互动式与较被动节目的比较，是为了说明参与方式。不能把某个节目品牌当成普遍有效的学习干预。共看如果包含提问、解释与对现实的连接，可能帮助理解；效果仍取决于内容、儿童与研究设计。\n\n[B0131] 理解案例（自拟）  看完“分享玩具”的片段后，家长问“如果你是他，会怎么做？”再用玩具演一遍。可能有帮助的机制是交流与练习，而不是屏幕自动把“分享能力”下载给孩子。\n\n## [B0132] Displacement：有限时间里的机会成本\n\n[B0133] 屏幕不一定要直接损害某种能力，也可能通过挤占其他有益活动产生影响。比较屏幕时长与成绩时，还要考虑原有学习困难、家庭作息和监督方式；不能只看到相关就宣称屏幕导致成绩下降。\n\n[B0134] EXAM  解释混合结果时，具体写出一个调节条件和一个替代活动，比笼统写“每个人不同”更有分量。\n\n## [B0136] 10 | 暴力、节奏与幻想：别混成一种效应\n\n[B0137] Slides 34–37；Anderson (2022)、Drummond et al. (2020) 及节奏研究。\n\n## [B0138] 暴力媒体的三种解释机制\n\n\n[B0139 TABLE]\n\n机制 | 通俗理解\n\nPriming 启动 | 刚看过的攻击性线索，使攻击相关想法暂时更容易被想到。\n\nDesensitisation 脱敏 | 重复接触后，对暴力的情绪反应可能变弱。\n\nSocial learning 社会学习 | 观察角色的行为及其后果，学习可能的行动脚本；可联系 Bandura 的模仿研究。\n\n\n\n[B0141] 机制说明“为什么可能发生”，不等于已经证明长期现实暴力。课堂区分短期攻击相关任务结果与长期关联：前者可发现效应，后者证据更不一致、可能较小。攻击词补全、实验室任务、日常攻击和严重暴力犯罪不是同一结果变量。\n\n[B0142] CRITIQUE  原有攻击倾向可能影响媒体选择，家庭与同伴环境也可能同时影响两者。避免两个极端：“暴力游戏必然导致犯罪”与“任何影响都已被证明不存在”。\n\n## [B0143] Pace 与 fantasy 必须拆开\n\n[B0144] 快节奏通常涉及更多镜头切换、声效或事件变化；幻想程度涉及违反现实规则的内容。二者常一起变化，因此不同节目的比较未必能单独识别节奏效应。相同剪辑频率也未必产生相同的主观节奏体验。\n\n[B0145] 课堂提到有关节奏的综述与新研究结果混合；有些研究发现幻想内容观看后的短期 executive function 差异。不能把短时任务表现推广成长期脑损伤，也不能用“快节奏有害”解释所有内容差异。\n\n[B0146] 理解案例（自拟）  研究让一组看快速剪辑的魔法冒险，另一组看慢节奏真实生活片，随后比较抑制控制。即使两组不同，也难判断原因是剪辑、幻想、情绪唤起还是情节难度；更好的设计应尽量分别操纵这些因素。\n\n[B0147] EXAM  写出 operationalisation（操作化）：暴力／快节奏如何定义？攻击／执行功能怎样测？效应持续多久？这三问可避免过度结论。\n\n## [B0149] 11 | 家庭多样性：把研究设计说清楚\n\n[B0150] Slides 39–43；same-sex parent families、Crouch et al. (2014)。\n\n## [B0151] 研究重点是家庭过程，而不是先给家庭贴优劣标签\n\n[B0152] 儿童的发展与照料、支持、资源、关系和社会环境有关。课堂资料没有提供“父母 LGBTQIA+ 身份本身必然直接损害儿童”的证据。纪录片能帮助理解生活经验，但个案与历史处境不能代替代表性研究。\n\n\n[B0153 TABLE]\n\nCrouch et al. (2014) | 考试可用信息\n\n设计 | 澳大利亚横断面问卷；由父母报告儿童健康、适应与家庭情况，并与总体常模比较。\n\n样本 | 315 位同性吸引的父母，报告涉及 500 名 0–17 岁儿童。不是 315 对夫妻，也不是随机分配的家庭。\n\n结果概括 | 多数指标相近，一些健康／家庭指标更高；不支持把这类家庭一概视为儿童发展劣势。\n\n关键限制 | 自愿参与与样本选择、父母自报、横断面和常模比较限制因果推断；同家庭儿童也不完全独立。\n\n\n\n## [B0155] Stigma：环境中的压力，而非身份本身\n\n[B0156] 课堂讨论歧视、污名与较差的心理健康、身体活动或家庭凝聚力之间的关联。孩子可能直接受到排斥，也可能通过父母压力和家庭互动受到影响；支持性学校、同伴和社会资源可能提供缓冲。\n\n[B0157] ACCURACY  相关研究中的内化症状风险应联系遭遇的恐同／歧视经验理解，而不是写成“同性父母的孩子都更内化”。反过来，某些平均指标较好也不证明父母性取向自动造成优势。\n\n[B0158] 理解案例（自拟）  两名儿童都由两位妈妈照顾，一所学校接纳多样家庭，另一所经常出现嘲笑。如果结果不同，学校氛围与污名经历就是需要检验的解释，而非只盯着父母身份。\n\n[B0159] 家庭形成方式还可能包括收养、辅助生育、代孕或此前关系中的子女；不能把这些不同经历压成一个完全同质的类别。纪录片中的旧法律与社会背景，应按历史材料理解。\n\n## [B0161] 12 | 群体偏见如何开始？\n\n[B0162] Slides 44–47；Developmental Intergroup Theory，Bigler & Liben (2007)。\n\n## [B0163] DIT：差异如何变得“重要”？\n\n[B0164] 儿童会注意可见差异，但社会环境决定哪些差异常被命名、分组和赋予价值。成人反复使用群体标签、按群体隔离活动，或区别对待成员，都可能增加 category salience（类别显著性），促使儿童把差异理解为有社会意义的边界。\n\n[B0165 FIGURE] DEVELOPMENTAL INTERGROUP THEORY  理解性流程。注意到差异：哪些线索显眼？，见过哪些面孔？，接触机会如何？；分类有了意义：成人怎样称呼？，谁和谁分在一起？，是否区别对待？；形成群体评价：概括群体特征，产生好恶与期待，影响选择和行为\n\n[B0166] 机制图：不是所有儿童都必然走向偏见，也不是三个互不重叠的固定年龄阶段。\n\n## [B0167] 婴儿注意与辨认的早期证据\n\n[B0168] 约 3 个月时，可出现对熟悉／本族群面孔的偏好；约 3–4 个月能在某些任务中区分男性与女性面孔。照料者及日常接触经验重要。“看得更久”不是已经理解成人意义上的种族、性别身份或产生敌意。\n\n[B0169] Johnson 等研究中，9–12 个月婴儿未能像成人一样把声音与点光生物运动中的性别线索匹配。说明一种视觉区分能力不能直接等同于跨感觉通道、抽象而完整的分类知识。\n\n[B0170] 理解案例（自拟）  老师总说“男孩排这里，女孩排那里”，却从不按鞋子颜色分组。儿童可能学到性别是组织生活的重要线索；不是所有可见差异都会自然获得同样的重要性。\n\n## [B0172] 13 | 分类、刻板印象、偏见：三个层次\n\n[B0173] Slides 48–54；categorisation、gender constancy、Devine (1989)。\n\n## [B0174] Categorisation：能区分，不等于已经讨厌\n\n[B0175] 课件介绍婴儿约 9 个月的面孔族群分类，以及约 3 岁的性别自我标签、约 6 岁经典任务中的 gender constancy。年龄反映特定任务表现，不能当成任何儿童都一致的期限。\n\n[B0176] ACCURACY  性别恒常性任务强调“衣服、发型等表面改变不会自动改变一个人的性别”。它不证明所有人的性别身份一生固定，也不代表儿童 6 岁前不会出现任何性别偏好或偏见。\n\n\n[B0177 TABLE]\n\n概念 | 定义 | 理解案例（自拟）\n\nStereotype / 刻板印象 | 对群体特征的简化概括，可正面也可负面；不一定适用于某成员。 | “这个群体的人都很会数学。”\n\nPrejudice / 偏见 | 基于群体成员身份的负面评价或态度。 | “因为他属于那个群体，我就不喜欢他。”\n\nDiscrimination / 歧视（辨析补充） | 基于群体身份作出不平等对待的行为。 | “即使成绩相同，也不让那个群体的人入队。”\n\n\n\n## [B0179] 知道一种刻板印象 ≠ 赞同它\n\n[B0180] Devine 的关键区分是文化知识与个人信念。一个人可以知道社会上流传什么看法，却明确反对它；某些自动联结也可能在有意识纠正前被激活。反之，不能把所有刻板印象都说成无意识、所有偏见都说成有意识。\n\n[B0181] 熟悉面孔偏好还可能来自接触频率与知觉经验。由“更愿意看熟悉的脸”跳到“天生歧视陌生族群”，跨越了测量与理论之间好几步。\n\n[B0182] 理解案例（自拟）  学生能说出“社会上有人认为女生不擅长理科”，同时完全不认同。若考题只问他是否知道这句话，测到的是刻板印象知识，不是赞同程度。\n\n[B0183] EXAM  把 cognitive belief（认知概括）、evaluation（评价）与 behaviour（行为）分开写；现实中它们会相互影响，但不是同一个概念。\n\n## [B0185] 14 | 隐性与显性：为什么答案可能不同？\n\n[B0186] Slides 55–56；Child IAT、Baron & Banaji (2006)、Kinzler & Spelke (2010)。\n\n## [B0187] Child IAT：用反应时观察联结\n\n[B0188] 儿童版 Implicit Association Test 用分类任务测量不同配对的相对容易程度。例如一轮把白人面孔与“好”分到同一反应键，黑人面孔与“坏”分到另一键；另一轮交换配对。儿童版可采用音频词汇降低阅读要求。\n\n[B0189] 比较两种配对的反应速度与错误模式，可以估计任务中的相对自动联结。它不是直接读取内心，也不是给某个人盖上“种族主义者”印章；任务理解、情境和测量可靠性都需要考虑。\n\n\n[B0190 TABLE]\n\nExplicit measures | Implicit measures\n\n明确说出喜欢谁、愿意和谁交朋友，或报告自己的信念。 | 从反应时等表现估计相对自动联结，不直接询问是否赞同。\n\n受到真实态度、规范意识、自我呈现和回答控制能力等影响。 | 可能反映学习到的文化联结；不必与刻意认同完全一致。\n\n\n\n## [B0192] 经典年龄比较发现什么？\n\n[B0193] Baron 与 Banaji 比较美国白人 6 岁、10 岁儿童及成人：该研究中，显性种族偏好随年龄减弱，而隐性联结幅度较相近。Kinzler 与 Spelke 的相关研究也在特定样本与任务中观察到白人幼儿的同族群朋友偏好。\n\n[B0194] CRITIQUE  这是特定社会、样本与测量中的结果。年龄组比较不是追踪同一批人一生，不能写成“所有人的隐性偏见终生不会改变”。显性下降也不自动等于内心完全改变，或每个人都只是在说谎。\n\n[B0195] 理解案例（自拟）  某儿童说“任何人都能成为我的朋友”，但分类任务中仍对某种配对反应更快。可解释为明确价值与已学习的自动联结尚未一致；不能只凭这一点推断他一定会排斥具体同学。\n\n[B0196] SOURCE NOTE  提供的文字稿在本部分、讲师准备结束时中断；接下来两页为 slides 57–62 的课件补充。\n\n## [B0198] 15 | 课件补充：偏见会造成什么影响？\n\n[B0199] Slides 57–59｜课件补充；不作为文字稿中已完整讲授的内容。\n\n## [B0200] 同群体偏好与性别规范\n\n[B0201] 课件介绍同一性别伙伴互动中的积极情绪，以及“觉得自己符合本性别典型特征”与对另一性别同伴／活动负面评价之间的关联。应把它理解为群体认同、经验与规范压力相关的研究结果，而不是每个人都该符合某种性别标准。\n\n## [B0202] 三个容易混淆的影响路径\n\n\n[B0203 TABLE]\n\n概念 | 核心机制 | 区别\n\nInternalisation / 内化刻板印象 | 把群体负面说法变成对自己的看法。 | “别人说我们不行，也许我真的不行。”\n\nStereotype threat / 刻板印象威胁 | 担心自己在某情境中的表现会证实负面群体刻板印象。 | 即使不相信该刻板印象，也可能担心被那样评价。\n\nChronic stress / 慢性压力 | 反复遭遇排斥与不安全感，可能长期消耗心理与生理调节资源。 | 不是一次不愉快就必然导致某种疾病。\n\n\n\n[B0205] 心理影响可以包括更差的心理健康与归属感；生理讨论涉及 HPA axis（下丘脑—垂体—肾上腺轴）、皮质醇调节和炎症相关路径。课件呈现的是复杂的风险机制，不能简化成“被歧视 → 皮质醇永远升高 → 必然患病”。\n\n[B0206] 理解案例（自拟）  考前有人强调“你这个群体通常不擅长这种题”。学生不赞同，却开始担心答错会代表整个群体，注意力被担忧占用。这说明 threat 不要求先相信负面刻板印象。\n\n[B0207] ACCURACY  Internalisation 与 stereotype threat 不能互相替代。前者是接受负面信念，后者是情境中的评价威胁；两者可能同时出现，但机制不同。\n\n[B0208] EXAM  回答“偏见为何重要”时，可分心理、表现与生理风险三层；每层写具体路径，并保留“可能”“关联”“受情境影响”。\n\n## [B0210] 16 | 课件补充：偏见如何被环境强化？\n\n[B0211] Slides 60–62｜课件补充；systemic reinforcement、家庭、教师与性别社会化。\n\n## [B0212] 不只存在于个人脑中\n\n[B0213] 儿童接触的媒体、学校规则、家庭语言与同伴规范，持续提供“谁属于哪里、谁应该做什么”的线索。群体边界可通过日常安排得到重复，即使成人没有明确说“某群体不好”。\n\n\n[B0214 TABLE]\n\n来源 | 强化机制 | 可以怎样识别\n\nMedia & selection | 选择性接触熟悉或符合原有看法的内容，减少反例。 | 总看到某群体扮演同一种角色。\n\nParents ↔ adolescents | 父母和青少年的态度可能双向影响。 | 孩子也会把学校、同伴的看法带回家庭。\n\nTeachers & institutions | 期待、评价、分组和资源分配可能反复标记群体差异。 | 对相同行为作不同解释，或默认某群体更适合某任务。\n\nGender socialisation | 成人语言、对外貌与游戏的反馈，以及同伴压力，传递什么被认为“合适”。 | 对男孩女孩不同的夸奖、玩具推荐与惩罚。\n\n\n\n[B0216] 课件引用 Bem 的 gender schema 思路与社会学习观点：儿童既观察奖惩，也主动用类别组织经验。持续的兴趣或身份表达可以存在，但群体层面的相对连续性不等于每个人都固定不变。\n\n[B0217] 理解案例（自拟）  同样主动指挥游戏，男孩被夸“有领导力”，女孩被说“太强势”。重复反馈可能改变儿童愿意尝试的角色，也影响旁观同伴对性别的期待。\n\n## [B0218] 把全讲连起来\n\n[B0219] 依恋显示儿童在关系中获得安全；同伴与家庭提供支持与社会位置；媒体与制度提供类别和价值线索。发展由这些持续互动构成，而不是单一的父母身份、出生顺序、屏幕分钟或婴儿标签决定。\n\n[B0220] APPLICATION  分析干预时优先指向可改变的情境：稳定回应、支持性关系、平等接触机会、减少无必要的群体分隔、检视差别反馈。这里是基于课堂机制的应用思路，不是效果已获保证的干预方案。\n\n## [B0222] 17 | 自测题 A：关系与家庭\n\n[B0223] 先盖住答案尝试口述。题目为复习练习，不是讲师公布的考试题。\n\n## [B0224] 1. Harlow 的结果反驳了哪一种过度简单的解释？\n\n[B0225] 参考答案：依恋完全由喂食强化决定。幼猴偏好绒布代理说明 contact comfort 本身重要；不能进一步说食物不重要。\n\n## [B0226] 2. 为什么 Strange Situation 不能只看分离时哭不哭？\n\n[B0227] 参考答案：不同模式都可能哭或不哭；关键还包括重聚时的接近、回避、抵抗及安抚后的恢复。\n\n## [B0228] 3. 重聚时主动抱住照料者，很快平静并继续探索，最符合什么？\n\n[B0229] 参考答案：Secure attachment。依据是有效利用照料者调节压力、恢复探索，而不是是否出现过哭泣。\n\n## [B0230] 4. “回避型没有依恋需要”错在哪里？\n\n[B0231] 参考答案：把少量外显寻求误当作没有内在需求或压力。分类描述观察到的行为策略，不直接读取所有内在体验。\n\n## [B0232] 5. 婴儿依恋与成人关系有相似模式，为什么仍不能一对一预测？\n\n[B0233] 参考答案：测量不同；后续经验可改变工作模型；家庭风险等共同因素也影响两端。关联不等于终身确定性。\n\n## [B0234] 6. Rejected 与 neglected 的最简区别？\n\n[B0235] 参考答案：Rejected 是主动被不喜欢／排斥；neglected 是较少被注意。低互动不一定等于被讨厌。\n\n## [B0236] 7. 老大更负责、老二更反叛，能当作研究结论吗？\n\n[B0237] 参考答案：不能。出生顺序的人格刻板印象缺乏稳健普遍支持；家庭大小、资源与教养等存在混淆。\n\n## [B0238] 8. 什么证据可反驳“父母工作必然伤害孩子”？\n\n[B0239] 参考答案：研究并未一致支持这种直接劣势；结果取决于工作条件、照料质量与家庭资源。有些关联甚至积极，但也不证明工作必然有益。\n\n## [B0240] 9. 两所托育中心服务时长不同，为什么不能据此排优劣？\n\n[B0241] 参考答案：还需比较人员与照料稳定性、回应性、活动质量和家庭背景；机构类型与小时数都不是质量本身。\n\n[B0242] CHECK  答题不能只报术语：至少给一个行为依据，或指出一个具体的替代解释。\n\n## [B0244] 18 | 自测题 B：媒体与群体态度\n\n[B0245] 练习从“结果”回到“测量、机制、限制”。\n\n## [B0246] 10. 玩暴力游戏与攻击相关词反应更快，证明了什么？\n\n[B0247] 参考答案：支持短期攻击相关联结／启动的可能，不直接证明长期现实暴力或犯罪增加。\n\n## [B0248] 11. 快剪辑魔法片与慢节奏真实片比较，有什么设计问题？\n\n[B0249] 参考答案：节奏与幻想等内容特征混在一起；组间差异未必由节奏独立造成。\n\n## [B0250] 12. 什么是 screen displacement？\n\n[B0251] 参考答案：屏幕使用挤占其他活动的时间，例如运动、学习或亲子交流；关注被替代的具体活动，而非只数分钟。\n\n## [B0252] 13. Crouch 等研究支持“同性父母造成更好儿童发展”吗？\n\n[B0253] 参考答案：不支持因果结论。它是横断面父母报告与常模比较；选择偏差、报告来源、家庭差异都要考虑。\n\n## [B0254] 14. 婴儿偏好熟悉族群的面孔，能直接叫种族偏见吗？\n\n[B0255] 参考答案：不能。注视偏好可能反映熟悉与知觉经验；不等于负面态度、敌意或成熟的群体概念。\n\n## [B0256] 15. 知道社会上的刻板印象，等于认同吗？\n\n[B0257] 参考答案：不等于。文化知识、自动联结和个人认可需要分别测量。\n\n## [B0258] 16. “我不喜欢那个群体”和“我不让他们参加”分别是什么？\n\n[B0259] 参考答案：前者是 prejudice 的负面评价；后者是 discrimination 的差别对待行为。\n\n## [B0260] 17. 显性偏见随年龄下降、隐性联结类似，能推出终身不变吗？\n\n[B0261] 参考答案：不能。年龄组横断面差异不是同一人的终身轨迹，样本和任务也有限。\n\n## [B0262] 18. 不相信负面刻板印象，也可能有 stereotype threat 吗？\n\n[B0263] 参考答案：可以。担心被评价或被看作证实群体刻板印象即可，与自己是否接受该信念不同。\n\n[B0264] TRANSFER  用四句练习回答：社会环境为什么能改变儿童对群体的态度？提示：类别显著性、分组／反馈、接触机会、反例与支持。\n\n## [B0266] 19 | 英中术语表：看到英文就能认题\n\n[B0267] 按主题检索；中文是理解性翻译，不替代英文关键词。\n\n\n[B0268 TABLE]\n\nEnglish term | 中文与最短解释\n\nSocial development | 社会发展：在人际互动与关系中的发展。\n\nPrimary caregiver | 主要照料者：主要负责日常照料的人。\n\nAttachment / contact comfort | 依恋／接触安慰：关系安全与柔软接触带来的安慰。\n\nSecure base / safe haven | 安全基地／避风港：支持探索／受威胁时返回求安慰。\n\nSeparation anxiety / reunion | 分离焦虑／重聚：离开照料者的不安／照料者返回。\n\nStrange Situation | 陌生情境程序：观察分离与重聚的标准化研究任务。\n\nSecure / avoidant | 安全型／回避型：有效寻求安慰／较少外显接近。\n\nAmbivalent / resistant | 矛盾／抗拒型：寻求接近同时抵抗、难以安抚。\n\nDisorganised attachment | 失序型依恋：缺乏连贯应对策略的矛盾或失序表现。\n\nInternal working model | 内部工作模型：关于自己与他人可否依靠的关系期待。\n\nSelf-disclosure / intimacy | 自我表露／亲密：分享内在经验与建立深层信任。\n\nDominance / peer status | 支配地位／同伴地位：权力控制／群体中的社会位置。\n\nRejected / neglected | 被拒绝／被忽视：主动不喜欢／较少被注意。\n\nBirth order / resource dilution | 出生顺序／资源稀释：手足次序／人均资源被分配。\n\nCo-viewing / displacement | 共同观看／替代效应：互动观看／挤占其他活动。\n\nPriming / desensitisation | 启动／脱敏：联结暂时更易提取／重复接触后反应减弱。\n\nCategory salience | 类别显著性：某种分类在环境中有多突出、有多重要。\n\nStereotype / prejudice | 刻板印象／偏见：群体概括／负面群体评价。\n\nDiscrimination / stigma | 歧视／污名：差别对待行为／群体被社会贬低的处境。\n\nImplicit / explicit measures | 隐性／显性测量：从任务推估联结／直接表达报告。\n\nInternalisation / stereotype threat | 内化／刻板印象威胁：接受负面信念／担心证实刻板印象。\n\nConfound / bidirectionality | 混淆变量／双向作用：第三因素影响比较／两端互相影响。\n\n\n\n## [B0271] 20 | 回课件定位与易错清单\n\n[B0272] 页码均指 Dev Lecture 2.pdf 的 PDF 页／slide 序号。\n\n\n[B0273 TABLE]\n\n课件位置 | 对应本笔记章节\n\n2–5；6–9；10–13 | 01 依恋理论；02–03 发展、程序与类型；04 稳定性与成年关系。\n\n15–17；18–19；20–23 | 05 友谊；06 同伴地位；07 手足与出生顺序。\n\n24–31；32–37 | 08 工作与托育；09–10 媒体内容、暴力、节奏与替代。\n\n39–43；44–47 | 11 家庭多样性；12 DIT 与早期社会知觉。\n\n48–54；55–56 | 13 分类和概念辨析；14 隐性／显性与儿童 IAT。\n\n57–62 | 15–16 课件补充：群体偏好、偏见影响及环境强化。\n\n\n\n## [B0275] 最后再检查这六个句子\n\n[B0276] “不哭就是安全依恋。”——错：看重聚与安抚模式。\n\n[B0277] “出生顺序决定人格。”——错：宏大人格标签缺少稳健支持，小平均差异不能预测个人。\n\n[B0278] “屏幕越多，长期伤害必然越大。”——过度：须拆开内容、情境、替代活动和研究设计。\n\n[B0279] “同性父母的孩子出现困难，是父母身份造成的。”——不能这样推论：污名、支持、资源等路径必须检验。\n\n[B0280] “能分辨群体就等于有偏见。”——错：知觉／分类不等于负面评价。\n\n[B0281] “隐性任务结果等于一个人的完整道德品质。”——错：它是特定测量下的相对联结，不是人格判决。\n\n## [B0282] 关键核对文献与进一步查阅\n\n[B0283] 主要学习材料：Kumada，Dev Lecture 2，62 页课件；配套 Lecture 6 文字稿。课堂列举的研究用于理解课程论点，非穷尽性文献综述。\n\n[B0284] Crouch et al. (2014). Parent-reported measures of child health and wellbeing in same-sex parent families. 核对设计及 315 位父母／500 名儿童：https://pmc.ncbi.nlm.nih.gov/articles/PMC4082299/\n\n[B0285] Rohrer et al. (2015). Examining the effects of birth order on personality. 核对人格与智力结论：https://doi.org/10.1073/pnas.1506451112\n\n[B0286] Baron & Banaji (2006). The development of implicit attitudes. 核对年龄组、样本与隐显性比较：https://pubmed.ncbi.nlm.nih.gov/16371144/\n\n[B0287] Infant disorganized attachment: Clarifying levels of analysis (2017). 核对分类历史与解释边界：https://pmc.ncbi.nlm.nih.gov/articles/PMC5641982/\n\n[B0288] Steele & Aronson (1995). Stereotype threat and the intellectual test performance of African Americans. 概念核对：评价威胁不要求赞同刻板印象。DOI: 10.1037/0022-3514.69.5.797",
+  "sourceHash": "168b71ad9bdc233491897f57e114066a5106601950bee5c58a4cff021836ed61"
+}
