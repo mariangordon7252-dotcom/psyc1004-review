@@ -1,0 +1,1676 @@
+{
+  "lectureId": 10,
+  "points": [
+    {
+      "id": "L10-P01",
+      "title": "人格 × 情境：交互作用与特质、状态焦虑",
+      "titleEn": "Person–situation interaction; trait vs state anxiety",
+      "conceptIds": [
+        "L10-C01",
+        "L10-C02"
+      ],
+      "kp": "人格（人带进情境的相对持久特征）和情境各解释一部分行为，同时考虑二者的交互作用（interaction）通常解释更多。状态焦虑（state anxiety）是此刻是否焦虑；特质焦虑（trait anxiety）是更易被诱发焦虑的倾向。",
+      "howTo": "选项说「全部由人格或情境解释」一律排除。「同一情境对不同人影响大小不同」是交互；「此刻」是状态，「更容易、长期倾向」是特质。",
+      "items": [
+        {
+          "stemEn": "Which term refers to how anxious a person feels at this particular moment?",
+          "optionsEn": [
+            "Trait anxiety",
+            "State anxiety",
+            "Neuroticism",
+            "Proactive aggression"
+          ],
+          "answer": 1,
+          "stem": "哪个术语指一个人在此时此刻感到多焦虑？",
+          "options": [
+            "特质焦虑（Trait anxiety）",
+            "状态焦虑（State anxiety）",
+            "神经质（Neuroticism）",
+            "主动性攻击（Proactive aggression）"
+          ],
+          "how": [
+            "题干线索是「此时此刻」，问的是当下体验。",
+            "当下是否焦虑就是状态焦虑，所以选 B。",
+            "特质焦虑是相对持久、更容易被诱发焦虑的倾向，问的不是这一刻。"
+          ]
+        },
+        {
+          "stemEn": "At a relaxed lunch, students high and low in trait anxiety are about equally calm. While waiting for a scholarship decision, those high in trait anxiety become far more anxious than those low in it. This pattern is best described as:",
+          "optionsEn": [
+            "An effect of personality that is the same in every situation",
+            "An effect of the situation that is the same for every person",
+            "Random measurement error between the two groups",
+            "An interaction between personality and the situation"
+          ],
+          "answer": 3,
+          "stem": "在轻松的午餐时，特质焦虑高和低的学生差不多一样平静。在等待奖学金结果时，特质焦虑高的学生比低的学生焦虑得多。这一模式最适合描述为：",
+          "options": [
+            "在每种情境中都相同的人格效应",
+            "对每个人都相同的情境效应",
+            "两组之间的随机测量误差",
+            "人格与情境之间的交互作用"
+          ],
+          "how": [
+            "线索是轻松时「差不多一样平静」，等结果时高特质者「焦虑得多」。",
+            "情境的作用大小随特质水平而变，这就是交互作用，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A personality researcher measures only participants' traits and ignores the settings in which their behaviour occurs. What is the main limitation of this approach?",
+          "optionsEn": [
+            "It overlooks the power of situations to change behaviour",
+            "It treats individual differences as error variance",
+            "It assumes that traits are not relatively enduring",
+            "It means no behaviour can be measured"
+          ],
+          "answer": 0,
+          "stem": "一位人格研究者只测量参与者的特质，忽略其行为发生的情境。这种做法的主要局限是什么？",
+          "options": [
+            "忽视了情境改变行为的力量",
+            "把个体差异当成误差方差（error variance）",
+            "假定特质不是相对持久的",
+            "意味着任何行为都无法被测量"
+          ],
+          "how": [
+            "线索是「只测量特质」「忽略情境」。",
+            "只看特质的代价是忽视情境的力量，所以选 A。",
+            "把个体差异当误差方差是只看实验操纵的问题，方向正好相反。"
+          ]
+        },
+        {
+          "stemEn": "Mia scores very high on a trait anxiety scale, yet on holiday she reports feeling completely calm. Which interpretation fits this lecture best?",
+          "optionsEn": [
+            "Her trait anxiety score must be invalid, because a high scorer would feel anxious on every holiday",
+            "Situations cannot affect people high in trait anxiety",
+            "High trait anxiety means being more easily induced into anxiety, not being anxious all the time",
+            "She has stopped being high in trait anxiety for good"
+          ],
+          "answer": 2,
+          "stem": "Mia 在特质焦虑量表上得分很高，但度假时她报告感到非常平静。哪种解释最符合本讲？",
+          "options": [
+            "她的特质焦虑分数一定无效，因为高分者每次度假都会感到焦虑",
+            "情境不能影响特质焦虑高的人",
+            "特质焦虑高意味着更容易被诱发焦虑，而不是一直焦虑",
+            "她从此不再是特质焦虑高的人"
+          ],
+          "how": [
+            "线索是「得分很高」却在「度假时」「非常平静」。",
+            "特质焦虑是更易被诱发的倾向，不等于时刻焦虑，所以选 C。",
+            "此刻平静只说明状态低，不能据此否定量表或特质。"
+          ]
+        }
+      ],
+      "recap": "人格 × 情境 → 通常解释更多；特质焦虑高 ≠ 一直焦虑，而是更容易被诱发。"
+    },
+    {
+      "id": "L10-P02",
+      "title": "选能揭示个体差异的情境",
+      "titleEn": "Situations that reveal individual differences",
+      "conceptIds": [
+        "L10-C03"
+      ],
+      "kp": "要观察人格差异，要选行为不被情境严格规定、人可以自由选择的情境。考场人人安静，显不出外向性差异；聚会更能显出差异。问卷也用具体情境题，而不直接问「你外向吗」。",
+      "howTo": "看到规则统一、人人必须同样做（考场、统一清单），就判断情境掩盖了差异；看到能自由选择（聚会），差异才容易显现。安静是行为描述，内向是特质推断。",
+      "items": [
+        {
+          "stemEn": "In which setting would individual differences in extraversion be LEAST visible?",
+          "optionsEn": [
+            "A welcome party with free mingling",
+            "A silent final exam",
+            "A casual break between classes",
+            "An open networking evening"
+          ],
+          "answer": 1,
+          "stem": "在哪种情境中，外向性（extraversion）的个体差异最不明显？",
+          "options": [
+            "可以自由交流的迎新聚会",
+            "全程安静的期末考试",
+            "课间的随意休息",
+            "开放式的社交之夜"
+          ],
+          "how": [
+            "题干问差异「最不明显」，要找行为被规定得最严的情境。",
+            "考场要求人人安静，几乎无法表现外向性差异，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A researcher observes tidiness in a class where everyone must follow the same clean-up checklist, and finds that nearly everyone is equally tidy. What is the best conclusion?",
+          "optionsEn": [
+            "Everyone in the class is equally conscientious",
+            "Tidiness has nothing to do with personality",
+            "The strict situation may be masking individual differences",
+            "Checklists increase trait conscientiousness permanently"
+          ],
+          "answer": 2,
+          "stem": "研究者在一个人人都必须按同一份清单打扫的班级里观察整洁程度，发现几乎所有人都同样整洁。最好的结论是什么？",
+          "options": [
+            "班上每个人的尽责性都相同",
+            "整洁程度与人格无关",
+            "严格的情境可能掩盖了个体差异",
+            "清单能永久提高特质尽责性"
+          ],
+          "how": [
+            "线索是「人人都必须按同一份清单」。",
+            "行为被情境规定时，人人相同不代表人格相同，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Why is a questionnaire item such as 'Are you the life of the party?' preferred to simply asking 'Are you extraverted?'",
+          "optionsEn": [
+            "It gives a concrete behaviour and situation to judge against",
+            "It removes every influence of mood on answers",
+            "It can only be answered by people high in extraversion",
+            "It measures a state rather than a trait"
+          ],
+          "answer": 0,
+          "stem": "为什么问卷题「你是聚会的灵魂人物吗？」比直接问「你外向吗？」更好？",
+          "options": [
+            "它提供了可供判断的具体行为和情境",
+            "它消除了心情对回答的一切影响",
+            "只有外向性高的人才能回答它",
+            "它测量的是状态而不是特质"
+          ],
+          "how": [
+            "对比线索是「聚会的灵魂人物」与笼统的「你外向吗」。",
+            "具体题给出行为和情境线索，人更容易判断，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A party shows more variation in extraversion than an exam does. Which caveat should still be kept in mind?",
+          "optionsEn": [
+            "Party behaviour directly reveals a person's whole personality, free of any influence from the setting",
+            "Exams never involve any personality differences",
+            "Extraversion exists only in social settings",
+            "Mood and atmosphere can still affect party behaviour, so situational influence is not removed"
+          ],
+          "answer": 3,
+          "stem": "聚会比考试更能显示外向性的差异。仍需记住哪个限制？",
+          "options": [
+            "聚会行为能直接揭示一个人的全部人格，不受场合的任何影响",
+            "考试从不涉及任何人格差异",
+            "外向性只存在于社交场合",
+            "心情和气氛仍会影响聚会行为，所以情境影响并未被消除"
+          ],
+          "how": [
+            "题干问的是「仍需记住」的限制。",
+            "选好情境只是增加观察差异的机会，状态因素仍起作用，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "强情境（考场）掩盖差异，自由情境（聚会）显出差异；一次安静 ≠ 内向。"
+    },
+    {
+      "id": "L10-P03",
+      "title": "Psychopathy 是人格维度；主动性 vs 反应性攻击",
+      "titleEn": "Psychopathy as a dimension; proactive vs reactive aggression",
+      "conceptIds": [
+        "L10-C04",
+        "L10-C05"
+      ],
+      "kp": "Psychopathy 是一个人格维度，特征有自私、冷酷、操纵、刻薄、大胆、去抑制和主动性攻击。反应性攻击是被激怒后的爆发；主动性攻击（proactive aggression）冷静、有计划，是其标志，且不一定违法。",
+      "howTo": "大五维度（外向、开放、宜人）都不是 psychopathy 的特征。攻击题看起因：被挑衅后立刻反击选反应性；冷静计划、为利或为乐选主动性。",
+      "items": [
+        {
+          "stemEn": "In this lecture, the word 'psychopath' refers to someone who:",
+          "optionsEn": [
+            "Has received a formal diagnosis of psychopathy",
+            "Is particularly high on a personality dimension",
+            "Has been convicted of a violent crime",
+            "Is very low in extraversion"
+          ],
+          "answer": 1,
+          "stem": "在本讲中，psychopath 一词指的是这样的人：",
+          "options": [
+            "获得了 psychopathy 的正式诊断",
+            "在一个人格维度上特别高",
+            "曾因暴力犯罪被定罪",
+            "外向性非常低"
+          ],
+          "how": [
+            "题干问 psychopath 一词的含义。",
+            "心理学把 psychopathy 当作连续维度，psychopath 指这一维度上特别高的人，所以选 B。",
+            "psychopathy 本身不是诊断，也不靠犯罪记录来定义。"
+          ]
+        },
+        {
+          "stemEn": "Which set contains ONLY characteristics of psychopathy listed in this lecture?",
+          "optionsEn": [
+            "Openness, boldness, meanness",
+            "Extraversion, callousness, selfishness",
+            "Boldness, disinhibition, manipulativeness",
+            "Agreeableness, meanness, disinhibition"
+          ],
+          "answer": 2,
+          "stem": "哪一组只包含本讲列出的 psychopathy 特征？",
+          "options": [
+            "开放性、大胆、刻薄",
+            "外向性、冷酷、自私",
+            "大胆（boldness）、去抑制（disinhibition）、操纵（manipulativeness）",
+            "宜人性、刻薄、去抑制"
+          ],
+          "how": [
+            "题干要求「只包含」，每组都要逐项查。",
+            "开放性、外向性、宜人性属于大五，排除后只剩一组，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "After being shoved in a queue, Tom immediately shouts and shoves the person back. This is best described as:",
+          "optionsEn": [
+            "Reactive aggression",
+            "Proactive aggression",
+            "Disinhibition measured by the TPM",
+            "Vicarious activation"
+          ],
+          "answer": 0,
+          "stem": "Tom 排队时被推了一下，立刻大喊并把对方推回去。这最适合描述为：",
+          "options": [
+            "反应性攻击（Reactive aggression）",
+            "主动性攻击（Proactive aggression）",
+            "TPM 测量的去抑制（Disinhibition）",
+            "替代性激活（Vicarious activation）"
+          ],
+          "how": [
+            "线索是「被推了一下」后「立刻」反击。",
+            "受挑衅后的即时回应是反应性攻击，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Lena calmly spreads a hurtful rumour over several weeks to get a rival's job. She has never broken the law. Which statement is correct?",
+          "optionsEn": [
+            "It is not aggression, because no law was broken",
+            "It is reactive aggression, because competition is frustrating",
+            "It says nothing about psychopathy, because she has no criminal record",
+            "It is proactive aggression, which need not be criminal"
+          ],
+          "answer": 3,
+          "stem": "Lena 花了几周冷静地散布伤人的谣言，想得到对手的职位。她从未违法。哪一项是正确的？",
+          "options": [
+            "这不算攻击，因为没有违法",
+            "这是反应性攻击，因为竞争令人受挫",
+            "这与 psychopathy 无关，因为她没有犯罪记录",
+            "这是主动性攻击，而攻击不一定涉及犯罪"
+          ],
+          "how": [
+            "线索是「冷静地」「花了几周」「想得到职位」。",
+            "有计划、为达目的的伤害是主动性攻击，所以选 D。",
+            "故意说伤人的话也算攻击，没有犯罪记录并不改变性质。"
+          ]
+        }
+      ],
+      "recap": "Psychopathy 是维度不是诊断；被激怒 → 反应性，冷静计划 → 主动性（其标志）。"
+    },
+    {
+      "id": "L10-P04",
+      "title": "情感共情低，认知共情不受损",
+      "titleEn": "Affective vs cognitive empathy in psychopathy",
+      "conceptIds": [
+        "L10-C06"
+      ],
+      "kp": "情感共情（affective empathy）是被他人情绪带动，朋友哭你也想哭；认知共情（cognitive empathy）是理解他人的想法和感受。Psychopathy 选择性地只与较低的情感共情有关，与认知共情不相关。",
+      "howTo": "看到「也跟着难过」是情感共情，「明白对方在想什么」是认知共情。psychopathy 题选「情感低、认知不受损」，排除「两种都低」。affect 指情绪，不是「影响」。",
+      "items": [
+        {
+          "stemEn": "When her friend cries over bad news, Ana starts to feel sad and tears up too. This is an example of:",
+          "optionsEn": [
+            "Cognitive empathy",
+            "Affective empathy",
+            "Self-concept clarity",
+            "Boldness"
+          ],
+          "answer": 1,
+          "stem": "朋友因坏消息哭泣时，Ana 也开始难过、流泪。这是什么的例子？",
+          "options": [
+            "认知共情（Cognitive empathy）",
+            "情感共情（Affective empathy）",
+            "自我概念清晰度（Self-concept clarity）",
+            "大胆（Boldness）"
+          ],
+          "how": [
+            "线索是 Ana「也开始难过、流泪」，她自己产生了相似情绪。",
+            "被他人情绪带动就是情感共情，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Dan works out exactly why a colleague is upset and what she is thinking, yet he feels nothing himself. Which pattern does this show?",
+          "optionsEn": [
+            "Intact cognitive empathy with low affective empathy",
+            "Low cognitive empathy with high affective empathy",
+            "Low cognitive and low affective empathy",
+            "High empathic concern with personal distress"
+          ],
+          "answer": 0,
+          "stem": "Dan 准确想明白同事为什么难过、她在想什么，自己却毫无感觉。这体现了哪种模式？",
+          "options": [
+            "认知共情完好，情感共情低",
+            "认知共情低，情感共情高",
+            "认知共情和情感共情都低",
+            "共情关怀（empathic concern）高并伴随个人痛苦"
+          ],
+          "how": [
+            "「想明白」对应认知共情，「毫无感觉」对应情感共情。",
+            "前者完好、后者低，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A researcher predicts that people high in psychopathy will be worse than others at inferring what other people are thinking. Based on this lecture, this prediction is:",
+          "optionsEn": [
+            "Supported, because both types of empathy are lower",
+            "Supported, because the amygdala controls all inference",
+            "Not supported, because psychopathy is not associated with lower cognitive empathy",
+            "Not supported, because psychopathy is associated with higher affective empathy"
+          ],
+          "answer": 2,
+          "stem": "一位研究者预测，psychopathy 高的人比其他人更不善于推断别人在想什么。根据本讲，这一预测：",
+          "options": [
+            "得到支持，因为两种共情都较低",
+            "得到支持，因为杏仁核控制所有推断",
+            "未得到支持，因为 psychopathy 与较低的认知共情无关",
+            "未得到支持，因为 psychopathy 与较高的情感共情有关"
+          ],
+          "how": [
+            "「推断别人在想什么」属于认知共情。",
+            "psychopathy 只与较低的情感共情有关，认知共情没有受损，所以选 C。",
+            "另一个「未得到支持」的选项方向错了：情感共情是较低。"
+          ]
+        }
+      ],
+      "recap": "Psychopathy 高 → 情感共情低，认知共情不受损；能读懂别人 ≠ 会被别人带动。"
+    },
+    {
+      "id": "L10-P05",
+      "title": "现实意义：再犯、CEO 与遗传环境",
+      "titleEn": "Reoffending, CEOs, genes and environment",
+      "conceptIds": [
+        "L10-C07",
+        "L10-C34"
+      ],
+      "kp": "服刑人群中，psychopathy 高者再犯可能性约高 3 倍，暴力再犯约高 4 倍；CEO 中高分者偏多，可能因某些情境奖励决策中的无情。遗传和早期环境都有贡献。这些都是群体关联，不决定个人。",
+      "howTo": "数字题记「总再犯 3、暴力再犯 4」。见到「必然」「所有 CEO」「某人一定」都排除：群体关联不等于个体必然。没有犯罪记录也不能推出特质低。",
+      "items": [
+        {
+          "stemEn": "In prison populations, compared with others, people high in psychopathy are about how many times more likely to reoffend in general and to reoffend violently?",
+          "optionsEn": [
+            "4 times in general; 3 times violently",
+            "3 times in general; 4 times violently",
+            "20–30 times in general; 4 times violently",
+            "No more likely in general; 4 times violently"
+          ],
+          "answer": 1,
+          "stem": "在服刑人群中，与其他人相比，psychopathy 高的人总体再犯和暴力再犯的可能性分别约高多少倍？",
+          "options": [
+            "总体 4 倍；暴力 3 倍",
+            "总体 3 倍；暴力 4 倍",
+            "总体 20–30 倍；暴力 4 倍",
+            "总体没有更高；暴力 4 倍"
+          ],
+          "how": [
+            "题干同时问「总体再犯」和「暴力再犯」两个数字。",
+            "课件数字是总再犯 3 倍、暴力再犯 4 倍，所以选 B。",
+            "20–30 是 APD 中符合 psychopath 标准的百分比，不是倍数。"
+          ]
+        },
+        {
+          "stemEn": "High psychopathy is over-represented among CEOs. What explanation was offered?",
+          "optionsEn": [
+            "Everyone who becomes a CEO meets the criteria for APD",
+            "Psychopathy makes people better at every leadership task",
+            "CEOs tend to have unusually high affective empathy",
+            "Some situations may reward ruthlessness in decision-making"
+          ],
+          "answer": 3,
+          "stem": "CEO 中高 psychopathy 者偏多。课上给出的解释是什么？",
+          "options": [
+            "每个成为 CEO 的人都符合 APD 标准",
+            "Psychopathy 让人胜任每一项领导任务",
+            "CEO 往往有异常高的情感共情",
+            "某些情境可能奖励决策中的无情"
+          ],
+          "how": [
+            "题干问 CEO「偏多」的解释。",
+            "老师的解释是竞争情境可能奖励冷酷决策，所以选 D。",
+            "「偏多」不等于所有 CEO 如此，也不等于这是值得追求的特质。"
+          ]
+        },
+        {
+          "stemEn": "A researcher finds that his own brain scan resembles those of psychopaths, and credits his warm family for how he turned out. How should this story be treated, given the lecturer's view on genes and environment?",
+          "optionsEn": [
+            "As proof that environment cancels all genetic risk",
+            "As proof that the traits are fully determined by genes, with no role for the family environment",
+            "As proof that a brain scan can diagnose psychopathy",
+            "As an anecdote; genes contribute, but early environment affects how the traits show"
+          ],
+          "answer": 3,
+          "stem": "一位研究者发现自己的脑扫描与 psychopath 相似，并认为是温暖的家庭塑造了现在的自己。结合老师对遗传与环境的看法，应该怎样看待这个故事？",
+          "options": [
+            "证明环境可以抵消所有遗传风险",
+            "证明这些特质完全由基因决定，家庭环境不起任何作用",
+            "证明脑扫描可以诊断 psychopathy",
+            "这是轶事；基因有贡献，但早期环境影响特质如何表现"
+          ],
+          "how": [
+            "线索是这只是研究者「自己」的一次经历。",
+            "它帮助理解，不是实验证据；遗传和环境都起作用，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Ari has no criminal record, so a classmate concludes that Ari must be low in psychopathy. Why is this reasoning flawed?",
+          "optionsEn": [
+            "Everyone high in psychopathy has been to prison",
+            "A criminal record is the only valid measure of psychopathy, so no record means a low level of the trait",
+            "Harmful behaviour such as deliberately hurtful speech need not produce a criminal record",
+            "Psychopathy is unrelated to aggression of any kind"
+          ],
+          "answer": 2,
+          "stem": "Ari 没有犯罪记录，同学因此断定 Ari 的 psychopathy 一定很低。这一推理错在哪里？",
+          "options": [
+            "每个 psychopathy 高的人都坐过牢",
+            "犯罪记录是 psychopathy 唯一有效的测量，所以没有记录就意味着特质水平低",
+            "故意说伤人的话等有害行为不一定产生犯罪记录",
+            "Psychopathy 与任何形式的攻击都无关"
+          ],
+          "how": [
+            "线索是「没有犯罪记录」就推断「一定很低」。",
+            "攻击不只限于违法行为，没入狱不等于特质低，所以选 C。"
+          ]
+        }
+      ],
+      "recap": "再犯 3 倍、暴力再犯 4 倍；基因和环境都有贡献；群体关联 ≠ 个人必然。"
+    },
+    {
+      "id": "L10-P06",
+      "title": "杏仁核功能异常理论及其证据",
+      "titleEn": "Amygdala dysfunction theory and its evidence",
+      "conceptIds": [
+        "L10-C08",
+        "L10-C09"
+      ],
+      "kp": "杏仁核理论是情绪特异的：认为核心在杏仁核与恐惧加工异常。三项证据：恐惧增强惊跳（fear-potentiated startle）较弱、看恐惧面孔时杏仁核激活较弱、较难识别恐惧和悲伤表情。这些主要出现在自由观看时。",
+      "howTo": "看到「情绪特异、恐惧缺陷」选杏仁核理论，「领域一般、所有目标无关信息」选注意瓶颈。惊跳题：减弱指恐惧条件下的额外增加较小，不是完全不惊跳。",
+      "items": [
+        {
+          "stemEn": "Which statement describes the amygdala dysfunction theory of psychopathy?",
+          "optionsEn": [
+            "It is a domain-general account of all goal-irrelevant information",
+            "It claims that attentional capacity is unlimited",
+            "It places the core problem in emotion-related processing, especially fear",
+            "It defines psychopathy by a person's criminal history"
+          ],
+          "answer": 2,
+          "stem": "哪一项描述了 psychopathy 的杏仁核功能异常理论？",
+          "options": [
+            "它是针对所有目标无关信息的领域一般解释",
+            "它主张注意容量没有上限",
+            "它把核心问题放在情绪相关加工上，尤其是恐惧",
+            "它用犯罪史来定义 psychopathy"
+          ],
+          "how": [
+            "题干问的是「杏仁核功能异常理论」。",
+            "杏仁核理论是情绪特异的，核心在恐惧相关机制，所以选 C。",
+            "领域一般是注意瓶颈理论的特点。"
+          ]
+        },
+        {
+          "stemEn": "What does fear-potentiated startle refer to?",
+          "optionsEn": [
+            "A sudden noise produces a larger startle under fear or negative emotion than under neutral conditions",
+            "A person stops startling altogether after seeing frightening pictures, even when a sudden noise is very loud",
+            "A person recognises fearful faces faster than neutral ones",
+            "Brain activity while watching another person in mild pain"
+          ],
+          "answer": 0,
+          "stem": "恐惧增强惊跳（fear-potentiated startle）指什么？",
+          "options": [
+            "在恐惧或负性情绪条件下，同样的突发声音引起的惊跳比中性条件更大",
+            "一个人看到可怕图片后完全不再惊跳，即使突发声音非常响",
+            "一个人识别恐惧面孔比中性面孔更快",
+            "观看他人受轻微疼痛时的脑活动"
+          ],
+          "how": [
+            "关键词是「恐惧增强」的惊跳。",
+            "恐惧条件下惊跳比中性条件更大，就是这一效应，所以选 A。",
+            "观看他人疼痛时的脑活动是替代性激活。"
+          ]
+        },
+        {
+          "stemEn": "Which finding was NOT cited as evidence for the amygdala dysfunction theory?",
+          "optionsEn": [
+            "Reduced fear-potentiated startle",
+            "Weaker amygdala activation to fearful faces",
+            "Difficulty recognising fearful and sad expressions",
+            "Reduced processing of neutral distractors"
+          ],
+          "answer": 3,
+          "stem": "哪项发现不是杏仁核功能异常理论引用的证据？",
+          "options": [
+            "恐惧增强惊跳减弱",
+            "看恐惧面孔时杏仁核激活较弱",
+            "较难识别恐惧和悲伤表情",
+            "对中性干扰物的加工减少"
+          ],
+          "how": [
+            "题干问「不是」杏仁核理论的证据，三项情绪发现都要排除。",
+            "中性干扰物没有情绪内容，是注意瓶颈理论的证据，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "The group differences used to support the amygdala theory were found mainly under which condition?",
+          "optionsEn": [
+            "When the task required classifying faces as fearful or neutral",
+            "During natural free viewing",
+            "When participants were instructed to empathise",
+            "When participants were prompted to look at the eyes"
+          ],
+          "answer": 1,
+          "stem": "用来支持杏仁核理论的组间差异主要出现在什么条件下？",
+          "options": [
+            "任务要求把面孔分类为恐惧或中性时",
+            "自然自由观看时",
+            "指示参与者去共情时",
+            "提醒参与者看眼睛时"
+          ],
+          "how": [
+            "题干问差异「主要出现」的条件。",
+            "这些差异主要出现在自由观看时，所以选 B。",
+            "其余三个都是把注意引向情绪的条件，差异会减小或消失。"
+          ]
+        }
+      ],
+      "recap": "杏仁核理论 → 情绪特异；三证据：惊跳弱、激活弱、难识别恐惧悲伤，主要见于自由观看。"
+    },
+    {
+      "id": "L10-P07",
+      "title": "注意瓶颈理论：效应都受注意调节",
+      "titleEn": "Attentional bottleneck: effects modulated by attention",
+      "conceptIds": [
+        "L10-C10",
+        "L10-C11",
+        "L10-C12",
+        "L10-C13"
+      ],
+      "kp": "注意瓶颈理论认为高 psychopathy 者瓶颈更窄更僵硬，目标导向强，目标无关信息被忽略。把注意引向情绪后，惊跳、杏仁核激活的组间差异减小，指示共情会出现替代性激活，CU 特质男孩看眼睛后不再有识别缺陷。",
+      "howTo": "看到「任务要求关注情绪」「指示共情」「提醒看眼睛」，答案都是差异减小或消失，即受注意调节（modulated by attention）。儿童用 CU traits 一词。不要推成已被治好。",
+      "items": [
+        {
+          "stemEn": "According to the attentional bottleneck theory, people high in psychopathy:",
+          "optionsEn": [
+            "Have unlimited capacity and process everything at once",
+            "Have poor attention in every task they attempt",
+            "Cannot process emotion even when it is relevant to the task, because the amygdala no longer responds at all",
+            "Have a narrow, rigid bottleneck with strong goal-directed focus, so goal-irrelevant information is ignored"
+          ],
+          "answer": 3,
+          "stem": "根据注意瓶颈理论（attentional bottleneck theory），psychopathy 高的人：",
+          "options": [
+            "容量无限，能同时加工一切",
+            "在每项任务中注意都很差",
+            "即使情绪与任务相关也无法加工情绪，因为杏仁核完全不再反应",
+            "瓶颈窄而僵硬且目标导向强，所以目标无关信息被忽略"
+          ],
+          "how": [
+            "题干问这一理论的核心主张。",
+            "瓶颈更窄更僵硬、强目标导向，目标无关信息被忽略，所以选 D。",
+            "它说的是加工选择，不是总体注意差。"
+          ]
+        },
+        {
+          "stemEn": "In a study, group differences in amygdala activation appear during passive viewing of faces. Participants are then asked to classify each face as fearful or neutral. What happens to the group difference?",
+          "optionsEn": [
+            "It grows, because the task adds stress",
+            "It shrinks, because emotion is now the focus of attention",
+            "It stays the same, because attention has no effect",
+            "It reverses, so the high-psychopathy group shows no activation"
+          ],
+          "answer": 1,
+          "stem": "在一项研究中，被动观看面孔时杏仁核激活存在组间差异。随后要求参与者把每张面孔分类为恐惧或中性。组间差异会怎样？",
+          "options": [
+            "变大，因为任务增加了压力",
+            "减小，因为情绪此时成为注意焦点",
+            "保持不变，因为注意没有作用",
+            "反转，高 psychopathy 组完全没有激活"
+          ],
+          "how": [
+            "线索是任务要求「分类为恐惧或中性」，情绪变成了任务焦点。",
+            "杏仁核激活减弱只在情绪不被注意时出现，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Vicarious brain activation refers to brain responses to watching another person in mild pain that resemble one's own pain responses. After being instructed to empathise, participants high in psychopathy showed this activation. What is the most justified conclusion?",
+          "optionsEn": [
+            "A single instruction can cure psychopathy",
+            "These participants have an undamaged moral motivation",
+            "Vicarious activation can be modulated by attention and instruction",
+            "Vicarious activation is unrelated to empathy-related processing"
+          ],
+          "answer": 2,
+          "stem": "替代性脑激活（vicarious brain activation）指观看他人受轻微疼痛时，出现与自己疼痛时相似的脑反应。在被指示去共情后，psychopathy 高的参与者出现了这种激活。最合理的结论是什么？",
+          "options": [
+            "一句指令就能治好 psychopathy",
+            "这些参与者的道德动机没有受损",
+            "替代性激活可以被注意和指令调节",
+            "替代性激活与共情相关加工无关"
+          ],
+          "how": [
+            "线索是「被指示去共情后」才出现激活。",
+            "只改变指令就改变反应，说明它受注意调节，所以选 C。",
+            "这不能说明整体特质或现实助人行为被改变。"
+          ]
+        },
+        {
+          "stemEn": "Boys with callous-unemotional (CU) traits no longer show an emotion recognition deficit when prompted to look at the eyes. What does this suggest?",
+          "optionsEn": [
+            "They may not normally look at the parts of the face that convey emotion",
+            "They are unable to feel any fear themselves",
+            "Their deficit is caused by poor eyesight",
+            "Looking at the eyes makes all children better than average"
+          ],
+          "answer": 0,
+          "stem": "有冷酷无情（callous-unemotional, CU）特质的男孩在被提醒看眼睛后，不再表现出情绪识别缺陷。这说明了什么？",
+          "options": [
+            "他们平时可能没有看向面孔中传达情绪的部位",
+            "他们自己完全感受不到恐惧",
+            "他们的缺陷是视力差造成的",
+            "看眼睛能让所有儿童都高于平均水平"
+          ],
+          "how": [
+            "线索是「被提醒看眼睛后」缺陷消失。",
+            "只改变看哪里就消除缺陷，说明原先是注意分配问题，所以选 A。"
+          ]
+        }
+      ],
+      "recap": "把注意引向情绪 → 惊跳、杏仁核、替代性激活、CU 识别的差异都缩小：受注意调节。"
+    },
+    {
+      "id": "L10-P08",
+      "title": "中性干扰物证据与证据天平",
+      "titleEn": "Neutral distractors; weighing the theories",
+      "conceptIds": [
+        "L10-C14",
+        "L10-C15",
+        "L10-C35"
+      ],
+      "kp": "杏仁核缺陷解释不了为何字母、数字这类中性且目标无关的刺激也被少加工，注意瓶颈理论正好预测它。老师认为证据更偏向注意瓶颈，注意至少起调节作用。注意干预只是待检验的假设；道德圈（moral circle）是研究方向。",
+      "howTo": "看到「中性、字母数字、目标无关」就选注意瓶颈。证据与假设要分开：「注意指令改变反应」是证据，「训练可减轻后果」是假设，「已治好」超出证据。",
+      "items": [
+        {
+          "stemEn": "Why is reduced processing of neutral distractors especially important in the debate between the two theories?",
+          "optionsEn": [
+            "Neutral stimuli strongly activate the amygdala in everyone",
+            "An emotion-specific deficit cannot explain reduced processing of stimuli with no emotional content",
+            "It shows that psychopathy is limited to emotional processing, because the distractors in these tasks are always frightening",
+            "It shows people high in psychopathy process more irrelevant stimuli"
+          ],
+          "answer": 1,
+          "stem": "为什么对中性干扰物加工减少在两种理论的争论中特别重要？",
+          "options": [
+            "中性刺激会强烈激活每个人的杏仁核",
+            "情绪特异的缺陷无法解释没有情绪内容的刺激为何也被少加工",
+            "它表明 psychopathy 只限于情绪加工，因为这些任务中的干扰物总是令人害怕的",
+            "它表明 psychopathy 高的人加工更多无关刺激"
+          ],
+          "how": [
+            "关键词是「中性」，这类刺激没有情绪内容。",
+            "恐惧缺陷解释不了它，于是机制扩展到情绪以外，所以选 B。",
+            "方向也要记住：加工是减少，不是增加。"
+          ]
+        },
+        {
+          "stemEn": "During a letter-search task, task-irrelevant digits appear on screen. Participants high in psychopathy process the digits less than others do. Which theory does this most directly support?",
+          "optionsEn": [
+            "Amygdala dysfunction theory",
+            "Batson's empathy–altruism account",
+            "Attentional bottleneck theory",
+            "The Triarchic Model of Psychopathy"
+          ],
+          "answer": 2,
+          "stem": "在字母搜索任务中，屏幕上会出现与任务无关的数字。Psychopathy 高的参与者比其他人更少加工这些数字。这最直接地支持哪种理论？",
+          "options": [
+            "杏仁核功能异常理论",
+            "Batson 的共情—利他解释",
+            "注意瓶颈理论",
+            "精神病态三元模型（Triarchic Model）"
+          ],
+          "how": [
+            "线索是「与任务无关的数字」，既中性又目标无关。",
+            "所有目标无关信息都被少加工，正是注意瓶颈的预测，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Which claim goes BEYOND the evidence presented in this lecture?",
+          "optionsEn": [
+            "Attention training has already been shown to cure psychopathy",
+            "Attention at least moderates some of these emotional effects",
+            "Attention instructions changed task responses in experiments",
+            "Attention training might reduce some negative outcomes, which remains to be tested"
+          ],
+          "answer": 0,
+          "stem": "哪一种说法超出了本讲呈现的证据？",
+          "options": [
+            "注意训练已被证明能治愈 psychopathy",
+            "注意至少调节了其中一些情绪效应",
+            "实验中注意指令改变了任务反应",
+            "注意训练也许能减轻某些负面后果，这还有待检验"
+          ],
+          "how": [
+            "题干要找「超出证据」的说法。",
+            "「已被证明能治愈」说得过头，老师只把干预当研究方向，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Rina is cold towards strangers but very caring towards her close family, and she scores high on a psychopathy scale. Which point from the class discussion applies?",
+          "optionsEn": [
+            "Her family care proves that her overall empathy is high",
+            "Her score must be wrong because she cares for someone",
+            "Her behaviour shows that the scale measures only cognitive empathy and says nothing about affective empathy",
+            "Trait questionnaires rarely distinguish for whom one feels empathy, which is worth researching"
+          ],
+          "answer": 3,
+          "stem": "Rina 对陌生人很冷漠，却非常关心亲近的家人，她在 psychopathy 量表上得分很高。课堂讨论中的哪一点适用于此？",
+          "options": [
+            "她对家人的关心证明她整体共情很高",
+            "她的分数一定有误，因为她会关心别人",
+            "她的行为说明量表只测认知共情，完全不涉及情感共情",
+            "特质问卷很少区分对谁有共情，这值得研究（道德圈，moral circle）"
+          ],
+          "how": [
+            "线索是「对陌生人冷漠」「关心家人」，共情因对象而异。",
+            "这对应道德圈：现有问卷大多不区分对象，所以选 D。",
+            "这是研究方向，不能用来否定分数或断定整体共情高。"
+          ]
+        }
+      ],
+      "recap": "中性干扰物加工减少 → 支持注意瓶颈；指令改变反应是证据，治愈则超出证据。"
+    },
+    {
+      "id": "L10-P09",
+      "title": "PCL-22 与 PCL-R：司法情境核对表",
+      "titleEn": "Hare's Psychopathy Checklist (PCL-22, PCL-R)",
+      "conceptIds": [
+        "L10-C17",
+        "L10-C18"
+      ],
+      "kp": "Hare 的 PCL-22 有 22 项，结合访谈和背景资料评分（每项 0、1、2），常用于监狱等司法情境。PCL-R 删去两个表现差的条目，成为 20 项。施测者需高级学位、熟悉研究、专门培训并受专业规范。",
+      "howTo": "PCL 线索：访谈加背景资料、司法样本、专业施测，不是自我报告。题数：PCL-22 是 22，PCL-R 是 20（删两项，不是加维度）；26 是 LSRP。",
+      "items": [
+        {
+          "stemEn": "How does the PCL-R differ from the original PCL-22?",
+          "optionsEn": [
+            "It adds a third factor to the two original factors",
+            "It turns the checklist into a self-report scale",
+            "It removes two poorly performing items, leaving 20",
+            "It raises the item count to 26 for community samples"
+          ],
+          "answer": 2,
+          "stem": "PCL-R 与原版 PCL-22 有什么不同？",
+          "options": [
+            "在原有两个因素上增加了第三个因素",
+            "把核对表改成了自我报告量表",
+            "删去两个表现差的条目，剩下 20 项",
+            "把题数增加到 26 项以用于社区样本"
+          ],
+          "how": [
+            "题干比较 PCL-R 与 PCL-22。",
+            "PCL-R 只是删去两个表现差的条目，22 减 2 得 20，所以选 C。",
+            "26 项是 LSRP 的题数。"
+          ]
+        },
+        {
+          "stemEn": "When completing the PCL-R, why does the assessor use background information as well as an interview?",
+          "optionsEn": [
+            "What the person says may not match their verifiable record",
+            "Background files are enough to make an interview unnecessary",
+            "The checklist is designed for anonymous community surveys",
+            "Interviews cannot include questions about personality"
+          ],
+          "answer": 0,
+          "stem": "完成 PCL-R 时，评估者为什么除了访谈还要使用背景资料？",
+          "options": [
+            "被访谈者的说法可能与可核查的记录不一致",
+            "有了背景资料就不需要访谈了",
+            "这份核对表是为匿名社区调查设计的",
+            "访谈中不能包含有关人格的问题"
+          ],
+          "how": [
+            "题干问为什么还要「背景资料」。",
+            "这一人群的诚实度可能不高，说法要与记录核对，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Which of the following is an item on the PCL-R?",
+          "optionsEn": [
+            "Boldness",
+            "Openness to experience",
+            "Trait empathic concern",
+            "Superficial charm"
+          ],
+          "answer": 3,
+          "stem": "下列哪一项是 PCL-R 的条目？",
+          "options": [
+            "大胆（Boldness）",
+            "经验开放性（Openness to experience）",
+            "特质共情关怀（Trait empathic concern）",
+            "表面魅力（Superficial charm）"
+          ],
+          "how": [
+            "题干问 PCL-R 的「条目」。",
+            "表面魅力是 PCL-R 列出的内容，所以选 D。",
+            "大胆是 TPM 的维度，开放性属于大五。"
+          ]
+        },
+        {
+          "stemEn": "A clinic wants to use the PCL-R. Who meets the administration requirements described in the lecture?",
+          "optionsEn": [
+            "An undergraduate who has memorised all 20 items",
+            "A registered professional with an advanced degree and specific PCL-R training",
+            "An experienced prison officer who knows inmates well but has no formal training in it",
+            "Any adult who fills it in about themselves"
+          ],
+          "answer": 1,
+          "stem": "一家诊所想使用 PCL-R。谁符合本讲描述的施测要求？",
+          "options": [
+            "记住了全部 20 个条目的本科生",
+            "有高级学位、接受过 PCL-R 专门培训并已注册的专业人员",
+            "经验丰富、很了解囚犯但未受过相关正式培训的狱警",
+            "任何给自己填写的成年人"
+          ],
+          "how": [
+            "题干问谁符合「施测要求」。",
+            "要求包括高级学位、专门培训和专业注册，所以选 B。",
+            "读过条目或有经验都不够，没有资质不能用于诊断。"
+          ]
+        }
+      ],
+      "recap": "PCL：访谈 + 背景资料 + 专业施测；PCL-22 → 删两项 → PCL-R（20 项）。"
+    },
+    {
+      "id": "L10-P10",
+      "title": "原版 LSRP：原发型与继发型",
+      "titleEn": "Original LSRP: primary vs secondary psychopathy",
+      "conceptIds": [
+        "L10-C16",
+        "L10-C19"
+      ],
+      "kp": "LSRP 是用于社区样本的 26 项自我报告量表，测两个维度：原发型（primary，自私、操纵、冷酷，自身情绪可能较弱）和继发型（secondary，极端冲动、自我挫败，愤怒挫败可能更强）。其两因素结构后来受批评。",
+      "howTo": "看到冷酷利用他人、情绪淡选原发型；看到冲动、反复惹麻烦、愤怒选继发型。LSRP 线索是自我报告、社区、26 项；原发/继发正式属于 LSRP，不属于 TPM。",
+      "items": [
+        {
+          "stemEn": "The original Levenson Self-Report Psychopathy Scale (LSRP) is best described as:",
+          "optionsEn": [
+            "A 22-item checklist completed through an interview",
+            "A 20-item forensic checklist using background files",
+            "A three-factor scale of boldness, meanness and disinhibition",
+            "A 26-item self-report scale for community samples"
+          ],
+          "answer": 3,
+          "stem": "原版 Levenson 自我报告精神病态量表（LSRP）最准确的描述是：",
+          "options": [
+            "通过访谈完成的 22 项核对表",
+            "使用背景资料的 20 项司法核对表",
+            "测大胆、刻薄和去抑制的三因素量表",
+            "用于社区样本的 26 项自我报告量表"
+          ],
+          "how": [
+            "题干问原版 LSRP 的基本信息。",
+            "它是 26 项、自我报告、面向社区样本，所以选 D。",
+            "22 项和 20 项分别是 PCL-22 和 PCL-R，三维是 TPM。"
+          ]
+        },
+        {
+          "stemEn": "Victor coolly uses colleagues to advance his career, feels little guilt and rarely gets emotional. Under the LSRP distinction, this best fits:",
+          "optionsEn": [
+            "Primary psychopathy",
+            "Secondary psychopathy",
+            "Reactive aggression",
+            "Personal distress"
+          ],
+          "answer": 0,
+          "stem": "Victor 冷静地利用同事推进自己的事业，几乎没有内疚，也很少情绪化。按 LSRP 的区分，这最符合：",
+          "options": [
+            "原发型 psychopathy（Primary）",
+            "继发型 psychopathy（Secondary）",
+            "反应性攻击（Reactive aggression）",
+            "个人痛苦（Personal distress）"
+          ],
+          "how": [
+            "线索是「利用同事」「几乎没有内疚」「很少情绪化」。",
+            "自私、操纵、冷酷且情绪弱是原发型，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Compared with primary psychopathy, secondary psychopathy is more likely to be accompanied by:",
+          "optionsEn": [
+            "Weaker emotions of every kind",
+            "Stronger anger and frustration",
+            "Greater cognitive empathy",
+            "More careful long-term planning"
+          ],
+          "answer": 1,
+          "stem": "与原发型相比，继发型 psychopathy 更可能伴随：",
+          "options": [
+            "各种情绪都更弱",
+            "更强的愤怒和挫败感",
+            "更高的认知共情",
+            "更周密的长期计划"
+          ],
+          "how": [
+            "题干比较继发型与原发型的情绪。",
+            "继发型偏冲动，愤怒、挫败等情绪可能更强，所以选 B。",
+            "因此不能把所有高分者都概括成毫无情绪。"
+          ]
+        },
+        {
+          "stemEn": "Why was the two-factor structure of the original LSRP criticised?",
+          "optionsEn": [
+            "The scale could only be used in prisons",
+            "It relied on interviews and background files rather than on self-report",
+            "Actual responses did not cluster well into the two proposed groups",
+            "It contained no items about callousness"
+          ],
+          "answer": 2,
+          "stem": "为什么原版 LSRP 的两因素结构受到批评？",
+          "options": [
+            "这份量表只能在监狱使用",
+            "它依赖访谈和背景资料而不是自我报告",
+            "实际回答不能很好地聚成所提出的两组",
+            "它没有关于冷酷的条目"
+          ],
+          "how": [
+            "题干问「两因素结构」为什么受批评。",
+            "批评在统计上：回答未必按规定的两组聚类，所以选 C。"
+          ]
+        }
+      ],
+      "recap": "LSRP：社区、自我报告、26 项；冷酷操纵 → 原发型，冲动愤怒 → 继发型。"
+    },
+    {
+      "id": "L10-P11",
+      "title": "三因素 LSRP 与反向计分",
+      "titleEn": "Revised three-factor LSRP; reverse-scored items",
+      "conceptIds": [
+        "L10-C20",
+        "L10-C21"
+      ],
+      "kp": "Christian 和 Sellbom（2016）修订 LSRP，得到自我中心（Egocentric）、冷酷（Callous）、反社会（Antisocial）三因素。前两者相当于原发型的细分，反社会对应继发型。同意 [RS] 反向计分题代表该特质较低。",
+      "howTo": "看到「自身利益第一」选自我中心，「不在乎他人感受」选冷酷，「违规、冲动、爱惹麻烦」选反社会。三因素别和 TPM 混。见 [RS]：越同意，该特质得分越低。",
+      "items": [
+        {
+          "stemEn": "A student writes that Christian and Sellbom's revised LSRP measures boldness, meanness and disinhibition. Is this correct?",
+          "optionsEn": [
+            "Yes, these are its three factors",
+            "Yes, but it also measures primary psychopathy",
+            "No, those belong to the TPM; the revised LSRP measures egocentricity, callousness and antisociality",
+            "No, the revised LSRP measures extraversion, neuroticism and agreeableness from the Big Five model"
+          ],
+          "answer": 2,
+          "stem": "一位学生写道：Christian 和 Sellbom 修订的 LSRP 测量大胆、刻薄和去抑制。这正确吗？",
+          "options": [
+            "正确，这就是它的三个因素",
+            "正确，但它还测量原发型",
+            "不正确，那是 TPM 的三维；修订 LSRP 测自我中心、冷酷和反社会",
+            "不正确，修订 LSRP 测大五模型中的外向性、神经质和宜人性"
+          ],
+          "how": [
+            "线索是把「大胆、刻薄、去抑制」安在修订 LSRP 上。",
+            "这三维属于 TPM，修订 LSRP 是另外三个因素，所以选 C。",
+            "量表名字相近不代表因素相同，不要混答。"
+          ]
+        },
+        {
+          "stemEn": "An item reads 'I find it hard to follow rules and I keep getting into trouble.' On the revised LSRP, it most likely belongs to which factor?",
+          "optionsEn": [
+            "Egocentric",
+            "Callous",
+            "Meanness",
+            "Antisocial"
+          ],
+          "answer": 3,
+          "stem": "一道题是「我很难遵守规则，总是惹上麻烦」。在修订 LSRP 中，它最可能属于哪个因素？",
+          "options": [
+            "自我中心（Egocentric）",
+            "冷酷（Callous）",
+            "刻薄（Meanness）",
+            "反社会（Antisocial）"
+          ],
+          "how": [
+            "线索是「很难遵守规则」「总是惹上麻烦」。",
+            "违反规则、冲动、反复陷入麻烦属于反社会因素，所以选 D。",
+            "刻薄是 TPM 的维度，不是修订 LSRP 的因素。"
+          ]
+        },
+        {
+          "stemEn": "An item reads 'I do not really care how others feel.' On the revised LSRP, it most likely belongs to which factor?",
+          "optionsEn": [
+            "Antisocial",
+            "Callous",
+            "Boldness",
+            "Egocentric"
+          ],
+          "answer": 1,
+          "stem": "一道题是「我并不真正在乎别人的感受」。在修订 LSRP 中，它最可能属于哪个因素？",
+          "options": [
+            "反社会（Antisocial）",
+            "冷酷（Callous）",
+            "大胆（Boldness）",
+            "自我中心（Egocentric）"
+          ],
+          "how": [
+            "线索是「不在乎别人的感受」。",
+            "较少顾虑他人感受属于冷酷因素，所以选 B。",
+            "自我中心强调把自身利益放在首位，重点不同。"
+          ]
+        },
+        {
+          "stemEn": "The lecturer related the revised factors to the original LSRP. Which two revised factors can be seen as a subdivision of primary psychopathy?",
+          "optionsEn": [
+            "Egocentric and callous",
+            "Callous and antisocial",
+            "Egocentric and antisocial",
+            "Boldness and meanness"
+          ],
+          "answer": 0,
+          "stem": "老师把修订因素与原版 LSRP 对应起来。哪两个修订因素可看作原发型的细分？",
+          "options": [
+            "自我中心和冷酷",
+            "冷酷和反社会",
+            "自我中心和反社会",
+            "大胆和刻薄"
+          ],
+          "how": [
+            "题干问哪两个因素对应「原发型的细分」。",
+            "自我中心和冷酷细分原发型，反社会接近继发型，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "On a TPM boldness scale, a participant strongly agrees with 'I stay away from danger as much as I can [RS]'. What does this imply?",
+          "optionsEn": [
+            "Higher boldness, because agreeing always adds points",
+            "No change, because reverse-scored items are dropped",
+            "Lower boldness, because the item is reverse-scored",
+            "Higher callousness, because the item concerns danger"
+          ],
+          "answer": 2,
+          "stem": "在 TPM 的大胆量表上，一位参与者非常同意「我尽可能远离危险 [RS]」。这意味着什么？",
+          "options": [
+            "大胆较高，因为同意总是加分",
+            "没有变化，因为反向计分题会被删除",
+            "大胆较低，因为这是反向计分题",
+            "冷酷较高，因为这道题与危险有关"
+          ],
+          "how": [
+            "线索是题目带 [RS]，且参与者「非常同意」。",
+            "反向计分题越同意，该特质得分越低，所以选 C。",
+            "RS 表示评分方向相反，不表示题目无效或要删除。"
+          ]
+        }
+      ],
+      "recap": "修订 LSRP = 自我中心、冷酷、反社会（不是 TPM）；[RS] 越同意 → 特质越低。"
+    },
+    {
+      "id": "L10-P12",
+      "title": "TPM 与按人群选量表",
+      "titleEn": "Triarchic Model; matching the measure to the population",
+      "conceptIds": [
+        "L10-C22",
+        "L10-C23",
+        "L10-C40"
+      ],
+      "kp": "三元模型 TPM 是自我报告量表，测大胆（boldness）、刻薄（meanness）、去抑制（disinhibition）。量表要与人群匹配：服刑人群用 PCL 系列；社区、学生用 LSRP、修订 LSRP 或 TPM，否则分数范围受限。匿名不保证真实。",
+      "howTo": "选量表先看人群：监狱选 PCL，学生、社区选自我报告量表；再看想区分什么：自我中心与冷酷选修订 LSRP，无畏与刻薄选 TPM。有点相似不等于正式因素相同。",
+      "items": [
+        {
+          "stemEn": "Which of the following is NOT a dimension of the Triarchic Model of Psychopathy?",
+          "optionsEn": [
+            "Boldness",
+            "Egocentricity",
+            "Meanness",
+            "Disinhibition"
+          ],
+          "answer": 1,
+          "stem": "下列哪一项不是精神病态三元模型（Triarchic Model of Psychopathy）的维度？",
+          "options": [
+            "大胆（Boldness）",
+            "自我中心（Egocentricity）",
+            "刻薄（Meanness）",
+            "去抑制（Disinhibition）"
+          ],
+          "how": [
+            "题干问 TPM 三维之外的一项。",
+            "自我中心属于修订 LSRP，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A participant strongly endorses 'I am a born leader' on the TPM. Which interpretation is most appropriate?",
+          "optionsEn": [
+            "It indicates meanness, and shows a lack of sympathy",
+            "It indicates disinhibition, and shows impulsive behaviour",
+            "It indicates boldness, and proves that the person has real leadership ability in objective terms",
+            "It indicates boldness, but self-report does not equal objective leadership ability"
+          ],
+          "answer": 3,
+          "stem": "一位参与者在 TPM 上非常同意「我是天生的领导者」。哪种解释最恰当？",
+          "options": [
+            "它反映刻薄，显示缺乏同情",
+            "它反映去抑制，显示行为冲动",
+            "它反映大胆，并证明此人在客观上有真实的领导能力",
+            "它反映大胆，但自我报告不等于客观的领导能力"
+          ],
+          "how": [
+            "线索是自称「天生的领导者」，这是大胆维度的题意。",
+            "老师提醒自称不等于真有领导力，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A researcher wants to separate egocentricity from callousness in a community sample. Which measure is most suitable?",
+          "optionsEn": [
+            "The revised three-factor LSRP",
+            "The PCL-R administered by interview",
+            "The TPM",
+            "The APD criteria"
+          ],
+          "answer": 0,
+          "stem": "一位研究者想在社区样本中把自我中心和冷酷区分开。哪种测量最合适？",
+          "options": [
+            "修订的三因素 LSRP",
+            "通过访谈施测的 PCL-R",
+            "TPM",
+            "APD 诊断标准"
+          ],
+          "how": [
+            "线索是「社区样本」和要区分「自我中心和冷酷」。",
+            "修订 LSRP 正好把这两类内容分开，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "If the PCL-R were given to first-year psychology students, what would be the main problem?",
+          "optionsEn": [
+            "Students would score far higher than prisoners on every item",
+            "Most would score near zero, leaving too little variation to study",
+            "The items are all reverse-scored for students",
+            "It would measure boldness rather than psychopathy"
+          ],
+          "answer": 1,
+          "stem": "如果把 PCL-R 用在一年级心理学学生身上，主要问题是什么？",
+          "options": [
+            "学生在每个条目上的得分都远高于囚犯",
+            "大多数人接近 0 分，变异太小而难以研究",
+            "这些条目对学生全部是反向计分",
+            "它测到的是大胆而不是 psychopathy"
+          ],
+          "how": [
+            "线索是把司法工具用于「一年级学生」。",
+            "条目依赖严重违法史，学生接近 0 分，缺乏变异，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A researcher makes a self-report psychopathy survey anonymous and concludes that all answers must now be truthful. What is wrong with this conclusion?",
+          "optionsEn": [
+            "Anonymity makes people less honest than identified surveys",
+            "Anonymous surveys can be used only in prison samples",
+            "Anonymity may increase honest reporting but does not guarantee it",
+            "Reverse-scored items already remove all lying"
+          ],
+          "answer": 2,
+          "stem": "一位研究者把 psychopathy 自我报告调查改成匿名，并断定所有回答现在都一定真实。这一结论错在哪里？",
+          "options": [
+            "匿名比实名调查更让人不诚实",
+            "匿名调查只能用于监狱样本",
+            "匿名可能增加如实报告，但不能保证真实",
+            "反向计分题已经消除了一切撒谎"
+          ],
+          "how": [
+            "线索是「所有回答」「一定真实」这种绝对说法。",
+            "匿名只是提高如实报告的可能，所以选 C。",
+            "反向计分同样不能消除撒谎。"
+          ]
+        }
+      ],
+      "recap": "TPM = 大胆、刻薄、去抑制；监狱 → PCL，社区 → 自我报告量表；匿名 ≠ 保证真实。"
+    },
+    {
+      "id": "L10-P13",
+      "title": "APD 标准、与 psychopathy 的区别、研究设计",
+      "titleEn": "APD criteria, psychopathy vs APD, research design",
+      "conceptIds": [
+        "L10-C24",
+        "L10-C25",
+        "L10-C26"
+      ],
+      "kp": "APD 是诊断：自 15 岁起持续侵犯他人权利，七项中至少 3 项，年满 18 岁，15 岁前有品行障碍。约 20–30% 的 APD 者符合 psychopath 标准；服刑 psychopath 几乎都符合 APD。连续测量保留信息，老师建议两种设计并用。",
+      "howTo": "年龄题分清 15（起始、品行障碍）和 18（诊断年龄），项数至少 3。20–30% 的分母是 APD 人群。冷静为利的攻击指向 psychopathy。设计题选两种结合、看证据是否收敛。",
+      "items": [
+        {
+          "stemEn": "Alex is 16 and has shown a persistent pattern of lying, fighting and rule-breaking since age 13. Why can Alex not be diagnosed with APD now?",
+          "optionsEn": [
+            "The pattern must begin after age 18",
+            "Alex must first score highly on the PCL-R",
+            "All seven criteria must be met",
+            "The individual must be at least 18 years old"
+          ],
+          "answer": 3,
+          "stem": "Alex 今年 16 岁，从 13 岁起持续说谎、打架和违规。为什么现在不能诊断 Alex 为 APD？",
+          "options": [
+            "这一模式必须在 18 岁之后开始",
+            "Alex 必须先在 PCL-R 上得高分",
+            "必须满足全部七项标准",
+            "个体必须年满 18 岁"
+          ],
+          "how": [
+            "线索是 Alex「今年 16 岁」。",
+            "APD 要求诊断时至少 18 岁，所以选 D。",
+            "15 岁是模式起始和品行障碍的时间点，不是诊断年龄。"
+          ]
+        },
+        {
+          "stemEn": "Jo, aged 25, had conduct disorder before age 15. Since then, Jo has shown repeated deceit and impulsivity, but no other criteria apply. Does Jo meet the APD criteria as summarised in the lecture?",
+          "optionsEn": [
+            "Yes, because any one criterion is sufficient",
+            "No, because at least three of the seven criteria are required",
+            "Yes, because conduct disorder alone is sufficient",
+            "No, because APD requires a high psychopathy score"
+          ],
+          "answer": 1,
+          "stem": "Jo 今年 25 岁，15 岁前有品行障碍。此后反复欺骗和冲动，但不符合其他标准。按本讲概括的标准，Jo 符合 APD 吗？",
+          "options": [
+            "符合，因为满足任何一项就够了",
+            "不符合，因为七项中至少要满足三项",
+            "符合，因为仅品行障碍就够了",
+            "不符合，因为 APD 要求 psychopathy 分数高"
+          ],
+          "how": [
+            "线索是只有「欺骗和冲动」两项，「不符合其他标准」。",
+            "标准要求七项中至少三项，两项不够，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "In a sample of 100 people with APD, roughly how many would be expected to qualify as psychopaths?",
+          "optionsEn": [
+            "Almost all of them",
+            "About 70 to 80",
+            "About 20 to 30",
+            "None of them"
+          ],
+          "answer": 2,
+          "stem": "在 100 名 APD 患者的样本中，预计大约有多少人符合 psychopath 标准？",
+          "options": [
+            "几乎所有人",
+            "约 70 到 80 人",
+            "约 20 到 30 人",
+            "一个也没有"
+          ],
+          "how": [
+            "题干的分母是「100 名 APD 患者」。",
+            "约 20–30% 的 APD 者符合标准，所以选 C。",
+            "「几乎所有」说的是服刑 psychopath 符合 APD，方向相反。"
+          ]
+        },
+        {
+          "stemEn": "Two inmates both assault someone. One lashes out after a frustrating dispute; the other calmly plans the attack for gain. Which is the better indicator of psychopathy?",
+          "optionsEn": [
+            "The planned attack, because proactive aggression is its hallmark",
+            "The frustrated outburst, because reactive aggression is its hallmark",
+            "Neither, because aggression plays no part in psychopathy",
+            "Both equally, because all aggression has the same source"
+          ],
+          "answer": 0,
+          "stem": "两名囚犯都袭击了别人。一人在令人受挫的争执后爆发；另一人为了好处冷静地策划袭击。哪一种更能指向 psychopathy？",
+          "options": [
+            "策划的袭击，因为主动性攻击是它的标志",
+            "受挫后的爆发，因为反应性攻击是它的标志",
+            "都不能，因为攻击与 psychopathy 无关",
+            "两者相同，因为所有攻击来源都一样"
+          ],
+          "how": [
+            "线索是「冷静地策划」「为了好处」。",
+            "这是主动性攻击，psychopathy 的标志，所以选 A。",
+            "受挫爆发是反应性攻击，常与 APD 和童年创伤联系。"
+          ]
+        },
+        {
+          "stemEn": "A research team must decide between comparing APD with no-APD groups and measuring psychopathy continuously. Which conclusion best fits the lecturer's advice?",
+          "optionsEn": [
+            "Use only group comparison, because continuous scores lose information and cannot reveal any useful pattern",
+            "Use only continuous scores, because diagnostic groups have no value",
+            "Neither design can address antisocial behaviour",
+            "Continuous scores keep more information, but it is best to use both and look for convergence"
+          ],
+          "answer": 3,
+          "stem": "一个研究团队要在比较 APD 与非 APD 组和连续测量 psychopathy 之间作决定。哪个结论最符合老师的建议？",
+          "options": [
+            "只用分组比较，因为连续分数会丢失信息，也无法揭示任何有用的模式",
+            "只用连续分数，因为诊断分组毫无价值",
+            "两种设计都无法研究反社会行为",
+            "连续分数保留更多信息，但最好两者都做并看证据是否收敛"
+          ],
+          "how": [
+            "题干问老师的「建议」。",
+            "连续测量能保留信息、发现非单调关系，老师仍建议并用，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "APD：15 岁起、至少 3 项、满 18 岁；20–30% 的 APD 者是 psychopath；两种设计并用。"
+    },
+    {
+      "id": "L10-P14",
+      "title": "Batson：两条动机路径与终极目标",
+      "titleEn": "Batson: two motivational paths; ultimate goals",
+      "conceptIds": [
+        "L10-C27",
+        "L10-C28"
+      ],
+      "kp": "Batson 提出：共情或同情 → 利他动机（altruistic）；个人痛苦和自我关注 → 利己动机（egoistic）。两种动机都能促进帮助。动机看终极目标（ultimate goal），称赞或帮到人都可能只是意外结果。",
+      "howTo": "问「最终想达到什么」：想让对方好是利他；想减轻自己难受、赢得称赞、避免指责是利己。帮助是否有效、事后是否开心都不决定动机；单次行为不能推断动机。",
+      "items": [
+        {
+          "stemEn": "According to Batson, seeing someone suffer and feeling overwhelmed and distressed oneself tends to promote:",
+          "optionsEn": [
+            "Altruistic motivation",
+            "Empathic concern",
+            "Egoistic motivation",
+            "Self-concept clarity"
+          ],
+          "answer": 2,
+          "stem": "根据 Batson，看到别人受苦时自己感到难以承受和痛苦，往往会促进：",
+          "options": [
+            "利他动机（Altruistic motivation）",
+            "共情关怀（Empathic concern）",
+            "利己动机（Egoistic motivation）",
+            "自我概念清晰度（Self-concept clarity）"
+          ],
+          "how": [
+            "线索是「自己感到难以承受和痛苦」，这是个人痛苦。",
+            "个人痛苦和自我关注促进利己动机，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Nina donates to a charity mainly so that colleagues will see how generous she is, and the charity does benefit. According to Batson, how should this be classified?",
+          "optionsEn": [
+            "Egoistic; the charity's benefit is an unintended consequence",
+            "Altruistic; the charity really did benefit, so her reason does not matter",
+            "Altruistic; donating is always other-oriented",
+            "Neither; only feelings matter, not goals"
+          ],
+          "answer": 0,
+          "stem": "Nina 向慈善机构捐款，主要是为了让同事看到她多慷慨，而慈善机构确实受益了。根据 Batson，应如何归类？",
+          "options": [
+            "利己；慈善机构受益只是意外结果",
+            "利他；慈善机构确实受益了，所以她的理由并不重要",
+            "利他；捐款总是以他人为导向",
+            "都不是；重要的只有感受，不是目标"
+          ],
+          "how": [
+            "线索是「主要是为了让同事看到」，目标是赢得称赞。",
+            "终极目标决定动机，受益只是意外结果，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A nurse stays after her shift because she wants a frightened patient to feel better. The hospital later praises her, and she feels proud. According to Batson's distinction, her helping is:",
+          "optionsEn": [
+            "Egoistic, because she received praise",
+            "Egoistic, because she felt proud afterwards",
+            "Impossible to discuss, because praise cancels motivation",
+            "Altruistic, because praise and pride were unintended consequences"
+          ],
+          "answer": 3,
+          "stem": "一位护士下班后留下来，因为她希望害怕的病人好受些。医院后来表扬了她，她感到自豪。按 Batson 的区分，她的帮助是：",
+          "options": [
+            "利己的，因为她得到了表扬",
+            "利己的，因为她事后感到自豪",
+            "无法讨论，因为表扬抵消了动机",
+            "利他的，因为表扬和自豪只是意外结果"
+          ],
+          "how": [
+            "线索是「希望病人好受些」，这是最初的目标。",
+            "表扬是后来的结果，不改变终极目标，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "An observer sees a stranger help someone once and concludes that the stranger's motivation was altruistic. What is the flaw?",
+          "optionsEn": [
+            "Altruistic motivation has never been shown to exist",
+            "Both motivations can produce helping, so behaviour patterns across changing conditions are needed",
+            "A single helpful act always indicates egoistic motivation, since helpers benefit from feeling good afterwards",
+            "Motivation can be measured only with a brain scan"
+          ],
+          "answer": 1,
+          "stem": "一位旁观者看到陌生人帮助别人一次，就断定其动机是利他的。这一判断错在哪里？",
+          "options": [
+            "利他动机从未被证明存在",
+            "两种动机都能产生帮助，因此需要看条件变化时的行为模式",
+            "单次帮助总是说明利己动机，因为帮助者事后都会感觉良好",
+            "动机只能用脑扫描来测量"
+          ],
+          "how": [
+            "线索是只「帮助别人一次」就下结论。",
+            "单次行为不足以区分动机，要看条件变化后的模式，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "共情 → 利他，个人痛苦 → 利己；动机看终极目标，单次行为判断不了。"
+    },
+    {
+      "id": "L10-P15",
+      "title": "逃离难易范式与发现",
+      "titleEn": "Batson's ease-of-escape paradigm and findings",
+      "conceptIds": [
+        "L10-C29",
+        "L10-C30"
+      ],
+      "kp": "Batson 改变逃离是否容易。利他动机下离开帮不了对方，所以帮助率不受逃离难易影响；利己动机下离开也能减轻不适，逃离容易时帮助率下降。结果：共情组几乎不受影响，个人痛苦组容易走就走，说明利他动机确实存在。",
+      "howTo": "看动机找方向：共情或利他 → 容易走也留下；个人痛苦或利己 → 容易走就走。「容易走仍帮」才是利他证据，「走不了才帮」不能说明。结论是有些帮助出于利他，不是所有人。",
+      "items": [
+        {
+          "stemEn": "If a person's main goal is to reduce their own discomfort, why does easy escape reduce helping?",
+          "optionsEn": [
+            "Leaving is another way to reduce their discomfort",
+            "Leaving makes the other person's suffering worse",
+            "Easy escape increases their empathic concern",
+            "Escape is forbidden when the goal is egoistic"
+          ],
+          "answer": 0,
+          "stem": "如果一个人的主要目标是减轻自己的不适，为什么容易逃离会减少帮助？",
+          "options": [
+            "离开是减轻不适的另一条途径",
+            "离开会让对方的痛苦加重",
+            "容易逃离会增加其共情关怀",
+            "目标是利己时不允许逃离"
+          ],
+          "how": [
+            "线索是目标为「减轻自己的不适」。",
+            "帮忙和离开都能达到这个目标，能走就不必帮，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Participants reporting mainly personal distress are most likely to help in which condition?",
+          "optionsEn": [
+            "When they are told they may leave immediately",
+            "When the other person is out of sight and they may leave",
+            "When helping is unrelated to how they feel",
+            "When leaving is difficult and they must stay and interact"
+          ],
+          "answer": 3,
+          "stem": "主要报告个人痛苦的参与者在哪种条件下最可能帮助？",
+          "options": [
+            "被告知可以马上离开时",
+            "对方不在视线内且他们可以离开时",
+            "帮助与自己的感受无关时",
+            "难以离开、必须留下来互动时"
+          ],
+          "how": [
+            "线索是「个人痛苦」，属于利己路径。",
+            "他们只有逃不掉时才靠帮忙减轻不适，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Which result would be the strongest evidence of other-oriented motivation?",
+          "optionsEn": [
+            "Helping only when no way of leaving exists",
+            "Helping only when an audience is present",
+            "Continuing to help even when leaving would be easy",
+            "Helping only after being promised praise"
+          ],
+          "answer": 2,
+          "stem": "哪种结果最能证明动机以他人为导向？",
+          "options": [
+            "只有在无法离开时才帮助",
+            "只有在有人观看时才帮助",
+            "即使很容易离开也继续帮助",
+            "只有在被承诺称赞后才帮助"
+          ],
+          "how": [
+            "题干找最强的「以他人为导向」证据。",
+            "离开帮不了对方，容易走仍帮才支持利他，所以选 C。",
+            "走不了才帮，利己动机同样能解释。"
+          ]
+        },
+        {
+          "stemEn": "In Batson's research, helping among participants reporting compassion was barely affected by ease of escape. What is the appropriate conclusion?",
+          "optionsEn": [
+            "All participants in the study were altruistic, and this applied whether or not escape was easy for them",
+            "Some helping appears altruistically motivated, challenging the view that all helping is selfish",
+            "Egoistic motivation does not produce helping",
+            "Every other explanation has been permanently ruled out"
+          ],
+          "answer": 1,
+          "stem": "在 Batson 的研究中，报告同情的参与者的帮助几乎不受逃离难易影响。恰当的结论是什么？",
+          "options": [
+            "研究中所有参与者都是利他的，无论逃离对他们来说是否容易",
+            "有些帮助看来出于利他动机，这挑战了所有帮助都自私的观点",
+            "利己动机不会产生帮助",
+            "所有其他解释都已被永久排除"
+          ],
+          "how": [
+            "线索是「几乎不受逃离难易影响」。",
+            "这支持至少有些帮助出于利他，所以选 B。",
+            "并非每个人都如此，别选绝对说法。"
+          ]
+        }
+      ],
+      "recap": "容易逃离：利他者仍帮，利己者离开；受影响大的是个人痛苦组。"
+    },
+    {
+      "id": "L10-P16",
+      "title": "影响帮助的特质与情境因素",
+      "titleEn": "Trait and situational influences on helping",
+      "conceptIds": [
+        "L10-C31",
+        "L10-C32",
+        "L10-C33",
+        "L10-C38",
+        "L10-C39"
+      ],
+      "kp": "特质共情关怀、情绪调节能力和自我概念清晰度促进关怀而非个人痛苦。时间压力减少帮助，自我威胁会改变帮助方式。情感共情是 feeling with，共情关怀是 feeling for，后者最能预测助人。利他帮助不一定都由共情驱动。",
+      "howTo": "自我清晰、能调节情绪 → 关怀；易被淹没 → 个人痛苦。赶时间或有危险时不帮，不等于不关心。预测助人选共情关怀。Batson 没有测 psychopathy，相关说法只是老师的推测。",
+      "items": [
+        {
+          "stemEn": "Why is higher self-concept clarity expected to promote empathic concern?",
+          "optionsEn": [
+            "It keeps the boundary between self and other clear, so the other's pain is not absorbed as one's own",
+            "It makes people more self-centred, so they notice distress more and take others' pain as their own concern",
+            "It reduces all emotional responses to other people",
+            "It raises affective empathy to the highest possible level"
+          ],
+          "answer": 0,
+          "stem": "为什么较高的自我概念清晰度（self-concept clarity）预计会促进共情关怀？",
+          "options": [
+            "它让自我与他人的界限保持清晰，不会把对方的痛苦吸收成自己的痛苦",
+            "它让人更自我中心，因而更注意到痛苦，并把他人的痛苦当成自己的事",
+            "它减少对他人的一切情绪反应",
+            "它把情感共情提升到最高水平"
+          ],
+          "how": [
+            "题干问「自我概念清晰度」如何促进关怀。",
+            "共情不应模糊自他界限，界限清晰才不被痛苦吸收，所以选 A。",
+            "清晰度不是自私或自大。"
+          ]
+        },
+        {
+          "stemEn": "Students told they are running late walk past a person moaning by the path more often than students with time to spare. What does this best show?",
+          "optionsEn": [
+            "The hurrying students are low in trait empathic concern",
+            "Time pressure raises altruistic motivation",
+            "Situational factors such as time pressure can reduce helping",
+            "Helping is determined only by personality"
+          ],
+          "answer": 2,
+          "stem": "被告知要迟到的学生比时间充裕的学生更常走过路边呻吟的人而不停下。这最能说明什么？",
+          "options": [
+            "赶路的学生特质共情关怀低",
+            "时间压力提高利他动机",
+            "时间压力等情境因素会减少帮助",
+            "帮助完全由人格决定"
+          ],
+          "how": [
+            "线索是被告知「要迟到」，这是实验给的状态。",
+            "赶时间的人更少帮助，说明情境有力，所以选 C。",
+            "这不能把每个赶时间的人定义为不关心别人。"
+          ]
+        },
+        {
+          "stemEn": "A questionnaire uses 'I have given a lift to a hitchhiking stranger' as a measure of altruism. What is the lecturer's criticism?",
+          "optionsEn": [
+            "It measures primary psychopathy rather than altruism, since only callous people would refuse",
+            "Declining may reflect a judgement about threat to self, not low concern",
+            "Only people high in boldness can understand this item",
+            "It should be reverse-scored because helping is rare"
+          ],
+          "answer": 1,
+          "stem": "一份问卷用「我曾让搭便车的陌生人上车」来测利他。老师的批评是什么？",
+          "options": [
+            "它测的是原发型 psychopathy 而不是利他，因为只有冷酷的人才会拒绝",
+            "不让对方上车可能反映对自身威胁的判断，而不是关心少",
+            "只有大胆高的人才能理解这道题",
+            "因为帮助很少见，所以应该反向计分"
+          ],
+          "how": [
+            "线索是让「陌生人」搭车，这里有安全风险。",
+            "自我威胁情境不是检验利他的好情境，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "In the lecturer's terms, what is the difference between 'feeling with' and 'feeling for' another person?",
+          "optionsEn": [
+            "Feeling with is cognitive empathy; feeling for is personal distress",
+            "Feeling with is personal distress; feeling for is cognitive empathy",
+            "Both are different names for cognitive empathy",
+            "Feeling with is affective empathy; feeling for is empathic concern"
+          ],
+          "answer": 3,
+          "stem": "按老师的说法，与他人一同感受（feeling with）和为他人关切（feeling for）有什么不同？",
+          "options": [
+            "前者是认知共情；后者是个人痛苦",
+            "前者是个人痛苦；后者是认知共情",
+            "两者都是认知共情的别名",
+            "前者是情感共情；后者是共情关怀"
+          ],
+          "how": [
+            "题干对比「feeling with」和「feeling for」。",
+            "前者是情感共情，后者是共情关怀，所以选 D。",
+            "共情关怀最能预测助人，情感共情过高可能变成个人痛苦。"
+          ]
+        },
+        {
+          "stemEn": "Which statement is supported by the class discussion?",
+          "optionsEn": [
+            "Helping because of moral values is theoretically possible without felt empathy",
+            "Empathy is a necessary precondition of every altruistic act",
+            "Batson's experiments showed that people high in psychopathy report the most personal distress",
+            "Cognitive empathy is the most reliable predictor of helping"
+          ],
+          "answer": 0,
+          "stem": "哪种说法得到课堂讨论的支持？",
+          "options": [
+            "理论上，没有体验到共情也可能出于道德价值而帮助",
+            "共情是每一次利他行为的必要前提",
+            "Batson 的实验显示 psychopathy 高的人报告的个人痛苦最多",
+            "认知共情是助人最可靠的预测指标"
+          ],
+          "how": [
+            "老师回答「是也不是」：共情是常见驱动，道德价值也可能驱动，所以选 A。",
+            "Batson 没有测 psychopathy；老师只是推测高分者可能关怀和痛苦都低。",
+            "最可靠的预测指标是共情关怀，不是认知共情。"
+          ]
+        }
+      ],
+      "recap": "自我清晰、会调节 → 关怀；feeling for 最能预测助人；时间压力和危险也改变帮助。"
+    }
+  ]
+}

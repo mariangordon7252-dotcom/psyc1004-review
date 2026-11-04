@@ -1,0 +1,1680 @@
+{
+  "lectureId": 6,
+  "points": [
+    {
+      "id": "L6-P01",
+      "title": "依恋的来源：Harlow 与 Bowlby",
+      "titleEn": "Origins of attachment: Harlow and Bowlby",
+      "conceptIds": [
+        "L6-C01",
+        "L6-C02",
+        "L6-C03"
+      ],
+      "kp": "主要照料者不必是母亲，儿童可依恋多人。Harlow：铁丝代理喂奶，幼猴仍偏好绒布代理，说明接触安慰本身重要。Bowlby：依恋有进化生存价值，照料者是探索的安全基地和受威胁时的避风港。",
+      "howTo": "「食物之外仍偏好柔软」→接触安慰。「确认照料者在就去探索」→安全基地；「受惊跑回来」→避风港。进化基础不等于类型由基因固定，文化也影响表达；猴研究推广有限。",
+      "items": [
+        {
+          "stemEn": "A grandfather handles most of a toddler's daily care, and the toddler also seeks out her mother when upset. Which statement is most accurate?",
+          "optionsEn": [
+            "Only the biological mother can be called a primary caregiver",
+            "A child can attach to only one person, so one bond must be false",
+            "He can be a primary caregiver, and she can attach to both",
+            "Her attachment comes only from whoever feeds her most of the time"
+          ],
+          "answer": 2,
+          "stem": "祖父承担幼儿的大部分日常照料，幼儿难过时也会去找妈妈。哪项说法最准确？",
+          "options": [
+            "只有生物学母亲才能称为主要照料者",
+            "儿童只能依恋一个人，所以其中一种联结是假的",
+            "祖父可以是主要照料者，她也可以依恋两人",
+            "她的依恋只来自大部分时间喂她的人"
+          ],
+          "how": [
+            "题干说祖父承担「大部分日常照料」，幼儿难过时「也会去找妈妈」。",
+            "主要照料者不限于母亲，儿童可依恋多人，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "In Harlow's research, a wire surrogate provided milk and a terrycloth surrogate provided none. How did the young monkeys behave?",
+          "optionsEn": [
+            "They preferred the cloth surrogate and sought it when frightened",
+            "They stayed on the wire surrogate at all times because it gave them milk",
+            "They showed no preference between the two surrogates in any situation",
+            "They avoided both surrogates and sought contact with other monkeys only"
+          ],
+          "answer": 0,
+          "stem": "在 Harlow 的研究中，铁丝代理母亲提供奶，绒布代理母亲不提供奶。幼猴表现如何？",
+          "options": [
+            "它们偏好绒布代理，受惊时也寻求它",
+            "它们一直待在铁丝代理上，因为它提供奶",
+            "它们在任何情境下对两个代理都没有偏好",
+            "它们回避两个代理，只寻求与其他猴子接触"
+          ],
+          "how": [
+            "题干把「提供奶」和「不提供奶」分开，看喂食能否解释依恋。",
+            "幼猴仍偏好绒布代理，受惊时也找它，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A student says Harlow proved that food does not matter and fully explained human attachment. What is the best correction?",
+          "optionsEn": [
+            "Harlow showed that food is the only basis of human attachment",
+            "Harlow's findings apply directly to all human families, without limits",
+            "Harlow's monkeys formed no preferences, so nothing can be concluded",
+            "Contact comfort matters, but this is not a full account of humans"
+          ],
+          "answer": 3,
+          "stem": "一名学生说，Harlow 证明了食物不重要，并完全解释了人类依恋。最好的更正是什么？",
+          "options": [
+            "Harlow 表明食物是人类依恋的唯一基础",
+            "Harlow 的发现可以无限制地直接用于所有人类家庭",
+            "Harlow 的猴子没有形成偏好，所以无法得出结论",
+            "接触安慰重要，但这不是对人类的完整解释"
+          ],
+          "how": [
+            "学生说「食物不重要」并「完全解释了人类依恋」，两点都说过头了。",
+            "研究说明依恋不能还原为喂食；代理和隔离环境也限制推广，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "In an unfamiliar park, a child checks that her father is close by and then runs off to play. Which function of attachment does this illustrate?",
+          "optionsEn": [
+            "Safe haven",
+            "Secure base",
+            "Contact comfort",
+            "Separation anxiety"
+          ],
+          "answer": 1,
+          "stem": "在陌生的公园里，孩子确认爸爸就在附近，然后跑去玩。这说明依恋的哪种功能？",
+          "options": [
+            "避风港（safe haven）",
+            "安全基地（secure base）",
+            "接触安慰（contact comfort）",
+            "分离焦虑（separation anxiety）"
+          ],
+          "how": [
+            "题干说「确认爸爸就在附近」后「跑去玩」，关键动作是探索。",
+            "照料者支持探索就是安全基地，所以选 B。",
+            "A 避风港是受威胁时回来寻求安慰。"
+          ]
+        },
+        {
+          "stemEn": "Separation anxiety appears across cultures and in visually impaired children, though its timing varies. What does this pattern suggest about attachment?",
+          "optionsEn": [
+            "Attachment is a product of cultural practices alone",
+            "Attachment unfolds in the same way in every culture",
+            "A child's attachment type is fixed by genes from birth onward",
+            "Attachment has an evolved basis, with culture shaping expression"
+          ],
+          "answer": 3,
+          "stem": "分离焦虑出现在不同文化中，也出现在视障儿童身上，但出现时间有差异。这种情况说明依恋怎样？",
+          "options": [
+            "依恋只是文化习俗的产物",
+            "依恋在每种文化中都以同样方式展开",
+            "儿童的依恋类型从出生起由基因固定",
+            "依恋有进化基础，文化塑造其表达"
+          ],
+          "how": [
+            "题干一边说「出现在不同文化中」，一边说「出现时间有差异」，要同时解释两点。",
+            "进化和成熟基础加上文化塑造的表达，所以选 D。",
+            "C 错在把成熟因素推到依恋类型由基因固定。"
+          ]
+        }
+      ],
+      "recap": "依恋不等于谁喂奶。安全基地支持探索，避风港提供安慰。进化基础加文化表达。"
+    },
+    {
+      "id": "L6-P02",
+      "title": "陌生情境程序与分离焦虑",
+      "titleEn": "The Strange Situation and separation anxiety",
+      "conceptIds": [
+        "L6-C04"
+      ],
+      "kp": "陌生情境程序常用于约 12–18 个月婴儿，观察探索、陌生人、分离和重聚。重聚行为特别关键。分离焦虑约 7–9 个月起出现，有个体与文化差异。一次日常送别不能代替标准化程序。",
+      "howTo": "问年龄记 12–18 个月；分离焦虑记约 7–9 个月起。分类看重聚：接近、接受安慰、恢复探索。看到「哭得多就依恋差」「不哭就安全」都排除。",
+      "items": [
+        {
+          "stemEn": "With infants of about what age is the Strange Situation commonly used?",
+          "optionsEn": [
+            "About 3 months",
+            "About 12-18 months",
+            "About 7-9 months",
+            "About 3-5 years"
+          ],
+          "answer": 1,
+          "stem": "陌生情境程序（Strange Situation）通常用于大约多大的婴儿？",
+          "options": [
+            "约 3 个月",
+            "约 12–18 个月",
+            "约 7–9 个月",
+            "约 3–5 岁"
+          ],
+          "how": [
+            "题干问「陌生情境程序」的适用年龄。",
+            "它常用于约 12–18 个月的婴儿，所以选 B。",
+            "C 的 7–9 个月是分离焦虑开始出现的时间。"
+          ]
+        },
+        {
+          "stemEn": "An 8-month-old has begun to become upset whenever a familiar caregiver leaves the room. What is this called?",
+          "optionsEn": [
+            "Separation anxiety",
+            "Contact comfort",
+            "Disorganised attachment",
+            "Imprinting"
+          ],
+          "answer": 0,
+          "stem": "一名 8 个月大的婴儿开始在熟悉的照料者离开房间时感到不安。这叫什么？",
+          "options": [
+            "分离焦虑（separation anxiety）",
+            "接触安慰（contact comfort）",
+            "失序型依恋（disorganised attachment）",
+            "印刻（imprinting）"
+          ],
+          "how": [
+            "题干说「8 个月大」，且在「熟悉的照料者」离开时不安。",
+            "与熟悉照料者分离时不安就是分离焦虑，约 7–9 个月起出现，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Two infants cry equally hard when their mothers leave in the Strange Situation. What should a researcher examine next to tell their patterns apart?",
+          "optionsEn": [
+            "Which infant cried for longer during separation",
+            "Which mother is the infant's biological parent",
+            "How each infant behaves when the mother returns",
+            "How much milk each infant drinks during the day"
+          ],
+          "answer": 2,
+          "stem": "在陌生情境程序中，两名婴儿在妈妈离开时哭得同样厉害。研究者接下来应考察什么来区分他们的模式？",
+          "options": [
+            "哪名婴儿在分离时哭得更久",
+            "哪位妈妈是婴儿的生物学母亲",
+            "妈妈回来时每名婴儿的表现",
+            "每名婴儿白天喝多少奶"
+          ],
+          "how": [
+            "题干说两人「哭得同样厉害」，分离时的哭泣已无法区分。",
+            "分类的关键是重聚时的接近、安慰和恢复，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A nursery teacher sees a child cry hard at drop-off for a week and records 'poor attachment'. What is the best evaluation?",
+          "optionsEn": [
+            "Correct, because more crying always means a worse attachment",
+            "Correct, because one setting is enough to classify a relationship",
+            "Crying shows secure attachment, so the record should say 'secure'",
+            "Crying alone cannot show this, and drop-off is not the procedure"
+          ],
+          "answer": 3,
+          "stem": "一位幼儿园老师看到孩子入园时连续一周大哭，就记录为「依恋不好」。最好的评价是什么？",
+          "options": [
+            "正确，因为哭得越多依恋总是越差",
+            "正确，因为一个场合足以给关系分类",
+            "哭泣表明安全型依恋，所以应记录为「安全」",
+            "单靠哭泣不能说明这点，日常送别也不是标准程序"
+          ],
+          "how": [
+            "老师只凭「入园时」「大哭」下结论，既没看重聚，也不是研究程序。",
+            "哭泣本身不等于依恋差，日常观察不能替代标准化程序，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "重点看重聚，不看哭不哭。一次送别不能分类。"
+    },
+    {
+      "id": "L6-P03",
+      "title": "安全、回避与抗拒型",
+      "titleEn": "Secure, avoidant and resistant attachment",
+      "conceptIds": [
+        "L6-C05",
+        "L6-C06",
+        "L6-C07"
+      ],
+      "kp": "安全型：分离可能难过，重聚时主动接近、被安慰后恢复探索。回避型：外显痛苦少，重聚时回避或忽略。抗拒型：分离明显不安，重聚时既接近又生气抵抗，难以安抚。分类看行为，不直接读取内心。",
+      "howTo": "看重聚三问：是否接近？安慰有效吗？能回去玩吗？都是→安全。不接近、不看→回避。要抱又推、难平静→抗拒。别把「不哭」当安全，也别把回避当没有需要。",
+      "items": [
+        {
+          "stemEn": "An infant cries when her mother leaves. On her return, the infant goes to her, is soon soothed and goes back to the toys. Which pattern fits best?",
+          "optionsEn": [
+            "Secure",
+            "Avoidant",
+            "Ambivalent/resistant",
+            "Disorganised"
+          ],
+          "answer": 0,
+          "stem": "婴儿在妈妈离开时大哭。妈妈回来后，婴儿走向她，很快被安抚，又回去玩玩具。哪种模式最符合？",
+          "options": [
+            "安全型（secure）",
+            "回避型（avoidant）",
+            "矛盾／抗拒型（ambivalent/resistant）",
+            "失序型（disorganised）"
+          ],
+          "how": [
+            "题干的重聚表现是「走向她」「很快被安抚」「又回去玩玩具」。",
+            "接近、安慰有效、恢复探索就是安全型，所以选 A。",
+            "分离时哭不影响判断，安全型也可以难过。"
+          ]
+        },
+        {
+          "stemEn": "An infant shows little visible distress at separation and looks away and keeps playing when the mother returns. Which pattern fits best?",
+          "optionsEn": [
+            "Secure",
+            "Ambivalent/resistant",
+            "Avoidant",
+            "Disorganised"
+          ],
+          "answer": 2,
+          "stem": "婴儿分离时几乎没有外显痛苦，妈妈回来时把脸转开、继续玩。哪种模式最符合？",
+          "options": [
+            "安全型（secure）",
+            "矛盾／抗拒型（ambivalent/resistant）",
+            "回避型（avoidant）",
+            "失序型（disorganised）"
+          ],
+          "how": [
+            "题干说「几乎没有外显痛苦」，重聚时「把脸转开」。",
+            "外显痛苦少、重聚回避或忽略就是回避型，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "An infant is very upset at separation. At reunion, he reaches up to be held, then hits out at the caregiver and stays hard to calm. Which pattern fits best?",
+          "optionsEn": [
+            "Avoidant",
+            "Secure",
+            "Disorganised",
+            "Ambivalent/resistant"
+          ],
+          "answer": 3,
+          "stem": "婴儿分离时非常不安。重聚时他伸手要抱，然后又打照料者，并且很难平静。哪种模式最符合？",
+          "options": [
+            "回避型（avoidant）",
+            "安全型（secure）",
+            "失序型（disorganised）",
+            "矛盾／抗拒型（ambivalent/resistant）"
+          ],
+          "how": [
+            "题干说「伸手要抱」又「打照料者」，并且「很难平静」，既接近又抵抗。",
+            "这是矛盾／抗拒型，所以选 D。",
+            "C 失序型的核心是缺少连贯策略，如冻结、迷惘，而这里的模式是连贯的。"
+          ]
+        },
+        {
+          "stemEn": "A parent says, 'My baby never cries when I leave and ignores me when I return, so she is the most secure and has no need for me.' What is the best reply?",
+          "optionsEn": [
+            "Correct, because security means showing the least possible distress",
+            "This fits avoidant behaviour, and low display does not mean no need",
+            "Correct, because babies with secure attachment do not need caregivers",
+            "This fits resistant behaviour, because she both approaches and resists"
+          ],
+          "answer": 1,
+          "stem": "一位家长说：「我走时宝宝从不哭，回来时也不理我，所以她最安全，也不需要我。」最好的回应是什么？",
+          "options": [
+            "正确，因为安全意味着表现最少的痛苦",
+            "这符合回避型行为，外显少不等于没有需要",
+            "正确，因为安全型依恋的婴儿不需要照料者",
+            "这符合抗拒型行为，因为她既接近又抵抗"
+          ],
+          "how": [
+            "家长把「从不哭」和「不理我」当成安全，还推出「不需要我」。",
+            "少痛苦加重聚回避符合回避型，分类不读取全部内在需要，所以选 B。",
+            "D 不对：题干没有接近后又抵抗的表现。"
+          ]
+        }
+      ],
+      "recap": "安全：接近且能安抚。回避：较少外显寻求。抗拒：要靠近又抵抗。"
+    },
+    {
+      "id": "L6-P04",
+      "title": "失序型与比例边界",
+      "titleEn": "Disorganised attachment and the percentages",
+      "conceptIds": [
+        "L6-C08"
+      ],
+      "kp": "失序型缺少连贯应对策略，可能冻结、迷惘或出现矛盾的接近与回避。Ainsworth 经典分类是前三种，Main 与 Solomon 后来提出失序型。65%、21%、14% 是三分类示例，已合计 100%，不是全球常数。",
+      "howTo": "「冻结、迷惘、动作矛盾」→失序。问提出者：前三种 Ainsworth，失序 Main 与 Solomon。比例记安全 65、回避 21、抗拒 14，不能再加失序型，也不能当全球固定值。",
+      "items": [
+        {
+          "stemEn": "At reunion, an infant approaches the caregiver, freezes and looks dazed, showing no coherent way of coping. Which pattern fits best?",
+          "optionsEn": [
+            "Ambivalent/resistant",
+            "Disorganised",
+            "Avoidant",
+            "Secure"
+          ],
+          "answer": 1,
+          "stem": "重聚时，婴儿走向照料者，随即僵住、显得迷惘，没有连贯的应对方式。哪种模式最符合？",
+          "options": [
+            "矛盾／抗拒型（ambivalent/resistant）",
+            "失序型（disorganised）",
+            "回避型（avoidant）",
+            "安全型（secure）"
+          ],
+          "how": [
+            "题干说「僵住」「迷惘」，「没有连贯的应对方式」。",
+            "缺少连贯策略正是失序型，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Who is credited with adding the disorganised classification to the attachment patterns?",
+          "optionsEn": [
+            "Harlow",
+            "Ainsworth",
+            "Bowlby",
+            "Main and Solomon"
+          ],
+          "answer": 3,
+          "stem": "谁被认为在依恋模式中增加了失序型分类？",
+          "options": [
+            "Harlow",
+            "Ainsworth",
+            "Bowlby",
+            "Main 与 Solomon"
+          ],
+          "how": [
+            "题干问「增加了失序型分类」的人，也就是后来的补充者。",
+            "失序型由 Main 与 Solomon 后来提出，所以选 D。",
+            "B 是陷阱：Ainsworth 的经典分类主要是前三种。"
+          ]
+        },
+        {
+          "stemEn": "Which matching of the classic slide percentages is correct?",
+          "optionsEn": [
+            "Secure 65%, avoidant 21%, ambivalent/resistant 14%",
+            "Secure 21%, avoidant 65%, ambivalent/resistant 14%",
+            "Secure 65%, avoidant 14%, ambivalent/resistant 21%",
+            "Secure 14%, avoidant 21%, ambivalent/resistant 65%"
+          ],
+          "answer": 0,
+          "stem": "哪组与经典课件比例的对应是正确的？",
+          "options": [
+            "安全型 65%，回避型 21%，矛盾／抗拒型 14%",
+            "安全型 21%，回避型 65%，矛盾／抗拒型 14%",
+            "安全型 65%，回避型 14%，矛盾／抗拒型 21%",
+            "安全型 14%，回避型 21%，矛盾／抗拒型 65%"
+          ],
+          "how": [
+            "题干问「经典课件比例」，从大到小依次是安全、回避、抗拒。",
+            "安全 65、回避 21、抗拒 14，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A study guide lists secure 65%, avoidant 21%, resistant 14% and adds 'disorganised 15%', calling this the global distribution. What is wrong with this?",
+          "optionsEn": [
+            "Disorganised should be listed as 21%, replacing the avoidant figure",
+            "Secure should be lower, because Ainsworth found only two patterns",
+            "The three already total 100%, and they are not a global constant",
+            "Nothing, because the four figures were reported together by Ainsworth"
+          ],
+          "answer": 2,
+          "stem": "一份复习资料列出安全 65%、回避 21%、抗拒 14%，再加上「失序 15%」，并称之为全球分布。这有什么问题？",
+          "options": [
+            "失序型应列为 21%，取代回避型的数字",
+            "安全型应该更低，因为 Ainsworth 只发现两种模式",
+            "这三个数字已合计 100%，也不是全球常数",
+            "没有问题，因为四个数字由 Ainsworth 一起报告"
+          ],
+          "how": [
+            "资料「再加上」失序型，又「称之为全球分布」，这是两个错误。",
+            "三分类示例已合计 100%，也不是全球固定比例，所以选 C。"
+          ]
+        }
+      ],
+      "recap": "65/21/14 已合计 100%，别再加失序型。失序型由 Main 与 Solomon 后来提出。"
+    },
+    {
+      "id": "L6-P05",
+      "title": "内部工作模型与连续性",
+      "titleEn": "Internal working models and continuity",
+      "conceptIds": [
+        "L6-C09"
+      ],
+      "kp": "内部工作模型是关于他人是否可靠、自己是否值得被照顾的期待。早期依恋可能影响后来，但生活事件和支持可以改变路径。成人问卷与婴儿陌生情境是不同测量，相似名称不等于一对一预测。",
+      "howTo": "「别人靠得住吗、我值得吗」→内部工作模型。看到「婴儿类型决定成人结局」或「由分手反应倒推婴儿类型」就排除。稳妥说法是可能影响，并随关系和情境更新。",
+      "items": [
+        {
+          "stemEn": "After a childhood of unreliable care, a young adult expects that others will let her down and doubts she deserves care. Which concept describes these expectations?",
+          "optionsEn": [
+            "Secure base",
+            "Sociometric status",
+            "Internal working model",
+            "Contact comfort"
+          ],
+          "answer": 2,
+          "stem": "童年照料不稳定后，一位年轻人预期别人会让她失望，并怀疑自己是否值得被照顾。哪个概念描述这些预期？",
+          "options": [
+            "安全基地（secure base）",
+            "社会计量地位（sociometric status）",
+            "内部工作模型（internal working model）",
+            "接触安慰（contact comfort）"
+          ],
+          "how": [
+            "题干的两个线索：「别人会让她失望」和「是否值得被照顾」。",
+            "关于他人是否可靠、自己是否值得的期待就是内部工作模型，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A man who found trust hard early in life gradually relies on a supportive partner over many years. What does this best illustrate?",
+          "optionsEn": [
+            "Early attachment has no influence on later relationships at all",
+            "Infant type fixes adult outcomes, so the change must be superficial",
+            "The partner has changed his infant attachment classification itself",
+            "Working models can be updated by later relationships and contexts"
+          ],
+          "answer": 3,
+          "stem": "一位早年难以信任他人的男士，多年来逐渐依靠给予支持的伴侣。这最能说明什么？",
+          "options": [
+            "早期依恋对后来的关系完全没有影响",
+            "婴儿类型决定成人结果，所以这一变化只是表面的",
+            "伴侣改变了他婴儿期的依恋分类本身",
+            "工作模型可以被后来的关系和情境更新"
+          ],
+          "how": [
+            "题干从「早年难以信任」变为「逐渐依靠」支持的伴侣。",
+            "后续互动可以改变期待，所以选 D。",
+            "A 走得太远：新经验不代表早期经验不重要。"
+          ]
+        },
+        {
+          "stemEn": "In adult romantic relationships, someone worries about being abandoned and repeatedly seeks reassurance. Which adult tendency does this fit?",
+          "optionsEn": [
+            "Anxious/ambivalent",
+            "Avoidant",
+            "Secure",
+            "Disorganised"
+          ],
+          "answer": 0,
+          "stem": "在成人浪漫关系中，某人担心被抛弃，并反复寻求确认。这符合哪种成人倾向？",
+          "options": [
+            "焦虑／矛盾型（anxious/ambivalent）",
+            "回避型（avoidant）",
+            "安全型（secure）",
+            "失序型（disorganised）"
+          ],
+          "how": [
+            "题干说「担心被抛弃」「反复寻求确认」。",
+            "这是课堂成人类比中的焦虑／矛盾型，所以选 A。",
+            "B 回避型强调自我依赖，压低依赖需要。"
+          ]
+        },
+        {
+          "stemEn": "After seeing a friend's anxious reaction to a break-up, a student concludes that the friend was an ambivalent infant with inconsistent parents. Why is this unjustified?",
+          "optionsEn": [
+            "Adult and infant measures differ, and later experience matters",
+            "Adult relationships are completely unrelated to any form of attachment",
+            "Infant classifications are always the opposite of adult relationship styles",
+            "Break-up reactions can only be studied through the Strange Situation"
+          ],
+          "answer": 0,
+          "stem": "看到朋友分手时的焦虑反应后，一名学生断定朋友婴儿期是矛盾型，且父母不稳定。为什么这没有依据？",
+          "options": [
+            "成人与婴儿的测量不同，后来的经历也有影响",
+            "成人关系与任何形式的依恋都完全无关",
+            "婴儿分类总是与成人关系风格相反",
+            "分手反应只能通过陌生情境程序来研究"
+          ],
+          "how": [
+            "学生从「分手时的焦虑反应」倒推「婴儿期」类型和父母行为。",
+            "测量不同，后续经历与共同因素也有影响，不能一对一倒推，所以选 A。"
+          ]
+        }
+      ],
+      "recap": "连续性不等于命运。工作模型可更新；成人问卷不等于婴儿陌生情境。"
+    },
+    {
+      "id": "L6-P06",
+      "title": "友谊的发展与接触机会",
+      "titleEn": "Friendship development and opportunity",
+      "conceptIds": [
+        "L6-C10",
+        "L6-C11"
+      ],
+      "kp": "约 6 岁及以前友谊突出共同活动和即时互惠；约 7–12 岁重陪伴和互相支持；青春期重亲密和自我表露。这是平均趋势。同性别朋友多，既可能是选择，也受成人分组和接触机会影响。",
+      "howTo": "「一起玩、借玩具」→共同活动；「帮我、站我这边」→陪伴承诺；「告诉他我的担心」→亲密与自我表露。解释同性别朋友时同时问选择和机会。遗传贡献不等于角色固定。",
+      "items": [
+        {
+          "stemEn": "A 5-year-old says, 'He's my friend because he lets me use his blocks and we play together.' What does this most highlight?",
+          "optionsEn": [
+            "Intimacy and self-disclosure",
+            "Commitment and loyalty under pressure",
+            "Shared activity and immediate reciprocity",
+            "Sociometric popularity among classmates in general"
+          ],
+          "answer": 2,
+          "stem": "一名 5 岁儿童说：「他是我的朋友，因为他让我用他的积木，我们一起玩。」这最突出什么？",
+          "options": [
+            "亲密与自我表露（intimacy and self-disclosure）",
+            "压力之下的承诺与忠诚",
+            "共同活动与即时互惠",
+            "同学中普遍的社会计量受欢迎度（sociometric popularity）"
+          ],
+          "how": [
+            "题干的「让我用他的积木」「一起玩」都是当下的活动和交换。",
+            "约 6 岁及以前友谊突出共同活动和即时互惠，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A 15-year-old says, 'I can tell her my worries, and she won't laugh at me.' What does this most highlight?",
+          "optionsEn": [
+            "Intimacy and self-disclosure",
+            "Shared activity",
+            "Resource dilution",
+            "Dominance"
+          ],
+          "answer": 0,
+          "stem": "一名 15 岁少年说：「我可以告诉她我的担心，她不会笑我。」这最突出什么？",
+          "options": [
+            "亲密与自我表露（intimacy and self-disclosure）",
+            "共同活动（shared activity）",
+            "资源稀释（resource dilution）",
+            "支配地位（dominance）"
+          ],
+          "how": [
+            "题干说能告诉朋友「我的担心」，且「不会笑我」，这是信任和脆弱感。",
+            "青春期更突出亲密与自我表露，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A 5-year-old comforts a sad friend, and a 16-year-old makes friends mainly through a sports team. What do these examples show?",
+          "optionsEn": [
+            "Both children are developmentally delayed for their ages",
+            "Age trends are average emphases, not fixed stages for everyone",
+            "Friendship stages are mutually exclusive and tied to birthdays",
+            "Younger children cannot care about friends' feelings in any way"
+          ],
+          "answer": 1,
+          "stem": "一名 5 岁儿童安慰难过的朋友，一名 16 岁少年主要通过运动队交朋友。这些例子说明什么？",
+          "options": [
+            "两个孩子都比同龄人发展迟缓",
+            "年龄趋势是平均重点，不是人人一致的固定阶段",
+            "友谊阶段彼此互斥，并与生日挂钩",
+            "年幼儿童完全不能关心朋友的感受"
+          ],
+          "how": [
+            "题干里「5 岁」会安慰朋友，「16 岁」靠活动交友，都偏离各自的典型重点。",
+            "这说明趋势是平均重点，不是固定阶段，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A summer camp assigns cabins and activities by gender, and most friendships formed there are same-gender. What should be considered first?",
+          "optionsEn": [
+            "Same-gender friendship must reflect innate interests alone",
+            "The camp's friendships show that the children are transgender",
+            "Boys and girls can never have shared interests or activities",
+            "The arrangement changed who had the opportunity to meet whom"
+          ],
+          "answer": 3,
+          "stem": "夏令营按性别分配小屋和活动，那里形成的友谊大多是同性别的。首先应考虑什么？",
+          "options": [
+            "同性别友谊一定只反映先天兴趣",
+            "夏令营的友谊说明这些孩子是跨性别者",
+            "男孩和女孩永远不可能有共同兴趣或活动",
+            "这种安排改变了谁有机会认识谁"
+          ],
+          "how": [
+            "题干说夏令营「按性别分配」小屋和活动，接触机会已被环境设定。",
+            "选择与机会同时存在，先考虑安排对机会的影响，所以选 D。",
+            "B 混淆了不同性别友谊与 transgender 身份。"
+          ]
+        },
+        {
+          "stemEn": "Identical twins are more alike than fraternal twins in sex-typed behaviour. A student says this proves gender roles are fixed by genes. What is the best evaluation?",
+          "optionsEn": [
+            "Correct, because twin studies rule out all effects of culture",
+            "Overclaimed: genetic contribution is a population-specific statistic",
+            "Correct, because identical twins share the same peers and classrooms",
+            "Overclaimed: twin studies show that genes have no effect on behaviour"
+          ],
+          "answer": 1,
+          "stem": "同卵双生子在性别典型行为上比异卵双生子更相似。一名学生说这证明性别角色由基因固定。最好的评价是什么？",
+          "options": [
+            "正确，因为双生子研究排除了文化的所有影响",
+            "过度断言：遗传贡献是针对特定人群的统计概念",
+            "正确，因为同卵双生子拥有相同的同伴和教室",
+            "过度断言：双生子研究表明基因对行为没有影响"
+          ],
+          "how": [
+            "学生从「更相似」跳到「由基因固定」，从统计贡献跳到不可改变。",
+            "遗传贡献只针对特定人群和环境，不等于文化角色固定，所以选 B。",
+            "D 走到另一极端：结果确实支持有一定遗传贡献。"
+          ]
+        }
+      ],
+      "recap": "共同活动→陪伴承诺→亲密自我表露，是平均趋势。选择与机会同时存在。"
+    },
+    {
+      "id": "L6-P07",
+      "title": "同伴地位：支配、受欢迎、被拒绝与被忽视",
+      "titleEn": "Peer status: dominance, popularity, rejected and neglected",
+      "conceptIds": [
+        "L6-C12",
+        "L6-C13"
+      ],
+      "kp": "Dominance 看权力和控制，sociometric popularity 看被喜欢和接纳。被拒绝是被主动不喜欢或排斥；被忽视是较少被注意，不等于被讨厌。被拒绝平均风险较高，但行为与拒绝可能双向影响，标签不能判断个人。",
+      "howTo": "「被赶走、被讨厌」→rejected；「没人提名、没人注意」→neglected。「谁说了算」→dominance；「喜欢和谁玩」→popularity。看到「被拒绝造成所有问题」就排除，想到双向作用。",
+      "items": [
+        {
+          "stemEn": "Mia keeps trying to join a game, but classmates repeatedly tell her to go away and say they dislike her. Which status fits best?",
+          "optionsEn": [
+            "Neglected",
+            "Popular",
+            "Rejected",
+            "Dominant"
+          ],
+          "answer": 2,
+          "stem": "米娅一直想加入游戏，但同学反复叫她走开，还说不喜欢她。哪种地位最符合？",
+          "options": [
+            "被忽视（neglected）",
+            "受欢迎（popular）",
+            "被拒绝（rejected）",
+            "支配（dominant）"
+          ],
+          "how": [
+            "题干说同学「叫她走开」并「不喜欢她」，这是明显的负向评价。",
+            "被主动不喜欢或排斥就是被拒绝，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Tom is rarely named by classmates either positively or negatively. Few dislike him; few notice him at all. Which status fits best?",
+          "optionsEn": [
+            "Neglected",
+            "Rejected",
+            "Dominant",
+            "Popular"
+          ],
+          "answer": 0,
+          "stem": "同学很少提名汤姆，无论正面还是负面。几乎没人讨厌他，也几乎没人注意他。哪种地位最符合？",
+          "options": [
+            "被忽视（neglected）",
+            "被拒绝（rejected）",
+            "支配（dominant）",
+            "受欢迎（popular）"
+          ],
+          "how": [
+            "题干说「很少提名」，几乎没人「讨厌」，也几乎没人「注意」。",
+            "低可见度而非被讨厌，这是被忽视，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Which survey question most directly measures sociometric popularity rather than dominance?",
+          "optionsEn": [
+            "Who usually gets their own way in this class?",
+            "Whom do you most like to play with?",
+            "Who controls the toys at playtime?",
+            "Who do others tend to obey in a game?"
+          ],
+          "answer": 1,
+          "stem": "哪个调查问题最直接地测量社会计量受欢迎度（sociometric popularity），而不是支配地位（dominance）？",
+          "options": [
+            "这个班里谁通常能得偿所愿？",
+            "你最喜欢和谁一起玩？",
+            "游戏时间谁控制玩具？",
+            "玩游戏时其他人倾向于听谁的？"
+          ],
+          "how": [
+            "题干要区分「受欢迎度」和「支配地位」，前者问喜欢，后者问权力。",
+            "问最喜欢和谁玩才是测被喜欢和接纳，所以选 B。",
+            "A、C、D 问的都是权力或控制。"
+          ]
+        },
+        {
+          "stemEn": "A teacher assumes that a neglected child must be lonely and have psychological problems. What is the best response?",
+          "optionsEn": [
+            "Correct, because neglected children are actively disliked by their peers",
+            "Correct, because this status has the highest risk of all the peer groups",
+            "Neglected children are always happier than popular children in class",
+            "Some do well, so feelings and actual relationships must be checked"
+          ],
+          "answer": 3,
+          "stem": "一位老师认定被忽视的儿童一定孤独且有心理问题。最好的回应是什么？",
+          "options": [
+            "正确，因为被忽视的儿童被同伴主动讨厌",
+            "正确，因为这种地位在所有同伴群体中风险最高",
+            "被忽视的儿童在班上总比受欢迎的儿童快乐",
+            "有些孩子表现不错，要看感受和实际关系"
+          ],
+          "how": [
+            "老师从「被忽视」直接推到「一定孤独且有心理问题」，只凭标签下了结论。",
+            "一些被忽视儿童较独立、学业良好，须看具体感受和关系，所以选 D。",
+            "C 用「总比」犯了相反方向的绝对化错误。"
+          ]
+        },
+        {
+          "stemEn": "A child's aggression may lead peers to reject him, and being rejected may in turn increase his aggression. Which term best describes this?",
+          "optionsEn": [
+            "Displacement",
+            "Cohort effect",
+            "Bidirectionality",
+            "Resource dilution"
+          ],
+          "answer": 2,
+          "stem": "儿童的攻击行为可能导致同伴拒绝他，而被拒绝又可能增加他的攻击行为。哪个术语最能描述这一点？",
+          "options": [
+            "替代效应（displacement）",
+            "世代效应（cohort effect）",
+            "双向作用（bidirectionality）",
+            "资源稀释（resource dilution）"
+          ],
+          "how": [
+            "题干说攻击「可能导致」拒绝，拒绝又「可能增加」攻击，两端互相影响。",
+            "两端互相影响就是双向作用，所以选 C。"
+          ]
+        }
+      ],
+      "recap": "被拒绝：主动不喜欢。被忽视：很少被注意。最强势不等于最被喜欢。"
+    },
+    {
+      "id": "L6-P08",
+      "title": "手足与出生顺序",
+      "titleEn": "Siblings and birth order",
+      "conceptIds": [
+        "L6-C14"
+      ],
+      "kp": "手足可能稀释资源，也提供陪伴、示范和协商经验。大型研究不支持出生顺序对广泛人格有稳定明显的影响，小的平均智力差异也不能判断个人。全同胞平均共享约 50% 的遗传变异。",
+      "howTo": "「时间、注意被分走」→resource dilution；「向兄姐学、协商冲突」→sibling interaction。看到「老大必然……」「独生子女必然……」就排除。50% 指遗传变异，不是一半全部 DNA。",
+      "items": [
+        {
+          "stemEn": "With each new sibling, parents have less time and attention available per child. Which term does this describe?",
+          "optionsEn": [
+            "Sibling interaction",
+            "Resource dilution",
+            "Displacement",
+            "Birth-order personality"
+          ],
+          "answer": 1,
+          "stem": "每多一个手足，父母能给每个孩子的时间和注意就更少。这描述的是哪个术语？",
+          "options": [
+            "手足互动（sibling interaction）",
+            "资源稀释（resource dilution）",
+            "替代效应（displacement）",
+            "出生顺序人格（birth-order personality）"
+          ],
+          "how": [
+            "题干说「每个孩子」的「时间和注意」变少，是人均资源减少。",
+            "人均资源被分配就是资源稀释，所以选 B。",
+            "C 替代效应是屏幕占用其他活动的时间。"
+          ]
+        },
+        {
+          "stemEn": "A younger brother learns to negotiate conflicts and picks up reading from his older sister. Which mechanism does this best illustrate?",
+          "optionsEn": [
+            "Resource dilution",
+            "Regression",
+            "Dominance hierarchy",
+            "Sibling interaction"
+          ],
+          "answer": 3,
+          "stem": "弟弟从姐姐那里学会协商冲突，也学会了阅读。这最能说明哪种机制？",
+          "options": [
+            "资源稀释（resource dilution）",
+            "退行（regression）",
+            "支配等级（dominance hierarchy）",
+            "手足互动（sibling interaction）"
+          ],
+          "how": [
+            "题干说弟弟「学会协商冲突」和「阅读」，手足带来了学习机会。",
+            "这是手足互动的积极机制，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A friend says, 'First-borns are the most conscientious; research has settled it.' Which reply fits the large studies discussed in class?",
+          "optionsEn": [
+            "Correct, as first-borns also have much higher IQs than later-borns",
+            "Correct, but only among families with more than three children",
+            "Large studies do not support stable, clear effects on personality",
+            "Large studies show later-borns are always the most rebellious"
+          ],
+          "answer": 2,
+          "stem": "一位朋友说：「老大最尽责，研究早有定论。」哪项回应符合课堂讨论的大型研究？",
+          "options": [
+            "正确，而且老大的智商也比弟妹高很多",
+            "正确，但只限于有三个以上孩子的家庭",
+            "大型研究不支持其对人格有稳定明显的影响",
+            "大型研究表明弟妹总是最叛逆"
+          ],
+          "how": [
+            "朋友说「老大最尽责」且「早有定论」，这是出生顺序的刻板标签。",
+            "大型研究并未支持稳定明显的人格影响，所以选 C。",
+            "部分研究保留的智力差异很小，不足以判断个人，所以 A 也错。"
+          ]
+        },
+        {
+          "stemEn": "What does the claim that full siblings share about 50% mean?",
+          "optionsEn": [
+            "They share on average about 50% of their genetic variation",
+            "Only half of the DNA in each person is the same as their sibling's",
+            "Each sibling inherits exactly 50% of the mother's traits",
+            "All sibling relationships have exactly 50% similarity in personality"
+          ],
+          "answer": 0,
+          "stem": "「全同胞约共享 50%」这句话是什么意思？",
+          "options": [
+            "他们平均共享约 50% 的遗传变异",
+            "每个人只有一半的 DNA 与手足相同",
+            "每个手足恰好继承母亲 50% 的特征",
+            "所有手足关系的人格相似度恰好是 50%"
+          ],
+          "how": [
+            "题干问「约共享 50%」的含义，容易被理解成全部 DNA。",
+            "它指平均共享约 50% 的遗传变异，所以选 A。",
+            "B 正是笔记点名的错误说法。"
+          ]
+        }
+      ],
+      "recap": "手足既分资源也给机会。出生顺序不能决定人格。50% 是遗传变异，不是全部 DNA。"
+    },
+    {
+      "id": "L6-P09",
+      "title": "父母工作与托育质量",
+      "titleEn": "Parental work and childcare quality",
+      "conceptIds": [
+        "L6-C15",
+        "L6-C16"
+      ],
+      "kp": "母亲就业趋势图不直接说明儿童结果，课堂综述不支持「工作必然有害」。要看工作条件、资源、实际照料质量。工作非随机分配。托育要看回应性、人员稳定、安全和适龄活动，机构类型和时长都不等于质量。",
+      "howTo": "「工作必然伤害」「兼职最好」都排除，理由是工作选择非随机、资源和健康同时影响。托育题选回应性、稳定性；只看标签或小时数的都错。优质托育不等于越久越好。",
+      "items": [
+        {
+          "stemEn": "A politician claims that children suffer whenever their mothers work. Which response best fits the review discussed in class?",
+          "optionsEn": [
+            "The claim holds, because the employment trend chart shows child outcomes",
+            "Maternal work has been shown to benefit every child in every family",
+            "Evidence does not support simple harm; work conditions and care quality matter",
+            "Mothers' jobs are unrelated to family life in any way, so no study is needed"
+          ],
+          "answer": 2,
+          "stem": "一位政客声称，只要母亲工作，孩子就会受害。哪项回应最符合课堂讨论的综述？",
+          "options": [
+            "这一说法成立，因为就业趋势图显示了儿童结果",
+            "母亲工作已被证明对每个家庭的每个孩子都有益",
+            "证据不支持简单的伤害说，工作条件和照料质量才重要",
+            "母亲的工作与家庭生活毫无关系，所以无需研究"
+          ],
+          "how": [
+            "政客说「只要母亲工作」孩子就「受害」，这是简单的直接伤害说。",
+            "综述不支持这种说法，要看工作条件、资源和照料质量，所以选 C。",
+            "B 走向另一极端：部分积极关联不等于一定有益。"
+          ]
+        },
+        {
+          "stemEn": "Parents who work part-time report more sensitive parenting. Why can't we conclude that part-time work causes this for all families?",
+          "optionsEn": [
+            "Work is not randomly assigned, and resources and health affect both",
+            "Part-time work has been shown to reduce sensitive parenting in all studies",
+            "Sensitive parenting cannot be measured in families where parents work",
+            "All families would earn more from part-time work than from full-time work"
+          ],
+          "answer": 0,
+          "stem": "兼职工作的父母报告了更敏感的教养。为什么不能得出兼职工作对所有家庭都造成这种结果？",
+          "options": [
+            "工作不是随机分配的，资源和健康会同时影响两者",
+            "所有研究都显示兼职工作会降低敏感教养",
+            "在父母工作的家庭中无法测量敏感教养",
+            "所有家庭从事兼职都比全职挣得更多"
+          ],
+          "how": [
+            "题干说「对所有家庭都造成」，从相关跳到了普遍的因果。",
+            "工作选择非随机，资源、偏好和健康都可能影响结果，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A parent is comparing childcare options. Which indicator is the most informative about quality?",
+          "optionsEn": [
+            "Whether it is labelled a preschool or a centre-based program",
+            "Whether children attend for the largest number of hours each week",
+            "Responsive carers, stable staff, safe and suitable activities",
+            "Whether the service is the closest one to a parent's workplace"
+          ],
+          "answer": 2,
+          "stem": "一位家长在比较托育选择。哪个指标最能说明质量？",
+          "options": [
+            "它被标为学前班还是中心式项目",
+            "儿童每周上托的时间是否最长",
+            "有回应的照料者、稳定的人员、安全和适龄的活动",
+            "该服务是否离家长的工作地点最近"
+          ],
+          "how": [
+            "题干问「质量」，要找照料本身的特征，而不是形式或时长。",
+            "回应性、稳定性、安全和适龄活动才接近质量，所以选 C。",
+            "A 只说明服务类型，不是质量排名。"
+          ]
+        },
+        {
+          "stemEn": "High-quality childcare may especially help children with fewer resources. Which further claim would be an overreach?",
+          "optionsEn": [
+            "Quality matters more than the label on the service",
+            "Stability of carers is part of what should be examined",
+            "Family background affects which care families choose",
+            "More hours in care will always be better for them"
+          ],
+          "answer": 3,
+          "stem": "优质托育可能尤其有利于资源较少的儿童。下面哪种进一步的说法属于过度推论？",
+          "options": [
+            "质量比服务上的标签更重要",
+            "照料者的稳定性是应考察的内容之一",
+            "家庭背景影响家庭选择哪种托育",
+            "托育时间越长，对他们总是越好"
+          ],
+          "how": [
+            "题干要找「过度推论」，所以要找超出证据的选项。",
+            "优质托育可能有帮助，但不是时间越长越好，所以选 D。",
+            "A、B、C 都是课堂支持的说法。"
+          ]
+        }
+      ],
+      "recap": "关键不是工作没有、托多久，而是质量、稳定性和家庭情境。"
+    },
+    {
+      "id": "L6-P10",
+      "title": "媒体情境、共看与替代效应",
+      "titleEn": "Media context, co-viewing and displacement",
+      "conceptIds": [
+        "L6-C17"
+      ],
+      "kp": "屏幕影响要看内容、参与、共看、儿童特点和替代了什么。共看有效靠解释、提问和联系生活，不是同处一室。替代效应是屏幕挤占睡眠、运动或学习的时间。ABS 图只是描述性分布。时长相关不等于因果。",
+      "howTo": "「占用了别的活动」→displacement。「解释、提问、联系生活」→有效共看；只坐在一起不算。描述性图不能推出危害。时长与成绩相关，要想到先前困难和家庭作息。",
+      "items": [
+        {
+          "stemEn": "A child's evening tablet time has taken over the hours once used for outdoor play and homework. Which concept is this?",
+          "optionsEn": [
+            "Priming",
+            "Desensitisation",
+            "Co-viewing",
+            "Displacement"
+          ],
+          "answer": 3,
+          "stem": "孩子晚上的平板时间占用了原本用于户外游戏和做作业的时间。这是哪个概念？",
+          "options": [
+            "启动（priming）",
+            "脱敏（desensitisation）",
+            "共看（co-viewing）",
+            "替代效应（displacement）"
+          ],
+          "how": [
+            "题干说平板「占用了」原本用于其他活动的时间。",
+            "屏幕挤占其他有益活动就是替代效应，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Which parent's behaviour best fits the helpful form of co-viewing?",
+          "optionsEn": [
+            "Sits in the same room and answers work emails during a program",
+            "Asks questions about a show and links it to the child's own life",
+            "Leaves the room, but chooses a well-known educational program brand",
+            "Turns the program off the moment a difficult topic appears on screen"
+          ],
+          "answer": 1,
+          "stem": "哪位家长的行为最符合有帮助的共看（co-viewing）？",
+          "options": [
+            "在节目播放时坐在同一房间回复工作邮件",
+            "就节目提问，并把它与孩子的生活联系起来",
+            "离开房间，但选了知名的教育节目品牌",
+            "节目一出现难懂的话题就马上关掉"
+          ],
+          "how": [
+            "题干问「有帮助的共看」，关键是真正的互动，不只是在场。",
+            "提问并联系生活才符合这一机制，所以选 B。",
+            "A 只是同处一室，C 依赖品牌，都不算。"
+          ]
+        },
+        {
+          "stemEn": "An ABS chart shows that 1-1.5 hours is the most common daily static screen-time band among Australian 2-5-year-olds in 2023. What can be concluded from it?",
+          "optionsEn": [
+            "It describes a distribution, and does not show what screens cause",
+            "Screen time in this band causes harm to most children's development",
+            "One to 1.5 hours per day is the proven healthy limit for each child",
+            "Children above this band will all have lower academic achievement"
+          ],
+          "answer": 0,
+          "stem": "ABS 图显示，2023 年澳大利亚 2–5 岁儿童日均静态屏幕时间最常见的区间是 1–1.5 小时。从中能得出什么结论？",
+          "options": [
+            "它描述一种分布，不说明屏幕造成了什么",
+            "这一区间的屏幕时间对多数儿童的发展有害",
+            "每天 1–1.5 小时是对每个儿童都已证实的健康上限",
+            "高于这一区间的儿童学业成绩都会更低"
+          ],
+          "how": [
+            "题干只给了「最常见的区间」，这是描述性统计。",
+            "分布不能说明原因，也不能当成个人健康建议，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Children with more screen time have lower grades in a survey. What should be considered before saying that screens lower grades?",
+          "optionsEn": [
+            "Whether the survey used a popular brand of tablet computer",
+            "Prior difficulties, family routines and how use is supervised",
+            "Whether screen minutes alone act as an automatic dose of harm",
+            "Whether children with lower grades have a dominant peer status"
+          ],
+          "answer": 1,
+          "stem": "一项调查中，屏幕时间较多的儿童成绩较低。在说屏幕降低成绩之前，应考虑什么？",
+          "options": [
+            "调查是否使用了热门品牌的平板电脑",
+            "原有困难、家庭作息和使用监督方式",
+            "屏幕分钟数本身是否是自动的伤害剂量",
+            "成绩较低的儿童是否具有支配性同伴地位"
+          ],
+          "how": [
+            "题干的依据只是「一项调查」中两者同时出现，是相关结果。",
+            "原有困难、作息和监督都可能同时影响，所以选 B。",
+            "C 正是易错点：分钟数不是自动伤害剂量。"
+          ]
+        }
+      ],
+      "recap": "别只数分钟：问看什么、怎么看、替代了什么。相关不等于屏幕造成。"
+    },
+    {
+      "id": "L6-P11",
+      "title": "暴力媒体机制与节奏混淆",
+      "titleEn": "Violent-media mechanisms and the pace confound",
+      "conceptIds": [
+        "L6-C18",
+        "L6-C19"
+      ],
+      "kp": "启动使攻击想法暂时更易想起；脱敏使情绪反应变弱；社会学习观察行为及后果。短期任务效应不等于长期现实暴力。快节奏与幻想常一起变化，组间差异不能单归因于节奏，短时结果也不能说成脑损伤。",
+      "howTo": "「刚看完、想法更快」→启动；「重复后不再有反应」→脱敏；「模仿角色」→社会学习。避免两个极端：必然导致犯罪、已证明毫无影响。节奏题看混淆，好设计分别操纵节奏和幻想。",
+      "items": [
+        {
+          "stemEn": "Right after a violent game, players complete word fragments with aggressive words more quickly. Which mechanism fits best?",
+          "optionsEn": [
+            "Priming",
+            "Desensitisation",
+            "Social learning",
+            "Displacement"
+          ],
+          "answer": 0,
+          "stem": "刚玩完暴力游戏后，玩家更快地用攻击性词语补全词语片段。哪种机制最符合？",
+          "options": [
+            "启动（priming）",
+            "脱敏（desensitisation）",
+            "社会学习（social learning）",
+            "替代效应（displacement）"
+          ],
+          "how": [
+            "题干的「刚玩完」和「更快」补全攻击性词语，说明相关想法暂时更易想起。",
+            "这是启动，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A child sees a film hero rewarded for shoving a rival, and tries the same move at school. Which mechanism fits best?",
+          "optionsEn": [
+            "Priming",
+            "Desensitisation",
+            "Social learning",
+            "Displacement"
+          ],
+          "answer": 2,
+          "stem": "孩子看到电影英雄因推搡对手而受奖励，在学校也试着这样做。哪种机制最符合？",
+          "options": [
+            "启动（priming）",
+            "脱敏（desensitisation）",
+            "社会学习（social learning）",
+            "替代效应（displacement）"
+          ],
+          "how": [
+            "题干的线索是英雄「受奖励」，孩子「也试着这样做」，这是观察后果并模仿。",
+            "观察行为及其后果来学习行动脚本是社会学习，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "After months of watching violent films, a teenager reacts far less emotionally to scenes that once upset him. Which mechanism fits best?",
+          "optionsEn": [
+            "Social learning",
+            "Desensitisation",
+            "Priming",
+            "Co-viewing"
+          ],
+          "answer": 1,
+          "stem": "看了几个月暴力电影后，一名少年对曾让他不安的场面情绪反应小了很多。哪种机制最符合？",
+          "options": [
+            "社会学习（social learning）",
+            "脱敏（desensitisation）",
+            "启动（priming）",
+            "共看（co-viewing）"
+          ],
+          "how": [
+            "题干说「几个月」重复观看后「情绪反应小了很多」。",
+            "重复接触后情绪反应变弱就是脱敏，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A short-term lab task shows that violent games raise aggressive word responses. Which conclusion is justified?",
+          "optionsEn": [
+            "Violent games have now been shown to cause serious violent crime",
+            "There is no effect of violent media on anything, in any study",
+            "Word tasks measure the same outcome as everyday aggression and crime",
+            "It supports a possible short-term link, not long-term violence"
+          ],
+          "answer": 3,
+          "stem": "一项短期实验室任务显示，暴力游戏增加了攻击性词语反应。哪项结论是合理的？",
+          "options": [
+            "暴力游戏现已被证明会导致严重暴力犯罪",
+            "暴力媒体在任何研究中都对任何事物没有影响",
+            "词语任务测量的结果与日常攻击和犯罪相同",
+            "它支持可能的短期联系，而非长期暴力"
+          ],
+          "how": [
+            "题干说「短期实验室任务」和「攻击性词语反应」，结果变量很窄。",
+            "它支持短期联结，不能推到长期现实暴力，所以选 D。",
+            "A 和 B 是课堂要避免的两个极端。"
+          ]
+        },
+        {
+          "stemEn": "A study compares a fast-cut magic adventure with a slow realistic film and finds differences in inhibitory control. What would best improve the design?",
+          "optionsEn": [
+            "Conclude from this comparison that fast pace causes lasting brain damage",
+            "Test one film only, so that there are no group differences to explain",
+            "Vary pace and fantasy separately, and keep emotion and difficulty similar",
+            "Replace the inhibition task with a count of each child's total screen minutes"
+          ],
+          "answer": 2,
+          "stem": "一项研究比较快速剪辑的魔法冒险片和慢节奏现实片，发现抑制控制有差异。什么最能改进设计？",
+          "options": [
+            "由这一比较断定快节奏造成持久的脑损伤",
+            "只测一部影片，这样就没有组间差异需要解释",
+            "分别操纵节奏和幻想，并使情绪和难度相近",
+            "用每个儿童的屏幕总分钟数代替抑制任务"
+          ],
+          "how": [
+            "题干的两部影片同时在「快速剪辑」和「魔法」上不同，节奏与幻想混在一起。",
+            "分别操纵这些因素才能识别节奏效应，所以选 C。",
+            "A 把短时差异推广成了长期脑损伤。"
+          ]
+        }
+      ],
+      "recap": "机制不等于已证明长期暴力。节奏与幻想要拆开，短时差异不等于脑损伤。"
+    },
+    {
+      "id": "L6-P12",
+      "title": "家庭多样性与研究设计",
+      "titleEn": "Family diversity and research design",
+      "conceptIds": [
+        "L6-C20"
+      ],
+      "kp": "Crouch 等（2014）：澳大利亚横断面自愿问卷，315 位同性吸引的父母报告 500 名 0–17 岁儿童，与常模比较。多数指标相近、部分较高。不支持劣势说，也不能证明优势。污名和支持是要检验的路径。",
+      "howTo": "数字记 315 位父母、500 名儿童。看到「造成更好」或「造成更差」都排除：自愿样本、父母自报、横断面、常模比较。解释差异先看污名、学校氛围和支持，不只看父母身份。",
+      "items": [
+        {
+          "stemEn": "Which description of the sample in Crouch et al. (2014) is correct?",
+          "optionsEn": [
+            "315 couples randomly assigned, reporting on 500 children",
+            "500 parents, reporting on 315 children aged 0-17",
+            "315 children aged 0-17, tested directly by researchers",
+            "315 same-sex attracted parents, reporting on 500 children"
+          ],
+          "answer": 3,
+          "stem": "哪项对 Crouch 等（2014）样本的描述是正确的？",
+          "options": [
+            "315 对被随机分配的夫妻，报告 500 名儿童",
+            "500 位父母，报告 315 名 0–17 岁儿童",
+            "315 名 0–17 岁儿童，由研究者直接测试",
+            "315 位同性吸引的父母，报告 500 名儿童"
+          ],
+          "how": [
+            "题干问「Crouch 等（2014）」的样本，要核对谁报告以及人数。",
+            "是 315 位父母报告 500 名儿童，所以选 D。",
+            "A 是常见错误：315 不是夫妻对数，家庭也不是随机分配。"
+          ]
+        },
+        {
+          "stemEn": "In Crouch et al. (2014), some health and family scores were higher than population norms. What may be concluded?",
+          "optionsEn": [
+            "Parental sexual orientation directly causes better child outcomes",
+            "Children in these families have been shown to be at a disadvantage",
+            "It cannot show causation: this is self-selected, cross-sectional parent report",
+            "Norm comparisons rule out selection, so the finding applies to all families"
+          ],
+          "answer": 2,
+          "stem": "在 Crouch 等（2014）中，一些健康和家庭得分高于总体常模。可以得出什么结论？",
+          "options": [
+            "父母的性取向直接带来更好的儿童结果",
+            "这些家庭的儿童已被证明处于劣势",
+            "这不能说明因果：它是自愿参与、横断面的父母报告",
+            "常模比较排除了选择偏差，所以结果适用于所有家庭"
+          ],
+          "how": [
+            "题干说得分「高于总体常模」，很容易被读成身份造成优势。",
+            "自愿样本、父母自报和横断面设计限制因果判断，所以选 C。",
+            "B 同样不对：结果不支持一概视为劣势。"
+          ]
+        },
+        {
+          "stemEn": "A child with two mothers shows more anxiety while at a school where she is often teased; a sibling in an accepting school does not. What most needs to be examined?",
+          "optionsEn": [
+            "Whether parental identity alone produces anxiety in all children",
+            "Stigma experiences and school support, not only parental identity",
+            "Whether the two siblings have the same exact attachment type",
+            "Whether the family's documentary history explains these results"
+          ],
+          "answer": 1,
+          "stem": "一名有两位妈妈的儿童，在常被嘲笑的学校里更焦虑；在接纳的学校上学的手足则没有。最需要考察什么？",
+          "options": [
+            "父母身份本身是否使所有儿童焦虑",
+            "污名经历和学校支持，而不只是父母身份",
+            "两个手足的依恋类型是否完全相同",
+            "家庭的纪录片历史是否能解释这些结果"
+          ],
+          "how": [
+            "题干对比了「常被嘲笑的学校」和「接纳的学校」，父母身份没有变化。",
+            "差异指向污名和学校支持这条路径，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "315 是父母人数，不是夫妻对数。多数相近，部分较高；不能推出身份造成优劣。"
+    },
+    {
+      "id": "L6-P13",
+      "title": "发展性群际理论与早期分类",
+      "titleEn": "Developmental Intergroup Theory and early categorisation",
+      "conceptIds": [
+        "L6-C21",
+        "L6-C22"
+      ],
+      "kp": "DIT（Bigler 与 Liben，2007）：儿童注意差异，成人反复命名、分组使类别显著。这不是固定年龄阶段，也不必然形成偏见。婴儿看得久不等于敌意。性别恒常性是理解衣服、发型改变不会自动改变性别。",
+      "howTo": "「反复命名、分组」→类别显著性上升。看到「看得久所以有敌意」「三个固定阶段」就排除。「换衣服还是同一性别」→性别恒常性。视觉区分能力不等于抽象分类知识。",
+      "items": [
+        {
+          "stemEn": "A teacher lines children up as 'boys here, girls there' each day, but never groups them by shoe colour. According to DIT, why might gender become more meaningful to them?",
+          "optionsEn": [
+            "Adult labelling and grouping raise its category salience",
+            "Gender is the only difference children can perceive at all",
+            "Children are born with hostility towards other gender groups",
+            "Shoe colour has a stronger genetic basis than a child's gender"
+          ],
+          "answer": 0,
+          "stem": "老师每天让孩子「男孩站这边，女孩站那边」，却从不按鞋子颜色分组。根据发展性群际理论（DIT），性别为什么可能对他们更有意义？",
+          "options": [
+            "成人的命名和分组提高了它的类别显著性",
+            "性别是儿童唯一能察觉的差异",
+            "儿童生来就对其他性别群体怀有敌意",
+            "鞋子颜色比性别有更强的遗传基础"
+          ],
+          "how": [
+            "题干说「每天」按性别分组，「从不」按鞋子颜色分组，这是环境的反复标记。",
+            "成人命名和分组提高类别显著性，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A student summarises DIT as 'three fixed age stages that always end in prejudice'. What is the best correction?",
+          "optionsEn": [
+            "DIT applies only to adults, so it does not address children at all",
+            "DIT is correct as summarised, because noticing differences is hostility",
+            "DIT says all visible differences become equally important to children",
+            "It explains how categories gain meaning, not fixed stages or outcomes"
+          ],
+          "answer": 3,
+          "stem": "一名学生把 DIT 概括为「三个固定的年龄阶段，最后总是形成偏见」。最好的更正是什么？",
+          "options": [
+            "DIT 只适用于成人，完全不涉及儿童",
+            "这个概括正确，因为注意到差异就是敌意",
+            "DIT 认为所有可见差异对儿童同样重要",
+            "它解释类别如何获得意义，不是固定阶段或结果"
+          ],
+          "how": [
+            "学生说「固定的年龄阶段」且「总是形成偏见」，两点都与课件图的说明相反。",
+            "DIT 解释类别如何变得重要，不是必然的固定路径，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "In Johnson's research, 9-12-month-olds did not match voices with gender cues in point-light motion as adults do. What does this suggest?",
+          "optionsEn": [
+            "Infants already have adult-like knowledge of gender categories",
+            "Infants cannot tell male and female faces apart at any age",
+            "Seeing a difference is not full, abstract category knowledge",
+            "Gender constancy is complete by the end of the first year"
+          ],
+          "answer": 2,
+          "stem": "在 Johnson 的研究中，9–12 个月婴儿不能像成人那样把声音与点光运动中的性别线索匹配。这说明什么？",
+          "options": [
+            "婴儿已具备成人式的性别类别知识",
+            "婴儿在任何年龄都分不清男性和女性面孔",
+            "看出差异不等于完整、抽象的类别知识",
+            "性别恒常性在一岁结束时已经完成"
+          ],
+          "how": [
+            "题干说婴儿「不能」把「声音」与运动线索匹配，这要求跨感觉通道的知识。",
+            "一种视觉区分能力不等于完整抽象的分类知识，所以选 C。",
+            "B 错：约 3–4 个月在某些任务中已能区分男女面孔。"
+          ]
+        },
+        {
+          "stemEn": "A 6-year-old understands that a boy who puts on a dress and grows long hair does not thereby become a girl. Which concept is this task about?",
+          "optionsEn": [
+            "Category salience",
+            "Gender constancy",
+            "Stereotype threat",
+            "Conservation of number"
+          ],
+          "answer": 1,
+          "stem": "一名 6 岁儿童理解，男孩穿上裙子、留长头发，不会因此变成女孩。这项任务涉及哪个概念？",
+          "options": [
+            "类别显著性（category salience）",
+            "性别恒常性（gender constancy）",
+            "刻板印象威胁（stereotype threat）",
+            "数量守恒（conservation of number）"
+          ],
+          "how": [
+            "题干说「穿上裙子」「留长头发」，这些表面改变「不会因此」改变性别。",
+            "这是经典任务中的性别恒常性，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "差异变重要靠环境标记。能区分不等于讨厌；看得久不等于敌意。"
+    },
+    {
+      "id": "L6-P14",
+      "title": "刻板印象、偏见、歧视与 Devine",
+      "titleEn": "Stereotype, prejudice, discrimination and Devine",
+      "conceptIds": [
+        "L6-C23",
+        "L6-C24"
+      ],
+      "kp": "刻板印象是对群体的简化概括，可正可负；偏见是基于身份的负面评价；歧视是基于身份的不平等对待。Devine 区分文化知识与个人信念：知道不等于赞同，自动联结可能先出现，再被有意识地纠正。",
+      "howTo": "分三层：想法或概括→刻板印象；不喜欢→偏见；做了区别对待→歧视。正面概括也算刻板印象。「能说出来但不认同」选知识不等于认可。别说所有刻板印象都无意识。",
+      "items": [
+        {
+          "stemEn": "'People from that group are all naturally good at maths.' What is this statement?",
+          "optionsEn": [
+            "Prejudice, because it is a negative evaluation of them",
+            "A stereotype, even though its content is positive",
+            "Discrimination, because it treats them unequally in action",
+            "Categorisation only, because it says nothing about traits"
+          ],
+          "answer": 1,
+          "stem": "「那个群体的人天生都擅长数学。」这句话是什么？",
+          "options": [
+            "偏见，因为它是对他们的负面评价",
+            "刻板印象，尽管内容是正面的",
+            "歧视，因为它在行动上不平等地对待他们",
+            "只是分类，因为它没有涉及特征"
+          ],
+          "how": [
+            "题干说某群体「都」擅长数学，这是对群体特征的简化概括。",
+            "正面概括也算刻板印象，所以选 B。",
+            "A 错：偏见要有负面评价，题干没有。"
+          ]
+        },
+        {
+          "stemEn": "A landlord refuses to rent to an applicant with the same income and references as others, only because of the applicant's group. What is this?",
+          "optionsEn": [
+            "Stereotype knowledge",
+            "Implicit association",
+            "Internalisation",
+            "Discrimination"
+          ],
+          "answer": 3,
+          "stem": "房东只因申请人所属的群体而拒绝出租，尽管其收入和推荐信与他人相同。这是什么？",
+          "options": [
+            "刻板印象知识（stereotype knowledge）",
+            "内隐联结（implicit association）",
+            "内化（internalisation）",
+            "歧视（discrimination）"
+          ],
+          "how": [
+            "题干说「拒绝出租」，这是实际行动，原因「只因」群体身份。",
+            "基于身份的不平等对待就是歧视，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Which mapping of these three concepts is correct?",
+          "optionsEn": [
+            "Stereotype: belief; prejudice: evaluation; discrimination: behaviour",
+            "Stereotype: behaviour; prejudice: belief; discrimination: evaluation",
+            "Stereotype: evaluation; prejudice: behaviour; discrimination: belief",
+            "Stereotype: belief; prejudice: behaviour; discrimination: evaluation"
+          ],
+          "answer": 0,
+          "stem": "这三个概念的哪种对应是正确的？",
+          "options": [
+            "刻板印象：信念；偏见：评价；歧视：行为",
+            "刻板印象：行为；偏见：信念；歧视：评价",
+            "刻板印象：评价；偏见：行为；歧视：信念",
+            "刻板印象：信念；偏见：行为；歧视：评价"
+          ],
+          "how": [
+            "题干要求把「三个概念」对应到三个层次：认知、评价、行为。",
+            "刻板印象是信念，偏见是评价，歧视是行为，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A student can accurately state a stereotype common in her society and firmly rejects it. A survey counts her as holding the belief. What is wrong with this?",
+          "optionsEn": [
+            "Rejecting a stereotype proves that she has never been exposed to it",
+            "Knowing a stereotype counts as agreeing with it, so nothing is wrong",
+            "Cultural knowledge and personal endorsement need to be measured separately",
+            "Stereotypes exist only as unconscious associations, so surveys are useless"
+          ],
+          "answer": 2,
+          "stem": "一名学生能准确说出社会上常见的刻板印象，并坚决反对。一项调查把她算作持有该信念。这有什么问题？",
+          "options": [
+            "反对刻板印象证明她从未接触过它",
+            "知道刻板印象就算赞同，所以没有问题",
+            "文化知识与个人认可需要分别测量",
+            "刻板印象只以无意识联结存在，所以调查没用"
+          ],
+          "how": [
+            "题干说她「能准确说出」又「坚决反对」，知道和相信是两回事。",
+            "Devine 区分文化知识和个人信念，要分别测量，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A person has a fleeting automatic association with a group, notices it and consciously corrects it. Which conclusion is most consistent with Devine?",
+          "optionsEn": [
+            "All prejudice is fully conscious, so the association cannot have occurred",
+            "Automatic links may activate before correction; neither is the whole story",
+            "All stereotypes are unconscious and can never be corrected by anyone",
+            "The person must personally endorse the stereotype, as the link appeared"
+          ],
+          "answer": 1,
+          "stem": "一个人对某群体出现转瞬即逝的自动联结，他注意到后有意识地纠正。哪项结论最符合 Devine？",
+          "options": [
+            "所有偏见都完全有意识，所以这种联结不可能发生",
+            "自动联结可能在纠正前被激活；两者都不是全部",
+            "所有刻板印象都是无意识的，谁也无法纠正",
+            "这个人一定个人认同该刻板印象，因为联结出现了"
+          ],
+          "how": [
+            "题干先有「自动联结」，后有「有意识地纠正」，两个过程都出现了。",
+            "联结可先被激活再被纠正，不能说全都有意识或全都无意识，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "认知概括、负面评价、行为对待是三个层次。知道一种刻板印象不等于赞同它。"
+    },
+    {
+      "id": "L6-P15",
+      "title": "Child IAT 与隐显测量",
+      "titleEn": "Child IAT and implicit/explicit measures",
+      "conceptIds": [
+        "L6-C25"
+      ],
+      "kp": "IAT 比较不同分类配对的反应速度和错误，估计相对自动联结；显性回答受规范和自我呈现影响。Baron 与 Banaji 比较美国白人 6 岁、10 岁和成人：显性偏好随年龄减弱，隐性幅度相近。这不是追踪终身。",
+      "howTo": "「反应时、配对」→隐性测量；「明确说喜欢谁」→显性测量。年龄题记显性降、隐性稳。看到「终身不变」「种族主义者印章」「一定在说谎」都排除：是特定样本的年龄组比较。",
+      "items": [
+        {
+          "stemEn": "What does a Child IAT compare to estimate relative associations?",
+          "optionsEn": [
+            "Speed and errors across different category pairings",
+            "Children's written essays about each social group",
+            "Parents' reports of which friends the child prefers",
+            "Heart rate while children are asked about friendships"
+          ],
+          "answer": 0,
+          "stem": "儿童版内隐联想测验（Child IAT）比较什么来估计相对联结？",
+          "options": [
+            "不同类别配对下的反应速度和错误",
+            "儿童关于各社会群体的书面作文",
+            "家长对孩子偏好哪些朋友的报告",
+            "询问友谊时儿童的心率"
+          ],
+          "how": [
+            "题干问「Child IAT」比较什么，这是分类任务。",
+            "它比较不同配对的反应速度和错误模式，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Which pattern did Baron and Banaji report across White American 6-year-olds, 10-year-olds and adults?",
+          "optionsEn": [
+            "Explicit and implicit preference both weakened with age",
+            "Both explicit and implicit preference grew stronger with age",
+            "Explicit preference weakened with age; implicit stayed similar",
+            "Explicit preference stayed the same; implicit grew stronger"
+          ],
+          "answer": 2,
+          "stem": "Baron 与 Banaji 在美国白人 6 岁、10 岁儿童和成人中报告了哪种模式？",
+          "options": [
+            "显性和隐性偏好都随年龄减弱",
+            "显性和隐性偏好都随年龄增强",
+            "显性偏好随年龄减弱，隐性结果相近",
+            "显性偏好不变，隐性偏好增强"
+          ],
+          "how": [
+            "题干问「Baron 与 Banaji」跨年龄的模式，隐显两条线要分开记。",
+            "显性随年龄减弱，隐性幅度相近，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A child says anyone can be her friend, yet responds faster to one racial pairing on an IAT. A teacher calls her a racist who is lying. What is the best evaluation?",
+          "optionsEn": [
+            "The IAT reads the child's true beliefs directly, so the label is fair",
+            "The explicit answer must be true, so the IAT result should be discarded",
+            "Faster responses prove the child will exclude specific classmates in future",
+            "Explicit values and learned associations can differ; this is no moral verdict"
+          ],
+          "answer": 3,
+          "stem": "一名儿童说任何人都可以是她的朋友，但在 IAT 中对某种种族配对反应更快。老师称她是说谎的种族主义者。最好的评价是什么？",
+          "options": [
+            "IAT 直接读取儿童的真实信念，所以这个标签是公平的",
+            "显性回答一定是真的，所以应该丢弃 IAT 结果",
+            "反应更快证明这名儿童将来会排斥具体的同学",
+            "明确价值与习得的联结可能不一致，这不是道德判决"
+          ],
+          "how": [
+            "题干中显性回答与「反应更快」不一致，老师由此下了「说谎的种族主义者」的判断。",
+            "隐显结果可以不一致，隐性结果也不是道德判决，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Why can't an age comparison like Baron and Banaji's show that implicit bias never changes across a person's life?",
+          "optionsEn": [
+            "It compared different age groups in a particular sample, not the same people over time",
+            "It followed the same children for decades, but the children's scores were not reliable",
+            "It tested only adults, so it has no information about any children",
+            "It measured explicit attitudes only, so nothing about implicit bias can be said"
+          ],
+          "answer": 0,
+          "stem": "为什么像 Baron 与 Banaji 这样的年龄比较，不能说明隐性偏见在人的一生中从不改变？",
+          "options": [
+            "它比较特定样本中的不同年龄组，而不是长期追踪同一批人",
+            "它追踪同一批儿童几十年，但儿童的分数不可靠",
+            "它只测试成人，所以没有任何儿童的信息",
+            "它只测量显性态度，所以无法谈论隐性偏见"
+          ],
+          "how": [
+            "题干的关键词是「年龄比较」和「一生」：不同组的比较不能代表同一人的轨迹。",
+            "它是特定样本的年龄组比较，并未追踪同一批人，所以选 A。"
+          ]
+        }
+      ],
+      "recap": "显性随年龄减弱，隐性相近；但这是年龄组比较，不是终身不变，也不是道德判决。"
+    },
+    {
+      "id": "L6-P16",
+      "title": "偏见的影响与环境强化",
+      "titleEn": "Effects of prejudice and systemic reinforcement",
+      "conceptIds": [
+        "L6-C26"
+      ],
+      "kp": "内化是把负面说法当成对自己的看法；刻板印象威胁是担心表现会证实刻板印象，不要求相信；慢性压力是反复遭排斥的长期消耗。家庭、媒体、教师和制度会强化类别。这段是课件补充，L7 开头补讲。",
+      "howTo": "「也许我真的不行」→内化；「怕答错会证实那个说法」→威胁，可以不相信；「长年反复排斥」→慢性压力，不是一次就致病。日常分组、评价差异即使没明说，也算环境强化。",
+      "items": [
+        {
+          "stemEn": "Sara firmly rejects the idea that her group is bad at physics, but during an exam she worries that a wrong answer will confirm it. What is this?",
+          "optionsEn": [
+            "Internalisation",
+            "Chronic stress",
+            "Stereotype threat",
+            "Category salience"
+          ],
+          "answer": 2,
+          "stem": "萨拉坚决否认她所在群体不擅长物理，但考试时担心答错会证实这种说法。这是什么？",
+          "options": [
+            "内化（internalisation）",
+            "慢性压力（chronic stress）",
+            "刻板印象威胁（stereotype threat）",
+            "类别显著性（category salience）"
+          ],
+          "how": [
+            "题干说她「坚决否认」，却「担心答错会证实」，这是情境中的评价担忧。",
+            "担心表现证实刻板印象就是威胁，不要求相信，所以选 C。",
+            "A 要求接受负面说法，而她是否认的。"
+          ]
+        },
+        {
+          "stemEn": "A student thinks, 'They say people like us can't do this. Maybe I really can't.' Which process fits best?",
+          "optionsEn": [
+            "Internalisation",
+            "Stereotype threat with no belief",
+            "Discrimination",
+            "Displacement"
+          ],
+          "answer": 0,
+          "stem": "一名学生想：「他们说我们这样的人做不到。也许我真的做不到。」哪个过程最符合？",
+          "options": [
+            "内化（internalisation）",
+            "不含相信的刻板印象威胁",
+            "歧视（discrimination）",
+            "替代效应（displacement）"
+          ],
+          "how": [
+            "题干的「也许我真的做不到」说明负面说法已变成对自己的看法。",
+            "把群体负面说法变成对自己的看法就是内化，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Which statement about chronic stress and prejudice is most accurate?",
+          "optionsEn": [
+            "One unpleasant comment will directly cause a particular disease",
+            "Being discriminated against keeps cortisol high forever in everyone",
+            "Stress only affects mental health and never physiological regulation",
+            "Repeated exclusion may wear down regulation, as a risk, not a certainty"
+          ],
+          "answer": 3,
+          "stem": "关于慢性压力与偏见，哪项说法最准确？",
+          "options": [
+            "一句不愉快的话会直接导致某种疾病",
+            "遭受歧视会使每个人的皮质醇永远升高",
+            "压力只影响心理健康，从不影响生理调节",
+            "反复排斥可能消耗调节资源，这是风险，并非必然"
+          ],
+          "how": [
+            "题干问「慢性压力」，关键是反复和长期，并且是风险而不是必然。",
+            "反复遭排斥可能长期消耗调节资源，所以选 D。",
+            "B 正是课件提醒不能简化的因果链。"
+          ]
+        },
+        {
+          "stemEn": "Teachers routinely give boys the lab equipment and girls the note-taking, though no one ever says either group is inferior. What does this best illustrate?",
+          "optionsEn": [
+            "Systemic reinforcement of categories through everyday arrangements",
+            "Stereotype threat, because each student is afraid of failing",
+            "A sensitive period for learning laboratory skills in childhood",
+            "Evidence that gender differences in interests are fixed by biology"
+          ],
+          "answer": 0,
+          "stem": "老师们习惯把实验器材交给男生、把记笔记交给女生，尽管没人说过哪个群体更差。这最能说明什么？",
+          "options": [
+            "通过日常安排对类别的系统性强化",
+            "刻板印象威胁，因为每个学生都害怕失败",
+            "童年学习实验技能的敏感期",
+            "兴趣的性别差异由生物固定的证据"
+          ],
+          "how": [
+            "题干说「习惯」这样分工，且「没人说过」哪个群体更差，边界靠安排反复出现。",
+            "日常分组和分工能强化群体边界，所以选 A。"
+          ]
+        }
+      ],
+      "recap": "内化是接受，威胁是担心被评价。反复歧视可能带来风险，但不必然致病。"
+    }
+  ]
+}

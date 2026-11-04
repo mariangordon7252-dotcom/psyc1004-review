@@ -1,0 +1,1757 @@
+{
+  "lectureId": 1,
+  "points": [
+    {
+      "id": "L1-P01",
+      "title": "情境中的人与社会心理学定义",
+      "titleEn": "People in context; defining social psychology",
+      "conceptIds": [
+        "L1-C01",
+        "L1-C02"
+      ],
+      "kp": "心理学是对心理过程与行为的科学研究；看到「人都这样」要追问哪些人、什么情境（context）。社会心理学研究他人的实际、想象或隐含存在（actual, imagined, implied presence）如何影响思想、感受和行为。",
+      "howTo": "选项讲他人影响想法、感受、行为，就是社会心理学；讲特质跨情境是否稳定是人格；讲早期成长变化是发展。房间没人但想到别人的评价，仍算社会影响。遇到概括全人类的说法，先问哪些人、什么情境。",
+      "items": [
+        {
+          "stemEn": "In Allport's definition of social psychology, the 'presence of others' that shapes us can be:",
+          "optionsEn": [
+            "Only people physically present in the same room",
+            "Only an authority giving direct orders",
+            "Only members of one's own ingroup or close friends",
+            "Actual, imagined or implied"
+          ],
+          "answer": 3,
+          "stem": "在 Allport 对社会心理学的定义中，影响我们的「他人存在」可以是：",
+          "options": [
+            "只限于实际在同一房间里的人",
+            "只限于直接下命令的权威",
+            "只限于自己内群体（ingroup）的成员或好友",
+            "实际、想象或隐含的存在（actual, imagined or implied）"
+          ],
+          "how": [
+            "题干问 Allport 定义中的「他人存在」，这是定义题。",
+            "定义列的是实际、想象或隐含三种，所以选 D。",
+            "A 最易错：别人不必真的站在旁边。"
+          ]
+        },
+        {
+          "stemEn": "Mei is alone at home. She rewrites a post several times after picturing how her classmates would judge it. This is best described as:",
+          "optionsEn": [
+            "A stable trait that operates regardless of context",
+            "Developmental change across her early life",
+            "Social facilitation from people working beside her",
+            "Social influence through the imagined presence of others"
+          ],
+          "answer": 3,
+          "stem": "Mei 独自在家。她想象同学会怎么评价后，把一条帖子改了好几遍。这最适合描述为：",
+          "options": [
+            "不受情境影响的稳定特质",
+            "她生命早期的发展变化",
+            "身旁有人一起工作带来的社会促进（social facilitation）",
+            "他人想象存在（imagined presence）带来的社会影响"
+          ],
+          "how": [
+            "线索是「独自在家」但「想象同学会怎么评价」。",
+            "房间没人，想到别人的评价仍属社会影响，所以选 D。",
+            "C 需要他人在场一起做任务，这里没有。"
+          ]
+        },
+        {
+          "stemEn": "A researcher asks whether a trait predicts behaviour consistently across time and across situations. Which area of PSYC1004 does this question belong to?",
+          "optionsEn": [
+            "Social psychology",
+            "Developmental psychology",
+            "Personality psychology",
+            "Behavioural economics"
+          ],
+          "answer": 2,
+          "stem": "一位研究者问：某种特质能否跨时间、跨情境稳定地预测行为？这个问题属于 PSYC1004 的哪个领域？",
+          "options": [
+            "社会心理学（social psychology）",
+            "发展心理学（developmental psychology）",
+            "人格心理学（personality psychology）",
+            "行为经济学（behavioural economics）"
+          ],
+          "how": [
+            "线索是「特质」和「跨时间、跨情境」。",
+            "特质能否稳定预测行为是人格心理学的核心问题，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A headline claims, 'People always speak up against injustice,' based on one study. According to this lecture, what should you ask first?",
+          "optionsEn": [
+            "How can this be applied to all humans at once?",
+            "Which people were studied, and in what context?",
+            "Which personality type causes speaking up?",
+            "Can the social setting of the study be ignored?"
+          ],
+          "answer": 1,
+          "stem": "一条新闻标题根据一项研究宣称：「人们总会站出来反对不公。」按本讲，你首先应该问什么？",
+          "options": [
+            "怎样把它一次推广到全人类？",
+            "研究的是哪些人，在什么情境（context）中？",
+            "哪种人格类型导致人站出来？",
+            "研究的社会环境能否忽略？"
+          ],
+          "how": [
+            "线索是「人们总会」，这是把一项研究概括到所有人。",
+            "课上规定遇到这种说法要追问哪些人、什么情境，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A student who chats freely with friends falls silent in a job interview. Which conclusion best fits this lecture?",
+          "optionsEn": [
+            "Her shy personality alone explains the silence, whatever the setting",
+            "Her friendly behaviour with friends must have been fake",
+            "Social psychology does not apply unless someone pressures her",
+            "Her behaviour reflects both who she is and the social context"
+          ],
+          "answer": 3,
+          "stem": "一名和朋友聊天很自如的学生，在求职面试中变得沉默。哪个结论最符合本讲？",
+          "options": [
+            "不论场合，单凭害羞的人格就能解释这种沉默",
+            "她和朋友在一起时的友好一定是装的",
+            "除非有人施压，否则社会心理学不适用",
+            "她的行为同时反映她这个人和社会情境"
+          ],
+          "how": [
+            "线索是同一个人在「和朋友」和「求职面试中」表现不同。",
+            "行为要结合个人特点和社会情境来理解，所以选 D。",
+            "A 只看人格，解释不了她和朋友在一起时为何健谈。"
+          ]
+        }
+      ],
+      "recap": "他人不必在场：实际、想象、隐含都算；看到「people do X」先问 which people, what context。"
+    },
+    {
+      "id": "L1-P02",
+      "title": "社会心理学的分析层级",
+      "titleEn": "Levels of analysis",
+      "conceptIds": [
+        "L1-C03"
+      ],
+      "kp": "社会心理学可在五个层级分析：个体之间（说服、从众）、自我与他人（自我概念、社会比较）、个体与群体（规范、归属）、群体之间（偏见、群体冲突）、社会与个体（制度、文化、不平等）。",
+      "howTo": "先找题干研究的关系：两人互动看个体之间；和别人比较看自我与他人；融入群体看个体与群体；两个群体对立看群体之间；制度或不平等影响个人看社会与个体。",
+      "items": [
+        {
+          "stemEn": "A study of prejudice and conflict between two communities is mainly at which level of analysis?",
+          "optionsEn": [
+            "Between individuals",
+            "Self and others",
+            "Individual and group",
+            "Between groups"
+          ],
+          "answer": 3,
+          "stem": "一项研究两个社区之间偏见与冲突的研究，主要处于哪个分析层级？",
+          "options": [
+            "个体之间（between individuals）",
+            "自我与他人（self and others）",
+            "个体与群体（individual and group）",
+            "群体之间（between groups）"
+          ],
+          "how": [
+            "线索是「两个社区之间偏见与冲突」。",
+            "偏见和群体冲突属于群体之间层级，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "After seeing a friend's marks, Jun feels worse about his own ability. Research on this reaction sits at which level?",
+          "optionsEn": [
+            "Between groups",
+            "Self and others",
+            "Society and individual",
+            "Individual and group"
+          ],
+          "answer": 1,
+          "stem": "看到朋友的分数后，Jun 对自己的能力感觉变差了。研究这种反应属于哪个层级？",
+          "options": [
+            "群体之间（between groups）",
+            "自我与他人（self and others）",
+            "社会与个体（society and individual）",
+            "个体与群体（individual and group）"
+          ],
+          "how": [
+            "线索是看到「朋友的分数」后对「自己的能力」评价变化。",
+            "这是社会比较，属于自我与他人层级，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A researcher studies how a new employee comes to feel she belongs and starts following her team's norms. This is mainly which level?",
+          "optionsEn": [
+            "Between individuals",
+            "Between groups",
+            "Society and individual",
+            "Individual and group"
+          ],
+          "answer": 3,
+          "stem": "一位研究者研究新员工如何产生归属感，并开始遵守团队规范。这主要是哪个层级？",
+          "options": [
+            "个体之间（between individuals）",
+            "群体之间（between groups）",
+            "社会与个体（society and individual）",
+            "个体与群体（individual and group）"
+          ],
+          "how": [
+            "线索是「归属感」和「团队规范」。",
+            "群体规范与归属属于个体与群体层级，所以选 D。",
+            "B 需要两个群体互相对立，这里只有一个人和她的团队。"
+          ]
+        },
+        {
+          "stemEn": "A project examines how a country's institutions and inequality shape what individual citizens think they can achieve. Which level fits best?",
+          "optionsEn": [
+            "Society and individual",
+            "Individual and group",
+            "Self and others",
+            "Between individuals"
+          ],
+          "answer": 0,
+          "stem": "一个项目考察国家制度与不平等如何塑造公民个人对自身前途的看法。哪个层级最合适？",
+          "options": [
+            "社会与个体（society and individual）",
+            "个体与群体（individual and group）",
+            "自我与他人（self and others）",
+            "个体之间（between individuals）"
+          ],
+          "how": [
+            "线索是「制度与不平等」影响「公民个人」。",
+            "制度、文化、不平等对个人的影响属于社会与个体层级，所以选 A。"
+          ]
+        }
+      ],
+      "recap": "谁和谁的关系决定层级：说服从众、社会比较、规范归属、偏见冲突、制度不平等。"
+    },
+    {
+      "id": "L1-P03",
+      "title": "Triplett 与群体的含义",
+      "titleEn": "Triplett's social facilitation; what is a group?",
+      "conceptIds": [
+        "L1-C04",
+        "L1-C05"
+      ],
+      "kp": "Triplett（1898）发现儿童两人同时卷钓鱼线轴通常比独自更快，这叫社会促进（social facilitation）：他人在场可以改变表现。群体取决于情境：关键是心理上是否形成共同的「我们」，不是物理上站在一起。",
+      "howTo": "结论题选「可以改变表现」，不选「一定变好」。判断是否是群体，看题干里的人有没有共同的「我们」，只站在一起不算；同一批人换情境，身份也会换。",
+      "items": [
+        {
+          "stemEn": "In Triplett's study, children winding fishing reels were generally:",
+          "optionsEn": [
+            "Faster when working alone than when working in pairs",
+            "Equally fast alone and in pairs",
+            "Faster in pairs than alone",
+            "More accurate only when an adult was watching"
+          ],
+          "answer": 2,
+          "stem": "在 Triplett 的研究中，卷钓鱼线轴的儿童通常：",
+          "options": [
+            "独自做比两人同时做更快",
+            "独自做和两人同时做一样快",
+            "两人同时做比独自做更快",
+            "只有成人观看时才更准确"
+          ],
+          "how": [
+            "题干问「卷钓鱼线轴的儿童」的结果。",
+            "笔记记录的结果是两人同时完成时通常更快，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "What is the safest conclusion from Triplett's research on social facilitation?",
+          "optionsEn": [
+            "The presence of others always improves performance",
+            "The presence of others can alter performance",
+            "Performance changes only among children",
+            "Competition is unrelated to the social setting"
+          ],
+          "answer": 1,
+          "stem": "从 Triplett 关于社会促进（social facilitation）的研究中，最稳妥的结论是什么？",
+          "options": [
+            "他人在场总能提高表现",
+            "他人在场可以改变表现",
+            "只有儿童的表现才会改变",
+            "竞争与社会环境无关"
+          ],
+          "how": [
+            "题干要「最稳妥的结论」。",
+            "简单任务变快只说明他人在场能改变表现，所以选 B。",
+            "A 是笔记点名的过度推广：不能从简单任务推到所有任务。"
+          ]
+        },
+        {
+          "stemEn": "The same people see themselves as 'PSYC1004 students' in a lecture but as 'ANU students' at an inter-university game. What does this show?",
+          "optionsEn": [
+            "Group membership is a fixed category",
+            "Standing together is what creates a group",
+            "Which group feels relevant depends on the context",
+            "Their personal identity has been lost"
+          ],
+          "answer": 2,
+          "stem": "同一批人在讲堂里把自己看作「PSYC1004 学生」，在校际比赛中却看作「ANU 学生」。这说明什么？",
+          "options": [
+            "群体成员身份是固定类别",
+            "站在一起才形成群体",
+            "哪个群体身份重要取决于情境",
+            "他们已经失去了个人身份"
+          ],
+          "how": [
+            "线索是同一批人在「讲堂里」和「校际比赛中」身份不同。",
+            "群体不是固定类别，而随当前情境变化，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Thirty strangers wait at a bus stop, each absorbed in their own phone. None of them thinks of the others as 'us'. According to this lecture, they are:",
+          "optionsEn": [
+            "Not yet a psychological group, despite being close",
+            "A psychological group, because they stand in one place",
+            "A psychological group, because they all rely on one shared timetable",
+            "Not a group, because a group must have a formal leader"
+          ],
+          "answer": 0,
+          "stem": "三十个陌生人在公交站等车，各自看手机，没有人把其他人当作自己人。按本讲，他们：",
+          "options": [
+            "虽然物理上靠近，但还不是心理意义上的群体",
+            "是心理意义上的群体，因为站在同一个地方",
+            "是心理意义上的群体，因为都依赖同一张时刻表",
+            "不是群体，因为群体必须有正式领导"
+          ],
+          "how": [
+            "线索是「没有人把其他人当作自己人」，他们只是站得近。",
+            "群体的关键是心理上共同的「我们」，所以选 A。",
+            "B 把物理靠近当成了认同，这正是笔记提醒的错误。"
+          ]
+        }
+      ],
+      "recap": "他人在场 → 可以改变表现（不是必然变好）；群体 → 心理上的「我们」，随情境变化。"
+    },
+    {
+      "id": "L1-P04",
+      "title": "科学种族主义与测量偏差",
+      "titleEn": "Scientific racism and experimenter bias",
+      "conceptIds": [
+        "L1-C06"
+      ],
+      "kp": "早期心理学曾把群体差异解释为先天缺陷，忽略贫困、教育和歧视。Galton 贡献相关与回归，却推广优生学（eugenics）；Garrett 用种族 IQ 说法支持学校隔离；Bond 指出实验者、测验和偏见会造成偏差结论。",
+      "howTo": "按人名配事：相关、回归加优生学是 Galton；IQ 支持隔离是 Garrett；白人实验者、白人标准化测验造成偏差是 Bond。看到「用了统计所以没偏见」一律否定。",
+      "items": [
+        {
+          "stemEn": "Which description fits Francis Galton?",
+          "optionsEn": [
+            "He used racial IQ claims to defend segregated schools",
+            "He showed that test standards could bias race conclusions",
+            "He proposed that contact between groups reduces prejudice",
+            "He helped develop correlation and regression but promoted eugenics"
+          ],
+          "answer": 3,
+          "stem": "下列哪项描述符合 Francis Galton？",
+          "options": [
+            "他用种族 IQ 说法为学校隔离辩护",
+            "他指出测验标准可能使种族结论产生偏差",
+            "他提出群体接触能减少偏见",
+            "他帮助发展了相关和回归，却推广了优生学（eugenics）"
+          ],
+          "how": [
+            "题干问「Francis Galton」，是人名配贡献。",
+            "Galton 同时有相关、回归的贡献和优生学的危害，所以选 D。",
+            "A 是 Garrett，B 是 Bond，C 是 Allport。"
+          ]
+        },
+        {
+          "stemEn": "Who used alleged racial differences in IQ to support school segregation, presenting social and educational gaps as innate?",
+          "optionsEn": [
+            "Francis Galton",
+            "Horace Bond",
+            "Gordon Allport",
+            "Henry Garrett"
+          ],
+          "answer": 3,
+          "stem": "谁用所谓种族 IQ 差异支持学校种族隔离，把社会与教育造成的差距说成先天差异？",
+          "options": [
+            "Francis Galton",
+            "Horace Bond",
+            "Gordon Allport",
+            "Henry Garrett"
+          ],
+          "how": [
+            "线索是「种族 IQ 差异」和「学校种族隔离」。",
+            "这两条线索对应 Garrett，所以选 D。",
+            "B 正好相反，Bond 是批评这类结论的人。"
+          ]
+        },
+        {
+          "stemEn": "A report concludes that minority children are less intelligent. The tests were standardised on White children and given by White examiners. Following Horace Bond, what is the best critique?",
+          "optionsEn": [
+            "The sample must simply have been too small to detect a real difference in intelligence",
+            "The examiner, the test and prior assumptions may have biased the conclusion",
+            "The children's group membership alone produced the low scores",
+            "The result needs no critique because IQ differences are innate"
+          ],
+          "answer": 1,
+          "stem": "一份报告断定少数族裔儿童智力较低。测验以白人儿童为标准化对象，并由白人实验者施测。按 Horace Bond 的思路，最好的批评是什么？",
+          "options": [
+            "样本一定太小，无法检测到智力上的真实差异",
+            "实验者、测验和预设偏见都可能使结论产生偏差",
+            "儿童的群体身份单方面造成了低分",
+            "这个结果无需批评，因为 IQ 差异是先天的"
+          ],
+          "how": [
+            "线索是「以白人儿童为标准化对象」和「白人实验者」。",
+            "Bond 指出实验者、测验和预设偏见共同造成偏差结论，所以选 B。",
+            "C 错在把结果全算到受试者身份上。"
+          ]
+        },
+        {
+          "stemEn": "Someone argues: 'Early race research used statistics and tests, so its conclusions could not have been biased.' What is the best reply?",
+          "optionsEn": [
+            "Statistics were not yet used in any early psychology research",
+            "Scientific tools can still serve researchers' biases",
+            "Bias matters only when researchers deliberately fake their data",
+            "Those conclusions were sound, although their language is now dated"
+          ],
+          "answer": 1,
+          "stem": "有人说：「早期种族研究用了统计和测验，所以结论不可能有偏见。」最好的回应是什么？",
+          "options": [
+            "早期心理学研究还完全没有使用统计",
+            "科学工具仍可能被研究者的偏见利用",
+            "只有研究者故意伪造数据时，偏见才有影响",
+            "那些结论是可靠的，只是措辞今天看来过时了"
+          ],
+          "how": [
+            "线索是「用了统计和测验，所以」不可能有偏见。",
+            "有科学术语或统计方法，不等于解释没有社会偏见，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "Galton → 统计＋优生学；Garrett → IQ 支持隔离；Bond → 实验者和测验造成偏差。"
+    },
+    {
+      "id": "L1-P05",
+      "title": "可重复性危机与开放科学",
+      "titleEn": "Replication crisis and open science",
+      "conceptIds": [
+        "L1-C07",
+        "L1-C08"
+      ],
+      "kp": "大型重复研究发现许多经典效应无法再次出现。可疑做法：看到结果才提假设、只发表成功研究、把无效果研究放进抽屉。开放科学：收集数据前预注册和注册报告，收集后共享数据，目的是透明，不是保证正确。",
+      "howTo": "先看时间点：数据前公开计划是预注册或注册报告；数据后公开数据是数据共享；事后改假设、只报显著结果是可疑做法。看到「保证正确」就排除。",
+      "items": [
+        {
+          "stemEn": "Which of these is a questionable research practice?",
+          "optionsEn": [
+            "Preregistering a study before collecting data",
+            "Sharing the data after the study is finished",
+            "Forming a hypothesis only after seeing the results",
+            "Attempting a larger replication of a classic effect"
+          ],
+          "answer": 2,
+          "stem": "下列哪一项是可疑研究做法（questionable research practice）？",
+          "options": [
+            "在收集数据前预注册（preregister）研究",
+            "研究结束后共享数据",
+            "看到结果后才提出假设",
+            "对经典效应做更大规模的重复研究"
+          ],
+          "how": [
+            "题干问「可疑研究做法」，要从四个做法里挑出问题做法。",
+            "看到结果才提出假设是教授列出的可疑做法，所以选 C。",
+            "其余三项都是提高透明度或检验可靠性的做法。"
+          ]
+        },
+        {
+          "stemEn": "A lab runs several experiments on an effect. Most find nothing, but the lab publishes only the few that were significant. What is the main problem?",
+          "optionsEn": [
+            "Publishing significant results is an example of preregistration",
+            "The null findings prove that the effect can never exist",
+            "Selective reporting makes an unstable effect look stable",
+            "Readers can still see all of the null findings in the published paper"
+          ],
+          "answer": 2,
+          "stem": "一个实验室就某效应做了多次实验。多数没发现效应，但实验室只发表了少数显著的结果。主要问题是什么？",
+          "options": [
+            "发表显著结果属于预注册（preregistration）",
+            "无效结果证明这个效应绝不可能存在",
+            "选择性报告让不稳定的效应看起来像稳定规律",
+            "读者仍能在已发表论文中看到全部无效结果"
+          ],
+          "how": [
+            "线索是「只发表了少数显著的结果」。",
+            "隐藏无效结果会让读者高估可靠性，所以选 C。",
+            "B 也过头：没有重复出来不等于效应绝不存在。"
+          ]
+        },
+        {
+          "stemEn": "Before collecting any data, a team publicly posts its hypotheses and analysis plan. Which practice is this?",
+          "optionsEn": [
+            "Preregistration",
+            "Data sharing",
+            "Selective reporting",
+            "Hypothesising after results"
+          ],
+          "answer": 0,
+          "stem": "在收集任何数据之前，一个团队公开发布了研究假设和分析计划。这是哪种做法？",
+          "options": [
+            "预注册（preregistration）",
+            "数据共享（data sharing）",
+            "选择性报告（selective reporting）",
+            "看到结果后提出假设"
+          ],
+          "how": [
+            "线索是「在收集任何数据之前」公开计划。",
+            "数据收集前公开计划就是预注册，所以选 A。",
+            "B 发生在收集数据之后，时间点不对。"
+          ]
+        },
+        {
+          "stemEn": "A student says, 'If a study is preregistered, its conclusion must be correct.' What is wrong with this claim?",
+          "optionsEn": [
+            "Open science makes the process transparent but does not guarantee correctness",
+            "Preregistration is only allowed after the data have been analysed",
+            "Open science aims to make significant results easier to publish",
+            "Preregistered studies are never checked or questioned by other people"
+          ],
+          "answer": 0,
+          "stem": "一名学生说：「研究只要预注册了，结论就一定正确。」这个说法错在哪里？",
+          "options": [
+            "开放科学让过程更透明，但不保证结论正确",
+            "预注册只能在分析完数据之后进行",
+            "开放科学的目的是让显著结果更容易发表",
+            "预注册的研究从不会被别人检查或质疑"
+          ],
+          "how": [
+            "线索是「结论就一定正确」，说得太绝对。",
+            "开放科学的目的是让别人能检查、重复和质疑，所以选 A。"
+          ]
+        }
+      ],
+      "recap": "可疑做法 → 事后假设、选择性发表、藏无效结果；开放科学 → 让人能检查，不保证正确。"
+    },
+    {
+      "id": "L1-P06",
+      "title": "中立观察者迷思与 WEIRD 样本",
+      "titleEn": "Neutral observer myth and WEIRD samples",
+      "conceptIds": [
+        "L1-C09",
+        "L1-C10"
+      ],
+      "kp": "研究者也处于特定历史、地理、群体和文化中，会影响问什么、怎么测、怎么解释。只承认受试者身份有影响，是双重人物模型（dual model）。WEIRD 约占全球 12%，却占已发表研究参与者最高约 80%。",
+      "howTo": "看到研究者被当成没有背景的人，选中立观察者迷思或双重人物模型。看到富裕西方大学生样本，就问能否推广；样本再大也救不了背景狭窄。",
+      "items": [
+        {
+          "stemEn": "The 'myth of the neutral observer' is the mistaken assumption that:",
+          "optionsEn": [
+            "Participants are unaffected by the setting in which they are tested",
+            "Scientists can stand apart from their own background",
+            "Large samples automatically represent the whole human population across every culture",
+            "Replications always reproduce the original results of classic studies"
+          ],
+          "answer": 1,
+          "stem": "「中立观察者迷思（myth of the neutral observer）」是指下列哪种错误假设？",
+          "options": [
+            "参与者不受测试环境的影响",
+            "科学家能脱离自身背景",
+            "大样本自动代表所有文化中的全人类",
+            "重复研究总能得到经典研究的原始结果"
+          ],
+          "how": [
+            "题干问「中立观察者迷思」，关键词是观察者，即研究者本人。",
+            "迷思是假设科学家与世界分离，所以选 B。",
+            "D 属于可重复性危机，不是这个概念。"
+          ]
+        },
+        {
+          "stemEn": "A paper treats participants' race as shaping their cognition but treats the researcher's race as irrelevant to the study. Which idea does this illustrate?",
+          "optionsEn": [
+            "WEIRD sampling",
+            "Selective reporting",
+            "The dual model of persons",
+            "Eugenics"
+          ],
+          "answer": 2,
+          "stem": "一篇论文认为参与者的种族会影响认知，却认为研究者的种族与研究无关。这体现了哪个概念？",
+          "options": [
+            "WEIRD 抽样",
+            "选择性报告（selective reporting）",
+            "双重人物模型（dual model of persons）",
+            "优生学（eugenics）"
+          ],
+          "how": [
+            "线索是「参与者的种族」有影响，「研究者的种族」却无关。",
+            "只对一方承认背景的不对称就是双重人物模型，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "What do the letters in WEIRD stand for?",
+          "optionsEn": [
+            "Western, Educated, Industrialised, Rich, Democratic",
+            "Western, Employed, Individualist, Rich, Developed",
+            "Wealthy, Educated, Independent, Religious, Democratic",
+            "Western, Educated, Independent, Reasonable, Diverse"
+          ],
+          "answer": 0,
+          "stem": "WEIRD 这几个字母代表什么？",
+          "options": [
+            "西方、受教育、工业化、富裕、民主（Western, Educated, Industrialised, Rich, Democratic）",
+            "西方、有工作、个人主义、富裕、发达（Western, Employed, Individualist, Rich, Developed）",
+            "富有、受教育、独立、宗教、民主（Wealthy, Educated, Independent, Religious, Democratic）",
+            "西方、受教育、独立、理性、多元（Western, Educated, Independent, Reasonable, Diverse）"
+          ],
+          "how": [
+            "题干直接问「WEIRD」的含义。",
+            "五个词依次是 Western、Educated、Industrialised、Rich、Democratic，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "According to the lecture, WEIRD people make up roughly what share of the world's population, and up to what share of participants in published psychology research?",
+          "optionsEn": [
+            "About 80% of the world; up to about 12% of participants",
+            "About 12% of the world; up to about 80% of participants",
+            "About 12% of the world; up to about 25% of participants",
+            "About 50% of the world; up to about 80% of participants"
+          ],
+          "answer": 1,
+          "stem": "按本讲，WEIRD 人群大约占全球人口多少，又最高占已发表心理学研究参与者多少？",
+          "options": [
+            "约占全球 80%；最高约占参与者 12%",
+            "约占全球 12%；最高约占参与者 80%",
+            "约占全球 12%；最高约占参与者 25%",
+            "约占全球 50%；最高约占参与者 80%"
+          ],
+          "how": [
+            "题干同时问「全球人口」和「参与者」两个比例。",
+            "关键数字是全球约 12%，参与者最高约 80%，所以选 B。",
+            "A 把两个数字对调了，这是最容易犯的错。"
+          ]
+        },
+        {
+          "stemEn": "A survey recruits 20,000 students from wealthy Western universities and claims its findings apply to all humans. What is the best critique?",
+          "optionsEn": [
+            "With 20,000 people the claim is justified",
+            "A large sample cannot fix a narrow background",
+            "It only needs a little more statistical power to justify the claim",
+            "Students are never affected by social context"
+          ],
+          "answer": 1,
+          "stem": "一项调查招募了富裕西方大学的 20,000 名学生，并声称结论适用于全人类。最好的批评是什么？",
+          "options": [
+            "有 20,000 人，这个说法就成立",
+            "样本再大也弥补不了社会背景狭窄",
+            "它只需要再多一点统计效力就能成立",
+            "学生从不受社会情境影响"
+          ],
+          "how": [
+            "线索是「20,000 名学生」来自「富裕西方大学」。",
+            "样本量与代表性是两回事，大量 WEIRD 样本仍可能无法推广，所以选 B。",
+            "A 正是笔记列出的陷阱。"
+          ]
+        }
+      ],
+      "recap": "研究者也有背景；WEIRD 约 12% 人口却占约 80% 参与者；样本量不等于代表性。"
+    },
+    {
+      "id": "L1-P07",
+      "title": "社会规范与 Sherif 研究",
+      "titleEn": "Social norms and Sherif's autokinetic studies",
+      "conceptIds": [
+        "L1-C11",
+        "L1-C12"
+      ],
+      "kp": "规范是成员相互影响形成的共同标准，兼有描述性、规定性和应当性。Sherif 让人在黑暗中估计静止光点的移动：先独自、再 2–3 人一起、再独自。答案趋同并保留，只有约 25% 承认受影响。",
+      "howTo": "看到模糊任务、无客观答案、答案趋同且单独时仍保留，就选 Sherif 和内化。看到「光真的动」或「规范等于平均数」都排除：规范是群体互动产物。",
+      "items": [
+        {
+          "stemEn": "Nobody would punish Tom for cutting into a queue, but it still feels wrong to him, as if he ought not to. Which feature of a social norm does this show?",
+          "optionsEn": [
+            "Autokinetic effect",
+            "Social facilitation",
+            "Oughtness",
+            "Mere exposure"
+          ],
+          "answer": 2,
+          "stem": "即使没有人会因插队惩罚 Tom，他仍觉得这样不对，好像不应该这么做。这体现了社会规范的哪个特征？",
+          "options": [
+            "自动运动效应（autokinetic effect）",
+            "社会促进（social facilitation）",
+            "应当性（oughtness）",
+            "单纯曝光（mere exposure）"
+          ],
+          "how": [
+            "线索是「仍觉得这样不对」和「不应该这么做」。",
+            "带有义务感的「不应该」就是规范的应当性，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "In Sherif's autokinetic studies, the point of light in the dark room:",
+          "optionsEn": [
+            "Was stationary, but seemed to move for lack of a reference",
+            "Moved a small amount that only some of the participants were able to detect",
+            "Moved a set distance that the confederates knew in advance",
+            "Was stationary, and participants were told this before starting"
+          ],
+          "answer": 0,
+          "stem": "在 Sherif 的自动运动效应（autokinetic）研究中，黑暗房间里的光点：",
+          "options": [
+            "是静止的，只是因为没有参照物而看起来在动",
+            "移动了很小距离，只有部分参与者才能察觉到",
+            "移动了固定距离，实验同谋事先知道",
+            "是静止的，而且开始前已告知参与者"
+          ],
+          "how": [
+            "题干问「黑暗房间里的光点」本身。",
+            "光点实际静止，运动是缺乏参照物造成的错觉，所以选 A。",
+            "D 错在最后半句：告知了就不再是模糊任务。"
+          ]
+        },
+        {
+          "stemEn": "Which pattern matches the results of Sherif's alone, then group, then alone procedure?",
+          "optionsEn": [
+            "Estimates converged in the group, stayed close when alone, and about 25% admitted being influenced",
+            "Estimates converged in the group, returned to the originals when alone, and about 25% admitted influence",
+            "Estimates stayed far apart in the group, converged when alone, and about 75% admitted being influenced",
+            "Estimates converged in the group, stayed close when alone, and about 75% admitted being influenced"
+          ],
+          "answer": 0,
+          "stem": "哪种模式符合 Sherif「独自、小组、再独自」流程的结果？",
+          "options": [
+            "小组中答案趋同，再独自时仍接近，约 25% 承认受到影响",
+            "小组中答案趋同，再独自时回到原答案，约 25% 承认受影响",
+            "小组中答案差距仍大，独自时才趋同，约 75% 承认受到影响",
+            "小组中答案趋同，再独自时仍接近，约 75% 承认受到影响"
+          ],
+          "how": [
+            "题干要「独自、小组、再独自」三段的结果。",
+            "答案在小组中趋同，离开后仍保留，只有约 25% 承认，所以选 A。",
+            "D 只错在比例，这个数字说明多数人并未承认受影响。"
+          ]
+        },
+        {
+          "stemEn": "A classmate says that a Sherif-style norm is simply the average of each person's answers. What is the best correction?",
+          "optionsEn": [
+            "It is a rule that the experimenter announces to the whole group",
+            "It is the answer given by the most confident group member",
+            "It is a group product of mutual influence",
+            "It is an average, but it vanishes once the group has left"
+          ],
+          "answer": 2,
+          "stem": "一位同学说，Sherif 研究中的规范只是每个人答案的平均数。最好的纠正是什么？",
+          "options": [
+            "它是实验者向群体宣布的规则",
+            "它是群体中最自信成员给出的答案",
+            "它是相互影响后形成的群体产物（group product）",
+            "它是平均数，但群体离开后就消失"
+          ],
+          "how": [
+            "线索是「只是每个人答案的平均数」，这是笔记列出的陷阱。",
+            "规范是群体互动产生的产物，不是简单平均，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Why can Sherif's studies not tell us whether people conform when the correct answer is obvious?",
+          "optionsEn": [
+            "The participants were never allowed to answer in a group",
+            "The task was ambiguous, with no objective correct answer",
+            "The participants all knew in advance that the light was not really moving",
+            "The norms disappeared as soon as the group had separated"
+          ],
+          "answer": 1,
+          "stem": "为什么 Sherif 的研究无法说明人们在正确答案很明显时是否会从众？",
+          "options": [
+            "参与者从未被允许以小组形式作答",
+            "任务模糊，没有清楚、客观的正确答案",
+            "参与者全都知道光点并没有真的移动",
+            "群体一分开，规范就立刻消失了"
+          ],
+          "how": [
+            "线索是「正确答案很明显时」，要和 Sherif 的任务对比。",
+            "Sherif 的任务本身模糊，没有明显答案，回答不了这个问题，所以选 B。",
+            "这个局限直接引出了 Asch 研究。"
+          ]
+        }
+      ],
+      "recap": "模糊判断 → 相互影响 → 群体规范 → 内化，离开群体后仍保留；光点其实没动。"
+    },
+    {
+      "id": "L1-P08",
+      "title": "Asch 线段研究与数字",
+      "titleEn": "Asch line-judgement studies and their figures",
+      "conceptIds": [
+        "L1-C13"
+      ],
+      "kp": "一名真参与者加多名同谋，比较明显的线段长度，同谋故意一致答错。75% 至少从众一次，25% 从未从众；所有关键试次中约 37% 的回答从众，63% 没有从众。",
+      "howTo": "先看分母：说「参与者／至少一次」用 75% 和 25%；说「回答／试次」用 37% 和 63%。看到「多数人多数时候从众」一律不选。",
+      "items": [
+        {
+          "stemEn": "Which description matches the procedure of Asch's line-judgement studies?",
+          "optionsEn": [
+            "All participants judged the movement of a stationary light in a dark room",
+            "One real participant judged obvious lines after confederates gave the same wrong answer",
+            "A real participant gave pretend shocks while an experimenter issued commands",
+            "Participants gave money to anonymous members of an arbitrarily assigned group"
+          ],
+          "answer": 1,
+          "stem": "哪项描述符合 Asch 线段判断研究的流程？",
+          "options": [
+            "所有参与者在暗室中判断静止光点的移动",
+            "一名真参与者在同谋一致答错后判断明显的线段",
+            "一名真参与者在实验者命令下施加假电击",
+            "参与者给随意分组的匿名成员分配金钱"
+          ],
+          "how": [
+            "题干问「Asch 线段判断研究的流程」。",
+            "Asch 的结构是一名真参与者加多名同谋，同谋一致答错，所以选 B。",
+            "A 是 Sherif，C 是 Milgram，D 是最小群体范式。"
+          ]
+        },
+        {
+          "stemEn": "In Asch's research, the 75% figure refers to the share of:",
+          "optionsEn": [
+            "Critical answers that were conforming",
+            "Participants who conformed on every critical trial",
+            "Participants who conformed at least once",
+            "Participants who never conformed at all"
+          ],
+          "answer": 2,
+          "stem": "在 Asch 的研究中，75% 这个数字指的是什么的比例？",
+          "options": [
+            "关键试次中从众的回答",
+            "每个关键试次都从众的参与者",
+            "至少从众一次的参与者",
+            "从未从众的参与者"
+          ],
+          "how": [
+            "题干问「75%」的分母。",
+            "75% 是参与者比例，意思是至少从众一次，所以选 C。",
+            "A 把分母换成了回答，那个数字约是 37%。"
+          ]
+        },
+        {
+          "stemEn": "A classmate says, 'Asch showed that most people conform most of the time.' Which figures best correct this?",
+          "optionsEn": [
+            "25% conformed at least once, and about 37% of answers were not conforming",
+            "75% of answers were conforming, and about 37% of people never conformed",
+            "65% continued to the maximum, so most answers were not conforming at all",
+            "75% conformed at least once, yet about 63% of answers were not conforming"
+          ],
+          "answer": 3,
+          "stem": "一位同学说：「Asch 证明大多数人在大多数时候都从众。」哪组数字最能纠正这个说法？",
+          "options": [
+            "25% 的人至少从众一次，约 37% 的回答没有从众",
+            "75% 的回答是从众的，约 37% 的人从未从众",
+            "65% 的人坚持到最高强度，所以多数回答没有从众",
+            "75% 的人至少从众一次，但约 63% 的回答没有从众"
+          ],
+          "how": [
+            "线索是「大多数人在大多数时候」，把人和回答混在一起。",
+            "要同时给出 75% 的人和 63% 的回答两个分母，所以选 D。",
+            "C 的 65% 属于 Milgram，不是 Asch。"
+          ]
+        },
+        {
+          "stemEn": "Applying Asch's figures to 100 participants, about how many would never give a conforming answer?",
+          "optionsEn": [
+            "25",
+            "37",
+            "63",
+            "75"
+          ],
+          "answer": 0,
+          "stem": "把 Asch 的数字套到 100 名参与者上，大约有多少人从不给出从众答案？",
+          "options": [
+            "25",
+            "37",
+            "63",
+            "75"
+          ],
+          "how": [
+            "线索是「从不给出从众答案」，这是在数人，不是数回答。",
+            "75% 至少从众一次，所以 25% 从未从众，也就是约 25 人，所以选 A。",
+            "B 和 C 都是回答比例，分母不同。"
+          ]
+        }
+      ],
+      "recap": "75% 的人至少一次；63% 的回答没从众。人的比例和回答比例不能混。"
+    },
+    {
+      "id": "L1-P09",
+      "title": "增加与降低从众的条件",
+      "titleEn": "What increases and reduces conformity",
+      "conceptIds": [
+        "L1-C14",
+        "L1-C15"
+      ],
+      "kp": "增加从众：群体更大、意见完全一致、敬佩或想加入该群体、公开回答、强调服从规范的文化。降低从众：异议（dissent），即使异议者答错也打破一致；匿名或私人回答，规范压力下降。",
+      "howTo": "看题干的改变：加一个不同答案或改成私下作答，从众下降；一致、公开、想加入，从众上升。「异议者必须答对」「匿名让影响消失」都是错的。",
+      "items": [
+        {
+          "stemEn": "Which change is most likely to increase conformity in an Asch-style task?",
+          "optionsEn": [
+            "Letting the participant write down answers in private",
+            "Adding one group member who breaks the unanimity",
+            "Promising that all of the answers will remain anonymous",
+            "Making the group unanimous and having answers given aloud"
+          ],
+          "answer": 3,
+          "stem": "在 Asch 式任务中，哪种改变最可能增加从众？",
+          "options": [
+            "让参与者私下写下答案",
+            "加入一名打破一致性的群体成员",
+            "承诺所有答案都保持匿名",
+            "让群体意见完全一致，并要求当众回答"
+          ],
+          "how": [
+            "题干问「增加从众」，要找压力上升的条件。",
+            "意见一致和公开回答都会增加从众，所以选 D。",
+            "其余三项都是降低从众的条件。"
+          ]
+        },
+        {
+          "stemEn": "In an Asch-style group, one confederate gives a different answer from the others, but that answer is also wrong. What is the most likely effect?",
+          "optionsEn": [
+            "Conformity will rise because there are now two wrong answers",
+            "Conformity will not change unless the dissenter answers correctly",
+            "Conformity can still fall because the unanimity is broken",
+            "Conformity will fall only if the dissenter holds high status"
+          ],
+          "answer": 2,
+          "stem": "在 Asch 式小组中，一名同谋给出与其他人不同的答案，但这个答案也是错的。最可能的影响是什么？",
+          "options": [
+            "从众会上升，因为现在有两个错误答案",
+            "除非异议者答对，否则从众不会改变",
+            "从众仍可能下降，因为一致性被打破了",
+            "只有异议者地位高时，从众才会下降"
+          ],
+          "how": [
+            "线索是答案「不同」但「也是错的」。",
+            "降低从众靠的是打破全体一致，不要求异议者答对，所以选 C。",
+            "B 是本讲列出的常见陷阱。"
+          ]
+        },
+        {
+          "stemEn": "Lena badly wants to join a prestigious club. At a meeting, every member praises a film she disliked, and she must give her view aloud. Which factors raise her conformity pressure?",
+          "optionsEn": [
+            "An attractive group, unanimity and a public response",
+            "An attractive group, a dissenter and a private response",
+            "Anonymity, unanimity and an ambiguous physical stimulus",
+            "A direct order from an experimenter and gradual escalation"
+          ],
+          "answer": 0,
+          "stem": "Lena 非常想加入一个有声望的社团。开会时每位成员都称赞一部她不喜欢的电影，而她必须当众说出看法。哪些因素提高了她的从众压力？",
+          "options": [
+            "有吸引力的群体、意见一致、公开回答",
+            "有吸引力的群体、有异议者、私下回答",
+            "匿名、意见一致、模糊的物理刺激",
+            "实验者的直接命令和逐步升级"
+          ],
+          "how": [
+            "线索是「非常想加入」「每位成员都称赞」和「当众说出」。",
+            "这三条分别对应想加入的群体、意见一致和公开回答，所以选 A。",
+            "D 是 Milgram 的服从机制，这里没有人下命令。"
+          ]
+        },
+        {
+          "stemEn": "A manager replaces a show of hands with anonymous voting. What is the best prediction?",
+          "optionsEn": [
+            "Conformity will disappear completely because nobody can see the votes",
+            "Conformity will likely fall, although social influence may not vanish",
+            "Conformity will rise because people feel freer to agree with the group",
+            "Conformity will be unaffected because anonymity matters only in obedience"
+          ],
+          "answer": 1,
+          "stem": "一位经理把举手表决改成匿名投票。最好的预测是什么？",
+          "options": [
+            "从众会完全消失，因为没人看得到选票",
+            "从众可能下降，但社会影响不一定消失",
+            "从众会上升，因为人们更自由地赞同群体",
+            "从众不受影响，因为匿名只对服从有用"
+          ],
+          "how": [
+            "线索是把「举手表决」改成「匿名投票」。",
+            "匿名降低怕不被接纳的压力，但影响不一定归零，所以选 B。",
+            "A 太绝对：Deutsch 与 Gerard 的匿名条件错误仍不为零。"
+          ]
+        }
+      ],
+      "recap": "一致＋公开＋想加入 → 从众升；打破一致或匿名 → 从众降，但不必答对，也不会归零。"
+    },
+    {
+      "id": "L1-P10",
+      "title": "物理与社会现实检验",
+      "titleEn": "Physical versus social reality testing",
+      "conceptIds": [
+        "L1-C16"
+      ],
+      "kp": "物理现实检验（physical reality testing）是用自己的眼睛、耳朵和触觉判断；社会现实检验（social reality testing）是参考别人的判断。清楚情境多用前者，模糊情境多用后者，但 Asch 说明证据清楚时社会影响仍可能存在。",
+      "howTo": "自己直接看、听、量就是物理现实检验；看别人怎么选来决定就是社会现实检验。题干问模糊任务选社会，清楚任务选物理；有「一定不受影响」就排除。",
+      "items": [
+        {
+          "stemEn": "Rather than asking a friend how wide a desk is, Ana measures it herself with a ruler. She is using:",
+          "optionsEn": [
+            "Physical reality testing",
+            "Social reality testing",
+            "Normative influence",
+            "Public compliance"
+          ],
+          "answer": 0,
+          "stem": "Ana 没有问朋友桌子有多宽，而是自己用尺子量。她使用的是：",
+          "options": [
+            "物理现实检验（physical reality testing）",
+            "社会现实检验（social reality testing）",
+            "规范性影响（normative influence）",
+            "公开顺从（public compliance）"
+          ],
+          "how": [
+            "线索是「自己用尺子量」。",
+            "用自己的感官直接检查证据是物理现实检验，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Unsure which queue leads to the exam hall, Sam joins the one most students have chosen. He is relying on:",
+          "optionsEn": [
+            "Social reality testing",
+            "Physical reality testing",
+            "Gradual escalation",
+            "Social facilitation"
+          ],
+          "answer": 0,
+          "stem": "Sam 不确定哪条队通往考场，于是排进了大多数学生选的那条。他依靠的是：",
+          "options": [
+            "社会现实检验（social reality testing）",
+            "物理现实检验（physical reality testing）",
+            "逐步升级（gradual escalation）",
+            "社会促进（social facilitation）"
+          ],
+          "how": [
+            "线索是「不确定」和「大多数学生选的」。",
+            "参考别人的判断来决定什么是对的，就是社会现实检验，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "In which task would people generally rely most on social reality testing?",
+          "optionsEn": [
+            "Comparing two lines that differ clearly in length",
+            "Reading a number marked on a clear ruler",
+            "Looking directly at a door to see if it is open",
+            "Estimating how far a light moves in a dark room"
+          ],
+          "answer": 3,
+          "stem": "在下列哪项任务中，人们通常最依赖社会现实检验？",
+          "options": [
+            "比较两条长度明显不同的线段",
+            "读取清晰尺子上标记的数字",
+            "直接看门是否开着",
+            "估计黑暗房间里的光点移动了多远"
+          ],
+          "how": [
+            "题干问「最依赖社会现实检验」，要找最模糊的任务。",
+            "模糊情境更依赖别人，暗室光点没有参照物，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "What do Asch's results add to the general rule about clear and ambiguous situations?",
+          "optionsEn": [
+            "People never use physical reality testing when other people are present",
+            "Social reality testing is used only when there is no group",
+            "Social influence can persist even when the physical evidence is clear",
+            "Clear situations reduce social influence to exactly zero for everyone"
+          ],
+          "answer": 2,
+          "stem": "关于清楚与模糊情境的一般规律，Asch 的结果补充了什么？",
+          "options": [
+            "只要有他人在场，人们就绝不用物理现实检验",
+            "只有没有群体时才用社会现实检验",
+            "即使物理证据清楚，社会影响仍可能存在",
+            "清楚的情境会让每个人受到的社会影响归零"
+          ],
+          "how": [
+            "线索是「清楚与模糊情境」，Asch 的线段任务正是清楚情境。",
+            "线段很明显，仍有人跟着答错，所以选 C。",
+            "D 正好被 Asch 的结果否定。"
+          ]
+        }
+      ],
+      "recap": "清楚 → 多用物理检验；模糊 → 多用社会检验；但清楚时社会影响也不必然归零。"
+    },
+    {
+      "id": "L1-P11",
+      "title": "信息性影响与规范性影响",
+      "titleEn": "Informational versus normative influence",
+      "conceptIds": [
+        "L1-C17",
+        "L1-C18"
+      ],
+      "kp": "信息性影响（informational）：想要正确，把别人当事实来源，私下也改变看法（内化）。规范性影响（normative）：想获得认可、避免排斥，公开跟随，私下可能仍不同意（公开顺从 compliance）。",
+      "howTo": "问动机：相信对方是对的，选信息性；怕显得格格不入，选规范性。再看私下：私下也改变是内化；私下没变或单独时变回去，是公开顺从。",
+      "items": [
+        {
+          "stemEn": "The main goal behind normative influence is to:",
+          "optionsEn": [
+            "Reach the most accurate answer",
+            "Gain approval and avoid rejection",
+            "Use others as a source of facts",
+            "Reduce stress caused by a task"
+          ],
+          "answer": 1,
+          "stem": "规范性影响（normative influence）背后的主要目标是：",
+          "options": [
+            "得到最准确的答案",
+            "获得认可并避免被排斥",
+            "把别人当作事实信息来源",
+            "减轻任务带来的压力"
+          ],
+          "how": [
+            "题干问「规范性影响」的目标。",
+            "规范性影响的核心是想被接纳、不被排斥，所以选 B。",
+            "A 和 C 都是信息性影响的特征。"
+          ]
+        },
+        {
+          "stemEn": "New to the city, Priya follows the crowd to a train platform because she thinks they know the way, and she truly believes it is the right one. This is:",
+          "optionsEn": [
+            "Informational influence and private acceptance",
+            "Normative influence leading to public compliance",
+            "Obedience to a legitimate authority figure",
+            "Social facilitation from the mere presence of other people"
+          ],
+          "answer": 0,
+          "stem": "Priya 初到这座城市，她认为人群知道路，就跟着去了某个站台，并真心相信是对的。这属于：",
+          "options": [
+            "信息性影响（informational influence），带来私下接受",
+            "规范性影响（normative influence），带来公开顺从",
+            "对合法权威人物的服从",
+            "他人在场带来的社会促进"
+          ],
+          "how": [
+            "线索是「认为人群知道路」和「真心相信是对的」。",
+            "把别人当信息来源并真正改变看法，就是信息性影响，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "In a meeting, Ben privately thinks his boss's plan is poor but says 'Great idea' so that he will not stand out. This is:",
+          "optionsEn": [
+            "Informational influence and internalisation",
+            "Physical reality testing and accuracy",
+            "Transfer of responsibility to authority",
+            "Normative influence and public compliance"
+          ],
+          "answer": 3,
+          "stem": "开会时，Ben 私下觉得老板的计划很差，却说「好主意」，以免显得格格不入。这属于：",
+          "options": [
+            "信息性影响（informational influence）和内化",
+            "物理现实检验和追求准确",
+            "把责任转移给权威",
+            "规范性影响（normative influence）和公开顺从"
+          ],
+          "how": [
+            "线索是「私下觉得老板的计划很差」和「以免显得格格不入」。",
+            "怕不合群而公开配合，私下仍不同意，就是公开顺从，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Which statement about the two forms of influence is correct?",
+          "optionsEn": [
+            "Normative influence can change private views; informational influence may change only public behaviour",
+            "Informational influence means pretending to agree with the group in order to be accepted by it",
+            "Informational influence can change private views; normative influence may change only public behaviour",
+            "Normative influence always means that a person's private attitude has come to match the group's"
+          ],
+          "answer": 2,
+          "stem": "关于这两种影响，哪个说法正确？",
+          "options": [
+            "规范性影响可改变私下看法；信息性影响可能只改变公开行为",
+            "信息性影响是指为了被群体接纳而假装同意群体",
+            "信息性影响可改变私下看法；规范性影响可能只改变公开行为",
+            "规范性影响总是意味着个人私下态度已变得与群体一致"
+          ],
+          "how": [
+            "题干要判断「这两种影响」的说法，注意两者是否被对调。",
+            "信息性对应内化，规范性对应公开顺从，所以选 C。",
+            "A 把两者对调，B 和 D 是笔记列出的两个陷阱。"
+          ]
+        },
+        {
+          "stemEn": "Which observation would be the best evidence that a student's earlier agreement with her group was normative rather than informational?",
+          "optionsEn": [
+            "She says that the group convinced her with good reasons",
+            "She still gives the group's answer later, when she is tested entirely alone",
+            "She looked up the facts and found that the group was right",
+            "She gives her original answer again when answering privately"
+          ],
+          "answer": 3,
+          "stem": "哪项观察最能证明学生先前赞同群体属于规范性影响，而不是信息性影响？",
+          "options": [
+            "她说群体用充分的理由说服了她",
+            "后来完全单独测试时，她仍给出群体的答案",
+            "她查了资料，发现群体是对的",
+            "一旦能私下作答，她又给出了原来的答案"
+          ],
+          "how": [
+            "题干要区分「规范性影响」和「信息性影响」，关键看私下表现。",
+            "私下变回原答案，说明公开赞同只是顺从，所以选 D。",
+            "A 和 B 这类私下也接受的表现，指向信息性影响。"
+          ]
+        }
+      ],
+      "recap": "信息性 → 想正确，私下也变；规范性 → 想被接纳，可能只有公开行为变。"
+    },
+    {
+      "id": "L1-P12",
+      "title": "Deutsch 与 Gerard 研究",
+      "titleEn": "Deutsch and Gerard study",
+      "conceptIds": [
+        "L1-C19"
+      ],
+      "kp": "操纵两个自变量：回答方式（公开、公开加群体目标、私人匿名）和物理现实是否清楚（线段可见或移走）。线段移走时错误更多；群体目标下错误最高；匿名时错误仍不为零，说明部分人真的相信群体。",
+      "howTo": "三条结果各配一个解释：线段移走，依赖他人，信息性影响上升；群体目标，不想破坏一致，影响最强；匿名仍错，不全是怕尴尬，部分是信息性影响。",
+      "items": [
+        {
+          "stemEn": "Which two independent variables did Deutsch and Gerard manipulate?",
+          "optionsEn": [
+            "Size of the group and age of the participants",
+            "Proximity of the victim and status of the authority",
+            "Nature of the response and certainty of physical reality",
+            "Amount of payment and boredom of the task"
+          ],
+          "answer": 2,
+          "stem": "Deutsch 和 Gerard 操纵了哪两个自变量？",
+          "options": [
+            "群体大小和参与者年龄",
+            "受害者的距离和权威的地位",
+            "回答方式和物理现实是否清楚",
+            "报酬多少和任务的无聊程度"
+          ],
+          "how": [
+            "题干问「两个自变量」。",
+            "一个是公开或匿名等回答方式，一个是线段是否一直可见，所以选 C。",
+            "B 属于 Milgram，D 属于 Festinger 与 Carlsmith。"
+          ]
+        },
+        {
+          "stemEn": "In Deutsch and Gerard's study, why were there more errors when the lines were removed from view?",
+          "optionsEn": [
+            "Reality testing became harder, so people relied more on others",
+            "Participants wanted to punish the confederates for giving wrong answers",
+            "Public responses were not allowed when the lines were out of sight",
+            "Participants obeyed direct commands to copy the group's answers"
+          ],
+          "answer": 0,
+          "stem": "在 Deutsch 和 Gerard 的研究中，为什么线段被移走后错误更多？",
+          "options": [
+            "物理现实检验变难，人们更依赖他人",
+            "参与者想惩罚答错的同谋",
+            "线段不可见时不允许公开回答",
+            "参与者服从了照抄群体答案的直接命令"
+          ],
+          "how": [
+            "线索是「线段被移走」，也就是看不到原始证据。",
+            "看不到线段时更依赖别人，信息性影响上升，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Errors were highest when participants answered publicly and were told to be accurate as a group. What is the best explanation?",
+          "optionsEn": [
+            "The goal gave participants a clearer view of the physical stimulus",
+            "The goal removed any concern about how the group would see them",
+            "The goal strengthened group identity and pressure for unity",
+            "The goal let participants answer without the group knowing their answer"
+          ],
+          "answer": 2,
+          "stem": "当参与者公开回答、并被要求作为一个群体共同准确时，错误最高。最好的解释是什么？",
+          "options": [
+            "这一目标让参与者更清楚地看到物理刺激",
+            "这一目标消除了对群体如何看待自己的顾虑",
+            "这一目标增强了群体身份和不破坏一致的压力",
+            "这一目标让参与者作答时群体不知道其答案"
+          ],
+          "how": [
+            "线索是「作为一个群体共同准确」。",
+            "共同目标增强群体身份，让人更不愿破坏一致，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Even in the anonymous condition, some participants still followed the group's wrong answer. What does this suggest?",
+          "optionsEn": [
+            "All of the errors were caused by fear of embarrassment in front of the group",
+            "Some errors reflected a genuine belief in the group",
+            "Anonymity actually increases the pressure to gain approval",
+            "Participants could still be seen and judged by the group"
+          ],
+          "answer": 1,
+          "stem": "即使在匿名条件下，仍有参与者跟着群体答错。这说明什么？",
+          "options": [
+            "所有错误都是怕在群体面前尴尬造成的",
+            "部分错误来自真心相信群体是对的",
+            "匿名其实增加了获得认可的压力",
+            "参与者仍会被群体看到和评判"
+          ],
+          "how": [
+            "线索是「匿名条件下」仍「答错」，此时群体看不到答案。",
+            "怕丢脸解释不了全部错误，部分人真的相信群体，这是信息性影响，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "移走线段 → 错更多；群体目标 → 错最多；匿名 → 错误不为零，不全是怕尴尬。"
+    },
+    {
+      "id": "L1-P13",
+      "title": "Milgram：设计、结果与服从机制",
+      "titleEn": "Milgram: design, result and mechanisms",
+      "conceptIds": [
+        "L1-C20",
+        "L1-C21"
+      ],
+      "kp": "实验者是合法权威，教师是真参与者，学习者是演员，电击是假的，但参与者不知道。经典条件下 65% 坚持到最高 450 伏。机制：合法权威、责任转移、相信科学目标、逐步升级。",
+      "howTo": "机制题看线索：耶鲁、白大褂是合法权威；「他负责，不是我」是责任转移；「为了科学」是科学目标；一点点加码是逐步升级。65% 只属于特定条件，不是全人类比例。",
+      "items": [
+        {
+          "stemEn": "In Milgram's obedience study, who was the real participant, and what was actually happening?",
+          "optionsEn": [
+            "The learner was the participant; the teacher was an actor and the shocks were real",
+            "The teacher was the participant; the learner was an actor and the shocks were fake",
+            "The teacher was the participant; the learner was also a participant and the shocks were real",
+            "The experimenter was the participant; the teacher was an actor and the shocks were fake"
+          ],
+          "answer": 1,
+          "stem": "在 Milgram 的服从研究中，谁是真正的参与者？实际发生了什么？",
+          "options": [
+            "学习者是参与者；教师是演员，电击是真的",
+            "教师是参与者；学习者是演员，电击是假的",
+            "教师是参与者；学习者也是参与者，电击是真的",
+            "实验者是参与者；教师是演员，电击是假的"
+          ],
+          "how": [
+            "题干问「真正的参与者」和实际情况。",
+            "教师是真参与者，学习者是同谋演员，电击是假的，所以选 B。",
+            "注意参与者当时并不知道电击是假的。"
+          ]
+        },
+        {
+          "stemEn": "In the classic condition of Milgram's study, about what percentage of participants continued to the maximum 450 volts?",
+          "optionsEn": [
+            "37%",
+            "75%",
+            "25%",
+            "65%"
+          ],
+          "answer": 3,
+          "stem": "在 Milgram 研究的经典条件中，大约百分之多少的参与者一直继续到最高 450 伏？",
+          "options": [
+            "37%",
+            "75%",
+            "25%",
+            "65%"
+          ],
+          "how": [
+            "题干问「最高 450 伏」的比例。",
+            "Milgram 的关键数字是 65%，所以选 D。",
+            "A、B、C 都是 Asch 研究的数字，不要混用。"
+          ]
+        },
+        {
+          "stemEn": "A junior nurse follows a harmful instruction and later says, 'The doctor was responsible, not me.' Which mechanism does this reflect?",
+          "optionsEn": [
+            "Gradual escalation",
+            "Commitment to a scientific goal",
+            "Transfer of responsibility",
+            "Informational influence"
+          ],
+          "answer": 2,
+          "stem": "一名初级护士执行了有害的指示，事后说：「责任在医生，不在我。」这体现了哪种机制？",
+          "options": [
+            "逐步升级（gradual escalation）",
+            "对科学目标的投入",
+            "责任转移（transfer of responsibility）",
+            "信息性影响（informational influence）"
+          ],
+          "how": [
+            "线索是「责任在医生，不在我」。",
+            "把责任交给权威人物就是责任转移，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A manager first asks an employee to change one small figure in a report, then slightly larger figures each week. Which reason for obedience does this resemble most?",
+          "optionsEn": [
+            "Gradual escalation",
+            "Legitimate authority",
+            "Transfer of responsibility",
+            "Dissenting authority"
+          ],
+          "answer": 0,
+          "stem": "一位经理先让员工改报告里的一个小数字，之后每周改更大一点的数字。这最像哪种服从原因？",
+          "options": [
+            "逐步升级（gradual escalation）",
+            "合法权威（legitimate authority）",
+            "责任转移（transfer of responsibility）",
+            "权威异议（dissenting authority）"
+          ],
+          "how": [
+            "线索是先改「一个小数字」，之后「每周改更大一点」。",
+            "要求一点点加大，而不是一开始就到最严重，就是逐步升级，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A journalist writes, 'Milgram proved that 65% of humans will obey any harmful order.' What is the problem?",
+          "optionsEn": [
+            "The true figure was much closer to 37% across all of the trials",
+            "The 65% came from specific conditions and is not a fixed human rate",
+            "The study found that personality alone determined who would obey",
+            "The participants all knew that the shocks were not actually real"
+          ],
+          "answer": 1,
+          "stem": "一位记者写道：「Milgram 证明 65% 的人类会服从任何有害命令。」问题在哪里？",
+          "options": [
+            "真实数字在所有试次中更接近 37%",
+            "65% 来自特定研究条件，不是人类的固定比例",
+            "研究发现只有人格决定谁会服从",
+            "参与者全都知道电击并不是真的"
+          ],
+          "how": [
+            "线索是「65% 的人类」和「任何有害命令」，把结果说成了普遍规律。",
+            "65% 只属于这些特定条件，所以选 B。",
+            "D 不对：参与者并不知道电击是假的。"
+          ]
+        }
+      ],
+      "recap": "Milgram：65% 到 450V，靠合法权威、责任转移、科学目标、逐步升级；65% 不是固定比例。"
+    },
+    {
+      "id": "L1-P14",
+      "title": "降低服从与 Milgram 的真正结论",
+      "titleEn": "Reducing obedience; what Milgram really shows",
+      "conceptIds": [
+        "L1-C22",
+        "L1-C23"
+      ],
+      "kp": "离受害者更近，服从有所下降；同伴拒绝，明显下降；另一位权威反对，下降最明显。Milgram 不是说人本质邪恶，而是普通人在特定权威和制度下可能违背道德判断；严重心理压力也推动了更严格的研究伦理。",
+      "howTo": "比较下降幅度：距离小于同伴异议，同伴异议小于权威异议。结论题排除「人天生邪恶」；伦理题记住电击是假的，但压力是真的。",
+      "items": [
+        {
+          "stemEn": "According to the lecture, which variation reduced obedience most clearly?",
+          "optionsEn": [
+            "A second authority figure objecting to the procedure",
+            "Moving the teacher closer to the learner",
+            "A peer participant refusing to continue",
+            "Giving the instructions in a Yale laboratory"
+          ],
+          "answer": 0,
+          "stem": "按本讲，哪种变式最明显地降低了服从？",
+          "options": [
+            "第二位权威人物反对实验程序",
+            "让教师离学习者更近",
+            "一名同伴参与者拒绝继续",
+            "在耶鲁实验室里发出指令"
+          ],
+          "how": [
+            "题干问「最明显地降低」，要比较幅度。",
+            "笔记写明权威异议使服从下降最明显，所以选 A。",
+            "D 不降低服从，耶鲁背景正是合法权威的来源。"
+          ]
+        },
+        {
+          "stemEn": "In one variation, the teacher sits right next to the learner. What result fits the lecture?",
+          "optionsEn": [
+            "Obedience increases because the task seems more real",
+            "Obedience stops completely for every participant",
+            "Obedience is unchanged because the shocks are fake",
+            "Obedience declines somewhat with closer proximity"
+          ],
+          "answer": 3,
+          "stem": "在一种变式中，教师就坐在学习者旁边。哪个结果符合本讲？",
+          "options": [
+            "任务显得更真实，所以服从上升",
+            "每位参与者的服从都完全停止",
+            "电击是假的，所以服从不变",
+            "距离更近后，服从有所下降"
+          ],
+          "how": [
+            "线索是教师「就坐在学习者旁边」，也就是距离更近。",
+            "离受害者更近，服从有所下降，所以选 D。",
+            "B 太绝对：这些变式降低服从，不保证所有人都停下。"
+          ]
+        },
+        {
+          "stemEn": "What is the most accurate conclusion from Milgram's studies?",
+          "optionsEn": [
+            "Ordinary people may act against their morals under certain authority and norms",
+            "All people are evil by nature and will hurt others whenever they are given the opportunity",
+            "Only people with an unusually aggressive personality will harm others when they are told to do so",
+            "People ignore authority figures unless those figures can give them a large financial reward"
+          ],
+          "answer": 0,
+          "stem": "从 Milgram 的研究中能得出的最准确结论是什么？",
+          "options": [
+            "普通人在特定权威和制度规范下，可能做出违背自身道德判断的行为",
+            "所有人本质上都邪恶，一有机会就会伤害别人",
+            "只有攻击性人格异常的人，才会在被要求时伤害他人",
+            "除非权威能给予高额报酬，否则人们会无视权威"
+          ],
+          "how": [
+            "题干要「最准确结论」，重点是别过度解释。",
+            "研究强调权威、责任和情境，不是人性本恶，所以选 A。",
+            "B 是笔记点名的过度解释。"
+          ]
+        },
+        {
+          "stemEn": "Someone says Milgram's study raised no ethical problem because the shocks were fake. What is the best reply?",
+          "optionsEn": [
+            "The shocks were in fact real, which is why later ethics rules banned the procedure",
+            "No ethical issue arose, because participants knew the learner was not being hurt",
+            "Participants still suffered severe stress, prompting stricter research ethics",
+            "The ethical problem was only that the sample was narrow and could not be generalised"
+          ],
+          "answer": 2,
+          "stem": "有人说，电击是假的，所以 Milgram 研究没有伦理问题。最好的回应是什么？",
+          "options": [
+            "电击其实是真的，所以后来的伦理规定禁止了这种程序",
+            "没有伦理问题，因为参与者知道学习者没有受伤",
+            "参与者仍承受了严重压力，这推动了更严格的研究伦理",
+            "伦理问题只在于样本狭窄、无法推广"
+          ],
+          "how": [
+            "线索是「电击是假的，所以」没有伦理问题。",
+            "电击是假的，但参与者的压力是真的，还推动了伦理规范，所以选 C。",
+            "B 错在参与者当时并不知道电击是假的。"
+          ]
+        }
+      ],
+      "recap": "权威异议降得最多；Milgram 讲情境下的普通人，不讲人性本恶；电击假，压力真。"
+    },
+    {
+      "id": "L1-P15",
+      "title": "斯坦福监狱实验与 BBC 监狱研究",
+      "titleEn": "Stanford Prison Experiment and BBC Prison Study",
+      "conceptIds": [
+        "L1-C24",
+        "L1-C25"
+      ],
+      "kp": "SPE 随机分配警卫和囚犯，Zimbardo 声称角色导致残酷，但他任监狱长并指导警卫制造恐惧和无力感。Haslam 和 Reicher 的 BBC 研究（2002）没有这种指导：囚犯团结反抗，警卫分裂。角色不够，还要看认同与领导。",
+      "howTo": "批评 SPE 选「警卫受过指导、Zimbardo 是权威领导」。BBC 结论选「角色不会自动导致残酷，认同和领导重要」；「情境不重要」和「随机分配排除了领导影响」都错。",
+      "items": [
+        {
+          "stemEn": "What is a major criticism of the Stanford Prison Experiment?",
+          "optionsEn": [
+            "Participants were selected for their violent personalities before the study began",
+            "Zimbardo acted as superintendent and guided guards to create fear and powerlessness",
+            "Guards and prisoners were allowed to choose which role they preferred to play",
+            "The study was run in a real prison with people who had already been convicted"
+          ],
+          "answer": 1,
+          "stem": "对斯坦福监狱实验的一个主要批评是什么？",
+          "options": [
+            "研究开始前按暴力人格挑选了参与者",
+            "Zimbardo 担任监狱长，并指导警卫制造恐惧和无力感",
+            "警卫和囚犯可以自己选择想扮演的角色",
+            "研究在真实监狱里用已定罪的人进行"
+          ],
+          "how": [
+            "题干问对该实验的「主要批评」。",
+            "警卫接受过压迫性指导，Zimbardo 又是权威领导，所以选 B。",
+            "A 和 C 都与设计不符：参与者是心理健康的年轻男性，并被随机分配。"
+          ]
+        },
+        {
+          "stemEn": "How did the BBC Prison Study differ most importantly from the Stanford study?",
+          "optionsEn": [
+            "Participants were not assigned to guard and prisoner positions at all",
+            "Participants were told beforehand that the prison conditions were not real",
+            "The researchers served as guards and gave orders to the prisoners directly",
+            "Guards received no clear instructions to create powerlessness in prisoners"
+          ],
+          "answer": 3,
+          "stem": "BBC 监狱研究与斯坦福研究最重要的区别是什么？",
+          "options": [
+            "参与者根本没有被分为警卫和囚犯",
+            "参与者事先被告知监狱条件不是真的",
+            "研究者亲自担任警卫并直接命令囚犯",
+            "没有明确指导警卫让囚犯产生无力感"
+          ],
+          "how": [
+            "题干问「最重要的区别」。",
+            "两者结构类似，关键差别是 BBC 没有明确的压迫性指导，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Which sequence matches the early results of the BBC Prison Study?",
+          "optionsEn": [
+            "Guards quickly united and became brutal, while prisoners stayed isolated",
+            "Guards and prisoners obeyed Zimbardo's orders without any open resistance",
+            "Prisoners became divided and passive, while guards formed a shared identity",
+            "Prisoners formed a shared identity and resisted, while guards became divided"
+          ],
+          "answer": 3,
+          "stem": "哪种发展符合 BBC 监狱研究的早期结果？",
+          "options": [
+            "警卫很快团结并变得残酷，囚犯始终彼此孤立",
+            "警卫和囚犯服从 Zimbardo 的命令，没有公开反抗",
+            "囚犯变得分裂而被动，警卫形成了共同身份",
+            "囚犯形成共同身份并反抗，警卫却出现分歧"
+          ],
+          "how": [
+            "题干问 BBC 研究的「早期结果」。",
+            "第 3–4 天囚犯形成共同身份并反抗，警卫彼此不一致，所以选 D。",
+            "C 把两边对调了；B 里的 Zimbardo 不属于 BBC 研究。"
+          ]
+        },
+        {
+          "stemEn": "A student concludes from the BBC study that the situation does not matter at all. What is the better conclusion?",
+          "optionsEn": [
+            "Roles alone automatically cause brutality; identification, leadership, unity and legitimacy do not matter",
+            "Situations do not matter; a person's fixed personality decides how they behave in any given role",
+            "Roles alone do not automatically cause brutality; identification, leadership, unity and legitimacy matter",
+            "Situations do not matter; only money and physical conditions decide how people behave in prison"
+          ],
+          "answer": 2,
+          "stem": "一名学生从 BBC 研究得出结论：情境完全不重要。更好的结论是什么？",
+          "options": [
+            "角色本身自动造成残酷；认同、领导、团结和合法性都不重要",
+            "情境不重要；固定人格决定一个人扮演任何角色时的行为",
+            "角色本身不会自动造成残酷；认同、领导、团结和合法性都重要",
+            "情境不重要；只有金钱和物质条件决定人们在监狱中的行为"
+          ],
+          "how": [
+            "线索是「情境完全不重要」，这是笔记列出的陷阱。",
+            "情境重要，但要结合认同、领导、团结和合法性来看，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Someone argues: 'Guards in the Stanford study were randomly assigned, so their cruelty must come from the role alone.' What is the flaw?",
+          "optionsEn": [
+            "Random allocation means that the guards were all chosen for being cruel",
+            "Random allocation does not remove the effect of later instructions and leadership",
+            "Random allocation only matters in studies that use a real prison",
+            "Random allocation proves that prisoners caused the cruelty themselves"
+          ],
+          "answer": 1,
+          "stem": "有人说：「斯坦福研究中的警卫是随机分配的，所以他们的残酷只能来自角色本身。」这个说法的漏洞是什么？",
+          "options": [
+            "随机分配意味着警卫都是因残酷而被选中的",
+            "随机分配排除不了后来的行为指导和领导的影响",
+            "随机分配只对使用真实监狱的研究才有意义",
+            "随机分配证明残酷是囚犯自己造成的"
+          ],
+          "how": [
+            "线索是「随机分配」和「只能来自角色本身」。",
+            "分配之后的指导和权威领导仍在起作用，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "SPE → 角色与领导混淆；BBC → 没指导就没同样结果，认同、领导、团结、合法性才关键。"
+    },
+    {
+      "id": "L1-P16",
+      "title": "经典研究总对照",
+      "titleEn": "Comparing the classic studies",
+      "conceptIds": [
+        "L1-C26"
+      ],
+      "kp": "Sherif 问模糊情境中规范如何形成；Asch 问答案明显时是否从众；Deutsch 与 Gerard 问从众为何发生；Milgram 看权威直接命令；SPE 和 BBC 比较角色、指导、认同与领导。它们不能都概括成「人只会盲从」。",
+      "howTo": "先看题干的特征：任务模糊选 Sherif，答案明显选 Asch，有人下命令选 Milgram，比较有无压迫性指导选 BBC。Sherif 主要是信息性影响，Asch 两种都有。",
+      "items": [
+        {
+          "stemEn": "What is the key difference between Sherif's and Asch's tasks?",
+          "optionsEn": [
+            "Sherif's task was ambiguous, while Asch's had an obvious correct answer",
+            "Sherif's task had an obvious correct answer, while Asch's was ambiguous",
+            "Sherif's task involved direct orders, while Asch's involved role assignment",
+            "Sherif's task used confederates, while Asch's used no confederates at all"
+          ],
+          "answer": 0,
+          "stem": "Sherif 和 Asch 的任务的关键区别是什么？",
+          "options": [
+            "Sherif 的任务模糊，Asch 的任务有明显的正确答案",
+            "Sherif 的任务有明显的正确答案，Asch 的任务模糊",
+            "Sherif 的任务涉及直接命令，Asch 的任务涉及角色分配",
+            "Sherif 的任务使用同谋，Asch 的任务完全没有同谋"
+          ],
+          "how": [
+            "题干问两者任务的「关键区别」。",
+            "Sherif 的光点没有客观答案，Asch 的线段答案明显，所以选 A。",
+            "B 把两者对调了；D 也反了，Asch 才用同谋。"
+          ]
+        },
+        {
+          "stemEn": "In which classic study did social pressure come mainly from direct commands by an authority figure?",
+          "optionsEn": [
+            "Asch's line-judgement studies",
+            "Sherif's autokinetic studies",
+            "Triplett's fishing-reel study",
+            "Milgram's obedience studies"
+          ],
+          "answer": 3,
+          "stem": "在哪项经典研究中，社会压力主要来自权威人物的直接命令？",
+          "options": [
+            "Asch 线段判断研究",
+            "Sherif 自动运动效应研究",
+            "Triplett 钓鱼线轴研究",
+            "Milgram 服从研究"
+          ],
+          "how": [
+            "线索是「权威人物的直接命令」。",
+            "只有 Milgram 中实验者直接下令继续，所以选 D。",
+            "A 里没有人命令参与者，只是同谋一致答错。"
+          ]
+        },
+        {
+          "stemEn": "Which pairing of study and form of influence fits the lecture's comparison?",
+          "optionsEn": [
+            "Sherif is mainly normative; Asch is informational only",
+            "Sherif and Asch are both purely normative",
+            "Sherif is mainly informational; Asch is informational plus normative",
+            "Sherif and Asch both involve no social influence"
+          ],
+          "answer": 2,
+          "stem": "按本讲的对照，哪种研究与影响类型的搭配正确？",
+          "options": [
+            "Sherif 主要是规范性影响；Asch 只有信息性影响",
+            "Sherif 和 Asch 都纯粹是规范性影响",
+            "Sherif 主要是信息性影响；Asch 是信息性加规范性影响",
+            "Sherif 和 Asch 都不涉及社会影响"
+          ],
+          "how": [
+            "题干问「研究与影响类型的搭配」。",
+            "模糊任务主要靠信息；Asch 中有人真信也有人怕尴尬，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A researcher wants to know whether guard and prisoner roles produce the same brutality when no leader gives oppressive guidance. Which study addressed this most directly?",
+          "optionsEn": [
+            "The BBC Prison Study",
+            "The Stanford Prison Experiment",
+            "Milgram's obedience studies",
+            "Deutsch and Gerard's study"
+          ],
+          "answer": 0,
+          "stem": "一位研究者想知道：在没有领导者给出压迫性指导时，警卫和囚犯角色是否会造成同样的残酷。哪项研究最直接地回答了这个问题？",
+          "options": [
+            "BBC 监狱研究",
+            "斯坦福监狱实验",
+            "Milgram 服从研究",
+            "Deutsch 与 Gerard 研究"
+          ],
+          "how": [
+            "线索是「没有领导者给出压迫性指导」。",
+            "BBC 研究没有同等的压迫性指导，所以选 A。",
+            "B 正是有这种指导的研究。"
+          ]
+        },
+        {
+          "stemEn": "A student writes, 'All the classic studies show one thing: people blindly follow.' Why is this too simple?",
+          "optionsEn": [
+            "The studies were all carried out with exactly the same design",
+            "The studies ask different questions about different mechanisms",
+            "The studies all show that people never yield to social pressure",
+            "The studies show that only personality accounts for behaviour"
+          ],
+          "answer": 1,
+          "stem": "一名学生写道：「所有经典研究都说明一件事：人只会盲从。」为什么这太简单？",
+          "options": [
+            "这些研究都采用了完全相同的设计",
+            "这些研究问的问题不同，涉及的机制也不同",
+            "这些研究都显示人从不屈服于社会压力",
+            "这些研究显示只有人格能解释行为"
+          ],
+          "how": [
+            "线索是「都说明一件事」和「只会盲从」。",
+            "模糊判断、明显答案、直接命令和角色认同是不同问题，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "Sherif 模糊 → Asch 明显 → Milgram 命令 → SPE／BBC 角色与领导；不要都说成盲从。"
+    }
+  ]
+}

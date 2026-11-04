@@ -49,13 +49,51 @@ for (const l of lectures) {
     for (const m of String(x.source || "").matchAll(/B(\d{4})/g))
       if (!bids.has(Number(m[1]))) problems.push(`${x.id} 引用的 B${m[1]} 不存在`);
 }
+// 边练边学：data/learn/L??.json（可以只有部分讲）
+const learnDir = path.join(root, "data", "learn");
+const learn = fs.existsSync(learnDir) ? fs.readdirSync(learnDir).filter(f => /^L\d\d\.json$/.test(f)).sort().map(f => read("data/learn/" + f)) : [];
+const learnNotes = [];
+const pids = new Set();
+for (const L of learn) {
+  const lec = lectures.find(l => l.id === L.lectureId), tag = "learn L" + L.lectureId;
+  if (!lec) { problems.push(tag + " lectureId 不存在"); continue; }
+  const cids = new Set(lec.concepts.map(c => c.id)), covered = new Set();
+  if (L.points.length < 8 || L.points.length > 18) problems.push(`${tag} 考点数 ${L.points.length}，要求 8–18`);
+  for (const p of L.points) {
+    const pt = p.id || "(无 id)";
+    if (!new RegExp("^L" + L.lectureId + "-P\\d\\d$").test(p.id || "")) problems.push(`${tag} 考点 id 格式错: ${pt}`);
+    if (pids.has(p.id)) problems.push("重复考点 id " + pt); pids.add(p.id);
+    for (const k of ["title", "titleEn", "kp", "howTo", "recap"]) if (typeof p[k] !== "string" || !p[k]) problems.push(`${pt} 缺 ${k}`);
+    if ((p.kp || "").length > 130) problems.push(`${pt} kp 超长 ${p.kp.length}`);
+    if ((p.howTo || "").length > 120) problems.push(`${pt} howTo 超长 ${p.howTo.length}`);
+    if ((p.recap || "").length > 80) problems.push(`${pt} recap 超长 ${p.recap.length}`);
+    if (!Array.isArray(p.conceptIds) || !p.conceptIds.length) problems.push(`${pt} 缺 conceptIds`);
+    for (const c of p.conceptIds || []) { if (!cids.has(c)) problems.push(`${pt} 的 conceptId ${c} 不在本讲`); covered.add(c); }
+    if (!Array.isArray(p.items) || p.items.length < 3 || p.items.length > 5) problems.push(`${pt} 题数要求 3–5`);
+    (p.items || []).forEach((q, i) => {
+      const qt = `${pt} 第 ${i + 1} 题`;
+      for (const k of ["stemEn", "stem"]) if (typeof q[k] !== "string" || !q[k]) problems.push(`${qt} 缺 ${k}`);
+      for (const k of ["optionsEn", "options"]) if (!Array.isArray(q[k]) || q[k].length !== 4 || q[k].some(x => typeof x !== "string" || !x)) problems.push(`${qt} ${k} 需要 4 个非空字符串`);
+      if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer > 3) problems.push(`${qt} answer 越界`);
+      if (!Array.isArray(q.how) || q.how.length < 2 || q.how.length > 4) problems.push(`${qt} how 要 2–4 步`);
+      for (const h of q.how || []) {
+        if (h.length > 85) problems.push(`${qt} how 某步超长 ${h.length}`);
+        const m = h.match(/(?:所以|因此|故)选\s*([A-D])(?![A-Za-z])/);
+        if (m && "ABCD".indexOf(m[1]) !== q.answer) problems.push(`${qt} how 写「选 ${m[1]}」，但答案是 ${"ABCD"[q.answer]}`);
+      }
+    });
+  }
+  const miss = lec.concepts.filter(c => !covered.has(c.id)).map(c => c.id);
+  if (miss.length) learnNotes.push(`${tag}: ${miss.length} 个知识点没有对应考点: ${miss.join(", ")}`);
+}
 if (problems.length) { console.error("校验失败：\n  " + problems.slice(0, 60).join("\n  ")); process.exit(1); }
-if (process.argv.includes("--check")) { console.log(`校验通过：${lectures.length} 讲`); process.exit(0); }
+learnNotes.forEach(s => console.log("提醒 " + s));
+if (process.argv.includes("--check")) { console.log(`校验通过：${lectures.length} 讲，边练边学 ${learn.length} 讲`); process.exit(0); }
 
 // ---------- 生成 ----------
 const data = { version: meta.version, plannedWeeks: meta.plannedWeeks, contentVersion: meta.contentVersion, lectures, symbols: meta.symbols, formulas: meta.formulas };
 for (const k of Object.keys(meta)) if (!(k in data)) data[k] = meta[k];
-const js = ("window.PSYC_DATA = " + JSON.stringify(data) + ";").replace(/<\//g, "<\\/");
+const js = ("window.PSYC_DATA = " + JSON.stringify(data) + ";\nwindow.PSYC_LEARN = " + JSON.stringify(learn) + ";").replace(/<\//g, "<\\/");
 const tpl = fs.readFileSync(path.join(root, "app.template.html"), "utf8");
 if (!tpl.includes("/*__DATA__*/")) throw new Error("模板里没有 /*__DATA__*/ 占位符");
 const page = tpl.replace("/*__DATA__*/", () => js);
@@ -65,4 +103,5 @@ for (const l of lectures) {
   const by = {}; for (const q of l.questions) by[q.origin] = (by[q.origin] || 0) + 1;
   console.log(`L${l.id}: ${l.concepts.length} 知识点, ${l.questions.length} 题 ${JSON.stringify(by)}`);
 }
+for (const L of learn) console.log(`边练边学 L${L.lectureId}: ${L.points.length} 考点, ${L.points.reduce((n, p) => n + p.items.length, 0)} 题`);
 console.log(`OK: ${lectures.length} 讲, ${(Buffer.byteLength(page) / 1024).toFixed(0)} KB`);

@@ -1,0 +1,1787 @@
+{
+  "lectureId": 3,
+  "points": [
+    {
+      "id": "L3-P01",
+      "title": "态度的定义与 ABC 结构",
+      "titleEn": "Attitude and its ABC components",
+      "conceptIds": [
+        "L3-C01"
+      ],
+      "kp": "态度（attitude）是对社会对象作喜欢或不喜欢评价的相对持久倾向。ABC：Affect 情感、Behavioural tendency 行为倾向或意图、Cognition 信念和判断。行为成分可以只是「我打算做」，不等于已经做了。",
+      "howTo": "看句子内容：感觉怎样是 A，打算或倾向怎么做是 B，相信什么事实是 C。题干问实际是否做了，不能用 B 回答，因为 B 只是意图。",
+      "items": [
+        {
+          "stemEn": "Which definition of an attitude fits this lecture?",
+          "optionsEn": [
+            "A brief emotional reaction that disappears as soon as the social object has gone",
+            "A relatively enduring tendency to evaluate a social object with favour or disfavour",
+            "A record of the actions that a person has actually carried out in a situation",
+            "A rule that a group's members agree upon and then enforce against one another"
+          ],
+          "answer": 1,
+          "stem": "哪个态度（attitude）的定义符合本讲？",
+          "options": [
+            "对象一消失就随之消失的短暂情绪反应",
+            "对社会对象作喜欢或不喜欢评价的相对持久倾向",
+            "一个人在某情境中实际做过的行为记录",
+            "群体成员商定并相互执行的一条规则"
+          ],
+          "how": [
+            "题干问「态度」的定义。",
+            "定义的要点是对象、评价方向和相对持久，所以选 B。",
+            "D 描述的更接近群体规范。"
+          ]
+        },
+        {
+          "stemEn": "'Dogs are friendly animals, according to what I have read.' Which component of attitude does this sentence express?",
+          "optionsEn": [
+            "Affect",
+            "Behavioural tendency",
+            "Cognition",
+            "Ambivalence"
+          ],
+          "answer": 2,
+          "stem": "「我读到的资料说，狗是友善的动物。」这句话表达了态度的哪个成分？",
+          "options": [
+            "情感（affect）",
+            "行为倾向（behavioural tendency）",
+            "认知（cognition）",
+            "矛盾性（ambivalence）"
+          ],
+          "how": [
+            "线索是「读到的资料说」和「狗是友善的」，这是信念和判断。",
+            "基于事实和判断的评价属于认知成分，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "'When a dog jumps up on me, it really irritates me.' Which component is this?",
+          "optionsEn": [
+            "Cognition",
+            "Behavioural tendency",
+            "Affect",
+            "Accessibility"
+          ],
+          "answer": 2,
+          "stem": "「狗扑到我身上时，我真的很烦。」这是哪个成分？",
+          "options": [
+            "认知（cognition）",
+            "行为倾向（behavioural tendency）",
+            "情感（affect）",
+            "可及性（accessibility）"
+          ],
+          "how": [
+            "线索是「很烦」，这是一种情绪。",
+            "与对象相连的情绪属于情感成分，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Lucy says, 'I plan to donate blood next month.' A month later she has not. What does this show about the behavioural component?",
+          "optionsEn": [
+            "It can be an intention and need not be a record of actual behaviour",
+            "It proves that her attitude towards donating blood was never real",
+            "It is the same as the cognitive component of her attitude to donating",
+            "It shows reliably what she actually did during the month in question"
+          ],
+          "answer": 0,
+          "stem": "Lucy 说：「我打算下个月去献血。」一个月后她并没有去。这说明行为成分有什么特点？",
+          "options": [
+            "它可以只是意图，不一定是实际行为的记录",
+            "它证明她对献血的态度从来就不是真的",
+            "它与她对献血态度中的认知成分是一回事",
+            "它可靠地说明了她在那个月实际做了什么"
+          ],
+          "how": [
+            "线索是「打算」去献血，但「并没有去」。",
+            "行为成分可以只是打算，不等于已发生的行为，所以选 A。"
+          ]
+        }
+      ],
+      "recap": "A 感受，B 打算，C 相信；B 是行为倾向，不是已发生的行为。"
+    },
+    {
+      "id": "L3-P02",
+      "title": "态度的维度",
+      "titleEn": "Attitude dimensions",
+      "conceptIds": [
+        "L3-C02"
+      ],
+      "kp": "维度有强度（strength）、影响（impact）、极端性（extremity）、重要性（importance）、可及性（accessibility，多易想起）、矛盾性（ambivalence，有冲突感受）、协调性（coherence，认知与情感一致）。",
+      "howTo": "线索对应：立刻想起是可及性；又爱又恨是矛盾性；离中点远是极端性；关系到身份或利益是重要性；想法和感受一致是协调性。极端不保证稳定。",
+      "items": [
+        {
+          "stemEn": "Accessibility of an attitude refers to:",
+          "optionsEn": [
+            "How far it sits from the neutral midpoint",
+            "How much it matters to a person's identity",
+            "How well its feelings fit with its beliefs",
+            "How quickly and easily it comes to mind"
+          ],
+          "answer": 3,
+          "stem": "态度的可及性（accessibility）是指：",
+          "options": [
+            "它离中立中点有多远",
+            "它对一个人的身份有多重要",
+            "它的感受与信念有多协调",
+            "它多快、多容易进入意识"
+          ],
+          "how": [
+            "题干问「可及性」的含义。",
+            "可及性就是态度多容易被想起，所以选 D。",
+            "A 是极端性，B 是重要性，C 是协调性。"
+          ]
+        },
+        {
+          "stemEn": "Nina loves the taste of coffee but worries that it harms her health, so she feels pulled both ways. Which dimension is most relevant?",
+          "optionsEn": [
+            "Accessibility",
+            "Ambivalence",
+            "Extremity",
+            "Durability"
+          ],
+          "answer": 1,
+          "stem": "Nina 喜欢咖啡的味道，但担心它伤身，所以两边拉扯。哪个维度最相关？",
+          "options": [
+            "可及性（accessibility）",
+            "矛盾性（ambivalence）",
+            "极端性（extremity）",
+            "持久性（durability）"
+          ],
+          "how": [
+            "线索是「喜欢」却又「担心」，「两边拉扯」。",
+            "对同一对象同时有冲突感受就是矛盾性，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Which attitude is most likely to influence behaviour, according to the lecture?",
+          "optionsEn": [
+            "One that is unimportant, hard to recall and low in ambivalence",
+            "One that is important, hard to recall and high in ambivalence",
+            "One that is unimportant, easy to recall and high in ambivalence",
+            "One that is important, easy to recall and low in ambivalence"
+          ],
+          "answer": 3,
+          "stem": "按本讲，哪种态度最可能影响行为？",
+          "options": [
+            "不重要、难以想起、矛盾性低的态度",
+            "重要、难以想起、矛盾性高的态度",
+            "不重要、容易想起、矛盾性高的态度",
+            "重要、容易想起、矛盾性低的态度"
+          ],
+          "how": [
+            "题干问「最可能影响行为」的组合。",
+            "越重要、越可及、越少矛盾，影响通常越强，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Sam rates his view on a policy at the far end of a scale, but he has rarely thought about it and changes his mind easily. What does this illustrate?",
+          "optionsEn": [
+            "An extreme position always means high resistance to any change",
+            "An extreme position is not necessarily a strong, stable attitude",
+            "Accessibility is the same dimension as extremity of an attitude",
+            "Ambivalence is what makes an attitude's position more extreme"
+          ],
+          "answer": 1,
+          "stem": "Sam 把自己对某政策的看法打在量表最极端，但他很少想这个问题，也容易改变主意。这说明什么？",
+          "options": [
+            "立场极端总意味着对改变有很强抵抗力",
+            "立场极端不一定是强而稳定的态度",
+            "可及性和极端性是态度的同一个维度",
+            "矛盾性让态度的立场变得更加极端"
+          ],
+          "how": [
+            "线索是「量表最极端」却「容易改变主意」。",
+            "态度强与立场极端有关但不是一回事，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "易想起、少矛盾、重要的态度更能影响行为；极端 ≠ 强，快想起 ≠ 正确。"
+    },
+    {
+      "id": "L3-P03",
+      "title": "态度的来源与道德确信",
+      "titleEn": "Attitude development and moral conviction",
+      "conceptIds": [
+        "L3-C03",
+        "L3-C04"
+      ],
+      "kp": "来源有四：遗传（部分可遗传，非单一决定）、条件作用（奖惩、情绪联结）、单纯或重复曝光（mere exposure）、观察学习。道德确信（moral conviction）是绝对的对错信念，与身份相连，分歧易升级为善恶冲突，比普通强态度更难妥协。",
+      "howTo": "配线索：双生子是遗传；奖惩或情绪配对是条件作用；见多了更喜欢是曝光；学重要他人是观察学习。「对错没得商量」选道德确信，只是很喜欢不算。",
+      "items": [
+        {
+          "stemEn": "An advertisement repeats a brand name so often that viewers come to like it simply because it feels familiar. This reflects:",
+          "optionsEn": [
+            "Observational learning",
+            "Moral conviction",
+            "Instrumental learning",
+            "Mere exposure"
+          ],
+          "answer": 3,
+          "stem": "一则广告反复播放品牌名，观众只因为感到熟悉就喜欢上它。这反映了：",
+          "options": [
+            "观察学习（observational learning）",
+            "道德确信（moral conviction）",
+            "工具性学习（instrumental learning）",
+            "单纯曝光（mere exposure）"
+          ],
+          "how": [
+            "线索是「反复播放」和「感到熟悉」。",
+            "重复接触因熟悉感提高好感，就是单纯曝光，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A teenager takes up her friends' views on climate action after watching what they say and do, because she wants to fit in. Which source of attitudes is this?",
+          "optionsEn": [
+            "Observational learning",
+            "Genetic heritability",
+            "Mere exposure",
+            "Classical conditioning"
+          ],
+          "answer": 0,
+          "stem": "一名少女观察朋友们的言行后，因为想融入而接受了她们对气候行动的看法。这属于哪种态度来源？",
+          "options": [
+            "观察学习（observational learning）",
+            "遗传（genetic heritability）",
+            "单纯曝光（mere exposure）",
+            "经典条件作用（classical conditioning）"
+          ],
+          "how": [
+            "线索是「观察朋友们的言行」和「想融入」。",
+            "观察重要他人并跟随规范，就是观察学习，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Twin studies suggest that some attitudes have a heritable component. What is the correct conclusion?",
+          "optionsEn": [
+            "Genes fix attitudes, so that learning and norms have no further effect",
+            "Genes matter only when a person has been exposed to an advertisement",
+            "Genes contribute, but they are not the single determinant of attitudes",
+            "Genes have no effect, as attitudes are entirely learned from other people"
+          ],
+          "answer": 2,
+          "stem": "双生子研究显示部分态度有可遗传成分。正确的结论是什么？",
+          "options": [
+            "基因固定了态度，学习和规范不再有影响",
+            "只有接触过广告时，基因才起作用",
+            "基因有贡献，但不是态度的单一决定因素",
+            "基因没有作用，态度完全从别人那里学来"
+          ],
+          "how": [
+            "线索是「部分态度」有「可遗传成分」。",
+            "有遗传成分不等于由基因决定，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Which case best shows moral conviction rather than simply a strong preference?",
+          "optionsEn": [
+            "Liking one football team very strongly and buying all of its merchandise",
+            "Preferring one brand of tea and drinking it every morning before work",
+            "Believing a practice is absolutely wrong and refusing any compromise over it",
+            "Feeling very irritated by loud music played by neighbours late at night"
+          ],
+          "answer": 2,
+          "stem": "哪种情况最能说明道德确信（moral conviction），而不只是强烈偏好？",
+          "options": [
+            "非常喜欢一支球队，并购买它的全部周边",
+            "偏爱某品牌的茶，每天上班前都喝",
+            "认为某种做法绝对错误，并拒绝任何妥协",
+            "邻居深夜放大声音乐时感到非常烦躁"
+          ],
+          "how": [
+            "题干要区分「道德确信」和「强烈偏好」。",
+            "把立场看成绝对对错、不可妥协才是道德确信，所以选 C。",
+            "A 是笔记提醒的例子：强烈喜欢球队不等于道德确信。"
+          ]
+        },
+        {
+          "stemEn": "Two groups with opposing moral convictions debate an issue. What is most likely, according to the lecture?",
+          "optionsEn": [
+            "The dispute settles quickly because strong views are clear ones",
+            "Both groups readily compromise because their identity is not involved",
+            "Both groups change their minds easily when offered new information",
+            "The dispute escalates from disagreement into good versus evil"
+          ],
+          "answer": 3,
+          "stem": "持相反道德确信的两个群体辩论一个问题。按本讲，最可能发生什么？",
+          "options": [
+            "因为强烈的看法很明确，争议很快平息",
+            "因为不涉及身份，双方都乐意妥协",
+            "双方得到新信息后都很容易改变想法",
+            "争议从意见不同升级为善恶之争"
+          ],
+          "how": [
+            "线索是「相反道德确信」。",
+            "道德化态度与自我和群体身份相连，分歧易升级成善恶之争，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "遗传、条件作用、曝光、观察学习共同塑造态度；强度 ≠ 道德化。"
+    },
+    {
+      "id": "L3-P04",
+      "title": "态度—行为落差：LaPiere 与 Wicker",
+      "titleEn": "Attitude–behaviour gap: LaPiere and Wicker",
+      "conceptIds": [
+        "L3-C05",
+        "L3-C06"
+      ],
+      "kp": "LaPiere：与中国夫妇访问约 251 处，现场只被拒 1 次；约 6 个月后问卷回复 128 份里 118 份写 No。局限：延迟、答卷者可能不是接待者。Wicker 汇总 42 项研究，平均 r ≈ .15，弱相关。",
+      "howTo": "看到说的和做的不一致，选态度—行为落差。LaPiere 批评题选延迟或答卷者不同。r = .15 是弱相关，不是 15% 的人。「态度完全没用」太绝对。",
+      "items": [
+        {
+          "stemEn": "What was the main finding of LaPiere's (1934) study?",
+          "optionsEn": [
+            "The couple were refused at most places in person, yet most questionnaire replies said 'Yes'",
+            "The couple were refused only once in person, and most questionnaire replies also said 'Yes'",
+            "The couple were refused only once in person, yet most questionnaire replies said 'No'",
+            "The couple were refused at most places in person, and most questionnaire replies said 'No'"
+          ],
+          "answer": 2,
+          "stem": "LaPiere（1934）研究的主要发现是什么？",
+          "options": [
+            "现场多数地方被拒绝，但多数问卷回复写「接待」",
+            "现场只被拒绝一次，多数问卷回复也写「接待」",
+            "现场只被拒绝一次，但多数问卷回复写「不接待」",
+            "现场多数地方被拒绝，多数问卷回复也写「不接待」"
+          ],
+          "how": [
+            "题干问「LaPiere」的主要发现，要同时看现场和问卷。",
+            "现场约 251 处只拒绝 1 次，问卷却绝大多数说不接待，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Which is a valid criticism of LaPiere's study?",
+          "optionsEn": [
+            "The study measured attitudes first and only observed actual behaviour about six months later",
+            "The study visited too few places for any comparison with survey replies to be made at all",
+            "The couple were told to behave badly so that staff would be likely to refuse them service",
+            "The questionnaire came about six months later and might have been answered by different staff"
+          ],
+          "answer": 3,
+          "stem": "下列哪项是对 LaPiere 研究的合理批评？",
+          "options": [
+            "研究先测态度，约六个月后才观察实际行为",
+            "访问的地点太少，完全无法与问卷回复作比较",
+            "这对夫妇被要求举止不佳，好让员工拒绝服务",
+            "问卷在约六个月后才寄出，答卷者可能是其他员工"
+          ],
+          "how": [
+            "题干问合理的「批评」。",
+            "有六个月延迟，答卷者也可能不是当天接待者，所以选 D。",
+            "A 把顺序说反了：是先行为、后问卷。"
+          ]
+        },
+        {
+          "stemEn": "How many studies did Wicker review, and what was the average attitude–behaviour correlation?",
+          "optionsEn": [
+            "42 studies; about r = .15",
+            "42 studies; about r = .53",
+            "251 studies; about r = .15",
+            "128 studies; about r = .71"
+          ],
+          "answer": 0,
+          "stem": "Wicker 综述了多少项研究？态度与行为的平均相关是多少？",
+          "options": [
+            "42 项；约 r = .15",
+            "42 项；约 r = .53",
+            "251 项；约 r = .15",
+            "128 项；约 r = .71"
+          ],
+          "how": [
+            "题干要 Wicker 的「多少项研究」和「平均相关」。",
+            "Wicker 的数字是 42 项和约 .15，所以选 A。",
+            "B 的 .53 是 TPB 中意图与行为的相关；C 的 251 是 LaPiere 的地点数。"
+          ]
+        },
+        {
+          "stemEn": "A student reads Wicker's result as '15% of people act in line with their attitudes.' What is the correct reading?",
+          "optionsEn": [
+            "It is a weak correlation between attitudes and behaviours, not a percentage of people",
+            "It is a strong correlation showing that attitudes are the cause of most behaviours",
+            "It is a percentage of the studies that managed to find any kind of relationship",
+            "It is a zero correlation showing that attitudes have no link with behaviours at all"
+          ],
+          "answer": 0,
+          "stem": "一名学生把 Wicker 的结果理解为「15% 的人会按态度行事」。正确的理解是什么？",
+          "options": [
+            "它是态度与行为之间的弱相关，不是人数百分比",
+            "它是强相关，说明态度是大多数行为的原因",
+            "它是发现了某种关系的研究所占的百分比",
+            "它是零相关，说明态度与行为完全没有联系"
+          ],
+          "how": [
+            "线索是「15% 的人」，这把相关系数读成了人数。",
+            "r 约 .15 表示弱关系，不是人数比例，所以选 A。",
+            "D 也错：弱相关不是零相关。"
+          ]
+        },
+        {
+          "stemEn": "What is the best overall conclusion from LaPiere and Wicker?",
+          "optionsEn": [
+            "Attitudes are completely useless, so psychologists should stop measuring them altogether",
+            "Survey respondents are simply lying, and that accounts for the whole gap in behaviour",
+            "Attitudes always cause behaviour, as long as a large number of people are surveyed",
+            "General attitudes alone predict specific behaviour poorly, so context must be considered"
+          ],
+          "answer": 3,
+          "stem": "从 LaPiere 和 Wicker 能得出的最佳总体结论是什么？",
+          "options": [
+            "态度完全没用，心理学家应彻底停止测量态度",
+            "问卷作答者只是在撒谎，这解释了全部落差",
+            "只要调查人数足够多，态度总会导致行为",
+            "仅凭一般态度难以预测具体行为，还要考虑情境"
+          ],
+          "how": [
+            "题干问「LaPiere 和 Wicker」的总体结论。",
+            "一般态度预测具体行为较弱，要加入意图和情境，所以选 D。",
+            "A 和 B 都是笔记提醒不能下的结论。"
+          ]
+        }
+      ],
+      "recap": "LaPiere：现场 1 次拒绝，问卷多数说 No；Wicker：42 项，r ≈ .15，弱相关。"
+    },
+    {
+      "id": "L3-P05",
+      "title": "计划行为理论",
+      "titleEn": "Theory of Planned Behaviour",
+      "conceptIds": [
+        "L3-C07"
+      ],
+      "kp": "Ajzen 的 TPB：对行为的态度、主观规范（重要他人的期待）、知觉行为控制（自认有无能力和机会）共同预测意图，意图再预测行为。相关：三者合起来对意图 .63–.71，意图对行为 .53。",
+      "howTo": "三个预测变量看线索：我觉得这事好不好是态度；家人朋友希望我做是主观规范；我觉得做得到是知觉控制。三者先到意图，意图才到行为。",
+      "items": [
+        {
+          "stemEn": "In the Theory of Planned Behaviour, what do attitude towards the behaviour, subjective norm and perceived behavioural control predict directly?",
+          "optionsEn": [
+            "Behavioural intention",
+            "Moral conviction",
+            "Group identification",
+            "Cognitive dissonance"
+          ],
+          "answer": 0,
+          "stem": "在计划行为理论（TPB）中，对行为的态度、主观规范和知觉行为控制直接预测什么？",
+          "options": [
+            "行为意图（behavioural intention）",
+            "道德确信（moral conviction）",
+            "群体认同（group identification）",
+            "认知失调（cognitive dissonance）"
+          ],
+          "how": [
+            "题干问这三个变量「直接预测」什么。",
+            "它们先预测意图，意图才进一步预测行为，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Omar thinks jogging is good for him, but he says, 'My knee is bad and I have no time, so I doubt I could do it.' Which TPB factor is weak?",
+          "optionsEn": [
+            "Attitude towards the behaviour",
+            "Subjective norm",
+            "Perceived behavioural control",
+            "Implicit attitude"
+          ],
+          "answer": 2,
+          "stem": "Omar 认为慢跑对自己有好处，但他说：「我膝盖不好又没时间，我怀疑自己做不到。」TPB 的哪个因素较弱？",
+          "options": [
+            "对行为的态度（attitude towards the behaviour）",
+            "主观规范（subjective norm）",
+            "知觉行为控制（perceived behavioural control）",
+            "内隐态度（implicit attitude）"
+          ],
+          "how": [
+            "线索是「怀疑自己做不到」。",
+            "相信自己有没有能力和机会就是知觉行为控制，所以选 C。",
+            "A 并不弱，因为他认为慢跑「有好处」。"
+          ]
+        },
+        {
+          "stemEn": "Mia does not care much about recycling, but she thinks her parents and friends expect her to recycle. Which TPB factor does this describe?",
+          "optionsEn": [
+            "Perceived behavioural control",
+            "Subjective norm",
+            "Attitude towards the behaviour",
+            "Central route processing"
+          ],
+          "answer": 1,
+          "stem": "Mia 不太在意回收，但她认为父母和朋友期望她回收。这描述了 TPB 的哪个因素？",
+          "options": [
+            "知觉行为控制（perceived behavioural control）",
+            "主观规范（subjective norm）",
+            "对行为的态度（attitude towards the behaviour）",
+            "中央路径加工（central route processing）"
+          ],
+          "how": [
+            "线索是「父母和朋友期望她回收」。",
+            "感知重要他人的期待就是主观规范，所以选 B。",
+            "注意她自己「不太在意」，所以这不是对行为的态度。"
+          ]
+        },
+        {
+          "stemEn": "The correlation between intention and behaviour on the lecture slide was about .53. What does this tell us?",
+          "optionsEn": [
+            "Intention helps predict behaviour, but an intention–behaviour gap remains",
+            "Intention perfectly determines what people will go on to do in the future",
+            "Intention is less useful than a general attitude in predicting behaviour",
+            "Intention causes behaviour directly, as the correlation shows on its own"
+          ],
+          "answer": 0,
+          "stem": "课件上意图与行为的相关约为 .53。这告诉我们什么？",
+          "options": [
+            "意图有助于预测行为，但意图与行为之间仍有落差",
+            "意图完全决定人们今后会做什么",
+            "在预测行为上，意图不如一般态度有用",
+            "仅凭这个相关就能说明意图直接造成行为"
+          ],
+          "how": [
+            "线索是「相关约为 .53」，比弱相关强，但远不完美。",
+            "意图有预测力，但想做不等于做到，所以选 A。",
+            "D 错：相关不证明因果。"
+          ]
+        }
+      ],
+      "recap": "态度＋主观规范＋知觉控制 → 意图 → 行为；想做不等于做到（r = .53）。"
+    },
+    {
+      "id": "L3-P06",
+      "title": "提高预测力的条件与 TPB、测量的局限",
+      "titleEn": "Improving prediction; limits of TPB and measurement",
+      "conceptIds": [
+        "L3-C08",
+        "L3-C09"
+      ],
+      "kp": "提高预测力：具体对应（correspondence）、态度强、公开承诺、直接经验、减少外部干扰。TPB 批评：太静态、太理性，少习惯和情绪，依赖相关。匿名问卷仍有社会期许；生理唤醒不等于撒谎；宜组合多种测量（triangulation）。",
+      "howTo": "预测跑步要问对跑步的态度，不问对健康的看法。批评 TPB 选「太理性、太静态」。测量题选组合多种方法；「匿名就真实」和「唤醒就是撒谎」都错。",
+      "items": [
+        {
+          "stemEn": "A researcher wants to predict who will run every morning. Which attitude measure should predict this best?",
+          "optionsEn": [
+            "How much a person values good health in general",
+            "How much a person likes running every morning",
+            "How much a person admires well-known athletes",
+            "How much a person likes spending time outdoors"
+          ],
+          "answer": 1,
+          "stem": "一位研究者想预测谁会每天早上跑步。哪种态度测量最能预测？",
+          "options": [
+            "一个人总体上多重视健康",
+            "一个人有多喜欢每天早上跑步",
+            "一个人多崇拜知名运动员",
+            "一个人多喜欢待在户外"
+          ],
+          "how": [
+            "线索是要预测「每天早上跑步」这个具体行为。",
+            "问的态度越贴近要预测的行为越好，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Which change is most likely to strengthen the link between someone's attitude and behaviour?",
+          "optionsEn": [
+            "Having them state a broad value that is only loosely tied to the behaviour",
+            "Having them state their position publicly after direct experience of the issue",
+            "Adding many outside pressures and costs at the point of taking action",
+            "Measuring how quickly they can recall an unrelated attitude from memory"
+          ],
+          "answer": 1,
+          "stem": "哪种改变最可能加强一个人的态度与行为之间的联系？",
+          "options": [
+            "让他表达一种与该行为只有松散联系的宽泛价值观",
+            "在他亲身经历问题之后，让他公开表明立场",
+            "在行动时增加许多外部压力和成本",
+            "测量他能多快从记忆中想起一个无关态度"
+          ],
+          "how": [
+            "题干问什么能「加强」态度与行为的联系。",
+            "公开承诺和直接经验都提高预测力，所以选 B。",
+            "C 相反：外部限制越多，态度与行为的关系越不清楚。"
+          ]
+        },
+        {
+          "stemEn": "Which is a criticism of the Theory of Planned Behaviour?",
+          "optionsEn": [
+            "It overemphasises rational reasoning and neglects habit, emotion and unconscious influences",
+            "It focuses too much on habits and emotion, and it ignores conscious plans and intentions",
+            "It includes too few rational predictors, so that it cannot predict any intentions at all",
+            "It relies only on experiments and it has never used any kind of correlational evidence"
+          ],
+          "answer": 0,
+          "stem": "下列哪项是对计划行为理论的批评？",
+          "options": [
+            "它过度强调理性推理，忽略习惯、情绪和无意识影响",
+            "它过于关注习惯和情绪，忽略有意识的计划和意图",
+            "它的理性预测变量太少，完全无法预测任何意图",
+            "它只依赖实验，从未使用过任何相关性证据"
+          ],
+          "how": [
+            "题干问对 TPB 的「批评」。",
+            "TPB 被批评过于静态和理性化，所以选 A。",
+            "B 和 D 都把批评说反了。"
+          ]
+        },
+        {
+          "stemEn": "A questionnaire is anonymous. A colleague says that its answers must therefore be fully honest. What is the best reply?",
+          "optionsEn": [
+            "Anonymity removes all social pressure, so the responses can be taken as completely honest",
+            "Anonymity reduces social pressure but does not remove social desirability or demand effects",
+            "Anonymity increases social pressure, so the responses should be treated as entirely false",
+            "Anonymity matters only for physiological measures, so it is irrelevant to this questionnaire"
+          ],
+          "answer": 1,
+          "stem": "一份问卷是匿名的。同事说答案因此一定完全诚实。最好的回应是什么？",
+          "options": [
+            "匿名消除了所有社会压力，所以回答可视为完全诚实",
+            "匿名能降低社会压力，但消除不了社会期许和需求特征",
+            "匿名增加了社会压力，所以回答应被视为完全不真实",
+            "匿名只对生理测量有意义，与这份问卷无关"
+          ],
+          "how": [
+            "线索是「匿名」所以「一定完全诚实」，这说得太绝对。",
+            "匿名只能降低压力，不能消除迎合倾向，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A polygraph shows raised arousal when a person answers a question about her attitude. What should a careful researcher do?",
+          "optionsEn": [
+            "Treat arousal as one clue and combine it with other measures",
+            "Treat arousal as proof that she is lying about her attitude",
+            "Treat arousal as a perfect measure and drop all self-reports",
+            "Treat arousal as meaningless and use only one survey instead"
+          ],
+          "answer": 0,
+          "stem": "一个人回答关于自己态度的问题时，多导仪显示唤醒升高。谨慎的研究者应该怎么做？",
+          "options": [
+            "把唤醒当作一条线索，并结合其他测量",
+            "把唤醒当作她在态度上撒谎的证据",
+            "把唤醒当作完美指标，放弃所有自陈报告",
+            "认为唤醒毫无意义，只用一份问卷"
+          ],
+          "how": [
+            "线索是「唤醒升高」，唤醒可能有多种原因。",
+            "更稳妥的是组合多种测量（triangulation），所以选 A。",
+            "B 最易错：生理唤醒不等于撒谎。"
+          ]
+        }
+      ],
+      "recap": "越具体越能预测；TPB 太静态太理性；没有完美指标，要 triangulation。"
+    },
+    {
+      "id": "L3-P07",
+      "title": "Heider 的平衡理论",
+      "titleEn": "Heider's Balance Theory",
+      "conceptIds": [
+        "L3-C10"
+      ],
+      "kp": "平衡理论（Balance Theory）看 Person、Other、X 的三角关系。喜欢朋友又观点相同则平衡；喜欢朋友但观点相反则不平衡。两条修复路径：改变对 Other 的态度，或改变对 X 的态度（或说服对方）。冲突在三角关系中。",
+      "howTo": "题干出现「我、另一个人、一个议题」三方时选平衡理论。不平衡时选改变对人的看法或对议题的看法。冲突只在个人内部（态度和行为）时选认知失调。",
+      "items": [
+        {
+          "stemEn": "Balance Theory is concerned with relations among:",
+          "optionsEn": [
+            "Attitude, norm and perceived control",
+            "Source, message and the audience",
+            "Person, Other and an attitude object",
+            "Affect, behaviour and cognition"
+          ],
+          "answer": 2,
+          "stem": "平衡理论（Balance Theory）关注的是哪些之间的关系？",
+          "options": [
+            "态度、规范和知觉控制",
+            "来源、信息和受众",
+            "个人（Person）、他人（Other）和态度对象（X）",
+            "情感、行为和认知"
+          ],
+          "how": [
+            "题干问「平衡理论」关注的关系。",
+            "它讨论 Person、Other、X 组成的三角，所以选 C。",
+            "A 是 TPB，B 是说服三要素，D 是态度 ABC。"
+          ]
+        },
+        {
+          "stemEn": "Kim likes her flatmate and they both support a new bike lane. In Balance Theory terms, this situation is:",
+          "optionsEn": [
+            "Imbalanced, so Kim must change her view",
+            "Balanced and psychologically stable",
+            "Dissonant, since Kim's behaviour is inconsistent",
+            "Imbalanced, so Kim must dislike her flatmate"
+          ],
+          "answer": 1,
+          "stem": "Kim 喜欢她的室友，两人都支持新建自行车道。用平衡理论来说，这种情况：",
+          "options": [
+            "不平衡，所以 Kim 必须改变看法",
+            "是平衡的，心理上较稳定",
+            "是失调的，因为 Kim 的行为不一致",
+            "不平衡，所以 Kim 必须讨厌室友"
+          ],
+          "how": [
+            "线索是「喜欢她的室友」且「两人都支持」。",
+            "喜欢对方且观点相同就是平衡结构，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Dan admires his mentor, then learns that she strongly supports a policy he opposes. According to Heider, what are his two main options?",
+          "optionsEn": [
+            "Change his attitude to the mentor, or seek a larger external payment",
+            "Change his attitude to the mentor, or change his view on the policy",
+            "Change his view on the policy, or deny having any attitudes at all",
+            "Seek a larger external payment, or avoid thinking about the issue"
+          ],
+          "answer": 1,
+          "stem": "Dan 敬佩他的导师，后来得知她强烈支持一项他反对的政策。按 Heider 的理论，他的两条主要路径是什么？",
+          "options": [
+            "改变对导师的态度，或寻求更多外部报酬",
+            "改变对导师的态度，或改变对政策的看法",
+            "改变对政策的看法，或否认自己有任何态度",
+            "寻求更多外部报酬，或回避思考这个问题"
+          ],
+          "how": [
+            "线索是「敬佩」导师却反对她支持的「政策」，三角不平衡。",
+            "Heider 给出的路径是改变对 Other 或对 X 的态度，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Which case is best explained by Balance Theory rather than cognitive dissonance?",
+          "optionsEn": [
+            "Feeling uneasy because a close friend holds the opposite view on an issue",
+            "Feeling uneasy because you value health but smoke a packet each day",
+            "Feeling uneasy because you lied about a boring task for one dollar",
+            "Feeling uneasy because you love animals yet you eat meat every week"
+          ],
+          "answer": 0,
+          "stem": "哪种情况最适合用平衡理论而不是认知失调来解释？",
+          "options": [
+            "因好朋友在某议题上持相反观点而感到不安",
+            "因重视健康却每天抽一包烟而感到不安",
+            "因为一美元就对无聊任务撒谎而感到不安",
+            "因爱动物却每周吃肉而感到不安"
+          ],
+          "how": [
+            "题干要区分「平衡理论」和「认知失调」，看冲突发生在哪里。",
+            "涉及朋友和议题的三角关系才属平衡理论，所以选 A。",
+            "其余三项都是同一个人内部的态度与行为冲突，属于失调。"
+          ]
+        }
+      ],
+      "recap": "Balance：我—他—X 三角不平衡 → 改对人的态度或改对 X 的态度；Dissonance：个人内部。"
+    },
+    {
+      "id": "L3-P08",
+      "title": "认知失调及减压路径",
+      "titleEn": "Cognitive dissonance and its reduction",
+      "conceptIds": [
+        "L3-C11"
+      ],
+      "kp": "认知失调（cognitive dissonance）是觉察到两项态度之间、或态度与行为之间不一致时的不愉快内部状态。减压路径：改变行为；改变态度或信念；加入外部理由；降低重要性、回避信息、分散注意。",
+      "howTo": "先确认同一个人内部有冲突且觉得不舒服。再看怎么减压：真的改了是改变行为；改想法是改变态度；说「环境逼的」是外部理由；说「没那么重要」是降低重要性。",
+      "items": [
+        {
+          "stemEn": "Cognitive dissonance is best defined as:",
+          "optionsEn": [
+            "A pleasant sense of certainty arising from noticing that one's attitudes are all consistent",
+            "An imbalance among three people who hold different views about the same attitude object",
+            "A tendency to prefer quick, easy judgements when one's mental capacity is limited",
+            "An unpleasant internal state caused by noticing an inconsistency in one's attitudes or actions"
+          ],
+          "answer": 3,
+          "stem": "认知失调（cognitive dissonance）的最佳定义是：",
+          "options": [
+            "发现自己的态度都一致时产生的愉快确定感",
+            "三人对同一态度对象持不同看法时的不平衡",
+            "心理容量有限时偏好快速简单判断的倾向",
+            "觉察到自身态度或行为不一致时产生的不愉快内部状态"
+          ],
+          "how": [
+            "题干问「认知失调」的定义。",
+            "关键是觉察到不一致，并产生内部不适，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Jay knows smoking is harmful, and he smokes. After reading a warning, he tells himself, 'The risk is exaggerated, and it's not that important.' Which route is he taking?",
+          "optionsEn": [
+            "Changing his behaviour to match his attitude",
+            "Adding a strong external justification for it",
+            "Changing his relationship with another person",
+            "Reducing the importance of the inconsistency"
+          ],
+          "answer": 3,
+          "stem": "Jay 知道吸烟有害，但他仍吸烟。读到警示后，他对自己说：「风险被夸大了，没那么重要。」他走的是哪条路径？",
+          "options": [
+            "改变行为以符合态度",
+            "为此加入强有力的外部理由",
+            "改变与另一个人的关系",
+            "降低这种不一致的重要性"
+          ],
+          "how": [
+            "线索是「风险被夸大了」和「没那么重要」。",
+            "他没有戒烟，而是淡化问题，所以选 D。",
+            "A 要真的不再吸烟才算。"
+          ]
+        },
+        {
+          "stemEn": "Rosa values honesty but copied a friend's homework. She says, 'The teacher set an impossible deadline, so I had no choice.' This is:",
+          "optionsEn": [
+            "Changing her behaviour",
+            "Restoring Heider's balance",
+            "Adding an external justification",
+            "Reducing her ambivalence"
+          ],
+          "answer": 2,
+          "stem": "Rosa 重视诚实，却抄了朋友的作业。她说：「老师定的期限不可能完成，我别无选择。」这是：",
+          "options": [
+            "改变她的行为",
+            "恢复 Heider 所说的平衡",
+            "加入外部理由（external justification）",
+            "降低她的矛盾性（ambivalence）"
+          ],
+          "how": [
+            "线索是「老师定的期限不可能完成」和「别无选择」。",
+            "把原因归到环境压力上，就是外部理由，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A student who cares about the environment often flies for holidays and feels uneasy. Which prediction follows from dissonance theory?",
+          "optionsEn": [
+            "She must stop flying, because behaviour change is the only way to reduce discomfort",
+            "She may change her flying, or she may change her beliefs or downplay the issue",
+            "She will feel no discomfort, since knowing two facts is never an unpleasant thing",
+            "She will always increase her advocacy so as to make up for her inconsistent actions"
+          ],
+          "answer": 1,
+          "stem": "一名关心环境的学生经常坐飞机度假，并感到不安。由失调理论可以作出哪种预测？",
+          "options": [
+            "她必须停止飞行，因为改变行为是减轻不适的唯一途径",
+            "她可能改变飞行习惯，也可能改变信念或淡化问题",
+            "她不会感到不适，因为知道两个事实绝不会令人不快",
+            "她总会加强倡导，以弥补自己不一致的行为"
+          ],
+          "how": [
+            "线索是「关心环境」却「经常坐飞机」，并「感到不安」。",
+            "产生不适不保证改好行为，有多条减压路径，所以选 B。",
+            "A 是最常见的错误：改变行为只是路径之一。"
+          ]
+        }
+      ],
+      "recap": "冲突＋不适就是失调；改行为只是路径之一，也可改态度、找理由、淡化或回避。"
+    },
+    {
+      "id": "L3-P09",
+      "title": "Festinger 与 Carlsmith：不足外部理由",
+      "titleEn": "Festinger and Carlsmith: insufficient justification",
+      "conceptIds": [
+        "L3-C12"
+      ],
+      "kp": "参与者做 1 小时无聊的转 peg 任务，拿 $1 或 $20 向下一位学生说任务有趣，控制组不撒谎。$1 组报告的愉快程度最高，$20 组只略高于控制组。$20 是充分外部理由；$1 不够解释撒谎，只好改态度。",
+      "howTo": "看报酬大小：报酬足以解释行为，失调低，态度不变；报酬太小解释不了，失调高，改态度。前提是做了反态度行为，不是「奖励越少越喜欢」。",
+      "items": [
+        {
+          "stemEn": "In Festinger and Carlsmith's (1959) study, which group later reported enjoying the boring task most?",
+          "optionsEn": [
+            "Those paid $20 to say that it was interesting",
+            "Those paid $1 to say that it was interesting",
+            "Those in the control group who did not lie",
+            "All three groups reported about the same"
+          ],
+          "answer": 1,
+          "stem": "在 Festinger 和 Carlsmith（1959）的研究中，哪组后来报告最喜欢这个无聊任务？",
+          "options": [
+            "拿 $20 说任务有趣的人",
+            "拿 $1 说任务有趣的人",
+            "没有撒谎的控制组",
+            "三组报告的差不多"
+          ],
+          "how": [
+            "题干问哪组「最喜欢」这个任务。",
+            "结果是 $1 组最高，$20 组只略高于控制组，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Why did the $20 participants change their attitude less than the $1 participants?",
+          "optionsEn": [
+            "The money was sufficient external justification for the lie",
+            "The money made the peg-turning task more interesting to do",
+            "The money caused them to feel more dissonance than the others",
+            "The money meant that they did not actually tell the lie at all"
+          ],
+          "answer": 0,
+          "stem": "为什么拿 $20 的参与者比拿 $1 的态度改变更少？",
+          "options": [
+            "这笔钱是撒谎的充分外部理由",
+            "这笔钱让转 peg 任务变得更有趣",
+            "这笔钱让他们比别人感到更多失调",
+            "这笔钱意味着他们其实根本没有撒谎"
+          ],
+          "how": [
+            "线索是「拿 $20」的人态度改变更少。",
+            "$20 足以解释撒谎，失调较低，不需要改态度，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A student is paid a very small amount to tell a visitor that a dull campus tour was great. Later she rates the tour more positively. Which explanation fits?",
+          "optionsEn": [
+            "The small payment acted as a strong reward, so she learned to enjoy campus tours",
+            "The small payment made her statement a peripheral cue for persuading the visitor",
+            "The small payment created a descriptive norm, so she copied other students' ratings",
+            "The small payment could not justify her statement, so she changed her attitude"
+          ],
+          "answer": 3,
+          "stem": "一名学生收了很少的钱，告诉访客一次乏味的校园参观很棒。后来她对这次参观的评价变得更积极。哪种解释合适？",
+          "options": [
+            "这点钱是很强的奖励，所以她学会了喜欢校园参观",
+            "这点钱让她的说法成为说服访客的外周线索",
+            "这点钱形成了描述性规范，所以她模仿其他学生的评价",
+            "这点钱解释不了她的说法，所以她改变了态度"
+          ],
+          "how": [
+            "线索是「很少的钱」「乏味」却说「很棒」。",
+            "外部理由不足时，人通过改变态度减轻失调，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A parent reads this study and decides that paying children less for chores will make them like chores more. What is the flaw?",
+          "optionsEn": [
+            "The effect needs counter-attitudinal behaviour with insufficient justification, not just a small reward",
+            "The effect shows the reverse pattern, so that greater rewards always lead to greater liking of chores",
+            "The effect applies only to people who were paid $20, since they had a strong reason for the behaviour",
+            "The effect has nothing to do with attitudes, since it was only about how long the task happened to last"
+          ],
+          "answer": 0,
+          "stem": "一位家长读到这项研究后决定：少给孩子做家务的钱，他们就会更喜欢做家务。漏洞在哪里？",
+          "options": [
+            "这种效应需要反态度行为和不足的理由，不只是报酬少",
+            "这种效应正好相反，报酬越高越喜欢做家务",
+            "这种效应只适用于拿 $20 的人，因为他们有充分理由",
+            "这种效应与态度无关，只涉及任务持续了多久"
+          ],
+          "how": [
+            "线索是「少给」钱就会「更喜欢」，这是笔记点名的陷阱。",
+            "关键条件是先做反态度行为且理由不足，所以选 A。"
+          ]
+        }
+      ],
+      "recap": "$1 理由不足 → 失调高 → 改态度喜欢任务；$20 理由充分 → 不用改。"
+    },
+    {
+      "id": "L3-P10",
+      "title": "肉食悖论与虚伪感干预",
+      "titleEn": "Meat paradox and hypocrisy-style intervention",
+      "conceptIds": [
+        "L3-C13",
+        "L3-C14"
+      ],
+      "kp": "Bastian 等（2012）：预期吃 beef 的人比预期吃 nuts 的人，把牛评价得更少心智和感受，以减轻爱动物却吃动物的失调。虚伪感干预：先公开倡导，再提醒过去没做到，可促使改变行为；但能轻易合理化或羞耻过强时会失效。",
+      "howTo": "预期吃肉后贬低动物心智，选肉食悖论和信念改变。公开倡导加提醒没做到，选虚伪感干预。效果题看：议题重要吗？能否轻易找借口？羞耻太强会引发防御。",
+      "items": [
+        {
+          "stemEn": "In Bastian et al.'s (2012) study, what did participants expecting to eat beef do?",
+          "optionsEn": [
+            "Rated cows as having more mind and sentience",
+            "Chose to eat nuts in place of the beef they expected",
+            "Rated every food as being less morally relevant",
+            "Rated cows as having less mind and sentience"
+          ],
+          "answer": 3,
+          "stem": "在 Bastian 等（2012）的研究中，预期要吃牛肉的参与者做了什么？",
+          "options": [
+            "把牛评价为较多心智和感受能力（mind/sentience）",
+            "选择用坚果代替预期要吃的牛肉",
+            "把所有食物都评价为道德上较不相关",
+            "把牛评价为较少心智和感受能力（mind/sentience）"
+          ],
+          "how": [
+            "线索是「预期要吃牛肉」。",
+            "他们把牛评价得更少心智和感受，所以选 D。",
+            "A 方向反了。"
+          ]
+        },
+        {
+          "stemEn": "Why is the meat paradox treated as an example of dissonance reduction?",
+          "optionsEn": [
+            "People ease the conflict of loving animals and eating them by changing a belief about animals",
+            "People ease the conflict of loving animals and eating them by giving up eating meat at once",
+            "People ease the conflict between two rival groups by setting up a superordinate shared goal",
+            "People ease the conflict with a friend who eats meat by changing their attitude to that friend"
+          ],
+          "answer": 0,
+          "stem": "为什么肉食悖论被看作减轻失调的例子？",
+          "options": [
+            "人们通过改变对动物的看法，缓和爱动物又吃动物的冲突",
+            "人们通过立刻放弃吃肉，缓和爱动物又吃动物的冲突",
+            "人们通过建立共同的超级目标，缓和两个对立群体的冲突",
+            "人们通过改变对朋友的态度，缓和与吃肉朋友的冲突"
+          ],
+          "how": [
+            "题干问「肉食悖论」为何属于减轻失调。",
+            "人们没有停止吃肉，而是改了对动物的信念，所以选 A。",
+            "D 是平衡理论的路径。"
+          ]
+        },
+        {
+          "stemEn": "A smoker says that studies like the meat paradox prove every meat-eater is motivated to devalue animals. What is the correct response?",
+          "optionsEn": [
+            "A single experiment proves the claim, as the participants were randomly assigned to foods",
+            "A single experiment rules out dissonance, as nobody in it actually ate any of the beef",
+            "A single experiment shows a possible mechanism, not a fixed motive in every meat-eater",
+            "A single experiment proves that nobody devalues animals unless told to eat a piece of beef"
+          ],
+          "answer": 2,
+          "stem": "有人说，肉食悖论这样的研究证明每位食肉者都有贬低动物的动机。正确的回应是什么？",
+          "options": [
+            "单个实验证明了这一说法，因为参与者被随机分配了食物",
+            "单个实验排除了失调解释，因为其中没有人真的吃了牛肉",
+            "单个实验只显示一种可能机制，不是每位食肉者的固定动机",
+            "单个实验证明除非被告知吃牛肉，否则没人会贬低动物"
+          ],
+          "how": [
+            "线索是「证明每位食肉者」，把一个实验推广到所有人。",
+            "笔记明确说不能扩展成固定动机，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A health campaign has volunteers publicly urge others to wear seatbelts, then reminds them of times they did not wear one. This is:",
+          "optionsEn": [
+            "A nudge through default settings",
+            "A descriptive norm about seatbelts",
+            "Peripheral route persuasion by a star",
+            "A hypocrisy-style intervention"
+          ],
+          "answer": 3,
+          "stem": "一项健康宣传让志愿者公开倡导系安全带，然后提醒他们曾经没有系。这是：",
+          "options": [
+            "通过默认设置的助推（nudge）",
+            "关于安全带的描述性规范（descriptive norm）",
+            "明星带来的外周路径（peripheral route）说服",
+            "虚伪感干预（hypocrisy-style intervention）"
+          ],
+          "how": [
+            "线索是先「公开倡导」，然后「提醒他们曾经没有系」。",
+            "公开倡导再凸显不一致，就是虚伪感干预，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A programme tries to change behaviour by making participants feel as ashamed as possible about their past actions. What does the lecture predict?",
+          "optionsEn": [
+            "More shame will always produce more behaviour change among participants",
+            "Shame has no connection with whether people go on to reduce dissonance",
+            "Too much shame can trigger defensiveness rather than behaviour change",
+            "Shame works best when the issue does not matter to the participants"
+          ],
+          "answer": 2,
+          "stem": "一个项目试图让参与者对过去的行为尽可能感到羞愧，以此改变行为。本讲如何预测？",
+          "options": [
+            "羞耻越多，参与者的行为改变总是越多",
+            "羞耻与人们是否减轻失调没有联系",
+            "羞耻过强可能引发防御，而不是行为改变",
+            "议题对参与者不重要时，羞耻效果最好"
+          ],
+          "how": [
+            "线索是「尽可能感到羞愧」。",
+            "效果有边界，过强羞耻可能引发防御，所以选 C。",
+            "A 正是笔记提醒不要当作规则的说法。"
+          ]
+        }
+      ],
+      "recap": "肉食悖论 → 改信念而非停吃肉；虚伪感干预 → 公开倡导＋提醒没做到，羞耻越强不等于越有效。"
+    },
+    {
+      "id": "L3-P11",
+      "title": "说服：ELM 与来源、信息、受众",
+      "titleEn": "Persuasion: ELM; source, message, audience",
+      "conceptIds": [
+        "L3-C15",
+        "L3-C16"
+      ],
+      "kp": "ELM：动机和资源足够走中央路径（central），看论据强度；不足走外周路径（peripheral），靠来源、熟悉度、外表等线索。两路径不是两类人。说服还看来源（可信、自利、相似、权力）、信息（论据、恐惧适中）、受众（认知需求、预警、反驳）。",
+      "howTo": "看题干：有时间又关心选中央，论据强弱起作用；赶时间、分心、不关心选外周，明星和包装起作用。预先知道要被说服选预警（forewarning），只看支持信息选选择性回避。",
+      "items": [
+        {
+          "stemEn": "According to the Elaboration Likelihood Model, the central route is most likely when:",
+          "optionsEn": [
+            "Motivation is low and there is little attention or cognitive capacity",
+            "The source is attractive and the audience is too tired to think about it",
+            "Motivation is high and there is enough attention and cognitive capacity",
+            "The message is familiar and the audience has heard it several times before"
+          ],
+          "answer": 2,
+          "stem": "按精细加工可能性模型（ELM），什么时候最可能走中央路径？",
+          "options": [
+            "动机低，且注意力或认知资源很少",
+            "来源有吸引力，受众又太累而无法思考",
+            "动机高，且有足够注意力和认知资源",
+            "信息很熟悉，受众已经听过好几遍"
+          ],
+          "how": [
+            "题干问「中央路径」的条件。",
+            "中央路径需要高动机和足够资源，所以选 C。",
+            "B 和 D 都是外周路径的情形。"
+          ]
+        },
+        {
+          "stemEn": "Scrolling quickly while tired, Leo buys a product because a popular star promotes it, without reading any details. This is best explained by:",
+          "optionsEn": [
+            "Central route processing",
+            "Selective avoidance",
+            "Counter-arguing",
+            "Peripheral route processing"
+          ],
+          "answer": 3,
+          "stem": "Leo 疲惫地快速刷手机，因为一位当红明星推荐就买了产品，没有看任何细节。这最能用什么解释？",
+          "options": [
+            "中央路径（central route）加工",
+            "选择性回避（selective avoidance）",
+            "反驳（counter-arguing）",
+            "外周路径（peripheral route）加工"
+          ],
+          "how": [
+            "线索是「疲惫」「快速刷手机」和「明星推荐」。",
+            "资源不足时依赖来源等简单线索，就是外周路径，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "The same person reads a phone contract carefully but picks a snack on impulse. What does this show about ELM?",
+          "optionsEn": [
+            "The routes reflect two personality types, and this person simply belongs to both",
+            "The routes reflect the situation and motivation, not two fixed types of people",
+            "The routes reflect only intelligence, so clever people always use the central route",
+            "The routes reflect attitude strength, and so snacks always carry the stronger attitudes"
+          ],
+          "answer": 1,
+          "stem": "同一个人仔细阅读手机合同，却冲动地挑选零食。这说明 ELM 的什么特点？",
+          "options": [
+            "路径反映两种人格类型，这个人只是同时属于两类",
+            "路径取决于情境和动机，不是两类固定的人",
+            "路径只反映智力，聪明人总走中央路径",
+            "路径反映态度强度，所以零食总带有更强的态度"
+          ],
+          "how": [
+            "线索是「同一个人」在两件事上加工方式不同。",
+            "中央和外周不是固定的人格，同一个人会换路径，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A tobacco-funded scientist tells the public that vaping is safe. Listeners trust the claim less. Which source factor explains this?",
+          "optionsEn": [
+            "An obvious self-interested motive lowers credibility",
+            "High similarity between source and audience raises credibility",
+            "An attractive source increases the wish to be like them",
+            "High power always guarantees that the source will persuade"
+          ],
+          "answer": 0,
+          "stem": "一位受烟草公司资助的科学家告诉公众电子烟是安全的，听众因此不太相信。哪个来源因素能解释这一点？",
+          "options": [
+            "明显的自利动机降低了可信度",
+            "来源与受众高度相似提高了可信度",
+            "有吸引力的来源增加了想成为他们的愿望",
+            "高权力总能保证来源成功说服"
+          ],
+          "how": [
+            "线索是「受烟草公司资助」，来源有明显利益。",
+            "来源明显自利时，可信度下降，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Before a sales talk, an audience is told, 'He will try to persuade you.' They begin preparing objections. Which audience factors are at work?",
+          "optionsEn": [
+            "Forewarning and counter-arguing",
+            "Need for cognition and selective avoidance",
+            "Moderate fear and positive framing",
+            "Similarity and attractiveness of source"
+          ],
+          "answer": 0,
+          "stem": "在一场推销演讲前，听众被告知：「他会试图说服你们。」他们开始准备反对理由。哪些受众因素在起作用？",
+          "options": [
+            "预警（forewarning）和反驳（counter-arguing）",
+            "认知需求（need for cognition）和选择性回避（selective avoidance）",
+            "适度恐惧（moderate fear）和积极框架（positive framing）",
+            "来源的相似性（similarity）和吸引力（attractiveness）"
+          ],
+          "how": [
+            "线索是「他会试图说服你们」和「准备反对理由」。",
+            "提前知道是预警，生成反驳理由是反驳，所以选 A。",
+            "C 属于信息因素，D 属于来源因素。"
+          ]
+        }
+      ],
+      "recap": "高动机＋有资源 → 中央看论据；低动机或没资源 → 外周看线索；路径会随情境变。"
+    },
+    {
+      "id": "L3-P12",
+      "title": "助推与不完美加工",
+      "titleEn": "Nudges and imperfect processing",
+      "conceptIds": [
+        "L3-C17",
+        "L3-C18"
+      ],
+      "kp": "助推（nudge，Thaler 与 Sunstein）改变选择架构，可预测地改变行为，不禁选项、不显著改经济诱因，且容易、低成本避开。偏差：选择厌恶、显著性、损失厌恶、当下偏差、过度自信、社会规范。",
+      "howTo": "判断助推问三句：选项还在吗？经济诱因没大改吗？容易退出吗？都对才是。偏差配线索：选项多拖延是选择厌恶；怕失去是损失厌恶；只顾眼前是当下偏差；觉得自己没事是过度自信。",
+      "items": [
+        {
+          "stemEn": "Which is the best example of a nudge?",
+          "optionsEn": [
+            "Banning junk food from the school canteen for all of the students",
+            "Adding a heavy tax so that sugary drinks cost twice as much",
+            "Placing fruit at eye level while still selling every other snack",
+            "Requiring by law that everyone exercises for an hour each day"
+          ],
+          "answer": 2,
+          "stem": "下列哪项是助推（nudge）的最佳例子？",
+          "options": [
+            "禁止学校食堂向所有学生出售垃圾食品",
+            "征收重税，让含糖饮料价格翻倍",
+            "把水果放在视线高度，同时继续出售所有其他零食",
+            "立法要求每个人每天锻炼一小时"
+          ],
+          "how": [
+            "题干问「助推」的例子，用三句话逐项检查。",
+            "水果摆放保留所有选项，也不改价格，所以选 C。",
+            "A 和 D 是强制，B 显著改变了经济诱因。"
+          ]
+        },
+        {
+          "stemEn": "A country makes organ donation the default, and people can opt out by ticking a box. Why does this count as a nudge?",
+          "optionsEn": [
+            "It changes the default, keeps the choice and is easy to avoid",
+            "It removes the choice, but it is popular with most of the public",
+            "It pays people a large amount of money if they agree to donate",
+            "It uses strong arguments that people must process along the central route"
+          ],
+          "answer": 0,
+          "stem": "一个国家把器官捐献设为默认，人们勾选方框即可退出。为什么这算助推？",
+          "options": [
+            "它改变了默认设置，保留了选择，并且容易避开",
+            "它取消了选择，但受到多数公众欢迎",
+            "它向同意捐献的人支付一大笔钱",
+            "它使用了人们必须走中央路径加工的有力论据"
+          ],
+          "how": [
+            "线索是「设为默认」和「勾选方框即可退出」。",
+            "改默认设置且退出容易，符合助推标准，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A scheme is called a nudge, but opting out requires a full-day appointment and a substantial fee. What should you conclude?",
+          "optionsEn": [
+            "It is still a pure nudge, as long as the option has not been formally banned",
+            "It is a descriptive norm, because most people would decide to stay in the scheme",
+            "It is no longer a mere nudge, because it is not easy or cheap to avoid",
+            "It is a hypocrisy intervention, because people are reminded of what they should do"
+          ],
+          "answer": 2,
+          "stem": "一个方案号称助推，但退出需要花一整天预约并缴纳一大笔费用。你应该得出什么结论？",
+          "options": [
+            "只要选项没有被正式禁止，它仍然是纯粹的助推",
+            "它是描述性规范，因为多数人会决定留在方案中",
+            "它已不再是单纯的助推，因为避开它既不容易也不便宜",
+            "它是虚伪感干预，因为人们被提醒应该做什么"
+          ],
+          "how": [
+            "线索是退出要「一整天预约」和「一大笔费用」。",
+            "助推必须容易且便宜地避开，这里不符合，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Australia's plain cigarette packaging removed brand styling by law. How should it be classified according to the lecture?",
+          "optionsEn": [
+            "A legally regulated behaviour-change intervention, not a pure nudge",
+            "A pure nudge, since smokers can still buy cigarettes in the plain packs",
+            "A social-norm intervention that targets a person's postcode reference group",
+            "A form of central route persuasion that relies on strong written arguments"
+          ],
+          "answer": 0,
+          "stem": "澳大利亚的平装香烟法规去除了品牌包装样式。按本讲应如何归类？",
+          "options": [
+            "法律监管型行为改变干预，不是纯粹的助推",
+            "纯粹的助推，因为吸烟者仍能买到平装香烟",
+            "针对个人邮编参照群体的社会规范干预",
+            "依靠有力书面论据的中央路径说服"
+          ],
+          "how": [
+            "线索是「法规」，也就是通过法律实施。",
+            "笔记写明它是法律监管型干预，并非 pure nudge，所以选 A。",
+            "B 最易混：能买不等于它不是法律监管。"
+          ]
+        },
+        {
+          "stemEn": "Max keeps delaying his retirement savings because enjoying money today feels far more important than having it in thirty years. Which tendency is this?",
+          "optionsEn": [
+            "Loss aversion",
+            "Overconfidence",
+            "Present bias",
+            "Choice aversion"
+          ],
+          "answer": 2,
+          "stem": "Max 不断推迟存养老金，因为今天享受金钱的感觉远比三十年后拥有它更重要。这是哪种倾向？",
+          "options": [
+            "损失厌恶（loss aversion）",
+            "过度自信（overconfidence）",
+            "当下偏差（present bias）",
+            "选择厌恶（choice aversion）"
+          ],
+          "how": [
+            "线索是「今天」比「三十年后」重要得多。",
+            "高估现在、低估未来就是当下偏差，所以选 C。",
+            "A 指损失比同等收益更难受，这里没有比较损失和收益。"
+          ]
+        }
+      ],
+      "recap": "助推：改环境，不禁止，不大改诱因，易退出；禁令和法律监管不算纯助推。"
+    },
+    {
+      "id": "L3-P13",
+      "title": "描述性规范、命令性规范与信息对齐",
+      "titleEn": "Descriptive and injunctive norms; alignment",
+      "conceptIds": [
+        "L3-C19",
+        "L3-C20"
+      ],
+      "kp": "描述性规范（descriptive）是多数人实际做什么；命令性规范（injunctive）是多数人赞同什么、认为应该怎样。两者方向一致时最有说服力；说「别做」又暗示「大家都做」，会使问题正常化。规范可以只是感知到的，但假数字有伦理问题。",
+      "howTo": "题干写「大多数人都在做」选描述性；写「这样才对、大家赞同」选命令性。信息一边劝阻一边说普遍发生，选正常化问题。92% 假数字题选知觉规范有效但不合伦理。",
+      "items": [
+        {
+          "stemEn": "'Most students on this campus carry reusable cups.' Which type of norm is expressed?",
+          "optionsEn": [
+            "Injunctive norm",
+            "Subjective attitude",
+            "Moral conviction",
+            "Descriptive norm"
+          ],
+          "answer": 3,
+          "stem": "「这个校园的大多数学生都带可重复使用的杯子。」这表达了哪种规范？",
+          "options": [
+            "命令性规范（injunctive norm）",
+            "主观态度",
+            "道德确信（moral conviction）",
+            "描述性规范（descriptive norm）"
+          ],
+          "how": [
+            "线索是「大多数学生都带」，说的是实际做法。",
+            "多数人实际做什么就是描述性规范，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "'Using a reusable cup is the right thing to do, and people here approve of it.' Which type of norm is this?",
+          "optionsEn": [
+            "Descriptive norm",
+            "Physical reality test",
+            "Injunctive norm",
+            "Peripheral route cue"
+          ],
+          "answer": 2,
+          "stem": "「使用可重复使用的杯子才是对的，这里的人都赞同。」这是哪种规范？",
+          "options": [
+            "描述性规范（descriptive norm）",
+            "物理现实检验",
+            "命令性规范（injunctive norm）",
+            "外周路径线索"
+          ],
+          "how": [
+            "线索是「才是对的」和「都赞同」。",
+            "表达认可和应当，就是命令性规范，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A sign reads, 'Please don't litter! Thousands of visitors drop rubbish here every year.' What is the main risk?",
+          "optionsEn": [
+            "It uses too much accurate data, so that visitors cannot process it",
+            "It implies littering is common, which may normalise the behaviour",
+            "It aligns descriptive and injunctive norms, which reduces its effect",
+            "It removes the option to litter, so it is no longer a true nudge"
+          ],
+          "answer": 1,
+          "stem": "一块告示写着：「请勿乱扔垃圾！每年有成千上万游客在这里丢垃圾。」主要风险是什么？",
+          "options": [
+            "它用了太多准确数据，游客无法加工",
+            "它暗示乱扔垃圾很普遍，可能使这种行为正常化",
+            "它使描述性和命令性规范一致，从而削弱效果",
+            "它取消了乱扔的选项，所以不再是真正的助推"
+          ],
+          "how": [
+            "线索是「请勿」却又说「成千上万游客」都这样做。",
+            "劝阻和普遍发生两条信息冲突，可能把问题正常化，所以选 B。",
+            "C 错：这里两种规范恰恰不一致。"
+          ]
+        },
+        {
+          "stemEn": "Which message aligns descriptive and injunctive norms?",
+          "optionsEn": [
+            "'Most residents here waste water, but they think that saving it is right.'",
+            "'Most residents here save water, but they think that it is a waste of time.'",
+            "'Most residents here save water, and they think it is the right thing to do.'",
+            "'Most residents here waste water, and they think this is perfectly acceptable.'"
+          ],
+          "answer": 2,
+          "stem": "哪条信息让描述性和命令性规范保持一致，并支持节水？",
+          "options": [
+            "「这里大多数居民都浪费水，但认为节水才对。」",
+            "「这里大多数居民都节水，但认为这是浪费时间。」",
+            "「这里大多数居民都节水，并认为这样做是对的。」",
+            "「这里大多数居民都浪费水，并认为这完全可以接受。」"
+          ],
+          "how": [
+            "题干要两种规范「一致」，并「支持节水」。",
+            "实际做法和认可都指向节水，所以选 C。",
+            "D 两者虽然一致，却指向浪费水，不支持节水。"
+          ]
+        },
+        {
+          "stemEn": "A lecturer claims that 92% of students read the slides before class, then reveals that the number is made up. What does this demonstration show?",
+          "optionsEn": [
+            "Perceived norms have no effect at all, unless the data have been checked by each student",
+            "Fabricated norms are acceptable, as long as the students end up reading the lecture slides",
+            "Fabricated norms only work when the students do not care about being a good student",
+            "Perceived norms may influence behaviour, but fabricated norms raise ethical problems"
+          ],
+          "answer": 3,
+          "stem": "一位讲师声称 92% 的学生课前读了课件，随后说明这个数字是编的。这个示范说明什么？",
+          "options": [
+            "除非学生核查过数据，否则感知到的规范毫无影响",
+            "只要学生最终读了课件，虚假规范就可以接受",
+            "只有学生不在乎当好学生时，虚假规范才起作用",
+            "感知到的规范可能影响行为，但虚假规范有伦理问题"
+          ],
+          "how": [
+            "线索是「92%」，随后说明「这个数字是编的」。",
+            "规范可以只是感知到的，但伪造有明显伦理问题，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "描述性 → 人们做什么；命令性 → 人们认可什么；两者对齐最有力，夸大问题会正常化。"
+    },
+    {
+      "id": "L3-P14",
+      "title": "规范干预的研究证据",
+      "titleEn": "Evidence from social-norm interventions",
+      "conceptIds": [
+        "L3-C21"
+      ],
+      "kp": "税务：常规 68%、UK 73%、邮编 79%、town 83%。节电：邻居规范最有效，人们却觉得影响最小。抗生素：高处方诊所收到同行比较后降 3.3%。酒驾和欺凌：宣传真实多数，感知规范和行为改善。",
+      "howTo": "先认研究：税务记参照群体越具体越有效；节电记自述与实际相反；抗生素记同行比较；酒驾、欺凌记校正感知规范。「不受影响」的自述不可全信；规范不是万能工具。",
+      "items": [
+        {
+          "stemEn": "In the tax study, which message produced the highest response rate?",
+          "optionsEn": [
+            "The norm about people in the same postcode",
+            "The norm about people in the whole UK",
+            "The norm about people in the same town",
+            "The usual message without any norm"
+          ],
+          "answer": 2,
+          "stem": "在税务研究中，哪种信息带来了最高的回应率？",
+          "options": [
+            "关于同一邮编（postcode）的人的规范",
+            "关于整个英国（UK）的人的规范",
+            "关于同一城镇（town）的人的规范",
+            "不含规范的常规信息"
+          ],
+          "how": [
+            "题干问税务研究中「最高的回应率」。",
+            "数字依次是常规 68%、UK 73%、邮编 79%、town 83%，所以选 C。",
+            "这说明参照群体越接近、越具体，效果越强。"
+          ]
+        },
+        {
+          "stemEn": "In Nolan et al.'s (2009) energy study, households rated the 'join your neighbours' message as least likely to affect them. What actually happened?",
+          "optionsEn": [
+            "That message had no effect on the energy use of households",
+            "That message raised energy use for several months afterwards",
+            "That message lowered energy use less than the other four messages",
+            "That message was the one that lowered energy use the most"
+          ],
+          "answer": 3,
+          "stem": "在 Nolan 等（2009）的节电研究中，住户认为「加入你的邻居」这条信息最不可能影响自己。实际情况如何？",
+          "options": [
+            "这条信息对住户用电量没有影响",
+            "这条信息让之后几个月的用电量上升",
+            "这条信息的节电效果比其他四条都弱",
+            "这条信息最能降低用电量"
+          ],
+          "how": [
+            "线索是住户认为「最不可能影响自己」，这是自述。",
+            "实际上邻居规范最能降低用电，影响持续数月，所以选 D。",
+            "不能把自述的不受影响当成实际没有影响。"
+          ]
+        },
+        {
+          "stemEn": "Hallsworth et al. (2016) wrote to the top 20% of prescribing GP practices, telling them that they prescribed more than 80% of peers. What was the result?",
+          "optionsEn": [
+            "Prescribing fell by 3.3% over six months",
+            "Prescribing fell by 33% over six weeks",
+            "Prescribing rose by 3.3% over six months",
+            "Prescribing did not change over six months"
+          ],
+          "answer": 0,
+          "stem": "Hallsworth 等（2016）致信处方率最高的 20% 全科诊所，告诉它们处方高于 80% 的同行。结果如何？",
+          "options": [
+            "六个月内处方率下降 3.3%",
+            "六周内处方率下降 33%",
+            "六个月内处方率上升 3.3%",
+            "六个月内处方率没有变化"
+          ],
+          "how": [
+            "题干问「处方率最高的 20%」收到同行比较后的结果。",
+            "同行比较后，6 个月处方率下降 3.3%，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Five middle schools first measure real norms, then publicise that 9 out of 10 peers do not bully. Which description fits this study and its findings?",
+          "optionsEn": [
+            "Nolan et al.: self-reported bullying and pro-bullying attitudes rose, by about 17%–25%",
+            "Perkins et al.: self-reported bullying and pro-bullying attitudes fell, by about 17%–25%",
+            "Martin: self-reported bullying fell, because a legal threat replaced the school's posters",
+            "Perkins et al.: bullying stayed the same, as students did not notice the school's posters"
+          ],
+          "answer": 1,
+          "stem": "五所初中先测量真实规范，再宣传 10 个同伴中有 9 个不欺凌。哪项描述符合这项研究及其发现？",
+          "options": [
+            "Nolan 等：自陈欺凌和支持欺凌的态度上升，幅度约 17%–25%",
+            "Perkins 等：自陈欺凌和支持欺凌的态度下降，幅度约 17%–25%",
+            "Martin：自陈欺凌下降，因为法律威胁取代了学校的海报",
+            "Perkins 等：欺凌没有变化，因为学生没有注意到学校的海报"
+          ],
+          "how": [
+            "线索是「五所初中」和「10 个同伴中有 9 个不欺凌」。",
+            "这是 Perkins 等的研究，相关指标都下降约 17%–25%，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A city council wants to copy one successful norm message everywhere, unchanged. What would Nyborg et al.'s point suggest?",
+          "optionsEn": [
+            "There is a ready-to-use toolbox, as all norm messages work in the same way everywhere",
+            "There is no ready-to-use toolbox; mechanisms and relevant 'others' differ by context",
+            "There is no effect of norms in large-scale problems, so the council should try banning",
+            "There is one best reference group, namely all of the people in the entire country"
+          ],
+          "answer": 1,
+          "stem": "市议会想把一条成功的规范信息原样复制到各处。Nyborg 等的观点提示什么？",
+          "options": [
+            "有现成工具箱，所有规范信息在各处都同样起作用",
+            "没有现成工具箱；机制和相关的「他人」因情境而异",
+            "规范对大规模问题没有效果，所以议会应尝试禁令",
+            "只有一个最佳参照群体，那就是全国所有的人"
+          ],
+          "how": [
+            "线索是「原样复制到各处」。",
+            "机制不清、他人常未定义、情境差异大，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "参照群体越具体越有效（68 → 83%）；人们说不受影响，不等于实际没受影响。"
+    },
+    {
+      "id": "L3-P15",
+      "title": "规范 × 社会认同",
+      "titleEn": "Norms × social identity",
+      "conceptIds": [
+        "L3-C22"
+      ],
+      "kp": "Terry 与 Hogg 回收研究测量朋友或同伴的回收规范、对该群体的认同和未来两周的回收意图。规范高时意图上升，最大增幅出现在高规范加高认同。测的是意图不是实际行为；课件年份有 1996 和 1999 两种标注。",
+      "howTo": "看两个条件：这个群体的规范强吗？这个人认同这个群体吗？两者都高，影响最大。陌生群体的多数不一定有用。结果说成「实际回收」要警惕，这里测的是意图。",
+      "items": [
+        {
+          "stemEn": "In the Terry and Hogg recycling study, when was the increase in recycling intention greatest?",
+          "optionsEn": [
+            "When the group norm was high and identification was low",
+            "When the group norm was low and identification was high",
+            "When the group norm was low and identification was low",
+            "When the group norm was high and identification was high"
+          ],
+          "answer": 3,
+          "stem": "在 Terry 和 Hogg 的回收研究中，回收意图什么时候增幅最大？",
+          "options": [
+            "群体规范高，但认同低时",
+            "群体规范低，但认同高时",
+            "群体规范低，且认同低时",
+            "群体规范高，且认同高时"
+          ],
+          "how": [
+            "题干问「增幅最大」的条件。",
+            "最大增幅出现在高规范加高认同，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A university wants students to sign up for a volunteering day. Which approach is most likely to succeed, according to this research?",
+          "optionsEn": [
+            "Showing that distant strangers from another country usually sign up",
+            "Offering a general statement that volunteering is good for the world",
+            "Showing that fellow students they strongly identify with usually sign up",
+            "Presenting a rule that only applies to students who have signed up"
+          ],
+          "answer": 2,
+          "stem": "一所大学希望学生报名参加志愿日。按这项研究，哪种做法最可能成功？",
+          "options": [
+            "展示另一个国家的陌生人通常都会报名",
+            "发布一条笼统的说法：志愿服务对世界有益",
+            "展示他们高度认同的同学们通常都会报名",
+            "呈现一条只适用于已报名学生的规定"
+          ],
+          "how": [
+            "线索是要促成「报名」，按研究要找高规范加高认同。",
+            "规范来自他们认同的同学，最像「我们的规范」，所以选 C。",
+            "A 的群体对他们并不重要，影响较弱。"
+          ]
+        },
+        {
+          "stemEn": "A student says, 'Whatever most people do, I will follow.' Which correction fits the social identity approach?",
+          "optionsEn": [
+            "Norms are equally strong whichever group the majority comes from",
+            "Norms have no effect once a person has formed a personal attitude",
+            "Norms are stronger when they come from a group that one dislikes",
+            "Norms are stronger when they come from a group experienced as 'us'"
+          ],
+          "answer": 3,
+          "stem": "一名学生说：「多数人做什么，我就跟着做。」按社会认同视角，应当如何纠正？",
+          "options": [
+            "无论多数来自哪个群体，规范都同样强",
+            "一个人形成个人态度后，规范就不再有效",
+            "规范来自自己不喜欢的群体时更强",
+            "规范来自被体验为「我们」的群体时更强"
+          ],
+          "how": [
+            "线索是「多数人做什么」，没有问这些人是谁。",
+            "不是任何多数都有效，要看是否来自自己在意的「我们」，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A student writes, 'Terry and Hogg observed that strong norms made people recycle more.' What is wrong with this sentence?",
+          "optionsEn": [
+            "The study measured attitudes about recycling among strangers, not intentions among friends",
+            "The study measured intention to recycle over the next two weeks, not observed recycling",
+            "The study found that strong norms reduced recycling intentions among high identifiers",
+            "The study manipulated participants' identification with a group formed by arbitrary labels"
+          ],
+          "answer": 1,
+          "stem": "一名学生写道：「Terry 和 Hogg 观察到强规范使人回收得更多。」这句话错在哪里？",
+          "options": [
+            "研究测量的是陌生人对回收的态度，不是朋友间的意图",
+            "研究测量的是未来两周的回收意图，不是观察到的回收行为",
+            "研究发现强规范降低了高认同者的回收意图",
+            "研究操纵了参与者对随意标签所组群体的认同"
+          ],
+          "how": [
+            "线索是「观察到」和「回收得更多」，这把意图说成了行为。",
+            "研究测的是未来两周的回收意图，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "高规范 × 高认同 → 意图最强；关键是「我们的规范」，而且测的是意图。"
+    },
+    {
+      "id": "L3-P16",
+      "title": "干预伦理与影响的道德中立性",
+      "titleEn": "Ethical interventions; moral neutrality of influence",
+      "conceptIds": [
+        "L3-C23",
+        "L3-C24"
+      ],
+      "kp": "好的干预要真正有益、信息准确、透明、可退出、保护隐私，并测真实行为和意外后果；不能代替解决贫困等结构问题。影响机制道德中立：同样机制可促进回收，也可助长排斥、邪教和错误信息。护栏：准确、多元、领导问责、个人 agency。",
+      "howTo": "伦理题选准确、透明、可退出、测实际行为；有效不等于合伦理。看到邪教或错误信息，选规范和身份被滥用，不选「群体让人变坏」。Jonestown 说成涉及胁迫的集体死亡。",
+      "items": [
+        {
+          "stemEn": "Which feature of a behavioural intervention raises the clearest ethical concern?",
+          "optionsEn": [
+            "It lets people opt out at low cost if they wish to do so",
+            "It uses a made-up majority figure to get people to comply",
+            "It measures actual behaviour as well as stated intention",
+            "It uses a behaviourally specific and accurate message"
+          ],
+          "answer": 1,
+          "stem": "行为干预的哪个特点引发最明显的伦理问题？",
+          "options": [
+            "让人们可以低成本地选择退出",
+            "用编造的多数数字让人们服从",
+            "既测量实际行为，也测量表达的意图",
+            "使用行为具体且准确的信息"
+          ],
+          "how": [
+            "题干问引发「伦理问题」的特点。",
+            "护栏第一条就是准确，不用编造的规范换取顺从，所以选 B。",
+            "其余三项都是干预清单里推荐的做法。"
+          ]
+        },
+        {
+          "stemEn": "A welfare service sends reminder messages to people who miss appointments because they cannot afford transport. Attendance stays low. What is the best interpretation?",
+          "optionsEn": [
+            "People must be lazy, because reminder nudges work for anyone who is motivated",
+            "The reminder failed because it did not use enough shame to motivate people",
+            "The solution is to punish people who miss any of their booked appointments",
+            "A structural barrier remains, and nudges cannot replace access to resources"
+          ],
+          "answer": 3,
+          "stem": "一家福利机构向因付不起交通费而错过预约的人发送提醒信息，出勤率仍然很低。最好的解释是什么？",
+          "options": [
+            "这些人一定很懒，因为提醒对有动机的人都有效",
+            "提醒失败是因为羞耻不够，没能激励人们",
+            "解决办法是惩罚错过任何预约的人",
+            "结构性障碍仍在，助推代替不了获得资源的途径"
+          ],
+          "how": [
+            "线索是「付不起交通费」，问题不在于忘记。",
+            "资源障碍不应解释为个人懒惰，助推也替代不了解决结构问题，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "What does it mean to say that the psychology of influence is morally neutral?",
+          "optionsEn": [
+            "The same mechanisms can promote cooperation or support exclusion and harm",
+            "The same mechanisms always end up in harm, so they should be avoided",
+            "The mechanisms work only for good aims, such as recycling and health",
+            "The mechanisms have no real effect on people's moral judgement at all"
+          ],
+          "answer": 0,
+          "stem": "说影响的心理机制是道德中立的（morally neutral），是什么意思？",
+          "options": [
+            "同样的机制既能促进合作，也能助长排斥和伤害",
+            "同样的机制最终总会造成伤害，所以应该避免",
+            "这些机制只对回收和健康等良好目标起作用",
+            "这些机制对人们的道德判断完全没有实际影响"
+          ],
+          "how": [
+            "题干问「道德中立」的含义。",
+            "机制不变，结果取决于用途，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Which description of Jonestown is most accurate according to the lecture?",
+          "optionsEn": [
+            "A mass death involving coercion, shaped by leadership, identity, isolation and punished dissent",
+            "A purely voluntary mass suicide by individuals who had each come to the same decision alone",
+            "A case showing that joining any group automatically makes its members into bad people",
+            "A case of a small misunderstanding caused by false information from people outside the group"
+          ],
+          "answer": 0,
+          "stem": "按本讲，对 Jonestown 最准确的描述是什么？",
+          "options": [
+            "涉及胁迫的集体死亡，由领导、身份、隔绝和惩罚异议共同塑造",
+            "纯属自愿的集体自杀，每个人都独自作出了相同的决定",
+            "说明加入任何群体都会自动让成员变成坏人",
+            "由群体外部虚假信息造成的一场小误会"
+          ],
+          "how": [
+            "题干要对「Jonestown」的「最准确」描述。",
+            "事件存在强迫，更准确的说法是涉及胁迫的集体死亡，所以选 A。",
+            "B 和 C 都是笔记提醒不能简化的说法。"
+          ]
+        },
+        {
+          "stemEn": "A group's leader isolates members from other views and tolerates exclusion of outsiders. Which guardrail addresses this most directly?",
+          "optionsEn": [
+            "Stronger shared identity, so that members feel more loyalty to the leader",
+            "Diverse information and leaders held accountable for challenging harmful norms",
+            "Stricter punishment for dissent, so that the group's norms remain clearly in place",
+            "More repetition of the group's own claims, so that its norms feel familiar"
+          ],
+          "answer": 1,
+          "stem": "一个群体的领导者让成员与其他观点隔绝，并容忍对外人的排斥。哪种护栏最直接地解决这个问题？",
+          "options": [
+            "增强共同身份，让成员对领导者更加忠诚",
+            "多元信息，并要求领导者负责挑战有害规范",
+            "更严厉地惩罚异议，让群体规范保持明确",
+            "更多重复群体自己的说法，让其规范显得熟悉"
+          ],
+          "how": [
+            "线索是「与其他观点隔绝」和「容忍」排斥。",
+            "护栏包括多元信息和领导问责，所以选 B。",
+            "其余三项都会加强问题，而不是解决问题。"
+          ]
+        }
+      ],
+      "recap": "机制本身不善不恶，结果取决于用途；有效不等于合伦理，助推替代不了结构改变。"
+    }
+  ]
+}

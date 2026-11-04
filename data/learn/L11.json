@@ -1,0 +1,1561 @@
+{
+  "lectureId": 11,
+  "points": [
+    {
+      "id": "L11-P01",
+      "title": "执行功能：领域通用，差则更冲动",
+      "titleEn": "Executive functions: domain-general; links to impulsivity",
+      "conceptIds": [
+        "L11-C01",
+        "L11-C02"
+      ],
+      "kp": "执行功能（executive functions, EF）是计划、追求目标和抵抗分心的领域通用（domain-general）认知过程，通常与额叶相关，也用于情绪调节和换位思考。EF 越差，冲动性和反社会性越高。",
+      "howTo": "看到「几乎所有情境都起作用」选 domain-general，「只在某类情境起作用」是 domain-specific。相关方向记负相关：EF 差 → 更冲动、更反社会。相关不等于诊断。",
+      "items": [
+        {
+          "stemEn": "Executive functions are called domain-general because they:",
+          "optionsEn": [
+            "Operate only during laboratory cognitive tasks",
+            "Are used across almost all situations, from studying to social interaction",
+            "Are the same thing as personality traits such as extraversion",
+            "Are found in one isolated brain region"
+          ],
+          "answer": 1,
+          "stem": "执行功能被称为领域通用（domain-general），是因为它们：",
+          "options": [
+            "只在实验室认知任务中起作用",
+            "几乎在所有情境中都被使用，从学习到社交互动",
+            "等同于外向性这样的人格特质",
+            "位于一个彼此隔绝的脑区"
+          ],
+          "how": [
+            "关键词是「领域通用」。",
+            "领域通用指跨情境起作用，所以选 B。",
+            "不要理解成只管认知任务；课堂也说不能把它们当成隔绝的脑按钮。"
+          ]
+        },
+        {
+          "stemEn": "Priya stays calm in an argument by taking the other person's point of view, and also plans her study week carefully. Which statement best fits the lecture?",
+          "optionsEn": [
+            "Executive functions support both, because they are used in emotion regulation and perspective-taking as well as planning",
+            "Only the study plan involves executive function, because arguments are social and depend on personality rather than on control processes",
+            "Only the argument involves executive function, because planning is automatic",
+            "Neither involves executive function, because both are personality traits"
+          ],
+          "answer": 0,
+          "stem": "Priya 在争吵中通过站在对方角度保持冷静，也会仔细规划一周的学习。哪一项最符合本讲？",
+          "options": [
+            "执行功能支持这两件事，因为它既用于计划，也用于情绪调节和换位思考",
+            "只有学习计划涉及执行功能，因为争吵属于社交，取决于人格而不是控制过程",
+            "只有争吵涉及执行功能，因为计划是自动的",
+            "两者都不涉及执行功能，因为它们都是人格特质"
+          ],
+          "how": [
+            "线索是「站在对方角度保持冷静」和「规划学习」两类不同的活动。",
+            "EF 领域通用，同时用于这些具体领域，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Which pattern matches the lecture's account of executive function and antisociality?",
+          "optionsEn": [
+            "Better executive function goes with higher impulsivity",
+            "Executive function has no link with secondary psychopathic traits",
+            "Poorer executive function goes with higher impulsivity and antisociality",
+            "One low task score can diagnose an antisocial personality"
+          ],
+          "answer": 2,
+          "stem": "哪种模式符合本讲对执行功能和反社会性的描述？",
+          "options": [
+            "执行功能越好，冲动性越高",
+            "执行功能与继发型 psychopathy 特质没有关联",
+            "执行功能越差，冲动性和反社会性越高",
+            "一次低任务分数可以诊断反社会人格"
+          ],
+          "how": [
+            "题干问 EF 与反社会性的相关方向。",
+            "二者负相关：EF 差时冲动和反社会性更高，所以选 C。",
+            "这只是相关，一次任务分数不能用来诊断。"
+          ]
+        }
+      ],
+      "recap": "EF 跨情境通用（domain-general）；EF 差 → 更冲动、更反社会（负相关）。"
+    },
+    {
+      "id": "L11-P02",
+      "title": "Unity and Diversity 与三种核心执行功能",
+      "titleEn": "Unity and diversity; shifting, updating, inhibition",
+      "conceptIds": [
+        "L11-C04",
+        "L11-C05"
+      ],
+      "kp": "Unity：不同 EF 任务表现彼此相关，可以谈整体 EF。Diversity：有些任务相关更高，形成可区分成分。核心成分是切换（shifting）、更新（updating）、抑制（inhibition），提出者认为清单不一定完整。",
+      "howTo": "看到「所有任务都相关」选 unity，「某些任务彼此更相关」选 diversity。EF 清单只认三个；冲动性、定位（localising）、注意广度、外向性都不是。",
+      "items": [
+        {
+          "stemEn": "Which of the following is NOT one of the three executive functions emphasised in this lecture?",
+          "optionsEn": [
+            "Shifting",
+            "Updating",
+            "Localising",
+            "Inhibition"
+          ],
+          "answer": 2,
+          "stem": "下列哪一项不是本讲强调的三种执行功能之一？",
+          "options": [
+            "切换（Shifting）",
+            "更新（Updating）",
+            "定位（Localising）",
+            "抑制（Inhibition）"
+          ],
+          "how": [
+            "题干问三种核心 EF 之外的一项。",
+            "三种是切换、更新、抑制，定位只是 UFOV 的任务成分，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Students who do well on one executive function task tend to do well on other executive function tasks. This finding reflects:",
+          "optionsEn": [
+            "Unity",
+            "Diversity",
+            "Far transfer",
+            "Switch cost"
+          ],
+          "answer": 0,
+          "stem": "在一项执行功能任务上表现好的学生，往往在其他执行功能任务上也表现好。这一发现体现了：",
+          "options": [
+            "统一性（Unity）",
+            "多样性（Diversity）",
+            "远迁移（Far transfer）",
+            "切换代价（Switch cost）"
+          ],
+          "how": [
+            "线索是一种任务好，「其他任务」也好，即任务之间普遍相关。",
+            "这是统一性，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Two different shifting tasks correlate more strongly with each other than either does with an inhibition task. A student concludes that shifting and inhibition must be completely unrelated. What is wrong with this?",
+          "optionsEn": [
+            "Shifting and inhibition are the same process",
+            "Diversity means that components are distinguishable, not that they are unrelated",
+            "The result shows that executive function is only one process, with no distinguishable components",
+            "Correlations cannot be used to study executive function"
+          ],
+          "answer": 1,
+          "stem": "两种不同的切换任务彼此之间的相关，强于它们各自与抑制任务的相关。一位学生得出结论：切换和抑制一定完全无关。这错在哪里？",
+          "options": [
+            "切换和抑制是同一个过程",
+            "多样性指各成分可区分，不是指它们互不相关",
+            "这一结果表明执行功能只有一种，没有可区分的成分",
+            "相关不能用来研究执行功能"
+          ],
+          "how": [
+            "线索是相关「更强」，学生却推成「完全无关」。",
+            "更强只说明可区分，成分之间仍相关，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Is executive function one thing or many, according to the unity and diversity model?",
+          "optionsEn": [
+            "One thing only, because all tasks are identical",
+            "Many things only, because the components never overlap in any task or person",
+            "Neither, because executive function cannot be measured",
+            "Both: there is something shared, as well as distinguishable components"
+          ],
+          "answer": 3,
+          "stem": "根据 unity and diversity 模型，执行功能是一个还是多个？",
+          "options": [
+            "只有一个，因为所有任务都相同",
+            "只有多个，因为各成分在任何任务或任何人身上都从不重叠",
+            "都不是，因为执行功能无法测量",
+            "两者都是：既有共同部分，也有可区分的成分"
+          ],
+          "how": [
+            "题干把「一个还是多个」摆成二选一。",
+            "模型的回答是两者都有，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "Unity = 任务普遍相关，Diversity = 成分可区分；三核心：切换、更新、抑制。"
+    },
+    {
+      "id": "L11-P03",
+      "title": "Shifting 与切换代价",
+      "titleEn": "Shifting and switch cost",
+      "conceptIds": [
+        "L11-C06"
+      ],
+      "kp": "切换（shifting）是改变任务或心理定势的能力。代表任务：同一数字有时判断奇偶，有时判断大于或小于 5。切换试次比重复试次更慢、更不准，这就是切换代价（switch cost），人人都有，差异在大小。",
+      "howTo": "看到规则来回换就选 shifting。切换代价比较的是切换试次和重复试次。「某人没有代价」的说法排除，小代价只表示此任务中切换较高效。",
+      "items": [
+        {
+          "stemEn": "Participants see a digit on each trial. Sometimes they judge whether it is odd or even, and sometimes whether it is above or below 5. The main executive function tapped is:",
+          "optionsEn": [
+            "Updating",
+            "Inhibition",
+            "Crystallised intelligence",
+            "Shifting"
+          ],
+          "answer": 3,
+          "stem": "参与者每个试次看到一个数字，有时判断奇偶，有时判断大于还是小于 5。主要涉及的执行功能是：",
+          "options": [
+            "更新（Updating）",
+            "抑制（Inhibition）",
+            "晶体智力（Crystallised intelligence）",
+            "切换（Shifting）"
+          ],
+          "how": [
+            "线索是「有时判断奇偶，有时判断大小」，规则在变。",
+            "改变当前任务规则就是切换，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "How is switch cost calculated in a task-switching experiment?",
+          "optionsEn": [
+            "By comparing switch trials with repeat trials",
+            "By comparing incongruent trials with congruent trials",
+            "By comparing trials with and without a mask",
+            "By comparing scores from one week to the next"
+          ],
+          "answer": 0,
+          "stem": "在任务切换实验中，切换代价（switch cost）是怎样得出的？",
+          "options": [
+            "比较切换试次和重复试次",
+            "比较不一致试次和一致试次",
+            "比较有遮蔽和无遮蔽的试次",
+            "比较相隔一周的两次分数"
+          ],
+          "how": [
+            "题干问切换代价怎么算。",
+            "切换试次比重复试次更慢、更不准的部分就是代价，所以选 A。",
+            "一致与不一致的比较属于 Stroop。"
+          ]
+        },
+        {
+          "stemEn": "Which statement about switch cost is correct?",
+          "optionsEn": [
+            "Only people with poor executive function have one",
+            "People with good executive function have none",
+            "Almost everyone has one, and individuals differ in its size",
+            "It disappears completely once a person is older"
+          ],
+          "answer": 2,
+          "stem": "关于切换代价，哪一项是正确的？",
+          "options": [
+            "只有执行功能差的人才有",
+            "执行功能好的人没有",
+            "几乎人人都有，个体差异在于大小",
+            "人上了年纪后它就完全消失"
+          ],
+          "how": [
+            "题干问切换代价的普遍性。",
+            "切换代价普遍存在，差异只在大小，所以选 C。"
+          ]
+        }
+      ],
+      "recap": "规则来回换 → Shifting；切换慢于重复 = 切换代价，人人都有，差在大小。"
+    },
+    {
+      "id": "L11-P04",
+      "title": "Updating 与 n-back",
+      "titleEn": "Updating working memory; n-back",
+      "conceptIds": [
+        "L11-C07"
+      ],
+      "kp": "更新（updating）是监控并更新工作记忆内容，关键是主动操作，不只是被动储存。n-back 要求判断当前项目是否与 n 个之前的项目相同，n 越大越难。complex span 任务一般也归入 updating。",
+      "howTo": "看到「不断替换、与 n 步前比较、边记边运算」选 updating。只原样记住一串内容不算。n-back 比较的是 n 步之前，不是紧挨的前一项。",
+      "items": [
+        {
+          "stemEn": "Which task most clearly requires updating rather than passive storage?",
+          "optionsEn": [
+            "Repeating a phone number straight back once, exactly as it was heard",
+            "Adding the first three digits of a list and subtracting the last three",
+            "Naming the ink colour of a colour word",
+            "Rating how often you forget appointments"
+          ],
+          "answer": 1,
+          "stem": "哪项任务最明显地需要更新（updating），而不是被动储存？",
+          "options": [
+            "听完电话号码后，一字不差地原样复述一次",
+            "把一串数字的前三个相加，再减去后三个",
+            "说出颜色词的墨水颜色",
+            "评定自己多常忘记约会"
+          ],
+          "how": [
+            "题干要求「更新」而非「被动储存」。",
+            "边记边加减是主动操作工作记忆内容，所以选 B。",
+            "原样复述只是被动记住。"
+          ]
+        },
+        {
+          "stemEn": "In a 2-back task, the sequence is K, M, K, T, M, T. At which position does a match first occur?",
+          "optionsEn": [
+            "Position 2",
+            "Position 4",
+            "Position 3",
+            "Position 6"
+          ],
+          "answer": 2,
+          "stem": "在 2-back 任务中，序列是 K、M、K、T、M、T。第一次匹配出现在第几个位置？",
+          "options": [
+            "第 2 个",
+            "第 4 个",
+            "第 3 个",
+            "第 6 个"
+          ],
+          "how": [
+            "线索是「2-back」，每一项都与两步之前的项目比较。",
+            "第 3 个 K 与第 1 个 K 相同，是第一次匹配，所以选 C。",
+            "第 6 个 T 也与第 4 个相同，但题干问第一次。"
+          ]
+        },
+        {
+          "stemEn": "Why does a 3-back task generally feel harder than a 1-back task?",
+          "optionsEn": [
+            "Because the items in a 3-back are harder to perceive",
+            "Because it requires inhibiting word reading",
+            "Because it measures a person's intelligence directly",
+            "Because more items must be held and continually updated"
+          ],
+          "answer": 3,
+          "stem": "为什么 3-back 任务通常比 1-back 任务更难？",
+          "options": [
+            "因为 3-back 的项目更难被看清",
+            "因为它需要抑制读词",
+            "因为它直接测量人的智力",
+            "因为要保持和持续更新更多项目"
+          ],
+          "how": [
+            "题干比较 3-back 和 1-back。",
+            "n 越大，要保持并不断更新的内容越多，所以选 D。",
+            "n 只是任务难度，不是智力分数。"
+          ]
+        }
+      ],
+      "recap": "Updating = 主动更新工作记忆，不是被动记住；n-back 与 n 步前比较，n 越大越难。"
+    },
+    {
+      "id": "L11-P05",
+      "title": "Inhibition 与 Stroop",
+      "titleEn": "Inhibition of prepotent responses; Stroop",
+      "conceptIds": [
+        "L11-C08"
+      ],
+      "kp": "抑制（inhibition）是压住优势反应（prepotent responses），即非常自动的反应。Stroop 任务要说出墨水颜色、忽略词义；读词太自动，所以冲突时更慢、更易错。干扰人人都有，差异在大小。",
+      "howTo": "看到「压住自动反应、忽略干扰」选 inhibition。Stroop 的关键是读词自动化，所以不认识这种文字的人干扰小，并不代表抑制好。抑制是 EF，冲动性不是。",
+      "items": [
+        {
+          "stemEn": "What is a prepotent response?",
+          "optionsEn": [
+            "A response that is very natural and automatically triggered",
+            "A response that takes a long time to plan",
+            "A response that is produced only under stress",
+            "A response that has been reverse-scored"
+          ],
+          "answer": 0,
+          "stem": "什么是优势反应（prepotent response）？",
+          "options": [
+            "一种非常自然、会被自动触发的反应",
+            "一种需要很长时间计划的反应",
+            "一种只在压力下才产生的反应",
+            "一种被反向计分的反应"
+          ],
+          "how": [
+            "题干问「优势反应」的定义。",
+            "它指很自然、自动、容易被触发的反应，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "You keep reading your notes while a friend chats loudly beside you, and you try hard not to listen. The main executive function being used is:",
+          "optionsEn": [
+            "Updating",
+            "Inhibition",
+            "Shifting",
+            "Crystallised intelligence"
+          ],
+          "answer": 1,
+          "stem": "朋友在旁边大声聊天，你继续看笔记，努力不去听。主要用到的执行功能是：",
+          "options": [
+            "更新（Updating）",
+            "抑制（Inhibition）",
+            "切换（Shifting）",
+            "晶体智力（Crystallised intelligence）"
+          ],
+          "how": [
+            "线索是「努力不去听」，要压住被谈话吸引的反应。",
+            "忽略显著但与目标无关的信息是抑制，所以选 B。",
+            "若在学习和聊天之间来回，才主要是切换。"
+          ]
+        },
+        {
+          "stemEn": "In a Stroop task, Hana (fluent in English) shows a much larger interference effect than Wei (who cannot read English) when naming the ink colours of English words. What is the best interpretation?",
+          "optionsEn": [
+            "Wei has far better inhibition than Hana, since he shows almost no interference from the words",
+            "Hana has a deficit that most people do not have",
+            "Reading is more automatic for Hana, so there is a stronger response to overcome",
+            "Wei is showing a switch cost rather than interference"
+          ],
+          "answer": 2,
+          "stem": "在英语单词的 Stroop 任务中说墨水颜色时，英语流利的 Hana 的干扰效应比不识英语的 Wei 大得多。最好的解释是什么？",
+          "options": [
+            "Wei 的抑制能力远好于 Hana，因为他几乎不受这些词的干扰",
+            "Hana 有大多数人都没有的缺陷",
+            "对 Hana 来说读词更自动，所以需要压住的反应更强",
+            "Wei 表现的是切换代价而不是干扰"
+          ],
+          "how": [
+            "线索是「英语流利」和「不识英语」。",
+            "读词越自动冲突越强，差异来自读词而不是抑制，所以选 C。"
+          ]
+        }
+      ],
+      "recap": "Inhibition = 压住自动反应；Stroop 干扰人人有，因为读词太自动，差在大小。"
+    },
+    {
+      "id": "L11-P06",
+      "title": "多任务其实是切换；自动化",
+      "titleEn": "Multitasking as rapid switching; automaticity",
+      "conceptIds": [
+        "L11-C09",
+        "L11-C34"
+      ],
+      "kp": "人在同一时刻基本只能做一件事，除非任务高度自动化；所谓多任务多是快速切换，并夹带抑制，每项表现通常都变差。熟练练习让活动更自动、更抗干扰，但技能编码内隐，难以说清，也不是 EF 整体消失。",
+      "howTo": "说「擅长多任务没有代价」排除；例外条件只有「高度自动化」。自动化下降的是这项活动对控制的需求，不是 EF 消失；练熟后讲不清（骑车）是正常现象。",
+      "items": [
+        {
+          "stemEn": "A student who chats with a friend while studying is, according to the lecturer, mainly engaged in:",
+          "optionsEn": [
+            "Rapid shifting, with some inhibition",
+            "Doing both at full capacity at the same time",
+            "Updating, with no other functions involved",
+            "A task that has no performance costs"
+          ],
+          "answer": 0,
+          "stem": "按老师的说法，一边和朋友聊天一边学习的学生主要在进行：",
+          "options": [
+            "快速切换，并夹带一些抑制",
+            "同时以全部能力做两件事",
+            "只有更新，不涉及其他功能",
+            "一项没有表现代价的任务"
+          ],
+          "how": [
+            "线索是「一边聊天一边学习」。",
+            "老师认为这主要是快速切换，也夹带抑制，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Under what condition can two activities be carried out at the same moment with little cost?",
+          "optionsEn": [
+            "When a person says they are a good multitasker",
+            "When both activities are equally interesting",
+            "When executive function scores are above average",
+            "When one of the activities has become highly automatic"
+          ],
+          "answer": 3,
+          "stem": "在什么条件下，两项活动可以同时进行且代价较小？",
+          "options": [
+            "当一个人自称擅长多任务时",
+            "当两项活动同样有趣时",
+            "当执行功能分数高于平均水平时",
+            "当其中一项活动已高度自动化时"
+          ],
+          "how": [
+            "题干问多任务代价小的条件。",
+            "老师给出的例外是任务高度自动化，所以选 D。",
+            "自称擅长不算证据，数据显示同时做时每项通常都更差。"
+          ]
+        },
+        {
+          "stemEn": "An expert cyclist cannot explain exactly how she balances. Which statement best explains this?",
+          "optionsEn": [
+            "She has lost her executive functions",
+            "With practice, the skill became automatic and its coding implicit and non-verbal",
+            "She has a deficit in cognitive empathy",
+            "She never really learned how to ride, and has only been relying on her luck so far"
+          ],
+          "answer": 1,
+          "stem": "一位骑车高手无法准确说明自己如何保持平衡。哪一项最能解释这一点？",
+          "options": [
+            "她已经失去了执行功能",
+            "经过练习，这项技能变得自动化，编码也变得内隐、非语言",
+            "她有认知共情缺陷",
+            "她其实从未真正学会骑车，一直只是靠运气"
+          ],
+          "how": [
+            "线索是「高手」却「无法说明」。",
+            "熟练后编码内隐、非语言，因此很难讲清，所以选 B。",
+            "自动化只是这项活动需要的控制减少，不是 EF 消失。"
+          ]
+        }
+      ],
+      "recap": "多任务 ≈ 快速切换，例外是高度自动化；自动化 ≠ EF 消失，练熟了反而讲不清。"
+    },
+    {
+      "id": "L11-P07",
+      "title": "能力 vs 倾向；衰老",
+      "titleEn": "Ability vs propensity; ageing",
+      "conceptIds": [
+        "L11-C03",
+        "L11-C10"
+      ],
+      "kp": "EF 差异包括能力（ability）和倾向（propensity）。实验室去除干扰，更多反映最大能力；现实有干扰和强烈情绪。流体智力（fluid）易受衰老影响，晶体智力（crystallised）相对完好；平均下降不等于人人同速。",
+      "howTo": "「安静实验室高分但生活常走神」看能力 vs 倾向。「在线加工容量」是流体，「累积知识策略」是晶体。见「所有老人同等下降」排除，老人可用补偿策略。",
+      "items": [
+        {
+          "stemEn": "Researchers test executive function in a silent room with phones switched off. What does this kind of testing mainly reflect?",
+          "optionsEn": [
+            "A person's maximum ability under ideal conditions",
+            "How a person performs among everyday distractions",
+            "How often a person chooses to use their ability",
+            "A person's accumulated knowledge and skills"
+          ],
+          "answer": 0,
+          "stem": "研究者在手机关机的安静房间里测试执行功能。这种测试主要反映什么？",
+          "options": [
+            "理想条件下的最大能力",
+            "在日常干扰下的表现",
+            "一个人多常选择使用这种能力",
+            "一个人累积的知识和技能"
+          ],
+          "how": [
+            "线索是「安静房间」「手机关机」，干扰被清除了。",
+            "清除干扰是为了测到最佳表现，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Lucas scores highly on lab tasks but often loses focus at home because he leaves all his notifications on. His friend, with similar scores, turns them off and rarely slips. This difference is best explained by:",
+          "optionsEn": [
+            "Their fluid intelligence must be different",
+            "Differences in propensity and strategy use, not just ability",
+            "Only one of them has executive functions, while the other relies entirely on habit",
+            "Lab tasks have no relationship to anything"
+          ],
+          "answer": 1,
+          "stem": "Lucas 实验室任务得分高，但在家因为开着所有通知而常走神。他的朋友分数相近，却关掉通知，很少出错。这一差异最好的解释是：",
+          "options": [
+            "他们的流体智力一定不同",
+            "使用倾向和策略的差异，而不只是能力差异",
+            "只有其中一人有执行功能，另一人完全靠习惯",
+            "实验室任务与任何东西都无关"
+          ],
+          "how": [
+            "线索是「分数相近」，日常表现却不同。",
+            "能力相近时差异来自是否、何时调用及策略，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Which type of intelligence refers to online dynamic processing capacity and is more vulnerable to ageing?",
+          "optionsEn": [
+            "Crystallised intelligence",
+            "Cognitive empathy",
+            "Fluid intelligence",
+            "Propensity"
+          ],
+          "answer": 2,
+          "stem": "哪种智力指当下动态加工的在线容量，并且更容易受衰老影响？",
+          "options": [
+            "晶体智力（Crystallised intelligence）",
+            "认知共情（Cognitive empathy）",
+            "流体智力（Fluid intelligence）",
+            "倾向（Propensity）"
+          ],
+          "how": [
+            "线索是「在线容量」「更容易受衰老影响」。",
+            "这是流体智力，所以选 C。",
+            "晶体智力是一生累积的知识和策略，相对完好。"
+          ]
+        },
+        {
+          "stemEn": "Which statement about ageing and executive function best matches the lecture?",
+          "optionsEn": [
+            "All older adults decline at the same rate",
+            "Crystallised intelligence is the first to decline, while fluid intelligence is largely preserved",
+            "Older adults can never outperform younger adults",
+            "On average it declines, but rates differ and compensatory strategies can help"
+          ],
+          "answer": 3,
+          "stem": "关于衰老和执行功能，哪一项最符合本讲？",
+          "options": [
+            "所有老年人以相同速度下降",
+            "晶体智力最先下降，而流体智力大体保持完好",
+            "老年人永远不可能胜过年轻人",
+            "平均而言会下降，但速度因人而异，补偿策略也有帮助"
+          ],
+          "how": [
+            "题干问衰老的总体趋势。",
+            "平均下降但没有统一速度，有些老人更谨慎、更有动机，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "实验室 → 最大能力，生活 → 还看倾向与策略；流体易衰退，晶体相对完好。"
+    },
+    {
+      "id": "L11-P08",
+      "title": "认知失误、CFQ 与客观指标",
+      "titleEn": "Cognitive failures, the CFQ and objective correlates",
+      "conceptIds": [
+        "L11-C11",
+        "L11-C12",
+        "L11-C13",
+        "L11-C37",
+        "L11-C40"
+      ],
+      "kp": "人人都有认知失误，差异在频率。原版 CFQ 25 题，单因子，用 5 点量表评定过去 6 个月的频率。它与 EF 任务、SART 误按、注意相关脑区和事故风险相关。SART 平时按键，见到 3 不按。它不是诊断工具。",
+      "howTo": "CFQ 数字：25 题、6 个月、5 点。问的是频率，不是能力自评。SART 错误是「不该按时按了」（commission）。脑指标不要推成全脑都低；舌尖现象题不在新版。",
+      "items": [
+        {
+          "stemEn": "Which statement describes the original Cognitive Failures Questionnaire?",
+          "optionsEn": [
+            "89 items about the past week, rated yes or no",
+            "15 items about the past year, rated by a clinician",
+            "25 items about the past six months, rated for frequency",
+            "25 items about one's whole life, rated for severity"
+          ],
+          "answer": 2,
+          "stem": "哪一项描述了原版认知失误问卷（CFQ）？",
+          "options": [
+            "89 题，针对过去一周，回答是或否",
+            "15 题，针对过去一年，由临床医生评定",
+            "25 题，针对过去 6 个月，评定频率",
+            "25 题，针对一生，评定严重程度"
+          ],
+          "how": [
+            "题干问原版 CFQ 的格式。",
+            "它是 25 题、过去 6 个月、评定频率，所以选 C。",
+            "89 是 CFQ 2.0 的初始题库，15 是新版最终题数。"
+          ]
+        },
+        {
+          "stemEn": "In the Sustained Attention to Response Task (SART), digits appear in turn and participants press a key for each digit except 3. Which response is the key error linked to the CFQ?",
+          "optionsEn": [
+            "Pressing when a 3 appears",
+            "Failing to press for a digit other than 3",
+            "Responding slowly to a digit other than 3",
+            "Naming the ink colour of a digit"
+          ],
+          "answer": 0,
+          "stem": "在持续注意反应任务（SART）中，数字依次出现，除 3 以外每个数字都要按键。与 CFQ 相关的关键错误是哪种反应？",
+          "options": [
+            "数字 3 出现时按了键",
+            "3 以外的数字出现时没有按键",
+            "对 3 以外的数字反应较慢",
+            "说出数字的墨水颜色"
+          ],
+          "how": [
+            "线索是「除 3 以外」都按键。",
+            "关键错误是该停却按，即 commission errors，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A student says, 'Everyone forgets things, so cognitive failures tell us nothing about individual differences.' What is the best response?",
+          "optionsEn": [
+            "Correct, because everyone has exactly the same rate",
+            "Incorrect, because only a few people ever make them",
+            "Correct, because self-report has no validity at all and cannot detect differences between people",
+            "Incorrect, because people differ clearly and meaningfully in how often they occur"
+          ],
+          "answer": 3,
+          "stem": "一位学生说：「人人都会忘事，所以认知失误说明不了个体差异。」最好的回应是什么？",
+          "options": [
+            "正确，因为每个人的频率完全相同",
+            "不正确，因为只有少数人才会失误",
+            "正确，因为自我报告毫无效度，无法检测人与人之间的差异",
+            "不正确，因为失误频率存在清晰且有意义的个体差异"
+          ],
+          "how": [
+            "线索是学生把「人人都会」当成「没有差异」。",
+            "人人都有，但频率差异可靠，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "What did the lecturer add about the CFQ and the brain?",
+          "optionsEn": [
+            "High scorers have lower activity across the whole brain",
+            "High scorers show weaker responses in error-detection regions even after making an error",
+            "High scores are caused by poor eyesight and other low-level sensory problems",
+            "The CFQ has no relationship with any brain measure"
+          ],
+          "answer": 1,
+          "stem": "关于 CFQ 和大脑，老师补充了什么？",
+          "options": [
+            "高分者全脑活动都较低",
+            "高分者即使已经犯错，错误检测相关区域的反应也较弱",
+            "高分是由视力差等低层感觉问题造成的",
+            "CFQ 与任何脑指标都没有关系"
+          ],
+          "how": [
+            "题干问老师对脑指标的补充。",
+            "差异在错误检测机制，高分者犯错后这些区域激活较少，所以选 B。",
+            "课件没有给出全脑统一的高低方向。"
+          ]
+        },
+        {
+          "stemEn": "A word is on the tip of Amy's tongue, and she recalls it a moment later. According to the lecturer, which is correct?",
+          "optionsEn": [
+            "It is not a cognitive failure, because she eventually remembered it, so nothing was actually lost in the end",
+            "It is still a cognitive failure, and a related item on the original CFQ did not reach the new version",
+            "It is the central item of the final CFQ 2.0",
+            "It shows that Amy meets criteria for a memory disorder"
+          ],
+          "answer": 1,
+          "stem": "Amy 话到嘴边说不出（舌尖现象，tip-of-the-tongue），片刻后想起来了。根据老师的说法，哪一项正确？",
+          "options": [
+            "这不算认知失误，因为她最终想起来了，到头来什么也没有丢失",
+            "这仍算认知失误，原版 CFQ 的相关题目没有进入新版",
+            "这是最终版 CFQ 2.0 的核心题目",
+            "这说明 Amy 符合记忆障碍的标准"
+          ],
+          "how": [
+            "线索是「片刻后想起来了」，学生常以为这不算失误。",
+            "老师说仍算失误，但该题没有通过因素分析，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "CFQ：25 题、6 个月、频率；SART 见 3 还按 = commission；CFQ 不是诊断工具。"
+    },
+    {
+      "id": "L11-P09",
+      "title": "CFQ 的相关方向",
+      "titleEn": "Direction of CFQ correlations",
+      "conceptIds": [
+        "L11-C14",
+        "L11-C15"
+      ],
+      "kp": "CFQ 与抑郁、特质焦虑、倦怠、拖延、冲动、驾驶攻击、压力、反刍、情绪调节困难、情感共情正相关；与生活满意度、成功老化、重评、认知共情负相关。这些都是相关，不能推出因果。",
+      "howTo": "默认负面状态都正相关；四个负相关要单独背：生活满意度、成功老化、重评、认知共情。两种共情方向相反：认知低、情感高。看到「导致」要警惕。",
+      "items": [
+        {
+          "stemEn": "Which variable is NEGATIVELY correlated with CFQ scores?",
+          "optionsEn": [
+            "Burnout",
+            "Procrastination",
+            "Life satisfaction",
+            "Rumination"
+          ],
+          "answer": 2,
+          "stem": "哪个变量与 CFQ 分数负相关？",
+          "options": [
+            "倦怠（Burnout）",
+            "拖延（Procrastination）",
+            "生活满意度（Life satisfaction）",
+            "反刍（Rumination）"
+          ],
+          "how": [
+            "题干要找「负相关」的变量。",
+            "倦怠、拖延、反刍都是正相关，生活满意度才是负相关，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Someone with a very high CFQ score is most likely to report:",
+          "optionsEn": [
+            "More rumination and less reappraisal",
+            "Less rumination and more reappraisal",
+            "More reappraisal and more life satisfaction",
+            "Less rumination and fewer emotion regulation difficulties"
+          ],
+          "answer": 0,
+          "stem": "CFQ 分数很高的人最可能报告：",
+          "options": [
+            "更多反刍、更少重评",
+            "更少反刍、更多重评",
+            "更多重评、更高生活满意度",
+            "更少反刍、更少情绪调节困难"
+          ],
+          "how": [
+            "题干问 CFQ 高分者的情绪调节模式。",
+            "CFQ 与反刍正相关、与重评负相关，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Which pattern of empathy goes with higher CFQ scores?",
+          "optionsEn": [
+            "Higher cognitive and higher affective empathy",
+            "Lower cognitive and lower affective empathy",
+            "Higher cognitive and lower affective empathy",
+            "Lower cognitive and higher affective empathy"
+          ],
+          "answer": 3,
+          "stem": "哪种共情模式与较高的 CFQ 分数相伴？",
+          "options": [
+            "认知共情高、情感共情高",
+            "认知共情低、情感共情低",
+            "认知共情高、情感共情低",
+            "认知共情低、情感共情高"
+          ],
+          "how": [
+            "题干同时问两种共情。",
+            "CFQ 与认知共情负相关、与情感共情正相关，所以选 D。",
+            "Psychopathy 的模式不同，别混：那是情感共情低。"
+          ]
+        },
+        {
+          "stemEn": "A study finds that older adults with more cognitive failures report lower successful ageing. Which interpretation is most appropriate?",
+          "optionsEn": [
+            "Cognitive failures have been proven to cause poor ageing, since the failures came first in this study",
+            "The two are negatively correlated, and the direction of causation is not established",
+            "Poor ageing has been proven to cause cognitive failures",
+            "The two are positively correlated, because both are negative"
+          ],
+          "answer": 1,
+          "stem": "一项研究发现，认知失误较多的老年人报告的成功老化（successful ageing）较低。哪种解释最恰当？",
+          "options": [
+            "认知失误已被证明导致老化不佳，因为这项研究中失误在先",
+            "二者负相关，因果方向尚未确定",
+            "老化不佳已被证明导致认知失误",
+            "二者正相关，因为两者都是负面的"
+          ],
+          "how": [
+            "线索是「较多」对应「较低」，方向相反。",
+            "这是负相关，相关不能决定因果方向，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "负相关只记四个：生活满意度、成功老化、重评、认知共情；情感共情是正相关。"
+    },
+    {
+      "id": "L11-P10",
+      "title": "CFQ 2.0 开发：EFA、CFA 与单因子",
+      "titleEn": "CFQ 2.0 development: EFA, CFA, one factor",
+      "conceptIds": [
+        "L11-C16",
+        "L11-C17",
+        "L11-C18",
+        "L11-C19",
+        "L11-C36"
+      ],
+      "kp": "原版条目过时、结构不稳，于是新增 64 题合成 89 题题库。Study 1 的 EFA 得三个候选（15、11、5 题）。Study 2 的 CFA：一因子 CFI .943，三因子 .863，原版 .831；Study 3 重现。最终是 15 题单因子。",
+      "howTo": "探索结构是 EFA，检验模型是 CFA，新版两者都用。CFI 看 .90 参照，越高越好。最终答案永远是 15 题、一因子（注意疏漏/遗忘）；89 是题库，31 是陷阱。",
+      "items": [
+        {
+          "stemEn": "Why did the lecturer say the original CFQ needed updating?",
+          "optionsEn": [
+            "It had been shown to have no validity, as decades of studies had failed to support it",
+            "Its items were dated and its factor structure was hard to replicate",
+            "It had too many items about technology",
+            "Cognitive failures no longer occur in modern life"
+          ],
+          "answer": 1,
+          "stem": "老师为什么说原版 CFQ 需要更新？",
+          "options": [
+            "它已被证明没有效度，几十年的研究都不支持它",
+            "条目过时，且因子结构难以重复",
+            "它有太多关于科技的条目",
+            "现代生活中不再有认知失误"
+          ],
+          "how": [
+            "题干问更新的理由。",
+            "条目如报纸、信件已过时，因子结构也不稳定，所以选 B。",
+            "老师肯定原版的效度证据，只是它需要更新。"
+          ]
+        },
+        {
+          "stemEn": "A researcher collects responses to a large item pool and lets the statistics suggest how the items group, without specifying a model first. This is:",
+          "optionsEn": [
+            "Exploratory factor analysis",
+            "Confirmatory factor analysis",
+            "Test–retest reliability",
+            "Incremental validity"
+          ],
+          "answer": 0,
+          "stem": "研究者收集大量条目的回答，让统计结果提示条目如何分组，事先不指定模型。这是：",
+          "options": [
+            "探索性因子分析（Exploratory factor analysis）",
+            "验证性因子分析（Confirmatory factor analysis）",
+            "重测信度（Test–retest reliability）",
+            "增量效度（Incremental validity）"
+          ],
+          "how": [
+            "线索是「事先不指定模型」。",
+            "基于数据探索潜在结构就是 EFA，所以选 A。",
+            "CFA 正好相反，要先指定模型再检验拟合。"
+          ]
+        },
+        {
+          "stemEn": "In Study 2 of the CFQ 2.0 development, which model reached the CFI of about .90 that the lecturer used as a reference?",
+          "optionsEn": [
+            "The original CFQ, at .831",
+            "The three-factor CFQ 2.0, at .863",
+            "All three models",
+            "The one-factor CFQ 2.0, at .943"
+          ],
+          "answer": 3,
+          "stem": "在 CFQ 2.0 开发的 Study 2 中，哪个模型达到了老师用作参照的 CFI 约 .90？",
+          "options": [
+            "原版 CFQ，.831",
+            "三因子 CFQ 2.0，.863",
+            "三个模型都达到了",
+            "一因子 CFQ 2.0，.943"
+          ],
+          "how": [
+            "题干给的参照线是 CFI 约 .90。",
+            ".943 过线，.863 和 .831 都没到，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A student says the final CFQ 2.0 has 31 items across three factors, because the EFA found factors of 15, 11 and 5 items. What is the correct version?",
+          "optionsEn": [
+            "It has 89 items across three factors",
+            "It has 15 items and a single factor",
+            "It has 26 items across two factors",
+            "It has 25 items and a single factor"
+          ],
+          "answer": 1,
+          "stem": "一位学生说最终版 CFQ 2.0 有 31 题、三个因子，因为 EFA 得到了 15、11、5 题的因子。正确的说法是什么？",
+          "options": [
+            "89 题、三个因子",
+            "15 题、单因子",
+            "26 题、两个因子",
+            "25 题、单因子"
+          ],
+          "how": [
+            "线索是把 EFA 的「15、11、5」相加成 31 题。",
+            "EFA 只是候选，后续 CFA 支持 15 题单因子，所以选 B。",
+            "89 是初始题库，25 题是原版。"
+          ]
+        },
+        {
+          "stemEn": "An item from the Study 1 pool asks 'Do you fold your clothes neatly when packing?' (reverse-scored). Which candidate factor does it fit?",
+          "optionsEn": [
+            "Inattentiveness/Forgetfulness",
+            "Emotion Regulation and Planning Failures",
+            "Organisation and Tidiness",
+            "Egocentricity"
+          ],
+          "answer": 2,
+          "stem": "Study 1 题库中有一题问「收拾行李时你会把衣服叠整齐吗？」（反向计分）。它属于哪个候选因子？",
+          "options": [
+            "注意疏漏/遗忘（Inattentiveness/Forgetfulness）",
+            "情绪调节与计划失败（Emotion Regulation and Planning Failures）",
+            "整理与整洁（Organisation and Tidiness）",
+            "自我中心（Egocentricity）"
+          ],
+          "how": [
+            "线索是「把衣服叠整齐」。",
+            "这是整理与整洁因子的条目，共 5 题且反向计分，所以选 C。",
+            "这个因子只是 EFA 的候选，没有进入最终版。"
+          ]
+        }
+      ],
+      "recap": "89 题题库 → EFA 三候选 → CFA 单因子 CFI .943 → 最终 15 题一因子；不是 31 题。"
+    },
+    {
+      "id": "L11-P11",
+      "title": "增量效度、构念关系与重测信度",
+      "titleEn": "Incremental validity, construct relations, reliability",
+      "conceptIds": [
+        "L11-C20",
+        "L11-C21",
+        "L11-C35"
+      ],
+      "kp": "Study 3：CFQ 2.0 比原版更能预测客观注意控制任务，解释更多方差，这是增量效度。Study 4：与相关构念的模式符合预期。Study 5：间隔 1 周重测 r = .88。信度不等于效度，r 也不是百分比。",
+      "howTo": "按问题配术语：比旧工具预测得更好 → 增量效度；两次分数是否稳定 → 重测信度；是否测到预期构念 → 效度证据。稳定地测错东西也可能信度高。",
+      "items": [
+        {
+          "stemEn": "A new questionnaire predicts performance on an objective task better than an existing questionnaire does. This is evidence of:",
+          "optionsEn": [
+            "Incremental validity",
+            "Test–retest reliability",
+            "Far transfer",
+            "Internal consistency"
+          ],
+          "answer": 0,
+          "stem": "一份新问卷比现有问卷更好地预测客观任务表现。这是什么的证据？",
+          "options": [
+            "增量效度（Incremental validity）",
+            "重测信度（Test–retest reliability）",
+            "远迁移（Far transfer）",
+            "内部一致性（Internal consistency）"
+          ],
+          "how": [
+            "线索是新问卷比「现有问卷」预测得更好。",
+            "超出已有工具的预测力就是增量效度，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "What does r = .88 in CFQ 2.0 Study 5 mean?",
+          "optionsEn": [
+            "88% of the items were answered correctly",
+            "88% of people will never change their score, however much time passes between the two tests",
+            "People who score relatively high tend to remain relatively high a week later",
+            "The CFQ 2.0 explains 88% of crash risk"
+          ],
+          "answer": 2,
+          "stem": "CFQ 2.0 Study 5 中的 r = .88 是什么意思？",
+          "options": [
+            "88% 的题目答对了",
+            "88% 的人分数永远不变，无论两次测试相隔多久",
+            "第一次分数相对较高的人，一周后通常仍相对较高",
+            "CFQ 2.0 解释了 88% 的事故风险"
+          ],
+          "how": [
+            "线索是「r」，它是相关系数，不是百分比。",
+            ".88 表示相隔一周的相对位置很稳定，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A questionnaire has r = .90 test–retest reliability, but its scores relate to nothing that it should theoretically relate to. What is the best conclusion?",
+          "optionsEn": [
+            "It must be a valid measure, since reliability guarantees validity",
+            "It must be unreliable, since r should be 1.00",
+            "It has incremental validity over older measures",
+            "It is stable, but this does not show it measures the intended construct"
+          ],
+          "answer": 3,
+          "stem": "一份问卷的重测信度 r = .90，但其分数与理论上应相关的东西都不相关。最好的结论是什么？",
+          "options": [
+            "它一定是有效的测量，因为信度保证效度",
+            "它一定不可靠，因为 r 应为 1.00",
+            "它比旧测量具有增量效度",
+            "它很稳定，但这不能说明它测到了预期构念"
+          ],
+          "how": [
+            "线索是信度高却与应相关的东西「都不相关」。",
+            "稳定地测错东西也可能信度高，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Which pattern was found in CFQ 2.0 Study 4?",
+          "optionsEn": [
+            "Higher scores related to more self-reported focusing and shifting",
+            "Higher scores related to lower cognitive empathy and higher negative affect",
+            "Higher scores related to lower affective empathy and lower negative affect",
+            "Higher scores were unrelated to all other variables"
+          ],
+          "answer": 1,
+          "stem": "CFQ 2.0 Study 4 发现了哪种模式？",
+          "options": [
+            "分数越高，自评聚焦和切换越好",
+            "分数越高，认知共情越低、负性情感越高",
+            "分数越高，情感共情越低、负性情感越低",
+            "分数与所有其他变量都不相关"
+          ],
+          "how": [
+            "题干问 Study 4 的构念关系。",
+            "高分与认知共情低、情感共情和负性情感高相伴，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "Study 3 增量效度，Study 4 构念关系，Study 5 重测 r = .88；信度高 ≠ 效度高。"
+    },
+    {
+      "id": "L11-P12",
+      "title": "自评局限；EF 多成分而 CFQ 单因子",
+      "titleEn": "Self-report limits; EF diversity vs CFQ single factor",
+      "conceptIds": [
+        "L11-C22",
+        "L11-C23"
+      ],
+      "kp": "CFQ 的局限：补偿策略（日历、密码管理器）掩盖失误；机会不同（半年没开车就不会错过路标）；筛查时人们可能不诚实。单因子不矛盾：EF 有 unity，日常失误又混合多种成分，实验室任务才刻意分离。",
+      "howTo": "用工具避免失误 → 补偿策略；没机会犯错 → 机会差异；雇主筛查 → 社会赞许，可用 SART 补充。这些是误差来源，不等于问卷无效。",
+      "items": [
+        {
+          "stemEn": "Chen sets a phone reminder for every commitment and so reports never missing an appointment. Which limitation does this illustrate?",
+          "optionsEn": [
+            "Differential opportunity",
+            "Practice effects",
+            "Compensatory strategies",
+            "Discriminant prediction"
+          ],
+          "answer": 2,
+          "stem": "Chen 为每项安排都设手机提醒，因此报告从没错过约会。这说明了哪种局限？",
+          "options": [
+            "机会差异（Differential opportunity）",
+            "练习效应（Practice effects）",
+            "补偿策略（Compensatory strategies）",
+            "区分性预测（Discriminant prediction）"
+          ],
+          "how": [
+            "线索是「设手机提醒」，工具挡住了失误。",
+            "低失误来自外部辅助，这是补偿策略，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Jun has not driven in the past six months and reports never failing to notice a road sign. Which limitation does this illustrate?",
+          "optionsEn": [
+            "Differential opportunity",
+            "Compensatory strategies",
+            "Test–retest unreliability",
+            "Socially desirable responding"
+          ],
+          "answer": 0,
+          "stem": "Jun 过去 6 个月没有开车，报告从未漏看路标。这说明了哪种局限？",
+          "options": [
+            "机会差异（Differential opportunity）",
+            "补偿策略（Compensatory strategies）",
+            "重测不稳定（Test–retest unreliability）",
+            "社会赞许式作答（Socially desirable responding）"
+          ],
+          "how": [
+            "线索是「没有开车」，根本没有犯这种错的机会。",
+            "零失误来自没有机会，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "An employer wants to screen job applicants with the CFQ. What is the main concern, and what could supplement it?",
+          "optionsEn": [
+            "The CFQ is too long, so a shorter interview should replace it",
+            "The CFQ is only for older adults, so a driving test could supplement it when hiring younger staff",
+            "Applicants cannot read the items, so a brain scan could supplement it",
+            "Applicants may answer dishonestly, so a behavioural test such as the SART could supplement it"
+          ],
+          "answer": 3,
+          "stem": "一位雇主想用 CFQ 筛选求职者。主要的担忧是什么？可以用什么补充？",
+          "options": [
+            "CFQ 太长，应该用较短的面试代替",
+            "CFQ 只适用于老年人，招聘较年轻员工时可以用驾驶测试补充",
+            "求职者读不懂条目，可以用脑扫描补充",
+            "求职者可能不诚实作答，可以用 SART 等行为测验补充"
+          ],
+          "how": [
+            "线索是「雇主」「筛选」，作答有利害关系。",
+            "人们可能隐瞒，较不受社会赞许影响的 SART 可作补充，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Executive function has several components, yet the CFQ 2.0 has a single factor. Which explanation fits the lecture?",
+          "optionsEn": [
+            "This shows that there is only one executive function",
+            "Everyday failures mix several functions, while lab tasks deliberately isolate one",
+            "The CFQ 2.0 does not measure anything related to attention",
+            "The three-factor model fitted best, but was rejected for being long"
+          ],
+          "answer": 1,
+          "stem": "执行功能有多个成分，而 CFQ 2.0 只有单因子。哪种解释符合本讲？",
+          "options": [
+            "这说明执行功能只有一种",
+            "日常失误混合了多种功能，而实验室任务刻意分离其中一种",
+            "CFQ 2.0 测的东西与注意无关",
+            "三因子模型拟合最好，但因太长被放弃"
+          ],
+          "how": [
+            "线索是 EF「多个成分」与 CFQ「单因子」的对比。",
+            "日常失误混合多种成分，EF 又有 unity，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "低失误可能来自提醒工具或没有机会；单因子不矛盾：日常失误混合多种 EF。"
+    },
+    {
+      "id": "L11-P13",
+      "title": "事故风险的一般预测因子",
+      "titleEn": "General predictors of crash risk",
+      "conceptIds": [
+        "L11-C24",
+        "L11-C25"
+      ],
+      "kp": "人人都有事故风险，但大小差异可靠。研究预测因子能找出谁需要干预、该针对什么过程。里程（KMs driven）增加暴露，提高风险；经验有保护作用，拿证后头几年是高峰。约 60 岁后风险上升由部分人驱动。",
+      "howTo": "里程是暴露，经验是保护，两者不矛盾。「年轻」和「缺乏经验」常一起出现，难以分离。老年人题选「部分人上升」，排除「人人同等上升」。",
+      "items": [
+        {
+          "stemEn": "All else being equal, why does driving more kilometres increase crash risk?",
+          "optionsEn": [
+            "It reduces hazard perception",
+            "It increases exposure, such as encounters with unsafe drivers",
+            "It removes the benefit of experience, whatever the driver has learned",
+            "It makes vehicle control worse"
+          ],
+          "answer": 1,
+          "stem": "其他条件相同时，为什么驾驶里程更多会提高事故风险？",
+          "options": [
+            "它降低危险感知",
+            "它增加暴露，比如更多遇到不安全的司机",
+            "它消除了经验的好处，无论司机学到了什么",
+            "它使车辆操控变差"
+          ],
+          "how": [
+            "线索是「其他条件相同」下的「里程更多」。",
+            "里程反映暴露机会，开得多就更可能遇到风险事件，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "When is crash risk from inexperience at its peak?",
+          "optionsEn": [
+            "In the first few years after getting a licence",
+            "After twenty years of driving",
+            "Only after the age of 60",
+            "Only among drivers who rarely drive"
+          ],
+          "answer": 0,
+          "stem": "缺乏经验带来的事故风险在什么时候最高？",
+          "options": [
+            "拿到驾照后的头几年",
+            "驾驶二十年之后",
+            "只在 60 岁之后",
+            "只在很少开车的司机中"
+          ],
+          "how": [
+            "关键词是「缺乏经验」。",
+            "经验有保护作用，拿证后头几年是风险高峰，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Why is it difficult to work out how much of young drivers' risk is due to age itself?",
+          "optionsEn": [
+            "Young drivers never report their crashes",
+            "Young people have no individual differences",
+            "Being young and being inexperienced usually occur together",
+            "Age has been shown to have no effect on risk"
+          ],
+          "answer": 2,
+          "stem": "为什么很难算出年轻司机的风险有多少来自年龄本身？",
+          "options": [
+            "年轻司机从不报告事故",
+            "年轻人没有个体差异",
+            "年轻和缺乏经验通常同时出现",
+            "年龄已被证明对风险没有影响"
+          ],
+          "how": [
+            "题干问为什么难以单独归因于「年龄本身」。",
+            "年轻与缺乏经验常一起出现，难以分离，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Group-level crash risk rises after about age 60. Which interpretation is correct?",
+          "optionsEn": [
+            "Every driver over 60 is unsafe and should stop driving",
+            "All drivers over 60 experience the same rise in risk, regardless of their individual abilities",
+            "It shows that driving harms older adults' health",
+            "The rise is driven mainly by some individuals whose risk accelerates"
+          ],
+          "answer": 3,
+          "stem": "约 60 岁后群体事故风险上升。哪种解释是正确的？",
+          "options": [
+            "每个 60 岁以上的司机都不安全，应该停止开车",
+            "所有 60 岁以上的司机风险上升幅度相同，与个人能力无关",
+            "它说明开车损害老年人的健康",
+            "这一上升主要由部分风险加速上升的人驱动"
+          ],
+          "how": [
+            "线索是「群体」风险上升。",
+            "上升主要由部分人驱动，不是人人同等，所以选 D。",
+            "老人停止开车反而常伴随健康下降。"
+          ]
+        }
+      ],
+      "recap": "里程 → 暴露升险，经验 → 保护；60 岁后上升由部分人驱动；群体趋势 ≠ 个人。"
+    },
+    {
+      "id": "L11-P14",
+      "title": "Driving skill：操控、危险感知与培训",
+      "titleEn": "Driving skill: vehicle control, hazard perception, training",
+      "conceptIds": [
+        "L11-C26",
+        "L11-C27"
+      ],
+      "kp": "驾驶技能（skill）包括车辆操控和危险感知。操控学会后不再预测事故风险；危险感知（读懂交通、预判他人）预测力强。检验培训要看未来事故：打滑训练可能增加过度自信，危险感知训练常让司机更谦虚。",
+      "howTo": "看到「换挡、转向」是 vehicle control，「预判他人行为」是 hazard perception，两者都是 skill。培训看实际事故，不看信心；更自信不等于更安全。",
+      "items": [
+        {
+          "stemEn": "Once basic driving skills have been acquired, which component of driving skill still strongly predicts crash risk?",
+          "optionsEn": [
+            "Gap acceptance",
+            "Hazard perception",
+            "Vehicle control",
+            "Following distance"
+          ],
+          "answer": 1,
+          "stem": "基本驾驶技能掌握之后，哪一部分驾驶技能仍能有力预测事故风险？",
+          "options": [
+            "间隙接受（Gap acceptance）",
+            "危险感知（Hazard perception）",
+            "车辆操控（Vehicle control）",
+            "跟车距离（Following distance）"
+          ],
+          "how": [
+            "线索是「基本技能掌握之后」和「驾驶技能」。",
+            "操控已不再预测风险，危险感知仍有力，所以选 B。",
+            "间隙接受和跟车距离属于风格，不是技能。"
+          ]
+        },
+        {
+          "stemEn": "A driver notices a parked van ahead and anticipates that a pedestrian might step out from behind it. This best illustrates:",
+          "optionsEn": [
+            "Vehicle control",
+            "Speed choice",
+            "Hazard perception",
+            "Fluid intelligence"
+          ],
+          "answer": 2,
+          "stem": "一位司机注意到前方停着一辆面包车，预判可能有行人从车后走出来。这最能说明：",
+          "options": [
+            "车辆操控（Vehicle control）",
+            "车速选择（Speed choice）",
+            "危险感知（Hazard perception）",
+            "流体智力（Fluid intelligence）"
+          ],
+          "how": [
+            "线索是「预判可能有行人走出来」。",
+            "读懂交通、预判他人行为就是危险感知，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Skid training for icy roads can slightly raise crash risk. What was the explanation?",
+          "optionsEn": [
+            "It increases overconfidence, making people more willing to drive in bad weather",
+            "It reduces the number of kilometres people drive, so they gain less experience",
+            "It damages vehicle control",
+            "It takes time away from hazard perception tests"
+          ],
+          "answer": 0,
+          "stem": "冰雪路面的打滑训练（skid training）可能略微提高事故风险。课上的解释是什么？",
+          "options": [
+            "它增加过度自信，让人更愿意在恶劣天气开车",
+            "它减少人们的驾驶里程，使他们积累的经验更少",
+            "它损害车辆操控",
+            "它占用了危险感知测试的时间"
+          ],
+          "how": [
+            "线索是训练后风险反而「提高」。",
+            "过度自信让人更敢在恶劣天气开车，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Why does hazard perception training often help learner drivers?",
+          "optionsEn": [
+            "It teaches them to change gears faster",
+            "It lets them drive more kilometres in less time",
+            "It makes them feel more confident than experienced drivers, which is what makes them safer",
+            "It makes them humbler and better calibrated when they hear what experts notice"
+          ],
+          "answer": 3,
+          "stem": "为什么危险感知训练常对新手司机有帮助？",
+          "options": [
+            "它教他们更快地换挡",
+            "它让他们在更短时间内开更多里程",
+            "它让他们觉得自己比老司机更有信心，这正是他们更安全的原因",
+            "听到老司机注意到的内容后，他们变得更谦虚、自我评估更准"
+          ],
+          "how": [
+            "题干问这种训练「为什么」有帮助。",
+            "新手发现自己注意得不够，从而更准确地评估自己，所以选 D。",
+            "更有信心不是安全的证据。"
+          ]
+        }
+      ],
+      "recap": "学会后操控不再预测风险，危险感知仍预测；培训看未来事故，自信 ≠ 安全。"
+    },
+    {
+      "id": "L11-P15",
+      "title": "Driving style：选择、分心与状态",
+      "titleEn": "Driving style: choices, distraction and mental state",
+      "conceptIds": [
+        "L11-C28",
+        "L11-C29",
+        "L11-C39"
+      ],
+      "kp": "驾驶风格（style）是通常怎样选择开车：车速、跟车距离、间隙接受、分心、疲劳和精神状态。大多数严重事故前发生过分心。精神状态可能通过反刍和走神提高风险。性别差异更多在风格，不在危险感知。",
+      "howTo": "问「能做到什么」是 skill，「通常怎样选择」是 style。接受小间隙、跟车近、车速快都升险。离婚等生活事件的机制选反刍走神，不是技术变差。性别题选风格差异、组内差异大。",
+      "items": [
+        {
+          "stemEn": "Which set consists only of driving-style factors?",
+          "optionsEn": [
+            "Vehicle control, speed choice, gap acceptance",
+            "Hazard perception, following distance, distraction",
+            "Gap acceptance, following distance, fatigue",
+            "Vehicle control, hazard perception, speed choice"
+          ],
+          "answer": 2,
+          "stem": "哪一组只包含驾驶风格（driving style）因素？",
+          "options": [
+            "车辆操控、车速选择、间隙接受",
+            "危险感知、跟车距离、分心",
+            "间隙接受、跟车距离、疲劳",
+            "车辆操控、危险感知、车速选择"
+          ],
+          "how": [
+            "题干要求「只包含」驾驶风格。",
+            "车辆操控和危险感知属于技能，排除后只剩一组，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Sam always pulls into traffic as soon as there is a small opening, while Lee waits for a larger one. Which statement is correct?",
+          "optionsEn": [
+            "Sam has higher crash risk because of his gap acceptance",
+            "Lee has higher crash risk because waiting is distracting",
+            "They have equal risk, because this is a matter of skill",
+            "Sam has lower crash risk because he spends less time waiting"
+          ],
+          "answer": 0,
+          "stem": "Sam 总是一有小空隙就并入车流，Lee 则等待更大的空隙。哪一项正确？",
+          "options": [
+            "Sam 因为间隙接受（gap acceptance）的选择而风险更高",
+            "Lee 风险更高，因为等待让人分心",
+            "两人风险相同，因为这是技能问题",
+            "Sam 风险更低，因为他等待时间更短"
+          ],
+          "how": [
+            "线索是「一有小空隙就并入」。",
+            "更随意接受小间隙的司机风险更高，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A driver going through a difficult divorce has higher crash risk for a while. What is the likely mechanism?",
+          "optionsEn": [
+            "The divorce has made them forget how to steer",
+            "Rumination and mind-wandering draw attention away from driving",
+            "Their following distance is shortened by law",
+            "Their crystallised intelligence has dropped sharply"
+          ],
+          "answer": 1,
+          "stem": "正经历艰难离婚的司机在一段时间内事故风险较高。可能的机制是什么？",
+          "options": [
+            "离婚让他们忘记了如何转向",
+            "反刍和走神把注意从驾驶上带走",
+            "法律缩短了他们的跟车距离",
+            "他们的晶体智力急剧下降"
+          ],
+          "how": [
+            "线索是重大生活事件「离婚」。",
+            "这类状态通过反刍和走神占用注意，所以选 B。",
+            "不是技术变差，也不是说每次驾驶都危险。"
+          ]
+        },
+        {
+          "stemEn": "According to the lecturer's answer about gender and driving, which statement is most accurate?",
+          "optionsEn": [
+            "Male drivers have poorer hazard perception than female drivers, and this accounts for all differences in risk",
+            "Only male drivers are at risk of crashes",
+            "Gender can be used to judge an individual driver's safety",
+            "Differences may lie in driving style, and there is large variation within each group"
+          ],
+          "answer": 3,
+          "stem": "根据老师关于性别与驾驶的回答，哪一项最准确？",
+          "options": [
+            "男性司机的危险感知比女性差，这解释了风险上的全部差异",
+            "只有男性司机有事故风险",
+            "可以用性别来判断某位司机是否安全",
+            "差异可能在驾驶风格，且每组内部差异很大"
+          ],
+          "how": [
+            "题干问老师关于性别的回答。",
+            "危险感知看不到性别差异，差异可能在风格，组内也差异大，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "Style = 怎样选择：车速、车距、间隙、分心、疲劳；生活事件经反刍走神提高风险。"
+    },
+    {
+      "id": "L11-P16",
+      "title": "认知预测、UFOV、训练迁移与证据边界",
+      "titleEn": "Cognitive predictors, UFOV, transfer and evidence limits",
+      "conceptIds": [
+        "L11-C30",
+        "L11-C31",
+        "L11-C32",
+        "L11-C33",
+        "L11-C38"
+      ],
+      "kp": "CFQ 对事故的预测主要见于年轻司机；UFOV 证据对老年司机最有力。UFOV 阈限越低越好，其训练在 10 年后仍降低风险，是远迁移的例外。前瞻设计优于回溯。相关不证明单次因果，代理指标不等于事故。",
+      "howTo": "年轻看 CFQ，老年看 EF 和 UFOV。UFOV 阈限是所需呈现时间，越低越好。回溯漏掉小事故和最严重的当事人。要说减少事故，需有实际事故证据，不能只看代理指标。",
+      "items": [
+        {
+          "stemEn": "A study under peer review looked at what relates to hazard perception in learner drivers (18–25) and older drivers (60–80). What did it find?",
+          "optionsEn": [
+            "Subjective failures related strongly in learners, while executive function tasks related strongly in older drivers",
+            "Executive function tasks related strongly in learners, while subjective failures related strongly in older drivers",
+            "Subjective failures related strongly in both age groups",
+            "Neither measure related to hazard perception in any group"
+          ],
+          "answer": 0,
+          "stem": "一项尚在同行评审的研究考察了见习司机（18–25 岁）和老年司机（60–80 岁）中与危险感知有关的因素。它发现了什么？",
+          "options": [
+            "见习司机中主观失误关系强，老年司机中执行功能任务关系强",
+            "见习司机中执行功能任务关系强，老年司机中主观失误关系强",
+            "两个年龄组中主观失误的关系都强",
+            "两种测量在任何组中都与危险感知无关"
+          ],
+          "how": [
+            "线索是比较「见习司机」和「老年司机」两组。",
+            "年轻人看主观失误，老年人看 EF 任务，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "At the same accuracy level on a UFOV task, Ana needs a much shorter stimulus presentation than Ben. What follows?",
+          "optionsEn": [
+            "Ana has a higher threshold and poorer performance",
+            "Ben has faster processing and lower crash risk",
+            "Ana has a lower threshold and is expected to have lower risk",
+            "Neither can be compared, because UFOV is an eyesight test"
+          ],
+          "answer": 2,
+          "stem": "在 UFOV 任务的相同正确率水平上，Ana 需要的刺激呈现时间比 Ben 短得多。由此可知：",
+          "options": [
+            "Ana 阈限更高，表现更差",
+            "Ben 加工更快，事故风险更低",
+            "Ana 阈限更低，预计风险更低",
+            "两人无法比较，因为 UFOV 是视力测验"
+          ],
+          "how": [
+            "线索是「相同正确率」下呈现时间「短得多」。",
+            "所需时间就是阈限，越低表示加工越快、风险越低，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "What makes UFOV training notable within the cognitive training literature?",
+          "optionsEn": [
+            "It improves every cognitive ability equally",
+            "It shows far transfer, with fewer crashes years later",
+            "It is the only training that improves the trained task",
+            "It removes the need for hazard perception"
+          ],
+          "answer": 1,
+          "stem": "在认知训练文献中，UFOV 训练有什么突出之处？",
+          "options": [
+            "它同等地提升每一种认知能力",
+            "它显示了远迁移，多年后事故更少",
+            "它是唯一能提高受训任务表现的训练",
+            "它使危险感知变得不再需要"
+          ],
+          "how": [
+            "题干问 UFOV 训练的「突出之处」。",
+            "多数训练难以迁移，UFOV 训练 10 年后仍少出事故，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Why is a prospective design better than asking drivers about their crashes in the past five years?",
+          "optionsEn": [
+            "It needs fewer participants and less time, because crashes are so frequent that a short follow-up is enough",
+            "It avoids having to measure any predictors",
+            "It can only be used with young drivers",
+            "It records future crashes directly, including those whose victims would be missing from a later sample"
+          ],
+          "answer": 3,
+          "stem": "为什么前瞻设计（prospective design）比询问司机过去五年的事故更好？",
+          "options": [
+            "它需要更少的参与者和时间，因为事故很频繁，短期追踪就够了",
+            "它不必测量任何预测因子",
+            "它只能用于年轻司机",
+            "它直接记录未来事故，包括那些在日后样本中会缺失的当事人"
+          ],
+          "how": [
+            "线索是对比「过去五年」的回忆。",
+            "回溯会忘小事故，也会漏掉最严重事故的当事人，所以选 D。",
+            "前瞻设计的代价正是大样本和长追踪。"
+          ]
+        },
+        {
+          "stemEn": "A driver-training course improves hazard perception test scores. The company then advertises that it 'reduces crashes'. What is the problem?",
+          "optionsEn": [
+            "Hazard perception is unrelated to crash risk",
+            "Test scores are a proxy; real crash data in a suitable comparison are needed to make this claim",
+            "Courses can never have any effect on driving",
+            "A high CFQ score would have to be the cause of any crash, so the test scores are beside the point"
+          ],
+          "answer": 1,
+          "stem": "一个驾驶培训课程提高了危险感知测试分数。公司随后宣传它「减少事故」。问题在哪里？",
+          "options": [
+            "危险感知与事故风险无关",
+            "测试分数只是代理指标（proxy），要这样说需要合适比较中的真实事故数据",
+            "课程永远不可能影响驾驶",
+            "任何事故都必定是 CFQ 高分造成的，所以测试分数无关紧要"
+          ],
+          "how": [
+            "线索是只提高了「测试分数」，却宣传「减少事故」。",
+            "只预测代理指标时，结论只到该指标，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "UFOV 阈限越低越好，是远迁移的例外；前瞻优于回溯；代理指标进步 ≠ 事故减少。"
+    }
+  ]
+}

@@ -1,0 +1,1730 @@
+{
+  "lectureId": 2,
+  "points": [
+    {
+      "id": "L2-P01",
+      "title": "刻板印象、偏见与歧视",
+      "titleEn": "Stereotyping, prejudice and discrimination",
+      "conceptIds": [
+        "L2-C01"
+      ],
+      "kp": "刻板印象（stereotyping）把特征归到整个群体，是怎么想；偏见（prejudice）因群体身份持负面态度，是怎么评价；歧视（discrimination）因群体身份给予不同或不公平待遇，是怎么对待。三者重叠但不等价。",
+      "howTo": "题干讲「某群体都是什么样」选刻板印象；讲负面感受或评价选偏见；讲实际区别对待选歧视。只优待自己群体也可能算歧视。看到「三者必然连续发生」就排除。",
+      "items": [
+        {
+          "stemEn": "A person believes, 'All members of that gaming community are hot-tempered.' This belief is best labelled:",
+          "optionsEn": [
+            "Stereotyping",
+            "Prejudice as a negative feeling",
+            "Discrimination in treatment",
+            "Displaced aggression towards a scapegoat"
+          ],
+          "answer": 0,
+          "stem": "有人相信：「那个游戏社群的成员都很暴躁。」这种信念最适合称为：",
+          "options": [
+            "刻板印象（stereotyping）",
+            "作为负面感受的偏见（prejudice）",
+            "待遇上的歧视（discrimination）",
+            "对替罪羊的转移性攻击（displaced aggression）"
+          ],
+          "how": [
+            "线索是「成员都很暴躁」，把一个特征归到整个群体。",
+            "用一般特征概括整个群体就是刻板印象，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A landlord refuses to rent to an applicant only because of the applicant's ethnic group. Which concept is emphasised by this action?",
+          "optionsEn": [
+            "Stereotyping",
+            "Discrimination",
+            "Ethnocentric beliefs only",
+            "An attitude that stays private"
+          ],
+          "answer": 1,
+          "stem": "一位房东仅因申请人的族群身份而拒绝出租。这个行动突出体现了哪个概念？",
+          "options": [
+            "刻板印象（stereotyping）",
+            "歧视（discrimination）",
+            "仅仅是群体中心主义（ethnocentrism）的信念",
+            "一种没有表露的私下态度"
+          ],
+          "how": [
+            "线索是「拒绝出租」，这是实际行动。",
+            "因群体身份给予不公平待遇就是歧视，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Which statement about stereotyping, prejudice and discrimination is correct?",
+          "optionsEn": [
+            "They overlap, but a person can hold prejudice without discriminating",
+            "They always occur in a fixed order, with stereotyping causing discrimination",
+            "They are three different names for what is exactly the same process",
+            "Discrimination happens only when someone actively intends to harm others"
+          ],
+          "answer": 0,
+          "stem": "关于刻板印象、偏见和歧视，哪个说法正确？",
+          "options": [
+            "三者有重叠，但一个人可能有偏见却不实施歧视",
+            "三者总按固定顺序发生，刻板印象必然导致歧视",
+            "三者只是同一过程的三个不同名字",
+            "只有主动想伤害别人时才算歧视"
+          ],
+          "how": [
+            "题干要判断「刻板印象、偏见和歧视」的关系。",
+            "笔记强调三者重叠但不等价，有偏见未必有歧视，所以选 A。",
+            "D 错：对自己群体额外优待也可能是歧视。"
+          ]
+        },
+        {
+          "stemEn": "A manager feels no dislike towards outsiders but gives extra opportunities only to people from his own group. How should this be understood?",
+          "optionsEn": [
+            "It cannot be discrimination, because he wants to harm no one",
+            "It is only stereotyping, because no one is treated differently",
+            "It is only prejudice, because it concerns attitudes rather than behaviour",
+            "It can still be discrimination, because treatment differs by group"
+          ],
+          "answer": 3,
+          "stem": "一位经理并不讨厌外人，却只把额外机会给自己群体的人。应当如何理解？",
+          "options": [
+            "这不可能是歧视，因为他不想伤害任何人",
+            "这只是刻板印象，因为没有人被区别对待",
+            "这只是偏见，因为涉及的是态度而不是行为",
+            "这仍可能是歧视，因为待遇因群体而不同"
+          ],
+          "how": [
+            "线索是「只把额外机会给自己群体的人」。",
+            "歧视不一定是主动伤害，额外优待自己群体也算，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "刻板印象是归因，偏见是态度，歧视是行为；三者重叠，但不必然依次发生。"
+    },
+    {
+      "id": "L2-P02",
+      "title": "社会文化解释与 Sherif 夏令营",
+      "titleEn": "Socio-cultural approach and Sherif's boys' camp studies",
+      "conceptIds": [
+        "L2-C02",
+        "L2-C03"
+      ],
+      "kp": "社会文化解释：偏见可来自群体关系，合作带来好感，竞争带来威胁。Sherif 夏令营四阶段：建立凝聚力、竞争、普通接触、共同依赖目标。竞争产生敌意，普通接触没用。样本主要是约 12 岁白人中产男孩。",
+      "howTo": "流程题按四阶段排序。看到「一起吃饭、看电影」就是普通接触，结果是敌意未消除。问研究意义选「普通孩子也会因情境产生偏见」，不选「偏见来自坏人格」。",
+      "items": [
+        {
+          "stemEn": "What was the main idea Sherif wanted to test in the boys' camp studies?",
+          "optionsEn": [
+            "Whether boys with aggressive personalities would seek out group conflict",
+            "Whether changing group situations could produce conflict among ordinary boys",
+            "Whether arbitrary labels would make boys give away more of their money",
+            "Whether boys would obey an adult who ordered them to hurt each other"
+          ],
+          "answer": 1,
+          "stem": "Sherif 在男孩夏令营研究中主要想检验什么？",
+          "options": [
+            "有攻击性人格的男孩是否会主动寻找群体冲突",
+            "只改变群体情境，能否让普通男孩产生冲突",
+            "随意的标签是否会让男孩分出更多钱",
+            "男孩是否会服从命令他们互相伤害的成人"
+          ],
+          "how": [
+            "题干问夏令营研究「主要想检验」什么。",
+            "当时主流解释归因于人格，Sherif 想看只改情境行不行，所以选 B。",
+            "D 是 Milgram 的问题，C 接近最小群体范式。"
+          ]
+        },
+        {
+          "stemEn": "Which sequence correctly shows the phases of Sherif's camp studies?",
+          "optionsEn": [
+            "Cohesion, competition, non-competitive contact, shared interdependent goals",
+            "Competition, cohesion, shared interdependent goals, non-competitive contact",
+            "Cohesion, non-competitive contact, competition, shared interdependent goals",
+            "Shared interdependent goals, cohesion, competition, non-competitive contact"
+          ],
+          "answer": 0,
+          "stem": "哪个顺序正确呈现了 Sherif 夏令营研究的阶段？",
+          "options": [
+            "凝聚力、竞争、非竞争性接触、共同依赖目标",
+            "竞争、凝聚力、共同依赖目标、非竞争性接触",
+            "凝聚力、非竞争性接触、竞争、共同依赖目标",
+            "共同依赖目标、凝聚力、竞争、非竞争性接触"
+          ],
+          "how": [
+            "题干问「阶段」的顺序。",
+            "先建立关系，再引入竞争，再试普通接触，最后用共同依赖目标，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "After a period of competition, two hostile groups of boys eat meals and watch films together. What did Sherif find at this stage?",
+          "optionsEn": [
+            "Pleasant contact did not automatically remove hostility",
+            "Pleasant contact quickly removed all the hostility",
+            "Hostility vanished once the boys were sitting together",
+            "Hostility vanished once the boys had watched the films"
+          ],
+          "answer": 0,
+          "stem": "经过一段时间竞争后，两组敌对男孩一起吃饭、看电影。Sherif 在这一阶段发现了什么？",
+          "options": [
+            "愉快的接触并没有自动消除敌意",
+            "愉快的接触很快消除了全部敌意",
+            "男孩们坐在一起后敌意就消失了",
+            "男孩们看完电影后敌意就消失了"
+          ],
+          "how": [
+            "线索是「一起吃饭、看电影」，这是普通接触阶段。",
+            "普通接触没有自动消除敌意，有时还继续争吵打架，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A student generalises Sherif's camp results directly to all people. What is the clearest sampling problem?",
+          "optionsEn": [
+            "Participants were mainly adult men who had served in prisons",
+            "Participants were mainly white, middle-class boys of about 12",
+            "Participants were mainly WEIRD women attending a university",
+            "Participants were mainly children chosen for prejudiced views"
+          ],
+          "answer": 1,
+          "stem": "一名学生把 Sherif 夏令营的结果直接推广到所有人。最明显的样本问题是什么？",
+          "options": [
+            "参与者主要是有服刑经历的成年男性",
+            "参与者主要是约 12 岁的白人中产阶级男孩",
+            "参与者主要是上大学的 WEIRD 女性",
+            "参与者主要是因持偏见观点而被选中的儿童"
+          ],
+          "how": [
+            "线索是「推广到所有人」，要看样本是谁。",
+            "样本主要是约 12 岁白人中产男孩，范围狭窄，所以选 B。",
+            "D 不对：研究正是要看普通孩子。"
+          ]
+        }
+      ],
+      "recap": "凝聚力 → 竞争 → 普通接触无效 → 共同依赖目标有效；偏见可由情境制造。"
+    },
+    {
+      "id": "L2-P03",
+      "title": "超级目标与互相依赖",
+      "titleEn": "Superordinate goals",
+      "conceptIds": [
+        "L2-C04"
+      ],
+      "kp": "超级目标（superordinate goals）要同时满足：双方都重视，且任何一方无法单独完成。例如一起推坏掉的食物运输车、修复供水系统、凑钱买电影。这类共同依赖的目标明显减少了敌意。",
+      "howTo": "判断是不是超级目标，问两句：双方都想要吗？一方能单独做到吗？都想要且做不到才算。只喊共同口号、一起娱乐、或各自想赢冠军都不算。",
+      "items": [
+        {
+          "stemEn": "What defines a superordinate goal?",
+          "optionsEn": [
+            "One group values it and can achieve it without help",
+            "Both groups value it and each can achieve it separately",
+            "Both groups value it and neither can achieve it alone",
+            "Neither group values it, but an authority demands it"
+          ],
+          "answer": 2,
+          "stem": "超级目标（superordinate goal）的定义是什么？",
+          "options": [
+            "一方重视，且无需帮助就能完成",
+            "双方都重视，且各自都能分别完成",
+            "双方都重视，且任何一方都无法单独完成",
+            "双方都不重视，但权威要求完成"
+          ],
+          "how": [
+            "题干问「超级目标」的定义。",
+            "要同时满足双方重视和单独做不到，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Which situation is the best example of a superordinate goal for two rival student clubs?",
+          "optionsEn": [
+            "A cup will be given to whichever club wins the campus debate",
+            "A free pizza night is put on for both clubs in the same room",
+            "A new slogan about campus unity is printed on both clubs' posters",
+            "A shared venue flood needs both clubs' labour and funds to repair it"
+          ],
+          "answer": 3,
+          "stem": "对两个对立的学生社团来说，哪种情况最能代表超级目标？",
+          "options": [
+            "一座奖杯将颁给赢得校园辩论赛的那个社团",
+            "两个社团在同一房间参加免费披萨之夜",
+            "两个社团的海报上印了一句校园团结的新口号",
+            "共用场地被水淹，需要两个社团一起出力出钱修复"
+          ],
+          "how": [
+            "题干要找两个社团的「超级目标」，用两句话逐项检查。",
+            "修复场地双方都需要，而且一方做不到，所以选 D。",
+            "A 是互斥目标，B 只是普通接触，C 只是口号。"
+          ]
+        },
+        {
+          "stemEn": "Two groups both want to win the only championship trophy. Why is this not a superordinate goal?",
+          "optionsEn": [
+            "Both groups value the trophy, so the goal cannot be seen as shared by them",
+            "One group's success means the other's failure, so the goals are mutually exclusive",
+            "Neither group could win the trophy unless the two of them worked together",
+            "A trophy is not a real resource, so groups cannot compete over it"
+          ],
+          "answer": 1,
+          "stem": "两组都想赢得唯一的冠军奖杯。为什么这不是超级目标？",
+          "options": [
+            "两组都重视奖杯，所以不能算共同目标",
+            "一组成功意味着另一组失败，所以是互斥目标",
+            "除非两组合作，否则谁也赢不了奖杯",
+            "奖杯不是真实资源，所以两组无法为它竞争"
+          ],
+          "how": [
+            "线索是「唯一的冠军奖杯」，只有一组能得到。",
+            "一方成功就是另一方失败，这是互斥目标，不需要合作，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "超级目标：双方都要 ＋ 单独做不到 → 必须合作；普通相处和互斥目标都不算。"
+    },
+    {
+      "id": "L2-P04",
+      "title": "现实冲突理论及其局限",
+      "titleEn": "Realistic Conflict Theory and its limits",
+      "conceptIds": [
+        "L2-C05",
+        "L2-C06"
+      ],
+      "kp": "现实冲突理论（RCT）：稀缺资源加互斥目标带来群体竞争、威胁、偏见和冲突。群体中心主义（ethnocentrism）视己群为优。局限：描述多于解释；现实中难造共同目标；可能有权威诱导；短期合作不解决结构不平等。",
+      "howTo": "看到资源有限、一方得到另一方就没有，选 RCT，预测是偏见和冲突上升。看到「我们才正常」选群体中心主义。问局限选「描述多于解释」，别选「只讲人格」。",
+      "items": [
+        {
+          "stemEn": "According to Realistic Conflict Theory, prejudice arises mainly from:",
+          "optionsEn": [
+            "Harsh early parenting that later produces rigid thinking",
+            "Arbitrary categorisation without any conflict of interests",
+            "Limited cognitive capacity in a very complex social world",
+            "Competition over scarce resources and mutually exclusive goals"
+          ],
+          "answer": 3,
+          "stem": "按现实冲突理论（Realistic Conflict Theory），偏见主要来自：",
+          "options": [
+            "严厉的早期养育后来造成的僵化思维",
+            "没有任何利益冲突的随意分类",
+            "复杂社会中有限的认知容量",
+            "对稀缺资源和互斥目标的竞争"
+          ],
+          "how": [
+            "题干问「现实冲突理论」的偏见来源。",
+            "RCT 的核心是稀缺资源和互斥目标带来竞争，所以选 D。",
+            "A 是人格解释，B 是最小群体范式，C 是认知解释。"
+          ]
+        },
+        {
+          "stemEn": "Only one of two neighbouring towns can receive a new hospital. According to RCT, what is the most likely result if the towns compete for it?",
+          "optionsEn": [
+            "Friendlier attitudes because both towns value health care",
+            "Rising threat, prejudice and hostility between the towns",
+            "Little change, because the resource is merely medical",
+            "Lower hostility, because each town's identity becomes weaker"
+          ],
+          "answer": 1,
+          "stem": "两座相邻的城镇只有一座能获得新医院。按 RCT，如果两镇为此竞争，最可能的结果是什么？",
+          "options": [
+            "两镇都重视医疗，所以态度变得更友好",
+            "两镇之间的威胁、偏见和敌意上升",
+            "变化不大，因为这项资源只与医疗有关",
+            "敌意下降，因为各镇的身份认同减弱"
+          ],
+          "how": [
+            "线索是「只有一座能获得」，这是互斥目标。",
+            "资源有限又一方得到另一方落空，RCT 预测敌意上升，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A citizen says, 'Our customs are normal and superior; theirs are strange and inferior.' This attitude is called:",
+          "optionsEn": [
+            "Ethnocentrism",
+            "Superordinate identity",
+            "Depersonalisation",
+            "Conventionalism"
+          ],
+          "answer": 0,
+          "stem": "一位市民说：「我们的习俗正常而优越，他们的习俗奇怪而低劣。」这种态度叫做：",
+          "options": [
+            "群体中心主义（ethnocentrism）",
+            "上位身份（superordinate identity）",
+            "去个人化（depersonalisation）",
+            "传统主义（conventionalism）"
+          ],
+          "how": [
+            "线索是「我们的习俗正常而优越」和「他们的习俗奇怪而低劣」。",
+            "认为己群优于外群就是群体中心主义，所以选 A。",
+            "D 是 RWA 中遵从传统的维度，不涉及群体优劣比较。"
+          ]
+        },
+        {
+          "stemEn": "Which is a limitation of Realistic Conflict Theory?",
+          "optionsEn": [
+            "It fails because ordinary people never become prejudiced when placed in competing groups",
+            "It describes what happens after competition more than it explains the psychological mechanism",
+            "It attributes prejudice mainly to a bad personality and ignores relations between the groups",
+            "It offers no practical idea for intervention, as it rejects the use of any shared goals"
+          ],
+          "answer": 1,
+          "stem": "下列哪项是现实冲突理论的局限？",
+          "options": [
+            "它不成立，因为普通人在竞争群体中从不会产生偏见",
+            "它更多是描述竞争后发生了什么，而不是解释内部心理机制",
+            "它把偏见主要归因于坏人格，而忽略了群体关系",
+            "它没有提供实际干预思路，因为它否定任何共同目标"
+          ],
+          "how": [
+            "题干问 RCT 的「局限」。",
+            "教授指出 RCT 描述多于解释，内部机制不够清楚，所以选 B。",
+            "C 是常见陷阱：RCT 恰恰不是人格理论。"
+          ]
+        },
+        {
+          "stemEn": "After a short cooperative project, two groups get along, then return to a segregated and unequal society. What does the lecture warn about?",
+          "optionsEn": [
+            "The cooperation will have solved the inequality, so its effect will be lasting",
+            "The groups will now share an identity, so segregation no longer has any effect",
+            "The result shows that their earlier conflict had nothing to do with resources",
+            "The cooperation's effect may fade, since structural inequality is not removed"
+          ],
+          "answer": 3,
+          "stem": "经过一次短期合作，两个群体相处融洽，之后又回到隔离且不平等的社会。本讲提醒什么？",
+          "options": [
+            "合作已解决了不平等，所以效果会一直持续",
+            "两个群体现在有共同身份，所以隔离不再有影响",
+            "这个结果说明之前的冲突与资源毫无关系",
+            "合作效果可能无法维持，因为结构不平等没有消除"
+          ],
+          "how": [
+            "线索是「短期合作」后回到「隔离且不平等的社会」。",
+            "结构不平等不会因短期合作自动消失，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "稀缺资源＋互斥目标 → 竞争 → 威胁 → 偏见冲突；RCT 描述多于解释。"
+    },
+    {
+      "id": "L2-P05",
+      "title": "挫折—攻击与 Berkowitz 的修改",
+      "titleEn": "Frustration–aggression and Berkowitz's reformulation",
+      "conceptIds": [
+        "L2-C07",
+        "L2-C08"
+      ],
+      "kp": "Dollard：挫折总导致攻击，攻击可转向较弱的替罪羊（scapegoat）。挫折既非必要也非充分。Miller 与 Bugelski 支持但后续不稳定。Berkowitz 修改三点：主观挫折、替罪羊非随机、厌恶事件（疼痛、高温、噪音等）。",
+      "howTo": "向下攻击较弱群体选替罪羊。「其实没损失却觉得吃亏」选主观挫折；「有历史冲突的群体被针对」选替罪羊非随机；「天热、拥挤后攻击」选厌恶事件。必然命题都不选。",
+      "items": [
+        {
+          "stemEn": "Which statement best describes the psychodynamic explanation of prejudice?",
+          "optionsEn": [
+            "Competition over scarce goods makes two groups see each other as a threat",
+            "Limited mental resources lead people to rely on quick category shortcuts",
+            "Frustration that cannot be directed at its source is displaced onto weaker groups",
+            "Being placed in a group is enough to make people favour their own side"
+          ],
+          "answer": 2,
+          "stem": "哪个说法最能描述对偏见的心理动力学（psychodynamic）解释？",
+          "options": [
+            "对稀缺物品的竞争让两个群体把对方视为威胁",
+            "有限的心理资源让人依赖快速的分类捷径",
+            "无法指向真正来源的挫折，被转移到较弱的群体身上",
+            "被分进一个群体就足以让人偏向自己这一边"
+          ],
+          "how": [
+            "题干问「心理动力学」解释。",
+            "其核心是挫折被转移到替罪羊身上，所以选 C。",
+            "A 是社会文化解释，B 是认知解释，D 是社会认同解释。"
+          ]
+        },
+        {
+          "stemEn": "Workers who cannot challenge their powerful employer after pay cuts start blaming a small migrant community. This best illustrates:",
+          "optionsEn": [
+            "Superordinate goals between two groups",
+            "Displaced aggression towards a scapegoat",
+            "The accentuation effect of categorisation",
+            "Vicarious contact with an outgroup"
+          ],
+          "answer": 1,
+          "stem": "工人们被减薪后无法对抗强势的雇主，转而指责一个小型移民社区。这最能说明：",
+          "options": [
+            "两个群体之间的超级目标（superordinate goals）",
+            "对替罪羊的转移性攻击（displaced aggression）",
+            "分类的强化效应（accentuation effect）",
+            "与外群体的替代性接触（vicarious contact）"
+          ],
+          "how": [
+            "线索是「无法对抗强势的雇主」，「转而指责」小型社区。",
+            "攻击从危险来源转向更弱、更安全的对象，就是替罪羊，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "What was found by Miller and Bugelski (1948), and how should it be read?",
+          "optionsEn": [
+            "Frustrated participants became more positive towards minorities, and later results always agreed",
+            "Frustrated participants became more negative towards minorities, but later results were inconsistent",
+            "Control participants became more negative towards minorities, but frustrated ones did not change",
+            "All participants became more negative towards minorities, so frustration played no part in it"
+          ],
+          "answer": 1,
+          "stem": "Miller 和 Bugelski（1948）发现了什么？应当怎样看待？",
+          "options": [
+            "受挫者对少数群体更正面，后续结果也都一致",
+            "受挫者对少数群体更负面，但后续结果并不稳定",
+            "控制组对少数群体更负面，受挫者则没有变化",
+            "所有参与者都变得更负面，所以挫折没有作用"
+          ],
+          "how": [
+            "题干问「Miller 和 Bugelski」的结果和看法。",
+            "挫折组态度更负面，但后续研究不一定重复，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Which observation challenges the original frustration–aggression hypothesis most directly?",
+          "optionsEn": [
+            "Some people are frustrated without aggressing, and some aggress with no clear frustration",
+            "Some people who are frustrated later direct their aggression at a group weaker than they are",
+            "Some people who cannot attack a powerful source choose a safer target for their aggression",
+            "Some people show more negative attitudes to minorities after an activity has been cancelled"
+          ],
+          "answer": 0,
+          "stem": "哪项观察最直接地挑战了原始挫折—攻击假说？",
+          "options": [
+            "有人受挫却不攻击，也有人没有明显挫折却攻击",
+            "有些受挫者后来把攻击指向比自己弱的群体",
+            "有些无法攻击强势来源的人会选择更安全的目标",
+            "有些人在活动被取消后对少数群体的态度更负面"
+          ],
+          "how": [
+            "题干问什么「挑战」了原始假说，原假说说挫折与攻击必然相连。",
+            "挫折既不必要也不充分，这直接否定必然联系，所以选 A。",
+            "B、C、D 都与原假说一致，是支持而不是挑战。"
+          ]
+        },
+        {
+          "stemEn": "A politician convinces comfortable voters that 'they are taking what is yours', and these voters become hostile although they have lost nothing. Which part of Berkowitz's account fits?",
+          "optionsEn": [
+            "Aversive events, since the voters' hostility must come from physical pain",
+            "Subjective frustration, since perceived deprivation need not be actual loss",
+            "Random scapegoating, since any target group could have been chosen by chance",
+            "Actual deprivation, since hostility requires that resources were really lost"
+          ],
+          "answer": 1,
+          "stem": "一位政客让生活宽裕的选民相信「他们正在抢走你的东西」，这些选民并无损失却产生了敌意。Berkowitz 理论的哪部分与此相符？",
+          "options": [
+            "厌恶事件，因为选民的敌意一定来自身体疼痛",
+            "主观挫折，因为感到被剥夺不必等于真实损失",
+            "随机替罪羊，因为任何目标群体都可能被偶然选中",
+            "真实剥夺，因为敌意要求资源真的受到损失"
+          ],
+          "how": [
+            "线索是「并无损失却产生了敌意」。",
+            "重点是主观上觉得吃亏，而不是客观损失，所以选 B。",
+            "C 也错：Berkowitz 认为替罪羊并非随机。"
+          ]
+        }
+      ],
+      "recap": "挫折 → 转移攻击 → 替罪羊；Berkowitz：主观剥夺、替罪羊不随机、厌恶事件。"
+    },
+    {
+      "id": "L2-P06",
+      "title": "权威主义人格与 RWA",
+      "titleEn": "Authoritarian personality and RWA",
+      "conceptIds": [
+        "L2-C09",
+        "L2-C10",
+        "L2-C11"
+      ],
+      "kp": "Adorno 认为严厉早期家庭可能形成僵化、服从强势权威、无法容忍模糊的权威主义人格。Altemeyer 的 RWA 含权威服从、权威攻击、传统主义。分数随威胁、权力和情境变化，兼有稳定倾向和情境态度。",
+      "howTo": "三个维度对线索：听话是服从，惩罚权威指向的人是攻击，守旧是传统主义。RWA 是否固定题选「两者都可能」。提到家庭只说理论认为「可能」，不选「必然」。",
+      "items": [
+        {
+          "stemEn": "Which is the most accurate statement of Adorno's view of the authoritarian personality?",
+          "optionsEn": [
+            "Harsh, punitive early family experience may foster insecurity and black-and-white thinking",
+            "Accepting early family experience may foster insecurity and black-and-white thinking",
+            "Harsh early family experience always produces a person who is prejudiced in adulthood",
+            "Scarce resources in a person's early years produce a rigid and authoritarian character"
+          ],
+          "answer": 0,
+          "stem": "关于 Adorno 对权威主义人格（authoritarian personality）的看法，哪种表述最准确？",
+          "options": [
+            "严厉、惩罚性的早期家庭经历可能形成不安全感和非黑即白思维",
+            "宽容接纳的早期家庭经历可能形成不安全感和非黑即白思维",
+            "严厉的早期家庭经历总会造就成年后有偏见的人",
+            "早年资源稀缺会造就僵化的权威主义性格"
+          ],
+          "how": [
+            "题干问「Adorno」的看法，并要求「最准确」。",
+            "理论说的是严厉家庭可能形成这些特征，所以选 A。",
+            "C 用了「总会」，笔记明确说不是必然。"
+          ]
+        },
+        {
+          "stemEn": "Which three dimensions make up Altemeyer's Right-Wing Authoritarianism?",
+          "optionsEn": [
+            "Authoritarian submission, generalised hostility and mystical thinking",
+            "Authoritarian aggression, displaced aggression and scapegoating",
+            "Conventionalism, positive distinctiveness and depersonalisation",
+            "Authoritarian submission, authoritarian aggression and conventionalism"
+          ],
+          "answer": 3,
+          "stem": "Altemeyer 的右翼权威主义（Right-Wing Authoritarianism）由哪三个维度构成？",
+          "options": [
+            "权威服从、广泛敌意、神秘思维（submission, generalised hostility, mystical thinking）",
+            "权威攻击、转移性攻击、替罪羊（authoritarian aggression, displaced aggression, scapegoating）",
+            "传统主义、积极区分性、去个人化（conventionalism, positive distinctiveness, depersonalisation）",
+            "权威服从、权威攻击、传统主义（authoritarian submission, aggression, conventionalism）"
+          ],
+          "how": [
+            "题干问 RWA 的「三个维度」。",
+            "Altemeyer 的三维度是服从、攻击和传统主义，所以选 D。",
+            "A 混入了 Adorno 原始人格的特征。"
+          ]
+        },
+        {
+          "stemEn": "A citizen says that people targeted by the government deserve harsh punishment because the authorities have named them as a threat. Which RWA dimension does this show most clearly?",
+          "optionsEn": [
+            "Authoritarian submission",
+            "Conventionalism",
+            "Anti-intraception",
+            "Authoritarian aggression"
+          ],
+          "answer": 3,
+          "stem": "一位公民说，被政府点名为威胁的人应受严惩，因为当局已认定他们有威胁。这最明显地体现了 RWA 的哪个维度？",
+          "options": [
+            "权威服从（authoritarian submission）",
+            "传统主义（conventionalism）",
+            "反内省（anti-intraception）",
+            "权威攻击（authoritarian aggression）"
+          ],
+          "how": [
+            "线索是「被政府点名」的人「应受严惩」。",
+            "对权威指向的目标表现攻击性就是权威攻击，所以选 D。",
+            "A 只是服从权威，这里的重点是攻击被指定的对象。"
+          ]
+        },
+        {
+          "stemEn": "A person's RWA score rises when she feels threatened by an outgroup and when she gains power. What does this suggest?",
+          "optionsEn": [
+            "RWA must be a fully fixed trait because scores were measured with a scale",
+            "RWA may include both a stable tendency and a context-sensitive attitude",
+            "Personality research has no value, because RWA scores can change over time",
+            "RWA measures only one's memory of harsh family punishment in early childhood"
+          ],
+          "answer": 1,
+          "stem": "一个人感到外群体威胁时、以及获得权力时，RWA 分数都上升。这说明什么？",
+          "options": [
+            "RWA 一定是完全固定的特质，因为分数是用量表测的",
+            "RWA 可能同时包含稳定倾向和受情境影响的态度",
+            "人格研究毫无价值，因为 RWA 分数会随时间变化",
+            "RWA 只测量对童年严厉家庭惩罚的记忆"
+          ],
+          "how": [
+            "线索是分数在「外群体威胁时」和「获得权力时」上升。",
+            "分数随情境变化，所以它不只是固定人格，所以选 B。",
+            "C 也过头：分数会变不等于人格研究没有价值。"
+          ]
+        },
+        {
+          "stemEn": "Why is the personality approach alone a weak explanation of a whole society becoming more prejudiced within a few years?",
+          "optionsEn": [
+            "Personality accounts struggle to explain large historical shifts across a whole society",
+            "Personality accounts claim that prejudice arises only from competition over resources",
+            "Personality accounts assume that everyone holds the same score on authoritarian traits",
+            "Personality accounts rely entirely on arbitrary group labels created in the laboratory"
+          ],
+          "answer": 0,
+          "stem": "为什么只靠人格解释，难以说明整个社会在几年内变得更有偏见？",
+          "options": [
+            "人格解释难以说明整个社会的大规模历史变化",
+            "人格解释主张偏见只来自对资源的竞争",
+            "人格解释假定每个人的权威主义特质得分都相同",
+            "人格解释完全依赖实验室中随意制造的群体标签"
+          ],
+          "how": [
+            "线索是「整个社会」在「几年内」变化，太快太广。",
+            "个人性格解释不了全社会同时改变，所以选 A。",
+            "教授更倾向于人格倾向和社会情境共同作用。"
+          ]
+        }
+      ],
+      "recap": "RWA ＝ 服从＋攻击＋传统主义；分数会随威胁和权力变化，人格 × 情境共同作用。"
+    },
+    {
+      "id": "L2-P07",
+      "title": "认知吝啬者与刻板印象捷径",
+      "titleEn": "Cognitive miser and stereotypes as shortcuts",
+      "conceptIds": [
+        "L2-C12"
+      ],
+      "kp": "认知解释：社会世界复杂、加工能力有限，人用分类和捷径节省资源（cognitive miser；Fiske 与 Taylor）。Lippmann 说人要总结、选择、概括。疲劳、赶时间、信息多时更依赖刻板印象。这是正常但可能不公平的过程。",
+      "howTo": "看到疲劳、时间紧、信息过载就选认知解释。局限题选「忽视群体关系和政治功能」。「只有坏人才有刻板印象」和「正常所以公平」都错。",
+      "items": [
+        {
+          "stemEn": "The cognitive miser idea is associated with which researchers?",
+          "optionsEn": [
+            "Tajfel and Wilkes",
+            "Miller and Bugelski",
+            "Pettigrew and Tropp",
+            "Fiske and Taylor"
+          ],
+          "answer": 3,
+          "stem": "认知吝啬者（cognitive miser）的观点与哪两位研究者相关？",
+          "options": [
+            "Tajfel 和 Wilkes",
+            "Miller 和 Bugelski",
+            "Pettigrew 和 Tropp",
+            "Fiske 和 Taylor"
+          ],
+          "how": [
+            "题干问「认知吝啬者」对应的研究者。",
+            "Fiske 与 Taylor 提出把人看成有限、会出错的信息加工系统，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A tired recruiter with 300 applications and little time quickly relies on assumptions about each applicant's group. The cognitive approach would predict this because:",
+          "optionsEn": [
+            "Fatigue and overload turn the recruiter into an authoritarian personality",
+            "Fatigue and overload create a real conflict over scarce resources",
+            "Fatigue and overload make people more careful and much more accurate",
+            "Fatigue and overload make people rely more on category shortcuts"
+          ],
+          "answer": 3,
+          "stem": "一位疲惫的招聘者面对 300 份申请且时间紧张，很快依赖对申请人群体的假设。认知解释会这样预测，因为：",
+          "options": [
+            "疲劳和信息过载把招聘者变成权威主义人格",
+            "疲劳和信息过载造成对稀缺资源的真实冲突",
+            "疲劳和信息过载让人更仔细、更准确",
+            "疲劳和信息过载让人更依赖分类捷径"
+          ],
+          "how": [
+            "线索是「疲惫」「300 份申请」和「时间紧张」。",
+            "这些条件下人更依赖刻板印象来节省认知资源，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "How does the cognitive approach view stereotyping?",
+          "optionsEn": [
+            "As a process found only in people with abnormal personalities",
+            "As a normal process that is therefore always fair and accurate",
+            "As a normal cognitive process that can still produce unfair errors",
+            "As a process that takes place only when groups are in conflict"
+          ],
+          "answer": 2,
+          "stem": "认知解释如何看待刻板印象？",
+          "options": [
+            "它是只存在于人格异常者身上的过程",
+            "它是正常过程，因此总是公平而准确",
+            "它是正常的认知过程，但仍可能造成不公平的错误",
+            "它是只在群体冲突时才发生的过程"
+          ],
+          "how": [
+            "题干问「认知解释」对刻板印象的看法。",
+            "它认为这是普遍的正常过程，同时会造成错误，所以选 C。",
+            "D 不对，B 把正常当成了公平。"
+          ]
+        },
+        {
+          "stemEn": "Which is the strongest criticism of explaining all prejudice as saving mental effort?",
+          "optionsEn": [
+            "It overstates the role of harsh early parenting in forming rigid thought patterns",
+            "It assumes that frustration always leads to aggression against weaker minorities",
+            "It relies too heavily on the idea of real competition for scarce group resources",
+            "It cannot explain why specific groups become targets at certain historical moments"
+          ],
+          "answer": 3,
+          "stem": "把所有偏见都解释为节省脑力，最有力的批评是什么？",
+          "options": [
+            "它夸大了严厉早期养育在形成僵化思维中的作用",
+            "它假定挫折总会导致对较弱少数群体的攻击",
+            "它过于依赖对稀缺群体资源的真实竞争这一观点",
+            "它解释不了为什么特定群体会在特定历史时期成为目标"
+          ],
+          "how": [
+            "线索是「解释为节省脑力」，要找认知解释自身的局限。",
+            "它忽略群体关系和政治功能，说不清为何是这个群体，所以选 D。",
+            "其余三项分别在批评人格、心理动力学和社会文化解释。"
+          ]
+        }
+      ],
+      "recap": "容量有限 → 分类捷径 → 又快又易错；正常不等于公平，也解释不了全部偏见。"
+    },
+    {
+      "id": "L2-P08",
+      "title": "Tajfel 与 Wilkes 的分类强化效应",
+      "titleEn": "Accentuation effect",
+      "conceptIds": [
+        "L2-C13"
+      ],
+      "kp": "Tajfel 与 Wilkes：8 条逐渐变长的线段，较短 4 条标 A，较长 4 条标 B。标签与长度对应时，人夸大类别之间的差异，低估类别内部的差异。这对应刻板印象的极端化（extremity）和同质化（homogeneity）。",
+      "howTo": "看到「组间差很大、组内都差不多」就选强化效应。记方向：类别之间夸大，类别内部缩小。它出现在标签与长度对应时，不是随机标签。",
+      "items": [
+        {
+          "stemEn": "In the Tajfel and Wilkes line study, what did participants do when labels matched line length?",
+          "optionsEn": [
+            "Minimised differences between categories and exaggerated differences within them",
+            "Exaggerated differences between categories and minimised differences within them",
+            "Exaggerated differences both between categories and within each of the categories",
+            "Judged every one of the lines accurately, because the labels gave them extra help"
+          ],
+          "answer": 1,
+          "stem": "在 Tajfel 和 Wilkes 的线段研究中，标签与长度对应时参与者怎么做？",
+          "options": [
+            "低估类别之间的差异，夸大类别内部的差异",
+            "夸大类别之间的差异，低估类别内部的差异",
+            "夸大类别之间的差异，也夸大每个类别内部的差异",
+            "准确判断了每条线段，因为标签提供了额外帮助"
+          ],
+          "how": [
+            "线索是「标签与长度对应」。",
+            "强化效应的方向是组间放大、组内缩小，所以选 B。",
+            "A 正好方向相反。"
+          ]
+        },
+        {
+          "stemEn": "A student says, 'Science majors and arts majors are completely different, and all arts majors are basically alike.' Which effect does this reflect?",
+          "optionsEn": [
+            "The contact caveat",
+            "The minimal group effect on money",
+            "The accentuation effect",
+            "The frustration–aggression effect"
+          ],
+          "answer": 2,
+          "stem": "一名学生说：「理科生和文科生完全不同，而文科生基本都一样。」这体现了哪种效应？",
+          "options": [
+            "接触警告（contact caveat）",
+            "最小群体范式中的金钱分配效应",
+            "分类强化效应（accentuation effect）",
+            "挫折—攻击效应（frustration–aggression）"
+          ],
+          "how": [
+            "线索是「完全不同」和「基本都一样」。",
+            "组间差异被夸大，组内差异被低估，这就是强化效应，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Which two features of stereotypes does the accentuation effect help to explain?",
+          "optionsEn": [
+            "Submission and conventionalism",
+            "Equal status and common goals",
+            "Scarcity and mutual exclusivity",
+            "Extremity and homogeneity"
+          ],
+          "answer": 3,
+          "stem": "强化效应有助于解释刻板印象的哪两个特征？",
+          "options": [
+            "服从（submission）和传统主义（conventionalism）",
+            "平等地位（equal status）和共同目标（common goals）",
+            "稀缺性（scarcity）和互斥性（mutual exclusivity）",
+            "极端化（extremity）和同质化（homogeneity）"
+          ],
+          "how": [
+            "题干问强化效应解释的「两个特征」。",
+            "组间夸大对应极端化，组内缩小对应同质化，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Someone claims the line study proves that social groups really do differ in fixed ways. What is the best reply?",
+          "optionsEn": [
+            "It shows that the labels removed all differences between the lines in each category",
+            "It proves that fixed differences exist, as the lines really were of different lengths",
+            "It shows that only people who are prejudiced experience any effect of categorisation",
+            "It shows that categorisation changes perception, not that group differences are fixed"
+          ],
+          "answer": 3,
+          "stem": "有人声称这项线段研究证明社会群体确实存在固定差异。最好的回应是什么？",
+          "options": [
+            "它说明标签消除了每个类别内部线段的全部差异",
+            "它证明固定差异存在，因为线段长度确实不同",
+            "它说明只有持偏见的人才会受到分类的影响",
+            "它说明分类改变知觉，不说明群体差异是固定的"
+          ],
+          "how": [
+            "线索是「证明社会群体确实存在固定差异」，这是过度推广。",
+            "研究显示的是标签如何改变判断，所以选 D。",
+            "A 也错：分类是低估差异，不是消除差异。"
+          ]
+        }
+      ],
+      "recap": "分类 → 组间差异放大 ＋ 组内差异缩小 → 刻板印象的极端化和同质化。"
+    },
+    {
+      "id": "L2-P09",
+      "title": "最小群体范式与分配策略",
+      "titleEn": "Minimal group paradigm and allocation strategies",
+      "conceptIds": [
+        "L2-C14",
+        "L2-C15"
+      ],
+      "kp": "按 Kandinsky、Klee 随意分组，没有历史、竞争、稀缺资源，成员互不认识，向匿名成员分配真实金钱，仍偏向内群体。策略：公平、最大共同收益、最大内群收益、最大差距（宁可自己少拿也要赢对方）。",
+      "howTo": "看到随意分组却偏向己方，选最小群体范式，结论是分类本身足够。分配题比较数字：选总和最大是共同收益；选己方最多是内群收益；己方更少但差距领先是最大差距。",
+      "items": [
+        {
+          "stemEn": "What made the Minimal Group Paradigm so important?",
+          "optionsEn": [
+            "Prejudice was found to follow from a person's personality profile",
+            "Merely forming an arbitrary ingroup could produce favouritism",
+            "Long histories of conflict were shown to be needed for prejudice",
+            "Limited cognitive capacity was shown to explain all discrimination"
+          ],
+          "answer": 1,
+          "stem": "最小群体范式（Minimal Group Paradigm）为什么如此重要？",
+          "options": [
+            "发现偏见取决于一个人的人格特征",
+            "仅仅形成一个随意的内群体就能产生偏爱",
+            "证明偏见需要长期的冲突历史",
+            "证明有限的认知容量能解释所有歧视"
+          ],
+          "how": [
+            "题干问「最小群体范式」的重要性。",
+            "随意分组、无历史无竞争，仍有内群体偏爱，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "In a study, students are told they prefer the painter Klee or Kandinsky, then give small sums to anonymous members. Which of these features was NOT part of the original design?",
+          "optionsEn": [
+            "A real competition over scarce resources between the groups",
+            "Group membership that was essentially arbitrary",
+            "Members of the groups who did not know each other",
+            "Real money allocated to anonymous group members"
+          ],
+          "answer": 0,
+          "stem": "一项研究告诉学生他们偏好画家 Klee 或 Kandinsky，然后让他们给匿名成员分配小额金钱。下列哪项不属于原始设计？",
+          "options": [
+            "两组之间对稀缺资源的真实竞争",
+            "本质上随意的群体归属",
+            "成员彼此互不认识",
+            "向匿名成员分配的真实金钱"
+          ],
+          "how": [
+            "线索是问「不属于原始设计」，要找范式里没有的东西。",
+            "这个范式的重点就是没有真实竞争和稀缺资源，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A participant must choose between (ingroup 23, outgroup 29) and (ingroup 11, outgroup 5). She picks the second. Which strategy does this reflect?",
+          "optionsEn": [
+            "Maximum difference",
+            "Maximum joint profit",
+            "Maximum ingroup profit",
+            "Fairness"
+          ],
+          "answer": 0,
+          "stem": "一名参与者要在（内群体 23，外群体 29）和（内群体 11，外群体 5）之间选择。她选了后者。这反映哪种策略？",
+          "options": [
+            "最大差距（maximum difference）",
+            "最大共同收益（maximum joint profit）",
+            "最大内群收益（maximum ingroup profit）",
+            "公平（fairness）"
+          ],
+          "how": [
+            "线索是她选了「内群体 11，外群体 5」，自己组拿得更少。",
+            "她放弃绝对收益，换取领先对方，这是最大差距，所以选 A。",
+            "C 会选 23，因为那才是自己组拿得最多。"
+          ]
+        },
+        {
+          "stemEn": "A manager splits a bonus so that the two teams together get the highest possible total, regardless of which team gets more. Which strategy is this?",
+          "optionsEn": [
+            "Maximum difference",
+            "Maximum ingroup profit",
+            "Maximum joint profit",
+            "Ingroup favouritism"
+          ],
+          "answer": 2,
+          "stem": "一位经理分配奖金时，只求两个团队的总额最高，不管哪个团队拿得更多。这是哪种策略？",
+          "options": [
+            "最大差距（maximum difference）",
+            "最大内群收益（maximum ingroup profit）",
+            "最大共同收益（maximum joint profit）",
+            "内群体偏爱（ingroup favouritism）"
+          ],
+          "how": [
+            "线索是「总额最高」和「不管哪个团队拿得更多」。",
+            "只看两组总和就是最大共同收益，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Which conclusion goes too far beyond the minimal group findings?",
+          "optionsEn": [
+            "Ingroup favouritism does not necessarily require real competition or history",
+            "Everyone will discriminate against others every time they are put into groups",
+            "Being categorised can be enough to start 'us and them' thinking in people",
+            "Participants may give up absolute gain so as to beat the other group"
+          ],
+          "answer": 1,
+          "stem": "哪个结论超出了最小群体研究所能支持的范围？",
+          "options": [
+            "内群体偏爱不一定需要真实竞争或历史",
+            "每个人每次被分组后都会歧视别人",
+            "被分类就可能足以启动「我们与他们」的思维",
+            "参与者可能放弃绝对收益，以便赢过对方"
+          ],
+          "how": [
+            "题干问哪个结论「超出」了范围，要找说得太绝对的那个。",
+            "随意分组可能引发偏爱，不代表人人每次都歧视，所以选 B。",
+            "其余三项都是笔记明确支持的说法。"
+          ]
+        }
+      ],
+      "recap": "随意分组也能产生内群体偏爱；最大差距 → 宁可少拿，也要赢。"
+    },
+    {
+      "id": "L2-P10",
+      "title": "社会认同、积极区分性与去个人化",
+      "titleEn": "Social identity, positive distinctiveness, depersonalisation",
+      "conceptIds": [
+        "L2-C16",
+        "L2-C17"
+      ],
+      "kp": "社会认同（social identity）是自我概念中带价值和情感意义的群体部分。积极区分性（positive distinctiveness）：希望己群比外群更好。去个人化（depersonalisation）：自我定义从「我」转向「我们」，不是失去人性。",
+      "howTo": "「希望我们组显得更好」选积极区分性。「我」变「我们」、接受群体规范选去个人化，排除失去人格的说法。哪层身份重要看情境：个人、子群体或上位群体。",
+      "items": [
+        {
+          "stemEn": "Social identity refers to:",
+          "optionsEn": [
+            "The part of the self-concept tied to group memberships, with value and emotional meaning",
+            "The part of the self-concept tied to private traits that make a person feel unique",
+            "The set of stereotypes that a person holds about the members of an outgroup",
+            "The share of resources that a person gives to anonymous members of an ingroup"
+          ],
+          "answer": 0,
+          "stem": "社会认同（social identity）是指：",
+          "options": [
+            "自我概念中与群体成员身份有关、带有价值和情感意义的部分",
+            "自我概念中与让人感到独特的私人特质有关的部分",
+            "一个人对外群体成员持有的一组刻板印象",
+            "一个人分配给匿名内群体成员的资源份额"
+          ],
+          "how": [
+            "题干问「社会认同」的定义。",
+            "它是自我概念中与群体身份有关并带情感的部分，所以选 A。",
+            "B 更接近个人身份（personal identity）。"
+          ]
+        },
+        {
+          "stemEn": "Fans of a university team constantly compare it with a rival and feel good when their side looks better. Which concept fits best?",
+          "optionsEn": [
+            "Positive distinctiveness",
+            "Authoritarian submission",
+            "Displaced aggression",
+            "Cognitive miserliness"
+          ],
+          "answer": 0,
+          "stem": "一所大学校队的球迷不断拿它和对手比较，自己一方显得更好时就感觉很好。哪个概念最合适？",
+          "options": [
+            "积极区分性（positive distinctiveness）",
+            "权威服从（authoritarian submission）",
+            "转移性攻击（displaced aggression）",
+            "认知吝啬（cognitive miserliness）"
+          ],
+          "how": [
+            "线索是「和对手比较」，「自己一方显得更好」时感觉好。",
+            "希望己群相对更好就是积极区分性，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "What does depersonalisation mean in Social Identity Theory?",
+          "optionsEn": [
+            "A person loses their humanity and their personality altogether",
+            "A person treats everyone else as having no feelings of their own",
+            "Self-definition shifts from 'I' towards 'we' as a group member",
+            "Self-definition becomes fixed and no longer changes with context"
+          ],
+          "answer": 2,
+          "stem": "在社会认同理论中，去个人化（depersonalisation）是什么意思？",
+          "options": [
+            "一个人完全失去人性和人格",
+            "一个人把别人都当作没有感受的人",
+            "自我定义从「我」转向作为群体成员的「我们」",
+            "自我定义变得固定，不再随情境变化"
+          ],
+          "how": [
+            "题干问理论中的「去个人化」。",
+            "它指从个人身份转向群体身份，所以选 C。",
+            "A 是笔记点名的误读，这里不是失去人性。"
+          ]
+        },
+        {
+          "stemEn": "At an international student fair, Hana thinks 'I'm Australian', but in her department she thinks 'I'm a psychology student'. What does this illustrate?",
+          "optionsEn": [
+            "Her personal identity has been replaced by a fixed social identity",
+            "Her two identities are in conflict and have to be resolved by assimilation",
+            "Which level of identity is salient changes with the context",
+            "Her subgroup identity has melted away into a superordinate identity"
+          ],
+          "answer": 2,
+          "stem": "在国际学生展上，Hana 想的是「我是澳大利亚人」；在系里，她想的是「我是心理学学生」。这说明什么？",
+          "options": [
+            "她的个人身份已被一个固定的社会身份取代",
+            "她的两种身份相互冲突，必须通过同化来解决",
+            "哪一层身份凸显（salient）会随情境变化",
+            "她的子群体身份已融入上位身份并消失了"
+          ],
+          "how": [
+            "线索是「国际学生展」和「系里」想到的身份不同。",
+            "哪个身份最重要会根据情境变化，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Which is a recognised limitation of Social Identity Theory?",
+          "optionsEn": [
+            "It cannot explain favouritism in groups, since it needs real competition for scarce resources",
+            "It may be overly deterministic, understating personal agency, and early evidence was artificial",
+            "It treats prejudice as a fixed personality trait that is formed by harsh early family life",
+            "It assumes that all prejudice results from frustration being displaced onto weaker groups"
+          ],
+          "answer": 1,
+          "stem": "下列哪项是社会认同理论公认的局限？",
+          "options": [
+            "它解释不了群体偏爱，因为它需要对稀缺资源的真实竞争",
+            "它可能过度决定论，低估个人能动性（agency），且早期证据较人工",
+            "它把偏见当成严厉早期家庭生活形成的固定人格特质",
+            "它假定所有偏见都来自挫折被转移到较弱群体上"
+          ],
+          "how": [
+            "题干问社会认同理论的「局限」。",
+            "笔记写的是早期证据人工、可能过度决定论，所以选 B。",
+            "不能假设群体身份一启动，人就必然变成「group zombie」。"
+          ]
+        }
+      ],
+      "recap": "积极区分性 → 想让己群更好；去个人化 → 从 I 到 We，不是失去人性。"
+    },
+    {
+      "id": "L2-P11",
+      "title": "五种偏见理论的比较",
+      "titleEn": "Comparing five approaches to prejudice",
+      "conceptIds": [
+        "L2-C18"
+      ],
+      "kp": "社会文化看竞争与资源；心理动力学看挫折转移；人格看权威主义；认知看分类捷径；社会认同看「我们—他们」和积极区分。教授立场：没有单一理论解释全部偏见；五项整合是记忆法，不是正式模型。",
+      "howTo": "先抓关键词配理论：稀缺、竞争配社会文化；挫折、替罪羊配心理动力学；权威、僵化配人格；捷径、过载配认知；内群体、区分配社会认同。「一个理论解释一切」不选。",
+      "items": [
+        {
+          "stemEn": "Which pairing of approach and main source of prejudice is correct?",
+          "optionsEn": [
+            "Personality: frustration displaced onto scapegoats",
+            "Psychodynamic: authoritarian and rigid tendencies",
+            "Cognitive: limited capacity and categorisation shortcuts",
+            "Social identity: scarce resources and real competition"
+          ],
+          "answer": 2,
+          "stem": "哪种理论与偏见主要来源的搭配是正确的？",
+          "options": [
+            "人格解释：挫折被转移到替罪羊上",
+            "心理动力学解释：权威主义和僵化倾向",
+            "认知解释：有限容量和分类捷径",
+            "社会认同解释：稀缺资源和真实竞争"
+          ],
+          "how": [
+            "题干问「理论与偏见主要来源」的搭配，逐项核对关键词。",
+            "有限容量和捷径属于认知解释，所以选 C。",
+            "A 和 B 的内容对调了。"
+          ]
+        },
+        {
+          "stemEn": "Researcher A blames economic competition for hostility between two groups. Researcher B blames a rigid character. Which approaches do A and B represent?",
+          "optionsEn": [
+            "A is personality; B is socio-cultural",
+            "A is psychodynamic; B is cognitive",
+            "A is socio-cultural; B is personality",
+            "A is cognitive; B is social identity"
+          ],
+          "answer": 2,
+          "stem": "研究者 A 认为两个群体的敌意来自经济竞争；研究者 B 认为来自僵化的性格。A 和 B 分别代表哪种解释？",
+          "options": [
+            "A 是人格解释；B 是社会文化解释",
+            "A 是心理动力学解释；B 是认知解释",
+            "A 是社会文化解释；B 是人格解释",
+            "A 是认知解释；B 是社会认同解释"
+          ],
+          "how": [
+            "线索是 A 说「经济竞争」，B 说「僵化的性格」。",
+            "竞争属社会文化，僵化性格属人格，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "An explanation says, 'Group members want their side to look better than others, so even trivial labels produce bias.' Which approach is this?",
+          "optionsEn": [
+            "Psychodynamic",
+            "Social identity",
+            "Personality",
+            "Socio-cultural"
+          ],
+          "answer": 1,
+          "stem": "有一种解释说：「群体成员希望己方比别人显得更好，所以连微不足道的标签都会产生偏向。」这是哪种解释？",
+          "options": [
+            "心理动力学解释",
+            "社会认同解释",
+            "人格解释",
+            "社会文化解释"
+          ],
+          "how": [
+            "线索是「希望己方比别人显得更好」和「微不足道的标签」。",
+            "积极区分性和最小群体都属于社会认同解释，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "What is the safest exam position on the five explanations of prejudice?",
+          "optionsEn": [
+            "Social identity theory has replaced the four other explanations entirely",
+            "The combined list of five factors is a formal model proposed by the lecturer",
+            "No single theory explains all prejudice; each explains a different part",
+            "The five theories contradict one another, so none of them is of any use"
+          ],
+          "answer": 2,
+          "stem": "关于五种偏见解释，考试中最稳妥的立场是什么？",
+          "options": [
+            "社会认同理论已经完全取代了其他四种解释",
+            "五个因素的整合清单是讲师提出的正式模型",
+            "没有单一理论能解释所有偏见，每种解释不同的部分",
+            "五种理论互相矛盾，所以都没有用处"
+          ],
+          "how": [
+            "题干问「最稳妥的立场」。",
+            "教授的核心立场是没有任何一个理论能单独解释所有偏见，所以选 C。",
+            "B 错：笔记写明这只是整合记忆法。"
+          ]
+        }
+      ],
+      "recap": "五种理论各看一环：竞争、挫折、人格、认知、认同；没有哪一个能解释一切。"
+    },
+    {
+      "id": "L2-P12",
+      "title": "接触假说与元分析",
+      "titleEn": "Contact hypothesis and meta-analysis",
+      "conceptIds": [
+        "L2-C19",
+        "L2-C20"
+      ],
+      "kp": "Allport：有意义的接触可减少偏见，理想条件是平等地位、制度支持、共同目标。机制：焦虑降、同理心和信任升。Pettigrew 与 Tropp 元分析（515 项研究，250,089 人，38 国）r ≈ -0.21：效应小，差异大。",
+      "howTo": "找三个条件：地位平等吗？制度支持吗？有共同目标吗？缺一项就不理想。读 r ≈ -0.21：接触多通常偏见低，但关系弱，不是因果，也不是人人有效。",
+      "items": [
+        {
+          "stemEn": "Which three conditions are listed as ideal for intergroup contact in this lecture?",
+          "optionsEn": [
+            "Equal status, institutional support and common goals",
+            "Equal status, competition and physical closeness",
+            "Unequal status, institutional support and anonymity",
+            "Frequent meetings, a shared room and clear hierarchy"
+          ],
+          "answer": 0,
+          "stem": "本讲列出的群体接触理想条件是哪三个？",
+          "options": [
+            "平等地位、制度支持和共同目标",
+            "平等地位、竞争和身体接近",
+            "不平等地位、制度支持和匿名",
+            "频繁见面、共用房间和明确等级"
+          ],
+          "how": [
+            "题干问接触的「理想条件」。",
+            "Allport 接触假说列的是平等地位、制度支持、共同目标，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A company has local and migrant staff work on one project. Migrants only take orders from locals, though management publicly backs the scheme. Which condition is most clearly missing?",
+          "optionsEn": [
+            "Institutional support",
+            "Physical contact",
+            "A shared location",
+            "Equal status"
+          ],
+          "answer": 3,
+          "stem": "一家公司让本地和移民员工做同一个项目。移民只听本地人的命令，管理层则公开支持该计划。最明显缺少哪个条件？",
+          "options": [
+            "制度支持（institutional support）",
+            "身体接触",
+            "共同地点",
+            "平等地位（equal status）"
+          ],
+          "how": [
+            "线索是「移民只听本地人的命令」。",
+            "一方支配另一方，就不是平等地位，所以选 D。",
+            "A 已满足，因为「管理层公开支持」。"
+          ]
+        },
+        {
+          "stemEn": "Which sequence shows how positive intergroup contact may reduce prejudice?",
+          "optionsEn": [
+            "Higher anxiety, then lower empathy and trust, then lower prejudice",
+            "Lower empathy, then higher anxiety and trust, then lower prejudice",
+            "Lower anxiety, then higher empathy and trust, then lower prejudice",
+            "Higher competition, then lower anxiety and trust, then lower prejudice"
+          ],
+          "answer": 2,
+          "stem": "哪个顺序展示了积极的群体接触可能如何减少偏见？",
+          "options": [
+            "焦虑上升，然后同理心和信任降低，然后偏见降低",
+            "同理心降低，然后焦虑和信任上升，然后偏见降低",
+            "焦虑降低，然后同理心和信任上升，然后偏见降低",
+            "竞争上升，然后焦虑和信任降低，然后偏见降低"
+          ],
+          "how": [
+            "题干问接触减少偏见的「顺序」。",
+            "积极接触先降焦虑，再提同理心和信任，最后降偏见，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Pettigrew and Tropp's meta-analysis found an average correlation of about r = -0.21 between contact and prejudice. What does this mean?",
+          "optionsEn": [
+            "More contact goes with higher prejudice on average, and the relationship is large and stable",
+            "More contact removes the prejudice of 21% of people, regardless of the setting of the contact",
+            "More contact causes lower prejudice in each study, and no study has found the opposite pattern",
+            "More contact goes with lower prejudice on average, but the relationship is small and varies"
+          ],
+          "answer": 3,
+          "stem": "Pettigrew 和 Tropp 的元分析发现接触与偏见的平均相关约为 r = -0.21。这是什么意思？",
+          "options": [
+            "平均而言接触更多伴随偏见更高，且关系大而稳定",
+            "更多接触消除 21% 的人的偏见，与接触情境无关",
+            "更多接触在每项研究中都造成偏见降低，没有相反结果",
+            "平均而言接触更多伴随偏见更低，但关系较小且差异大"
+          ],
+          "how": [
+            "线索是「平均相关」为负且数值较小，负号说明方向相反。",
+            "接触多通常偏见低，但效应小且研究间差异大，所以选 D。",
+            "C 错：有些研究甚至落在正方向。"
+          ]
+        },
+        {
+          "stemEn": "A city moves two hostile groups into one shopping mall, hoping that seeing each other will end prejudice. What would this lecture say?",
+          "optionsEn": [
+            "This will work well, because the amount of contact is what matters most",
+            "This cannot help, because the meta-analysis found that contact has no effect",
+            "Being in the same place is not the same as meaningful, cooperative contact",
+            "This will work, as long as each of the groups keeps its own identity intact"
+          ],
+          "answer": 2,
+          "stem": "一座城市把两个敌对群体迁到同一个购物中心，希望彼此见面就能结束偏见。本讲会怎么说？",
+          "options": [
+            "这会很有效，因为接触的数量最重要",
+            "这不可能有帮助，因为元分析发现接触没有效果",
+            "同处一地不等于有意义的合作性接触",
+            "只要各群体保持自己的身份，这就会有效"
+          ],
+          "how": [
+            "线索是希望「彼此见面」就能结束偏见。",
+            "只是放在同一地点，没有合作，不等于理想接触，所以选 C。",
+            "A 与教授总结的 quality 重于 quantity 相反。"
+          ]
+        }
+      ],
+      "recap": "平等地位＋制度支持＋共同目标；r ≈ -0.21 → 有帮助但效应小，看接触的性质。"
+    },
+    {
+      "id": "L2-P13",
+      "title": "接触警告与个体内改变",
+      "titleEn": "Contact caveat and within-person change",
+      "conceptIds": [
+        "L2-C21",
+        "L2-C22"
+      ],
+      "kp": "Barlow 等：负面接触增加偏见的关系往往强于正面接触减少偏见。少数群体要监控言行、代表群体，带来情绪劳动（emotional labour）。接触多的人偏见低是人际差异，不证明增加某人接触会降其偏见。",
+      "howTo": "「接触多的人比接触少的人」是 between-person；「同一个人增加接触后」是 within-person。看到前者推后者就错，还可能是偏见低的人更愿接触。题干写少数群体疲惫，选接触负担。",
+      "items": [
+        {
+          "stemEn": "What did Barlow and colleagues find about contact?",
+          "optionsEn": [
+            "Positive contact's link with reduced prejudice is always stronger than negative contact's link with increased prejudice",
+            "Negative contact is unrelated to prejudice, as long as positive contact also takes place at around the same time",
+            "Negative contact's link with increased prejudice is often stronger than positive contact's link with reduced prejudice",
+            "Exactly three positive meetings will fully cancel out the effect that one negative meeting has on prejudice"
+          ],
+          "answer": 2,
+          "stem": "Barlow 等人关于接触发现了什么？",
+          "options": [
+            "正面接触与偏见减少的关系，总是强于负面接触与偏见增加的关系",
+            "只要同时有正面接触，负面接触就与偏见无关",
+            "负面接触与偏见增加的关系，往往强于正面接触与偏见减少的关系",
+            "正好三次正面见面能完全抵消一次负面见面对偏见的影响"
+          ],
+          "how": [
+            "题干问「Barlow 等人」的发现。",
+            "负面接触的关系往往更强，所以选 C。",
+            "D 编了固定次数，笔记没有这种公式。"
+          ]
+        },
+        {
+          "stemEn": "A minority student feels she must watch every word and represent her whole group in diversity discussions, and she is exhausted. This illustrates:",
+          "optionsEn": [
+            "The accentuation effect of categorisation",
+            "The burden of contact and emotional labour",
+            "Parasocial contact through a media story",
+            "Ingroup favouritism in resource allocation"
+          ],
+          "answer": 1,
+          "stem": "一名少数群体学生觉得在多元讨论中必须注意每句话、代表整个群体，因而精疲力尽。这说明了：",
+          "options": [
+            "分类的强化效应（accentuation effect）",
+            "接触负担和情绪劳动（emotional labour）",
+            "通过媒体故事的拟社会接触（parasocial contact）",
+            "资源分配中的内群体偏爱（ingroup favouritism）"
+          ],
+          "how": [
+            "线索是「注意每句话」「代表整个群体」和「精疲力尽」。",
+            "这些都是接触给少数群体带来的情绪劳动，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Survey data show that people with more cross-group friends report less prejudice. Which conclusion is justified?",
+          "optionsEn": [
+            "This proves that raising one person's contact will reduce that person's prejudice",
+            "This proves that low-prejudice people avoid contact with members of other groups",
+            "This is a between-person association that does not prove change in any one person",
+            "This is a within-person change, since each person's contact was tracked over time"
+          ],
+          "answer": 2,
+          "stem": "调查数据显示，跨群体朋友更多的人报告的偏见更少。哪个结论是合理的？",
+          "options": [
+            "这证明增加某个人的接触会降低这个人的偏见",
+            "这证明偏见低的人会回避与其他群体成员接触",
+            "这是人际差异（between-person）的关联，不能证明某个人会改变",
+            "这是个体内改变（within-person），因为追踪了每个人的接触"
+          ],
+          "how": [
+            "线索是比较「朋友更多的人」，是不同人之间的比较。",
+            "这只是人际差异，不能推出个体内改变，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A researcher argues that more contact must cause less prejudice. Which alternative explanation does the lecture raise?",
+          "optionsEn": [
+            "People with higher prejudice may simply be more willing to seek contact",
+            "People with lower prejudice may simply be more willing to seek contact",
+            "People who have more contact may simply be much older than other people",
+            "People who have less contact may simply misunderstand the survey question"
+          ],
+          "answer": 1,
+          "stem": "一位研究者认为更多接触一定造成更少偏见。本讲提出了哪种替代解释？",
+          "options": [
+            "可能是偏见较高的人本来就更愿意接触",
+            "可能是偏见较低的人本来就更愿意接触",
+            "可能是接触更多的人只是比别人年长得多",
+            "可能是接触更少的人只是误解了调查问题"
+          ],
+          "how": [
+            "线索是「一定造成」，要找因果方向的问题。",
+            "可能是偏见低导致接触多，而不是反过来，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Which recommendation best fits the lecture's findings on contact?",
+          "optionsEn": [
+            "Focus on the quality of contact, and do not make minority groups carry the whole burden",
+            "Maximise the number of brief meetings, since any superficial contact reliably changes attitudes",
+            "Ask minority group members to educate others, since this removes any emotional cost for them",
+            "Avoid all contact between groups, since negative contact always outweighs any positive contact"
+          ],
+          "answer": 0,
+          "stem": "哪项建议最符合本讲关于接触的发现？",
+          "options": [
+            "重视接触质量，不要让少数群体承担全部负担",
+            "尽量增加短暂见面的次数，因为浅层接触能可靠地改变态度",
+            "请少数群体成员教育别人，因为这样对他们没有情绪代价",
+            "避免群体间的一切接触，因为负面接触总是超过正面接触"
+          ],
+          "how": [
+            "题干要「最符合」发现的建议。",
+            "教授强调 quality 重于 quantity，也不能把责任全推给少数群体，所以选 A。",
+            "D 过头：接触通常可能有帮助，只是看性质和情境。"
+          ]
+        }
+      ],
+      "recap": "负面接触效果可能更强；少数群体有情绪负担；人际差异 ≠ 个体内改变。"
+    },
+    {
+      "id": "L2-P14",
+      "title": "间接接触的三种形式",
+      "titleEn": "Vicarious, extended and parasocial contact",
+      "conceptIds": [
+        "L2-C23"
+      ],
+      "kp": "替代性接触（vicarious）：看到己群成员与外群积极互动，靠观察学习。延伸接触（extended）：知道己群成员与外群有亲密关系，可改变规范。拟社会接触（parasocial）：通过媒体人物了解外群。优势是不加重现实少数群体的情绪劳动。",
+      "howTo": "看动词：亲眼看到互动是替代性；只是知道朋友有外群好友是延伸；看电影、剧集、游戏里的角色是拟社会。媒体角色要有完整人格，刻板化配角效果不同。",
+      "items": [
+        {
+          "stemEn": "Watching a member of your own group interact positively with an outgroup member is called:",
+          "optionsEn": [
+            "Extended contact",
+            "Vicarious contact",
+            "Parasocial contact",
+            "Direct contact"
+          ],
+          "answer": 1,
+          "stem": "看到自己群体的成员与外群体成员积极互动，这叫做：",
+          "options": [
+            "延伸接触（extended contact）",
+            "替代性接触（vicarious contact）",
+            "拟社会接触（parasocial contact）",
+            "直接接触（direct contact）"
+          ],
+          "how": [
+            "线索是「看到」己群成员与外群体「积极互动」。",
+            "观察这种互动并从中学习就是替代性接触，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Tom has never met anyone from a certain group, but he learns that his close friend is dating someone from it. This is most like:",
+          "optionsEn": [
+            "Vicarious contact",
+            "Parasocial contact",
+            "Equal-status contact",
+            "Extended contact"
+          ],
+          "answer": 3,
+          "stem": "Tom 从未见过某群体的人，但他得知自己的好朋友正在和该群体的人约会。这最像：",
+          "options": [
+            "替代性接触（vicarious contact）",
+            "拟社会接触（parasocial contact）",
+            "平等地位接触（equal-status contact）",
+            "延伸接触（extended contact）"
+          ],
+          "how": [
+            "线索是「得知」好朋友「正在和该群体的人约会」。",
+            "只是知道己方的人有跨群亲密关系，就是延伸接触，所以选 D。",
+            "A 要亲眼看到互动，Tom 只是听说。"
+          ]
+        },
+        {
+          "stemEn": "A viewer gains empathy for a minority group after following a complex minority character across a TV series. This is:",
+          "optionsEn": [
+            "Extended contact",
+            "Vicarious contact",
+            "Parasocial contact",
+            "Common ingroup identity"
+          ],
+          "answer": 2,
+          "stem": "一位观众追了一部剧集，剧中少数群体角色形象丰满，他因此对该群体增加了同理心。这属于：",
+          "options": [
+            "延伸接触（extended contact）",
+            "替代性接触（vicarious contact）",
+            "拟社会接触（parasocial contact）",
+            "共同内群体认同（common ingroup identity）"
+          ],
+          "how": [
+            "线索是通过「剧集」中的「少数群体角色」。",
+            "通过媒体人物接触外群体就是拟社会接触，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "What is an advantage of indirect contact over relying on face-to-face contact?",
+          "optionsEn": [
+            "It guarantees larger effects than any form of direct contact",
+            "It removes the need to change any structural inequality at all",
+            "It works equally well when characters are merely stereotyped",
+            "It does not impose emotional labour on real minority members"
+          ],
+          "answer": 3,
+          "stem": "与依赖面对面接触相比，间接接触的一个优势是什么？",
+          "options": [
+            "它保证比任何直接接触都有更大的效果",
+            "它完全不需要再改变任何结构性不平等",
+            "角色只是刻板化配角时，它也同样有效",
+            "它不把情绪劳动强加给现实中的少数群体成员"
+          ],
+          "how": [
+            "题干问间接接触的「优势」。",
+            "笔记明确列出它不把情绪劳动强加给现实中的少数群体，所以选 D。",
+            "C 错：刻板化配角不一定有同样效果。"
+          ]
+        }
+      ],
+      "recap": "看到互动 → 替代性；知道关系 → 延伸；媒体角色 → 拟社会。"
+    },
+    {
+      "id": "L2-P15",
+      "title": "共同内群体认同与双重认同",
+      "titleEn": "Common ingroup identity and dual identity",
+      "conceptIds": [
+        "L2-C24",
+        "L2-C25"
+      ],
+      "kp": "共同内群体认同模型（CIIM）把「我们 vs 他们」改成共同的「我们」，好感可能扩展到原外群。只强调上位身份有同化（assimilation）风险：子群体身份消失，主流成默认标准。双重认同同时保留上位和子群体身份，对应多元文化主义。",
+      "howTo": "只提上位身份选 CIIM；看到「要加入就放弃原文化」选同化风险；看到「都是澳大利亚人，但方式不同」选双重认同和多元文化主义。多元文化不是只保留分裂。",
+      "items": [
+        {
+          "stemEn": "What is the core idea of the Common Ingroup Identity Model?",
+          "optionsEn": [
+            "Former ingroup and outgroup members come to see themselves as one larger group",
+            "Former ingroup and outgroup members keep apart to prevent any negative contact",
+            "Former outgroup members must first compete with the ingroup to earn equal status",
+            "Former outgroup members are viewed through separate stereotypes for each subgroup"
+          ],
+          "answer": 0,
+          "stem": "共同内群体认同模型（Common Ingroup Identity Model）的核心思想是什么？",
+          "options": [
+            "让原来的内群体和外群体成员把彼此看成同一个更大的群体",
+            "让原来的内群体和外群体成员保持距离，以免发生负面接触",
+            "原外群体成员必须先和内群体竞争，才能赢得平等地位",
+            "用针对各子群体的不同刻板印象来看待原外群体成员"
+          ],
+          "how": [
+            "题干问「共同内群体认同模型」的核心。",
+            "它用上位身份把「他们」放进更大的「我们」，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A university tells rival psychology and biology students, 'You are all ANU students.' According to CIIM, what should this encourage?",
+          "optionsEn": [
+            "Positive ingroup attitudes extending to the former outgroup",
+            "Stronger hostility, since a new label creates new rivalry",
+            "A shift of all students to the biology students' culture",
+            "Higher frustration displaced onto the university leaders"
+          ],
+          "answer": 0,
+          "stem": "一所大学告诉对立的心理学和生物学学生：「你们都是 ANU 学生。」按 CIIM，这应当促进什么？",
+          "options": [
+            "对内群体的好感扩展到原来的外群体",
+            "敌意增强，因为新标签带来新的竞争",
+            "所有学生转向生物学学生的文化",
+            "更高的挫折感被转移到大学领导身上"
+          ],
+          "how": [
+            "线索是「你们都是 ANU 学生」，这是在强调上位身份。",
+            "CIIM 认为原本给内群体的好感可能扩展到原外群体，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A country says, 'To be one of us, you must give up your own language and customs.' What risk does this represent?",
+          "optionsEn": [
+            "Dual identity",
+            "Vicarious contact",
+            "Assimilation",
+            "Positive distinctiveness"
+          ],
+          "answer": 2,
+          "stem": "一个国家说：「要成为我们的一员，你必须放弃自己的语言和习俗。」这代表什么风险？",
+          "options": [
+            "双重认同（dual identity）",
+            "替代性接触（vicarious contact）",
+            "同化（assimilation）",
+            "积极区分性（positive distinctiveness）"
+          ],
+          "how": [
+            "线索是「必须放弃自己的语言和习俗」。",
+            "子群体身份被消除，主流成为唯一标准，这就是同化，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Which policy statement best reflects the dual identity model?",
+          "optionsEn": [
+            "We are all Australians, so old cultural differences should be left behind",
+            "We are different peoples, so we should not claim any shared national identity",
+            "We are different peoples, so resources should go only to the largest culture",
+            "We are all Australians, and there are many different ways of being Australian"
+          ],
+          "answer": 3,
+          "stem": "哪项政策表述最能体现双重认同模型（dual identity model）？",
+          "options": [
+            "我们都是澳大利亚人，所以应把旧有文化差异抛在身后",
+            "我们是不同的族群，所以不应主张任何共同的国家身份",
+            "我们是不同的族群，所以资源只应给最大的文化群体",
+            "我们都是澳大利亚人，而成为澳大利亚人有许多不同的方式"
+          ],
+          "how": [
+            "题干问「双重认同模型」，要同时找到共同身份和子群体身份。",
+            "第一句保留上位身份，又承认多种方式，所以选 D。",
+            "A 走向同化，B 又丢了共同身份。"
+          ]
+        },
+        {
+          "stemEn": "Someone says that multiculturalism means groups must give up their differences to live in harmony. What is the best correction?",
+          "optionsEn": [
+            "Dual identity removes the shared identity so that subgroups can stay separate",
+            "Multiculturalism treats all sameness among the groups as being real harmony",
+            "Dual identity keeps a shared identity and subgroup identities at the same time",
+            "Multiculturalism means the dominant culture becomes the standard for everyone"
+          ],
+          "answer": 2,
+          "stem": "有人说，多元文化主义（multiculturalism）意味着各群体必须放弃差异才能和谐相处。最好的纠正是什么？",
+          "options": [
+            "双重认同去掉共同身份，让各子群体保持分离",
+            "多元文化主义把群体间的相同都当作真正的和谐",
+            "双重认同同时保留共同身份和子群体身份",
+            "多元文化主义意味着主流文化成为所有人的标准"
+          ],
+          "how": [
+            "线索是「必须放弃差异」，这是笔记列出的陷阱。",
+            "多元文化主义要求共同身份和子群体身份并存，所以选 C。",
+            "D 描述的是同化，不是多元文化主义。"
+          ]
+        }
+      ],
+      "recap": "CIIM → 他们变我们，但小心同化；双重认同 → 上位身份＋子群体身份。"
+    },
+    {
+      "id": "L2-P16",
+      "title": "减少偏见也是结构性改变",
+      "titleEn": "Prejudice reduction as social change",
+      "conceptIds": [
+        "L2-C26"
+      ],
+      "kp": "教授的五个方向：质量重于数量；社会规范与共同身份；换位思考与道德想象；干预时机（尽早，尤其青少年）；结构背景不能忽略。若贫困、隔离不变，偏见可能只变得更隐蔽，需要政策、政治行动和制度改革。",
+      "howTo": "题干问「怎样才真正减少偏见」时，选结合个人接触和结构改变的选项。看到「一次交流就解决」「只改个人态度就够」「责任在受歧视者」都排除。",
+      "items": [
+        {
+          "stemEn": "Which is one of the five directions the lecturer gave for reducing prejudice?",
+          "optionsEn": [
+            "Quality of relationships matters more than the number of contacts",
+            "Number of contacts matters more than the quality of relationships",
+            "Interventions work best when they are delayed until later adulthood",
+            "Structural contexts can be set aside once attitudes begin to improve"
+          ],
+          "answer": 0,
+          "stem": "下列哪项是讲师给出的减少偏见的五个方向之一？",
+          "options": [
+            "关系的质量比接触次数更重要",
+            "接触次数比关系的质量更重要",
+            "干预最好推迟到成年后期再进行",
+            "态度开始改善后，结构背景就可以放在一边"
+          ],
+          "how": [
+            "题干问「五个方向」之一。",
+            "第一个方向就是 quality 重于 quantity，所以选 A。",
+            "C 与「尽早干预」相反。"
+          ]
+        },
+        {
+          "stemEn": "A group's prejudice rests on long-term poverty and segregation. A programme changes people's stated attitudes but nothing else. What does the lecture warn might happen?",
+          "optionsEn": [
+            "Prejudice will fully disappear once stated attitudes have changed",
+            "Poverty will decline by itself once a positive contact has occurred",
+            "Segregation will strengthen group identity and so remove prejudice",
+            "Open prejudice may just turn into subtler, more symbolic forms"
+          ],
+          "answer": 3,
+          "stem": "某群体面临的偏见建立在长期贫困和隔离之上。一个项目改变了人们表达的态度，其他都没变。本讲提醒可能发生什么？",
+          "options": [
+            "表达的态度一变，偏见就会完全消失",
+            "一次积极接触后，贫困会自行减少",
+            "隔离会增强群体认同，从而消除偏见",
+            "公开偏见可能只是变成更隐蔽、更象征性的形式"
+          ],
+          "how": [
+            "线索是「长期贫困和隔离」不变，只改「表达的态度」。",
+            "单纯改变个人态度，偏见可能变得更隐蔽，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A school hosts one friendly exchange between students from two communities and declares the problem of inequality solved. What is the best critique?",
+          "optionsEn": [
+            "A single exchange cannot fix policies, segregation and deprivation",
+            "A single exchange is enough, provided that it was a friendly one",
+            "An exchange is harmful, since schools should not address prejudice",
+            "An exchange has failed unless minority students lead all of the work"
+          ],
+          "answer": 0,
+          "stem": "一所学校举办了一次两个社区学生之间的友好交流，便宣布不平等问题已解决。最好的批评是什么？",
+          "options": [
+            "一次交流解决不了政策、隔离和长期剥夺的问题",
+            "只要是友好的交流，一次就足够了",
+            "交流是有害的，因为学校不应处理偏见问题",
+            "除非由少数群体学生主导全部工作，否则交流就算失败"
+          ],
+          "how": [
+            "线索是「一次」交流，就「宣布不平等问题已解决」。",
+            "微观接触若脱离社会结构，效果可能非常有限，所以选 A。",
+            "D 又把责任推给了受偏见影响的群体。"
+          ]
+        }
+      ],
+      "recap": "质量重于数量；不改贫困和制度，偏见可能只是变隐蔽。"
+    }
+  ]
+}

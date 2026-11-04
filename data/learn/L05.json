@@ -1,0 +1,1597 @@
+{
+  "lectureId": 5,
+  "points": [
+    {
+      "id": "L5-P01",
+      "title": "终身发展与早期理论",
+      "titleEn": "Lifespan development and early theorists",
+      "conceptIds": [
+        "L5-C01",
+        "L5-C02"
+      ],
+      "kp": "发展心理学研究一生中多领域的变化，也描述典型与非典型发展。Locke 白板说强调经验；Freud 重童年和意识外过程；Adler 重主观经验与归属；Jung 重终身发展。这些是历史贡献，不等于已被现代证据证实。",
+      "howTo": "问范围选「一生、多领域」，排除「只研究儿童」。按人物对号：白板→Locke；童年与意识外过程→Freud；归属与能力→Adler；后期自我反思、原型→Jung。",
+      "items": [
+        {
+          "stemEn": "A student says, 'Developmental psychology stops being relevant once adolescence ends.' What is the best correction?",
+          "optionsEn": [
+            "It covers only cognitive change, and only until early adulthood",
+            "It studies change across the lifespan and across many domains",
+            "It is a checklist of which skills children have at each age",
+            "It studies adults only when they show atypical development"
+          ],
+          "answer": 1,
+          "stem": "一名学生说：「青春期结束后，发展心理学就不再相关了。」最好的更正是什么？",
+          "options": [
+            "它只涉及认知变化，且只到成年早期",
+            "它研究一生中多个领域的变化",
+            "它是一份各年龄儿童掌握哪些技能的清单",
+            "它只在成人出现非典型发展时才研究成人"
+          ],
+          "how": [
+            "学生说「青春期结束后」就不再相关，把发展等同于儿童期。",
+            "发展心理学研究一生中多领域的变化，所以选 B。",
+            "C 正是易错点：它不只是年龄清单。"
+          ]
+        },
+        {
+          "stemEn": "A theorist argues that childhood experience can shape the adult and that behaviour can be influenced by processes outside awareness. Which figure does this best describe?",
+          "optionsEn": [
+            "Sigmund Freud",
+            "Alfred Adler",
+            "John Locke",
+            "Carl Jung"
+          ],
+          "answer": 0,
+          "stem": "一位理论家认为，童年经验会塑造成人，行为也会受意识之外的过程影响。这最符合哪位人物？",
+          "options": [
+            "Sigmund Freud",
+            "Alfred Adler",
+            "John Locke",
+            "Carl Jung"
+          ],
+          "how": [
+            "题干的线索是「童年经验」和「意识之外的过程」。",
+            "这两点是课堂列出的 Freud 贡献，所以选 A。",
+            "Adler 重主观经验与归属，Jung 重终身发展和后期自我反思。"
+          ]
+        },
+        {
+          "stemEn": "'A newborn's mind is like a blank slate, and experience writes on it.' Which position does this express?",
+          "optionsEn": [
+            "Jung's archetypes",
+            "Gesell's maturational timetable",
+            "Chomsky's language acquisition device",
+            "Locke's tabula rasa"
+          ],
+          "answer": 3,
+          "stem": "「新生儿的心灵像一块白板，由经验在上面书写。」这表达了哪种立场？",
+          "options": [
+            "Jung 的原型（archetypes）",
+            "Gesell 的成熟时间表（maturational timetable）",
+            "Chomsky 的语言习得装置（LAD）",
+            "Locke 的白板说（tabula rasa）"
+          ],
+          "how": [
+            "题干说「白板」，并由「经验」书写，这是强环境论。",
+            "这正是 Locke 的白板说，所以选 D。",
+            "B 和 C 都偏向先天一端，方向相反。"
+          ]
+        },
+        {
+          "stemEn": "In Japan, Shichi-Go-San marks ages 3, 5 and 7 as cultural milestones. What does this example best illustrate?",
+          "optionsEn": [
+            "Children's abilities jump at exactly these three ages everywhere",
+            "Piaget's stages begin at ages 3, 5 and 7",
+            "Childhood is defined partly by history and culture",
+            "Cultural rituals have no link to how childhood is understood"
+          ],
+          "answer": 2,
+          "stem": "日本的七五三（Shichi-Go-San）把 3、5、7 岁作为文化里程碑。这个例子最能说明什么？",
+          "options": [
+            "各地儿童的能力都恰好在这三个年龄跃升",
+            "Piaget 的阶段从 3、5、7 岁开始",
+            "童年的定义部分来自历史和文化",
+            "文化仪式与人们如何理解童年毫无关系"
+          ],
+          "how": [
+            "题干说的是「文化里程碑」，年龄边界由文化标记。",
+            "社会如何定义童年会随历史和文化改变，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "A student argues that research on implicit processing proves Freud's psychoanalytic unconscious, and that MBTI's popularity proves Jung's archetypes. What is the best evaluation?",
+          "optionsEn": [
+            "Both claims are correct, because each theory has modern applications",
+            "Only the MBTI claim is correct, because the test is so widely used",
+            "Only the Freud claim is correct, because implicit processing equals repression",
+            "Neither follows; these are historical contributions, not modern proof"
+          ],
+          "answer": 3,
+          "stem": "一名学生认为，隐性加工研究证明了 Freud 的精神分析无意识，MBTI 的流行证明了 Jung 的原型。最好的评价是什么？",
+          "options": [
+            "两种说法都对，因为两种理论都有现代应用",
+            "只有 MBTI 的说法对，因为该测验使用广泛",
+            "只有 Freud 的说法对，因为隐性加工等于压抑",
+            "两者都不成立；这些是历史贡献，不是现代证明"
+          ],
+          "how": [
+            "学生用「隐性加工研究」证明无意识，用「MBTI 的流行」证明原型，都跨了一大步。",
+            "课堂只把它们当历史贡献，不能认定已获现代证据支持，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "发展不在童年结束。四人记贡献，别把隐性加工当 Freud 无意识的证明。"
+    },
+    {
+      "id": "L5-P02",
+      "title": "先天与后天的互动",
+      "titleEn": "Nature-nurture interaction",
+      "conceptIds": [
+        "L5-C03"
+      ],
+      "kp": "Nature 指遗传和成熟（Gesell 动作里程碑、Chomsky 的 LAD）；nurture 指环境和学习（行为主义、Little Albert）。现代观点不站队，而是问两者何时、如何互动，贡献多大。",
+      "howTo": "成熟时间表、LAD 选 nature；条件作用、学习选 nurture。综合题选「动态互动」，排除「完全由……决定」。Little Albert 只说明恐惧可被条件化，不能证明环境解释一切。",
+      "items": [
+        {
+          "stemEn": "Gesell's work on motor milestones is typically used as evidence for which side of the debate?",
+          "optionsEn": [
+            "Nurture, through conditioning",
+            "Nature, through maturation",
+            "Stage-free continuity of learning",
+            "Cultural mediation of play"
+          ],
+          "answer": 1,
+          "stem": "Gesell 关于动作里程碑的研究通常被用作争论哪一方的证据？",
+          "options": [
+            "后天（nurture），通过条件作用",
+            "先天（nature），通过成熟",
+            "无阶段的学习连续性",
+            "游戏的文化中介"
+          ],
+          "how": [
+            "题干提到「Gesell」和「动作里程碑」，这是按时间表成熟的例子。",
+            "成熟时间表属于先天一方，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "What can the Little Albert study by Watson and Rayner legitimately be used to show?",
+          "optionsEn": [
+            "The environment explains every aspect of development",
+            "Fear responses are entirely innate in human infants",
+            "Motor milestones are a fixed script for each child",
+            "Fear can be conditioned, but the study has ethical problems"
+          ],
+          "answer": 3,
+          "stem": "Watson 与 Rayner 的 Little Albert 研究可以合理地用来说明什么？",
+          "options": [
+            "环境解释了发展的所有方面",
+            "人类婴儿的恐惧反应完全是先天的",
+            "动作里程碑是每个儿童的固定脚本",
+            "恐惧可以被条件化，但这项研究有伦理问题"
+          ],
+          "how": [
+            "题干问「合理地」说明什么，要选不超出证据的说法。",
+            "它说明恐惧可被条件化，同时有严重伦理与方法问题，所以选 D。",
+            "A 是过度结论：一项条件作用研究不能证明环境解释一切。"
+          ]
+        },
+        {
+          "stemEn": "A child with a genetic tendency towards reading difficulty improves a great deal with well-matched teaching. Which conclusion is most consistent with the modern view?",
+          "optionsEn": [
+            "Genes and experience interact over time, so outcomes can change",
+            "The improvement shows that genes play no part in reading at all",
+            "Genetic influence means teaching can never change the outcome",
+            "Teaching worked, so the debate has been won by the nurture side"
+          ],
+          "answer": 0,
+          "stem": "一名有阅读困难遗传倾向的儿童，在匹配良好的教学后进步很大。哪项结论最符合现代观点？",
+          "options": [
+            "基因与经验随时间互动，所以结果可以改变",
+            "这一进步说明基因与阅读完全无关",
+            "遗传影响意味着教学永远不能改变结果",
+            "教学有效，所以后天一方赢得了这场争论"
+          ],
+          "how": [
+            "题干同时有「遗传倾向」和「匹配良好的教学」，两边都在起作用。",
+            "现代观点强调两者随时间互动，所以选 A。",
+            "B 和 D 都在站队；有环境影响不表示生物不起作用。"
+          ]
+        }
+      ],
+      "recap": "不问谁完全正确，问何时、如何、贡献多大。有遗传影响不等于不能改变。"
+    },
+    {
+      "id": "L5-P03",
+      "title": "关键期与敏感期",
+      "titleEn": "Critical versus sensitive periods",
+      "conceptIds": [
+        "L5-C04"
+      ],
+      "kp": "关键期是严格窗口，缺少必要输入可能造成难以逆转的变化，如印记。敏感期内输入影响更强，但之后仍可学习或补偿，更符合许多人类能力。Victor、Genie 和罗马尼亚孤儿院案例都混有其他因素。",
+      "howTo": "「错过难以逆转」选 critical；「之后仍可学、只是更难」选 sensitive。案例题抓混淆：虐待、营养、创伤。看到「绝对学不会」「单个案例证明」就排除。",
+      "items": [
+        {
+          "stemEn": "A gosling forms a strong bond to a moving object only during a narrow window, and missing it produces change that is hard to reverse. Which concept fits best?",
+          "optionsEn": [
+            "Sensitive period",
+            "Cohort effect",
+            "Critical period",
+            "Zone of proximal development"
+          ],
+          "answer": 2,
+          "stem": "幼鹅只在狭窄的时间窗口内对移动物体形成强烈联结，错过后造成的变化难以逆转。哪个概念最符合？",
+          "options": [
+            "敏感期（sensitive period）",
+            "世代效应（cohort effect）",
+            "关键期（critical period）",
+            "最近发展区（zone of proximal development）"
+          ],
+          "how": [
+            "题干说「狭窄的时间窗口」，错过后「难以逆转」。",
+            "严格窗口加难以逆转就是关键期，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Second-language accents tend to come more easily in childhood, yet many adults still reach high proficiency. Which concept fits best?",
+          "optionsEn": [
+            "Sensitive period",
+            "Critical period",
+            "Practice effect",
+            "Tabula rasa"
+          ],
+          "answer": 0,
+          "stem": "第二语言的口音在童年往往更容易学，但许多成年人仍能达到很高熟练度。哪个概念最符合？",
+          "options": [
+            "敏感期（sensitive period）",
+            "关键期（critical period）",
+            "练习效应（practice effect）",
+            "白板说（tabula rasa）"
+          ],
+          "how": [
+            "题干说童年「更容易学」，成年人「仍能」达到很高熟练度。",
+            "影响更强但之后仍可学习，这是敏感期，所以选 A。",
+            "B 要求错过后难以逆转，与成年人仍能学会不符。"
+          ]
+        },
+        {
+          "stemEn": "Children from Romanian orphanages partly recovered after moving to enriched care. Which interpretation is most defensible?",
+          "optionsEn": [
+            "Recovery was complete for every child, so early input is unimportant",
+            "Deprivation has no lasting link to development once care improves",
+            "No recovery is possible after a strict language window has closed",
+            "Early input matters, and recovery varies with duration and later care"
+          ],
+          "answer": 3,
+          "stem": "罗马尼亚孤儿院的儿童转入丰富照料后部分恢复。哪种解释最站得住脚？",
+          "options": [
+            "每个儿童都完全恢复，所以早期输入不重要",
+            "照料改善后，剥夺与发展不再有任何关联",
+            "严格的语言窗口关闭后不可能恢复",
+            "早期输入重要，恢复程度随剥夺时长和后续照料而变"
+          ],
+          "how": [
+            "题干说的是「部分恢复」，既不是完全恢复，也不是不能恢复。",
+            "早期输入重要，恢复还看剥夺时长、转移年龄和后续环境，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Genie learned some vocabulary after being rescued at 13, but her grammar stayed limited. A student says this proves language has a strict cut-off age. What is the main problem?",
+          "optionsEn": [
+            "Genie showed no communication at all, so the case is uninformative",
+            "Abuse, nutrition and cognitive status are confounds in a single case",
+            "Her grammar developed normally, which contradicts the student's claim",
+            "Case studies always prove the opposite of what researchers expect"
+          ],
+          "answer": 1,
+          "stem": "Genie 13 岁获救后学到了一些词汇，但语法发展有限。一名学生说这证明语言有严格的截止年龄。主要问题是什么？",
+          "options": [
+            "Genie 完全没有沟通能力，所以这个案例没有信息量",
+            "虐待、营养和认知状态是这一单个案例中的混淆因素",
+            "她的语法发展正常，这与学生的说法矛盾",
+            "个案研究总是证明与研究者预期相反的结论"
+          ],
+          "how": [
+            "学生从「严格的截止年龄」下结论，依据却只是一个案例。",
+            "创伤、虐待、营养等混在其中，不能归因于年龄窗口，所以选 B。",
+            "A 和 C 都与事实不符：她学到了部分词汇，语法有限。"
+          ]
+        }
+      ],
+      "recap": "关键期：错过难逆转。敏感期：影响强，仍可补偿。单个案例证明不了严格关键期。"
+    },
+    {
+      "id": "L5-P04",
+      "title": "阶段式、连续式与 DCCS",
+      "titleEn": "Stage-like vs continuous development: DCCS",
+      "conceptIds": [
+        "L5-C05"
+      ],
+      "kp": "阶段式强调推理方式的质变，连续式强调效率、协调和熟练度逐渐提高。DCCS 先按颜色再按形状分类，5 岁通常能切换，3 岁常沿用旧规则。两种解释都能说明这一结果，一次表现也不等于全部理解。",
+      "howTo": "「质的飞跃、新能力出现」选 stage-like；「已有能力逐步变熟练」选 continuous。DCCS 记先颜色后形状，3 岁坚持旧规则。看到「证明完全不懂规则」就排除。",
+      "items": [
+        {
+          "stemEn": "Which description of the Dimensional Change Card Sort is correct?",
+          "optionsEn": [
+            "Sort by colour, then by shape; 5-year-olds usually switch, 3-year-olds often persist",
+            "Sort by shape, then by colour; 3-year-olds usually switch, 5-year-olds often persist",
+            "Sort by number, then by colour; both age groups persist with the old rule",
+            "Sort by colour, then by size; both age groups switch without any difficulty"
+          ],
+          "answer": 0,
+          "stem": "下列哪项对维度变化卡片分类（DCCS）的描述正确？",
+          "options": [
+            "先按颜色再按形状分类；5 岁通常能切换，3 岁常沿用旧规则",
+            "先按形状再按颜色分类；3 岁通常能切换，5 岁常沿用旧规则",
+            "先按数量再按颜色分类；两个年龄组都沿用旧规则",
+            "先按颜色再按大小分类；两个年龄组都能轻松切换"
+          ],
+          "how": [
+            "题干问「DCCS」的描述，要核对分类顺序和年龄结果。",
+            "任务是先颜色后形状，5 岁较能切换，3 岁常持续用旧规则，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A researcher explains growth in a skill through gradually better efficiency and coordination, with no new form of reasoning. Which view is this?",
+          "optionsEn": [
+            "Stage-like view",
+            "Sequential view",
+            "Continuous view",
+            "Critical-period view"
+          ],
+          "answer": 2,
+          "stem": "一位研究者用逐渐提高的效率和协调来解释某项技能的增长，没有新的推理形式。这是哪种观点？",
+          "options": [
+            "阶段式观点（stage-like view）",
+            "序列观点（sequential view）",
+            "连续式观点（continuous view）",
+            "关键期观点（critical-period view）"
+          ],
+          "how": [
+            "题干说「逐渐提高的效率和协调」，且「没有新的推理形式」。",
+            "能力逐步增强而非质变，这是连续式观点，所以选 C。",
+            "B 容易混：sequential 是研究设计，不是发展观点。"
+          ]
+        },
+        {
+          "stemEn": "A 3-year-old says 'now shape' but keeps sorting by colour. How could the two accounts each explain this?",
+          "optionsEn": [
+            "Stage: colour has become more familiar; continuous: shape cannot be seen",
+            "Stage: new flexibility has not emerged; continuous: the load is too high",
+            "Stage: the child is being disobedient; continuous: the child has low intelligence",
+            "Both accounts agree that the child does not understand the word 'shape'"
+          ],
+          "answer": 1,
+          "stem": "一名 3 岁儿童说「现在按形状」，却继续按颜色分类。两种解释分别会怎么说？",
+          "options": [
+            "阶段式：颜色变得更熟悉；连续式：看不到形状",
+            "阶段式：新的灵活性尚未出现；连续式：负荷太高",
+            "阶段式：儿童不听话；连续式：儿童智力低",
+            "两种解释都认为儿童听不懂「形状」这个词"
+          ],
+          "how": [
+            "题干说儿童嘴上说「现在按形状」，手上「继续按颜色分类」，说明不是完全不懂规则。",
+            "阶段式看新抑制和灵活性未出现，连续式看记忆、规则与抑制的负荷，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "3 岁沿用旧规则，5 岁能切换。同一结果两种解释都行，表现不是能力的纯净读数。"
+    },
+    {
+      "id": "L5-P05",
+      "title": "普遍过程与文化化内容",
+      "titleEn": "Universal and culturally mediated development",
+      "conceptIds": [
+        "L5-C06"
+      ],
+      "kp": "某过程普遍存在，不表示内容相同。游戏广泛出现，儿童约 2.5–4 岁更主动发起互动，但象征内容、伙伴和脚本受文化影响。Haight 等（1999）：爱尔兰裔美国儿童较多幻想主题，台湾儿童较多现实家庭游戏。",
+      "howTo": "问 Haight 结果记爱尔兰裔美国偏幻想、台湾偏现实家庭。问含义选「文化可能调节内容」。看到「所有东方／西方儿童」就排除：单一旧研究不能推出固定差异。",
+      "items": [
+        {
+          "stemEn": "What did Haight et al. (1999) report about children's play, according to the slides?",
+          "optionsEn": [
+            "Taiwanese children: more fantasy-themed; Irish-American children: more domestic",
+            "Both groups: equal amounts of fantasy and domestic play",
+            "Irish-American children: no pretend play; Taiwanese children: only fantasy",
+            "Irish-American children: more fantasy-themed; Taiwanese children: more domestic"
+          ],
+          "answer": 3,
+          "stem": "根据课件，Haight 等（1999）报告了儿童游戏的什么结果？",
+          "options": [
+            "台湾儿童较多幻想主题；爱尔兰裔美国儿童较多家庭主题",
+            "两组的幻想与家庭游戏一样多",
+            "爱尔兰裔美国儿童没有假装游戏；台湾儿童只有幻想游戏",
+            "爱尔兰裔美国儿童较多幻想主题；台湾儿童较多家庭主题"
+          ],
+          "how": [
+            "题干问「Haight 等（1999）」的结果，要核对方向。",
+            "爱尔兰裔美国儿童偏幻想，台湾儿童偏现实家庭，所以选 D。",
+            "A 把方向说反了。"
+          ]
+        },
+        {
+          "stemEn": "A writer cites Haight et al. to claim that all Western children prefer fantasy play. What is the best response?",
+          "optionsEn": [
+            "A single older study shows only that culture may moderate play content",
+            "The claim is correct, as the study sampled all Western countries",
+            "The claim is correct, since play does not appear in Eastern cultures",
+            "Culture was shown to have no influence on what children play at all"
+          ],
+          "answer": 0,
+          "stem": "一位作者引用 Haight 等的研究，声称所有西方儿童都偏爱幻想游戏。最好的回应是什么？",
+          "options": [
+            "单一旧研究只能说明文化可能调节游戏内容",
+            "这一说法正确，因为研究抽取了所有西方国家",
+            "这一说法正确，因为东方文化中没有游戏",
+            "研究表明文化对儿童玩什么完全没有影响"
+          ],
+          "how": [
+            "作者说「所有西方儿童」，把一项研究的两个样本扩大成国籍规律。",
+            "单一旧研究只能说明文化可能调节内容，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Which example best shows a broad developmental process with culturally shaped content?",
+          "optionsEn": [
+            "Children in one town play, while play is absent from most other communities",
+            "Children everywhere play the same games with the same scripts and partners",
+            "Children across cultures start initiating play, but scripts and partners differ",
+            "Children's play depends only on maturation, so culture has no role"
+          ],
+          "answer": 2,
+          "stem": "哪个例子最能说明广泛存在的发展过程，同时内容受文化塑造？",
+          "options": [
+            "只有一个城镇的儿童玩游戏，其他多数社区没有游戏",
+            "各地儿童用同样的脚本和伙伴玩同样的游戏",
+            "各文化的儿童都开始发起游戏，但脚本和伙伴不同",
+            "儿童游戏只取决于成熟，文化不起作用"
+          ],
+          "how": [
+            "题干要同时满足「广泛存在」和「内容受文化塑造」两个条件。",
+            "只有过程共有、脚本和伙伴不同的例子两者都满足，所以选 C。",
+            "B 错在只有普遍，A 错在不广泛。"
+          ]
+        }
+      ],
+      "recap": "过程可普遍，内容受文化影响。单项旧研究不能变成国籍定律。"
+    },
+    {
+      "id": "L5-P06",
+      "title": "三种研究设计",
+      "titleEn": "Cross-sectional, longitudinal and sequential designs",
+      "conceptIds": [
+        "L5-C07",
+        "L5-C08",
+        "L5-C09"
+      ],
+      "kp": "横断设计同一时间比较不同年龄组，快但有世代效应。纵向设计反复测同一批人，能看个人变化，但有流失、练习效应，耗时贵。序列设计让多个出生群各自纵向追踪，更能区分年龄、世代和时代影响，但最复杂。",
+      "howTo": "一次测多个年龄→横断，问缺点答 cohort。同一批人反复测→纵向，问缺点答 attrition、practice。多个出生群各自追踪→序列。年龄差异和纵向变化都不等于已证明原因。",
+      "items": [
+        {
+          "stemEn": "A researcher gives a spatial memory test once to groups of 30-, 50- and 70-year-olds. What design is this?",
+          "optionsEn": [
+            "Longitudinal",
+            "Cross-sectional",
+            "Sequential",
+            "Case study"
+          ],
+          "answer": 1,
+          "stem": "一位研究者一次性给 30 岁、50 岁和 70 岁的各组做空间记忆测验。这是什么设计？",
+          "options": [
+            "纵向设计（longitudinal）",
+            "横断设计（cross-sectional）",
+            "序列设计（sequential）",
+            "个案研究（case study）"
+          ],
+          "how": [
+            "题干说「一次性」测「30 岁、50 岁和 70 岁的各组」，不同年龄组只测一次。",
+            "同一时间比较不同年龄组就是横断设计，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "The same participants complete a reading test every two years from age 10 to age 30. What design is this?",
+          "optionsEn": [
+            "Cross-sectional",
+            "Sequential",
+            "Longitudinal",
+            "Archival"
+          ],
+          "answer": 2,
+          "stem": "同一批参与者从 10 岁到 30 岁每两年做一次阅读测验。这是什么设计？",
+          "options": [
+            "横断设计（cross-sectional）",
+            "序列设计（sequential）",
+            "纵向设计（longitudinal）",
+            "档案研究（archival）"
+          ],
+          "how": [
+            "题干说「同一批参与者」「每两年」测一次，只有一个群体被反复测。",
+            "同一批人多时点测量就是纵向设计，所以选 C。",
+            "B 需要多个出生群，题干只有一批人。"
+          ]
+        },
+        {
+          "stemEn": "People born in 1990 and people born in 2000 are each followed and retested for 15 years. What design is this, and what does it help with?",
+          "optionsEn": [
+            "Sequential; separating age, cohort and period effects",
+            "Longitudinal; eliminating all alternative explanations",
+            "Cross-sectional; saving time and research costs",
+            "Case study; generating hypotheses about rare events"
+          ],
+          "answer": 0,
+          "stem": "1990 年出生和 2000 年出生的人各自被追踪并重测 15 年。这是什么设计？它有助于什么？",
+          "options": [
+            "序列设计；区分年龄、世代和时代效应",
+            "纵向设计；排除所有其他解释",
+            "横断设计；节省时间和研究费用",
+            "个案研究；对罕见事件形成假设"
+          ],
+          "how": [
+            "题干有两个出生群，并且「各自」被「追踪并重测」。",
+            "多个出生群各自纵向追踪就是序列设计，能更好区分三种效应，所以选 A。",
+            "它也不能排除所有其他原因，别把序列设计说成完美。"
+          ]
+        },
+        {
+          "stemEn": "A one-time study finds that 70-year-olds know less coding than 20-year-olds, and concludes that ageing reduces coding ability. What is the main problem?",
+          "optionsEn": [
+            "Attrition of lower-scoring participants over time",
+            "Practice effects from repeated testing of the groups",
+            "The study takes decades to complete and costs too much",
+            "The difference may reflect growing up in a different era"
+          ],
+          "answer": 3,
+          "stem": "一项一次性研究发现 70 岁的人比 20 岁的人懂的编程少，并得出结论：变老降低编程能力。主要问题是什么？",
+          "options": [
+            "低分参与者随时间流失",
+            "各组反复测验带来的练习效应",
+            "研究需要几十年才能完成，花费太高",
+            "这一差异可能反映成长年代不同"
+          ],
+          "how": [
+            "题干说「一次性研究」，并从年龄差异推出「变老降低」能力。",
+            "横断比较混有世代效应，差异可能来自成长年代，所以选 D。",
+            "A、B、C 都是纵向设计的缺点，这里只测一次。"
+          ]
+        },
+        {
+          "stemEn": "In a longitudinal study, scores rise at each retest, but the task is identical each time. Which explanation most needs to be ruled out?",
+          "optionsEn": [
+            "A cohort difference between the age groups",
+            "Practice effects from repeated testing",
+            "An ecological fallacy based on national data",
+            "A lack of within-person measurement"
+          ],
+          "answer": 1,
+          "stem": "在一项纵向研究中，每次重测分数都上升，但每次任务都相同。最需要排除哪种解释？",
+          "options": [
+            "年龄组之间的世代差异",
+            "反复测试带来的练习效应",
+            "基于国家数据的生态谬误",
+            "缺少个人内部的测量"
+          ],
+          "how": [
+            "题干的线索是「每次任务都相同」，分数在「重测」时上升。",
+            "重复做同一任务可能靠熟悉提分，这是练习效应，所以选 B。",
+            "A 不对：纵向设计只有一批人，没有年龄组比较。"
+          ]
+        }
+      ],
+      "recap": "横断：不同组一次。纵向：同组多次。序列：多组多次。世代效应是横断的主要缺陷。"
+    },
+    {
+      "id": "L5-P07",
+      "title": "数据收集方法",
+      "titleEn": "Developmental data-collection methods",
+      "conceptIds": [
+        "L5-C10"
+      ],
+      "kp": "结构观察按预定规则编码，自然场景也能做；非结构观察较开放。问卷受语言和报告偏差影响。个案适合罕见现象，但推广有限。档案研究受已有变量限制。生理指标不自动等于隐性过程，测量也不等于实验设计。",
+      "howTo": "「预定类别」选结构观察，地点不决定结构。「罕见、一个人」选个案。「现成数据库」选档案。看到「用了眼动或心率，所以是实验」就排除：测量工具不决定研究设计。",
+      "items": [
+        {
+          "stemEn": "Researchers code children's playground behaviour with a list of categories fixed in advance. Which method is this?",
+          "optionsEn": [
+            "Unstructured observation",
+            "Case study",
+            "Structured observation",
+            "Archival research"
+          ],
+          "answer": 2,
+          "stem": "研究者用事先确定的类别清单，对儿童在操场上的行为进行编码。这是哪种方法？",
+          "options": [
+            "非结构观察（unstructured observation）",
+            "个案研究（case study）",
+            "结构观察（structured observation）",
+            "档案研究（archival research）"
+          ],
+          "how": [
+            "题干说「事先确定的类别清单」，地点虽在「操场」，记录方式却有预定规则。",
+            "预先规定类别和编码就是结构观察，所以选 C。",
+            "A 是易错项：自然场景也可以做结构观察。"
+          ]
+        },
+        {
+          "stemEn": "A clinician studies one child with a very rare condition in order to generate hypotheses. Which pairing of method and limitation is correct?",
+          "optionsEn": [
+            "Case study; limited generalisability and confounds",
+            "Questionnaire; reporter disagreement and language demands",
+            "Archival research; limited by variables already recorded",
+            "Structured observation; poor inter-rater reliability"
+          ],
+          "answer": 0,
+          "stem": "一位临床工作者研究一名患有罕见病症的儿童，以形成假设。哪组方法与局限的搭配正确？",
+          "options": [
+            "个案研究；推广有限且有混淆因素",
+            "问卷；报告者分歧和语言要求",
+            "档案研究；受已记录变量限制",
+            "结构观察；评分者信度差"
+          ],
+          "how": [
+            "题干的线索是「一名」儿童和「罕见病症」。",
+            "这是个案研究，局限是推广有限和混淆因素多，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A team analyses a large existing database of school records but finds a key variable was never collected. Which method and limitation does this show?",
+          "optionsEn": [
+            "Case study; too few participants for any comparison",
+            "Structured observation; observer bias and reactivity",
+            "Questionnaire; response bias in parents' answers",
+            "Archival research; limited by what was already recorded"
+          ],
+          "answer": 3,
+          "stem": "一个团队分析现有的大型学校记录数据库，却发现一个关键变量从未收集。这说明哪种方法及局限？",
+          "options": [
+            "个案研究；参与者太少，无法比较",
+            "结构观察；观察者偏差和反应性",
+            "问卷；家长回答的反应偏差",
+            "档案研究；受已有记录限制"
+          ],
+          "how": [
+            "题干说「现有的」数据库，且关键变量「从未收集」。",
+            "利用现成资料是档案研究，问题受已有变量限制，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A study records infants' heart rate while they watch two displays. A student says this makes it an experiment and reveals implicit processes. What is the best evaluation?",
+          "optionsEn": [
+            "Correct, because physiological measures always reveal implicit processes",
+            "The measure does not set the design, or automatically show implicit processes",
+            "Correct, because any measure with equipment counts as an experiment",
+            "Heart rate cannot be used with infants, so the study is invalid"
+          ],
+          "answer": 1,
+          "stem": "一项研究在婴儿观看两种画面时记录心率。一名学生说这使它成为实验，并揭示了隐性过程。最好的评价是什么？",
+          "options": [
+            "正确，因为生理指标总能揭示隐性过程",
+            "测量不决定研究设计，也不自动说明隐性过程",
+            "正确，因为任何使用仪器的测量都算实验",
+            "心率不能用于婴儿，所以研究无效"
+          ],
+          "how": [
+            "学生从「记录心率」推出「成为实验」和「揭示了隐性过程」，是两步过度推断。",
+            "测量方式不等于实验设计，生理指标也不等于隐性过程，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "场景自然也能结构化。用了仪器不等于实验，生理指标不等于隐性过程。"
+    },
+    {
+      "id": "L5-P08",
+      "title": "图式、同化、顺应与平衡",
+      "titleEn": "Schema, assimilation, accommodation and equilibration",
+      "conceptIds": [
+        "L5-C11"
+      ],
+      "kp": "Piaget 认为儿童主动建构知识。图式组织和预测经验。同化用旧图式解释新经验，结构基本不变；顺应修改或新建图式；新旧冲突时不平衡；平衡化协调两者，恢复较稳定的理解。",
+      "howTo": "问图式变没变：没变、硬塞进旧类别→同化；改了或新建→顺应。「觉得不对劲」→不平衡；「整理后稳定」→平衡化。来源题选儿童主动建构，别选社会互动或基因时间表。",
+      "items": [
+        {
+          "stemEn": "A toddler who knows the word 'dog' sees a cow for the first time and calls it a dog. What is this?",
+          "optionsEn": [
+            "Accommodation",
+            "Equilibration",
+            "Disequilibrium",
+            "Assimilation"
+          ],
+          "answer": 3,
+          "stem": "一名知道「狗」这个词的幼儿第一次见到牛，叫它狗。这是什么？",
+          "options": [
+            "顺应（accommodation）",
+            "平衡化（equilibration）",
+            "不平衡（disequilibrium）",
+            "同化（assimilation）"
+          ],
+          "how": [
+            "题干说幼儿把牛「叫它狗」，用已有类别解释新东西，图式没有改变。",
+            "用旧图式吸收新经验就是同化，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "After learning that cows moo and give milk, the same toddler creates a separate category for cows. What is this?",
+          "optionsEn": [
+            "Assimilation",
+            "Accommodation",
+            "Centration",
+            "Conservation"
+          ],
+          "answer": 1,
+          "stem": "得知牛会哞哞叫并产奶后，这名幼儿为牛建立了单独的类别。这是什么？",
+          "options": [
+            "同化（assimilation）",
+            "顺应（accommodation）",
+            "中心化（centration）",
+            "守恒（conservation）"
+          ],
+          "how": [
+            "题干说「建立了单独的类别」，图式结构发生了改变。",
+            "修改或新建图式就是顺应，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A child who thinks all birds fly is puzzled by a penguin: 'It's a bird, but it can't fly.' Which term best describes this moment of conflict?",
+          "optionsEn": [
+            "Disequilibrium",
+            "Equilibration",
+            "Assimilation",
+            "Egocentrism"
+          ],
+          "answer": 0,
+          "stem": "一名认为所有鸟都会飞的儿童对企鹅感到困惑：「它是鸟，却不会飞。」哪个术语最能描述这一冲突时刻？",
+          "options": [
+            "不平衡（disequilibrium）",
+            "平衡化（equilibration）",
+            "同化（assimilation）",
+            "自我中心（egocentrism）"
+          ],
+          "how": [
+            "题干说「感到困惑」，也就是新资料和旧图式发生「冲突」。",
+            "新旧冲突的失衡状态是不平衡，所以选 A。",
+            "B 是恢复稳定的过程，还没有发生。"
+          ]
+        },
+        {
+          "stemEn": "Which statement best fits Piaget's account of where children's knowledge comes from?",
+          "optionsEn": [
+            "It unfolds on a fixed genetic timetable, whatever the child does",
+            "It comes mainly from social interaction with more competent others",
+            "Children construct it through action, prediction, error and revision",
+            "Children passively receive it from adults, as if on a blank slate"
+          ],
+          "answer": 2,
+          "stem": "哪项说法最符合 Piaget 对儿童知识来源的解释？",
+          "options": [
+            "它按固定的基因时间表展开，与儿童做什么无关",
+            "它主要来自与更有能力者的社会互动",
+            "儿童通过行动、预测、错误和修正来建构知识",
+            "儿童像白板一样被动地从成人那里接受知识"
+          ],
+          "how": [
+            "题干问「Piaget」对「知识来源」的解释，他采取建构主义立场。",
+            "儿童通过行动、预测、错误和修正主动建构知识，所以选 C。",
+            "B 更接近 Vygotsky，这是最常见的混淆。"
+          ]
+        }
+      ],
+      "recap": "同化不改结构，顺应改结构，平衡化协调两者。儿童主动建构知识。"
+    },
+    {
+      "id": "L5-P09",
+      "title": "Piaget 阶段理论的主张",
+      "titleEn": "Piaget's stage claims",
+      "conceptIds": [
+        "L5-C12"
+      ],
+      "kp": "四阶段依次为感知运动（0–2）、前运算（2–7）、具体运算（7–11/12）、形式运算（11/12 以上），年龄是近似范围。四个主张：质的差异、错误有信息、顺序不变、广泛适用。后续证据显示任务和文化影响更大。",
+      "howTo": "先背顺序和年龄。「不只知道更多，是推理方式不同」→质的差异；「错误揭示推理」→错误有信息；「顺序相同、速度可不同」→顺序不变。Piaget 的理论是阶段式、质变的，不是连续量变。",
+      "items": [
+        {
+          "stemEn": "Which sequence shows Piaget's stages in the correct order?",
+          "optionsEn": [
+            "Sensorimotor, preoperational, concrete operational, formal operational",
+            "Preoperational, sensorimotor, concrete operational, formal operational",
+            "Sensorimotor, concrete operational, preoperational, formal operational",
+            "Sensorimotor, preoperational, formal operational, concrete operational"
+          ],
+          "answer": 0,
+          "stem": "哪个序列是 Piaget 阶段的正确顺序？",
+          "options": [
+            "感知运动、前运算、具体运算、形式运算",
+            "前运算、感知运动、具体运算、形式运算",
+            "感知运动、具体运算、前运算、形式运算",
+            "感知运动、前运算、形式运算、具体运算"
+          ],
+          "how": [
+            "题干问「正确顺序」，从出生开始依次排。",
+            "感知运动、前运算、具体运算、形式运算，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A typical 9-year-old falls within which of Piaget's approximate stage ranges?",
+          "optionsEn": [
+            "Preoperational",
+            "Formal operational",
+            "Concrete operational",
+            "Sensorimotor"
+          ],
+          "answer": 2,
+          "stem": "一名典型的 9 岁儿童落在 Piaget 的哪个近似阶段范围内？",
+          "options": [
+            "前运算（preoperational）",
+            "形式运算（formal operational）",
+            "具体运算（concrete operational）",
+            "感知运动（sensorimotor）"
+          ],
+          "how": [
+            "题干给的年龄是「9 岁」。",
+            "具体运算约为 7–11/12 岁，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Piaget argued that older children do not simply know more than younger ones but reason in a different form. Which claim is this?",
+          "optionsEn": [
+            "Invariant sequence",
+            "Qualitative differences",
+            "Broad applicability",
+            "Mistakes are informative"
+          ],
+          "answer": 1,
+          "stem": "Piaget 认为，年长儿童不只是比年幼儿童知道得更多，而是推理形式不同。这是哪项主张？",
+          "options": [
+            "顺序不变（invariant sequence）",
+            "质的差异（qualitative differences）",
+            "广泛适用（broad applicability）",
+            "错误有信息（mistakes are informative）"
+          ],
+          "how": [
+            "题干说不只是「知道得更多」，而是「推理形式不同」。",
+            "推理形式的不同就是质的差异，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A young child says that accidentally breaking a whole jar of biscuits is worse than deliberately stealing one, because of the size of the consequence. Which Piaget claim does this example best support?",
+          "optionsEn": [
+            "Invariant sequence",
+            "Broad applicability",
+            "Qualitative differences in adults only",
+            "Mistakes are informative"
+          ],
+          "answer": 3,
+          "stem": "一名年幼儿童说，意外打碎整罐饼干比故意偷一块更坏，因为后果更大。这个例子最支持 Piaget 的哪项主张？",
+          "options": [
+            "顺序不变（invariant sequence）",
+            "广泛适用（broad applicability）",
+            "只存在于成人的质的差异",
+            "错误有信息（mistakes are informative）"
+          ],
+          "how": [
+            "题干的答案看似错了，但理由是「后果更大」，暴露了只看后果、不看意图的推理。",
+            "错误揭示儿童怎样组织问题，这是错误有信息，所以选 D。"
+          ]
+        }
+      ],
+      "recap": "感知运动→前运算→具体运算→形式运算。顺序是核心，年龄只是近似。"
+    },
+    {
+      "id": "L5-P10",
+      "title": "感知运动期与 A-not-B",
+      "titleEn": "Sensorimotor substages and the A-not-B error",
+      "conceptIds": [
+        "L5-C13",
+        "L5-C14"
+      ],
+      "kp": "六子阶段：反射、初级循环（重复身体动作）、次级循环（影响外物）、图式协调（有目的，A-not-B）、三级循环（改变方法做小实验）、心理表征（延迟模仿）。A-not-B 还受工作记忆、注意、抑制和既往动作影响。",
+      "howTo": "看动作对象：自己身体→初级；外物→次级；主动变方法→三级。看不见还能找→物体永久性。看见藏到 B 还找 A，别只说没有物体永久性，要想到记忆和抑制。",
+      "items": [
+        {
+          "stemEn": "A 2-month-old happens to get a thumb in her mouth and then keeps repeating the sucking action. Which substage fits best?",
+          "optionsEn": [
+            "Reflexes",
+            "Secondary circular reactions",
+            "Primary circular reactions",
+            "Tertiary circular reactions"
+          ],
+          "answer": 2,
+          "stem": "一名 2 个月大的婴儿偶然把拇指放进嘴里，然后不断重复吸吮动作。哪个子阶段最符合？",
+          "options": [
+            "反射（reflexes）",
+            "次级循环反应（secondary circular reactions）",
+            "初级循环反应（primary circular reactions）",
+            "三级循环反应（tertiary circular reactions）"
+          ],
+          "how": [
+            "题干说「偶然」吸到「拇指」后不断重复，动作以自身身体为中心。",
+            "这是初级循环反应（1–4 个月），所以选 C。",
+            "B 要求重复影响外部物体的动作，这里只涉及身体。"
+          ]
+        },
+        {
+          "stemEn": "A 9-month-old lifts a blanket to find a toy she has just seen hidden under it. What understanding does this show most directly?",
+          "optionsEn": [
+            "Object permanence",
+            "Conservation of number",
+            "Reversibility of operations",
+            "Deferred imitation"
+          ],
+          "answer": 0,
+          "stem": "一名 9 个月大的婴儿掀起毯子，去找刚才看到藏在下面的玩具。这最直接地显示了哪种理解？",
+          "options": [
+            "物体永久性（object permanence）",
+            "数量守恒（conservation of number）",
+            "运算的可逆性（reversibility of operations）",
+            "延迟模仿（deferred imitation）"
+          ],
+          "how": [
+            "题干说玩具「藏在下面」看不见了，婴儿仍去找。",
+            "知道物体不可见时仍继续存在就是物体永久性，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A 20-month-old copies a gesture she saw an adult make yesterday. Which substage does this best fit?",
+          "optionsEn": [
+            "Coordination of schemes",
+            "Tertiary circular reactions",
+            "Secondary circular reactions",
+            "Mental representation"
+          ],
+          "answer": 3,
+          "stem": "一名 20 个月大的婴儿模仿了昨天看到成人做的手势。这最符合哪个子阶段？",
+          "options": [
+            "图式协调（coordination of schemes）",
+            "三级循环反应（tertiary circular reactions）",
+            "次级循环反应（secondary circular reactions）",
+            "心理表征（mental representation）"
+          ],
+          "how": [
+            "题干说模仿「昨天」看到的手势，不依赖当前的感知和动作，这是延迟模仿。",
+            "延迟模仿属于 18–24 个月的心理表征子阶段，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "An infant finds a toy at A several times, sees it hidden at B, yet reaches to A. A student says, 'So she has no object permanence.' What is the best reply?",
+          "optionsEn": [
+            "Correct, because searching at A proves she thinks the toy has vanished",
+            "Memory, inhibition, attention and past reaching also shape the result",
+            "Correct, because object permanence only appears at around age seven",
+            "The error shows she has already reached the formal operational stage"
+          ],
+          "answer": 1,
+          "stem": "一名婴儿几次在 A 处找到玩具，看到它改藏到 B 后，仍伸手去 A。一名学生说：「所以她没有物体永久性。」最好的回应是什么？",
+          "options": [
+            "正确，因为去 A 找证明她认为玩具消失了",
+            "记忆、抑制、注意和过去的伸手动作也影响结果",
+            "正确，因为物体永久性约七岁才出现",
+            "这一错误说明她已进入形式运算阶段"
+          ],
+          "how": [
+            "婴儿仍去 A 找，说明她在寻找，但学生下结论说「没有物体永久性」。",
+            "这一错误还反映记忆、抑制、注意和动作历史，不能只归因于此，所以选 B。"
+          ]
+        }
+      ],
+      "recap": "初级看身体，次级看外物，三级做小实验。A-not-B 不能证明完全没有物体永久性。"
+    },
+    {
+      "id": "L5-P11",
+      "title": "前运算期与绘画表征",
+      "titleEn": "Preoperational thought and drawing",
+      "conceptIds": [
+        "L5-C15"
+      ],
+      "kp": "约 2–7 岁，语言、象征和假装游戏迅速发展，但不同能力不一定同步。绘画依次为偶然写实（2–4）、失败写实（4–7）、知识写实（约 6）、视觉写实（8–9）。绘画是独立的表征序列，不能逐项对应四阶段。",
+      "howTo": "「涂完才说像什么」→偶然写实；「想画但部件连不好」→失败写实；「画知道有的，不画看到的」→知识写实；「画实际视角」→视觉写实。别把绘画序列套进四阶段。",
+      "items": [
+        {
+          "stemEn": "Which set of achievements is most characteristic of Piaget's preoperational stage?",
+          "optionsEn": [
+            "Reflexes and simple circular reactions",
+            "Systematic control of variables in hypothetical tests",
+            "Conservation and reversibility on concrete tasks",
+            "Rapid growth in language, symbols and pretend play"
+          ],
+          "answer": 3,
+          "stem": "哪组成就最能代表 Piaget 的前运算阶段？",
+          "options": [
+            "反射和简单的循环反应",
+            "在假设检验中系统控制变量",
+            "在具体任务中理解守恒和可逆性",
+            "语言、象征和假装游戏迅速发展"
+          ],
+          "how": [
+            "题干问「前运算阶段」的成就，这一阶段约 2–7 岁。",
+            "符号功能快速增长，语言和假装游戏发展，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A 3-year-old scribbles, notices the marks look a bit like a sun and then names it 'sun'. Which drawing pattern fits best?",
+          "optionsEn": [
+            "Failed realism",
+            "Fortuitous realism",
+            "Intellectual realism",
+            "Visual realism"
+          ],
+          "answer": 1,
+          "stem": "一名 3 岁儿童涂鸦后，发现痕迹有点像太阳，然后称它为「太阳」。哪种绘画模式最符合？",
+          "options": [
+            "失败写实（failed realism）",
+            "偶然写实（fortuitous realism）",
+            "知识写实（intellectual realism）",
+            "视觉写实（visual realism）"
+          ],
+          "how": [
+            "题干说「涂鸦后」才发现「有点像太阳」，相似是偶然的，意义是之后赋予的。",
+            "这是偶然写实，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A 6-year-old draws both of a man's ears even though the model is seen in profile. Which pattern fits best?",
+          "optionsEn": [
+            "Scribbling",
+            "Failed realism",
+            "Intellectual realism",
+            "Visual realism"
+          ],
+          "answer": 2,
+          "stem": "一名 6 岁儿童画出了男人的两只耳朵，尽管看到的模特是侧面。哪种模式最符合？",
+          "options": [
+            "涂鸦（scribbling）",
+            "失败写实（failed realism）",
+            "知识写实（intellectual realism）",
+            "视觉写实（visual realism）"
+          ],
+          "how": [
+            "题干说画了「两只耳朵」，而模特是「侧面」：画的是知道有的，不是看得见的。",
+            "这是知识写实，所以选 C。",
+            "D 视觉写实会只画从该视角看到的一只耳朵。"
+          ]
+        },
+        {
+          "stemEn": "A student maps each drawing pattern one-to-one onto Piaget's four stages. Why is this a mistake?",
+          "optionsEn": [
+            "The drawing sequence is a separate example of representation, not a map of the stages",
+            "Drawing develops only during the sensorimotor stage, before symbols appear at all",
+            "Piaget's four stages each have exactly four drawing patterns, in reverse order",
+            "Visual realism appears at age 2, long before any other pattern of drawing"
+          ],
+          "answer": 0,
+          "stem": "一名学生把每种绘画模式与 Piaget 的四个阶段逐一对应。为什么这是错的？",
+          "options": [
+            "绘画序列是表征发展的独立例子，不是阶段的对照表",
+            "绘画只在感知运动期发展，那时符号还没有出现",
+            "Piaget 的四个阶段各有四种绘画模式，且顺序相反",
+            "视觉写实在 2 岁出现，远早于其他绘画模式"
+          ],
+          "how": [
+            "学生的做法是「逐一对应」，题目问这为什么错。",
+            "课堂把绘画当作象征表征的独立例子，不能逐项对应四阶段，所以选 A。",
+            "视觉写实约在 8–9 岁，已跨入具体运算范围。"
+          ]
+        }
+      ],
+      "recap": "知识写实：画知道有的。视觉写实：画看到的。绘画序列不与四阶段一一对应。"
+    },
+    {
+      "id": "L5-P12",
+      "title": "自我中心、中心化与守恒",
+      "titleEn": "Egocentrism, centration and conservation",
+      "conceptIds": [
+        "L5-C16",
+        "L5-C17"
+      ],
+      "kp": "自我中心（egocentrism）是难以采用他人的感知或心理视角，不是自私，经典任务是三山任务。中心化（centration）只抓一个显眼维度。守恒（conservation）是理解外观改变不等于数量改变。",
+      "howTo": "问题关于「别人看到什么」→自我中心。问题关于「杯高、排长」→中心化和守恒失败。看到「自私」「没看见倒水过程」的解释就排除：一个是道德词，一个与任务不符。",
+      "items": [
+        {
+          "stemEn": "In the Three Mountains Task, a 4-year-old picks the view she herself sees when asked what a doll sees. What does this illustrate?",
+          "optionsEn": [
+            "Egocentrism",
+            "Centration",
+            "Accommodation",
+            "Conservation"
+          ],
+          "answer": 0,
+          "stem": "在三山任务（Three Mountains Task）中，当被问玩偶看到什么时，一名 4 岁儿童选了自己看到的景象。这说明什么？",
+          "options": [
+            "自我中心（egocentrism）",
+            "中心化（centration）",
+            "顺应（accommodation）",
+            "守恒（conservation）"
+          ],
+          "how": [
+            "题干问「玩偶看到什么」，儿童却选「自己看到的景象」。",
+            "难以采用他人的视角就是自我中心，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Two rows hold the same number of coins. After one row is spread out, a child says it has more because it is longer. What does this show?",
+          "optionsEn": [
+            "Egocentrism about how others see the coins",
+            "Reversible thought about the row of coins",
+            "Success on conservation of number across rows",
+            "A failure of conservation, focused on length"
+          ],
+          "answer": 3,
+          "stem": "两排硬币数量相同。其中一排被拉开后，一名儿童说它更多，因为它更长。这说明什么？",
+          "options": [
+            "对他人如何看硬币的自我中心",
+            "对这排硬币的可逆思维",
+            "在两排之间成功做到数量守恒",
+            "守恒失败，注意力集中在长度上"
+          ],
+          "how": [
+            "题干说排被「拉开」后，儿童因「更长」而说「更多」，只盯住一个维度。",
+            "外观改变被当成数量改变，是守恒失败，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A parent says, 'My 4-year-old is egocentric, so she must be selfish and uncaring.' What is the best correction?",
+          "optionsEn": [
+            "Egocentrism means she only attends to one dimension of a task",
+            "Egocentrism means she has already moved past perspective taking",
+            "Egocentrism means difficulty taking another view, not moral selfishness",
+            "Egocentrism means she has chosen to ignore other people deliberately"
+          ],
+          "answer": 2,
+          "stem": "一位家长说：「我 4 岁的孩子是自我中心的，所以她一定自私又冷漠。」最好的更正是什么？",
+          "options": [
+            "自我中心指她只注意任务的一个维度",
+            "自我中心指她已经越过了观点采择",
+            "自我中心指难以采用他人视角，不是道德上的自私",
+            "自我中心指她故意选择忽视别人"
+          ],
+          "how": [
+            "家长把「自我中心」直接等同于「自私又冷漠」。",
+            "这里的自我中心是认知上的视角转换困难，所以选 C。",
+            "A 是中心化的定义，两者常被混淆。"
+          ]
+        },
+        {
+          "stemEn": "A child watches all the juice being poured from a wide glass into a tall, narrow one, then says the tall glass has more. Which explanation is best?",
+          "optionsEn": [
+            "She did not see the pouring, so she could not compare the amounts",
+            "She focused on height and ignored width, so this is centration",
+            "She could not imagine how the glass looks to another person",
+            "She knows the amount is equal, but is being deliberately selfish"
+          ],
+          "answer": 1,
+          "stem": "一名儿童看完果汁从宽杯全部倒入细高杯的过程，然后说高杯里更多。哪种解释最好？",
+          "options": [
+            "她没看到倒的过程，所以无法比较分量",
+            "她只看高度、忽略宽度，这是中心化",
+            "她无法想象杯子在别人眼中的样子",
+            "她知道分量相等，但故意表现自私"
+          ],
+          "how": [
+            "题干强调儿童「看完」了倒的过程，所以问题不在没看见。",
+            "她只抓高度这一显眼维度，这是中心化，所以选 B。",
+            "C 说的是视角困难，属于自我中心，与判断分量无关。"
+          ]
+        }
+      ],
+      "recap": "自我中心不等于自私。只看高度是中心化，不是没看见倒水，也不是视角问题。"
+    },
+    {
+      "id": "L5-P13",
+      "title": "具体与形式运算；Piaget 的贡献与局限",
+      "titleEn": "Concrete vs formal operations; Piaget's legacy",
+      "conceptIds": [
+        "L5-C18",
+        "L5-C19"
+      ],
+      "kp": "具体运算（7–11/12）对具体对象作逻辑推理，理解守恒和可逆，钟摆任务可能靠试错。形式运算能作抽象假设，一次改变一个变量。Piaget 的贡献是主动建构；局限是低估早期能力、阶段不同步、低估教学和文化。",
+      "howTo": "「同时改多个变量、靠试错」→具体运算；「假设、一次改一个变量」→形式运算。到了年龄不保证使用形式运算。局限题找任务要求、不同步、低估文化；贡献题找主动建构、错误有信息。",
+      "items": [
+        {
+          "stemEn": "A 10-year-old understands conservation well but tests a pendulum by changing several things at once, by trial and error. Which stage does this best fit?",
+          "optionsEn": [
+            "Preoperational",
+            "Concrete operational",
+            "Formal operational",
+            "Sensorimotor"
+          ],
+          "answer": 1,
+          "stem": "一名 10 岁儿童很好地理解守恒，但测试钟摆时同时改变几样东西，靠试错。这最符合哪个阶段？",
+          "options": [
+            "前运算（preoperational）",
+            "具体运算（concrete operational）",
+            "形式运算（formal operational）",
+            "感知运动（sensorimotor）"
+          ],
+          "how": [
+            "题干说「理解守恒」，但钟摆任务「同时改变几样东西」「靠试错」。",
+            "会守恒却未系统控制变量，属于具体运算，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A teenager asks, 'If gravity were weaker, what would happen?', forms a hypothesis and plans to vary one factor at a time. Which stage does this best fit?",
+          "optionsEn": [
+            "Sensorimotor",
+            "Preoperational",
+            "Concrete operational",
+            "Formal operational"
+          ],
+          "answer": 3,
+          "stem": "一名青少年问：「如果重力变弱会怎样？」他提出假设，并计划一次改变一个因素。这最符合哪个阶段？",
+          "options": [
+            "感知运动（sensorimotor）",
+            "前运算（preoperational）",
+            "具体运算（concrete operational）",
+            "形式运算（formal operational）"
+          ],
+          "how": [
+            "题干的「如果」和「提出假设」是抽象推理，「一次改变一个因素」是系统控制变量。",
+            "这两点都是形式运算的特征，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "An adult uses trial and error on an unfamiliar, high-load logic task. What is the best interpretation?",
+          "optionsEn": [
+            "An age does not guarantee stable use of formal strategies",
+            "The adult must have returned to the preoperational stage",
+            "Formal operations never develop in any adult at all",
+            "The task proves that Piaget's stages run in reverse order"
+          ],
+          "answer": 0,
+          "stem": "一位成年人在陌生且负荷高的逻辑任务中靠试错。最好的解释是什么？",
+          "options": [
+            "年龄不保证稳定使用形式策略",
+            "这位成人一定退回了前运算阶段",
+            "任何成人都不会发展出形式运算",
+            "这个任务证明 Piaget 的阶段顺序是反的"
+          ],
+          "how": [
+            "题干的线索是「陌生且负荷高」，且做题者是「成年人」。",
+            "成人在这种任务中也可能用具体策略，年龄不保证策略，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Which of these is a limitation of Piaget's theory rather than a lasting contribution?",
+          "optionsEn": [
+            "Children actively construct knowledge rather than passively absorb it",
+            "Errors reveal the structure of children's reasoning",
+            "Task demands may have led him to underestimate early abilities",
+            "Symbolic representation is a key developmental achievement"
+          ],
+          "answer": 2,
+          "stem": "下列哪项是 Piaget 理论的局限，而不是其持久贡献？",
+          "options": [
+            "儿童主动建构知识，而不是被动吸收",
+            "错误揭示儿童推理的结构",
+            "任务要求可能使他低估了早期能力",
+            "象征表征是关键的发展成就"
+          ],
+          "how": [
+            "题干要找「局限」，其余三项是贡献，这是反向提问。",
+            "任务的语言、记忆和动作要求可能低估儿童能力，这属于局限，所以选 C。"
+          ]
+        }
+      ],
+      "recap": "一次只改一个变量才是形式运算。年龄不保证策略。理论有局限，但并非毫无价值。"
+    },
+    {
+      "id": "L5-P14",
+      "title": "Vygotsky：人际到个体、ZPD 与支架",
+      "titleEn": "Vygotsky: intermental to intramental, ZPD and scaffolding",
+      "conceptIds": [
+        "L5-C20",
+        "L5-C21",
+        "L5-C22"
+      ],
+      "kp": "知识先在人际互动中（intermental），再内化到个人（intramental）。共同理解叫 intersubjectivity。ZPD 是独立做不到、帮助下能完成的范围。支架是暂时、按需、逐渐撤除的支持，术语由 Wood、Bruner、Ross 推广。",
+      "howTo": "三分任务：独立能做→当前掌握；有帮助能做→ZPD；有帮助也做不到→不在 ZPD。支架看三点：提示而非代做、按需、逐渐撤除。术语归属别选 Vygotsky 本人。",
+      "items": [
+        {
+          "stemEn": "A father talks his daughter through a puzzle; later she uses the same strategy on her own. Which process does this best illustrate?",
+          "optionsEn": [
+            "Assimilation to accommodation",
+            "Reflexes to mental representation",
+            "Intermental to intramental development",
+            "Primary to secondary circular reactions"
+          ],
+          "answer": 2,
+          "stem": "父亲一步步引导女儿拼图；后来她独自使用同样的策略。这最能说明哪个过程？",
+          "options": [
+            "从同化到顺应",
+            "从反射到心理表征",
+            "从人际（intermental）到个体内部（intramental）的发展",
+            "从初级到次级循环反应"
+          ],
+          "how": [
+            "题干先是父亲「引导」，后来是她「独自使用」，策略从互动转到个人。",
+            "知识先在人际间再内化到个人，这是人际到个体内部的发展，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Before starting a joint task, a tutor checks that she and the learner share enough understanding of the goal. Which concept is this?",
+          "optionsEn": [
+            "Intersubjectivity",
+            "Zone of proximal development",
+            "Equilibration",
+            "Fading support"
+          ],
+          "answer": 0,
+          "stem": "开始合作任务前，辅导者确认她和学习者对目标有足够的共同理解。这是哪个概念？",
+          "options": [
+            "主体间性（intersubjectivity）",
+            "最近发展区（zone of proximal development）",
+            "平衡化（equilibration）",
+            "逐渐撤除的支持（fading support）"
+          ],
+          "how": [
+            "题干的关键词是对目标有「足够的共同理解」。",
+            "学习者与指导者形成足够共同理解就是主体间性，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Lee can add fractions alone, can multiply them with prompts from a teacher, and cannot do calculus even with help. Which task lies in his ZPD?",
+          "optionsEn": [
+            "Adding fractions",
+            "Calculus",
+            "All three of the tasks",
+            "Multiplying fractions"
+          ],
+          "answer": 3,
+          "stem": "小李能独立做分数加法，在老师提示下能做分数乘法，即使有帮助也做不了微积分。哪项任务在他的最近发展区（ZPD）内？",
+          "options": [
+            "分数加法",
+            "微积分",
+            "这三项任务全部",
+            "分数乘法"
+          ],
+          "how": [
+            "题干给了三类任务：「能独立」「提示下能做」「即使有帮助也做不了」。",
+            "独立做不到、帮助下能完成的才在 ZPD，所以选 D。",
+            "B 超出范围：不是所有不会的事都算 ZPD。"
+          ]
+        },
+        {
+          "stemEn": "A swimming coach wants to scaffold a beginner's learning. Which approach fits?",
+          "optionsEn": [
+            "Keeps giving the same level of help however much the learner improves",
+            "Breaks the stroke into steps with cues, then withdraws them over time",
+            "Moves the learner's arms through every stroke at every single lesson",
+            "Gives no guidance so that the learner must discover the stroke alone"
+          ],
+          "answer": 1,
+          "stem": "一位游泳教练想为初学者搭建支架（scaffolding）。哪种做法符合？",
+          "options": [
+            "无论学习者进步多少，都给同样程度的帮助",
+            "把动作拆成步骤并给提示，然后逐渐撤除",
+            "每节课都替学习者摆动手臂完成每个动作",
+            "不给指导，让学习者独自发现动作要领"
+          ],
+          "how": [
+            "题干问「支架」，核对暂时、按需、逐渐撤除三个条件。",
+            "拆分步骤、给提示，再逐渐撤除，全部符合，所以选 B。",
+            "A 没有撤除，C 是替做，D 没有支持。"
+          ]
+        },
+        {
+          "stemEn": "Who popularised the term 'scaffolding'?",
+          "optionsEn": [
+            "Jean Piaget",
+            "Lev Vygotsky himself",
+            "Wood, Bruner and Ross",
+            "Fernyhough and Winsler"
+          ],
+          "answer": 2,
+          "stem": "谁推广了「支架（scaffolding）」这个术语？",
+          "options": [
+            "Jean Piaget",
+            "Lev Vygotsky 本人",
+            "Wood、Bruner 与 Ross",
+            "Fernyhough 与 Winsler"
+          ],
+          "how": [
+            "题干问的是「术语」的来源，而不是思想的渊源。",
+            "这个词由后来的 Wood、Bruner 和 Ross 推广，所以选 C。",
+            "B 是陷阱：思路与 Vygotsky 一致，但不是他本人的原始术语。"
+          ]
+        }
+      ],
+      "recap": "ZPD 不包括所有不会的事。支架要逐渐撤除，代做不算。术语来自 Wood、Bruner、Ross。"
+    },
+    {
+      "id": "L5-P15",
+      "title": "文化工具与私语",
+      "titleEn": "Cultural tools and private speech",
+      "conceptIds": [
+        "L5-C23",
+        "L5-C24"
+      ],
+      "kp": "Chen 等（2004）：Hansel/Gretel 题中国 25%、美国 75%；称象题中国 69%、美国 8%；中性题无显著总体差异。说明熟悉故事帮助调用图式。私语路径：他人指导、出声自语、内部言语；相关与抑制实验是两种证据。",
+      "howTo": "Chen 题记数字，优势随故事翻转，结论选文化影响可调用的图式，别选智力高低。私语题看话谁说：大人说→他人指导；自己出声→私语；不出声→内部言语。",
+      "items": [
+        {
+          "stemEn": "Which results match Chen et al. (2004)?",
+          "optionsEn": [
+            "Hansel and Gretel: Chinese 25%, American 75%; Weigh the Elephant: Chinese 69%, American 8%",
+            "Hansel and Gretel: Chinese 75%, American 25%; Weigh the Elephant: Chinese 8%, American 69%",
+            "Hansel and Gretel: Chinese 69%, American 8%; Weigh the Elephant: Chinese 25%, American 75%",
+            "Hansel and Gretel: Chinese 25%, American 69%; Weigh the Elephant: Chinese 8%, American 75%"
+          ],
+          "answer": 0,
+          "stem": "哪组结果符合 Chen 等（2004）？",
+          "options": [
+            "Hansel 与 Gretel 题：中国 25%，美国 75%；称象题：中国 69%，美国 8%",
+            "Hansel 与 Gretel 题：中国 75%，美国 25%；称象题：中国 8%，美国 69%",
+            "Hansel 与 Gretel 题：中国 69%，美国 8%；称象题：中国 25%，美国 75%",
+            "Hansel 与 Gretel 题：中国 25%，美国 69%；称象题：中国 8%，美国 75%"
+          ],
+          "how": [
+            "题干问「Chen 等（2004）」的结果，熟悉自己文化故事的一方解决率更高。",
+            "美国样本在 Hansel 题高，中国样本在称象题高，数字对的是 A，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A headline says Chen et al. show that one nationality is simply better at solving problems. What is the best correction?",
+          "optionsEn": [
+            "Each group did better on every problem, so ability cannot be compared",
+            "Familiar stories cue analogies, and neutral problems showed no overall difference",
+            "American students were superior overall, as they scored higher on neutral problems",
+            "The study reported large sample sizes that rule out any cultural explanation"
+          ],
+          "answer": 1,
+          "stem": "一则新闻标题说，Chen 等的研究表明某个国籍的人就是更会解题。最好的更正是什么？",
+          "options": [
+            "每组在每道题上都做得更好，所以无法比较能力",
+            "熟悉的故事提示类比，中性题没有总体差异",
+            "美国学生总体更优，因为他们在中性题上得分更高",
+            "该研究报告了大样本，排除了任何文化解释"
+          ],
+          "how": [
+            "标题说某个国籍「就是更会解题」，这是总体智力式的结论。",
+            "优势随熟悉故事翻转，中性题无总体模式差异，所以选 B。",
+            "D 也错：课件没有提供样本量，不能补写。"
+          ]
+        },
+        {
+          "stemEn": "While tying her shoes, a 4-year-old says aloud to herself, 'Make a loop, wrap it, pull it through.' Which point in Vygotsky's sequence is this?",
+          "optionsEn": [
+            "Other-regulation",
+            "Inner speech",
+            "Egocentric projection",
+            "Overt private speech"
+          ],
+          "answer": 3,
+          "stem": "系鞋带时，一名 4 岁儿童出声地对自己说：「打个圈，绕过去，拉紧。」这是 Vygotsky 序列中的哪一点？",
+          "options": [
+            "他人调节（other-regulation）",
+            "内部言语（inner speech）",
+            "自我中心投射（egocentric projection）",
+            "出声私语（overt private speech）"
+          ],
+          "how": [
+            "题干说「出声地对自己说」，指令来自儿童自己，而且说出了声。",
+            "这是出声私语，还未内化为内部言语，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Which pairing of private-speech studies and evidence is correct?",
+          "optionsEn": [
+            "Fernyhough and Winsler: suppression experiments; Lidstone: positive correlations",
+            "Fernyhough, Winsler and Lidstone: all three reported only correlations",
+            "Fernyhough and Winsler: positive correlations; Lidstone: suppression lowered scores",
+            "Lidstone: speech has no link to planning; Winsler: suppression raised scores"
+          ],
+          "answer": 2,
+          "stem": "哪组私语研究与证据的搭配正确？",
+          "options": [
+            "Fernyhough 与 Winsler：抑制实验；Lidstone：正相关",
+            "Fernyhough、Winsler 与 Lidstone：三者都只报告相关",
+            "Fernyhough 与 Winsler：正相关；Lidstone：抑制降低了分数",
+            "Lidstone：私语与规划无关；Winsler：抑制提高了分数"
+          ],
+          "how": [
+            "题干要求配对「研究与证据」，两类证据不能混。",
+            "Fernyhough 和 Winsler 报告正相关，Lidstone 阻止私语后成绩下降，所以选 C。"
+          ]
+        }
+      ],
+      "recap": "故事熟悉度改变解题路径，不是智力差异。他人指导→出声自语→内部言语。"
+    },
+    {
+      "id": "L5-P16",
+      "title": "Vygotsky 的边界与教育应用",
+      "titleEn": "Vygotsky's limits and educational applications",
+      "conceptIds": [
+        "L5-C25",
+        "L5-C26"
+      ],
+      "kp": "Vygotsky 的局限：ZPD 难精确测量，对遗传成熟和无指导发现解释较少。两人都视儿童为主动学习者。Piaget 重探索、准备度、具体材料；Vygotsky 重有知识的他人、对话和合作，如 Jigsaw。",
+      "howTo": "动手材料、发现学习→Piaget。对话、同伴互教、Jigsaw→Vygotsky。「小科学家独自实验」不是 Vygotsky。局限题要区分「解释较少」与「没老师就学不会」。别说 Montessori 由 Piaget 创造。",
+      "items": [
+        {
+          "stemEn": "A teacher provides fraction circles for pupils to combine by hand, so they can work out 1/2 + 1/4 through exploration. Which theorist is this most consistent with?",
+          "optionsEn": [
+            "Vygotsky, because of the peer teaching",
+            "Freud, because of the childhood experience",
+            "Locke, because of the blank slate",
+            "Piaget, because of concrete materials"
+          ],
+          "answer": 3,
+          "stem": "老师提供分数圆片，让学生动手拼合，通过探索算出 1/2 + 1/4。这最符合哪位理论家？",
+          "options": [
+            "Vygotsky，因为有同伴互教",
+            "Freud，因为涉及童年经验",
+            "Locke，因为涉及白板",
+            "Piaget，因为使用具体材料"
+          ],
+          "how": [
+            "题干的线索是「动手拼合」和「通过探索」，题干中没有同伴或对话。",
+            "发现学习和具体材料符合 Piaget，所以选 D。",
+            "这只是理论相容的例子，不代表这些教育法由他创建。"
+          ]
+        },
+        {
+          "stemEn": "Which statement is NOT an accurate description of Vygotsky's view?",
+          "optionsEn": [
+            "The child is a little scientist, testing the physical world",
+            "The child is an active participant in constructing knowledge",
+            "Social interaction is important for cognitive development",
+            "Development can vary from one culture to another"
+          ],
+          "answer": 0,
+          "stem": "下列哪项不是对 Vygotsky 观点的准确描述？",
+          "options": [
+            "儿童是检验物理世界的小科学家",
+            "儿童是建构知识的主动参与者",
+            "社会互动对认知发展很重要",
+            "发展可能因文化而不同"
+          ],
+          "how": [
+            "题干问哪项「不是」，要找不属于 Vygotsky 的说法。",
+            "小科学家的比喻属于 Piaget，所以选 A。",
+            "B 也是对的：Vygotsky 同样认为儿童主动，别以为主动只属于 Piaget。"
+          ]
+        },
+        {
+          "stemEn": "A student says, 'Vygotsky's theory means children cannot learn anything without a teacher.' What is the best evaluation?",
+          "optionsEn": [
+            "Correct, as the theory rules out any independent discovery",
+            "This misreads it: the theory says less about discovery but does not deny it",
+            "Correct, because the ZPD has an exact boundary set by age",
+            "This misreads it: the theory focuses mostly on genes and biological maturation"
+          ],
+          "answer": 1,
+          "stem": "一名学生说：「Vygotsky 的理论意味着没有老师，儿童什么也学不会。」最好的评价是什么？",
+          "options": [
+            "正确，因为这一理论排除了任何独立发现",
+            "这是误读：该理论对独立发现解释较少，但不否认它",
+            "正确，因为 ZPD 有由年龄决定的精确边界",
+            "这是误读：该理论主要关注基因和生物成熟"
+          ],
+          "how": [
+            "学生说「什么也学不会」，把解释较少改写成了完全不能。",
+            "理论对无指导发现解释有限，但不等于否认，所以选 B。",
+            "D 把局限说反了：它对遗传和成熟解释相对不足。"
+          ]
+        },
+        {
+          "stemEn": "What is the most accurate comparison of Piaget and Vygotsky?",
+          "optionsEn": [
+            "Piaget sees children as passive, and Vygotsky sees them as active",
+            "Vygotsky sees children as passive, and Piaget sees them as active",
+            "Both see children as active, but differ on how learning is supported",
+            "Both see children as passive, and differ only on the role of culture"
+          ],
+          "answer": 2,
+          "stem": "哪项对 Piaget 与 Vygotsky 的比较最准确？",
+          "options": [
+            "Piaget 认为儿童被动，Vygotsky 认为儿童主动",
+            "Vygotsky 认为儿童被动，Piaget 认为儿童主动",
+            "两人都认为儿童主动，但在如何支持学习上不同",
+            "两人都认为儿童被动，只在文化的作用上不同"
+          ],
+          "how": [
+            "题干要求「比较」两人，先核对他们对儿童主动性的看法。",
+            "两人都视儿童为主动，差异在知识如何被支持和中介，所以选 C。",
+            "A 和 B 是常见错法：区别不在主动与被动。"
+          ]
+        }
+      ],
+      "recap": "Piaget：我探索、重组图式。Vygotsky：我在文化支持下探索。两人都认为儿童主动。"
+    }
+  ]
+}

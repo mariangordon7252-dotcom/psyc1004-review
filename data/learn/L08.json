@@ -1,0 +1,1662 @@
+{
+ "lectureId": 8,
+ "points": [
+  {
+   "id": "L8-P01",
+   "title": "成人想象伙伴",
+   "titleEn": "Adult imaginary companions",
+   "conceptIds": [
+    "L8-C01"
+   ],
+   "kp": "Yamaguchi 等（2023）的问卷样本中，约 10–15% 报告当前有想象伙伴（IC），与压力及拟人化倾向（anthropomorphic tendencies）有关，未发现稳健的孤独关联。这是样本报告率，不是全球患病率。",
+   "howTo": "看到「全世界」「患病率」就排除，只选「样本报告率」。关联选压力和拟人化，不选孤独。把物品说成有情绪选拟人化。不能仅凭 IC 判断幻觉或障碍。",
+   "items": [
+    {
+     "stemEn": "In Yamaguchi et al.'s questionnaire study, about what proportion of the sample reported currently having an imaginary companion?",
+     "optionsEn": [
+      "About 34.6%",
+      "About 48.4%",
+      "About 10-15%",
+      "About 62.5%"
+     ],
+     "answer": 2,
+     "stem": "在 Yamaguchi 等人的问卷研究中，样本中约有多大比例报告当前有想象伙伴？",
+     "options": [
+      "约 34.6%",
+      "约 48.4%",
+      "约 10–15%",
+      "约 62.5%"
+     ],
+     "how": [
+      "线索是「问卷研究」和「当前有想象伙伴」。",
+      "成人样本的报告率约为 10–15%，所以选 C。",
+      "其余三个数字来自 Solmi 的首次发病年龄汇总，与 IC 无关。"
+     ]
+    },
+    {
+     "stemEn": "A headline claims: 'Up to 15% of adults worldwide have imaginary companions.' What is the main problem?",
+     "optionsEn": [
+      "The figure refers to the age at which a mental disorder first appeared",
+      "The figure describes children in the sample and does not include adults",
+      "The figure comes only from adults who said that they were severely lonely",
+      "The figure is a report rate from one sample, not a worldwide prevalence"
+     ],
+     "answer": 3,
+     "stem": "一则新闻标题声称：「全世界多达 15% 的成人有想象伙伴。」主要问题是什么？",
+     "options": [
+      "这个数字指的是精神障碍首次出现的年龄",
+      "这个数字描述样本中的儿童，不包括成人",
+      "这个数字只来自自称严重孤独的成人",
+      "这个数字是一个样本的报告率，不是全球患病率"
+     ],
+     "how": [
+      "线索是标题里的「全世界」。",
+      "问卷样本的报告率不能当作全球固定数字，所以选 D。"
+     ]
+    },
+    {
+     "stemEn": "Which pattern best summarises the findings on adults who report imaginary companions?",
+     "optionsEn": [
+      "Links with stress and anthropomorphism, but no robust link with loneliness",
+      "Links with loneliness and hallucinations, but no link with stress at all",
+      "Links with a psychiatric diagnosis in nearly every adult who reports one",
+      "No links with any other variable, because the reports are always invented"
+     ],
+     "answer": 0,
+     "stem": "哪种模式最能概括关于报告有想象伙伴的成人的研究结果？",
+     "options": [
+      "与压力和拟人化有关，但与孤独没有稳健关联",
+      "与孤独和幻觉有关，但与压力完全无关",
+      "几乎每个报告者都与精神疾病诊断有关",
+      "与任何变量都无关，因为这些报告总是编造的"
+     ],
+     "how": [
+      "线索是问「成人」研究结果的概括。",
+      "结果与压力、拟人化倾向有关，未发现稳健的孤独关联，所以选 A。",
+      "B 是最常见的直觉：以为有 IC 是因为孤独或幻觉。"
+     ]
+    },
+    {
+     "stemEn": "Jun says, 'My old laptop is sulking today and refuses to cooperate.' He knows it is only a machine. This best illustrates:",
+     "optionsEn": [
+      "A clinical hallucination",
+      "An anthropomorphic tendency",
+      "A shared imaginary companion",
+      "A third-person effect"
+     ],
+     "answer": 1,
+     "stem": "Jun 说：「我的旧笔记本今天在闹脾气，不肯配合。」他知道这只是一台机器。这最能说明：",
+     "options": [
+      "临床幻觉（clinical hallucination）",
+      "拟人化倾向（anthropomorphic tendency）",
+      "共享想象伙伴（shared imaginary companion）",
+      "第三人效应（third-person effect）"
+     ],
+     "how": [
+      "线索是说笔记本「闹脾气」，同时「知道这只是一台机器」。",
+      "给物品赋予人的情感或意图是拟人化，所以选 B。",
+      "A 不对：他并不相信机器真有人心。"
+     ]
+    }
+   ],
+   "recap": "成人 IC 约 10–15% 是样本报告率；与压力、拟人化有关；不等于精神障碍。"
+  },
+  {
+   "id": "L8-P02",
+   "title": "首发年龄统计与元认知",
+   "titleEn": "Age of onset and metacognition",
+   "conceptIds": [
+    "L8-C02",
+    "L8-C03"
+   ],
+   "kp": "Solmi 汇总：14 岁前 34.6%、18 岁前 48.4%、25 岁前 62.5%，分母是发生障碍者。峰值约 14.5 岁，中位约 18 岁。元认知（metacognition）是监测和评估自己的思考，并据此调整；不等于想得多。",
+   "howTo": "问比例先查分母：发生障碍者，不是全体年轻人。峰值是分布高点，中位数把分布分成两半。选「检查理解并调整方法」为元认知；反复担心不算。",
+   "items": [
+    {
+     "stemEn": "Solmi et al. report that 34.6% of first onsets occur before age 14. What does this figure mean?",
+     "optionsEn": [
+      "Among people who develop a disorder, 34.6% first show it before age 14",
+      "Among all 14-year-olds, 34.6% currently meet criteria for a disorder",
+      "Among all young people, 34.6% will develop a disorder at exactly age 14",
+      "Among people with a disorder, 34.6% have recovered by the time they are 14"
+     ],
+     "answer": 0,
+     "stem": "Solmi 等人报告，34.6% 的首次发病发生在 14 岁之前。这个数字是什么意思？",
+     "options": [
+      "在发生障碍的人中，34.6% 在 14 岁前首次出现",
+      "在所有 14 岁的人中，34.6% 目前符合障碍标准",
+      "在所有年轻人中，34.6% 恰好在 14 岁发生障碍",
+      "在有障碍的人中，34.6% 到 14 岁时已经康复"
+     ],
+     "how": [
+      "线索是「首次发病」的比例，要先查分母。",
+      "分母是发生障碍者，这是发病年龄分布，所以选 A。",
+      "B 把首发分布当成了某年龄人群的患病率，这是最常见的错误。"
+     ]
+    },
+    {
+     "stemEn": "The overall onset distribution has a peak near 14.5 and a median near 18. What does the median tell us?",
+     "optionsEn": [
+      "The age at which the largest number of first onsets is seen to occur",
+      "The age by which every disorder in the distribution has already begun",
+      "The age that splits the distribution of onset ages into two halves",
+      "The age at which any given person is most likely to develop a disorder"
+     ],
+     "answer": 2,
+     "stem": "总体发病分布的峰值约在 14.5 岁，中位数约在 18 岁。中位数告诉我们什么？",
+     "options": [
+      "首次发病人数最多的年龄",
+      "分布中所有障碍都已开始的年龄",
+      "把发病年龄分布分成两半的年龄",
+      "任何一个人最可能发生障碍的年龄"
+     ],
+     "how": [
+      "线索是问「中位数」，不是峰值。",
+      "中位数是把分布分成两半的点，所以选 C。",
+      "A 描述的是峰值，两者不能合称一个数字。"
+     ]
+    },
+    {
+     "stemEn": "While revising, Lena feels option C looks familiar, then notices she cannot explain why it is right, so she goes back to the definition. This best illustrates:",
+     "optionsEn": [
+      "Sensation seeking",
+      "Metacognition",
+      "Ruminative exploration",
+      "Crystallised ability"
+     ],
+     "answer": 1,
+     "stem": "复习时，Lena 觉得选项 C 看着很熟悉，随后发现自己说不出它为什么对，于是回去看定义。这最能说明：",
+     "options": [
+      "寻求刺激（sensation seeking）",
+      "元认知（metacognition）",
+      "反刍探索（ruminative exploration）",
+      "晶体能力（crystallised ability）"
+     ],
+     "how": [
+      "线索是「发现自己说不出」原因，并「回去看定义」。",
+      "监测自己的理解并调整策略就是元认知，所以选 B。"
+     ]
+    },
+    {
+     "stemEn": "Tom spends hours going over the same worry about a decision without checking whether his reasoning holds. Is this strong metacognition?",
+     "optionsEn": [
+      "Yes, as metacognition is measured by the amount of time spent thinking about a problem",
+      "Yes, as metacognition first appears in adolescence and takes the form of repeated worry",
+      "No, as metacognition is present only in adults and is fully absent before adulthood",
+      "Not necessarily, as metacognition involves monitoring, evaluating and adjusting thinking"
+     ],
+     "answer": 3,
+     "stem": "Tom 花几个小时反复担心同一个决定，却没有检查自己的推理是否成立。这算很强的元认知吗？",
+     "options": [
+      "算，因为元认知是用思考问题所花的时间来衡量的",
+      "算，因为元认知首次出现于青春期，形式就是反复担心",
+      "不算，因为元认知只有成人才有，成年前完全没有",
+      "不一定，因为元认知涉及监测、评估和调整思考"
+     ],
+     "how": [
+      "线索是「反复担心」却「没有检查」推理。",
+      "元认知要有监测和评估，不是单纯多想，所以选 D。",
+      "B 和 C 都错：这不是青春期才首次出现的能力，也不是成人独有。"
+     ]
+    }
+   ],
+   "recap": "首发百分比的分母是发生障碍者；元认知是检查和调整，不是想得多。"
+  },
+  {
+   "id": "L8-P03",
+   "title": "奖励、刺激、风险与彩票任务",
+   "titleEn": "Reward, sensation, risk and the lottery task",
+   "conceptIds": [
+    "L8-C04",
+    "L8-C05"
+   ],
+   "kp": "奖励敏感（reward sensitivity）看对奖励线索的反应；寻求刺激（sensation seeking）看对新奇的兴趣；风险行为（risk taking）是有潜在不良后果的选择。彩票平均值 ±$25，确定选项 ±$5，所以选择不只反映风险偏好。",
+   "howTo": "「新奇体验」选寻求刺激，「可能有不良后果」选风险行为。期望值用概率乘金额再相加。问彩票局限选期望值不同；一次成功不改变下次客观概率。",
+   "items": [
+    {
+     "stemEn": "Kai loves trying unfamiliar foods and travelling to places he knows nothing about. None of this puts him in danger. Which term fits best?",
+     "optionsEn": [
+      "Risk taking",
+      "Sensation seeking",
+      "Reward sensitivity",
+      "Cognitive control"
+     ],
+     "answer": 1,
+     "stem": "Kai 喜欢尝试陌生的食物，去自己一无所知的地方旅行。这些都不会让他陷入危险。哪个术语最合适？",
+     "options": [
+      "风险行为（risk taking）",
+      "寻求刺激（sensation seeking）",
+      "奖励敏感（reward sensitivity）",
+      "认知控制（cognitive control）"
+     ],
+     "how": [
+      "线索是「陌生的」「一无所知」，并且「不会让他陷入危险」。",
+      "寻求新奇体验是寻求刺激，所以选 B。",
+      "A 要有潜在的不良后果，这里没有。"
+     ]
+    },
+    {
+     "stemEn": "In the gain condition, a person may take a sure $5 or a lottery with a 50% chance of $50 and a 50% chance of $0. What is the lottery's expected value?",
+     "optionsEn": [
+      "+$25",
+      "+$5",
+      "+$50",
+      "$0"
+     ],
+     "answer": 0,
+     "stem": "在收益情境中，一个人可以选择必得 $5，或选择彩票：50% 得 $50，50% 得 $0。彩票的期望值是多少？",
+     "options": [
+      "+$25",
+      "+$5",
+      "+$50",
+      "$0"
+     ],
+     "how": [
+      "线索是「50% 得 $50」和「50% 得 $0」。",
+      "0.5×50 加 0.5×0 等于 25，所以选 A。",
+      "B 是确定选项的价值，不是彩票的期望值。"
+     ]
+    },
+    {
+     "stemEn": "Why can choices in the lecture's lottery task not be read as a pure measure of risk preference?",
+     "optionsEn": [
+      "The lottery and the sure option have the same expected value in each condition",
+      "The task includes gains only, so it says nothing about how people respond to loss",
+      "The task measures only the brain signal, so it records no choices made by anyone",
+      "The lottery and the sure option differ in expected value as well as risk"
+     ],
+     "answer": 3,
+     "stem": "为什么课上的彩票任务中的选择不能被看作对风险偏好的纯粹测量？",
+     "options": [
+      "在每种情境中，彩票与确定选项的期望值都相同",
+      "任务只包含收益，所以无法说明人们如何应对损失",
+      "任务只测量脑信号，所以没有记录任何人的选择",
+      "彩票与确定选项不仅风险不同，期望值也不同"
+     ],
+     "how": [
+      "线索是问为什么不是「纯粹测量」。",
+      "彩票平均值为 ±$25，确定选项为 ±$5，价值大小也混在其中，所以选 D。",
+      "A 恰好说反；B 也不对，任务有损失情境。"
+     ]
+    },
+    {
+     "stemEn": "After a lucky win in a game, a teenager immediately makes a riskier choice. Which statement fits the lecture best?",
+     "optionsEn": [
+      "The win raises the objective probability of winning on the following turn",
+      "The result shows that punishment can never change a teenager's later choice",
+      "Positive feedback may raise later risk choices, though the next odds are unchanged",
+      "The result shows that adults are never influenced by emotion when choosing"
+     ],
+     "answer": 2,
+     "stem": "在游戏中幸运获胜后，一名青少年马上作出了风险更高的选择。哪种说法最符合本讲？",
+     "options": [
+      "这次获胜提高了下一回合获胜的客观概率",
+      "这个结果说明惩罚永远不能改变青少年之后的选择",
+      "正向反馈可能增加之后的风险选择，但下一次的概率没有变",
+      "这个结果说明成人作选择时从不受情绪影响"
+     ],
+     "how": [
+      "线索是「幸运获胜后」马上冒险。",
+      "课堂任务中，青少年得到正向结果后风险选择可能增加，所以选 C。",
+      "B 和 D 是本讲明确提醒不要写的绝对说法。"
+     ]
+    }
+   ],
+   "recap": "三个词不能互换；彩票期望值不同，不能单测风险偏好。"
+  },
+  {
+   "id": "L8-P04",
+   "title": "双系统模型",
+   "titleEn": "The Dual Systems Model",
+   "conceptIds": [
+    "L8-C06"
+   ],
+   "kp": "双系统模型（Dual Systems Model）：奖励／社会情绪系统较早发展，青春期敏感性常较高；认知控制系统更渐进地成熟。两者不同步，加上情绪和同伴情境，解释为什么知道风险仍可能冒险。曲线只是示意。",
+   "howTo": "看到「中性任务时和成人相近、有奖励或情绪时更冒险」选奖励敏感性在情绪情境中起作用。「no system」是认知控制。排除「无法理性」「某年龄人人成熟」。",
+   "items": [
+    {
+     "stemEn": "The Dual Systems Model compares two developing systems. What timing does it propose?",
+     "optionsEn": [
+      "The reward system develops earlier, while cognitive control matures more gradually",
+      "Cognitive control develops earlier, while the reward system matures more gradually",
+      "The reward and control systems mature together, reaching adult levels at one age",
+      "Adolescents have a reward system only, and control systems develop in adulthood"
+     ],
+     "answer": 0,
+     "stem": "双系统模型比较两个发展中的系统。它提出怎样的时间关系？",
+     "options": [
+      "奖励系统较早发展，认知控制则更渐进地成熟",
+      "认知控制较早发展，奖励系统则更渐进地成熟",
+      "奖励和控制系统同步成熟，在同一年龄达到成人水平",
+      "青少年只有奖励系统，控制系统要到成年才发展"
+     ],
+     "how": [
+      "线索是问两个系统的「时间关系」。",
+      "关键是两个系统发展时间不同：奖励早，控制渐进，所以选 A。",
+      "B 把两个系统的时间对调了。"
+     ]
+    },
+    {
+     "stemEn": "The lecturer described a 'yes system' and a 'no system'. What does the 'no system' correspond to?",
+     "optionsEn": [
+      "The reward-sensitive system",
+      "The sensation-seeking system",
+      "The cognitive control system",
+      "The peer-influence system"
+     ],
+     "answer": 2,
+     "stem": "讲师用了「yes system」和「no system」的比喻。「no system」对应什么？",
+     "options": [
+      "奖励敏感系统",
+      "寻求刺激系统",
+      "认知控制系统",
+      "同伴影响系统"
+     ],
+     "how": [
+      "线索是「no system」，即踩刹车的那一个。",
+      "控制帮助考虑目标和后果，所以选 C。",
+      "A 是推动尝试的「yes system」。"
+     ]
+    },
+    {
+     "stemEn": "Sixteen-year-olds match adults on a calm logic puzzle done alone, but choose far riskier options once the puzzle offers prizes and friends are cheering. What is the best interpretation?",
+     "optionsEn": [
+      "Sixteen-year-olds cannot reason, as the calm task result must have been due to chance",
+      "Reward has no bearing on their risk choices, as only the presence of friends mattered",
+      "Their control system has fully matured, which is what makes them seek out more risks",
+      "Reward and emotional context affect choices while cognitive control is still maturing"
+     ],
+     "answer": 3,
+     "stem": "16 岁的青少年单独做平静的逻辑题时与成人相当，但一旦题目有奖品、朋友在旁欢呼，就会选择风险高得多的选项。最好的解释是什么？",
+     "options": [
+      "16 岁的人不会推理，平静任务的结果一定是碰巧",
+      "奖励与风险选择无关，只有朋友在场才起作用",
+      "他们的控制系统已完全成熟，这使他们更多地寻求风险",
+      "在认知控制仍在成熟时，奖励和情绪情境影响了选择"
+     ],
+     "how": [
+      "线索是「平静的逻辑题」相当，有「奖品」和「欢呼」时才更冒险。",
+      "能力在中性情境没问题，变化来自情绪情境中的奖励敏感，所以选 D。",
+      "A 是错误标签：他们在中性任务上与成人相当。"
+     ]
+    },
+    {
+     "stemEn": "A student reads the model's curves and says, 'These show the exact age at which my brother's control system will mature.' What is the best reply?",
+     "optionsEn": [
+      "The curves are precise raw data, so they can be read off for any individual person",
+      "The curves are schematic trends and cannot locate one person's brain maturity",
+      "The curves apply only to teenagers who have already taken part in risky behaviours",
+      "The curves show that all adolescents take risks, and so the exact age is irrelevant"
+     ],
+     "answer": 1,
+     "stem": "一名学生读了模型的曲线后说：「这些曲线显示了我弟弟的控制系统成熟的确切年龄。」最好的回应是什么？",
+     "options": [
+      "曲线是精确的原始数据，所以可以读出任何个人的年龄",
+      "曲线是示意趋势，不能定位某个人的脑成熟时间",
+      "曲线只适用于已经有过冒险行为的青少年",
+      "曲线说明所有青少年都会冒险，所以确切年龄并不重要"
+     ],
+     "how": [
+      "线索是用曲线读出「确切年龄」和「我弟弟」这个个人。",
+      "模型是解释框架，不是个体预测表，所以选 B。",
+      "D 也错：模型不表示所有青少年都会冒险。"
+     ]
+    }
+   ],
+   "recap": "奖励早、控制晚，情绪和同伴情境再放大；模型不能预测某一个人。"
+  },
+  {
+   "id": "L8-P05",
+   "title": "激活可能性与网络发展",
+   "titleEn": "Activation likelihood and network development",
+   "conceptIds": [
+    "L8-C07",
+    "L8-C08"
+   ],
+   "kp": "激活可能性（activation likelihood）是某位置在研究中出现的一致性，不是信号强度。执行功能支持工作记忆、规划和抑制。分化（segregation）是分工更清楚，整合（integration）是协作更顺畅。",
+   "howTo": "「更常被激活」不等于「更强」「人人都激活」。「分工」选分化，「协同」选整合，两者可并存。18–20 岁只说明所测任务，不是全脑完成发育的日期。",
+   "items": [
+    {
+     "stemEn": "A research synthesis finds a higher activation likelihood at one brain location for adolescents. What does this indicate?",
+     "optionsEn": [
+      "The signal at that location is stronger on every single trial",
+      "Each adolescent activates that location whenever a reward appears",
+      "That location is the only brain region responsible for risk taking",
+      "Activation at that location appears more consistently across studies"
+     ],
+     "answer": 3,
+     "stem": "一项研究汇总发现，青少年在某一脑区位置的激活可能性更高。这说明什么？",
+     "options": [
+      "该位置的信号在每一次试验中都更强",
+      "每个青少年在奖励出现时都会激活该位置",
+      "该位置是唯一负责风险行为的脑区",
+      "该位置的激活在多项研究中出现得更一致"
+     ],
+     "how": [
+      "线索是「研究汇总」中的「激活可能性」。",
+      "它描述在研究间出现的一致性，所以选 D。",
+      "A 是最易错项：可能性和信号强度是两个不同指标。"
+     ]
+    },
+    {
+     "stemEn": "Holding a rule in mind, ignoring incoming messages and switching quickly between answers in a timed test mainly draws on:",
+     "optionsEn": [
+      "Crystallised ability",
+      "Sensation seeking",
+      "Executive functioning",
+      "Bonding social capital"
+     ],
+     "answer": 2,
+     "stem": "在限时测验中记住规则、忽略不断传来的消息、在答案之间快速切换，主要依靠：",
+     "options": [
+      "晶体能力（crystallised ability）",
+      "寻求刺激（sensation seeking）",
+      "执行功能（executive functioning）",
+      "亲密关系社会资本（bonding social capital）"
+     ],
+     "how": [
+      "线索是「记住规则」「忽略」消息和「切换」。",
+      "工作记忆、抑制和灵活调节都属于执行功能，所以选 C。"
+     ]
+    },
+    {
+     "stemEn": "As adolescents develop, some brain networks take on more specialised roles in particular kinds of task. Which term describes this change?",
+     "optionsEn": [
+      "Network segregation",
+      "Network integration",
+      "Activation likelihood",
+      "The disuse hypothesis"
+     ],
+     "answer": 0,
+     "stem": "随着青少年发展，一些脑网络在特定类型的任务中承担更专门的角色。哪个术语描述这种变化？",
+     "options": [
+      "网络分化（segregation）",
+      "网络整合（integration）",
+      "激活可能性（activation likelihood）",
+      "不使用假说（disuse hypothesis）"
+     ],
+     "how": [
+      "线索是「更专门的角色」，即分工更明确。",
+      "网络之间分工更清楚就是分化，所以选 A。",
+      "B 指相关网络协同运作。"
+     ]
+    },
+    {
+     "stemEn": "A student says, 'Brain networks that become segregated must be cut off from one another, so integration cannot occur.' What is the best correction?",
+     "optionsEn": [
+      "Segregation means networks physically separate, so integration comes first and then stops",
+      "Segregation means a clearer division of labour, and related networks can also coordinate",
+      "Integration means each network works alone, so it is in fact the same as segregation",
+      "Integration occurs only in children, and segregation occurs only in fully mature adults"
+     ],
+     "answer": 1,
+     "stem": "一名学生说：「发生分化的脑网络一定彼此切断，所以不可能再整合。」最好的纠正是什么？",
+     "options": [
+      "分化指网络在物理上分开，所以整合先发生，然后停止",
+      "分化指分工更明确，相关网络仍能协同",
+      "整合指每个网络单独工作，所以它其实与分化相同",
+      "整合只发生在儿童身上，分化只发生在完全成熟的成人身上"
+     ],
+     "how": [
+      "线索是学生说分化后「一定彼此切断」。",
+      "分工不意味着彼此隔绝，两者可共同发展，所以选 B。"
+     ]
+    },
+    {
+     "stemEn": "Task performance on executive function measures reached adult levels and stabilised at about 18-20 years. Which conclusion is justified?",
+     "optionsEn": [
+      "The whole brain finishes all structural development at exactly this one age for everybody",
+      "Real-world judgement can no longer improve in any way after people reach this age range",
+      "Performance on the tasks measured stabilises then, not the whole brain or real-life judgement",
+      "Adolescents under this age have no ability to complete executive function tasks accurately"
+     ],
+     "answer": 2,
+     "stem": "执行功能任务的表现约在 18–20 岁达到成人水平并趋于稳定。哪个结论有依据？",
+     "options": [
+      "每个人的全脑结构都恰好在这一年龄完成全部发育",
+      "到了这个年龄段之后，现实判断就不再有任何改善",
+      "所测任务的表现此时趋稳，这不代表全脑或现实判断都如此",
+      "这一年龄以下的青少年完全不能准确完成执行功能任务"
+     ],
+     "how": [
+      "线索是「任务的表现」约在「18–20 岁」趋稳。",
+      "这只是所测任务的结果，不是统一的完成年龄，所以选 C。",
+      "D 也错：准确率是随年龄逐渐上升，不是此前为零。"
+     ]
+    }
+   ],
+   "recap": "频率不是强度；分化和整合可并存；18–20 岁不是脑统一成熟的日子。"
+  },
+  {
+   "id": "L8-P06",
+   "title": "同伴关系与同伴影响",
+   "titleEn": "Friendship and peer influence",
+   "conceptIds": [
+    "L8-C09"
+   ],
+   "kp": "青春期友情重亲密（intimacy）、忠诚（loyalty）和互惠（reciprocity）。社会观察（social observation）是朋友在看我；社会影响（social influence）是我看朋友怎么做。同伴影响可来自信任和模仿，也可促进安全。",
+   "howTo": "先问谁在看谁：朋友看我选 observation；我看朋友选 influence。「都是强迫、都有害」一律排除。互相支持和披露选互惠，信任和保密选忠诚，分享感受选亲密。",
+   "items": [
+    {
+     "stemEn": "Two teenage friends expect that both of them will give support and share personal matters, not just one of them. Which feature of friendship is this?",
+     "optionsEn": [
+      "Loyalty",
+      "Reciprocity",
+      "Intimacy",
+      "Conformity"
+     ],
+     "answer": 1,
+     "stem": "两个青少年朋友期待双方都能给予支持、分享私事，而不只是其中一方。这是友情的哪个特点？",
+     "options": [
+      "忠诚（loyalty）",
+      "互惠（reciprocity）",
+      "亲密（intimacy）",
+      "从众（conformity）"
+     ],
+     "how": [
+      "线索是「双方都能」给予和分享。",
+      "重视相互支持和披露是互惠，所以选 B。",
+      "A 侧重信任、承诺和保密。"
+     ]
+    },
+    {
+     "stemEn": "Mei knows her friends are standing by the pool watching her, and she chooses a higher diving board. This is an example of:",
+     "optionsEn": [
+      "Social influence",
+      "Peer pressure by direct command",
+      "Ruminative exploration",
+      "Social observation"
+     ],
+     "answer": 3,
+     "stem": "Mei 知道朋友们正站在泳池边看着她，于是选择了更高的跳台。这是什么的例子？",
+     "options": [
+      "社会影响（social influence）",
+      "直接命令式的同伴压力（peer pressure）",
+      "反刍探索（ruminative exploration）",
+      "社会观察（social observation）"
+     ],
+     "how": [
+      "线索是她知道朋友们「看着她」。",
+      "我被同伴观察属于社会观察，所以选 D。",
+      "B 不对：题中朋友没有发出任何指令。"
+     ]
+    },
+    {
+     "stemEn": "Before diving, Noah watches his friend check the water depth, and then he checks it too. This is best described as:",
+     "optionsEn": [
+      "Social influence towards safe behaviour",
+      "Social observation towards safe behaviour",
+      "Social influence towards risky behaviour",
+      "Social observation towards risky behaviour"
+     ],
+     "answer": 0,
+     "stem": "跳水前，Noah 看到朋友先检查水深，然后他也去检查。这最好描述为：",
+     "options": [
+      "朝向安全行为的社会影响",
+      "朝向安全行为的社会观察",
+      "朝向风险行为的社会影响",
+      "朝向风险行为的社会观察"
+     ],
+     "how": [
+      "线索是 Noah「看到朋友」先检查，然后照做。",
+      "我观察同伴行为是影响，方向又是安全行为，所以选 A。",
+      "B 的方向错了：观察指朋友在看我。"
+     ]
+    },
+    {
+     "stemEn": "A parent says, 'Peer influence just means teenagers being forced into bad choices.' Which reply fits the lecture best?",
+     "optionsEn": [
+      "It can also arise from admiration and trust, and it can encourage safe behaviour",
+      "It is correct, as it arises only from force, and it always raises risky behaviour",
+      "It no longer matters, as family loses all influence once a person reaches adolescence",
+      "It occurs only when friends are watching, and never by observing what friends do"
+     ],
+     "answer": 0,
+     "stem": "一位家长说：「同伴影响就是青少年被迫作出坏的选择。」哪种回应最符合本讲？",
+     "options": [
+      "它也可能来自欣赏和信任，还能促进安全行为",
+      "这是对的，它只来自强迫，并且总会增加冒险行为",
+      "这已不重要，因为人进入青春期后家庭就完全失去影响",
+      "它只在朋友看着时发生，绝不会通过观察朋友的行为发生"
+     ],
+     "how": [
+      "线索是家长说同伴影响就是「被迫」和「坏的选择」。",
+      "同伴影响不全是强迫压力，也不只带来冒险，所以选 A。",
+      "C 也错：同伴重要不代表家庭没作用。"
+     ]
+    }
+   ],
+   "recap": "被朋友看是观察，看朋友做是影响；同伴影响不全是压力，也可促进安全。"
+  },
+  {
+   "id": "L8-P07",
+   "title": "校园氛围、认同与韧性",
+   "titleEn": "School climate, identification and resilience",
+   "conceptIds": [
+    "L8-C10"
+   ],
+   "kp": "校园氛围（school climate）是学生共同体验的环境；学校认同（school identification）是与学校的联结和归属；韧性（resilience）是面对逆境时的适应。纵向模型：积极氛围可经认同和韧性预测 wellbeing，但不自动是因果。",
+   "howTo": "「学校安全、关系积极」选氛围；「我属于这里」选认同；「挫折后恢复、求助」选韧性。问模型结论，选「提供时间顺序，但还有其他因素」，排除「箭头已证明因果」。",
+   "items": [
+    {
+     "stemEn": "A student says, 'I belong here. I am part of this school.' Which variable does this statement reflect?",
+     "optionsEn": [
+      "School climate",
+      "Resilience",
+      "Self-efficacy",
+      "School identification"
+     ],
+     "answer": 3,
+     "stem": "一名学生说：「我属于这里，我是这所学校的一员。」这句话反映哪个变量？",
+     "options": [
+      "校园氛围（school climate）",
+      "韧性（resilience）",
+      "自我效能（self-efficacy）",
+      "学校认同（school identification）"
+     ],
+     "how": [
+      "线索是「我属于这里」。",
+      "与学校的联结和归属感是学校认同，所以选 D。",
+      "A 是学校层面的环境特征，不是个人的归属。"
+     ]
+    },
+    {
+     "stemEn": "After failing an exam, Dara asks a teacher for help, changes her study strategy and gets back into class activities. Which variable is shown most directly?",
+     "optionsEn": [
+      "School climate",
+      "Resilience",
+      "School identification",
+      "Sensation seeking"
+     ],
+     "answer": 1,
+     "stem": "考试失利后，Dara 向老师求助，改变学习策略，并重新参与课堂活动。这最直接地表现了哪个变量？",
+     "options": [
+      "校园氛围（school climate）",
+      "韧性（resilience）",
+      "学校认同（school identification）",
+      "寻求刺激（sensation seeking）"
+     ],
+     "how": [
+      "线索是「失利后」求助、「改变学习策略」并重新参与。",
+      "面对不利经历后调整并恢复是韧性，所以选 B。"
+     ]
+    },
+    {
+     "stemEn": "A longitudinal model suggests that positive school climate predicts wellbeing through identification and resilience. What can be concluded?",
+     "optionsEn": [
+      "Every arrow in the model has been proven causal, because the data were collected over time",
+      "Identification and resilience are the same as wellbeing, as all three mean feeling happier",
+      "Time order is better examined, yet family resources or prior states may still affect the variables",
+      "School choice can be ruled out as an influence, because the model includes a mediator path"
+     ],
+     "answer": 2,
+     "stem": "一个纵向模型提出，积极的校园氛围通过认同和韧性预测 wellbeing。可以得出什么结论？",
+     "options": [
+      "模型中每个箭头都已被证明是因果，因为数据是跨时间收集的",
+      "认同和韧性与 wellbeing 相同，三者都表示更开心",
+      "时间顺序得到更好的检查，但家庭资源或先前状态仍可能影响这些变量",
+      "选校因素可以排除，因为模型包含了中介路径"
+     ],
+     "how": [
+      "线索是「纵向模型」和问「可以得出什么结论」。",
+      "纵向数据能检查时间顺序，但不证明每条箭头，所以选 C。",
+      "B 也错：三者分别是归属、适应和结果指标。"
+     ]
+    }
+   ],
+   "recap": "氛围是环境，认同是归属，韧性是适应；纵向路径不自动等于因果。"
+  },
+  {
+   "id": "L8-P08",
+   "title": "身份双循环五维",
+   "titleEn": "The five dimensions of the identity dual-cycle model",
+   "conceptIds": [
+    "L8-C11",
+    "L8-C12",
+    "L8-C13"
+   ],
+   "kp": "形成循环：广度探索（比较多个方向）与作出承诺（选定并投入）。评价循环：深度探索（检查已选方向）与认同承诺（觉得代表自己）。不匹配可回到广度。反刍探索是反复担忧难以推进的独立维度，不是第五阶段。",
+   "howTo": "比较多个选项选广度；评价已选方向选深度；已决定并行动选作出承诺；觉得「这就是我」选认同承诺；反复担心无进展选反刍。没有固定阶段。",
+   "items": [
+    {
+     "stemEn": "Before choosing a major, Priya compares psychology, management and philosophy. Which dimension does this reflect?",
+     "optionsEn": [
+      "Exploration in depth",
+      "Commitment making",
+      "Exploration in breadth",
+      "Identification with commitment"
+     ],
+     "answer": 2,
+     "stem": "选专业之前，Priya 比较了心理学、管理学和哲学。这反映哪个维度？",
+     "options": [
+      "深度探索（exploration in depth）",
+      "作出承诺（commitment making）",
+      "广度探索（exploration in breadth）",
+      "认同承诺（identification with commitment）"
+     ],
+     "how": [
+      "线索是「比较了」三个不同的方向。",
+      "比较多个可能选项是广度探索，所以选 C。"
+     ]
+    },
+    {
+     "stemEn": "Having chosen psychology, Omar talks to graduates and reads about the actual coursework to judge whether it fits his values. Which dimension is this?",
+     "optionsEn": [
+      "Exploration in depth",
+      "Exploration in breadth",
+      "Ruminative exploration",
+      "Commitment making"
+     ],
+     "answer": 0,
+     "stem": "选了心理学之后，Omar 与毕业生交谈，了解实际课程，以判断它是否符合自己的价值。这是哪个维度？",
+     "options": [
+      "深度探索（exploration in depth）",
+      "广度探索（exploration in breadth）",
+      "反刍探索（ruminative exploration）",
+      "作出承诺（commitment making）"
+     ],
+     "how": [
+      "线索是「选了」之后，「判断它是否符合」自己。",
+      "评价已选承诺是深度探索，所以选 A。",
+      "B 是比较多个选项；深度不是选项更多。"
+     ]
+    },
+    {
+     "stemEn": "Sofia has enrolled in nursing and arranged her timetable around it, but she does not yet feel that nursing is part of who she is. She shows:",
+     "optionsEn": [
+      "Identification with commitment without commitment making",
+      "Exploration in breadth without any commitment making",
+      "Ruminative exploration without any exploration in depth",
+      "Commitment making without identification with commitment"
+     ],
+     "answer": 3,
+     "stem": "Sofia 已报读护理专业，并围绕它安排了课表，但她还不觉得护理是自己的一部分。她表现出：",
+     "options": [
+      "认同承诺，但尚未作出承诺",
+      "广度探索，但完全没有作出承诺",
+      "反刍探索，但完全没有深度探索",
+      "作出承诺，但尚未认同承诺"
+     ],
+     "how": [
+      "线索是「已报读」，但「还不觉得」是自己的一部分。",
+      "选定并投入属于作出承诺，内化认同尚未形成，所以选 D。",
+      "A 把两者对调了：她已经作出选择。"
+     ]
+    },
+    {
+     "stemEn": "Liam keeps asking himself, 'What if I chose wrongly?', but he gathers no information and cannot move forward. Where does this fit in the model?",
+     "optionsEn": [
+      "Exploration in depth, the normal evaluation stage that all people reach",
+      "Ruminative exploration, a separate dimension and not a required stage",
+      "Ruminative exploration, the required fifth stage after the other four",
+      "Exploration in breadth, because thinking at length means exploring well"
+     ],
+     "answer": 1,
+     "stem": "Liam 不断问自己「万一选错了怎么办」，却不收集任何信息，也无法推进。这在模型中属于什么？",
+     "options": [
+      "深度探索，是所有人都会到达的正常评价阶段",
+      "反刍探索，是独立维度，不是必经阶段",
+      "反刍探索，是前四个之后必经的第五阶段",
+      "广度探索，因为想得久就等于探索得好"
+     ],
+     "how": [
+      "线索是「不断问自己」却「无法推进」。",
+      "持续担心而难以前进是反刍探索，它是额外的质量维度，所以选 B。",
+      "C 名称对，说法错：它不是前四步之后必经的阶段。"
+     ]
+    },
+    {
+     "stemEn": "During in-depth exploration, Hana discovers that her chosen field does not suit her. According to the dual-cycle model, what can happen next?",
+     "optionsEn": [
+      "She can return to exploration in breadth and consider other options",
+      "She must stay with the commitment, as the cycles cannot run backwards",
+      "She must wait for a fixed later age before making any further choices",
+      "She has now reached the end of identity development and must stop"
+     ],
+     "answer": 0,
+     "stem": "在深度探索中，Hana 发现所选领域并不适合她。按照双循环模型，接下来可能发生什么？",
+     "options": [
+      "她可以回到广度探索，考虑其他选项",
+      "她必须坚持这一承诺，因为循环不能倒回",
+      "她必须等到某个固定的较晚年龄才能再作选择",
+      "她已到达身份发展的终点，必须停止"
+     ],
+     "how": [
+      "线索是发现「并不适合」。",
+      "不匹配时可以重新进行广度探索，所以选 A。",
+      "C 不对：双循环不是固定年龄的阶段。"
+     ]
+    }
+   ],
+   "recap": "广度比选项，深度评已选；作出是选，认同是内化；反刍不是必经阶段。"
+  },
+  {
+   "id": "L8-P09",
+   "title": "连贯的自我与媒体身份",
+   "titleEn": "Coherent self and identity in media",
+   "conceptIds": [
+    "L8-C14",
+    "L8-C15"
+   ],
+   "kp": "自我感（sense of self）是跨时间、跨情境仍能认出「这是我」；生活叙事（life narratives）把过去、现在和未来连起来。在线身份空间可供尝试角色。平台上的被动不等于心理上的被动，呈现不同侧面也不一定是欺骗。",
+   "howTo": "不同场合行为不同，选「可共享同一价值」。把过去、现在、未来串起来选生活叙事。没发帖不等于没思考；不同群组表现不同选自我呈现，排除欺骗。",
+   "items": [
+    {
+     "stemEn": "A student links her childhood experiences, her current roles and her hoped-for future into one story about who she is. This is an example of:",
+     "optionsEn": [
+      "A paracosm",
+      "A filter bubble",
+      "A life narrative",
+      "An instance of ruminative exploration"
+     ],
+     "answer": 2,
+     "stem": "一名学生把童年经历、目前的角色和期望的未来连成一个关于自己是谁的故事。这是什么的例子？",
+     "options": [
+      "幻想世界（paracosm）",
+      "过滤气泡（filter bubble）",
+      "生活叙事（life narrative）",
+      "反刍探索（ruminative exploration）的表现"
+     ],
+     "how": [
+      "线索是把「童年经历」「目前的角色」和「期望的未来」连起来。",
+      "这像心理传记，属于生活叙事，所以选 C。"
+     ]
+    },
+    {
+     "stemEn": "Ravi is quiet at home and outgoing with friends, and he worries that his identity is 'broken'. Which response fits the lecture best?",
+     "optionsEn": [
+      "A healthy sense of self requires identical behaviour in all settings throughout life",
+      "This shows he is presenting a false self in at least one of these settings",
+      "This shows that he has no commitments, as commitments end all variation in behaviour",
+      "Behaviour can differ across settings while resting on the same values and sense of self"
+     ],
+     "answer": 3,
+     "stem": "Ravi 在家很安静，和朋友在一起却很外向，他担心自己的身份「破碎」了。哪种回应最符合本讲？",
+     "options": [
+      "健康的自我感要求一生在所有场合行为都完全相同",
+      "这说明他至少在其中一个场合呈现了虚假的自我",
+      "这说明他没有任何承诺，因为承诺会消除行为上的所有差异",
+      "行为可因场合而不同，同时基于相同的价值和自我感"
+     ],
+     "how": [
+      "线索是「在家很安静」「和朋友在一起却很外向」。",
+      "行为不同不必意味着身份破碎，可共享相同价值，所以选 D。",
+      "A 把连贯理解成了永不改变。"
+     ]
+    },
+    {
+     "stemEn": "After watching a career interview online, Ella neither likes nor comments, yet she rethinks the direction she wants to take. Which statement is most accurate?",
+     "optionsEn": [
+      "Her platform use is passive, so no identity process can be happening inside her",
+      "Her platform use looks passive, but she may be actively exploring her identity",
+      "Her lack of posts shows that she is ruminating and is unable to make decisions",
+      "Her viewing time alone is enough to measure how much identity work is going on"
+     ],
+     "answer": 1,
+     "stem": "在线看完一个职业访谈后，Ella 既没有点赞也没有评论，却重新思考了自己想走的方向。哪种说法最准确？",
+     "options": [
+      "她的平台使用是被动的，所以内心不可能发生身份过程",
+      "她的平台使用看起来被动，但她可能在主动探索身份",
+      "她没有发帖说明她在反刍，无法作决定",
+      "仅凭观看时长就足以衡量她进行了多少身份工作"
+     ],
+     "how": [
+      "线索是「没有点赞」「没有评论」，却「重新思考」方向。",
+      "平台行为和内部身份过程要分开，所以选 B。",
+      "D 也错：时长不能表示内容和内心的思考。"
+     ]
+    },
+    {
+     "stemEn": "A student posts game tips in one group and sounds serious in a course group. A friend calls her 'fake'. What is the best evaluation?",
+     "optionsEn": [
+      "Showing different sides is self-presentation and may be exploration, not proof of deceit",
+      "Showing different sides is proof of deceit, as a real identity has only one public style",
+      "Showing different sides is a sign of confused identity, as she has failed to integrate",
+      "Showing different sides is unrelated to identity, as online groups cannot affect the self"
+     ],
+     "answer": 0,
+     "stem": "一名学生在一个群里分享游戏攻略，在课程群里却显得很严肃。朋友说她「假」。最好的评价是什么？",
+     "options": [
+      "呈现不同侧面是自我呈现，可能是探索，不能证明欺骗",
+      "呈现不同侧面证明她在欺骗，因为真实身份只有一种公开风格",
+      "呈现不同侧面是身份混乱的迹象，说明她未能整合",
+      "呈现不同侧面与身份无关，因为线上群组不会影响自我"
+     ],
+     "how": [
+      "线索是在不同群里表现不同，朋友却说她「假」。",
+      "这属于自我呈现，不能直接判断真诚或欺骗，所以选 A。"
+     ]
+    }
+   ],
+   "recap": "连贯不等于不变；平台操作不等于心理过程；呈现不同侧面不等于欺骗。"
+  },
+  {
+   "id": "L8-P10",
+   "title": "媒体与心理健康、比较的两种角色",
+   "titleEn": "Media and wellbeing; state vs trait comparison",
+   "conceptIds": [
+    "L8-C16",
+    "L8-C17"
+   ],
+   "kp": "媒体与心理健康结果混合，控制混淆后平均关联常较小，但不代表人人零影响。理想化图像研究中，此刻比较（state）是中介（mediator），解释经由什么路径；惯常比较（trait）是调节（moderator），解释何时或对谁更强。",
+   "howTo": "问时长结论，排除「一定有害」和「人人无影响」，想到混淆和反向影响。当下比较、在路径中间选中介；平时爱比较、使关系变强选调节。",
+   "items": [
+    {
+     "stemEn": "Why do studies of media use and mental health produce mixed results?",
+     "optionsEn": [
+      "Screen time is a complete measure of use, so differing results must be measurement slips",
+      "Family stress, prior mood, reverse influence and type of activity can change the estimates",
+      "Media affects each person in one identical way, so results can only differ due to chance",
+      "Studies measure only attention, so they cannot detect any link with anxiety or depression"
+     ],
+     "answer": 1,
+     "stem": "为什么关于媒体使用与心理健康的研究结果不一致？",
+     "options": [
+      "屏幕时间是对使用的完整测量，所以结果不一致一定是测量失误",
+      "家庭压力、原有情绪、反向影响和活动类型都会改变估计",
+      "媒体以完全相同的方式影响每个人，所以结果不同只能是碰巧",
+      "研究只测量注意力，所以无法发现与焦虑或抑郁的任何关联"
+     ],
+     "how": [
+      "线索是问结果为什么「不一致」。",
+      "多种混淆和不同活动都会影响估计，所以选 B。",
+      "A 不对：时长不能完整表示内容、反馈和目的。"
+     ]
+    },
+    {
+     "stemEn": "After controlling for confounding variables, a large study finds a small average association between media use and low mood. Which conclusion is justified?",
+     "optionsEn": [
+      "Media use has no effect on any individual, so no further study is needed",
+      "Media use causes low mood in all users, as an association has been found",
+      "Low mood cannot lead to more media use, so the direction of effect is settled",
+      "The average link is small, but some people or situations may still carry risk"
+     ],
+     "answer": 3,
+     "stem": "控制混淆变量后，一项大型研究发现媒体使用与情绪低落之间的平均关联很小。哪个结论有依据？",
+     "options": [
+      "媒体使用对任何个人都没有影响，所以无需进一步研究",
+      "媒体使用导致所有用户情绪低落，因为已发现了关联",
+      "情绪低落不可能导致更多媒体使用，所以影响方向已定",
+      "平均关联小，但某些人或情境仍可能有风险"
+     ],
+     "how": [
+      "线索是「平均关联」「很小」。",
+      "平均小效应不等于人人零影响，所以选 D。",
+      "C 也错：原本情绪差也可能导致更多上网。"
+     ]
+    },
+    {
+     "stemEn": "In research on variables, what kind of question does a moderator answer?",
+     "optionsEn": [
+      "Through what process a relationship occurs",
+      "How many people show a given relationship",
+      "When or for whom a relationship is stronger",
+      "Whether a relationship was found by chance"
+     ],
+     "answer": 2,
+     "stem": "在变量研究中，调节变量（moderator）回答哪种问题？",
+     "options": [
+      "一种关系经由什么过程发生",
+      "有多少人表现出某种关系",
+      "一种关系在何时或对谁更强",
+      "一种关系是否碰巧被发现"
+     ],
+     "how": [
+      "线索是问「调节变量」。",
+      "调节解释 when 和 for whom，所以选 C。",
+      "A 是中介（mediator）回答的问题。"
+     ]
+    },
+    {
+     "stemEn": "After seeing an edited fitness photo, Ivy compares her body with it at that moment, and this comparison leads to body dissatisfaction. In this path, her comparison acts as:",
+     "optionsEn": [
+      "A moderator (trait comparison)",
+      "A mediator (trait comparison)",
+      "A mediator (state comparison)",
+      "A moderator (state comparison)"
+     ],
+     "answer": 2,
+     "stem": "看到一张修过的健身照后，Ivy 当下拿自己的身材与之比较，这一比较带来了身体不满。在这条路径中，她的比较充当：",
+     "options": [
+      "调节（惯常比较，trait comparison）",
+      "中介（惯常比较，trait comparison）",
+      "中介（此刻比较，state comparison）",
+      "调节（此刻比较，state comparison）"
+     ],
+     "how": [
+      "线索是「当下」比较，且比较「带来了」身体不满。",
+      "当下反应位于图像和不满之间，是此刻比较作中介，所以选 C。"
+     ]
+    },
+    {
+     "stemEn": "Idealised images are linked more strongly to body dissatisfaction among people who habitually compare themselves with others. Here, habitual comparison acts as:",
+     "optionsEn": [
+      "A mediator (state comparison)",
+      "A moderator (state comparison)",
+      "A mediator (trait comparison)",
+      "A moderator (trait comparison)"
+     ],
+     "answer": 3,
+     "stem": "对于习惯性与他人比较的人，理想化图像与身体不满的关联更强。在这里，习惯性比较充当：",
+     "options": [
+      "中介（此刻比较，state comparison）",
+      "调节（此刻比较，state comparison）",
+      "中介（惯常比较，trait comparison）",
+      "调节（惯常比较，trait comparison）"
+     ],
+     "how": [
+      "线索是「习惯性」比较，并且关联「更强」。",
+      "稳定倾向改变关系强弱，是惯常比较作调节，所以选 D。",
+      "C 混淆了两者：本课中 trait 是调节，state 才是中介。"
+     ]
+    }
+   ],
+   "recap": "此刻比较是中介（怎样发生）；惯常比较是调节（对谁更强）；时长不等于影响。"
+  },
+  {
+   "id": "L8-P11",
+   "title": "媒体、注意与语言边界",
+   "titleEn": "Media, attention and language",
+   "conceptIds": [
+    "L8-C18"
+   ],
+   "kp": "较多媒体活动与当天分心相关，但这不是 ADHD 诊断；与较低学业表现的负相关较一致，可能涉及时间替代、分心、奖励偏好和先前成绩。句末「……」、表情的含义依赖共同语境（pragmatics）；非正式表达不等于智力下降。",
+   "howTo": "看到「一天分心就是 ADHD」「手机永久损坏大脑」就排除。解释学业关联选多条路径。标点或表情的含义选「结合语境、先确认」，排除按符号直接判断。",
+   "items": [
+    {
+     "stemEn": "After a day of constant messaging, Ben could not focus on his reading and tells his friends he must have ADHD. What is wrong with this conclusion?",
+     "optionsEn": [
+      "Distraction on one day is not a diagnosis, and correlations cannot show lasting disorder",
+      "ADHD can be diagnosed from one day of distraction, provided messaging was involved",
+      "Messaging has been shown to have no association with distraction on the same day",
+      "Attention is a crystallised ability, so it cannot change from one day to the next"
+     ],
+     "answer": 0,
+     "stem": "经过一整天不停的发消息，Ben 无法专注阅读，于是告诉朋友他一定有 ADHD。这个结论错在哪里？",
+     "options": [
+      "一天分心不是诊断，相关也不能说明存在持久的障碍",
+      "只要涉及发消息，一天的分心就能诊断 ADHD",
+      "研究表明发消息与当天分心没有关联",
+      "注意力是一种晶体能力，所以不会一天之内发生变化"
+     ],
+     "how": [
+      "线索是由「一整天」的分心断定「一定有 ADHD」。",
+      "短期表现和长期诊断不同，所以选 A。",
+      "C 也错：当天分心与较多消息活动确实相关。"
+     ]
+    },
+    {
+     "stemEn": "Students with heavier media use tend to have lower grades. Which account fits the lecture best?",
+     "optionsEn": [
+      "Phones permanently damage the brain, which is the single cause of the lower grades",
+      "Lost study time, distraction, reward preference or prior grades may each play a part",
+      "The association shows that heavy media use raises achievement in formal assessments",
+      "There is no such association, as findings on achievement have been entirely mixed"
+     ],
+     "answer": 1,
+     "stem": "媒体使用较多的学生，成绩往往较低。哪种解释最符合本讲？",
+     "options": [
+      "手机永久损坏大脑，这是成绩较低的唯一原因",
+      "学习时间减少、分心、奖励偏好或先前成绩都可能起作用",
+      "这一关联表明大量使用媒体会提高正式考核成绩",
+      "不存在这种关联，因为学业方面的结果完全不一致"
+     ],
+     "how": [
+      "线索是「成绩往往较低」，这是相关。",
+      "可比较时间替代、分心等多条具体路径，所以选 B。",
+      "D 不对：学业的负相关在本讲中被认为较一致。"
+     ]
+    },
+    {
+     "stemEn": "An older relative replies to you with 'I see...' and you assume he is annoyed. What does the lecture suggest?",
+     "optionsEn": [
+      "The dots directly show his mental state, so you can be sure that he is annoyed",
+      "The dots may be habit for him, so shared context matters and you can check his tone",
+      "The dots show a decline in his formal writing ability and reasoning skills",
+      "The dots show that you have a false belief, as older adults never mean anything by them"
+     ],
+     "answer": 1,
+     "stem": "一位年长的亲戚回复你「知道了……」，你以为他不高兴。本讲会建议什么？",
+     "options": [
+      "这些点直接显示他的心理状态，所以可以确定他不高兴",
+      "这些点对他可能只是习惯，共同语境很重要，可以确认一下语气",
+      "这些点说明他的正式写作能力和推理能力下降了",
+      "这些点说明你有错误信念，因为年长者用它们从来没有含义"
+     ],
+     "how": [
+      "线索是由「知道了……」推断对方「不高兴」。",
+      "符号含义依赖语境，不是心理状态的直接证据，所以选 B。",
+      "D 也太绝对：有人确实会用它表示不满。"
+     ]
+    },
+    {
+     "stemEn": "A teacher says that teenagers' use of slang and emojis proves their intelligence is declining. What is the best evaluation?",
+     "optionsEn": [
+      "Informal language use cannot show this, and social expression differs from formal writing",
+      "It is correct, as informal language and critical thinking have been shown to be the same",
+      "It is correct, as any online communication practice lowers language performance overall",
+      "It cannot be evaluated, as language is not an outcome that media research ever measures"
+     ],
+     "answer": 0,
+     "stem": "一位老师说，青少年使用俚语和表情证明他们的智力在下降。最好的评价是什么？",
+     "options": [
+      "非正式用语不能说明这一点，社交表达与正式写作不是同一能力",
+      "这是对的，因为已证明非正式用语和批判性思维是一回事",
+      "这是对的，因为任何线上交流实践都会降低整体语言表现",
+      "这无法评价，因为媒体研究从不把语言作为结果来测量"
+     ],
+     "how": [
+      "线索是用「俚语和表情」证明「智力在下降」。",
+      "判断要对应明确的语言任务和研究设计，所以选 A。",
+      "C 也错：交流机会还可能与信心和沟通练习相连。"
+     ]
+    }
+   ],
+   "recap": "当天分心不是诊断；相关不是损伤；符号含义要看语境。"
+  },
+  {
+   "id": "L8-P12",
+   "title": "算法环境与假信息判断",
+   "titleEn": "Algorithmic environments and misinformation",
+   "conceptIds": [
+    "L8-C19",
+    "L8-C20"
+   ],
+   "kp": "回音室（echo chamber）是相似观点反复强化；过滤气泡（filter bubble）是个性化筛选减少不同内容。算法意识不等于理解机制。假信息要分开测准确率、信心和行为；第三人效应（third-person effect）是觉得别人更易受影响。",
+   "howTo": "「相似观点反复强化」选回音室；「个性化推荐筛选」选过滤气泡。「别人比我更易上当」选第三人效应。自信、相信和分享都不等于识别准确。",
+   "items": [
+    {
+     "stemEn": "In an online forum on diets, members keep repeating and praising one view, while people who disagree tend to leave. That view then seems universally accepted. Which concept fits best?",
+     "optionsEn": [
+      "Filter bubble",
+      "Third-person effect",
+      "Algorithm awareness",
+      "Echo chamber"
+     ],
+     "answer": 3,
+     "stem": "在一个饮食论坛里，成员不断重复并赞扬同一种观点，持不同意见的人往往离开。于是这种观点显得人人接受。哪个概念最合适？",
+     "options": [
+      "过滤气泡（filter bubble）",
+      "第三人效应（third-person effect）",
+      "算法意识（algorithm awareness）",
+      "回音室（echo chamber）"
+     ],
+     "how": [
+      "线索是成员「不断重复」同一观点，不同意见者「离开」。",
+      "相似观点在社交网络中反复强化是回音室，所以选 D。",
+      "A 强调个性化筛选，题中没有提到推荐系统。"
+     ]
+    },
+    {
+     "stemEn": "A news app learns what Zoe clicks and starts showing her stories closer to her existing preferences, with fewer differing views. Which concept fits best?",
+     "optionsEn": [
+      "Echo chamber",
+      "Social observation",
+      "Filter bubble",
+      "Third-person effect"
+     ],
+     "answer": 2,
+     "stem": "一个新闻应用学习 Zoe 点击了什么，开始向她展示更贴近她已有偏好的报道，不同观点变少。哪个概念最合适？",
+     "options": [
+      "回音室（echo chamber）",
+      "社会观察（social observation）",
+      "过滤气泡（filter bubble）",
+      "第三人效应（third-person effect）"
+     ],
+     "how": [
+      "线索是应用「学习」点击后展示「更贴近」偏好的内容。",
+      "个性化筛选减少异质观点是过滤气泡，所以选 C。"
+     ]
+    },
+    {
+     "stemEn": "A student cites Gran et al.'s algorithm-awareness study to claim that 'all teenagers understand how recommendation systems work'. What are the errors?",
+     "optionsEn": [
+      "The sample was entirely of teenagers, but it covered generative AI tools and not recommendation systems",
+      "The sample was a general Norwegian one, and awareness differs from understanding how recommending works",
+      "The study was a scoping review of 151 studies, so it says nothing about any people's awareness",
+      "The study showed that nobody knows about algorithms, so the claim gets the direction of results wrong"
+     ],
+     "answer": 1,
+     "stem": "一名学生引用 Gran 等人的算法意识研究，声称「所有青少年都理解推荐系统如何运作」。错在哪里？",
+     "options": [
+      "样本全是青少年，但研究的是生成式 AI 工具，不是推荐系统",
+      "样本是挪威总体样本，而且知道有算法不等于理解如何推荐",
+      "这项研究是涵盖 151 项研究的范围综述，所以不涉及任何人的意识",
+      "这项研究表明没有人知道算法，所以这一说法把结果方向弄反了"
+     ],
+     "how": [
+      "线索是从这项研究推到「所有青少年都理解」。",
+      "它是挪威总体网络样本，且意识不等于理解，所以选 B。",
+      "C 描述的是 Kops 的范围综述，不是 Gran 的研究。"
+     ]
+    },
+    {
+     "stemEn": "Students say, 'Other people fall for fake news, but I would not.' This view is called the third-person effect. What does it show about their real ability?",
+     "optionsEn": [
+      "Nothing by itself, as this self-view does not prove better identification",
+      "That they are better at spotting fake news, since they can name the risk",
+      "That they check outside sources more often than the people around them",
+      "That they share more fake news than other people, because they are confident"
+     ],
+     "answer": 0,
+     "stem": "学生们说：「别人会上假新闻的当，但我不会。」这种看法叫第三人效应（third-person effect）。它说明了他们的实际能力什么？",
+     "options": [
+      "本身什么也说明不了，这种自评不能证明识别能力更好",
+      "他们更善于发现假新闻，因为他们能说出这种风险",
+      "他们比周围的人更常核查外部来源",
+      "他们比别人分享更多假新闻，因为他们很自信"
+     ],
+     "how": [
+      "线索是问这种看法说明了「实际能力」什么。",
+      "第三人效应只是自评，不是能力的证据，所以选 A。"
+     ]
+    },
+    {
+     "stemEn": "In a review, some young people were sure they could spot false stories, scored poorly on identifying them and rarely checked other sources. What is the main lesson?",
+     "optionsEn": [
+      "Confidence is a good substitute for accuracy, and tests are not needed",
+      "Low accuracy means that they must share every false story that they see",
+      "Accuracy, confidence and checking behaviour have to be measured separately",
+      "Believing a story and sharing it are one variable, so only one is needed"
+     ],
+     "answer": 2,
+     "stem": "一项综述中，一些年轻人确信自己能识别假新闻，识别成绩却很差，也很少核查其他来源。主要启示是什么？",
+     "options": [
+      "信心可以很好地代替准确率，不需要测试",
+      "准确率低意味着他们一定会分享看到的每条假新闻",
+      "准确率、信心和核查行为必须分开测量",
+      "相信和分享是同一个变量，所以只需测一个"
+     ],
+     "how": [
+      "线索是「确信」能识别，「成绩却很差」，也「很少核查」。",
+      "三者可以不一致，要分别测，所以选 C。",
+      "D 不对：相信和分享是不同变量。"
+     ]
+    }
+   ],
+   "recap": "回音室靠人和观点，过滤气泡靠筛选；准确率、信心、行为要分开测。"
+  },
+  {
+   "id": "L8-P13",
+   "title": "成年稳定与研究设计",
+   "titleEn": "Adult stability and research design",
+   "conceptIds": [
+    "L8-C21"
+   ],
+   "kp": "相对稳定（relative stability）指某过程短期变化较小，不是停止发展；增长、损失和适应可并存。横断面（cross-sectional）受同期群效应（cohort effect）影响；纵向（longitudinal）追踪同一人，但有练习效应和流失。",
+   "howTo": "比较不同年龄的人，想到同期群效应；追踪同一批人，想到练习效应和流失。「成年后不再改变」一律错；组平均不能预测某个人。",
+   "items": [
+    {
+     "stemEn": "Researchers compare 20-year-olds and 50-year-olds on a new software task and find group differences. What is the main alternative explanation to ageing?",
+     "optionsEn": [
+      "A practice effect, as each person repeats the task many times",
+      "Sample attrition, as many participants drop out in later waves",
+      "A mediator effect, as task skill explains the path through age",
+      "A cohort effect, as the groups grew up with different technology"
+     ],
+     "answer": 3,
+     "stem": "研究者比较 20 岁和 50 岁的两组人完成一项新软件任务，发现组间差异。除了衰老，主要的另一种解释是什么？",
+     "options": [
+      "练习效应（practice effect），因为每个人多次重复这项任务",
+      "样本流失（attrition），因为很多参与者在后续阶段退出",
+      "中介效应（mediator effect），因为任务技能解释了年龄路径",
+      "同期群效应（cohort effect），因为两组成长时接触的科技不同"
+     ],
+     "how": [
+      "线索是比较「20 岁和 50 岁的两组人」，属于横断面设计。",
+      "不同年代的人经历不同，这是同期群效应，所以选 D。",
+      "A 和 B 是追踪同一批人时才有的问题。"
+     ]
+    },
+    {
+     "stemEn": "A study tests the same adults every few years for decades. Which limitation is especially relevant to this design?",
+     "optionsEn": [
+      "Practice effects and participants dropping out",
+      "Cohort differences between the age groups compared",
+      "A lack of any data on changes within one person",
+      "An inability to observe any person more than once"
+     ],
+     "answer": 0,
+     "stem": "一项研究每隔几年测试同一批成人，持续数十年。哪种局限与这种设计特别相关？",
+     "options": [
+      "练习效应和参与者流失",
+      "所比较年龄组之间的同期群差异",
+      "缺少关于同一个人内部变化的任何数据",
+      "无法对任何人观察一次以上"
+     ],
+     "how": [
+      "线索是「同一批成人」被反复测试，属于纵向设计。",
+      "反复测试有练习效应，长期追踪会有流失，所以选 A。",
+      "B 是横断面设计的问题。"
+     ]
+    },
+    {
+     "stemEn": "A friend says, 'Adults are stable, so development is over by the time you are thirty.' What is the best correction?",
+     "optionsEn": [
+      "Adults change only through losses, as gains in development end when adulthood begins",
+      "Some processes change little over short spans, while gains, losses and adaptation continue",
+      "Everyone follows one path of marriage, parenting and career peak, so it is predictable",
+      "Group averages for adults can tell us exactly how each person will develop in future"
+     ],
+     "answer": 1,
+     "stem": "一位朋友说：「成人是稳定的，所以到三十岁发展就结束了。」最好的纠正是什么？",
+     "options": [
+      "成人只会通过损失而变化，因为发展上的增长在成年时结束",
+      "一些过程在短跨度内变化较小，而增长、损失和适应仍在继续",
+      "每个人都走结婚、育儿、事业高峰的同一路线，所以可以预测",
+      "成人的组平均值能准确告诉我们每个人未来如何发展"
+     ],
+     "how": [
+      "线索是把「稳定」理解成「发展就结束了」。",
+      "相对稳定只指某些过程短跨度内变化小，所以选 B。",
+      "D 也错：平均趋势不代表每一个人。"
+     ]
+    }
+   ],
+   "recap": "横断面怕同期群，纵向怕练习和流失；相对稳定不等于停止发展。"
+  },
+  {
+   "id": "L8-P14",
+   "title": "流体与晶体能力、参与和老化",
+   "titleEn": "Fluid and crystallised abilities, engagement and ageing",
+   "conceptIds": [
+    "L8-C22",
+    "L8-C23"
+   ],
+   "kp": "流体能力（fluid）偏新问题的即时加工，如处理速度、工作记忆，平均常下降；晶体能力（crystallised）偏累积知识，如词汇，较能保持。参与假说（engagement）与不使用假说（disuse）解释活动的作用，但都不是预防疾病的保证。",
+   "howTo": "陌生任务、速度选流体；词汇、专业知识选晶体。「都在 30 岁见顶」「平均下降等于痴呆」都错。继续参与缓冲选 engagement，少用而生疏选 disuse。",
+   "items": [
+    {
+     "stemEn": "An experienced technician is slow to learn an unfamiliar phone interface, but quick to diagnose faults from long experience. Which description fits best?",
+     "optionsEn": [
+      "The new interface draws more on crystallised ability, and the diagnosis on fluid ability",
+      "Both draw only on crystallised ability, as all adult skill is accumulated knowledge",
+      "The new interface draws more on fluid ability, and the diagnosis on crystallised ability",
+      "Both draw only on fluid ability, as all adult skill depends on processing speed"
+     ],
+     "answer": 2,
+     "stem": "一位经验丰富的技师学习陌生的手机界面较慢，却能凭长期经验快速诊断故障。哪种描述最合适？",
+     "options": [
+      "新界面更依赖晶体能力，诊断更依赖流体能力",
+      "两者都只依赖晶体能力，因为成人技能都是累积的知识",
+      "新界面更依赖流体能力，诊断更依赖晶体能力",
+      "两者都只依赖流体能力，因为成人技能都取决于处理速度"
+     ],
+     "how": [
+      "线索是「陌生的」界面和「长期经验」。",
+      "新问题的即时处理偏流体，经验知识偏晶体，所以选 C。",
+      "A 把两种能力对调了。"
+     ]
+    },
+    {
+     "stemEn": "Which statement about cognitive ageing is most accurate?",
+     "optionsEn": [
+      "All cognitive abilities peak together at about age 30 and then decline at one rate",
+      "Decline in all abilities begins at age 65, and there is no change before that age",
+      "An average decline in speed shows that each older adult is developing dementia",
+      "Abilities differ in when they peak, how long they hold and how fast they change"
+     ],
+     "answer": 3,
+     "stem": "关于认知老化，哪种说法最准确？",
+     "options": [
+      "所有认知能力都在约 30 岁同时见顶，然后以同一速度下降",
+      "所有能力的下降都从 65 岁开始，在此之前没有变化",
+      "速度的平均下降说明每位老年人都在发展成痴呆",
+      "不同能力的高峰、保持期和变化速度各不相同"
+     ],
+     "how": [
+      "线索是问认知老化的「最准确」说法，先排除绝对说法。",
+      "不同能力的轨迹异步，所以选 D。",
+      "A 把课堂的「约 30 岁」概括当成了统一顶点；C 把平均下降等同于痴呆。"
+     ]
+    },
+    {
+     "stemEn": "White matter is best described in the lecture as:",
+     "optionsEn": [
+      "Tissue with many myelinated axons that support communication between brain regions",
+      "A single brain area where all crystallised knowledge is stored and protected from age",
+      "A network used only for reward processing during the adolescent years of development",
+      "A measure of how consistently brain locations are activated across a group of studies"
+     ],
+     "answer": 0,
+     "stem": "本讲对白质（white matter）的最好描述是：",
+     "options": [
+      "含有大量有髓轴突、支持脑区之间通信的组织",
+      "储存全部晶体知识、不受年龄影响的单一脑区",
+      "只在青春期用于奖励加工的网络",
+      "衡量脑区位置在多项研究中激活一致性的指标"
+     ],
+     "how": [
+      "线索是问「白质」的描述。",
+      "白质包含支持脑区通信的有髓轴突，所以选 A。",
+      "B 是本讲提醒的错误：知识并不储存在一个不老化的区域。"
+     ]
+    },
+    {
+     "stemEn": "After retiring, Ruth keeps organising a community club, learning new tools and solving everyday problems, which may help buffer her abilities. This idea reflects:",
+     "optionsEn": [
+      "The disuse hypothesis",
+      "Socioemotional selectivity theory",
+      "The engagement hypothesis",
+      "The Dual Systems Model"
+     ],
+     "answer": 2,
+     "stem": "退休后，Ruth 继续组织社区社团、学习新工具、解决日常问题，这可能有助于缓冲她的能力变化。这个观点反映的是：",
+     "options": [
+      "不使用假说（disuse hypothesis）",
+      "社会情绪选择理论（socioemotional selectivity theory）",
+      "参与假说（engagement hypothesis）",
+      "双系统模型（Dual Systems Model）"
+     ],
+     "how": [
+      "线索是「继续」参与活动，并「缓冲」能力变化。",
+      "持续认知和社会参与可能提供缓冲，这是参与假说，所以选 C。",
+      "A 是从相反角度说：少用某过程会造成技能损失。"
+     ]
+    },
+    {
+     "stemEn": "Older adults who do more mentally demanding activities tend to perform better on cognitive tests. A newspaper concludes that earning another degree will prevent dementia. What is the main flaw?",
+     "optionsEn": [
+      "Mentally demanding activities have been shown to speed up the onset of dementia overall",
+      "Cognitive tests measure only crystallised ability, so they say nothing about these adults",
+      "Degrees are unrelated to cognition, because knowledge is unable to influence performance",
+      "Prior ability, health and resources may affect both, and an association is no guarantee"
+     ],
+     "answer": 3,
+     "stem": "从事更多脑力活动的老年人，认知测验成绩往往更好。一家报纸得出结论说，再读一个学位就能预防痴呆。主要缺陷是什么？",
+     "options": [
+      "研究表明脑力活动总体上会加速痴呆的发生",
+      "认知测验只测晶体能力，所以不能说明这些老年人的情况",
+      "学位与认知无关，因为知识不会影响表现",
+      "先前能力、健康和资源可能同时影响两者，关联不是保证"
+     ],
+     "how": [
+      "线索是由「往往更好」跳到「预防痴呆」。",
+      "要把「可能保护」和「保证预防」分开，还要考虑共同原因，所以选 D。"
+     ]
+    }
+   ],
+   "recap": "流体偏即时加工，晶体偏累积知识；轨迹不同；关联不等于预防保证。"
+  },
+  {
+   "id": "L8-P15",
+   "title": "社会情绪选择理论",
+   "titleEn": "Socioemotional Selectivity Theory",
+   "conceptIds": [
+    "L8-C24",
+    "L8-C25"
+   ],
+   "kp": "社会情绪选择理论（SST）的关键变量是感知未来时间：较开放时重视知识和新经验，较有限时重视情感意义和亲近关系。Slide 39：亲密关系社会资本与积极情绪正相关，再关联 wellbeing；至情绪 wellbeing 的直接路径不显著。",
+   "howTo": "先看「觉得还有多少时间」，不看年龄数字。时间有限、更想陪亲近的人，选 SST。减少外围朋友可能是主动选择。读图：情绪 wellbeing 的直接路径是 ns。",
+   "items": [
+    {
+     "stemEn": "According to Socioemotional Selectivity Theory, which variable mainly shapes people's social goals?",
+     "optionsEn": [
+      "Chronological age alone",
+      "Perceived future time",
+      "Reward sensitivity",
+      "Number of online contacts"
+     ],
+     "answer": 1,
+     "stem": "按照社会情绪选择理论，哪个变量主要塑造人们的社会目标？",
+     "options": [
+      "仅仅是实际年龄",
+      "感知未来时间（perceived future time）",
+      "奖励敏感（reward sensitivity）",
+      "线上联系人的数量"
+     ],
+     "how": [
+      "线索是问「主要塑造」社会目标的变量。",
+      "理论核心是感到还有多少未来时间，所以选 B。",
+      "A 是最易错项：年龄与时间感有关，但不是理论的核心。"
+     ]
+    },
+    {
+     "stemEn": "In her final weeks before graduation, 22-year-old Tess skips networking events to have dinners with her closest friends. What explains this best?",
+     "optionsEn": [
+      "An open time horizon raises the priority of new information and contacts",
+      "A limited time horizon raises the priority of emotionally meaningful ties",
+      "Older age has made her naturally lose her interest in making new friends",
+      "Low school identification has made her withdraw from all social activities"
+     ],
+     "answer": 1,
+     "stem": "毕业前的最后几周，22 岁的 Tess 不去参加社交拓展活动，而是和最亲近的朋友吃饭。什么最能解释这一点？",
+     "options": [
+      "开放的时间视野提高了新信息和新联系的优先级",
+      "有限的时间视野提高了情感上有意义的关系的优先级",
+      "年龄增长使她自然失去了交新朋友的兴趣",
+      "较低的学校认同使她退出了所有社交活动"
+     ],
+     "how": [
+      "线索是「最后几周」，虽然她只有「22 岁」。",
+      "时间感到有限时更重情感意义，年轻人也一样，所以选 B。",
+      "C 不对：这个例子说明关键不是年龄数字。"
+     ]
+    },
+    {
+     "stemEn": "An older man has reduced his circle to a few people he is close to and says he is content. Which interpretation fits SST best?",
+     "optionsEn": [
+      "He must be socially isolated, because any reduction in contacts means a loss of support",
+      "He has lost the ability to make new friends, which is a natural feature of all older adults",
+      "He is showing rumination, because reducing contacts means repeatedly doubting his choices",
+      "He may be actively prioritising meaningful relationships rather than being forced into isolation"
+     ],
+     "answer": 3,
+     "stem": "一位老年男性把社交圈缩小到少数亲近的人，并说自己很满足。哪种解释最符合 SST？",
+     "options": [
+      "他一定处于社会孤立中，因为联系减少就意味着失去支持",
+      "他丧失了交新朋友的能力，这是所有老年人的自然特点",
+      "他表现出反刍，因为减少联系意味着反复怀疑自己的选择",
+      "他可能是主动优先考虑有意义的关系，而不是被迫孤立"
+     ],
+     "how": [
+      "线索是缩小到「亲近的人」，并说「很满足」。",
+      "减少外围联系可能是主动取舍，所以选 D。",
+      "A 没有区分主动选择和被迫孤立。"
+     ]
+    },
+    {
+     "stemEn": "In the mediation diagram on Slide 39, which path is marked as non-significant?",
+     "optionsEn": [
+      "The direct path from bonding social capital to social wellbeing",
+      "The direct path from bonding social capital to psychological wellbeing",
+      "The direct path from bonding social capital to emotional wellbeing",
+      "The path from bonding social capital to positive affect"
+     ],
+     "answer": 2,
+     "stem": "在 Slide 39 的中介图中，哪条路径被标为不显著？",
+     "options": [
+      "亲密关系社会资本到社会 wellbeing 的直接路径",
+      "亲密关系社会资本到心理 wellbeing 的直接路径",
+      "亲密关系社会资本到情绪 wellbeing 的直接路径",
+      "亲密关系社会资本到积极情绪的路径"
+     ],
+     "how": [
+      "线索是问「Slide 39」中「不显著」的路径。",
+      "至情绪 wellbeing 的直接路径标为 ns，所以选 C。",
+      "A 和 B 的直接路径都为正。"
+     ]
+    }
+   ],
+   "recap": "未来时间决定目标优先；年轻人也可能感到时间有限；少交朋友不一定是被迫孤立。"
+  },
+  {
+   "id": "L8-P16",
+   "title": "老年视角采择与情感亲近",
+   "titleEn": "Perspective taking and emotional closeness in later life",
+   "conceptIds": [
+    "L8-C26"
+   ],
+   "kp": "课件任务中，老年人按自己视角回答更准确，较少受不一致的他人视角干扰；按他人视角回答是另一种要求，加工负担更大。感知情感亲近度较高时，表现可接近年轻人。这不代表整体共情更好，也不代表更自私。",
+   "howTo": "先看任务问的是「我看到」还是「他看到」。自我视角题好只说明该任务。「整体共情更好」「老年人更自私」都排除。亲近度高选表现接近年轻人。",
+   "items": [
+    {
+     "stemEn": "In the self-perspective trials described in the slides, how did older adults perform?",
+     "optionsEn": [
+      "They were more accurate and less disrupted by others' inconsistent views",
+      "They were less accurate and more disrupted by others' inconsistent views",
+      "They could not separate their own view from that of another person at all",
+      "They performed the same as they did on trials about another's perspective"
+     ],
+     "answer": 0,
+     "stem": "在课件描述的自我视角试验中，老年人表现如何？",
+     "options": [
+      "更准确，较少受他人不一致视角的干扰",
+      "更不准确，更容易受他人不一致视角的干扰",
+      "完全无法区分自己的视角和他人的视角",
+      "表现与关于他人视角的试验相同"
+     ],
+     "how": [
+      "线索是「自我视角试验」。",
+      "老年人回答自己的视角时准确率较高、干扰较少，所以选 A。",
+      "D 不对：按他人视角回答是另一种认知要求。"
+     ]
+    },
+    {
+     "stemEn": "Older participants do better on 'What can you see?' trials. A reporter writes that older people have better empathy overall. What is the main error?",
+     "optionsEn": [
+      "Self-perspective trials are the same as the false-belief task for children",
+      "Self-perspective accuracy on one task does not show overall empathy",
+      "Older people were found to be more selfish, which is the opposite conclusion",
+      "Empathy is a fluid ability, so older people must have less empathy overall"
+     ],
+     "answer": 1,
+     "stem": "年长参与者在「你能看到什么？」的试验中表现更好。一名记者写道，老年人的整体共情更好。主要错误是什么？",
+     "options": [
+      "自我视角试验与儿童的错误信念任务完全相同",
+      "一项任务中的自我视角准确性，不能说明整体共情",
+      "研究发现老年人更自私，这是相反的结论",
+      "共情是一种流体能力，所以老年人的整体共情一定更少"
+     ],
+     "how": [
+      "线索是由「你能看到什么」的试验推到「整体共情」。",
+      "一项认知任务不能代表全部共情，所以选 B。",
+      "C 同样过度推论：这些结果不能把老年人贴成更自私。"
+     ]
+    },
+    {
+     "stemEn": "An older adult answers from the perspective of a close friend and performs about as well as younger adults, yet does worse with a stranger. Which factor does this highlight?",
+     "optionsEn": [
+      "Perceived emotional closeness",
+      "Perceived future time",
+      "White matter connectivity",
+      "Trait social comparison"
+     ],
+     "answer": 0,
+     "stem": "一位老年人从亲密朋友的视角回答时，表现与年轻人相当，对陌生人则较差。这突出了哪个因素？",
+     "options": [
+      "感知情感亲近度（perceived emotional closeness）",
+      "感知未来时间（perceived future time）",
+      "白质连接（white matter connectivity）",
+      "惯常社会比较（trait social comparison）"
+     ],
+     "how": [
+      "线索是「亲密朋友」和「陌生人」的表现不同。",
+      "亲近度较高时，表现可接近年轻人，所以选 A。"
+     ]
+    }
+   ],
+   "recap": "自我任务优势不等于共情优势；亲近关系可改变表现；不要贴「自私」标签。"
+  }
+ ]
+}

@@ -1,0 +1,1666 @@
+{
+ "lectureId": 7,
+ "points": [
+  {
+   "id": "L7-P01",
+   "title": "基因型、表型与遗传模式",
+   "titleEn": "Genotype, phenotype and inheritance patterns",
+   "conceptIds": [
+    "L7-C01",
+    "L7-C02"
+   ],
+   "kp": "基因型（genotype）是遗传组合；表型（phenotype）是基因、生理过程与环境共同形成的可观察特征。复杂行为通常是多基因（polygenic）。显性（dominant）一个相关拷贝即可影响表型，隐性（recessive）通常要两个。",
+   "howTo": "说「可观察」选表型，说「携带的组合」选基因型。解释复杂行为选多基因加环境。问拷贝数：一个是显性，通常两个是隐性；显性不等于更常见或更强。",
+   "items": [
+    {
+     "stemEn": "Which term refers to the observable characteristics and behaviours of an individual?",
+     "optionsEn": [
+      "Genotype",
+      "Phenotype",
+      "Polygenic inheritance",
+      "Penetrance"
+     ],
+     "answer": 1,
+     "stem": "哪个术语指一个人可观察到的特征与行为？",
+     "options": [
+      "基因型（genotype）",
+      "表型（phenotype）",
+      "多基因遗传（polygenic inheritance）",
+      "外显率（penetrance）"
+     ],
+     "how": [
+      "线索是「可观察到的」特征与行为。",
+      "能观察到的表现叫表型，所以选 B。",
+      "A 基因型指携带的遗传组合，不是表现出来的特征。"
+     ]
+    },
+    {
+     "stemEn": "Two friends argue that shyness must come from a single 'shyness gene'. Which reply best fits the lecture?",
+     "optionsEn": [
+      "Shyness follows a dominant pattern, so one variant copy is enough to produce it",
+      "Shyness follows a recessive pattern, so two variant copies are needed to produce it",
+      "Complex traits usually reflect many gene variants acting together with experience",
+      "Genes play no part in shyness, which develops from experience alone"
+     ],
+     "answer": 2,
+     "stem": "两位朋友争论说，害羞一定来自单独一个「害羞基因」。哪种回应最符合本讲？",
+     "options": [
+      "害羞遵循显性（dominant）模式，所以一个变异拷贝就足以造成它",
+      "害羞遵循隐性（recessive）模式，所以需要两个变异拷贝才造成它",
+      "复杂特质通常反映许多基因变异与经验的共同作用",
+      "基因与害羞无关，害羞完全由经验发展而来"
+     ],
+     "how": [
+      "线索是「单独一个」基因解释害羞这种复杂特质。",
+      "复杂行为通常是多基因加环境，所以选 C。",
+      "A 和 B 把单基因病的规律套到复杂行为上，这是本讲点名的错误。"
+     ]
+    },
+    {
+     "stemEn": "In a specific genetic condition, one copy of the relevant variant is enough to affect the phenotype. This describes:",
+     "optionsEn": [
+      "Dominant inheritance",
+      "Recessive inheritance",
+      "Polygenic inheritance",
+      "Reduced penetrance"
+     ],
+     "answer": 0,
+     "stem": "在某种特定遗传状况中，一个相关变异拷贝就足以影响表型。这描述的是：",
+     "options": [
+      "显性遗传（dominant inheritance）",
+      "隐性遗传（recessive inheritance）",
+      "多基因遗传（polygenic inheritance）",
+      "外显率降低（reduced penetrance）"
+     ],
+     "how": [
+      "线索是「一个相关变异拷贝」就足以影响表型。",
+      "一个拷贝即可表现是显性的定义，所以选 A。",
+      "B 隐性通常需要两个相关拷贝才表现。"
+     ]
+    },
+    {
+     "stemEn": "A student says: 'Huntington disease is dominant, so that variant must be common, and every carrier falls ill at the same age.' Which correction is most accurate?",
+     "optionsEn": [
+      "Huntington disease needs two variant copies, so most carriers never become ill at all",
+      "Huntington disease is polygenic, so no particular gene has been linked to the condition",
+      "Dominant means the most frequent form, but the age of onset is the same for each carrier",
+      "Dominant only concerns copy number, and repeat count relates to penetrance and onset age"
+     ],
+     "answer": 3,
+     "stem": "一名学生说：「亨廷顿病（Huntington disease）是显性的，所以这种变异一定很常见，而且每个携带者都在同一年龄发病。」哪种纠正最准确？",
+     "options": [
+      "亨廷顿病需要两个变异拷贝，所以多数携带者根本不会发病",
+      "亨廷顿病是多基因的，所以没有发现与之相关的特定基因",
+      "显性指最常见的形式，但每个携带者的发病年龄都相同",
+      "显性只涉及拷贝数，而重复次数与外显率和发病年龄有关"
+     ],
+     "how": [
+      "学生的两个判断是「一定很常见」和「在同一年龄发病」。",
+      "显性不代表常见，HTT 重复数又与外显率、发病年龄有关，所以选 D。",
+      "A 错在把它说成需要两个拷贝；课堂模式是常染色体显性。"
+     ]
+    }
+   ],
+   "recap": "表型不是基因型的直接照片；复杂行为看多基因加环境；显隐性只讲拷贝数，不讲强弱。"
+  },
+  {
+   "id": "L7-P02",
+   "title": "相同遗传条件，不同结局",
+   "titleEn": "PKU and XYY: genes do not fix outcomes",
+   "conceptIds": [
+    "L7-C03",
+    "L7-C04"
+   ],
+   "kp": "PKU 相关变异影响苯丙氨酸代谢，早筛和专业饮食管理可显著改变发展结果，但变异仍在。XYY 与暴力的说法来自机构和司法样本的选择偏差（selection bias），这些样本不能代表全部 XYY 人群。",
+   "howTo": "看到「早筛、饮食管理改变结果」选基因与环境互动，排除「基因被删除」。看到「从监狱、机构抽样」选选择偏差；不能凭核型推断个人行为。",
+   "items": [
+    {
+     "stemEn": "Why is phenylketonuria (PKU) a useful example of gene-environment interplay?",
+     "optionsEn": [
+      "Managed diet removes the PKU variants from the DNA of a treated child",
+      "Early screening and managed diet can change outcomes despite the same variants",
+      "PKU comes from diet alone, so genes have no role in the later outcome",
+      "PKU outcomes are fixed at birth, so the environment cannot alter them"
+     ],
+     "answer": 1,
+     "stem": "为什么苯丙酮尿症（PKU）是说明基因与环境相互作用的好例子？",
+     "options": [
+      "饮食管理把 PKU 变异从受治疗儿童的 DNA 中删除",
+      "尽管变异相同，早期筛查和饮食管理可以改变结果",
+      "PKU 只来自饮食，所以基因与后来的结果无关",
+      "PKU 的结果在出生时就已固定，环境无法改变"
+     ],
+     "how": [
+      "线索是问「基因与环境相互作用」的例子，要同时有遗传和环境两部分。",
+      "变异仍在，管理却能改变发展结果，所以选 B。",
+      "A 是常见误解：饮食改变代谢后果，不改变 DNA。"
+     ]
+    },
+    {
+     "stemEn": "Two children carry the variants that cause PKU. One is detected early and has specialist dietary management; the other goes undetected for years. Their later development differs markedly. This shows that:",
+     "optionsEn": [
+      "The two children must have different genotypes after all",
+      "The diet deleted the relevant variants in the first child",
+      "The same genotype does not guarantee the same outcome",
+      "Genes have no effect on how phenylalanine is metabolised"
+     ],
+     "answer": 2,
+     "stem": "两个孩子都携带造成 PKU 的变异。一个早期发现并接受专业饮食管理，另一个多年未被发现。两人后来的发展明显不同。这说明：",
+     "options": [
+      "这两个孩子的基因型其实一定不同",
+      "饮食删除了第一个孩子的相关变异",
+      "相同的基因型不保证相同的结局",
+      "基因不影响苯丙氨酸的代谢方式"
+     ],
+     "how": [
+      "线索是「都携带」相同变异，而「后来的发展明显不同」。",
+      "遗传条件相同，经历不同，结局就可能不同，所以选 C。",
+      "D 不对：变异确实影响代谢，管理只是改变了它的后果。"
+     ]
+    },
+    {
+     "stemEn": "Early studies recruited XYY men from prisons and institutions, then linked the karyotype with aggression. What is the main flaw in this conclusion?",
+     "optionsEn": [
+      "Selection bias, because these samples do not represent all XYY individuals",
+      "A cohort effect, because the men were born in different decades from others",
+      "The equal-environments assumption, because the men were not raised as twins",
+      "Reduced penetrance, because only some of the men carried the extra Y copy"
+     ],
+     "answer": 0,
+     "stem": "早期研究从监狱和机构招募 XYY 男性，然后把这种核型与攻击行为联系起来。这个结论的主要缺陷是什么？",
+     "options": [
+      "选择偏差（selection bias），因为这些样本不能代表全部 XYY 个体",
+      "同期群效应（cohort effect），因为这些男性与他人出生于不同年代",
+      "等环境假设（equal-environments assumption），因为这些男性不是作为双生子长大的",
+      "外显率降低（reduced penetrance），因为只有部分男性带有多出的 Y 拷贝"
+     ],
+     "how": [
+      "线索是样本来自「监狱和机构」。",
+      "在哪里找人会影响看到什么，这是选择偏差，所以选 A。",
+      "C 是双生子研究的假设，与这里的抽样问题无关。"
+     ]
+    },
+    {
+     "stemEn": "A lawyer argues that a client's 47,XYY karyotype shows he is naturally violent. Which response is best supported?",
+     "optionsEn": [
+      "The argument holds, as the extra Y has been established as an 'extreme male' cause",
+      "The argument holds only if the client also has a second chromosomal variation",
+      "A karyotype cannot show this, as XYY is a single-gene disorder and not chromosomal",
+      "A karyotype cannot show this, as individuals vary and the old evidence was biased"
+     ],
+     "answer": 3,
+     "stem": "一名律师主张，当事人的 47,XYY 核型说明他天生暴力。哪种回应最有依据？",
+     "options": [
+      "这个论证成立，因为多出的 Y 已被确认是「极端男性」的成因",
+      "只有当事人还有第二种染色体差异时，这个论证才成立",
+      "核型不能说明这一点，因为 XYY 是单基因病而不是染色体差异",
+      "核型不能说明这一点，因为个体差异大，且旧证据有偏差"
+     ],
+     "how": [
+      "线索是用「47,XYY」核型推断「天生暴力」。",
+      "XYY 不等于暴力，有些人症状很轻，旧证据又有选择偏差，所以选 D。",
+      "C 结论对但理由错：XYY 是多一条 Y 染色体，属于染色体差异。"
+     ]
+    }
+   ],
+   "recap": "PKU：基因型相同，结局可不同。XYY：样本来自哪里，不等于基因造成什么。"
+  },
+  {
+   "id": "L7-P03",
+   "title": "双生子比较与等环境假设",
+   "titleEn": "Twin logic and the equal-environments assumption",
+   "conceptIds": [
+    "L7-C05",
+    "L7-C06"
+   ],
+   "kp": "同卵（MZ）共享几乎全部遗传变异，异卵（DZ）平均共享约一半分离遗传变异。比较同一特质上的相关：MZ 高于 DZ 支持遗传参与。但这依赖等环境假设，MZ 可能被对待得更相似，同住也有非共享经验。",
+   "howTo": "找「相关系数」而不是「平均分」：MZ 相关更高才支持遗传。问常见批评或 MZ 被对待更相似，选等环境假设。同一家庭里不同的朋友、老师是非共享环境。",
+   "items": [
+    {
+     "stemEn": "Monozygotic twins share nearly all of their genetic variation. Dizygotic twins share, on average:",
+     "optionsEn": [
+      "About a quarter of their segregating genetic variation",
+      "Nearly all of their segregating genetic variation",
+      "About half of their segregating genetic variation",
+      "No more genetic variation than two unrelated people"
+     ],
+     "answer": 2,
+     "stem": "同卵双生子共享几乎全部遗传变异。异卵双生子平均共享：",
+     "options": [
+      "约四分之一的分离遗传变异",
+      "几乎全部的分离遗传变异",
+      "约一半的分离遗传变异",
+      "不比两个无亲缘关系的人更多的遗传变异"
+     ],
+     "how": [
+      "线索是问「异卵双生子」的平均共享量。",
+      "DZ 来自两枚受精卵，平均共享约一半，所以选 C。"
+     ]
+    },
+    {
+     "stemEn": "A twin study measures anxiety. Which result gives support for a genetic contribution to anxiety differences?",
+     "optionsEn": [
+      "MZ twins have a higher average score than DZ twins do",
+      "Scores correlate .30 across MZ pairs and .60 across DZ pairs",
+      "One MZ pair has near-identical scores, unlike one DZ pair",
+      "Scores correlate .60 across MZ pairs and .30 across DZ pairs"
+     ],
+     "answer": 3,
+     "stem": "一项双生子研究测量焦虑。哪个结果支持遗传因素参与了焦虑差异？",
+     "options": [
+      "MZ 双生子的平均分高于 DZ 双生子",
+      "得分在 MZ 对中相关 .30，在 DZ 对中相关 .60",
+      "一对 MZ 得分几乎相同，而一对 DZ 不同",
+      "得分在 MZ 对中相关 .60，在 DZ 对中相关 .30"
+     ],
+     "how": [
+      "线索是问「支持遗传」，要看两类双生子对内有多相似。",
+      "MZ 对内相关高于 DZ 对内相关才支持遗传，所以选 D。",
+      "A 是最易错项：比较的是相关，不是平均分高低。",
+      "C 只是一对双胞胎的故事，不能估计群体差异。"
+     ]
+    },
+    {
+     "stemEn": "Parents often dress MZ twins alike, and teachers place them in the same activities, more than they do with DZ twins. This most directly challenges:",
+     "optionsEn": [
+      "The idea of polygenic inheritance",
+      "The equal-environments assumption",
+      "The selective placement of adoptees",
+      "The dominant pattern of inheritance"
+     ],
+     "answer": 1,
+     "stem": "父母常给 MZ 双生子穿一样的衣服，老师也常把他们安排进同样的活动，这种情况比 DZ 双生子更多。这最直接地挑战了：",
+     "options": [
+      "多基因遗传（polygenic inheritance）的观点",
+      "等环境假设（equal-environments assumption）",
+      "收养中的选择性安置（selective placement）",
+      "显性（dominant）遗传模式"
+     ],
+     "how": [
+      "线索是 MZ「穿一样的衣服」「同样的活动」，且比 DZ 更多。",
+      "环境相似程度随双生子类型变化，违背等环境假设，所以选 B。",
+      "C 属于收养研究的限制，这里没有收养。"
+     ]
+    },
+    {
+     "stemEn": "Two siblings grow up in one house but have different friends, different teachers and a different serious illness. These experiences are examples of:",
+     "optionsEn": [
+      "Non-shared environment",
+      "Shared environment",
+      "Gene-environment correlation",
+      "The equal-environments assumption"
+     ],
+     "answer": 0,
+     "stem": "两个手足在同一所房子长大，却有不同的朋友、不同的老师，其中一人还得过一场重病。这些经历是什么的例子？",
+     "options": [
+      "非共享环境（non-shared environment）",
+      "共享环境（shared environment）",
+      "基因—环境相关（gene-environment correlation）",
+      "等环境假设（equal-environments assumption）"
+     ],
+     "how": [
+      "线索是「同一所房子」里却有「不同的朋友、不同的老师」。",
+      "使家人变得不同的独特经历是非共享环境，所以选 A。",
+      "B 指使家人相似的共同经历，如共同的住房和资源。"
+     ]
+    },
+    {
+     "stemEn": "MZ twins correlate more highly than DZ twins on a trait. Which conclusion is most defensible?",
+     "optionsEn": [
+      "This proves that genes alone produce the trait, as both groups were raised in families",
+      "This fits a genetic contribution, though more similar treatment of MZ twins may add to it",
+      "This shows that the environment has no influence on the trait in the studied population",
+      "This shows that each MZ twin inherited the trait from one dominant gene from a parent"
+     ],
+     "answer": 1,
+     "stem": "在某特质上，MZ 双生子的相关高于 DZ 双生子。哪个结论最站得住脚？",
+     "options": [
+      "这证明特质完全由基因产生，因为两组都在家庭中长大",
+      "这符合遗传贡献，但 MZ 被对待得更相似也可能增加相关",
+      "这表明环境对所研究人群的该特质没有影响",
+      "这表明每个 MZ 双生子都从父母那里继承了一个显性基因"
+     ],
+     "how": [
+      "线索是问「最站得住脚」的结论，要排除绝对说法。",
+      "双生子设计不能完美分离基因与环境，结论要带限制，所以选 B。",
+      "A 和 C 都把相关差异说成了完全决定。"
+     ]
+    }
+   ],
+   "recap": "比相关不比平均分；MZ 更像只算支持遗传，还要查是否被对待得更相似。"
+  },
+  {
+   "id": "L7-P04",
+   "title": "遗传率：计算与解释",
+   "titleEn": "Heritability: calculating and interpreting h²",
+   "conceptIds": [
+    "L7-C07",
+    "L7-C08"
+   ],
+   "kp": "Falconer 简化公式 h²≈2(rMZ−rDZ)；课件例子 rMZ=.50、rDZ=.30，得 .40。遗传率指特定人群和环境中，特质差异与遗传差异相关的比例，不是个人百分比，也不说明特质能否改变。",
+   "howTo": "计算：先相减再乘二。解释：只选含「群体差异、特定环境」的说法，「他 40% 由基因决定」「40% 的人」都错。环境差异变小，h² 可能上升；高 h² 不等于改不了。",
+   "items": [
+    {
+     "stemEn": "Using the lecture's simplified formula, what is h² when rMZ = .50 and rDZ = .30?",
+     "optionsEn": [
+      ".20",
+      ".80",
+      ".40",
+      ".60"
+     ],
+     "answer": 2,
+     "stem": "用课上的简化公式，当 rMZ = .50、rDZ = .30 时，h² 是多少？",
+     "options": [
+      ".20",
+      ".80",
+      ".40",
+      ".60"
+     ],
+     "how": [
+      "线索是「rMZ = .50、rDZ = .30」两个相关系数。",
+      "h²≈2×(.50−.30)，差为 .20，再乘二得 .40，所以选 C。",
+      "A 只做了相减，忘了乘二。"
+     ]
+    },
+    {
+     "stemEn": "A hypothetical twin study reports rMZ = .70 and rDZ = .45 for reading speed. The simplified formula estimates h² as about:",
+     "optionsEn": [
+      ".50",
+      ".25",
+      ".90",
+      ".35"
+     ],
+     "answer": 0,
+     "stem": "一项假设的双生子研究报告，阅读速度的 rMZ = .70、rDZ = .45。简化公式估计 h² 约为：",
+     "options": [
+      ".50",
+      ".25",
+      ".90",
+      ".35"
+     ],
+     "how": [
+      "线索是「rMZ = .70、rDZ = .45」。",
+      "两者相差 .25，乘二得 .50，所以选 A。",
+      "B 只是差值，还没有乘二。"
+     ]
+    },
+    {
+     "stemEn": "A study estimates h² = .40 for extraversion in one population. Which statement is correct?",
+     "optionsEn": [
+      "About 40% of any one person's extraversion was produced by their genes, with the rest from their upbringing",
+      "About 40% of the people in this population have extraversion determined by genes, with the others by environment",
+      "Experience can change only about 60% of this trait in a person, as the remaining part stays fixed by the genes",
+      "In this population and setting, about 40% of the differences among people relate to genetic differences"
+     ],
+     "answer": 3,
+     "stem": "一项研究估计，某人群外向性的 h² = .40。哪种说法正确？",
+     "options": [
+      "任何一个人的外向性约有 40% 由基因产生，其余来自养育",
+      "该人群中约 40% 的人外向性由基因决定，其他人由环境决定",
+      "经验只能改变一个人该特质的约 60%，其余部分被基因固定",
+      "在该人群和环境中，人们之间约 40% 的差异与遗传差异相关"
+     ],
+     "how": [
+      "线索是「某人群」的「h² = .40」。",
+      "遗传率描述的是群体内个体间的差异，所以选 D。",
+      "A 和 B 是本讲标出的两个高风险误读：个人比例和人数比例。"
+     ]
+    },
+    {
+     "stemEn": "Every child in Town X has equally rich access to books, while access in Region Y varies widely. Estimated heritability of reading ability is higher in Town X. What is the best explanation?",
+     "optionsEn": [
+      "With smaller environmental differences, genetic differences account for more of the variance",
+      "Books have stopped mattering for the reading development of children in Town X",
+      "Children in Town X have inherited more reading-related genes than those in Region Y",
+      "Heritability is a fixed constant, so one of the two estimates must simply be wrong"
+     ],
+     "answer": 0,
+     "stem": "X 镇每个孩子都能同样充分地接触书籍，而 Y 地区的接触机会差异很大。X 镇阅读能力的遗传率估计更高。最好的解释是什么？",
+     "options": [
+      "环境差异变小后，遗传差异能解释更大比例的方差",
+      "书籍对 X 镇儿童的阅读发展已经不再重要",
+      "X 镇儿童比 Y 地区儿童继承了更多与阅读有关的基因",
+      "遗传率是固定常数，所以两个估计中必有一个是错的"
+     ],
+     "how": [
+      "线索是 X 镇「同样充分」，即环境差异小。",
+      "遗传率是方差比例，环境差异缩小，h² 可能上升，所以选 A。",
+      "B 是最易错项：书籍对每个孩子仍然重要，只是不再造成多少差异。"
+     ]
+    },
+    {
+     "stemEn": "A commentator says: 'Reading ability is highly heritable, so spending on teaching is pointless.' What is the main error?",
+     "optionsEn": [
+      "Heritability can be estimated only for single-gene conditions, not reading skills",
+      "High heritability shows the opposite, that teaching causes most reading differences",
+      "Heritability describes individuals, so it cannot be applied to a population at all",
+      "High heritability does not tell us whether a trait can be changed by experience"
+     ],
+     "answer": 3,
+     "stem": "一位评论者说：「阅读能力的遗传率很高，所以投入教学毫无意义。」主要错误是什么？",
+     "options": [
+      "遗传率只能用于单基因病，不能用于阅读技能",
+      "高遗传率恰好相反，说明教学造成了多数阅读差异",
+      "遗传率描述个人，所以完全不能用于群体",
+      "高遗传率不能告诉我们特质能否通过经验改变"
+     ],
+     "how": [
+      "线索是从「遗传率很高」跳到「毫无意义」。",
+      "h² 不说明特质是否容易改变，也不能证明教育无效，所以选 D。",
+      "C 把方向说反了：遗传率描述的正是群体。"
+     ]
+    }
+   ],
+   "recap": "h²：相减再乘二；它讲群体差异，不讲个人比例，也不讲能否改变。"
+  },
+  {
+   "id": "L7-P05",
+   "title": "收养研究与基因—环境联系",
+   "titleEn": "Adoption designs and gene-environment links",
+   "conceptIds": [
+    "L7-C09",
+    "L7-C10"
+   ],
+   "kp": "收养和分离双生子比较亲缘与抚养的不同组合，但不是随机实验：有选择性安置和共同产前环境。基因—环境互动是环境改变遗传倾向的表现；基因—环境相关是遗传相关特点影响所接触的环境。",
+   "howTo": "「分开养就排除了环境」一律错，找产前、安置或逸闻。同一倾向在不同环境表现不同，选互动；孩子因自身特点得到、引发或选择某环境，选相关。",
+   "items": [
+    {
+     "stemEn": "A researcher compares adoptive parents with their adopted children. What do these pairs mainly share?",
+     "optionsEn": [
+      "Part of their genes as well as the rearing family",
+      "The rearing family, without a close genetic link",
+      "Part of their genes, though raised in separate homes",
+      "Nearly all of their genes, though raised in separate homes"
+     ],
+     "answer": 1,
+     "stem": "一位研究者比较养父母和他们收养的孩子。这些配对主要共享什么？",
+     "options": [
+      "部分基因以及抚养家庭",
+      "抚养家庭，但没有密切的遗传联系",
+      "部分基因，但在不同家庭长大",
+      "几乎全部基因，但在不同家庭长大"
+     ],
+     "how": [
+      "线索是「养父母」和「收养的孩子」，两者没有亲缘。",
+      "这一组主要共享抚养家庭，用来看共同生活能解释多少相似，所以选 B。",
+      "A 描述的是亲生并共同生活的家庭，两种来源难以拆开。"
+     ]
+    },
+    {
+     "stemEn": "MZ twins separated early and raised apart turn out very similar in temperament. Why is this not firm causal proof that genes are responsible?",
+     "optionsEn": [
+      "They share only about half of the genetic variation that their parents carry",
+      "Their similarity reflects random assignment of each twin to a rearing family",
+      "They shared a prenatal environment and may have been placed in similar homes",
+      "Twins raised apart cannot be measured with the same temperament questionnaire"
+     ],
+     "answer": 2,
+     "stem": "早期分开、分别抚养的 MZ 双生子，气质非常相似。为什么这不能作为基因造成相似的确凿因果证据？",
+     "options": [
+      "他们只共享父母所携带遗传变异的约一半",
+      "他们的相似反映了每人被随机分配到抚养家庭",
+      "他们共享产前环境，也可能被安置到相似的家庭",
+      "分开抚养的双生子无法用同一份气质问卷测量"
+     ],
+     "how": [
+      "线索是「分别抚养」却问能否算「确凿因果证据」。",
+      "分开养仍有共同产前环境和选择性安置，所以选 C。",
+      "B 说反了：分开安置不是随机分配，这正是设计的限制。"
+     ]
+    },
+    {
+     "stemEn": "In the 1960s-70s, children were separated and placed apart for observation, with families not properly informed. What is the main lesson the lecture draws?",
+     "optionsEn": [
+      "Valuable data do not excuse ignoring informed consent and child welfare",
+      "Separating twins is proven to give each child more resources and benefit",
+      "Separated-twin data are worthless because genes cannot be studied in twins",
+      "Adoption studies remove the need to consider ethics, as the families consent"
+     ],
+     "answer": 0,
+     "stem": "1960–70 年代，有儿童被分开安置并接受观察，而家属没有得到充分告知。本讲从中得出的主要教训是什么？",
+     "options": [
+      "数据有价值，也不能成为忽视知情同意和儿童福祉的理由",
+      "分开双生子已被证明能给每个孩子更多资源和好处",
+      "分离双生子的数据毫无价值，因为不能在双生子身上研究基因",
+      "收养研究不必考虑伦理，因为家庭已经同意"
+     ],
+     "how": [
+      "线索是「家属没有得到充分告知」。",
+      "课堂把此事当作研究伦理的警示，所以选 A。",
+      "B 只是当时的一种假设，并未被证实对儿童有利。"
+     ]
+    },
+    {
+     "stemEn": "A child who is highly sensitive to threat often lashes out in a high-conflict home, yet regulates emotions well in a calm, responsive home. This best illustrates:",
+     "optionsEn": [
+      "Gene-environment correlation",
+      "Gene-environment interaction",
+      "Non-shared environment",
+      "Selective placement"
+     ],
+     "answer": 1,
+     "stem": "一个对威胁高度敏感的孩子，在冲突频繁的家里常常反击，在平静而有回应的家里却能较好地调节情绪。这最能说明：",
+     "options": [
+      "基因—环境相关（gene-environment correlation）",
+      "基因—环境互动（gene-environment interaction）",
+      "非共享环境（non-shared environment）",
+      "选择性安置（selective placement）"
+     ],
+     "how": [
+      "线索是同一倾向在「冲突频繁」和「平静」的家里表现不同。",
+      "环境改变遗传倾向的表现，这是互动，所以选 B。",
+      "A 讲的是特点带来环境，这里没有说孩子改变了环境。"
+     ]
+    },
+    {
+     "stemEn": "A child who enjoys reading borrows more library books, and her parents start buying her more books as well. Her reading keeps improving. This best illustrates:",
+     "optionsEn": [
+      "Gene-environment interaction",
+      "The equal-environments assumption",
+      "Monogenic inheritance",
+      "Gene-environment correlation"
+     ],
+     "answer": 3,
+     "stem": "一个喜欢阅读的孩子借了更多图书馆的书，父母也开始给她买更多书。她的阅读能力不断提高。这最能说明：",
+     "options": [
+      "基因—环境互动（gene-environment interaction）",
+      "等环境假设（equal-environments assumption）",
+      "单基因遗传（monogenic inheritance）",
+      "基因—环境相关（gene-environment correlation）"
+     ],
+     "how": [
+      "线索是孩子自己「借了更多」书，也引来父母「买更多书」。",
+      "个人特点影响她寻找和得到的环境，这是相关，所以选 D。",
+      "A 要求环境改变倾向的表现，而这里的重点是特点把人带向某种环境。"
+     ]
+    }
+   ],
+   "recap": "分开养不等于随机化。环境改变表现是互动，特点带来环境是相关。"
+  },
+  {
+   "id": "L7-P06",
+   "title": "产前阶段与致畸因素",
+   "titleEn": "Prenatal stages and teratogens",
+   "conceptIds": [
+    "L7-C11",
+    "L7-C12"
+   ],
+   "kp": "产前三期是近似划分：合子期（zygotic）0–2 周，分裂与着床；胚胎期（embryonic）2–8 周，器官和肢体形成；胎儿期（foetal）9 周至出生，成长和功能完善。致畸因素（teratogen）的风险看物质、剂量、时间和持续期。",
+   "howTo": "「分裂、着床」选合子期；「器官、肢体形成」选胚胎期；「增长、功能完善」选胎儿期。问风险选同时考虑剂量和时间的说法；「过了第八周就安全」一律错。",
+   "items": [
+    {
+     "stemEn": "According to the lecture's approximate timeline, major organ systems and limb structures form mainly during which stage?",
+     "optionsEn": [
+      "The zygotic stage, about weeks 0-2",
+      "The foetal stage, week 9 to birth",
+      "The embryonic stage, about weeks 2-8",
+      "The neonatal stage, just after birth"
+     ],
+     "answer": 2,
+     "stem": "按本讲的近似时间表，主要器官系统和肢体结构主要在哪个阶段形成？",
+     "options": [
+      "合子期（zygotic），约第 0–2 周",
+      "胎儿期（foetal），第 9 周至出生",
+      "胚胎期（embryonic），约第 2–8 周",
+      "新生儿期（neonatal），刚出生后"
+     ],
+     "how": [
+      "线索是「器官系统和肢体结构」形成。",
+      "器官形成对应胚胎期，所以选 C。",
+      "B 胎儿期主要是继续增长和完善功能。"
+     ]
+    },
+    {
+     "stemEn": "A fertilised egg is undergoing rapid cell division and has not yet finished implanting. Which stage is this?",
+     "optionsEn": [
+      "The zygotic stage",
+      "The embryonic stage",
+      "The foetal stage",
+      "The latency stage"
+     ],
+     "answer": 0,
+     "stem": "一枚受精卵正在快速分裂，还没有完成着床。这是哪个阶段？",
+     "options": [
+      "合子期（zygotic）",
+      "胚胎期（embryonic）",
+      "胎儿期（foetal）",
+      "潜伏期（latency）"
+     ],
+     "how": [
+      "线索是「分裂」和「着床」。",
+      "细胞分裂和着床发生在受精后约 0–2 周的合子期，所以选 A。",
+      "D 是人格讲的 Freud 阶段，不属于产前发展。"
+     ]
+    },
+    {
+     "stemEn": "A student says: 'Once week 8 has passed, teratogens can no longer do harm.' What is the best evaluation?",
+     "optionsEn": [
+      "Correct, as the organs and the brain have all finished developing by the end of week 8",
+      "Incorrect, as brain development and functional maturation continue and can be affected",
+      "Correct, as the placenta starts to block all harmful substances from week 9 onwards",
+      "Incorrect, as organ formation begins only in the foetal stage rather than before it"
+     ],
+     "answer": 1,
+     "stem": "一名学生说：「过了第八周，致畸因素就不会再造成伤害。」最好的评价是什么？",
+     "options": [
+      "正确，因为器官和脑在第八周结束时都已发育完毕",
+      "不对，因为脑发育和功能成熟仍在继续，也可能受影响",
+      "正确，因为胎盘从第九周起会阻挡所有有害物质",
+      "不对，因为器官形成要到胎儿期才开始，而不是在此之前"
+     ],
+     "how": [
+      "线索是「过了第八周」就「不会再造成伤害」。",
+      "胎儿期的脑和功能成熟也会受影响，阶段表不是安全线，所以选 B。",
+      "D 结论对但理由错：器官形成主要在胚胎期。"
+     ]
+    },
+    {
+     "stemEn": "Two pregnancies involve exposure to the same substance, yet the outcomes differ. Which explanation fits the lecture best?",
+     "optionsEn": [
+      "The substance must have been mislabelled in one case",
+      "Teratogens affect only children with a recessive variant",
+      "Dose, timing, duration and individual factors differed",
+      "Only exposure in the zygotic stage has any real effect"
+     ],
+     "answer": 2,
+     "stem": "两次怀孕都接触了同一种物质，结局却不同。哪种解释最符合本讲？",
+     "options": [
+      "其中一次的物质一定是标错了",
+      "致畸因素只影响带隐性变异的孩子",
+      "剂量、时间、持续期和个体因素不同",
+      "只有合子期的暴露才有真正的影响"
+     ],
+     "how": [
+      "线索是「同一种物质」，「结局却不同」。",
+      "结果不只取决于物质名称，还取决于剂量、时间等，所以选 C。"
+     ]
+    }
+   ],
+   "recap": "合子分裂，胚胎成形，胎儿长成；风险看剂量、时间和持续期，第八周后并非安全。"
+  },
+  {
+   "id": "L7-P07",
+   "title": "孕期药物与酒精",
+   "titleEn": "Prenatal medication examples and FASD",
+   "conceptIds": [
+    "L7-C13",
+    "L7-C14"
+   ],
+   "kp": "Thalidomide 说明关键发育窗口；quinine、aspirin 的风险要结合剂量和适应症，课堂表格不是用药建议。酒精能跨胎盘，FASD 是一系列影响的谱系，FAS 是其中一个诊断类别；没有已知安全的饮酒量或时段。",
+   "howTo": "问暴露窗口想 thalidomide；看到「一律禁用」「自行停药」就排除。FASD 是总谱系，FAS 是其中一类；「凭面部判断」「凭一次暴露预测个人结果」都错。",
+   "items": [
+    {
+     "stemEn": "Which substance does the lecture use as the historical example of prenatal exposure linked to severe limb malformations, showing a critical developmental window?",
+     "optionsEn": [
+      "Quinine",
+      "Aspirin",
+      "Phenylalanine",
+      "Thalidomide"
+     ],
+     "answer": 3,
+     "stem": "本讲用哪种物质作为孕期暴露与严重肢体畸形相关的历史例子，以说明关键发育窗口？",
+     "options": [
+      "奎宁（quinine）",
+      "阿司匹林（aspirin）",
+      "苯丙氨酸（phenylalanine）",
+      "沙利度胺（thalidomide）"
+     ],
+     "how": [
+      "线索是「严重肢体畸形」和「关键发育窗口」。",
+      "这是沙利度胺的历史案例，所以选 D。",
+      "A 在课堂上对应听力风险，还要结合剂量看。"
+     ]
+    },
+    {
+     "stemEn": "What is the relationship between FASD and FAS?",
+     "optionsEn": [
+      "FAS is the wider spectrum, and FASD is one diagnostic category within it",
+      "FASD is the wider spectrum, and FAS is one diagnostic category within it",
+      "They are two names for one set of facial features shared by all those affected",
+      "FASD follows exposure to medication, while FAS follows exposure to alcohol"
+     ],
+     "answer": 1,
+     "stem": "FASD 和 FAS 是什么关系？",
+     "options": [
+      "FAS 是更宽的谱系，FASD 是其中一个诊断类别",
+      "FASD 是更宽的谱系，FAS 是其中一个诊断类别",
+      "两者是同一组面部特征的两个名称，所有受影响者都具备",
+      "FASD 来自药物暴露，FAS 来自酒精暴露"
+     ],
+     "how": [
+      "线索是问「FASD 和 FAS」的关系。",
+      "谱系（spectrum）是总称，FAS 是其中一类，所以选 B。",
+      "C 不对：并非所有受影响者都有相同的面部特征。"
+     ]
+    },
+    {
+     "stemEn": "A classmate sees aspirin listed on a lecture slide and concludes that any pregnant person taking it should stop immediately. What is the best response?",
+     "optionsEn": [
+      "The slide omits dose and indication, and doctors prescribe low doses to some high-risk patients",
+      "The classmate is right, as every drug on such a slide is harmful at every dose and time",
+      "The classmate is wrong, as medications are unable to cross the placenta during pregnancy",
+      "The classmate is wrong, as only the zygotic stage can ever be affected by any medication"
+     ],
+     "answer": 0,
+     "stem": "一位同学看到课件上列有阿司匹林，就断定任何正在服用的孕妇都应立即停药。最好的回应是什么？",
+     "options": [
+      "课件略去了剂量和适应症，医生会给某些高风险孕妇开低剂量",
+      "这位同学是对的，因为这类课件上的每种药在任何剂量和时间都有害",
+      "这位同学错了，因为药物在孕期不能穿过胎盘",
+      "这位同学错了，因为只有合子期才可能受到药物影响"
+     ],
+     "how": [
+      "线索是看到课件就断定「应立即停药」。",
+      "风险要结合剂量和用药原因，还需专业评估，所以选 A。",
+      "B 把一个例子变成了全部孕期用药规则，正是本讲提醒的错误。"
+     ]
+    },
+    {
+     "stemEn": "A child's mother drank during pregnancy, but the child lacks the facial features often associated with FAS. Which conclusion is justified?",
+     "optionsEn": [
+      "The child cannot have any alcohol-related effects, as such effects always show in the face",
+      "The drinking must have occurred after week 8, which is known to be a safe time window",
+      "Missing facial features do not rule out alcohol-related effects on cognition or behaviour",
+      "The child's face can reveal the exact week of pregnancy in which the drinking occurred"
+     ],
+     "answer": 2,
+     "stem": "一个孩子的母亲在孕期饮酒，但孩子没有常与 FAS 相关的面部特征。哪个结论有依据？",
+     "options": [
+      "这个孩子不可能有酒精相关影响，因为这种影响总会表现在面部",
+      "饮酒一定发生在第八周之后，而那是已知的安全时段",
+      "没有面部特征，并不能排除酒精对认知或行为的影响",
+      "孩子的面容可以显示孕期饮酒发生在哪一周"
+     ],
+     "how": [
+      "线索是孩子「没有」面部特征。",
+      "FASD 还包括认知和行为影响，不能只看外貌，所以选 C。",
+      "B 错在「安全时段」：没有已知安全的饮酒时段。"
+     ]
+    }
+   ],
+   "recap": "药物看剂量和适应症；FAS 属于 FASD；酒精影响不能只凭面部判断。"
+  },
+  {
+   "id": "L7-P08",
+   "title": "类别、概念与外表身份",
+   "titleEn": "Categories, concepts and appearance vs identity",
+   "conceptIds": [
+    "L7-C15"
+   ],
+   "kp": "类别（category）是归在一起的一组对象；概念（concept）是对这组对象的心理知识，含特征、关系、用途和预期。De Vries 的猫面具任务考察外表改变后是否仍认得原来的类别，3–6 岁判断随年龄提高。",
+   "howTo": "说「一组东西」选类别，说「脑中的知识」选概念。猫戴狗面具仍说是猫，选超越外表判断身份。年幼儿童答错，不能推出「完全没有类别」。",
+   "items": [
+    {
+     "stemEn": "A student must explain the words category and concept in one line. Which answer is right?",
+     "optionsEn": [
+      "A concept is a group of things, and a category is mental knowledge about that group",
+      "A category comes only from perception, and a concept comes only from spoken language",
+      "A category covers living things only, and a concept covers man-made objects only",
+      "A category is a group of things, and a concept is mental knowledge about that group"
+     ],
+     "answer": 3,
+     "stem": "一名学生要用一句话解释「类别」和「概念」这两个词。哪个回答正确？",
+     "options": [
+      "概念是一组事物，类别是关于这组事物的心理知识",
+      "类别只来自知觉，概念只来自口头语言",
+      "类别只包括生物，概念只包括人造物",
+      "类别是一组事物，概念是关于这组事物的心理知识"
+     ],
+     "how": [
+      "线索是要解释「类别」和「概念」两个词。",
+      "类别是归在一起的对象，概念是脑中对它的表征，所以选 D。",
+      "A 恰好把两者对调了。"
+     ]
+    },
+    {
+     "stemEn": "A cat named Maynard is fitted with a dog mask in front of a child, who then insists it is still a cat. What does this answer best show?",
+     "optionsEn": [
+      "Judging identity beyond surface appearance",
+      "Dishabituation to a novel visual stimulus",
+      "Joint attention with the experimenter",
+      "Understanding of another person's false belief"
+     ],
+     "answer": 0,
+     "stem": "一只叫 Maynard 的猫当着孩子的面戴上狗面具，孩子坚持说它还是猫。这个回答最能说明什么？",
+     "options": [
+      "能超越表面外观判断身份",
+      "对新视觉刺激的去习惯化（dishabituation）",
+      "与实验者的共同注意（joint attention）",
+      "理解他人的错误信念（false belief）"
+     ],
+     "how": [
+      "线索是戴上「狗面具」后仍说「还是猫」。",
+      "这说明表面伪装没有改变孩子对种类的判断，所以选 A。",
+      "B 是用注视时长测量的婴儿指标，这里孩子是口头回答。"
+     ]
+    },
+    {
+     "stemEn": "In the cat-mask task, correct judgements increase from age 3 to age 6. Which conclusion goes too far?",
+     "optionsEn": [
+      "Older children look past a disguise more often",
+      "A change in looks need not change an animal's kind",
+      "Children younger than 3 have no categories at all",
+      "Performance on this task improves across these ages"
+     ],
+     "answer": 2,
+     "stem": "在猫面具任务中，正确判断从 3 岁到 6 岁逐渐增加。哪个结论推得太远？",
+     "options": [
+      "年龄较大的儿童更常能看穿伪装",
+      "外观变化不一定改变动物的种类",
+      "3 岁以下的儿童完全没有类别",
+      "这一任务上的表现在这些年龄间提高"
+     ],
+     "how": [
+      "线索是问哪个结论「推得太远」，要找绝对说法。",
+      "任务结果不代表 3 岁前完全没有类别，所以选 C。",
+      "其余三项都只是在描述任务结果或外表与身份的区分。"
+     ]
+    }
+   ],
+   "recap": "类别是一组东西，概念是对它的知识；外形变了，身份不一定变。"
+  },
+  {
+   "id": "L7-P09",
+   "title": "习惯化与去习惯化",
+   "titleEn": "Habituation and dishabituation",
+   "conceptIds": [
+    "L7-C16"
+   ],
+   "kp": "习惯化（habituation）：反复呈现同类刺激后注视下降。去习惯化（dishabituation）：出现新类别后注视恢复。注视是间接指标，只说明婴儿在任务中辨别出某种差异，不等于掌握成人定义；颜色、大小也可能有影响。",
+   "howTo": "注视「下降」选习惯化，「恢复、变长」选去习惯化。结论只选「辨别出差异」，排除「懂得定义」。问局限选低层视觉差异或新奇感。",
+   "items": [
+    {
+     "stemEn": "An infant is shown photos of different cats again and again and looks at each new cat for less and less time. This decline is called:",
+     "optionsEn": [
+      "Dishabituation",
+      "Habituation",
+      "Joint attention",
+      "Imitation"
+     ],
+     "answer": 1,
+     "stem": "研究者反复给婴儿看不同猫的照片，婴儿看每张新猫照片的时间越来越短。这种下降叫作：",
+     "options": [
+      "去习惯化（dishabituation）",
+      "习惯化（habituation）",
+      "共同注意（joint attention）",
+      "模仿（imitation）"
+     ],
+     "how": [
+      "线索是看的时间「越来越短」。",
+      "重复呈现后注视下降就是习惯化，所以选 B。",
+      "A 指新刺激出现后注视恢复，方向相反。"
+     ]
+    },
+    {
+     "stemEn": "After looking less at many cat photos, an infant looks much longer when a dog photo appears. This recovery of looking is called:",
+     "optionsEn": [
+      "Habituation",
+      "Superordinate naming",
+      "Selective placement",
+      "Dishabituation"
+     ],
+     "answer": 3,
+     "stem": "看了很多猫的照片、注视减少之后，狗的照片一出现，婴儿就看了长得多的时间。这种注视恢复叫作：",
+     "options": [
+      "习惯化（habituation）",
+      "上位命名（superordinate naming）",
+      "选择性安置（selective placement）",
+      "去习惯化（dishabituation）"
+     ],
+     "how": [
+      "线索是「狗的照片」出现后「看了长得多」。",
+      "新类别使注视恢复就是去习惯化，所以选 D。"
+     ]
+    },
+    {
+     "stemEn": "After habituating to several mammals, six-month-olds look longer at a fish in some tasks. What is the most defensible conclusion?",
+     "optionsEn": [
+      "The infants know the adult biological definition of what a mammal actually is",
+      "The infants can already name mammals and fish when asked by an adult experimenter",
+      "In this task, the infants detected some difference between the old and new stimuli",
+      "The infants have lost all interest in animals because the fish was another animal"
+     ],
+     "answer": 2,
+     "stem": "对几种哺乳动物习惯化之后，6 个月大的婴儿在某些任务中看鱼的时间更长。最站得住脚的结论是什么？",
+     "options": [
+      "婴儿知道成人所理解的哺乳动物的生物学定义",
+      "成人实验者提问时，婴儿已经能说出哺乳动物和鱼的名称",
+      "在这项任务中，婴儿察觉到了新旧刺激之间的某种差异",
+      "婴儿对动物完全失去了兴趣，因为鱼也是一种动物"
+     ],
+     "how": [
+      "线索是问「最站得住脚」的结论，而证据只是「看鱼的时间更长」。",
+      "更长注视只支持察觉到差异，所以选 C。",
+      "A 是经典过度推论：看得久不等于懂定义。"
+     ]
+    },
+    {
+     "stemEn": "In a looking-time study, the test dog images happen to be brighter and larger than the cat images used earlier. Why is this a problem?",
+     "optionsEn": [
+      "Infants cannot habituate at all when pictures differ in brightness or size",
+      "Low-level visual differences, not category, could explain the longer looking",
+      "Brighter images make dishabituation impossible to observe in any infant",
+      "It proves that infants judge animals by their function and not their looks"
+     ],
+     "answer": 1,
+     "stem": "一项注视时间研究中，测试用的狗图碰巧比之前的猫图更亮、更大。为什么这是个问题？",
+     "options": [
+      "图片亮度或大小不同时，婴儿完全无法习惯化",
+      "更长的注视可能来自低层视觉差异，而不是类别",
+      "更亮的图片使任何婴儿的去习惯化都无法观察到",
+      "这证明婴儿按动物的功能而不是外观来判断"
+     ],
+     "how": [
+      "线索是狗图碰巧「更亮、更大」。",
+      "新图的颜色、大小都可能影响注视，所以需要对照，所以选 B。"
+     ]
+    }
+   ],
+   "recap": "重复后看得少，新刺激看得久；这说明辨别出差异，不说明懂定义。"
+  },
+  {
+   "id": "L7-P10",
+   "title": "类别层级与因果概念",
+   "titleEn": "Category levels and causal concepts",
+   "conceptIds": [
+    "L7-C17",
+    "L7-C18"
+   ],
+   "kp": "层级：上位（superordinate，动物）、基础（basic，狗）、下位（subordinate，巴哥犬）；基础层级常较早用于命名，但不是绝对顺序。Wugs 与 Gillies 研究中，讲特征加因果功能的一组更会分类新图，次日记忆也更好。",
+   "howTo": "最宽选上位，日常名称选基础，品种选下位。孩子因知道特征的「作用、为什么」而改变分类或迁移到新例子，选因果概念理解，不选知觉相似。",
+   "items": [
+    {
+     "stemEn": "In the hierarchy 'animal, dog, pug', the word 'pug' sits at which level?",
+     "optionsEn": [
+      "Subordinate",
+      "Basic",
+      "Superordinate",
+      "Phenotypic"
+     ],
+     "answer": 0,
+     "stem": "在「动物、狗、巴哥犬」这一层级中，「巴哥犬」处于哪个层级？",
+     "options": [
+      "下位（subordinate）",
+      "基础（basic）",
+      "上位（superordinate）",
+      "表型（phenotypic）"
+     ],
+     "how": [
+      "线索是「巴哥犬」是狗之内的一个品种。",
+      "在基础类别内再细分的是下位，所以选 A。",
+      "C 对应最宽的「动物」，B 对应「狗」。"
+     ]
+    },
+    {
+     "stemEn": "Why is the basic level (such as 'cat') often used early in everyday naming?",
+     "optionsEn": [
+      "It is the broadest level, so it covers the largest number of objects",
+      "It is the most specific level, so it carries the most exact details",
+      "It is always learned before other levels by every child in any culture",
+      "It balances useful information with an easily recognised shared form"
+     ],
+     "answer": 3,
+     "stem": "为什么基础层级（如「猫」）常较早用于日常命名？",
+     "options": [
+      "它是最宽的层级，所以涵盖最多的对象",
+      "它是最具体的层级，所以带有最精确的细节",
+      "每种文化里的每个孩子都一定先学它，再学其他层级",
+      "它既提供有用信息，又有容易识别的共同外形"
+     ],
+     "how": [
+      "线索是问「基础层级」为什么较早使用。",
+      "基础层级兼顾信息量和易于识别的外观，所以选 D。",
+      "C 太绝对：熟悉某领域的孩子可能很早就用下位名称。"
+     ]
+    },
+    {
+     "stemEn": "Children learn about two made-up species, Wugs and Gillies. One group hears only their features; the other also hears how those features help them survive. What did the slides report for the second group?",
+     "optionsEn": [
+      "Faster forgetting of the features because of the heavier memory load",
+      "Equal classification of new pictures, but poorer memory the next day",
+      "Better classification of new pictures, and better memory the next day",
+      "Reliance on outer appearance alone, ignoring the extra explanation"
+     ],
+     "answer": 2,
+     "stem": "儿童学习两种虚构的物种 Wugs 和 Gillies。一组只听到特征；另一组还听到这些特征如何帮助它们生存。课件报告第二组的结果是什么？",
+     "options": [
+      "因记忆负担更重，更快忘记这些特征",
+      "分类新图片的表现相同，但次日记忆较差",
+      "更会分类新图片，次日记忆也更好",
+      "只依靠外观，忽略了额外的解释"
+     ],
+     "how": [
+      "线索是第二组还听到特征「如何帮助它们生存」。",
+      "特征加因果功能使分类和次日记忆都更好，所以选 C。"
+     ]
+    },
+    {
+     "stemEn": "A child insists a penguin cannot be a bird because it swims and does not fly. After learning why its feathers and eggs matter for survival and reproduction, she calls it a bird. What best explains the change?",
+     "optionsEn": [
+      "Stronger reliance on perceptual similarity alone",
+      "A shift towards causal conceptual understanding",
+      "Habituation to repeated pictures of birds",
+      "A loss of her earlier basic-level categories"
+     ],
+     "answer": 1,
+     "stem": "一个孩子坚持认为企鹅不可能是鸟，因为它会游泳、不会飞。了解羽毛和蛋对生存和繁殖为何重要之后，她说它是鸟。最好的解释是什么？",
+     "options": [
+      "更依赖单纯的知觉相似",
+      "转向对概念的因果理解",
+      "对重复的鸟类图片产生习惯化",
+      "失去了之前的基础层级类别"
+     ],
+     "how": [
+      "线索是了解了特征「为何重要」之后才改变分类。",
+      "知道特征的功能使分类超越外形，所以选 B。",
+      "A 方向相反：外形相似正是她原来的判断依据。"
+     ]
+    },
+    {
+     "stemEn": "A researcher notes that the 'features plus causes' teaching in a Wug-style study also lasted longer and seemed more fun. Why does this matter?",
+     "optionsEn": [
+      "It proves that outer appearance has no value in how children learn categories",
+      "It shows Wugs and Gillies must be real species rather than made-up categories",
+      "It means that the children were habituating instead of learning any category",
+      "Length and interest may also have changed, so they need checking as explanations"
+     ],
+     "answer": 3,
+     "stem": "一位研究者指出，在类似 Wug 的研究中，「特征加原因」的讲解也更长、似乎更有趣。这为什么重要？",
+     "options": [
+      "这证明外观对儿童学习类别毫无价值",
+      "这说明 Wugs 和 Gillies 一定是真实物种，不是虚构类别",
+      "这意味着儿童是在习惯化，而没有学习任何类别",
+      "讲解长度和趣味性也可能变化，需要作为其他解释来检查"
+     ],
+     "how": [
+      "线索是讲解也「更长」「更有趣」，这些和因果信息同时变化。",
+      "结果可能部分来自这些差异，需要检查，所以选 D。",
+      "A 过度推论：结果并不表示外表线索没用。"
+     ]
+    }
+   ],
+   "recap": "动物—狗—巴哥犬：上位、基础、下位。知道特征为什么有用，才能分类和迁移。"
+  },
+  {
+   "id": "L7-P11",
+   "title": "愿望、信念与行动",
+   "titleEn": "Desire, belief and action",
+   "conceptIds": [
+    "L7-C19"
+   ],
+   "kp": "朴素心理学（naïve psychology）用愿望（desire）和信念（belief）解释行动（action）：愿望定目标，信念定路径，行动是可观察结果。目标相同、信念不同，行动也会不同。Naïve 指日常解释方式，不是愚蠢。",
+   "howTo": "「想要」归愿望；「认为、以为、相信」归信念；看得见的做法归行动。两人做法不同，先查信念是否不同，别直接推断愿望不同。",
+   "items": [
+    {
+     "stemEn": "Mia thinks that taking a statistics course will help her future career. In naïve psychology, this thought is her:",
+     "optionsEn": [
+      "Belief",
+      "Desire",
+      "Action",
+      "Phenotype"
+     ],
+     "answer": 0,
+     "stem": "Mia 认为选修统计课有助于她未来的职业。在朴素心理学中，这个想法是她的：",
+     "options": [
+      "信念（belief）",
+      "愿望（desire）",
+      "行动（action）",
+      "表型（phenotype）"
+     ],
+     "how": [
+      "线索是「认为」选修统计课有帮助。",
+      "对事实和有效办法的看法是信念，所以选 A。",
+      "B 是想达成的目标，例如想要好的职业。"
+     ]
+    },
+    {
+     "stemEn": "Ana and Ben are both thirsty. Ana goes to the kitchen, while Ben searches his backpack. What is the best explanation?",
+     "optionsEn": [
+      "They hold the same beliefs but have different desires about what to drink",
+      "Ana has a stronger desire for water, as she chose to go further to get it",
+      "Their actions differ, so it follows that their desires must differ as well",
+      "They share a desire but hold different beliefs about where the water is"
+     ],
+     "answer": 3,
+     "stem": "Ana 和 Ben 都口渴。Ana 走去厨房，Ben 则翻自己的书包。最好的解释是什么？",
+     "options": [
+      "他们信念相同，但对喝什么的愿望不同",
+      "Ana 对水的愿望更强，因为她选择走更远去拿",
+      "他们的行动不同，所以愿望也一定不同",
+      "他们愿望相同，但对水在哪里的信念不同"
+     ],
+     "how": [
+      "线索是两人「都口渴」，做法却不同。",
+      "目标相同，相信的事实不同，行动就不同，所以选 D。",
+      "C 正是本讲要排除的推断：不能只凭行动不同断定愿望不同。"
+     ]
+    },
+    {
+     "stemEn": "A paper says that four-year-olds use 'naïve psychology'. What does 'naïve' mean here?",
+     "optionsEn": [
+      "Making foolish errors in reasoning that older children no longer ever make",
+      "Explaining behaviour through everyday mental-state ideas, without formal theory",
+      "Copying the actions of others without having any view of what they want",
+      "Applying the professional theories of psychology that adults teach them"
+     ],
+     "answer": 1,
+     "stem": "一篇论文说四岁儿童使用「朴素心理学」。这里的「朴素（naïve）」是什么意思？",
+     "options": [
+      "犯下年长儿童绝不再犯的愚蠢推理错误",
+      "用日常的心理状态观念解释行为，没有经过正式理论训练",
+      "复制他人的动作，而不去考虑对方想要什么",
+      "应用成人教给他们的专业心理学理论"
+     ],
+     "how": [
+      "线索是问「naïve」在这里的含义。",
+      "它指未经正式科学训练的日常解释方式，所以选 B。",
+      "A 是日常语义的误解：naïve 不表示愚蠢。"
+     ]
+    }
+   ],
+   "recap": "愿望定目标，信念定路径，行动看得见；做法不同不等于想要的不同。"
+  },
+  {
+   "id": "L7-P12",
+   "title": "模仿与共同注意",
+   "titleEn": "Imitation and joint attention",
+   "conceptIds": [
+    "L7-C20",
+    "L7-C21"
+   ],
+   "kp": "模仿（imitation）是复制观察到的动作；Meltzoff 与 Moore 的新生儿模仿结果，后来的大样本纵向研究没有稳定重现。共同注意（joint attention）是与他人协调关注同一对象，常在约 12 个月讨论，帮助把词语和物体联系起来。",
+   "howTo": "「复制动作」选模仿；「跟随指点或视线、一起看」选共同注意。新生儿模仿要选「有争议」。两者都不能推出已理解错误信念。",
+   "items": [
+    {
+     "stemEn": "A baby turns to look at a bird when her mother points at it, and her mother says, 'Bird!' This episode best illustrates:",
+     "optionsEn": [
+      "Joint attention",
+      "Neonatal imitation",
+      "Habituation",
+      "Theory-based categorisation"
+     ],
+     "answer": 0,
+     "stem": "妈妈指着一只鸟时，婴儿转头去看，妈妈说：「鸟！」这个情景最能说明：",
+     "options": [
+      "共同注意（joint attention）",
+      "新生儿模仿（neonatal imitation）",
+      "习惯化（habituation）",
+      "基于理论的分类（theory-based categorisation）"
+     ],
+     "how": [
+      "线索是「指着」和「转头去看」。",
+      "两人靠指点协调关注同一对象，这是共同注意，所以选 A。"
+     ]
+    },
+    {
+     "stemEn": "Why is joint attention thought to help children learn words?",
+     "optionsEn": [
+      "It lets infants pass false-belief tasks before they start to speak",
+      "It replaces the need for any adult to name or explain the objects",
+      "A shared focus makes it clearer which thing a spoken word refers to",
+      "It makes infants copy adult facial movements from the day of birth"
+     ],
+     "answer": 2,
+     "stem": "为什么认为共同注意有助于儿童学词？",
+     "options": [
+      "它让婴儿在开口说话前就能通过错误信念任务",
+      "它使成人不再需要为物体命名或解释",
+      "共同关注使一个词指的是哪个事物变得更明确",
+      "它让婴儿从出生那天起就复制成人的面部动作"
+     ],
+     "how": [
+      "线索是问共同注意如何帮助「学词」。",
+      "两人看同一对象，词语所指就更明确，所以选 C。",
+      "A 过度推断：共同注意不证明理解错误信念。"
+     ]
+    },
+    {
+     "stemEn": "Which statement about neonatal imitation is most accurate?",
+     "optionsEn": [
+      "The classic finding is accepted without dispute as an ability present from birth",
+      "Later research showed that older infants and children cannot learn by imitating",
+      "The classic finding proved that newborns grasp the intentions of other people",
+      "The classic finding was not stably reproduced in later large longitudinal research"
+     ],
+     "answer": 3,
+     "stem": "关于新生儿模仿，哪种说法最准确？",
+     "options": [
+      "这个经典发现被无争议地接受为出生即有的能力",
+      "后来的研究表明，较大婴儿和儿童不能通过模仿学习",
+      "这个经典发现证明新生儿能把握他人的意图",
+      "后来的大型纵向研究没有稳定重现这个经典发现"
+     ],
+     "how": [
+      "线索是问「新生儿模仿」的证据状况。",
+      "Meltzoff 与 Moore 的结果要和后来的不一致证据一起记，所以选 D。",
+      "B 说过头了：这不否定较大婴儿和儿童的模仿学习。"
+     ]
+    },
+    {
+     "stemEn": "A 12-month-old reliably follows her father's pointing to toys. Which inference is justified?",
+     "optionsEn": [
+      "She has understood that beliefs can be false",
+      "She has a mature ability to read intentions",
+      "She can share a focus of attention with her father",
+      "She has finished developing this skill by now"
+     ],
+     "answer": 2,
+     "stem": "一个 12 个月大的婴儿能稳定地跟随父亲的指点去看玩具。哪个推论有依据？",
+     "options": [
+      "她已经理解信念可能是错误的",
+      "她已具备成熟的解读意图的能力",
+      "她能与父亲共享注意的焦点",
+      "她到此已完成这项技能的发展"
+     ],
+     "how": [
+      "线索是她「跟随」父亲的「指点」。",
+      "这一步只说明共享关注目标，所以选 C。",
+      "A 是本讲明确提醒不能作的推断；D 也不对，共同注意是渐进发展的。"
+     ]
+    }
+   ],
+   "recap": "新生儿模仿有争议；共同注意帮学词；会跟随指点不等于懂错误信念。"
+  },
+  {
+   "id": "L7-P13",
+   "title": "心理理论的含义与发展",
+   "titleEn": "Theory of Mind: meaning and development",
+   "conceptIds": [
+    "L7-C22"
+   ],
+   "kp": "心理理论（Theory of Mind, ToM）是理解他人的愿望、信念、知识和情绪可能与自己不同，靠线索推测，不是读心。线索：约 12 个月小猫任务（目标预期）、约 2–3 岁主观愿望、约 4–5 岁明确错误信念。",
+   "howTo": "定义题选「别人的心理状态可能不同于我」。小猫注视只选「符合目标预期、间接指标」。能说出别人喜欢的和自己不同，选主观愿望；按别人的错误所知预测，选错误信念。",
+   "items": [
+    {
+     "stemEn": "Theory of Mind is best described as the ability to:",
+     "optionsEn": [
+      "Understand that others' desires, beliefs and feelings can differ from one's own",
+      "Read another person's thoughts directly, without using any behavioural cues",
+      "Copy the actions of other people soon after they have been observed",
+      "Feel the same emotion as another person whenever that person feels it"
+     ],
+     "answer": 0,
+     "stem": "心理理论最好的描述是什么能力？",
+     "options": [
+      "理解他人的愿望、信念和感受可能与自己不同",
+      "不借助任何行为线索，直接读取他人的想法",
+      "在观察到他人的动作后很快复制这些动作",
+      "每当他人有某种情绪时，自己也产生同样的情绪"
+     ],
+     "how": [
+      "线索是问「心理理论」的定义。",
+      "ToM 是用线索推测他人可能不同的心理状态，所以选 A。",
+      "B 是常见误解：它不是神秘的读心术。"
+     ]
+    },
+    {
+     "stemEn": "A 12-month-old watches an adult show interest in one kitten and then pick up the other kitten. The infant looks longer. What is the best interpretation?",
+     "optionsEn": [
+      "It proves that the infant has full Theory of Mind, including false-belief reasoning",
+      "It fits an early expectation that actions match goals, though looking is indirect",
+      "It shows that the infant can already state aloud what the adult is thinking",
+      "It shows that the infant has habituated to adults who pick up small animals"
+     ],
+     "answer": 1,
+     "stem": "一个 12 个月大的婴儿看到成人对一只小猫表现出兴趣，随后却拿起另一只小猫。婴儿看得更久。最好的解释是什么？",
+     "options": [
+      "这证明婴儿已有完整的心理理论，包括错误信念推理",
+      "这符合「动作应对应目标」的早期预期，但注视是间接指标",
+      "这表明婴儿已经能说出成人在想什么",
+      "这表明婴儿已对拿起小动物的成人产生习惯化"
+     ],
+     "how": [
+      "线索是婴儿「看得更久」。",
+      "更长注视符合早期目标预期，但不是完整 ToM，所以选 B。",
+      "D 方向不对：习惯化是注视下降，这里是注视增加。"
+     ]
+    },
+    {
+     "stemEn": "A child who loves trucks is choosing a gift and says, 'My friend will pick the plush toy, because he likes it.' Which understanding does this best show?",
+     "optionsEn": [
+      "That another person can hold a false belief about a location",
+      "That a person can coordinate attention to one shared object",
+      "That another person's desires can differ from one's own",
+      "That a category member keeps its identity despite its looks"
+     ],
+     "answer": 2,
+     "stem": "一个喜欢卡车的孩子在挑礼物时说：「我朋友会选毛绒玩具，因为他喜欢。」这最能说明哪种理解？",
+     "options": [
+      "他人可能对某个位置持有错误信念",
+      "人们能协调注意同一个共享对象",
+      "他人的愿望可能与自己不同",
+      "类别成员即使外观改变也保持身份"
+     ],
+     "how": [
+      "线索是自己「喜欢卡车」，却说朋友「喜欢」毛绒玩具。",
+      "他把自己的偏好和朋友的愿望分开，所以选 C。",
+      "A 要求预测他人按错误所知行动，这里没有涉及错误信息。"
+     ]
+    }
+   ],
+   "recap": "ToM 不是读心；注视是早期线索，不能证明完整 ToM。"
+  },
+  {
+   "id": "L7-P14",
+   "title": "错误信念任务",
+   "titleEn": "The false-belief task",
+   "conceptIds": [
+    "L7-C23"
+   ],
+   "kp": "女孩把玩具放进玩具屋后离开，他人把它移到衣柜。问「现在在哪」答衣柜；问「最后见到在哪」答玩具屋；问「会先去哪找」答玩具屋。年幼儿童常答实际位置，约 4–5 岁更多儿童能答信念位置。",
+   "howTo": "先查主人公「有没有看见」搬动。问她会去哪找、以为在哪，答她最后知道的位置；问现在在哪，答实际位置。答错只说明任务难，不等于没有共情。",
+   "items": [
+    {
+     "stemEn": "Leo puts his ball in the basket and leaves the room. While he is away, Ana moves it to the box. When Leo returns, where will he look first?",
+     "optionsEn": [
+      "In the basket, where he last saw it",
+      "In the box, where it actually is",
+      "In the box, as that is the better place",
+      "Wherever Ana is standing when he returns"
+     ],
+     "answer": 0,
+     "stem": "Leo 把球放进篮子后离开房间。他不在时，Ana 把球移到盒子里。Leo 回来后会先去哪里找？",
+     "options": [
+      "篮子，他最后看到球的地方",
+      "盒子，球实际所在的地方",
+      "盒子，因为那是更好的位置",
+      "他回来时 Ana 所站的地方"
+     ],
+     "how": [
+      "线索是球被移动时 Leo「不在」。",
+      "他不知道搬动，行动按他最后知道的位置预测，所以选 A。",
+      "B 是答题者知道的真相，不是 Leo 的信念。"
+     ]
+    },
+    {
+     "stemEn": "In the toy-house story, a child answers the question 'Where is the toy now?' with 'the wardrobe'. What does this correct answer show?",
+     "optionsEn": [
+      "The child understands the girl's false belief",
+      "The child recalls where the girl last saw the toy",
+      "The child can set aside their own knowledge",
+      "The child understands the toy's real location"
+     ],
+     "answer": 3,
+     "stem": "在玩具屋的故事中，孩子对「玩具现在在哪里？」回答「衣柜」。这个正确回答说明什么？",
+     "options": [
+      "孩子理解女孩的错误信念",
+      "孩子记得女孩最后在哪里看到玩具",
+      "孩子能暂时放下自己知道的信息",
+      "孩子了解玩具的实际位置"
+     ],
+     "how": [
+      "线索是问题问的是「现在在哪里」。",
+      "这是实际位置题，只检查是否了解现实，所以选 D。",
+      "A 要由「她会先去哪里找」来检验，答案是玩具屋。"
+     ]
+    },
+    {
+     "stemEn": "Researchers also ask, 'Where did the girl last see the toy?' Why include this question?",
+     "optionsEn": [
+      "To measure whether the child can predict the girl's search behaviour",
+      "To check that the child remembers what information the girl received",
+      "To test whether the child prefers the toy house over the wardrobe",
+      "To see whether the child is able to name the toy at the basic level"
+     ],
+     "answer": 1,
+     "stem": "研究者还会问：「女孩最后在哪里看到玩具？」为什么要加这个问题？",
+     "options": [
+      "测量孩子能否预测女孩的寻找行为",
+      "检查孩子是否记得女孩获得了什么信息",
+      "测试孩子更喜欢玩具屋还是衣柜",
+      "看孩子能否在基础层级上说出玩具的名称"
+     ],
+     "how": [
+      "线索是问「最后在哪里看到」。",
+      "这是控制题，检查对剧情中女孩所获信息的记忆，所以选 B。",
+      "A 是预测题的作用，不是这道控制题的作用。"
+     ]
+    },
+    {
+     "stemEn": "A three-year-old says the girl will search in the wardrobe. Which account fits the lecture best?",
+     "optionsEn": [
+      "The child has shown a general lack of empathy for the girl in the story",
+      "The child is deliberately lying in order to mislead the experimenter",
+      "The child answers from the real location they know, as younger children often do",
+      "The child understands her false belief but thinks that she has seen the move"
+     ],
+     "answer": 2,
+     "stem": "一个三岁孩子说女孩会去衣柜找。哪种解释最符合本讲？",
+     "options": [
+      "孩子表现出对故事中女孩普遍缺乏同理心",
+      "孩子故意说谎以误导实验者",
+      "孩子按自己知道的实际位置作答，年幼儿童常这样回答",
+      "孩子理解她的错误信念，但认为她看到了搬动"
+     ],
+     "how": [
+      "线索是「三岁」孩子答了实际位置「衣柜」。",
+      "年幼儿童常回答现实位置，所以选 C。",
+      "A 是过度推论：任务失败不等于没有同理心。"
+     ]
+    },
+    {
+     "stemEn": "In this task, what does 'false belief' refer to?",
+     "optionsEn": [
+      "Deliberately telling another person something one knows to be untrue",
+      "Forgetting the order of events in a story that one has just been told",
+      "Making a moral error by taking an object that belongs to someone else",
+      "Holding a mistaken view because one has not received the new information"
+     ],
+     "answer": 3,
+     "stem": "在这个任务中，「错误信念（false belief）」指什么？",
+     "options": [
+      "故意告诉别人自己明知不真实的事情",
+      "忘记刚听到的故事中事件的先后顺序",
+      "拿走别人的物品，犯下道德错误",
+      "因为没有获得新信息而持有错误的看法"
+     ],
+     "how": [
+      "线索是问任务中的「错误信念」。",
+      "主人公没看见搬动，所以她的看法与现实不符，所以选 D。",
+      "A 是说谎，主人公并没有故意误导任何人。"
+     ]
+    }
+   ],
+   "recap": "预测行动按她知道的，不按你知道的；错误信念不是说谎。"
+  },
+  {
+   "id": "L7-P15",
+   "title": "心理理论的类型与任务要求",
+   "titleEn": "Types of ToM and task demands",
+   "conceptIds": [
+    "L7-C24"
+   ],
+   "kp": "认知 ToM（cognitive）理解别人知道、相信什么；情感 ToM（affective）理解别人感受如何。任务分数受语言、记忆、抑制和文化熟悉度影响。部分研究报告双语优势，但不能推到每个孩子；单题也不能用于诊断。",
+   "howTo": "「知道、相信」选认知 ToM，「感受、情绪」选情感 ToM。跨文化或双语差异，先查题目是否适配、比较组是否合适。单题失败只说明任务表现。",
+   "items": [
+    {
+     "stemEn": "A teacher knows the answer but works out how much her students currently understand, and starts from there. This best reflects:",
+     "optionsEn": [
+      "Affective Theory of Mind",
+      "Cognitive Theory of Mind",
+      "Neonatal imitation",
+      "Sensory habituation"
+     ],
+     "answer": 1,
+     "stem": "一位老师知道答案，但她估计学生目前理解到哪一步，并从那里讲起。这最能反映：",
+     "options": [
+      "情感心理理论（affective ToM）",
+      "认知心理理论（cognitive ToM）",
+      "新生儿模仿（neonatal imitation）",
+      "感觉习惯化（sensory habituation）"
+     ],
+     "how": [
+      "线索是估计学生「理解到哪一步」，即别人知道什么。",
+      "理解别人的知识和信念属于认知 ToM，所以选 B。",
+      "A 关注的是别人的感受。"
+     ]
+    },
+    {
+     "stemEn": "Maya is having a great day, but she notices that her friend is upset about a lost pet and works out why he feels that way. This best reflects:",
+     "optionsEn": [
+      "Affective Theory of Mind",
+      "Cognitive Theory of Mind",
+      "Joint attention",
+      "Self-perspective prioritisation"
+     ],
+     "answer": 0,
+     "stem": "Maya 今天过得很好，但她注意到朋友因宠物走失而难过，并想明白了他为什么有这种感受。这最能反映：",
+     "options": [
+      "情感心理理论（affective ToM）",
+      "认知心理理论（cognitive ToM）",
+      "共同注意（joint attention）",
+      "自我视角优先（self-perspective prioritisation）"
+     ],
+     "how": [
+      "线索是朋友「难过」，她想明白他「为什么有这种感受」。",
+      "理解别人的情绪及其与自己的不同是情感 ToM，所以选 A。"
+     ]
+    },
+    {
+     "stemEn": "Some studies report an advantage for bilingual children on certain ToM tasks. Which conclusion is justified?",
+     "optionsEn": [
+      "The result applies to those tasks, and family experience and comparison groups need checking",
+      "Being bilingual guarantees that each child will understand other people earlier than peers",
+      "Being bilingual delays ToM, because children must learn the task in two different languages",
+      "Language has no effect on ToM scores, because the tasks measure one fixed mental ability"
+     ],
+     "answer": 0,
+     "stem": "一些研究报告双语儿童在某些 ToM 任务上有优势。哪个结论有依据？",
+     "options": [
+      "结果适用于这些任务，还需检查家庭经验和比较组",
+      "双语保证每个孩子都比同龄人更早理解他人",
+      "双语会推迟 ToM，因为孩子必须用两种语言学习任务",
+      "语言不影响 ToM 分数，因为任务测的是一种固定的心理能力"
+     ],
+     "how": [
+      "线索是「一些研究」「某些」任务，范围有限。",
+      "部分研究的优势不能推到每个孩子，还要看比较组，所以选 A。",
+      "B 把部分结果说成了对每个孩子的保证。"
+     ]
+    },
+    {
+     "stemEn": "Children in two cultures pass ToM tasks in a different order. What should researchers check first?",
+     "optionsEn": [
+      "Whether one culture's children lack feelings for other people in daily life",
+      "Whether the children in one of these cultures have no understanding of minds",
+      "Whether the questions measure a similar ability in each language and culture",
+      "Whether the difference proves a genetic cause of the order in which tasks pass"
+     ],
+     "answer": 2,
+     "stem": "两种文化的儿童通过 ToM 任务的顺序不同。研究者应首先检查什么？",
+     "options": [
+      "其中一种文化的儿童在日常生活中是否对他人没有感情",
+      "其中一种文化的儿童是否完全不理解他人的心理",
+      "这些问题在每种语言和文化中是否测量相近的能力",
+      "这种差异是否证明了任务通过顺序的遗传原因"
+     ],
+     "how": [
+      "线索是两种文化「顺序不同」，问「首先检查」什么。",
+      "跨文化差异有时反映任务和语言的适配，要先确定测的是相近能力，所以选 C。"
+     ]
+    }
+   ],
+   "recap": "认知问所知，情感问所感；分数不等于全部能力。"
+  },
+  {
+   "id": "L7-P16",
+   "title": "想象伙伴：形式与相关",
+   "titleEn": "Imaginary companions: forms and associations",
+   "conceptIds": [
+    "L7-C25",
+    "L7-C26"
+   ],
+   "kp": "想象伙伴（imaginary companion, IC）有无形伙伴、拟人化物件、扮演身份或幻想世界（paracosm）、共享伙伴等形式，形式随文化变化。IC 与语言、创造力的关联只是相关，不证明直接提升能力，也不自动是病理。",
+   "howTo": "按形式对号：看不见选 invisible，有性格的玩具选 personified，完整世界选 paracosm，多人维持选 shared。结论只选「相关、可能的练习机会」，排除「造成提升」「一定是病」。",
+   "items": [
+    {
+     "stemEn": "A boy gives his stuffed rabbit a stable name, a personality and a friendship history. Which form of imaginary companion is this?",
+     "optionsEn": [
+      "Invisible companion",
+      "Personified object",
+      "Paracosm",
+      "Shared companion"
+     ],
+     "answer": 1,
+     "stem": "一个男孩给他的毛绒兔子起了固定的名字，赋予它性格和一段友谊经历。这是哪种形式的想象伙伴？",
+     "options": [
+      "无形伙伴（invisible companion）",
+      "拟人化物件（personified object）",
+      "幻想世界（paracosm）",
+      "共享伙伴（shared companion）"
+     ],
+     "how": [
+      "线索是「毛绒兔子」有「名字」和「性格」。",
+      "实物被赋予稳定的人格是拟人化物件，所以选 B。"
+     ]
+    },
+    {
+     "stemEn": "A researcher compares imaginary companions across several countries. Which expectation fits the lecture best?",
+     "optionsEn": [
+      "ICs appear only in Western countries, where pretend play is widely encouraged",
+      "ICs appear only in collectivist societies, where shared characters are common",
+      "ICs take one identical form everywhere, as culture has no bearing on pretend play",
+      "ICs appear across cultures, while their forms and how they are reported can vary"
+     ],
+     "answer": 3,
+     "stem": "一位研究者比较多个国家的想象伙伴。哪种预期最符合本讲？",
+     "options": [
+      "IC 只出现在鼓励假装游戏的西方国家",
+      "IC 只出现在共享角色常见的集体主义社会",
+      "IC 在各地形式完全相同，文化与假装游戏无关",
+      "IC 跨文化存在，其形式和报告方式可能不同"
+     ],
+     "how": [
+      "线索是比较「多个国家」的想象伙伴。",
+      "角色形式和报告方式随文化变化，但并非某地独有，所以选 D。"
+     ]
+    },
+    {
+     "stemEn": "Children with ICs show better referential communication in some samples, so a parent urges her son to invent a friend to boost his language. What is the main problem?",
+     "optionsEn": [
+      "It is an association, and children with stronger language may simply be likelier to have ICs",
+      "It is a proven causal effect, so the only problem is that the boy must be old enough to begin",
+      "It is a clinical warning sign, so she ought to be discouraging any imaginary friends at all",
+      "It is unrelated to language, as the studies measured only the child's physical movement"
+     ],
+     "answer": 0,
+     "stem": "在某些样本中，有 IC 的儿童指称沟通（referential communication）更好，于是一位家长督促儿子创造一个朋友来提升语言。主要问题是什么？",
+     "options": [
+      "这只是关联，语言较强的孩子可能本来就更容易有 IC",
+      "这是已证实的因果效应，唯一的问题是男孩要到一定年龄才能开始",
+      "这是临床警讯，她应该阻止孩子有任何想象朋友",
+      "这与语言无关，因为研究只测量了儿童的身体动作"
+     ],
+     "how": [
+      "线索是「某些样本」的结果被用来「提升语言」。",
+      "关联不能证明直接训练效果，还可能方向相反，所以选 A。",
+      "C 也错：有想象伙伴不等于精神障碍。"
+     ]
+    },
+    {
+     "stemEn": "A parent is worried because her daughter talks to an invisible friend. What is the most appropriate way to judge this?",
+     "optionsEn": [
+      "Treat the friend alone as enough evidence of a psychiatric condition",
+      "Conclude from the friend alone that her development is ahead of peers",
+      "Ask whether other people can see the friend, as this settles the matter",
+      "Consider how the friend is used, any distress, and her overall adjustment"
+     ],
+     "answer": 3,
+     "stem": "一位家长很担心，因为女儿在和一个看不见的朋友说话。最恰当的判断方式是什么？",
+     "options": [
+      "把这个朋友本身视为患有精神疾病的充分证据",
+      "仅凭这个朋友就断定她的发展领先于同龄人",
+      "询问别人能否看见这个朋友，这样就能下结论",
+      "看她如何使用这个朋友、是否有困扰，以及整体适应情况"
+     ],
+     "how": [
+      "线索是家长因女儿有「看不见的朋友」而担心。",
+      "这类游戏并不少见，要看使用方式和整体适应，所以选 D。",
+      "A 和 B 都犯了同一错误：仅凭它的存在下结论。"
+     ]
+    }
+   ],
+   "recap": "想象伙伴不是自动警讯；跨文化都有但形式不同；相关不等于训练效果。"
+  }
+ ]
+}

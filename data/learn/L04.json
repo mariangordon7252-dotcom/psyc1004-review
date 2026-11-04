@@ -1,0 +1,1667 @@
+{
+  "lectureId": 4,
+  "points": [
+    {
+      "id": "L4-P01",
+      "title": "跨文化心理学与 WEIRD 问题",
+      "titleEn": "Cross-cultural psychology and the WEIRD problem",
+      "conceptIds": [
+        "L4-C01",
+        "L4-C02"
+      ],
+      "kp": "跨文化心理学（cross-cultural psychology）系统比较不同文化中的心理变量，检验规律是否普遍。WEIRD 样本最多约占发表文献 80%，相关人口约占全球 12%，还会影响研究问题和「正常」的定义。",
+      "howTo": "「比较多种文化」选跨文化心理学。结果别处没重复：原研究仍可能有价值，错的是未经检验就说普遍。WEIRD 的批评不止代表性，还包括问题与量表的文化假设。",
+      "items": [
+        {
+          "stemEn": "A researcher runs the same attribution task in five countries to see whether a pattern holds in all of them. Which field does this work best represent?",
+          "optionsEn": [
+            "Personality psychology",
+            "Cross-cultural psychology",
+            "Developmental psychology",
+            "Psychodynamic theory"
+          ],
+          "answer": 1,
+          "stem": "一位研究者在五个国家进行同一项归因任务，看某种模式是否处处成立。这项工作最能代表哪个领域？",
+          "options": [
+            "人格心理学（personality psychology）",
+            "跨文化心理学（cross-cultural psychology）",
+            "发展心理学（developmental psychology）",
+            "心理动力学理论（psychodynamic theory）"
+          ],
+          "how": [
+            "题干说「在五个国家」做同一任务，看模式是否「处处成立」，这是在系统比较不同文化。",
+            "系统比较文化条件下的心理变量正是跨文化心理学的任务，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "According to the lecture slides, WEIRD participants make up at most about what share of the published literature, and about what share of the world's population do the relevant populations represent?",
+          "optionsEn": [
+            "About 12% of the literature; about 80% of the population",
+            "About 93% of the literature; about 50% of the population",
+            "About 50% of the literature; about 12% of the population",
+            "About 80% of the literature; about 12% of the population"
+          ],
+          "answer": 3,
+          "stem": "根据课件，WEIRD 参与者最多约占发表文献的多少？相关人口约占全球人口的多少？",
+          "options": [
+            "约占文献 12%；约占人口 80%",
+            "约占文献 93%；约占人口 50%",
+            "约占文献 50%；约占人口 12%",
+            "约占文献 80%；约占人口 12%"
+          ],
+          "how": [
+            "题干问「发表文献」和「全球人口」两个比例，课件数字是文献最多约 80%、人口约 12%。",
+            "两个数字都对的只有 D，所以选 D。",
+            "93% 是另一组数字：2017 年 Psychological Science 研究地点的集中程度。"
+          ]
+        },
+        {
+          "stemEn": "A well-replicated finding among Australian students fails to appear in a sample from another country. Which conclusion is most appropriate?",
+          "optionsEn": [
+            "It may describe its own context well, but cannot be assumed universal",
+            "The original study must contain an error and now has no scientific value at all",
+            "The new sample must have misunderstood the task, so the finding is still universal",
+            "The finding is universal, because one failed replication can never change a conclusion"
+          ],
+          "answer": 0,
+          "stem": "一项在澳大利亚学生中反复得到验证的发现，在另一国家的样本中没有出现。哪项结论最恰当？",
+          "options": [
+            "它可能准确描述了所在情境，但不能默认是普遍的",
+            "原研究一定有错误，现在已完全没有科学价值",
+            "新样本一定误解了任务，所以该发现仍是普遍的",
+            "该发现是普遍的，因为一次复制失败永远不能改变结论"
+          ],
+          "how": [
+            "题干说另一国家「没有出现」同一发现，这是文化可能调节结果的信号。",
+            "不能复制不等于没价值，也不能再默认普遍，所以选 A。",
+            "B 是最常见的错法：把局部成立当成毫无价值。"
+          ]
+        },
+        {
+          "stemEn": "Western samples more often blame a driver's personality for cutting in, while some East Asian samples more often consider the situation. What does this example suggest about the fundamental attribution error?",
+          "optionsEn": [
+            "It proves that East Asian samples never make personality attributions",
+            "It shows the error is caused by differences in driving laws",
+            "Culture can change the default weight on personality versus context",
+            "It shows that attribution differences are fixed for each individual"
+          ],
+          "answer": 2,
+          "stem": "西方样本更常把司机加塞归因于其人格，一些东亚样本更常考虑情境。这个例子说明基本归因错误（fundamental attribution error）怎样？",
+          "options": [
+            "它证明东亚样本从不做人格归因",
+            "它说明这一错误由交通法规差异造成",
+            "文化会改变人格与情境的默认权重",
+            "它说明归因差异在每个人身上都是固定的"
+          ],
+          "how": [
+            "题干说西方样本「更常」归因于人格，一些东亚样本「更常」考虑情境，比较的是倾向。",
+            "这说明文化改变默认关注点，所以选 C。",
+            "A 和 D 用了「从不」「固定」，把群体趋势说成绝对规则。"
+          ]
+        },
+        {
+          "stemEn": "Which criticism of relying on WEIRD samples goes beyond the point that they are unrepresentative?",
+          "optionsEn": [
+            "Every conclusion drawn from a WEIRD sample has been shown to be false",
+            "Everyone within a WEIRD society shares the same values and behaviour",
+            "WEIRD samples are always too small to detect psychological effects",
+            "Their cultural assumptions can shape which questions get asked"
+          ],
+          "answer": 3,
+          "stem": "对依赖 WEIRD 样本的哪种批评，超出了「样本不具代表性」这一点？",
+          "options": [
+            "从 WEIRD 样本得出的每个结论都已被证明是错的",
+            "WEIRD 社会里的每个人价值观和行为都相同",
+            "WEIRD 样本总是太小，测不出心理效应",
+            "其文化假设会影响研究者提出什么问题"
+          ],
+          "how": [
+            "题干要的是「超出」代表性的批评，也就是样本偏差对理论本身的影响。",
+            "研究问题、健康与正常的定义、量表都可能带文化假设，所以选 D。",
+            "B 也不对：WEIRD 社会内部同样有被忽略的少数群体。"
+          ]
+        }
+      ],
+      "recap": "局部结果不等于没价值；未经检验就说「全人类」才错。WEIRD：约 80% 文献，约 12% 人口。"
+    },
+    {
+      "id": "L4-P02",
+      "title": "共同能力与社会信念",
+      "titleEn": "Universal tendencies and social beliefs",
+      "conceptIds": [
+        "L4-C03"
+      ],
+      "kp": "基本情绪识别、互惠等倾向可能广泛存在，但表达规则和触发条件可以不同。Leung 与 Bond 的社会信念（social axioms）有五种：社会愤世、社会复杂性、努力回报、灵性、命运控制。",
+      "howTo": "题干说「都能做到，但表现不同」选共同能力、不同表达。信念题抓关键词：权贵剥削→愤世；看情况→复杂性；肯努力→努力回报；信仰有益→灵性；命中注定→命运控制。",
+      "items": [
+        {
+          "stemEn": "People in two societies recognise an angry face equally well, but in one society showing anger to a boss is very rare. Which conclusion fits best?",
+          "optionsEn": [
+            "Recognising anger is an ability invented by each society",
+            "People in the second society do not feel anger at work",
+            "Recognition may be widespread while expression norms differ",
+            "The result proves that emotion expression is identical everywhere"
+          ],
+          "answer": 2,
+          "stem": "两个社会的人识别愤怒面孔的能力相当，但其中一个社会很少有人对上司表现愤怒。哪项结论最合适？",
+          "options": [
+            "识别愤怒是各个社会各自发明的能力",
+            "第二个社会的人在工作中不会感到愤怒",
+            "识别可能广泛存在，而表达规范不同",
+            "这个结果证明情绪表达在各地完全相同"
+          ],
+          "how": [
+            "题干一边说识别能力「相当」，一边说「很少有人」表现愤怒，能力和表达要分开看。",
+            "识别可以普遍，何时对谁表达由文化规范决定，所以选 C。",
+            "B 把少表达当成没有情绪，这是常见错法。"
+          ]
+        },
+        {
+          "stemEn": "'People who hold power usually take advantage of everyone else.' Which Leung and Bond social belief does this statement reflect?",
+          "optionsEn": [
+            "Social cynicism",
+            "Fate control",
+            "Social complexity",
+            "Reward for application"
+          ],
+          "answer": 0,
+          "stem": "「掌权的人通常会占别人的便宜。」这句话反映 Leung 与 Bond 的哪种社会信念？",
+          "options": [
+            "社会愤世（social cynicism）",
+            "命运控制（fate control）",
+            "社会复杂性（social complexity）",
+            "努力回报（reward for application）"
+          ],
+          "how": [
+            "题干说「掌权的人」会「占别人的便宜」，这是对权力和人性的负面预期。",
+            "对权力的负面预期就是社会愤世，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "'Whatever I do, the way my life turns out was settled long ago.' Which description of this speaker's social beliefs is most accurate?",
+          "optionsEn": [
+            "Endorses reward for application; rejects fate control",
+            "Endorses social complexity; rejects spirituality",
+            "Endorses social cynicism; rejects social complexity",
+            "Endorses fate control; rejects reward for application"
+          ],
+          "answer": 3,
+          "stem": "「不管我做什么，我的人生结果早就定好了。」哪项对这位说话者社会信念的描述最准确？",
+          "options": [
+            "认同努力回报，否定命运控制",
+            "认同社会复杂性，否定灵性",
+            "认同社会愤世，否定社会复杂性",
+            "认同命运控制，否定努力回报"
+          ],
+          "how": [
+            "题干说「不管我做什么」，结果也「早就定好了」：结果由命运决定，努力没有用。",
+            "这认同命运控制，并否定努力与回报相连，所以选 D。",
+            "A 正好把两者说反，注意看哪一方被认同。"
+          ]
+        }
+      ],
+      "recap": "共同存在不等于表现相同。五信念：愤世、复杂、努力、灵性、命运。"
+    },
+    {
+      "id": "L4-P03",
+      "title": "荣誉文化：Cohen 走廊侮辱研究",
+      "titleEn": "Culture of honour: Cohen et al. (1996)",
+      "conceptIds": [
+        "L4-C04"
+      ],
+      "kp": "Cohen 等（1996）让 173 名白人男大学生在走廊被撞并辱骂。对照条件两组睾酮约 4.7–4.8；受辱后南方组约 12.5，北方组约 5.2。说明同一侮辱在不同名誉规范下社会意义不同。",
+      "howTo": "问结果记「南方 12.5、北方 5.2」。问含义选「文化调节威胁反应」。凡是说每个南方人都更好斗、睾酮等于愤怒或攻击的选项都错：样本全为白人男学生，睾酮不是纯指标。",
+      "items": [
+        {
+          "stemEn": "In the hallway study by Cohen et al. (1996), what was compared after a male confederate bumped into and insulted participants?",
+          "optionsEn": [
+            "Anger ratings of men and women across 25 countries",
+            "Testosterone of Southern and Northern White male students",
+            "Cortisol levels of Eastern and Western students viewing faces",
+            "Reaction times of children and adults on a sorting task"
+          ],
+          "answer": 1,
+          "stem": "在 Cohen 等（1996）的走廊研究中，男性同谋撞到并辱骂参与者后，研究者比较了什么？",
+          "options": [
+            "25 个国家男性和女性的愤怒评分",
+            "美国南方与北方白人男学生的睾酮反应",
+            "东西方学生看面孔时的皮质醇水平",
+            "儿童和成人在分类任务中的反应时"
+          ],
+          "how": [
+            "题干提到「走廊研究」和「撞到并辱骂」，这是荣誉文化的研究程序。",
+            "它比较南方与北方白人男大学生受辱后的睾酮反应，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "After the insult in Cohen et al. (1996), what were the approximate testosterone values?",
+          "optionsEn": [
+            "Southern about 5.2; Northern about 12.5",
+            "Both groups about 4.7-4.8",
+            "Southern about 4.8; Northern about 5.2",
+            "Southern about 12.5; Northern about 5.2"
+          ],
+          "answer": 3,
+          "stem": "在 Cohen 等（1996）的研究中，受辱后的睾酮值大约是多少？",
+          "options": [
+            "南方约 5.2；北方约 12.5",
+            "两组都约 4.7–4.8",
+            "南方约 4.8；北方约 5.2",
+            "南方约 12.5；北方约 5.2"
+          ],
+          "how": [
+            "题干问的是「受辱后」的数值，不是对照条件。",
+            "受辱后南方组升到约 12.5，北方组约 5.2，所以选 D。",
+            "B 的 4.7–4.8 是对照条件的数值，别混淆。"
+          ]
+        },
+        {
+          "stemEn": "Which interpretation of the hallway study is most consistent with the lecture?",
+          "optionsEn": [
+            "The same insult can mean different things under different reputation norms",
+            "Every man raised in the South responds to insults with physical aggression",
+            "Northern participants showed that insults have no psychological effect on them",
+            "Testosterone change directly measures how angry each participant felt"
+          ],
+          "answer": 0,
+          "stem": "下列哪种对走廊研究的解释最符合课堂内容？",
+          "options": [
+            "同一侮辱在不同名誉规范下可能有不同的意义",
+            "每个在南方长大的男性都会以身体攻击回应侮辱",
+            "北方参与者表明侮辱对他们没有心理影响",
+            "睾酮变化直接衡量了每位参与者有多愤怒"
+          ],
+          "how": [
+            "题干问「解释」，要选不超出证据的说法。",
+            "研究说明文化规范能调节威胁反应，同一侮辱意义可以不同，所以选 A。",
+            "B 用「每个」把平均差异套到个人；D 把睾酮当成愤怒的纯指标。"
+          ]
+        },
+        {
+          "stemEn": "A classmate says the hallway study proves that Southern women would also become more aggressive after an insult. What is the best reply?",
+          "optionsEn": [
+            "The study included only women, so it says little about men",
+            "The study had no control condition, so nothing can be concluded",
+            "The sample was all White male students, and testosterone is not aggression",
+            "The insult was too mild, so the Southern group showed no change at all"
+          ],
+          "answer": 2,
+          "stem": "一位同学说，走廊研究证明南方女性受辱后也会更有攻击性。最好的回应是什么？",
+          "options": [
+            "这项研究只包括女性，所以几乎说明不了男性的情况",
+            "这项研究没有对照条件，所以不能得出任何结论",
+            "样本全是白人男学生，而且睾酮不等于攻击性",
+            "侮辱太轻微，所以南方组完全没有变化"
+          ],
+          "how": [
+            "同学把结果推广到「南方女性」，并推到「更有攻击性」，两步都超出了研究范围。",
+            "样本全是白人男学生，睾酮也不等于攻击，所以选 C。",
+            "B 不对：研究有 control 条件，两组对照值约 4.7–4.8。"
+          ]
+        }
+      ],
+      "recap": "受辱后南 12.5、北 5.2。平均差异不等于每个南方人；睾酮不等于攻击。"
+    },
+    {
+      "id": "L4-P04",
+      "title": "情绪表达、两种投射与求助",
+      "titleEn": "Display rules, projection and help seeking",
+      "conceptIds": [
+        "L4-C05",
+        "L4-C06"
+      ],
+      "kp": "表达规则（display rules）规定何时、对谁、如何表达情绪。Cohen 与 Gunz（2002）：西方样本偏自我中心投射（把自己的情绪给对方），东方样本偏关系投射（想对方如何回应我），差异小。求助受污名、面子和服务影响。",
+      "howTo": "「把我的情绪看到对方脸上」选 egocentric；「他会怎样回应我」选 relational；「该不该表达」选 display rules。求助题选多因素的解释，只看国籍或认定没有困扰的都错。",
+      "items": [
+        {
+          "stemEn": "Staff in a hotel hide irritation in front of guests but openly complain among close friends after work. Which concept best explains when they show the emotion?",
+          "optionsEn": [
+            "Display rules",
+            "Egocentric projection",
+            "Relational projection",
+            "Social cynicism"
+          ],
+          "answer": 0,
+          "stem": "酒店员工在客人面前隐藏烦躁，下班后却和好友公开抱怨。哪个概念最能解释他们何时表现情绪？",
+          "options": [
+            "表达规则（display rules）",
+            "自我中心投射（egocentric projection）",
+            "关系投射（relational projection）",
+            "社会愤世（social cynicism）"
+          ],
+          "how": [
+            "题干说「在客人面前隐藏」，「和好友公开抱怨」：同一情绪因对象和场合不同而不同。",
+            "规定何时、对谁表达情绪的是表达规则，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "After being induced to feel shame, a participant judges an ambiguous face as looking ashamed too. Which process does this best illustrate?",
+          "optionsEn": [
+            "Relational projection",
+            "Display rules",
+            "Egocentric projection",
+            "Holistic reasoning"
+          ],
+          "answer": 2,
+          "stem": "一位参与者被诱发羞愧后，判断一张模糊面孔看起来也很羞愧。这最能说明哪个过程？",
+          "options": [
+            "关系投射（relational projection）",
+            "表达规则（display rules）",
+            "自我中心投射（egocentric projection）",
+            "整体式推理（holistic reasoning）"
+          ],
+          "how": [
+            "题干说自己「被诱发羞愧」后，觉得面孔「也很羞愧」，这是把自己的情绪放到对方身上。",
+            "这正是自我中心投射，所以选 C。",
+            "A 关系投射看的是对方如何回应我，不是对方和我一样。"
+          ]
+        },
+        {
+          "stemEn": "Which summary of Cohen and Gunz (2002) is most accurate?",
+          "optionsEn": [
+            "Easterners leaned towards egocentric projection and Westerners towards relational projection",
+            "Westerners leaned towards egocentric and Easterners towards relational projection, with small mean differences",
+            "Every Eastern participant used relational projection and every Western participant used egocentric projection",
+            "There was no difference at all, so culture plays no role in how people read faces"
+          ],
+          "answer": 1,
+          "stem": "下列哪项对 Cohen 与 Gunz（2002）的概括最准确？",
+          "options": [
+            "东方样本偏自我中心投射，西方样本偏关系投射",
+            "西方样本偏自我中心投射，东方样本偏关系投射，且均值差异较小",
+            "每位东方参与者都用关系投射，每位西方参与者都用自我中心投射",
+            "两组完全没有差异，所以文化不影响人们如何读脸"
+          ],
+          "how": [
+            "题干要求「概括」研究结果，要同时核对方向和幅度。",
+            "西方偏自我中心，东方偏关系，图中差异约 2.84 对 2.67、2.89 对 2.72，所以选 B。",
+            "C 用「每位」把广泛文化标签下的小差异说成绝对。"
+          ]
+        },
+        {
+          "stemEn": "An international student rarely talks about stress or sees a counsellor. A friend says, 'People from that country just don't have mental-health problems.' What is the best response?",
+          "optionsEn": [
+            "The friend is right, because national comparisons describe each individual",
+            "The student must be avoidant, because help seeking depends on personality only",
+            "The student's silence proves that counselling services are unavailable there",
+            "Stigma, face and service access may matter; silence does not mean no distress"
+          ],
+          "answer": 3,
+          "stem": "一名留学生很少谈压力，也不去见心理咨询师。朋友说：「那个国家的人就是没有心理健康问题。」最好的回应是什么？",
+          "options": [
+            "朋友说得对，因为国家比较描述的是每个人",
+            "这名学生一定是回避型，因为求助只取决于人格",
+            "这名学生的沉默证明那里没有咨询服务",
+            "污名、面子和服务可及性都可能有影响；沉默不等于没有困扰"
+          ],
+          "how": [
+            "朋友从「很少谈压力」跳到「没有心理健康问题」，又用国籍解释个人。",
+            "求助受多种文化和制度条件影响，不说也不代表没有困扰，所以选 D。",
+            "C 只抓一个原因，同样下了过度结论。"
+          ]
+        }
+      ],
+      "recap": "自我中心投射：用我的情绪猜你。关系投射：猜你怎样回应我。不公开谈困扰不等于没有困扰。"
+    },
+    {
+      "id": "L4-P05",
+      "title": "分析/整体推理与自我建构",
+      "titleEn": "Analytic vs holistic reasoning; self-construal and ecological fallacy",
+      "conceptIds": [
+        "L4-C07",
+        "L4-C08"
+      ],
+      "kp": "分析式推理突出独立对象和规则，整体式推理看关系和背景。个人主义倾向的自我独立，重视个人目标与权利；集体主义倾向的自我互依，重视群体目标与义务。用国家平均值判断个人是生态谬误。",
+      "howTo": "「只看个人或规则」选 analytic；「先看背景关系」选 holistic。个人目标优先、离开不满意的关系属个人主义；为义务留下属集体主义。从国家分数推断某个人一律是 ecological fallacy。",
+      "items": [
+        {
+          "stemEn": "When a group project fails, Mei immediately asks which member broke the rules and pays little attention to the surrounding circumstances. Which reasoning style does this suggest?",
+          "optionsEn": [
+            "Holistic reasoning",
+            "Analytic reasoning",
+            "Relational projection",
+            "Interdependent self-construal"
+          ],
+          "answer": 1,
+          "stem": "小组项目失败后，小美马上问哪个成员违反了规则，几乎不关注周围情况。这体现了哪种推理方式？",
+          "options": [
+            "整体式推理（holistic reasoning）",
+            "分析式推理（analytic reasoning）",
+            "关系投射（relational projection）",
+            "互依自我建构（interdependent self-construal）"
+          ],
+          "how": [
+            "题干说「哪个成员违反了规则」且「几乎不关注周围情况」，注意力在独立个体和规则上。",
+            "这是分析式推理的默认关注点，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Which description best matches holistic reasoning?",
+          "optionsEn": [
+            "Highlighting one tree with little use of the forest context",
+            "Rejecting logic whenever two ideas appear to conflict",
+            "Always reaching more accurate answers than analytic reasoning",
+            "Seeing the forest first, then how the trees connect"
+          ],
+          "answer": 3,
+          "stem": "下列哪项最符合整体式推理（holistic reasoning）？",
+          "options": [
+            "突出一棵树，较少利用森林背景",
+            "只要两个想法看似冲突就放弃逻辑",
+            "总能得出比分析式推理更准确的答案",
+            "先看森林，再看树木之间如何连接"
+          ],
+          "how": [
+            "题干问「整体式推理」，关键是整体模式、关系与背景。",
+            "先看森林再看连接正是整体式的比喻，所以选 D。",
+            "B 和 C 都错：整体式不是不讲逻辑，两种思路也没有谁永远更好。"
+          ]
+        },
+        {
+          "stemEn": "According to the discussion of Triandis and culture, which behaviour is typical of a collectivistic rather than an individualistic tendency?",
+          "optionsEn": [
+            "Staying in an unhappy group because of communal obligations",
+            "Placing personal goals ahead of what the group wants",
+            "Leaving a relationship once it stops being satisfying",
+            "Letting personal attitudes guide most everyday decisions"
+          ],
+          "answer": 0,
+          "stem": "根据 Triandis 与文化的讨论，下列哪种行为是集体主义而非个人主义倾向的典型表现？",
+          "options": [
+            "因为共同义务而留在不愉快的群体中",
+            "把个人目标放在群体愿望之前",
+            "关系一旦不再令人满意就离开",
+            "让个人态度主导大多数日常决定"
+          ],
+          "how": [
+            "题干要找「集体主义」倾向，线索是群体目标、义务与互依。",
+            "为共同义务留下正是集体主义的表现，所以选 A。",
+            "B、C、D 都是个人主义的定义特征，是常考的反向陷阱。"
+          ]
+        },
+        {
+          "stemEn": "The saying 'The nail that stands out gets pounded down' fits which pattern best?",
+          "optionsEn": [
+            "Low uncertainty avoidance",
+            "Analytic reasoning",
+            "Interdependent self-construal",
+            "Independent self-construal"
+          ],
+          "answer": 2,
+          "stem": "俗语「出头的钉子挨锤子」最符合哪种模式？",
+          "options": [
+            "低不确定性规避（low uncertainty avoidance）",
+            "分析式推理（analytic reasoning）",
+            "互依自我建构（interdependent self-construal）",
+            "独立自我建构（independent self-construal）"
+          ],
+          "how": [
+            "题干的「出头的钉子挨锤子」强调不要与群体不同，重视和谐与归属。",
+            "这对应互依自我建构，所以选 C。",
+            "D 对应的俗语是会叫的轮子有油，强调个人突出。"
+          ]
+        },
+        {
+          "stemEn": "An employer reads that Country X scores high on individualism and decides that a new hire from X will refuse teamwork. What error is this?",
+          "optionsEn": [
+            "Measurement non-equivalence",
+            "Ecological fallacy",
+            "Fundamental attribution error",
+            "Cohort effect"
+          ],
+          "answer": 1,
+          "stem": "一位雇主读到 X 国个人主义得分高，就认定来自 X 国的新员工会拒绝团队合作。这是什么错误？",
+          "options": [
+            "测量不等价（measurement non-equivalence）",
+            "生态谬误（ecological fallacy）",
+            "基本归因错误（fundamental attribution error）",
+            "世代效应（cohort effect）"
+          ],
+          "how": [
+            "题干从「X 国个人主义得分高」直接推断「新员工」的行为，这是由国家平均推个人。",
+            "用群体平均判断某个人就是生态谬误，所以选 B。",
+            "A 说的是量表能否跨文化测同一构念，与这里的推断无关。"
+          ]
+        }
+      ],
+      "recap": "先看树是分析，先看林是整体。国家平均推个人就是生态谬误。个人主义与集体主义是连续体。"
+    },
+    {
+      "id": "L4-P06",
+      "title": "Hornsey：意识形态与气候信念",
+      "titleEn": "Hornsey et al. (2018): ideology and climate attitudes",
+      "conceptIds": [
+        "L4-C09"
+      ],
+      "kp": "Hornsey 等（2018）比较 25 国左右派意识形态与气候态度的关联：总体约 .09，美国 .44，澳洲 .30，多国接近零，印度 -.20。保守与气候怀疑的关联不是普遍规律，也不能证明单一因果。",
+      "howTo": "看到「各国都一样」「保守主义必然怀疑气候」就排除。正确选项要说关联强度甚至方向因国家而变。问因果，答相关不能证明意识形态单独造成怀疑。",
+      "items": [
+        {
+          "stemEn": "Hornsey et al. (2018) examined the association between which variables, across how many countries?",
+          "optionsEn": [
+            "Testosterone and insults across 2 regions",
+            "Moral expansiveness and social trust across 40 cultural samples",
+            "Power distance and individualism across 100 countries",
+            "Left-right ideology and climate attitudes across 25 countries"
+          ],
+          "answer": 3,
+          "stem": "Hornsey 等（2018）考察了哪些变量之间的关联？涉及多少国家？",
+          "options": [
+            "睾酮与侮辱，涉及 2 个地区",
+            "道德扩张与社会信任，涉及 40 个文化样本",
+            "权力距离与个人主义，涉及 100 个国家",
+            "左右派意识形态与气候态度，涉及 25 个国家"
+          ],
+          "how": [
+            "题干点名「Hornsey 等（2018）」，这是政治意识形态与气候信念的跨国比较。",
+            "它比较 25 国左右派立场与气候态度的关联，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "Which pattern of associations matches what Hornsey et al. (2018) reported?",
+          "optionsEn": [
+            "United States .44; Australia .30; many countries near zero; India -.20",
+            "United States .09; Australia .44; many countries near .30; India .20",
+            "United States -.20; Australia .09; many countries near .44; India .30",
+            "United States .30; Australia -.20; many countries near .44; India .09"
+          ],
+          "answer": 0,
+          "stem": "下列哪组关联符合 Hornsey 等（2018）报告的结果？",
+          "options": [
+            "美国 .44；澳大利亚 .30；多国接近零；印度 -.20",
+            "美国 .09；澳大利亚 .44；多国接近 .30；印度 .20",
+            "美国 -.20；澳大利亚 .09；多国接近 .44；印度 .30",
+            "美国 .30；澳大利亚 -.20；多国接近 .44；印度 .09"
+          ],
+          "how": [
+            "题干问「哪组关联」，要核对各国的数值。",
+            "美国 .44 最强，澳洲 .30，多国近零，印度为负，所以选 A。",
+            "B 里的 .09 是 25 国的总体效应，不是美国的值。"
+          ]
+        },
+        {
+          "stemEn": "A commentator claims, 'Conservatives everywhere reject climate science.' Which reply draws most directly on the 25-country comparison?",
+          "optionsEn": [
+            "The claim holds worldwide, but only for older voters",
+            "The claim is correct, as the overall effect was .44",
+            "The link varies in strength, and even in direction, across countries",
+            "Ideology was unrelated to climate attitudes in every country studied"
+          ],
+          "answer": 2,
+          "stem": "一位评论员声称：「各地的保守派都否定气候科学。」哪项回应最直接地运用了 25 国比较的结果？",
+          "options": [
+            "这一说法全球成立，但只适用于年长选民",
+            "这一说法正确，因为总体效应是 .44",
+            "这种关联的强度甚至方向都因国家而异",
+            "在所研究的每个国家，意识形态都与气候态度无关"
+          ],
+          "how": [
+            "评论员说「各地的保守派」都如此，把一种关联说成普遍规律。",
+            "多国接近零，印度方向还相反，关联因国家而异，所以选 C。",
+            "D 走向另一个极端：美国和澳洲的关联明显存在。"
+          ]
+        },
+        {
+          "stemEn": "Can we conclude from this comparison that political ideology alone causes climate scepticism?",
+          "optionsEn": [
+            "Yes, because the overall effect across countries was above zero",
+            "No, because cross-national correlations cannot show this, and measures need checking",
+            "Yes, but only in the United States and Australia, where correlations were strongest",
+            "No, because the study found no association in any of the countries"
+          ],
+          "answer": 1,
+          "stem": "能否从这项比较得出结论：政治意识形态单独造成了气候怀疑？",
+          "options": [
+            "能，因为各国总体效应大于零",
+            "不能，因为跨国相关不能说明这一点，测量也需要检查",
+            "能，但只限于相关最强的美国和澳大利亚",
+            "不能，因为研究在所有国家都没有发现关联"
+          ],
+          "how": [
+            "题干的关键词是「单独造成」，这是因果判断，而研究提供的是相关。",
+            "相关不能证明单一原因，样本和测量等价性也要检查，所以选 B。",
+            "D 的理由错：结论对，但美国等国确实有关联。"
+          ]
+        }
+      ],
+      "recap": "25 国：美 .44、澳 .30、多国近零、印度 -.20。强度和方向都会变，相关不是因果。"
+    },
+    {
+      "id": "L4-P07",
+      "title": "Hofstede：权力距离与个人主义",
+      "titleEn": "Hofstede: power distance and individualism",
+      "conceptIds": [
+        "L4-C10"
+      ],
+      "kp": "权力距离（PDI）高：接受不平等权力和自上而下的决定；低：偏好协商和平等。个人主义（IDV）高：重视个人成就与自主；低：重视紧密群体中的忠诚与互依。这些是国家层面的趋势。",
+      "howTo": "题干讲上下级关系、谁说了算，看 PDI；讲个人还是群体优先，看 IDV。两个维度问的是不同问题，一个高低不能推出另一个，也不能用来判断某个人。",
+      "items": [
+        {
+          "stemEn": "In one hospital, junior doctors expect seniors to make all decisions and see voicing disagreement as inappropriate. Which Hofstede pattern fits best?",
+          "optionsEn": [
+            "High uncertainty avoidance",
+            "High individualism",
+            "High power distance",
+            "High masculinity"
+          ],
+          "answer": 2,
+          "stem": "在一家医院里，初级医生期待上级作出所有决定，并认为提出异议不合适。哪种 Hofstede 模式最符合？",
+          "options": [
+            "高不确定性规避（uncertainty avoidance）",
+            "高个人主义（individualism）",
+            "高权力距离（power distance）",
+            "高男性化（masculinity）"
+          ],
+          "how": [
+            "题干说「上级作出所有决定」，提出异议「不合适」，这是接受自上而下的权威。",
+            "接受不平等权力属于高权力距离，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "At a start-up, managers routinely consult staff before decisions and job titles rarely matter in meetings. Which pole does this illustrate?",
+          "optionsEn": [
+            "Low power distance",
+            "High indulgence",
+            "Low individualism",
+            "Long-term orientation"
+          ],
+          "answer": 0,
+          "stem": "在一家初创公司，经理作决定前经常征求员工意见，开会时头衔很少起作用。这说明哪一极？",
+          "options": [
+            "低权力距离（power distance）",
+            "高纵容（indulgence）",
+            "低个人主义（individualism）",
+            "长期导向（long-term orientation）"
+          ],
+          "how": [
+            "题干的「征求员工意见」和「头衔很少起作用」都指向协商和较平等的关系。",
+            "这是低权力距离的一极，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "In a society, people are expected to show lasting loyalty to a tight group, and the self is seen as closely tied to it. Which pole does this describe?",
+          "optionsEn": [
+            "High power distance",
+            "Low uncertainty avoidance",
+            "Low masculinity",
+            "Low individualism"
+          ],
+          "answer": 3,
+          "stem": "在某个社会，人们被期待对紧密的群体保持长久忠诚，自我也被视为与群体紧密相连。这描述的是哪一极？",
+          "options": [
+            "高权力距离（power distance）",
+            "低不确定性规避（uncertainty avoidance）",
+            "低男性化（masculinity）",
+            "低个人主义（individualism）"
+          ],
+          "how": [
+            "题干说对「紧密的群体」保持「长久忠诚」，这是忠诚与互依。",
+            "这是个人主义维度的另一极，即低个人主义，所以选 D。",
+            "A 容易混：权力距离问的是上下级权力，不是群体归属。"
+          ]
+        },
+        {
+          "stemEn": "A country has a low power distance score. What can you conclude about its individualism score?",
+          "optionsEn": [
+            "It must be high, because equality requires individualism",
+            "Nothing directly, because the two dimensions ask different questions",
+            "It must be low, because the dimensions are mirror images",
+            "It must match the personality of each citizen in that country"
+          ],
+          "answer": 1,
+          "stem": "某国的权力距离得分低。关于其个人主义得分，可以得出什么结论？",
+          "options": [
+            "一定高，因为平等需要个人主义",
+            "不能直接得出，因为两个维度问的是不同问题",
+            "一定低，因为两个维度互为镜像",
+            "一定与该国每位公民的人格一致"
+          ],
+          "how": [
+            "题干从「权力距离得分低」推「个人主义得分」，这是在跨维度推断。",
+            "两个维度分别问权力和个人与群体的关系，不能互推，所以选 B。",
+            "D 还犯了把国家分数当个人人格的错误。"
+          ]
+        }
+      ],
+      "recap": "PDI 问谁有权力；IDV 问个人还是群体。两者不同，都是国家层面。"
+    },
+    {
+      "id": "L4-P08",
+      "title": "Hofstede：MAS、UAI、LTO 与 IVR",
+      "titleEn": "Hofstede: MAS, UAI, LTO and IVR",
+      "conceptIds": [
+        "L4-C11",
+        "L4-C12"
+      ],
+      "kp": "MAS 比较重竞争野心还是重关系关怀；UAI 高时用规则计划减少模糊；LTO 高时面向未来、务实坚持，低时重传统和当前义务；IVR 高时允许享受，低时用规范禁忌约束欲望。",
+      "howTo": "按线索对号：竞争、赢→MAS 高；规则、计划、怕模糊→UAI 高；未来、坚持→LTO 高；传统、当下→LTO 低；享乐→纵容；禁忌约束→约束。名字别望文生义：MAS 不是男性比例。",
+      "items": [
+        {
+          "stemEn": "A society celebrates winners, admires ambition and treats status as the main sign of success. Which pole fits best?",
+          "optionsEn": [
+            "Low uncertainty avoidance",
+            "High masculinity",
+            "High indulgence",
+            "High power distance"
+          ],
+          "answer": 1,
+          "stem": "某个社会推崇赢家、欣赏野心，并把地位看作成功的主要标志。哪一极最符合？",
+          "options": [
+            "低不确定性规避（uncertainty avoidance）",
+            "高男性化（masculinity）",
+            "高纵容（indulgence）",
+            "高权力距离（power distance）"
+          ],
+          "how": [
+            "题干说「推崇赢家」「欣赏野心」，线索是竞争、野心和权力。",
+            "这些属于 masculinity 的高端，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Before starting any new project, a team insists on detailed procedures and feels uneasy when plans are left open. Which pole fits best?",
+          "optionsEn": [
+            "Long-term orientation",
+            "High power distance",
+            "Restraint",
+            "High uncertainty avoidance"
+          ],
+          "answer": 3,
+          "stem": "开始任何新项目前，团队都坚持要有详细流程，计划没定就感到不安。哪一极最符合？",
+          "options": [
+            "长期导向（long-term orientation）",
+            "高权力距离（power distance）",
+            "约束（restraint）",
+            "高不确定性规避（uncertainty avoidance）"
+          ],
+          "how": [
+            "题干说坚持「详细流程」，计划没定就「感到不安」，这是用规则降低模糊。",
+            "这是高不确定性规避，所以选 D。",
+            "A 容易混：长期导向重未来和坚持，不是怕模糊。"
+          ]
+        },
+        {
+          "stemEn": "A community keeps inherited customs, focuses on present obligations and prefers quick results. Which pole fits best?",
+          "optionsEn": [
+            "Short-term end of long-term orientation",
+            "Restraint end of indulgence",
+            "High uncertainty avoidance",
+            "Low masculinity"
+          ],
+          "answer": 0,
+          "stem": "一个社区保持传统习俗，关注当前义务，并偏好快速见效。哪一极最符合？",
+          "options": [
+            "长期导向（long-term orientation）的短期一端",
+            "纵容（indulgence）的约束一端",
+            "高不确定性规避（uncertainty avoidance）",
+            "低男性化（masculinity）"
+          ],
+          "how": [
+            "题干的「传统习俗」「当前义务」「快速见效」是传统和短期取向。",
+            "这是长期导向维度的短期一端，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "In a society, strong norms and taboos limit leisure and the open pursuit of pleasure. Which pole fits best?",
+          "optionsEn": [
+            "Low individualism",
+            "High power distance",
+            "Restraint",
+            "Low masculinity"
+          ],
+          "answer": 2,
+          "stem": "在某个社会，强烈的规范和禁忌限制休闲和公开追求享乐。哪一极最符合？",
+          "options": [
+            "低个人主义（individualism）",
+            "高权力距离（power distance）",
+            "约束（restraint）",
+            "低男性化（masculinity）"
+          ],
+          "how": [
+            "题干说「规范和禁忌」限制「追求享乐」，这是用规范约束欲望。",
+            "这是纵容维度的约束一极，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Which statement about these Hofstede dimensions is accurate?",
+          "optionsEn": [
+            "MAS reports the proportion of men living in a country",
+            "LTO reports the average age of a country's population",
+            "IVR reports how intelligent a national population tends to be",
+            "MAS compares competition with care and is not about biological sex"
+          ],
+          "answer": 3,
+          "stem": "关于这些 Hofstede 维度，哪项说法准确？",
+          "options": [
+            "MAS 报告一个国家的男性人口比例",
+            "LTO 报告一个国家人口的平均年龄",
+            "IVR 报告一国人口的智力水平",
+            "MAS 比较竞争与关怀，与生理性别无关"
+          ],
+          "how": [
+            "题干问哪项「准确」，这类题考名称的望文生义陷阱。",
+            "MAS 只是历史名称，比较的是竞争与关怀的价值取向，所以选 D。",
+            "LTO 不是年龄，IVR 也不是智商，它们都是文化价值维度。"
+          ]
+        }
+      ],
+      "recap": "MAS 竞争对关怀；UAI 规则对变化；LTO 未来对传统；IVR 享受对约束。"
+    },
+    {
+      "id": "L4-P09",
+      "title": "测量等价、去殖民化与跨国调查",
+      "titleEn": "Measurement equivalence, decolonisation and value surveys",
+      "conceptIds": [
+        "L4-C13",
+        "L4-C14"
+      ],
+      "kp": "字面翻译正确不等于测同一构念，这是测量等价问题。去殖民化还问谁定义问题、谁拥有知识。Hofstede 基于 IBM 员工。WVS 与 EVS 都始于 1981，多波次可看世代和时间变化，说明文化不是固定不变。",
+      "howTo": "「翻译对但意思变了」选测量等价。「多收样本够不够」答不够，还要看谁定问题。看到 WVS/EVS 就想到 1981 和多波次；波次变化不等于追踪同一批人，也不证明原因。",
+      "items": [
+        {
+          "stemEn": "A questionnaire item, 'I always speak my mind', is translated accurately, but in one culture it signals honesty and in another rudeness. What problem does this raise?",
+          "optionsEn": [
+            "Ecological fallacy",
+            "Measurement equivalence",
+            "Diachronic consistency",
+            "Relative deprivation"
+          ],
+          "answer": 1,
+          "stem": "问卷条目「我总是有话直说」翻译准确，但在一种文化中表示诚实，在另一种文化中表示无礼。这提出了什么问题？",
+          "options": [
+            "生态谬误（ecological fallacy）",
+            "测量等价（measurement equivalence）",
+            "历时一致性（diachronic consistency）",
+            "相对剥夺（relative deprivation）"
+          ],
+          "how": [
+            "题干说「翻译准确」，意思却一个是「诚实」一个是「无礼」，同一题测到的构念不同。",
+            "这正是测量等价问题，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "A research team adds samples from Indigenous communities but keeps every question, measure and interpretation decision in its own hands. What would a decolonising critique say?",
+          "optionsEn": [
+            "Who defines the questions and owns the knowledge also needs examining",
+            "The problem is now solved, because non-Western samples have been included",
+            "The team should remove all Indigenous participants to avoid any bias",
+            "National samples are always homogeneous, so the extra samples add nothing"
+          ],
+          "answer": 0,
+          "stem": "一个研究团队增加了原住民社区样本，但所有问题、测量和解释决定仍由自己掌握。去殖民化的批评会怎么说？",
+          "options": [
+            "还需审视谁定义研究问题、谁拥有知识",
+            "问题已经解决，因为已纳入非西方样本",
+            "团队应去掉所有原住民参与者以避免任何偏差",
+            "国家样本总是同质的，所以增加样本毫无意义"
+          ],
+          "how": [
+            "题干说样本增加了，但决定「仍由自己掌握」，权力关系并未改变。",
+            "去殖民化不只是多收样本，还要问谁定义问题、谁拥有知识，所以选 A。",
+            "B 正是这一考点要纠正的想法。"
+          ]
+        },
+        {
+          "stemEn": "Which statement about large cross-national value surveys is accurate?",
+          "optionsEn": [
+            "WVS was built only from IBM employees in Australia and China",
+            "EVS covers more than 100 countries outside Europe",
+            "WVS and EVS were both designed to rank national intelligence",
+            "WVS and EVS both began in 1981, and repeated waves can show change"
+          ],
+          "answer": 3,
+          "stem": "关于大型跨国价值观调查，哪项说法准确？",
+          "options": [
+            "WVS 只基于澳大利亚和中国的 IBM 员工",
+            "EVS 覆盖欧洲以外 100 多个国家",
+            "WVS 与 EVS 都旨在给各国智力排名",
+            "WVS 与 EVS 都始于 1981 年，多次调查可显示变化"
+          ],
+          "how": [
+            "题干问「跨国价值观调查」，即 WVS 和 EVS。",
+            "两者都始于 1981 年，重复波次可观察世代和时间变化，所以选 D。",
+            "A 混入了 Hofstede 的 IBM 样本；100 多国是 WVS，EVS 覆盖近 50 个欧洲国家。"
+          ]
+        },
+        {
+          "stemEn": "Two waves of a values survey show rising tolerance of minorities in one country. What is the best conclusion?",
+          "optionsEn": [
+            "The same individuals must have changed their minds between waves",
+            "A particular law must have caused the rise in tolerance",
+            "Culture may be shifting, but causes and comparability need checks",
+            "National culture is fixed, so the rise must be a measurement error"
+          ],
+          "answer": 2,
+          "stem": "一项价值观调查的两个波次显示，某国对少数群体的宽容度上升。最好的结论是什么？",
+          "options": [
+            "一定是同一批人在两波之间改变了想法",
+            "一定是某项法律导致了宽容度上升",
+            "文化可能在变化，但可比性和原因仍需检查",
+            "国家文化是固定的，所以上升一定是测量误差"
+          ],
+          "how": [
+            "题干只给了「两个波次」的结果，没有说追踪同一批人，也没有说原因。",
+            "它能提示文化变化，但要查抽样和测量可比性，不能自动定因，所以选 C。",
+            "D 错在把文化当成固定不变。"
+          ]
+        }
+      ],
+      "recap": "翻译对不等于构念同。多加样本不等于去殖民化。多波次能看变化，不能自动证明原因。"
+    },
+    {
+      "id": "L4-P10",
+      "title": "集体行动：定义、案例与驱动力",
+      "titleEn": "Collective action: definition, cases and drivers",
+      "conceptIds": [
+        "L4-C15",
+        "L4-C16"
+      ],
+      "kp": "集体行动是群体为共同目标采取的行动，如抗议、抵制、罢工。五类驱动力：不公感、集体效能、社会认同、群体规范、情绪。1967 澳洲公投获近 91% 赞成，改了两项歧视性条文，并未授予公民身份或选举权。",
+      "howTo": "按群体内部问的问题对号：这不公吗→不公感；我们一起能改变吗→集体效能；这发生在我们身上吗→认同；我们这样的人会行动吗→规范；一起感受到什么→情绪。",
+      "items": [
+        {
+          "stemEn": "Nurses across a state go on strike together to demand safer staffing levels. What does this best illustrate?",
+          "optionsEn": [
+            "Moral standing",
+            "Display rules",
+            "Ecological fallacy",
+            "Collective action"
+          ],
+          "answer": 3,
+          "stem": "全州护士一起罢工，要求更安全的人员配置。这最能说明什么？",
+          "options": [
+            "道德地位（moral standing）",
+            "表达规则（display rules）",
+            "生态谬误（ecological fallacy）",
+            "集体行动（collective action）"
+          ],
+          "how": [
+            "题干说护士「一起罢工」，为的是共同目标。",
+            "群体为共同目标采取行动就是集体行动，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A history essay says the 1967 Australian referendum gave First Nations people citizenship and the vote, and immediately ended inequality. What is the best correction?",
+          "optionsEn": [
+            "It changed two discriminatory provisions; it did not grant those rights",
+            "It failed with about 91% voting No, so no constitutional provisions changed at all",
+            "It granted the vote but not citizenship, and material equality followed within a year",
+            "It was led by the government alone and had nothing to do with First Nations campaigns"
+          ],
+          "answer": 0,
+          "stem": "一篇历史论文说，1967 年澳大利亚公投给予原住民公民身份和选举权，并立刻结束了不平等。最好的更正是什么？",
+          "options": [
+            "它改变了两项歧视性条文，并没有授予这些权利",
+            "它以约 91% 反对票失败，所以宪法条文完全没有改变",
+            "它授予了选举权但没有授予公民身份，物质平等在一年内实现",
+            "它只由政府主导，与原住民运动无关"
+          ],
+          "how": [
+            "论文说公投给予「公民身份和选举权」并「立刻结束了不平等」，这两点都不准确。",
+            "公投获近 91% 赞成，改了两项歧视性条文，并非授予权利，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Two plants of the same company do identical work, but only one has its pay cut. Comparing themselves with the other plant, its workers feel wronged. What does this best illustrate?",
+          "optionsEn": [
+            "Collective efficacy",
+            "Relative deprivation",
+            "Group norms",
+            "Synchronic consistency"
+          ],
+          "answer": 1,
+          "stem": "同一公司的两家工厂做相同工作，但只有一家被减薪。这家工厂的工人与另一家比较后感到受了委屈。这最能说明什么？",
+          "options": [
+            "集体效能（collective efficacy）",
+            "相对剥夺（relative deprivation）",
+            "群体规范（group norms）",
+            "共时一致性（synchronic consistency）"
+          ],
+          "how": [
+            "题干的关键词是「比较后」「感到受了委屈」，不公感来自与他人的比较。",
+            "比较后感到自己或群体受不公平对待就是相对剥夺，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Which statement most directly expresses collective efficacy rather than another driver of collective action?",
+          "optionsEn": [
+            "'I am confident I could do well in any job I tried.'",
+            "'This new roster is deeply unfair to all of us.'",
+            "'If our union acts together, management will have to change this.'",
+            "'People like us always turn up whenever the union calls a meeting.'"
+          ],
+          "answer": 2,
+          "stem": "下列哪句话最直接地表达了集体效能（collective efficacy），而不是集体行动的其他驱动力？",
+          "options": [
+            "「我相信自己无论做什么工作都能做好。」",
+            "「这份新排班对我们所有人都极不公平。」",
+            "「只要工会一起行动，管理层就不得不改。」",
+            "「工会一开会，我们这样的人总会到场。」"
+          ],
+          "how": [
+            "题干要找「集体效能」，关键是相信群体一起行动能带来改变。",
+            "工会一起行动就能迫使改变，正是这种信念，所以选 C。",
+            "A 是个人自信，B 是不公感，D 是群体规范。"
+          ]
+        },
+        {
+          "stemEn": "A student joins a climate march mainly because her friends treat taking part as simply what people in their circle do. Which driver is most directly at work?",
+          "optionsEn": [
+            "Group norms",
+            "Perceived injustice",
+            "Collective efficacy",
+            "Relative deprivation"
+          ],
+          "answer": 0,
+          "stem": "一名学生参加气候游行，主要因为朋友们把参与看作他们这个圈子的人理所当然会做的事。哪种驱动力最直接地起作用？",
+          "options": [
+            "群体规范（group norms）",
+            "不公感（perceived injustice）",
+            "集体效能（collective efficacy）",
+            "相对剥夺（relative deprivation）"
+          ],
+          "how": [
+            "题干说参与是「这个圈子的人」「理所当然会做的事」，这回答的是我们这样的人会不会行动。",
+            "行动被体验为我们的规范，这就是群体规范，所以选 A。",
+            "C 问的是能否改变，题干没有提到对结果的信念。"
+          ]
+        }
+      ],
+      "recap": "相信「我们一起能改变」才是集体效能，个人自信不算。象征或法律改变不等于物质平等。"
+    },
+    {
+      "id": "L4-P11",
+      "title": "规范性与非规范性行动",
+      "titleEn": "Normative and non-normative action",
+      "conceptIds": [
+        "L4-C17"
+      ],
+      "kp": "规范性行动在当时的法律或社会规范内施压，如请愿、合法游行、合法罢工。非规范性行动偏离主流规则、更具扰动性，如公民不服从、占领、封锁。非规范性不等于暴力，分类还取决于参照的规范。",
+      "howTo": "先问参照谁的规范：合乎当时法律和主流规范选 normative；偏离主流、扰动秩序选 non-normative。和平也可以是 non-normative，别把非规范性等同于暴力。",
+      "items": [
+        {
+          "stemEn": "A union gives the required legal notice and then holds a lawful strike. How is this best classified?",
+          "optionsEn": [
+            "Non-normative action",
+            "Normative action",
+            "Moral inclusion",
+            "Diachronic consistency"
+          ],
+          "answer": 1,
+          "stem": "工会依法提前通知，然后举行合法罢工。这最好归为哪一类？",
+          "options": [
+            "非规范性行动（non-normative action）",
+            "规范性行动（normative action）",
+            "道德纳入（moral inclusion）",
+            "历时一致性（diachronic consistency）"
+          ],
+          "how": [
+            "题干的「依法提前通知」和「合法罢工」说明行动在法律规范之内。",
+            "在制度渠道内施压属于规范性行动，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Activists peacefully block the entrance to a coal port, breaking prevailing rules without harming anyone. How is this best classified?",
+          "optionsEn": [
+            "Normative, because no one was harmed",
+            "Violent, because the action broke the rules",
+            "Not collective action, because it broke the rules",
+            "Non-normative, although it is not violent"
+          ],
+          "answer": 3,
+          "stem": "活动人士和平封锁煤炭港口的入口，违反了现行规则，但没有伤害任何人。这最好归为哪一类？",
+          "options": [
+            "规范性的，因为没有人受伤",
+            "暴力的，因为这一行动违反了规则",
+            "不算集体行动，因为它违反了规则",
+            "非规范性的，尽管并不暴力"
+          ],
+          "how": [
+            "题干同时给了两条线索：「和平封锁」并且「违反了现行规则」。",
+            "偏离主流规则、具扰动性属非规范性，但不必然暴力，所以选 D。",
+            "A 错在把和平当成规范性的标准，分类看的是是否符合规范。"
+          ]
+        },
+        {
+          "stemEn": "Mainstream society condemns sit-ins, but within one movement they are routine and expected. What is the best way to classify them?",
+          "optionsEn": [
+            "They are normative everywhere, because some people accept them",
+            "They are non-normative everywhere, because context never matters",
+            "It depends on the reference norm and the historical context",
+            "They cannot be classified, because they are not collective action"
+          ],
+          "answer": 2,
+          "stem": "主流社会谴责静坐，但在某运动内部静坐是常规且被期待的做法。最好如何分类？",
+          "options": [
+            "处处都是规范性的，因为有些人接受它",
+            "处处都是非规范性的，因为情境从不重要",
+            "取决于参照的规范和历史情境",
+            "无法分类，因为它不是集体行动"
+          ],
+          "how": [
+            "题干对比「主流社会谴责」和「运动内部」的「常规」做法，参照群体不同。",
+            "同一策略可偏离主流规范，却符合内部规范，分类看参照规范，所以选 C。"
+          ]
+        }
+      ],
+      "recap": "非规范性不等于暴力。同一策略可以偏离主流规范，却符合运动内部的规范。"
+    },
+    {
+      "id": "L4-P12",
+      "title": "SIMCA：认同是组织中心",
+      "titleEn": "SIMCA: identity as the organising centre",
+      "conceptIds": [
+        "L4-C18"
+      ],
+      "kp": "SIMCA（van Zomeren 等，2008）：认同直接预测行动（.21），也关联不公感（.26）和效能（.19）；不公感与效能各自预测行动（均 .28）。系数表示综合证据中变量共变的平均路径。",
+      "howTo": "三要素记认同、不公、效能，认同是中心。不公提供理由，效能提供可能。数字题按路径核对。看到「证明因果」「每项研究都是实验」就排除，系数只是平均关联。",
+      "items": [
+        {
+          "stemEn": "In the Social Identity Model of Collective Action, which variable both predicts action directly and is linked to the other two predictors?",
+          "optionsEn": [
+            "Social identity",
+            "Perceived injustice",
+            "Collective efficacy",
+            "Relative deprivation"
+          ],
+          "answer": 0,
+          "stem": "在集体行动的社会认同模型（SIMCA）中，哪个变量既直接预测行动，又与另外两个预测变量相关联？",
+          "options": [
+            "社会认同（social identity）",
+            "不公感（perceived injustice）",
+            "集体效能（collective efficacy）",
+            "相对剥夺（relative deprivation）"
+          ],
+          "how": [
+            "题干问「既直接预测行动」，又「与另外两个预测变量相关联」的变量，也就是模型的中心。",
+            "社会认同组织了不公和效能两条路径，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "Which set of SIMCA path coefficients is correct?",
+          "optionsEn": [
+            "Identity to injustice .28; identity to efficacy .28; identity to action .19",
+            "Identity to injustice .21; identity to efficacy .26; injustice to action .19",
+            "Identity to injustice .26; identity to efficacy .19; identity to action .21",
+            "Identity to injustice .19; identity to efficacy .21; efficacy to action .26"
+          ],
+          "answer": 2,
+          "stem": "哪组 SIMCA 路径系数是正确的？",
+          "options": [
+            "认同到不公 .28；认同到效能 .28；认同到行动 .19",
+            "认同到不公 .21；认同到效能 .26；不公到行动 .19",
+            "认同到不公 .26；认同到效能 .19；认同到行动 .21",
+            "认同到不公 .19；认同到效能 .21；效能到行动 .26"
+          ],
+          "how": [
+            "题干问「路径系数」，逐条核对：认同到不公 .26，到效能 .19，到行动 .21。",
+            "三条全部吻合的只有 C，所以选 C。",
+            "不公和效能到行动才都是 .28，A 把它放错了位置。"
+          ]
+        },
+        {
+          "stemEn": "After coming to see herself as part of the international-student community, Lin starts to view a fee rise as unfair 'to us'. Which SIMCA path does this best illustrate?",
+          "optionsEn": [
+            "Efficacy to identity",
+            "Injustice to efficacy",
+            "Action to identity",
+            "Identity to injustice"
+          ],
+          "answer": 3,
+          "stem": "小林开始把自己看作国际学生群体的一员后，觉得涨学费对「我们」不公平。这最能说明 SIMCA 的哪条路径？",
+          "options": [
+            "效能到认同",
+            "不公到效能",
+            "行动到认同",
+            "认同到不公"
+          ],
+          "how": [
+            "题干先说「国际学生群体的一员」，再说对「我们」不公平，顺序是认同在先。",
+            "以「我们」理解事件，增强群体不公感，这是认同到不公的路径，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A report states, 'SIMCA's coefficients show that identity causes protest, since every study behind the model was an experiment.' What is wrong with this?",
+          "optionsEn": [
+            "The coefficients show only that identity is unrelated to action",
+            "They are average paths from combined evidence, not proof of one cause",
+            "The model excludes identity, so the report has named the wrong predictor",
+            "The coefficients show that injustice alone causes protest in every study"
+          ],
+          "answer": 1,
+          "stem": "一份报告称：「SIMCA 的系数表明认同导致抗议，因为模型依据的每项研究都是实验。」这句话错在哪里？",
+          "options": [
+            "系数只表明认同与行动无关",
+            "它们是综合证据的平均路径，不能证明单一原因",
+            "模型不包括认同，所以报告说错了预测变量",
+            "系数表明每项研究中只有不公感导致抗议"
+          ],
+          "how": [
+            "报告说「认同导致抗议」，还说「每项研究都是实验」，这两点都超出了证据。",
+            "系数表示综合证据中的平均共变路径，不是单一因果，所以选 B。",
+            "A 走向另一个极端：认同到行动的路径系数是 .21。"
+          ]
+        }
+      ],
+      "recap": "认同决定「不公发生在谁身上」和「我们能否改变」，也直接推动行动。系数不等于唯一因果。"
+    },
+    {
+      "id": "L4-P13",
+      "title": "道德地位、道德纳入与 MES",
+      "titleEn": "Moral standing, moral inclusion and the MES",
+      "conceptIds": [
+        "L4-C19",
+        "L4-C20"
+      ],
+      "kp": "道德地位（moral standing）是承认对象值得道德考虑；道德纳入（moral inclusion）还要给予公平、保护和实际行动。MES 让人把对象放入高、中、低关切圈或边界外。对象属性、任务框架和情境都会改变边界。",
+      "howTo": "只有「承认值得关心」选 standing；有保护、行动选 inclusion。摆放同心圆选 MES。扩缩边界的因素：有无心智痛感→对象属性；要求纳入或排除→认知框架；竞争、稀缺、信任→情境。",
+      "items": [
+        {
+          "stemEn": "A city council funds koala rescue, protects their habitat and penalises harm to them. What does this most directly illustrate?",
+          "optionsEn": [
+            "Moral standing alone",
+            "Empathy alone",
+            "Moral inclusion",
+            "Fears of compassion"
+          ],
+          "answer": 2,
+          "stem": "市议会资助考拉救助、保护其栖息地，并惩罚伤害考拉的行为。这最直接地说明了什么？",
+          "options": [
+            "仅有道德地位（moral standing）",
+            "仅有同理心（empathy）",
+            "道德纳入（moral inclusion）",
+            "对慈悲的恐惧（fears of compassion）"
+          ],
+          "how": [
+            "题干的「资助」「保护」「惩罚」都是实际保护和行动，不止口头承认。",
+            "纳入公平对待、保护和行动就是道德纳入，所以选 C。"
+          ]
+        },
+        {
+          "stemEn": "Sam agrees that river ecosystems deserve moral consideration, but supports no protection for them and takes no action. Which description fits best?",
+          "optionsEn": [
+            "Moral standing without active moral inclusion",
+            "Active moral inclusion without moral standing",
+            "Compassion without any recognition of suffering",
+            "Exclusion from the Moral Expansiveness Scale"
+          ],
+          "answer": 0,
+          "stem": "小山同意河流生态系统值得道德考虑，但不支持任何保护措施，也不采取行动。哪项描述最符合？",
+          "options": [
+            "有道德地位，但没有主动的道德纳入",
+            "有主动的道德纳入，但没有道德地位",
+            "有慈悲，但没有察觉任何痛苦",
+            "被排除在道德扩张量表之外"
+          ],
+          "how": [
+            "题干说「值得道德考虑」，但「不支持任何保护措施」，承认和行动是分开的。",
+            "承认值得考虑是道德地位，未纳入保护和行动，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "A participant places family at the centre, plants in an outer ring and villains outside a boundary line. Which instrument is being used?",
+          "optionsEn": [
+            "Child Implicit Association Test",
+            "World Values Survey",
+            "Hofstede's cultural dimensions",
+            "Moral Expansiveness Scale"
+          ],
+          "answer": 3,
+          "stem": "一位参与者把家人放在中心，把植物放在外圈，把恶棍放在边界线外。这用的是哪种工具？",
+          "options": [
+            "儿童内隐联想测验（Child IAT）",
+            "世界价值观调查（World Values Survey）",
+            "Hofstede 文化维度（cultural dimensions）",
+            "道德扩张量表（Moral Expansiveness Scale）"
+          ],
+          "how": [
+            "题干的「中心」「外圈」「边界线外」是同心圆摆放任务。",
+            "把对象放入不同关切圈或边界外的是 MES，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "In the Western pattern shown in the MES slide, family and friends tend to sit nearest the centre. What should be concluded?",
+          "optionsEn": [
+            "Moral concern for family is fixed and cannot be changed by context",
+            "It is an average pattern, not a rule for ranking targets",
+            "People who rank targets differently have a measurable moral deficit",
+            "Countries can be ranked as morally better according to this pattern"
+          ],
+          "answer": 1,
+          "stem": "在 MES 课件展示的西方模式中，家人和朋友往往最靠近中心。应得出什么结论？",
+          "options": [
+            "对家人的道德关切是固定的，情境无法改变",
+            "这是平均模式，不是规定如何排序的规则",
+            "排序不同的人存在可测量的道德缺陷",
+            "可以根据这一模式判定哪些国家道德更好"
+          ],
+          "how": [
+            "题干说「往往最靠近中心」，这是描述平均结果的说法。",
+            "它只是平均模式，不是规定大家该怎样排序，所以选 B。",
+            "D 错在把量表结果变成国家道德高低的排名。"
+          ]
+        },
+        {
+          "stemEn": "When a task asks people whom to exclude rather than whom to include, their overall moral concern changes. Which factor does this illustrate?",
+          "optionsEn": [
+            "Target attributes",
+            "Contextual factors",
+            "Cognitive framing",
+            "Individual differences"
+          ],
+          "answer": 2,
+          "stem": "当任务要求人们选择排除谁，而不是纳入谁时，总体道德关切发生变化。这说明哪类因素？",
+          "options": [
+            "对象属性（target attributes）",
+            "情境因素（contextual factors）",
+            "认知框架（cognitive framing）",
+            "个人差异（individual differences）"
+          ],
+          "how": [
+            "题干的变化只来自任务问「排除谁」还是「纳入谁」，也就是问法不同。",
+            "问法改变总体关切属于认知框架，所以选 C。",
+            "B 情境因素指竞争、冲突、资源稀缺和社会信任。"
+          ]
+        }
+      ],
+      "recap": "承认值得关心是地位，付诸保护和行动才是纳入。圈层是平均模式，不是道德等级表。"
+    },
+    {
+      "id": "L4-P14",
+      "title": "同理心、慈悲与信任",
+      "titleEn": "Empathy, compassion and trust",
+      "conceptIds": [
+        "L4-C21",
+        "L4-C22"
+      ],
+      "kp": "同理心（empathy）是理解或感受他人情绪；慈悲（compassion）还包括察觉痛苦并想减轻它，更强地关联道德扩张。对慈悲的恐惧是担心被利用。不平等、低信任与窄边界是社会层面的关联和推测机制。",
+      "howTo": "只有「感受到」选 empathy；有「想帮他减轻」选 compassion；「怕被占便宜」选 fears of compassion。国家排名或解释链题，选「社会层面关联」，排除「每个人」「固定国民性」。",
+      "items": [
+        {
+          "stemEn": "Seeing a friend in tears, Ana immediately feels the same sadness, but does nothing further. What best describes her response?",
+          "optionsEn": [
+            "Empathy",
+            "Compassion",
+            "Moral inclusion",
+            "Fears of compassion"
+          ],
+          "answer": 0,
+          "stem": "看到朋友流泪，安娜立刻也感到同样的悲伤，但没有进一步行动。哪项最能描述她的反应？",
+          "options": [
+            "同理心（empathy）",
+            "慈悲（compassion）",
+            "道德纳入（moral inclusion）",
+            "对慈悲的恐惧（fears of compassion）"
+          ],
+          "how": [
+            "题干说「感到同样的悲伤」，但「没有进一步行动」，只有情绪共鸣。",
+            "感受他人的情绪就是同理心，所以选 A。",
+            "B 还需要减轻痛苦的动机，题干没有体现。"
+          ]
+        },
+        {
+          "stemEn": "Ben notices that flood victims are suffering and is motivated to organise supplies to ease their situation. Which concept fits best?",
+          "optionsEn": [
+            "Empathy alone",
+            "Compassion",
+            "Social cynicism",
+            "Egocentric projection"
+          ],
+          "answer": 1,
+          "stem": "小本察觉到洪灾灾民正在受苦，并有动力组织物资来缓解他们的处境。哪个概念最符合？",
+          "options": [
+            "仅有同理心（empathy）",
+            "慈悲（compassion）",
+            "社会愤世（social cynicism）",
+            "自我中心投射（egocentric projection）"
+          ],
+          "how": [
+            "题干有两个线索：「察觉到」受苦，并「有动力」去「缓解」。",
+            "察觉痛苦加上减轻痛苦的动机就是慈悲，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Dana avoids helping strangers because she worries that caring for them will just get her exploited. Which concept fits best?",
+          "optionsEn": [
+            "Fate control",
+            "Moral standing",
+            "Burnout and demoralisation",
+            "Fears of compassion"
+          ],
+          "answer": 3,
+          "stem": "小丹避免帮助陌生人，因为她担心关心他们只会让自己被利用。哪个概念最符合？",
+          "options": [
+            "命运控制（fate control）",
+            "道德地位（moral standing）",
+            "倦怠与士气低落（burnout and demoralisation）",
+            "对慈悲的恐惧（fears of compassion）"
+          ],
+          "how": [
+            "题干的关键词是担心关心别人会「被利用」。",
+            "担心关怀让自己被利用就是对慈悲的恐惧，所以选 D。",
+            "C 是运动失败后的耗竭，不是对关怀陌生人的担忧。"
+          ]
+        },
+        {
+          "stemEn": "A commentator cites the chain inequality, lower trust, narrower moral boundaries, and says citizens of low-scoring countries are morally inferior. What is the best response?",
+          "optionsEn": [
+            "The chain is proven for each individual, so the claim is justified",
+            "National rankings are precise, so they can define a fixed national character",
+            "It is a societal pattern and proposed mechanism, not a verdict on anyone",
+            "Inequality is unrelated to moral boundaries, so the chain was never discussed"
+          ],
+          "answer": 2,
+          "stem": "一位评论员引用不平等、低信任、窄道德边界这条链，并称低分国家的公民道德低劣。最好的回应是什么？",
+          "options": [
+            "这条链已对每个人得到证明，所以这一说法成立",
+            "国家排名很精确，所以能界定固定的国民性",
+            "这是社会层面的关联和推测机制，不是对任何人的判决",
+            "不平等与道德边界无关，课堂从未讨论这条链"
+          ],
+          "how": [
+            "评论员从一条国家层面的链跳到「公民道德低劣」，把社会层面的结论用到了个人。",
+            "它只是社会层面的关联和推测机制，所以选 C。",
+            "D 也错：讲者确实讨论过这条链，只是不能当成个人因果。"
+          ]
+        }
+      ],
+      "recap": "感同身受是同理心；想减轻痛苦才是慈悲。国家排名不等于道德优劣，也不判断个人。"
+    },
+    {
+      "id": "L4-P15",
+      "title": "少数影响：两种一致性",
+      "titleEn": "Minority influence: diachronic and synchronic consistency",
+      "conceptIds": [
+        "L4-C23"
+      ],
+      "kp": "Moscovici 认为少数群体靠行为风格而非人数影响多数。历时一致性（diachronic）是跨时间保持立场；共时一致性（synchronic）是成员之间核心立场一致。这会打断多数规范、吸引注意、显示承诺。",
+      "howTo": "题干讲「多年来、每学期都一样」选 diachronic；讲「成员之间说法一致」选 synchronic。一致性指核心立场稳定，不是人数多，也不是拒绝讨论细节；过度僵硬可能显得不讲理。",
+      "items": [
+        {
+          "stemEn": "A small group of doctors makes the same safety argument at every annual meeting for ten years. Which consistency does this illustrate?",
+          "optionsEn": [
+            "Synchronic consistency",
+            "Diachronic consistency",
+            "Collective efficacy",
+            "Measurement equivalence"
+          ],
+          "answer": 1,
+          "stem": "一小群医生十年来在每次年会上都提出同样的安全论点。这说明哪种一致性？",
+          "options": [
+            "共时一致性（synchronic consistency）",
+            "历时一致性（diachronic consistency）",
+            "集体效能（collective efficacy）",
+            "测量等价（measurement equivalence）"
+          ],
+          "how": [
+            "题干说「十年来」「每次年会」，线索是跨时间保持同一立场。",
+            "跨时间一致就是历时一致性，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "When interviewed separately, all members of a small campaign group state the same core position, so critics cannot say they disagree among themselves. Which consistency is this?",
+          "optionsEn": [
+            "Synchronic consistency",
+            "Diachronic consistency",
+            "Collective efficacy",
+            "Relative deprivation"
+          ],
+          "answer": 0,
+          "stem": "分别接受采访时，一个小型运动团体的所有成员都陈述同样的核心立场，批评者无法说他们内部有分歧。这是哪种一致性？",
+          "options": [
+            "共时一致性（synchronic consistency）",
+            "历时一致性（diachronic consistency）",
+            "集体效能（collective efficacy）",
+            "相对剥夺（relative deprivation）"
+          ],
+          "how": [
+            "题干说「所有成员」陈述「同样的核心立场」，比较的是成员之间。",
+            "成员之间核心立场一致就是共时一致性，所以选 A。",
+            "这种一致也让多数无法用内部分歧来忽略议题。"
+          ]
+        },
+        {
+          "stemEn": "According to Moscovici's genetic model, what is the key to a minority's success?",
+          "optionsEn": [
+            "Becoming the numerical majority as quickly as possible",
+            "Holding high status within the existing institution",
+            "Having laws passed before the debate begins",
+            "Its behavioural style rather than its numbers"
+          ],
+          "answer": 3,
+          "stem": "根据 Moscovici 的发生模型（genetic model），少数群体成功的关键是什么？",
+          "options": [
+            "尽快在人数上成为多数",
+            "在现有机构中拥有高地位",
+            "在辩论开始前先通过法律",
+            "其行为风格，而不是人数"
+          ],
+          "how": [
+            "题干点名「Moscovici」和「成功的关键」，他的主张是影响不只由多数施加。",
+            "成功关键不是人数，而是行为风格，所以选 D。"
+          ]
+        },
+        {
+          "stemEn": "A campaign group refuses to discuss any detail of its proposal, believing that greater rigidity always brings greater influence. What is the best evaluation?",
+          "optionsEn": [
+            "This is correct, because consistency means details can never change",
+            "This is correct, because rigidity is what makes a group a majority",
+            "Consistency means a stable core; too much rigidity may seem unreasonable",
+            "Consistency has no effect on influence at all, so its rigidity does not matter"
+          ],
+          "answer": 2,
+          "stem": "一个运动团体拒绝讨论提案的任何细节，认为越僵硬影响力越大。最好的评价是什么？",
+          "options": [
+            "这是对的，因为一致性意味着细节永远不能改",
+            "这是对的，因为僵硬让一个团体成为多数",
+            "一致性指核心立场清晰稳定；过度僵硬可能显得不讲理",
+            "一致性对影响力完全没有作用，所以僵硬与否无所谓"
+          ],
+          "how": [
+            "题干的关键词是「拒绝讨论」和「越僵硬影响力越大」，把一致等同于僵硬。",
+            "一致指核心立场清晰稳定，过度僵硬反而可能被视为不讲理，所以选 C。"
+          ]
+        }
+      ],
+      "recap": "历时跨时间，共时跨成员。成功靠行为风格，不靠人数；一致不等于僵硬。"
+    },
+    {
+      "id": "L4-P16",
+      "title": "集体行动失败之后",
+      "titleEn": "When collective action fails",
+      "conceptIds": [
+        "L4-C24"
+      ],
+      "kp": "失败可能带来四种后果：倦怠与士气低落、现状延续、信任削弱、策略升级（转向非规范性策略）。这些是可能路径，不是必然：运动也可能休整、重组或在更长时间后成功，非规范性也不等于暴力。",
+      "howTo": "按描述对号：精疲力竭、退出→burnout；不平等继续→status quo；不再相信制度和盟友→trust；合法渠道被视为无效而改用静坐等→escalation。看到「必然导致暴力」就排除。",
+      "items": [
+        {
+          "stemEn": "After a long, failed campaign, many activists feel exhausted and say they will not take part again. Which consequence does this illustrate?",
+          "optionsEn": [
+            "Escalation",
+            "Burnout and demoralisation",
+            "Upholding the status quo",
+            "Active moral inclusion"
+          ],
+          "answer": 1,
+          "stem": "一场漫长的运动失败后，许多活动人士感到精疲力竭，并表示不会再参加。这说明哪种后果？",
+          "options": [
+            "策略升级（escalation）",
+            "倦怠与士气低落（burnout and demoralisation）",
+            "现状延续（upholding the status quo）",
+            "主动道德纳入（active moral inclusion）"
+          ],
+          "how": [
+            "题干说「精疲力竭」「不会再参加」，指向未来参与意愿下降。",
+            "这是倦怠与士气低落，所以选 B。"
+          ]
+        },
+        {
+          "stemEn": "Repeatedly ignored by a university, some members stop believing that the institution or its allies will ever respond. Which consequence is most directly illustrated?",
+          "optionsEn": [
+            "Erosion of trust",
+            "Escalation",
+            "Synchronic consistency",
+            "Relative deprivation"
+          ],
+          "answer": 0,
+          "stem": "多次被大学忽视后，一些成员不再相信该机构或其盟友会作出回应。最直接地说明哪种后果？",
+          "options": [
+            "信任削弱（erosion of trust）",
+            "策略升级（escalation）",
+            "共时一致性（synchronic consistency）",
+            "相对剥夺（relative deprivation）"
+          ],
+          "how": [
+            "题干的关键是「不再相信」机构和盟友。",
+            "对制度和盟友信念下降就是信任削弱，集体效能也难以重建，所以选 A。"
+          ]
+        },
+        {
+          "stemEn": "After lawful appeals keep being rejected, some members of a group begin holding sit-ins. Which description fits best?",
+          "optionsEn": [
+            "A shift to normative action, because appeals were lawful",
+            "Evidence that the group has now become violent",
+            "Proof that collective action can never succeed",
+            "A shift to non-normative but possibly non-violent tactics"
+          ],
+          "answer": 3,
+          "stem": "合法申诉一再被拒后，团体中的一些成员开始静坐。哪项描述最符合？",
+          "options": [
+            "转向规范性行动，因为申诉是合法的",
+            "证明这个团体现在已经变得暴力",
+            "证明集体行动永远不可能成功",
+            "转向非规范性但可能非暴力的策略"
+          ],
+          "how": [
+            "题干说「合法申诉一再被拒」，部分成员「开始静坐」，这是渠道被视为无效后的转变。",
+            "这是策略升级到非规范性手段，静坐可以是非暴力的，所以选 D。",
+            "B 错在把非规范性直接等同于暴力。"
+          ]
+        },
+        {
+          "stemEn": "'When collective action fails, violence inevitably follows.' How should this be evaluated?",
+          "optionsEn": [
+            "Accurate, because every failed movement eventually becomes violent",
+            "Accurate, because all non-normative tactics are violent by definition",
+            "Overclaimed, because tactics may shift and groups may later succeed",
+            "Overclaimed, because failure never has any psychological consequences"
+          ],
+          "answer": 2,
+          "stem": "「集体行动失败后，暴力必然随之而来。」应如何评价这句话？",
+          "options": [
+            "准确，因为每个失败的运动最终都会变得暴力",
+            "准确，因为所有非规范性策略按定义都是暴力的",
+            "过度断言，因为策略可能改变，群体也可能之后成功",
+            "过度断言，因为失败从不产生任何心理后果"
+          ],
+          "how": [
+            "题干用了「必然」，这类绝对说法要特别检查。",
+            "失败可能改变策略，但也可能休整重组或日后成功，所以选 C。",
+            "D 虽也说过度，但理由错：失败确实可能带来倦怠和信任下降。"
+          ]
+        }
+      ],
+      "recap": "失败可能带来倦怠、现状延续、信任下降或策略升级；不必然导致暴力，也不等于永久无效。"
+    }
+  ]
+}
