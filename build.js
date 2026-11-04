@@ -52,9 +52,13 @@ for (const l of lectures) {
 // 边练边学：data/learn/L??.json（可以只有部分讲）
 const learnDir = path.join(root, "data", "learn");
 const learn = fs.existsSync(learnDir) ? fs.readdirSync(learnDir).filter(f => /^L\d\d\.json$/.test(f)).sort().map(f => read("data/learn/" + f)) : [];
+// --only=1,2,3：只校验这几讲的边练边学（分批改写时用）
+const onlyArg = process.argv.find(a => a.startsWith("--only="));
+const onlySet = onlyArg ? new Set(onlyArg.slice(7).split(",").map(Number)) : null;
 const learnNotes = [];
 const pids = new Set();
 for (const L of learn) {
+  if (onlySet && !onlySet.has(L.lectureId)) continue;
   const lec = lectures.find(l => l.id === L.lectureId), tag = "learn L" + L.lectureId;
   if (!lec) { problems.push(tag + " lectureId 不存在"); continue; }
   const cids = new Set(lec.concepts.map(c => c.id)), covered = new Set();
@@ -63,10 +67,14 @@ for (const L of learn) {
     const pt = p.id || "(无 id)";
     if (!new RegExp("^L" + L.lectureId + "-P\\d\\d$").test(p.id || "")) problems.push(`${tag} 考点 id 格式错: ${pt}`);
     if (pids.has(p.id)) problems.push("重复考点 id " + pt); pids.add(p.id);
-    for (const k of ["title", "titleEn", "kp", "howTo", "recap"]) if (typeof p[k] !== "string" || !p[k]) problems.push(`${pt} 缺 ${k}`);
-    if ((p.kp || "").length > 130) problems.push(`${pt} kp 超长 ${p.kp.length}`);
-    if ((p.howTo || "").length > 120) problems.push(`${pt} howTo 超长 ${p.howTo.length}`);
-    if ((p.recap || "").length > 80) problems.push(`${pt} recap 超长 ${p.recap.length}`);
+    for (const k of ["title", "titleEn", "kp", "recap"]) if (typeof p[k] !== "string" || !p[k]) problems.push(`${pt} 缺 ${k}`);
+    if ((p.kp || "").length > 45) problems.push(`${pt} kp 超长 ${p.kp.length}`);
+    if ((p.recap || "").length > 40) problems.push(`${pt} recap 超长 ${p.recap.length}`);
+    if (!Array.isArray(p.rules) || p.rules.length < 1 || p.rules.length > 4) problems.push(`${pt} rules 要 1–4 条`);
+    for (const r of p.rules || []) {
+      if (r.length > 70) problems.push(`${pt} rule 超长 ${r.length}: ${r}`);
+      if (!/^题目(里)?有/.test(r) || !r.includes("就找") || !r.includes("因为")) problems.push(`${pt} rule 要写成「题目有…，就找…；因为…」: ${r}`);
+    }
     if (!Array.isArray(p.conceptIds) || !p.conceptIds.length) problems.push(`${pt} 缺 conceptIds`);
     for (const c of p.conceptIds || []) { if (!cids.has(c)) problems.push(`${pt} 的 conceptId ${c} 不在本讲`); covered.add(c); }
     if (!Array.isArray(p.items) || p.items.length < 3 || p.items.length > 5) problems.push(`${pt} 题数要求 3–5`);
@@ -75,9 +83,14 @@ for (const L of learn) {
       for (const k of ["stemEn", "stem"]) if (typeof q[k] !== "string" || !q[k]) problems.push(`${qt} 缺 ${k}`);
       for (const k of ["optionsEn", "options"]) if (!Array.isArray(q[k]) || q[k].length !== 4 || q[k].some(x => typeof x !== "string" || !x)) problems.push(`${qt} ${k} 需要 4 个非空字符串`);
       if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer > 3) problems.push(`${qt} answer 越界`);
-      if (!Array.isArray(q.how) || q.how.length < 2 || q.how.length > 4) problems.push(`${qt} how 要 2–4 步`);
+      if (!Array.isArray(q.how) || q.how.length < 2 || q.how.length > 3) problems.push(`${qt} how 要 2–3 步`);
+      else {
+        if (!/^题目(里)?有/.test(q.how[0]) || !q.how[0].includes("就找")) problems.push(`${qt} 第一步要写成「题目有…，就找…」: ${q.how[0]}`);
+        for (const m of q.how[0].matchAll(/「([^」]+)」/g)) if (!(q.stem + " " + q.stemEn).toLowerCase().includes(m[1].toLowerCase())) problems.push(`${qt} 第一步引用的「${m[1]}」不在题干里`);
+        if (!q.how[1].includes("因为") || !new RegExp("所以选\\s*" + "ABCD"[q.answer] + "(?![A-Za-z])").test(q.how[1])) problems.push(`${qt} 第二步要写成「因为…，所以选 ${"ABCD"[q.answer]}」: ${q.how[1]}`);
+      }
       for (const h of q.how || []) {
-        if (h.length > 85) problems.push(`${qt} how 某步超长 ${h.length}`);
+        if (h.length > 60) problems.push(`${qt} how 某步超长 ${h.length}`);
         const m = h.match(/(?:所以|因此|故)选\s*([A-D])(?![A-Za-z])/);
         if (m && "ABCD".indexOf(m[1]) !== q.answer) problems.push(`${qt} how 写「选 ${m[1]}」，但答案是 ${"ABCD"[q.answer]}`);
       }
