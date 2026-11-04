@@ -67,13 +67,18 @@ for (const L of learn) {
     const pt = p.id || "(无 id)";
     if (!new RegExp("^L" + L.lectureId + "-P\\d\\d$").test(p.id || "")) problems.push(`${tag} 考点 id 格式错: ${pt}`);
     if (pids.has(p.id)) problems.push("重复考点 id " + pt); pids.add(p.id);
-    for (const k of ["title", "titleEn", "kp", "recap"]) if (typeof p[k] !== "string" || !p[k]) problems.push(`${pt} 缺 ${k}`);
-    if ((p.kp || "").length > 45) problems.push(`${pt} kp 超长 ${p.kp.length}`);
+    for (const k of ["title", "titleEn", "kp", "analogy", "example", "recap"]) if (typeof p[k] !== "string" || !p[k]) problems.push(`${pt} 缺 ${k}`);
+    if ((p.kp || "").length > 65) problems.push(`${pt} kp 超长 ${p.kp.length}`);
+    if ((p.analogy || "").length > 40) problems.push(`${pt} analogy 超长 ${p.analogy.length}`);
+    if (p.analogy && !/^像/.test(p.analogy)) problems.push(`${pt} analogy 要以「像」开头`);
+    if ((p.example || "").length > 60) problems.push(`${pt} example 超长 ${p.example.length}`);
     if ((p.recap || "").length > 40) problems.push(`${pt} recap 超长 ${p.recap.length}`);
+    if (!/[A-Za-z]/.test(p.kp || "")) learnNotes.push(`${pt} kp 没有英文术语`);
+    for (const k of ["kp", "analogy", "example"]) if (/[=→+]/.test(p[k] || "")) problems.push(`${pt} ${k} 含符号串`);
     if (!Array.isArray(p.rules) || p.rules.length < 1 || p.rules.length > 4) problems.push(`${pt} rules 要 1–4 条`);
     for (const r of p.rules || []) {
-      if (r.length > 70) problems.push(`${pt} rule 超长 ${r.length}: ${r}`);
-      if (!/^题目(里)?有/.test(r) || !r.includes("就找") || !r.includes("因为")) problems.push(`${pt} rule 要写成「题目有…，就找…；因为…」: ${r}`);
+      if (r.length > 45) problems.push(`${pt} rule 超长 ${r.length}: ${r}`);
+      if (!/^题目(里)?有.+就?找/.test(r) || /因为/.test(r)) problems.push(`${pt} rule 要写成「题目有…，就找…」，不写因为: ${r}`);
     }
     if (!Array.isArray(p.conceptIds) || !p.conceptIds.length) problems.push(`${pt} 缺 conceptIds`);
     for (const c of p.conceptIds || []) { if (!cids.has(c)) problems.push(`${pt} 的 conceptId ${c} 不在本讲`); covered.add(c); }
