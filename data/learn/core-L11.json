@@ -1,0 +1,21 @@
+{
+  "lectureId": 11,
+  "points": {
+    "L11-P01": {"level": 2, "why": "执行功能定义与反社会性为开场铺垫，练习题未考"},
+    "L11-P02": {"level": 1, "why": "教授练习题 REV-P15；课件自测 P48；STUDY PRIORITY 三种 EF"},
+    "L11-P03": {"level": 2, "why": "STUDY PRIORITY 提任务配对，但切换代价未出题，配额让位"},
+    "L11-P04": {"level": 2, "why": "STUDY PRIORITY 提任务配对，n-back 未出题，老师说例子难举"},
+    "L11-P05": {"level": 1, "why": "REV-P15 正确项即抑制；Stroop 是经典任务，笔记引 B56"},
+    "L11-P06": {"level": 2, "why": "多任务与自动化多为课堂问答，笔记 B68 标为问答补充"},
+    "L11-P07": {"level": 2, "why": "能力与倾向区分笔记标高优先，但衰老、智力属问答补充"},
+    "L11-P08": {"level": 2, "why": "CFQ 题数、SART 为背景，一页速记提及，练习题未直接考"},
+    "L11-P09": {"level": 1, "why": "教授练习题 REV-P16；课件自测 P49；STUDY PRIORITY CFQ 相关方向"},
+    "L11-P10": {"level": 1, "why": "课件自测 P50 与 REV-P17 干扰项考 EFA/CFA、单因子；STUDY PRIORITY"},
+    "L11-P11": {"level": 1, "why": "教授练习题 REV-P17 正确项即增量效度；一页速记 r=.88"},
+    "L11-P12": {"level": 2, "why": "补偿策略、技术外包为课堂问答（T0032/T0035）"},
+    "L11-P13": {"level": 1, "why": "REV-P18 标 L11-C24；课件自测 P51 干扰项「人人风险相同」"},
+    "L11-P14": {"level": 1, "why": "REV-P18、自测 P51 考危险感知；REV-P23 干扰项车辆操控"},
+    "L11-P15": {"level": 1, "why": "教授练习题 REV-P23；REV-P18 车速选择；STUDY PRIORITY style"},
+    "L11-P16": {"level": 1, "why": "自测 P51 正确项 UFOV 预测事故；REV-P18；STUDY PRIORITY UFOV"}
+  }
+}

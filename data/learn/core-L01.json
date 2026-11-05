@@ -1,0 +1,69 @@
+{
+  "lectureId": 1,
+  "points": {
+    "L1-P01": {
+      "level": 1,
+      "why": "教授练习题 REV-S01（L1-C02 定义）；笔记及格优先级 Tier 1"
+    },
+    "L1-P02": {
+      "level": 2,
+      "why": "课程框架铺垫；练习题、Tier 1、PPT 复习题均未提到"
+    },
+    "L1-P03": {
+      "level": 2,
+      "why": "笔记 Tier 2（Triplett 与 social facilitation）；历史开端"
+    },
+    "L1-P04": {
+      "level": 2,
+      "why": "笔记 Tier 2（Galton、Garrett、Bond）；历史背景"
+    },
+    "L1-P05": {
+      "level": 2,
+      "why": "笔记 Tier 2（replication crisis、open science）"
+    },
+    "L1-P06": {
+      "level": 1,
+      "why": "教授练习题 REV-S03（WEIRD）；Tier 1；陷阱「大样本可推广」"
+    },
+    "L1-P07": {
+      "level": 1,
+      "why": "PPT 复习题 Why Sherif important；Tier 1；陷阱「光真的移动」"
+    },
+    "L1-P08": {
+      "level": 1,
+      "why": "PPT 复习题 Why Asch surprising；Tier 1 75/37/63；陷阱"
+    },
+    "L1-P09": {
+      "level": 2,
+      "why": "Tier 1 列出、陷阱「异议者」，但无练习题/复习题，配额让位"
+    },
+    "L1-P10": {
+      "level": 2,
+      "why": "笔记 Tier 2（physical vs social reality testing）"
+    },
+    "L1-P11": {
+      "level": 1,
+      "why": "PPT 复习题 Normative vs Informational；Tier 1；两条陷阱"
+    },
+    "L1-P12": {
+      "level": 2,
+      "why": "笔记 Tier 2（Deutsch & Gerard 实验图）"
+    },
+    "L1-P13": {
+      "level": 1,
+      "why": "教授练习题 REV-S02（Milgram）；Tier 1 65%；老师说实验课再细讨论"
+    },
+    "L1-P14": {
+      "level": 2,
+      "why": "陷阱「Milgram 说明人天生邪恶」；无练习题/复习题，配额让位"
+    },
+    "L1-P15": {
+      "level": 1,
+      "why": "PPT 复习题 Stanford 批评、BBC 差异；Tier 1；两条陷阱"
+    },
+    "L1-P16": {
+      "level": 2,
+      "why": "笔记整理的对照表，无练习题/复习题直接对应"
+    }
+  }
+}

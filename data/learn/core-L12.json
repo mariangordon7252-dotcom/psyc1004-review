@@ -1,0 +1,21 @@
+{
+  "lectureId": 12,
+  "points": {
+    "L12-P01": {"level": 2, "why": "注意类型与广度为开场铺垫，练习题未考"},
+    "L12-P02": {"level": 1, "why": "REV-P19 与课件 P66 三个干扰项全考偏好/能力；B37 标考试易错"},
+    "L12-P03": {"level": 1, "why": "教授练习题 REV-P19 正确项；课件自测 P66"},
+    "L12-P04": {"level": 2, "why": "STUDY PRIORITY 提权衡，但未出题；与 shifting 关联是老师猜测"},
+    "L12-P05": {"level": 1, "why": "课件 P67 正确项；REV-P20 干扰项考总是焦虑、神经质"},
+    "L12-P06": {"level": 1, "why": "课件 P67 正确项维度 vs GAD；REV-P20 干扰项社交焦虑"},
+    "L12-P07": {"level": 1, "why": "课件 P68 正确项即解释偏向；STUDY PRIORITY vigilance–avoidance"},
+    "L12-P08": {"level": 1, "why": "课件 P68；老师明说留意 effectiveness 与 efficiency 之别"},
+    "L12-P09": {"level": 2, "why": "能力低 vs 状态占用为课堂问答候选解释（T0035）"},
+    "L12-P10": {"level": 1, "why": "教授练习题 REV-P20 正确项；课件 P68 干扰项自评方向"},
+    "L12-P11": {"level": 2, "why": "内在/外在只作课件 P69 干扰项，四方向未出题"},
+    "L12-P12": {"level": 1, "why": "教授练习题 REV-P21 正确项注意部署；STUDY PRIORITY Gross 五阶段"},
+    "L12-P13": {"level": 2, "why": "重评相关结果只作 REV-P21、P69 干扰项，超出配额"},
+    "L12-P14": {"level": 1, "why": "课件 P69 正确项倾向可改变；STUDY PRIORITY 使用倾向与能力"},
+    "L12-P15": {"level": 2, "why": "设计与外推边界多为课堂问答（T0101），未出题"},
+    "L12-P16": {"level": 1, "why": "教授练习题 REV-P22；课件 P70；STUDY PRIORITY IU/CE/AE/NA"}
+  }
+}

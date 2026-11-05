@@ -1,0 +1,21 @@
+{
+  "lectureId": 10,
+  "points": {
+    "L10-P01": {"level": 1, "why": "教授练习题 REV-P09；课件自测 1；STUDY PRIORITY 人格×情境"},
+    "L10-P02": {"level": 2, "why": "老师举考场测外向例子，属情境选择铺垫，练习题未考"},
+    "L10-P03": {"level": 1, "why": "教授练习题 REV-P10；课件自测 2 心理病态特征"},
+    "L10-P04": {"level": 1, "why": "教授练习题 REV-P24；STUDY PRIORITY 情感与认知共情"},
+    "L10-P05": {"level": 2, "why": "再犯倍数、CEO 多为课堂问答与轶事，笔记标明不是证据"},
+    "L10-P06": {"level": 2, "why": "练习题 REV-P11 干扰项涉及杏仁核与惊跳；老师更支持瓶颈解释"},
+    "L10-P07": {"level": 1, "why": "教授练习题 REV-P11；STUDY PRIORITY 注意瓶颈证据"},
+    "L10-P08": {"level": 1, "why": "课件自测 3 正确项即中性干扰物加工减少；笔记 ACCURACY 标重要"},
+    "L10-P09": {"level": 2, "why": "PCL 条目与施测要求，STUDY PRIORITY 只提量表适配，未出题"},
+    "L10-P10": {"level": 2, "why": "原版 LSRP 两因素只在课件自测 4 干扰项出现"},
+    "L10-P11": {"level": 1, "why": "教授练习题 REV-P12；课件自测 4；STUDY PRIORITY 三因素 LSRP"},
+    "L10-P12": {"level": 1, "why": "STUDY PRIORITY TPM 三因素；REV-P12 与自测 4 干扰项考 TPM"},
+    "L10-P13": {"level": 2, "why": "STUDY PRIORITY 提 APD 区别，但只作 REV-P12 干扰项，超出配额"},
+    "L10-P14": {"level": 1, "why": "教授练习题 REV-P13；课件自测 5；STUDY PRIORITY 单次行为难分动机"},
+    "L10-P15": {"level": 1, "why": "教授练习题 REV-P14；课件自测 6；STUDY PRIORITY Batson 逃离实验"},
+    "L10-P16": {"level": 2, "why": "自我概念清晰度等为末页补充，feeling for/with 属课堂问答"}
+  }
+}

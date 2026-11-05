@@ -1,0 +1,69 @@
+{
+  "lectureId": 2,
+  "points": {
+    "L2-P01": {
+      "level": 2,
+      "why": "基础定义；陷阱「三者完全相同」，但无练习题/复习题"
+    },
+    "L2-P02": {
+      "level": 1,
+      "why": "PPT 复习题 Why Sherif camp important；经典研究；陷阱「一起玩」"
+    },
+    "L2-P03": {
+      "level": 2,
+      "why": "超级目标并入 Sherif 夏令营复习题，单独无标记"
+    },
+    "L2-P04": {
+      "level": 1,
+      "why": "教授练习题 REV-S05（RCT 干旱供水）；复习题 What is RCT"
+    },
+    "L2-P05": {
+      "level": 1,
+      "why": "教授练习题 REV-S09（心理动力学）；复习题 F-A 局限；两条陷阱"
+    },
+    "L2-P06": {
+      "level": 1,
+      "why": "复习题两道（Authoritarian、RWA）；陷阱「RWA 固定」；老师课堂长谈"
+    },
+    "L2-P07": {
+      "level": 2,
+      "why": "复习题 Cognitive approach；陷阱「只有坏人」；配额让位"
+    },
+    "L2-P08": {
+      "level": 1,
+      "why": "复习题 Tajfel & Wilkes；经典研究（8 条线、极端化/同质化）"
+    },
+    "L2-P09": {
+      "level": 1,
+      "why": "教授练习题 REV-S04（最小群体）；复习题；陷阱「需真实竞争」"
+    },
+    "L2-P10": {
+      "level": 2,
+      "why": "陷阱「去个人化」；老师强调认同重要，但无复习题直接对应"
+    },
+    "L2-P11": {
+      "level": 2,
+      "why": "复习题 Main explanation；S04/S09 引用总对照，但内容已由各点覆盖"
+    },
+    "L2-P12": {
+      "level": 1,
+      "why": "复习题 Contact optimal conditions；陷阱「接触一定减少」；-0.21"
+    },
+    "L2-P13": {
+      "level": 2,
+      "why": "陷阱「因果」；老师补充（Barlow），非复习题"
+    },
+    "L2-P14": {
+      "level": 2,
+      "why": "课程内容，练习题、复习题、陷阱均未提到"
+    },
+    "L2-P15": {
+      "level": 2,
+      "why": "复习题 How identity reduce prejudice；两条陷阱；配额让位"
+    },
+    "L2-P16": {
+      "level": 2,
+      "why": "老师结尾强调结构；陷阱「只改态度」；无复习题"
+    }
+  }
+}

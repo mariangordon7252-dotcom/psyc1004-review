@@ -1,0 +1,69 @@
+{
+  "lectureId": 8,
+  "points": {
+    "L8-P01": {
+      "level": 2,
+      "why": "课堂衔接内容；ACCURACY 提醒样本报告率；练习题和 STUDY PRIORITY 没点名"
+    },
+    "L8-P02": {
+      "level": 2,
+      "why": "易误记列表提分母与 peak/median；自测题 1；但不在 STUDY PRIORITY"
+    },
+    "L8-P03": {
+      "level": 1,
+      "why": "最容易混淆：风险行为 vs 寻求刺激；练习题 D10 来源引风险选择；自测题 2、3"
+    },
+    "L8-P04": {
+      "level": 1,
+      "why": "教授练习题 D10（情绪情境下的双系统）；STUDY PRIORITY 双系统"
+    },
+    "L8-P05": {
+      "level": 1,
+      "why": "老师原话：只需知道激活可能性和执行功能分化的大趋势；STUDY PRIORITY"
+    },
+    "L8-P06": {
+      "level": 1,
+      "why": "STUDY PRIORITY peer influence 两种情境；自测题 7"
+    },
+    "L8-P07": {
+      "level": 2,
+      "why": "一句话带走 School environment；不在 STUDY PRIORITY"
+    },
+    "L8-P08": {
+      "level": 1,
+      "why": "STUDY PRIORITY 身份五维；最容易混淆：广度 vs 深度探索；自测题 8、9"
+    },
+    "L8-P09": {
+      "level": 2,
+      "why": "课程内容；一句话带走 Identity 只提双循环；练习题没考"
+    },
+    "L8-P10": {
+      "level": 1,
+      "why": "STUDY PRIORITY state/trait；最容易混淆中介 vs 调节；自测 10"
+    },
+    "L8-P11": {
+      "level": 2,
+      "why": "自测题 11、ACCURACY 提醒；但练习题和 STUDY PRIORITY 没点名"
+    },
+    "L8-P12": {
+      "level": 1,
+      "why": "教授练习题 D11（算法推荐与过滤气泡）；自测题 12"
+    },
+    "L8-P13": {
+      "level": 2,
+      "why": "方法论补充（横断/纵向）；一句话带走只提成年相对稳定"
+    },
+    "L8-P14": {
+      "level": 1,
+      "why": "STUDY PRIORITY fluid/crystallised；最容易混淆；自测题 14–16"
+    },
+    "L8-P15": {
+      "level": 1,
+      "why": "STUDY PRIORITY perceived future time；一句话带走；自测题 17"
+    },
+    "L8-P16": {
+      "level": 2,
+      "why": "文字稿在此中途结束，内容主要来自课件；自测题 18；不在 STUDY PRIORITY"
+    }
+  }
+}

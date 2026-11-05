@@ -1,0 +1,69 @@
+{
+  "lectureId": 9,
+  "points": {
+    "L9-P01": {
+      "level": 2,
+      "why": "练习题 P01 选项 A 涉及人格可变，但主考 C10；Revision 页没单独问定义"
+    },
+    "L9-P02": {
+      "level": 1,
+      "why": "教授练习题 P02（非大五维度）；Revision 44；Test yourself 50"
+    },
+    "L9-P03": {
+      "level": 1,
+      "why": "教授练习题 P04（尽责性）；Revision slide 44 每个维度反映什么"
+    },
+    "L9-P04": {
+      "level": 1,
+      "why": "教授练习题 P03（开放性）、P05（外向性）；Test yourself 51"
+    },
+    "L9-P05": {
+      "level": 1,
+      "why": "教授练习题 P01（大五有证据、颅相/墨迹无）；Test yourself 49"
+    },
+    "L9-P06": {
+      "level": 1,
+      "why": "教授练习题 P06（防御机制）；Revision 46；Test yourself 52"
+    },
+    "L9-P07": {
+      "level": 2,
+      "why": "课程内容（Cattell 16、Eysenck 3）；练习题和 Revision 页都没点名"
+    },
+    "L9-P08": {
+      "level": 2,
+      "why": "课程内容；五大理论之一，但练习题和 Revision 页都没点名"
+    },
+    "L9-P09": {
+      "level": 1,
+      "why": "教授练习题 P07（价值条件）；Revision 46；Test yourself 53"
+    },
+    "L9-P10": {
+      "level": 2,
+      "why": "课件只有层次图一页；练习题和 Revision 页都没点名"
+    },
+    "L9-P11": {
+      "level": 1,
+      "why": "教授练习题 P08（观察学习）；Test yourself 54"
+    },
+    "L9-P12": {
+      "level": 2,
+      "why": "课程内容；Revision 46 问的是掌握经验→自我效能来源（P13）"
+    },
+    "L9-P13": {
+      "level": 1,
+      "why": "Revision slide 46：用 mastery experiences 培养自我效能属哪派"
+    },
+    "L9-P14": {
+      "level": 2,
+      "why": "课程内容；Revision 47 问的是类比研究替代分组（P15）"
+    },
+    "L9-P15": {
+      "level": 1,
+      "why": "Revision slide 47：GAD 分组之外用维度/类比研究；课堂答对"
+    },
+    "L9-P16": {
+      "level": 3,
+      "why": "课堂问答延伸：经验取样、HEXACO、Dark Triad 不在课件"
+    }
+  }
+}

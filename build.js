@@ -104,6 +104,25 @@ for (const L of learn) {
   const miss = lec.concepts.filter(c => !covered.has(c.id)).map(c => c.id);
   if (miss.length) learnNotes.push(`${tag}: ${miss.length} 个知识点没有对应考点: ${miss.join(", ")}`);
 }
+// 核心考点等级：data/learn/core-L??.json → 合并进考点的 level / why
+const coreMap = {};
+for (const f of (fs.existsSync(learnDir) ? fs.readdirSync(learnDir).filter(f => /^core-L\d\d\.json$/.test(f)).sort() : [])) {
+  const c = read("data/learn/" + f);
+  if (onlySet && !onlySet.has(c.lectureId)) continue;
+  for (const [id, v] of Object.entries(c.points || {})) {
+    if (![1, 2, 3].includes(v.level)) problems.push(`${f}: ${id} level 要 1/2/3`);
+    if (typeof v.why !== "string" || !v.why || v.why.length > 50) problems.push(`${f}: ${id} why 缺或超过 50 字`);
+    if (!pids.has(id)) problems.push(`${f}: 考点 ${id} 不存在`);
+    coreMap[id] = v;
+  }
+}
+for (const L of learn) {
+  if (onlySet && !onlySet.has(L.lectureId)) continue;
+  const miss = []; let n1 = 0;
+  for (const p of L.points) { const v = coreMap[p.id]; if (!v) { miss.push(p.id); continue; } p.level = v.level; p.why = v.why; if (v.level === 1) n1++; }
+  if (miss.length) learnNotes.push(`learn L${L.lectureId}: ${miss.length} 个考点没有核心等级`);
+  else { const lim = L.lectureId <= 4 ? [5, 7] : [6, 9]; if (n1 < lim[0] || n1 > lim[1]) learnNotes.push(`learn L${L.lectureId}: 核心考点 ${n1} 个，建议 ${lim[0]}–${lim[1]}`); }
+}
 if (problems.length) { console.error("校验失败：\n  " + problems.slice(0, 60).join("\n  ")); process.exit(1); }
 learnNotes.forEach(s => console.log("提醒 " + s));
 if (process.argv.includes("--check")) { console.log(`校验通过：${lectures.length} 讲，边练边学 ${learn.length} 讲`); process.exit(0); }
@@ -121,5 +140,5 @@ for (const l of lectures) {
   const by = {}; for (const q of l.questions) by[q.origin] = (by[q.origin] || 0) + 1;
   console.log(`L${l.id}: ${l.concepts.length} 知识点, ${l.questions.length} 题 ${JSON.stringify(by)}`);
 }
-for (const L of learn) console.log(`边练边学 L${L.lectureId}: ${L.points.length} 考点, ${L.points.reduce((n, p) => n + p.items.length, 0)} 题`);
+for (const L of learn) console.log(`边练边学 L${L.lectureId}: ${L.points.length} 考点（核心 ${L.points.filter(p => p.level === 1).length}）, ${L.points.reduce((n, p) => n + p.items.length, 0)} 题`);
 console.log(`OK: ${lectures.length} 讲, ${(Buffer.byteLength(page) / 1024).toFixed(0)} KB`);
